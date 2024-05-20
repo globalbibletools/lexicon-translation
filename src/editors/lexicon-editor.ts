@@ -30,31 +30,37 @@ export class LexiconEditorProvider implements CustomTextEditorProvider {
         webviewPanel: WebviewPanel,
         _token: CancellationToken
     ): Promise<void> {
-        // const fs = workspace.fs;
-        // const pathToHtml = Uri.file(
-        //     path.join(
-        //         this.context.extensionPath,
-        //         "editor-content",
-        //         "lexicon",
-        //         "main.html"
-        //     )
-        // );
+        const fs = workspace.fs;
+        const pathToHtml = Uri.file(
+            path.join(
+                this.context.extensionPath,
+                "src",
+                'editors',
+                "lexicon-editor",
+                "lexicon-editor.html"
+            )
+        );
+        console.log('PATH:', pathToHtml);
 
         webviewPanel.webview.options = { enableScripts: true };
 
-        webviewPanel.webview.html = '<h1>LEXICON EDITOR</h1>';
+        webviewPanel.webview.html = '<h1>loading...</h1>';
 
-        // fs.readFile(pathToHtml).then((data) => {
-        //     webviewPanel.webview.html = data.toString();
-        // });
+        fs.readFile(pathToHtml).then((data) => {
+            console.log('LOADED FILE');
+            webviewPanel.webview.html = data.toString();
+        });
 
-        // const updateContent = (content: string) =>
-        //     webviewPanel.webview.postMessage({
-        //         command: "contentChanged",
-        //         content,
-        //     });
+        const updateContent = (content: string) =>
+            {
+                // TODO: parse XML
+                return webviewPanel.webview.postMessage({
+                    command: "contentChanged",
+                    content,
+                });
+            };
 
-        // updateContent(document.getText());
+        updateContent(document.getText());
 
         // webviewPanel.webview.onDidReceiveMessage((message) => {
         //     console.log("MESSAGE:", message);
@@ -74,11 +80,11 @@ export class LexiconEditorProvider implements CustomTextEditorProvider {
         //     }
         // });
 
-        // workspace.onDidChangeTextDocument((event) => {
-        //     if (event.document.uri.toString() !== document.uri.toString()) {
-        //         return;
-        //     }
-        //     updateContent(event.document.getText());
-        // });
+        workspace.onDidChangeTextDocument((event) => {
+            if (event.document.uri.toString() !== document.uri.toString()) {
+                return;
+            }
+            updateContent(event.document.getText());
+        });
     }
 }
