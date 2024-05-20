@@ -17,6 +17,17 @@
         "command": "lexicon-translation.helloWorld",
         "title": "Hello World"
       }
+    ],
+    "customEditors": [
+        {
+            "viewType": "lexicon-translation.lexicon-editor",
+            "displayName": "Lexicon Editor",
+            "selector": [
+                {
+                    "filenamePattern": "*.xml"
+                }
+            ]
+        }
     ]
   },
   "scripts": {
