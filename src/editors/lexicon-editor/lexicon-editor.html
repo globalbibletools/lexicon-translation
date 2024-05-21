@@ -15,17 +15,18 @@
         <script>
             const vscode = acquireVsCodeApi();
 
+            // TODO: use Vue to display content instead of directly access DOM.
             const content = document.getElementById("content");
 
             content.textContent = 'LOADED';
-            
+
             // Handle the message inside the webview
             window.addEventListener("message", (event) => {
                 const message = event.data; // The JSON data our extension sent
                 console.log(message);
                 switch (message.command) {
                     case "contentChanged":
-                        content.textContent = message.content;
+                        content.textContent = JSON.stringify(message.content,null,2);
                         break;
                 }
             });

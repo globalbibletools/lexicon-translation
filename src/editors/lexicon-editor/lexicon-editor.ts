@@ -10,6 +10,7 @@ import {
   workspace,
 } from "vscode";
 import path from "path";
+import { XMLParser } from "fast-xml-parser";
 
 export class LexiconEditorProvider implements CustomTextEditorProvider {
   public static register(context: ExtensionContext): Disposable {
@@ -46,32 +47,29 @@ export class LexiconEditorProvider implements CustomTextEditorProvider {
 
     webviewPanel.webview.html = "<h1>loading...</h1>";
 
-
-    const updateContent = (content: string) => {
-        console.log('NEW CONTENT:', content);
-      // TODO: parse XML
+    const updateContent = (xmlContent: string) => {
+      const parser = new XMLParser();
+      const content = parser.parse(xmlContent);
       return webviewPanel.webview.postMessage({
         command: "contentChanged",
         content,
       });
     };
 
-    
     fs.readFile(pathToHtml).then((data) => {
-        console.log("LOADED FILE");
-        webviewPanel.webview.html = data.toString();
-  
-        
+      console.log("LOADED FILE");
+      webviewPanel.webview.html = data.toString();
+
       updateContent(document.getText());
-      });
+    });
 
     webviewPanel.webview.onDidReceiveMessage((message) => {
-        console.log("MESSAGE:", message);
-        switch (message.type) {
-            case "test":
-                updateContent("You pressed test");
-                break;
-        }
+      console.log("MESSAGE:", message);
+      switch (message.type) {
+        case "test":
+          updateContent("You pressed test");
+          break;
+      }
     });
 
     workspace.onDidChangeTextDocument((event) => {
