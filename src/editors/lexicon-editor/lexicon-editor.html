@@ -17,6 +17,8 @@
 
             const content = document.getElementById("content");
 
+            content.textContent = 'LOADED';
+            
             // Handle the message inside the webview
             window.addEventListener("message", (event) => {
                 const message = event.data; // The JSON data our extension sent
@@ -24,9 +26,6 @@
                 switch (message.command) {
                     case "contentChanged":
                         content.textContent = message.content;
-                        break;
-                    case "uris":
-                        content.textContent = message.uris;
                         break;
                 }
             });

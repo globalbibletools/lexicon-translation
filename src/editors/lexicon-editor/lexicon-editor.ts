@@ -46,12 +46,9 @@ export class LexiconEditorProvider implements CustomTextEditorProvider {
 
     webviewPanel.webview.html = "<h1>loading...</h1>";
 
-    fs.readFile(pathToHtml).then((data) => {
-      console.log("LOADED FILE");
-      webviewPanel.webview.html = data.toString();
-    });
 
     const updateContent = (content: string) => {
+        console.log('NEW CONTENT:', content);
       // TODO: parse XML
       return webviewPanel.webview.postMessage({
         command: "contentChanged",
@@ -59,25 +56,23 @@ export class LexiconEditorProvider implements CustomTextEditorProvider {
       });
     };
 
-    updateContent(document.getText());
+    
+    fs.readFile(pathToHtml).then((data) => {
+        console.log("LOADED FILE");
+        webviewPanel.webview.html = data.toString();
+  
+        
+      updateContent(document.getText());
+      });
 
-    // webviewPanel.webview.onDidReceiveMessage((message) => {
-    //     console.log("MESSAGE:", message);
-    //     switch (message.type) {
-    //         case "test":
-    //             updateContent("You pressed test");
-    //             break;
-    //         case "listFiles":
-    //             const uris = workspace.textDocuments.map((t) =>
-    //                 t.uri.toString()
-    //             );
-    //             webviewPanel.webview.postMessage({
-    //                 command: "uris",
-    //                 uris,
-    //             });
-    //             break;
-    //     }
-    // });
+    webviewPanel.webview.onDidReceiveMessage((message) => {
+        console.log("MESSAGE:", message);
+        switch (message.type) {
+            case "test":
+                updateContent("You pressed test");
+                break;
+        }
+    });
 
     workspace.onDidChangeTextDocument((event) => {
       if (event.document.uri.toString() !== document.uri.toString()) {
