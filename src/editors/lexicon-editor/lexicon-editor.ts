@@ -44,8 +44,10 @@ export class LexiconEditorProvider implements CustomTextEditorProvider {
     console.log("PATH:", pathToHtml);
 
     webviewPanel.webview.options = { enableScripts: true };
-
     webviewPanel.webview.html = "<h1>loading...</h1>";
+    fs.readFile(pathToHtml).then((data) => {
+      webviewPanel.webview.html = data.toString();
+    });
 
     const updateContent = (xmlContent: string) => {
       const parser = new XMLParser();
@@ -56,18 +58,11 @@ export class LexiconEditorProvider implements CustomTextEditorProvider {
       });
     };
 
-    fs.readFile(pathToHtml).then((data) => {
-      console.log("LOADED FILE");
-      webviewPanel.webview.html = data.toString();
-
-      updateContent(document.getText());
-    });
-
     webviewPanel.webview.onDidReceiveMessage((message) => {
       console.log("MESSAGE:", message);
       switch (message.type) {
-        case "test":
-          updateContent("You pressed test");
+        case "getContent":
+          updateContent(document.getText());
           break;
       }
     });

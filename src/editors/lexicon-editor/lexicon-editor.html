@@ -1,39 +1,45 @@
 <!DOCTYPE html>
 <html lang="en">
-    <head>
-        <meta charset="UTF-8" />
-        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-        <style>
-            /* Put styles here */
-        </style>
-        <title>Lexicon Editor</title>
-    </head>
-    <body>
-        <h1>Lexicon Editor</h1>
-        <pre id="content">CONTENT</pre>
-        <button id="test">Test</button>
-        <script>
-            const vscode = acquireVsCodeApi();
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <style>
+      [v-cloak] {
+        display: none;
+      }
+    </style>
+    <title>Lexicon Editor</title>
+  </head>
+  <body>
+    <h1>Lexicon Editor</h1>
+    <div id="content" v-cloak>
+      <div>VUE LOADED!</div>
+      <nested-editor content="content"></nested-editor>
+      <pre>{{content}}</pre>
+    </div>
+    <script type="module">
+      import { createApp } from "https://unpkg.com/vue@3.3.11/dist/vue.esm-browser.prod.js";
+      const vscode = acquireVsCodeApi();
 
-            // TODO: use Vue to display content instead of directly access DOM.
-            const content = document.getElementById("content");
+      createApp({
+        data() {
+          return { content: {} };
+        },
+        mounted() {
+          window.addEventListener("message", (event) => {
+            const message = event.data; // The JSON data our extension sent
+            console.log(message);
+            switch (message.command) {
+              case "contentChanged":
+                this.content = message.content;
+                break;
+            }
+          });
+          vscode.postMessage({ type: "getContent" });
+        },
+      }).mount("#content");
 
-            content.textContent = 'LOADED';
-
-            // Handle the message inside the webview
-            window.addEventListener("message", (event) => {
-                const message = event.data; // The JSON data our extension sent
-                console.log(message);
-                switch (message.command) {
-                    case "contentChanged":
-                        content.textContent = JSON.stringify(message.content,null,2);
-                        break;
-                }
-            });
-
-            document.getElementById("test").onclick = () => {
-                vscode.postMessage({ type: "test" });
-            };
-        </script>
-    </body>
+      // TODO: define custom element `nested-editor`
+    </script>
+  </body>
 </html>
