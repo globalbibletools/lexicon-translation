@@ -13,12 +13,14 @@
   <body>
     <h1>Lexicon Editor</h1>
     <div id="content" v-cloak>
-      <div>VUE LOADED!</div>
-      <nested-editor content="content"></nested-editor>
+      <nested-editor title="Root" :content="content"></nested-editor>
       <pre>{{content}}</pre>
     </div>
     <script type="module">
-      import { createApp } from "https://unpkg.com/vue@3.3.11/dist/vue.esm-browser.prod.js";
+      import {
+        createApp,
+        defineCustomElement,
+      } from "https://unpkg.com/vue@3.3.11/dist/vue.esm-browser.prod.js";
       const vscode = acquireVsCodeApi();
 
       createApp({
@@ -40,6 +42,76 @@
       }).mount("#content");
 
       // TODO: define custom element `nested-editor`
+      const NestedEditorElement = defineCustomElement({
+        props: ["title", "content"],
+        emits: {},
+        template: `
+<div>
+    <div v-if="contentType == 'string'">
+        <label>{{title}}</label>
+        <input v-model="content" />
+    </div>
+    <template v-else>
+        <span>{{title}}</span>
+        <div class="indented">
+            <nested-editor v-for="child of children" :title="child.title" :content="child.content"></nested-editor>
+            <!-- TODO: for arrays, show an "add item" button -->
+            <!-- TODO: for objects, show an "add entry" button -->
+        </div>
+    </template>
+</div>
+`,
+        styles: [`
+.indented {
+padding-left: 20px;
+}
+input {
+    background: transparent;
+    color: white;
+    padding: 4px;
+    border: 1px solid white;
+    border-radius: 4px;
+}
+`,
+        ],
+        data() {},
+        computed: {
+          contentType() {
+            if (Array.isArray(this.content)) {
+              return "array";
+            } else if (this.content == "null") {
+              return "null";
+            }
+            return typeof this.content;
+          },
+          children() {
+            switch (this.contentType) {
+              case "array":
+                return this.content.map((item, i) => ({
+                  title: `#${i + 1}`,
+                  content: item,
+                }));
+              case "object":
+                return Object.keys(this.content).map((key) => ({
+                  title: key,
+                  content: this.content[key],
+                }));
+              default:
+                return [];
+            }
+          },
+        },
+        setup() {
+          console.log("SETUP NESTED EDITOR!");
+        },
+        mounted() {
+          console.log("MOUNTED NESTED EDITOR!");
+          console.log(this.content);
+        },
+        methods: {},
+      });
+
+      customElements.define("nested-editor", NestedEditorElement);
     </script>
   </body>
 </html>
