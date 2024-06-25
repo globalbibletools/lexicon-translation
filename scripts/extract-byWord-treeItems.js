@@ -103,16 +103,21 @@ let language;
 let languageCode;
 let l1Count;
 let outputFile;
+let diacriticsRegex;
 if (jsonFilePath.toLowerCase().includes("hebrew")) {
   language = "Hebrew";
   languageCode = "H"; // Added to the key to indicate Hebrew
   l1Count = 1; // Hebrew is first item in the tree
   outputFile = "treeViewHebrewWordData.json";
+  // Regular expression to match Hebrew vowel points (nikkud)
+  diacriticsRegex = /[\u0591-\u05C7]/g;
 } else if (jsonFilePath.toLowerCase().includes("greek")) {
   language = "Greek";
   languageCode = "G"; // Added to the key to indicate Greek
   l1Count = 2; // Greek is the second item in the tree
   outputFile = "treeViewGreekWordData.json";
+  // Regular expression to match Greek diacritics
+  diacriticsRegex = /[\u0300-\u034E\u1F00-\u1FFE]/g;
 } else {
   console.error(
     "FATAL ERROR: \nInvalid file name. Language could not be determined.\n Must contain either 'Hebrew' or 'Greek' in the file name."
@@ -139,13 +144,14 @@ fs.readFile(jsonFilePath, { encoding: "utf8" }, (err, data) => {
     let l4count = 0;
     let fileName = "";
     let lemma = "";
+    let pureLemma = ""; // Lemma without diacritics
     let alphaPos = "";
     let prevAlphaBetaPos = "";
     let alphaBetaPos = ""; // This is the first 2 characters of the lemma field
 
     // Lets build the first level which simply contains the word "Hebrew" or "Greek"
     key = _nextKey(level, parentKey, l1Count);
-    resultMap.set(levelKey, {
+    resultMap.set(key, {
       level: 1,
       key: key,
       label: language,
@@ -157,11 +163,8 @@ fs.readFile(jsonFilePath, { encoding: "utf8" }, (err, data) => {
       // lets get data from the entry
       fileName = entry.MainId.slice(0, 6);
       lemma = entry.Lemma;
-      if (languageCode === "H") {
-        alphaBetaPos = lemma.slice(-2);
-      } else {
-        alphaBetaPos = lemma.slice(0, 2);
-      }
+      pureLemma = lemma.replace(diacriticsRegex, "");
+      alphaBetaPos = _slice(language, pureLemma);
 
       // Level 2 occurs when there is change in the AlphaPos field
       if (entry.AlphaPos !== alphaPos) {
@@ -270,15 +273,35 @@ function _nextKey(level, parentKey, levelCount) {
 function _parentKey(level, key) {
   switch (level) {
     case 2:
-      return key.slice(3, 5);
+      return key.slice(2, 5);
     case 3:
-      return key.slice(3, 8);
+      return key.slice(2, 8);
     case 4:
-      return key.slice(3, 11);
+      return key.slice(2, 11);
     default:
       console.error(
         `FATAL ERROR: \nCould not determine value of parentKey from parameters level: ${level} and key: ${key}`
       );
       exit(1);
   }
+}
+
+function _slice(language, string) {
+  // Create a segmenter configured for grapheme clusters
+  const languageCode = language === "Hebrew" ? "he" : "el";
+  const segmenter = new Intl.Segmenter(languageCode, {
+    granularity: "grapheme",
+  });
+
+  // Use the segmenter to split the string into grapheme clusters
+  const segments = [...segmenter.segment(string)].map(
+    (segment) => segment.segment
+  );
+
+  // Get the appropriate two grapheme clusters
+  const alphaBetaPos =
+    language === "Hebrew"
+      ? segments.slice(-2).join("")
+      : segments.slice(0, 2).join("");
+  return alphaBetaPos;
 }
