@@ -127,7 +127,7 @@ if (jsonFilePath.toLowerCase().includes("hebrew")) {
   l1Count = 2; // Greek is the second item in the tree
   outputFile = "treeViewGreekWordData.json";
   // Regular expression to match Greek diacritics
-  diacriticsRegex = /[\u0300-\u034E\u1F00-\u1FFE]/g;
+  diacriticsRegex = /\p{Mn}+/gu;
 } else {
   console.error(
     "FATAL ERROR: \nInvalid file name. Language could not be determined.\n Must contain either 'Hebrew' or 'Greek' in the file name."
@@ -154,28 +154,52 @@ fs.readFile(jsonFilePath, { encoding: "utf8" }, (err, data) => {
     let lemma = "";
     let pureLemma = ""; // Lemma without diacritics
     let alphaPos = "";
-    let prevAlphaBetaPos = "";
+    let prevAlphaPos = "";
     let alphaBetaPos = ""; // This is the first 2 characters of the lemma field
+    let prevAlphaBetaPos = "";
+    let processedCount = 0;
+    let totalEntries = entries.length;
 
     // Lets build the first level which simply contains the word "Hebrew" or "Greek"
     key = _nextKey(level, parentKey, l1Count);
     _storeTreeItem(level, key, language, "");
 
+    console.log(
+      `Processing file: ${path.basename(
+        jsonFilePath
+      )} with ${totalEntries} entries.`
+    );
+
     // Let's build the rest of the tree (Level's 2 to 4) by detecting when we change from one level to another
     entries.forEach((entry) => {
       // lets get data from the entry
+
       fileName = entry.MainId.slice(0, 6);
       lemma = entry.Lemma;
-      pureLemma = lemma.replace(diacriticsRegex, "");
-      alphaBetaPos = _slice(language, pureLemma);
+      alphaBetaPos = _slice(language, lemma);
 
+      // Get first character of AlphaPos field
+      // We need to add this code here because some of the Greek entries have a alphaPos field
+      // that contains 2 characters
+      if (language === "Greek") {
+        alphaPos = entry.AlphaPos.toLowerCase()
+          .normalize("NFD") // normalize to decomposed form
+          .replace(diacriticsRegex, "") // separate diacritics from characters
+          .slice(0, 1); // get the first character
+      } else {
+        alphaPos = entry.AlphaPos;
+      }
       // Level 2 occurs when there is change in the AlphaPos field
-      if (entry.AlphaPos !== alphaPos) {
+      // if (entry.AlphaPos !== alphaPos) {
+      if (prevAlphaPos !== alphaPos) {
         level = 2;
         l2Count++;
+        l3Count = 0;
+        l4count = 0;
 
         // Store level 2 treeItem
-        alphaPos = entry.AlphaPos;
+        // alphaPos = entry.AlphaPos;
+        prevAlphaPos = alphaPos;
         parentKey = _parentKey(level, key);
         key = _nextKey(level, parentKey, l2Count);
         _storeTreeItem(level, key, alphaPos, "");
@@ -195,10 +219,11 @@ fs.readFile(jsonFilePath, { encoding: "utf8" }, (err, data) => {
         key = _nextKey(level, parentKey, l4count);
         _storeTreeItem(level, key, lemma, fileName);
 
-        // See if there is a change in the AlphaBetaPos field to indicate a new level 3 item
+        // A new level 3 starts where there is a change in the AlphaBetaPos
       } else if (prevAlphaBetaPos !== alphaBetaPos) {
         level = 3;
         l3Count++;
+        l4count = 0;
         parentKey = _parentKey(level, key);
         key = _nextKey(level, parentKey, l3Count);
         _storeTreeItem(level, key, alphaBetaPos, "");
@@ -211,7 +236,7 @@ fs.readFile(jsonFilePath, { encoding: "utf8" }, (err, data) => {
         key = _nextKey(level, parentKey, l4count);
         _storeTreeItem(level, key, lemma, fileName);
       } else {
-        // store level 4 treeItem
+        // Only a A new level 4 treeItem is required
         level = 4;
         l4count++;
         parentKey = _parentKey(level, key);
@@ -223,7 +248,7 @@ fs.readFile(jsonFilePath, { encoding: "utf8" }, (err, data) => {
     // Convert map to array of objects for output
     const outputArray = Array.from(resultMap.values());
 
-    // Write the result to a file or console.log
+    // Write the result to a file
     fs.writeFile(outputPath, JSON.stringify(outputArray, null, 2), (err) => {
       if (err) {
         console.error("Error writing the output file:", err);
@@ -258,22 +283,33 @@ function _parentKey(level, key) {
 }
 
 function _slice(language, string) {
+  let pureLemma;
+  let languageCode;
+  if (language === "Hebrew") {
+    languageCode = "he";
+    // Remove Hebrew vowel points (nikkud)
+    pureLemma = string.replace(diacriticsRegex, "");
+  } else {
+    languageCode = "el";
+    // Greek proper names are captialized, so we need to convert to lowercase for the slice to work properly
+    pureLemma = string
+      .toLowerCase()
+      .normalize("NFD") // separate diacritics from characters
+      .replace(diacriticsRegex, ""); // remove diacritics
+  }
+
   // Create a segmenter configured for grapheme clusters
-  const languageCode = language === "Hebrew" ? "he" : "el";
   const segmenter = new Intl.Segmenter(languageCode, {
     granularity: "grapheme",
   });
 
   // Use the segmenter to split the string into grapheme clusters
-  const segments = [...segmenter.segment(string)].map(
+  const segments = [...segmenter.segment(pureLemma)].map(
     (segment) => segment.segment
   );
 
-  // Get the appropriate two grapheme clusters
-  const alphaBetaPos =
-    language === "Hebrew"
-      ? segments.slice(-2).join("") + "..."
-      : segments.slice(0, 2).join("") + "...";
+  // Get the first two grapheme clusters
+  const alphaBetaPos = segments.slice(0, 2).join("") + "...";
   return alphaBetaPos;
 }
 
