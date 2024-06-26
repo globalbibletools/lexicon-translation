@@ -176,19 +176,12 @@ fs.readFile(jsonFilePath, { encoding: "utf8" }, (err, data) => {
 
       fileName = entry.MainId.slice(0, 6);
       lemma = entry.Lemma;
-      alphaBetaPos = _slice(language, lemma);
-
+      alphaBetaPos = _slice(language, lemma); // Get the first 2 characters of the lemma field
       // Get first character of AlphaPos field
       // We need to add this code here because some of the Greek entries have a alphaPos field
       // that contains 2 characters
-      if (language === "Greek") {
-        alphaPos = entry.AlphaPos.toLowerCase()
-          .normalize("NFD") // normalize to decomposed form
-          .replace(diacriticsRegex, "") // separate diacritics from characters
-          .slice(0, 1); // get the first character
-      } else {
-        alphaPos = entry.AlphaPos;
-      }
+      alphaPos = entry.AlphaPos.slice(0, 1);
+
       // Level 2 occurs when there is change in the AlphaPos field
       // if (entry.AlphaPos !== alphaPos) {
       if (prevAlphaPos !== alphaPos) {
