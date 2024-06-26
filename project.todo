@@ -4,15 +4,14 @@ app:
         ✔ Initialize git repository @done(24-06-22 11:17)
         ✔ Scaffold Application @done(24-06-22 11:17)
     Investigation:
-        ☐ Investigate extract-ubs-dictionary-entries.js
+        ✔ Investigate extract-ubs-dictionary-entries.js @done(24-06-26 14:51)
     Design:
-        ☐ Hebrew json data model
-        ☐ Greek json data model
-        ☐ extract-hebrew-treeitems.js
-        ☐ extract-greek-treeitmes.js 
+        ✔ Hebrew json data model @done(24-06-26 14:52)
+        ✔ Greek json data model @done(24-06-26 14:52)
+        ✔ extract-byWord-treeItems.js @done(24-06-26 14:52)
         ☐ TreeView module
     Coding:
-        ☐ extract-treeitems.js
+        ✔ extract-treeitems.js @done(24-06-26 14:52)
         ☐ update package.json
         ☐ TreeView module
         ☐ update src/extension.ts
