@@ -145,7 +145,6 @@ fs.readFile(jsonFilePath, { encoding: "utf8" }, (err, data) => {
   try {
     const entries = JSON.parse(data);
     let level = 1;
-    let parentKey = "";
     let key = "";
     let l2Count = 0;
     let l3Count = 0;
@@ -159,7 +158,8 @@ fs.readFile(jsonFilePath, { encoding: "utf8" }, (err, data) => {
     let totalEntries = entries.length;
 
     // Lets build the first level which simply contains the word "Hebrew" or "Greek"
-    key = _nextKey(level, parentKey, l1Count);
+    // key = _nextKey(level, parentKey, l1Count);
+    key = _nextKey(level, key, l1Count);
     _storeTreeItem(level, key, language, "");
 
     console.log(
@@ -187,48 +187,41 @@ fs.readFile(jsonFilePath, { encoding: "utf8" }, (err, data) => {
         l2Count++;
 
         // Store level 2 treeItem
-        // alphaPos = entry.AlphaPos;
         prevAlphaPos = alphaPos;
-        parentKey = _parentKey(level, key);
-        key = _nextKey(level, parentKey, l2Count);
+        key = _nextKey(level, key, l2Count);
         _storeTreeItem(level, key, alphaPos, "");
 
         // store level 3 treeItem
         level = 3;
         l3Count = 1;
-        parentKey = _parentKey(level, key);
-        key = _nextKey(level, parentKey, l3Count);
+        key = _nextKey(level, key, l3Count);
         _storeTreeItem(level, key, alphaBetaPos, "");
         prevAlphaBetaPos = alphaBetaPos;
 
         // store level 4 treeItem
         level = 4;
         l4count = 1;
-        parentKey = _parentKey(level, key);
-        key = _nextKey(level, parentKey, l4count);
+        key = _nextKey(level, key, l4count);
         _storeTreeItem(level, key, lemma, fileName);
 
         // A new level 3 starts where there is a change in the AlphaBetaPos
       } else if (prevAlphaBetaPos !== alphaBetaPos) {
         level = 3;
         l3Count++;
-        parentKey = _parentKey(level, key);
-        key = _nextKey(level, parentKey, l3Count);
+        key = _nextKey(level, key, l3Count);
         _storeTreeItem(level, key, alphaBetaPos, "");
         prevAlphaBetaPos = alphaBetaPos;
 
         // store level 4 treeItem
         level = 4;
         l4count = 1;
-        parentKey = _parentKey(level, key);
-        key = _nextKey(level, parentKey, l4count);
+        key = _nextKey(level, key, l4count);
         _storeTreeItem(level, key, lemma, fileName);
       } else {
         // Only a new level 4 treeItem is required
         level = 4;
         l4count++;
-        parentKey = _parentKey(level, key);
-        key = _nextKey(level, parentKey, l4count);
+        key = _nextKey(level, key, l4count);
         _storeTreeItem(level, key, lemma, fileName);
       }
     });
@@ -249,13 +242,17 @@ fs.readFile(jsonFilePath, { encoding: "utf8" }, (err, data) => {
   }
 });
 
-function _nextKey(level, parentKey, levelCount) {
+// function _nextKey(level, parentKey, levelCount) {
+function _nextKey(level, key, levelCount) {
+  const parentKey = _parentKey(level, key);
   const paddedLevelCount = levelCount.toString().padStart(3, "0");
   return `${level}${languageCode}${parentKey}${paddedLevelCount}`;
 }
 
 function _parentKey(level, key) {
   switch (level) {
+    case 1:
+      return "";
     case 2:
       return key.slice(2, 5);
     case 3:
