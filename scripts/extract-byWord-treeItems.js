@@ -152,12 +152,10 @@ fs.readFile(jsonFilePath, { encoding: "utf8" }, (err, data) => {
     let l4count = 0;
     let fileName = "";
     let lemma = "";
-    let pureLemma = ""; // Lemma without diacritics
     let alphaPos = "";
     let prevAlphaPos = "";
     let alphaBetaPos = ""; // This is the first 2 characters of the lemma field
     let prevAlphaBetaPos = "";
-    let processedCount = 0;
     let totalEntries = entries.length;
 
     // Lets build the first level which simply contains the word "Hebrew" or "Greek"
@@ -187,8 +185,6 @@ fs.readFile(jsonFilePath, { encoding: "utf8" }, (err, data) => {
       if (prevAlphaPos !== alphaPos) {
         level = 2;
         l2Count++;
-        l3Count = 0;
-        l4count = 0;
 
         // Store level 2 treeItem
         // alphaPos = entry.AlphaPos;
@@ -199,7 +195,7 @@ fs.readFile(jsonFilePath, { encoding: "utf8" }, (err, data) => {
 
         // store level 3 treeItem
         level = 3;
-        l3Count++;
+        l3Count = 1;
         parentKey = _parentKey(level, key);
         key = _nextKey(level, parentKey, l3Count);
         _storeTreeItem(level, key, alphaBetaPos, "");
@@ -207,7 +203,7 @@ fs.readFile(jsonFilePath, { encoding: "utf8" }, (err, data) => {
 
         // store level 4 treeItem
         level = 4;
-        l4count++;
+        l4count = 1;
         parentKey = _parentKey(level, key);
         key = _nextKey(level, parentKey, l4count);
         _storeTreeItem(level, key, lemma, fileName);
@@ -216,7 +212,6 @@ fs.readFile(jsonFilePath, { encoding: "utf8" }, (err, data) => {
       } else if (prevAlphaBetaPos !== alphaBetaPos) {
         level = 3;
         l3Count++;
-        l4count = 0;
         parentKey = _parentKey(level, key);
         key = _nextKey(level, parentKey, l3Count);
         _storeTreeItem(level, key, alphaBetaPos, "");
@@ -224,12 +219,12 @@ fs.readFile(jsonFilePath, { encoding: "utf8" }, (err, data) => {
 
         // store level 4 treeItem
         level = 4;
-        l4count++;
+        l4count = 1;
         parentKey = _parentKey(level, key);
         key = _nextKey(level, parentKey, l4count);
         _storeTreeItem(level, key, lemma, fileName);
       } else {
-        // Only a A new level 4 treeItem is required
+        // Only a new level 4 treeItem is required
         level = 4;
         l4count++;
         parentKey = _parentKey(level, key);
