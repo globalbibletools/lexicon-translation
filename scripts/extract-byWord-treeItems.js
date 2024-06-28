@@ -23,13 +23,13 @@
 // The data extracted will be used to create a JSON file with format as follows:
 // [
 //   {
-//     level: Number,
+//     level: number,
 //     key: string,
 //     label: string,
 //     fileName: string,
 //   },
 //   {
-//     level: Number,
+//     level: number,
 //     key: string,
 //     label: string,
 //     fileName: string,

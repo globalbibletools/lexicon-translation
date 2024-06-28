@@ -3,7 +3,7 @@
   "displayName": "Lexicon Translation",
   "description": "Add Tree View Explorer for word",
   "version": "0.0.1",
-  "type": "module",
+  "type": "commonjs",
   "engines": {
     "vscode": "^1.90.0"
   },
@@ -13,6 +13,14 @@
   "activationEvents": [],
   "main": "./dist/extension.js",
   "contributes": {
+    "views": {
+      "explorer": [
+        {
+          "id": "treeView-word",
+          "name": "Find by Word"
+        }
+      ]
+    },
     "commands": [
       {
         "command": "lexicon-translation.helloWorld",
