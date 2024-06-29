@@ -9,17 +9,14 @@ import * as path from "path";
 import * as fs from "fs";
 
 // Define global constants
-// Assuming you want to use the first workspace folder if multiple are opened
-const workspaceFolder = vscode.workspace.workspaceFolders
-  ? vscode.workspace.workspaceFolders[0].uri.fsPath
-  : "";
-
-const jsonFilePath: string = `${workspaceFolder}/data/local/`;
-const wordFilePath: string = `${workspaceFolder}/data/eng/`;
+const jsonFilePath: string = `./data/local/`;
+const wordFilePath: string = `./data/eng/`;
 const wordExtension: string = ".XML";
-export class WordTreeDataProvider implements vscode.TreeDataProvider<Entry> {
-  constructor(private context: vscode.ExtensionContext) {}
-
+export class LemmaTreeDataProvider implements vscode.TreeDataProvider<Entry> {
+  constructor(private context: vscode.ExtensionContext) {
+    Entry.entriesMap.clear();
+    Entry.initialize(context);
+  }
   getTreeItem(element: Entry): vscode.TreeItem {
     return element;
   }
@@ -57,16 +54,41 @@ export class Entry extends vscode.TreeItem {
     super(label, collapsibleState);
     this.tooltip = `${this.label}`;
   }
-  public static async initialize() {
-    const hebrewDataPath = path.join(jsonFilePath, "treeViewHebrewData.json");
-    const greekDataPath = path.join(jsonFilePath, "treeViewGreekData.json");
+  public static async initialize(context: vscode.ExtensionContext) {
+    const fs = vscode.workspace.fs;
+    const hebrewDataPath = vscode.Uri.file(
+      path.join(
+        context.extensionPath,
+        "data",
+        "local",
+        "treeViewHebrewData.json"
+      )
+    );
+    const greekDataPath = vscode.Uri.file(
+      path.join(
+        context.extensionPath,
+        "data",
+        "local",
+        "treeViewGreekData.json"
+      )
+    );
+    console.log("hebrewDataPath:", hebrewDataPath);
+    console.log("greekDataPath:", greekDataPath);
+
     await this.readAndProcessFile(hebrewDataPath, "hebrew");
     await this.readAndProcessFile(greekDataPath, "greek");
   }
 
-  private static async readAndProcessFile(filePath: string, language: string) {
+  private static async readAndProcessFile(
+    filePath: vscode.Uri,
+    language: string
+  ) {
     try {
-      const data = JSON.parse(await fs.promises.readFile(filePath, "utf8"));
+      const fileContentUint8Array = await vscode.workspace.fs.readFile(
+        filePath
+      );
+      const fileContent = Buffer.from(fileContentUint8Array).toString("utf8");
+      const data = JSON.parse(fileContent);
       for (const item of data) {
         const collapsibleState =
           item.level < 4

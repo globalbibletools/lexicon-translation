@@ -1,7 +1,7 @@
 {
   "name": "lexicon-translation",
   "displayName": "Lexicon Translation",
-  "description": "Add Tree View Explorer for word",
+  "description": "Tree View Explorer by lemma",
   "version": "0.0.1",
   "type": "commonjs",
   "engines": {
@@ -16,7 +16,7 @@
     "views": {
       "explorer": [
         {
-          "id": "lexicon-translation.treeView-word",
+          "id": "lexicon-translation.treeView-lemma",
           "name": "Find by Lemma"
         }
       ]

@@ -1,7 +1,7 @@
 // The module 'vscode' contains the VS Code extensibility API
 // Import the module and reference it with the alias vscode in your code below
 import * as vscode from "vscode";
-import { WordTreeDataProvider, Entry } from "./lemmaTreeView.js";
+import { LemmaTreeDataProvider, Entry } from "./treeViewLemma.js";
 
 // This method is called when your extension is activated
 // Your extension is activated the very first time the command is executed
@@ -12,30 +12,12 @@ export function activate(context: vscode.ExtensionContext) {
     'Congratulations, your extension "lexicon-translation" is now active!'
   );
 
-  // Initialize the data for the tree view
-  Entry.initialize()
-    .then(() => {
-      console.log("Initialization successful");
-      // Create an instance of the WordTreeDataProvider
-      const wordTreeDataProvider = new WordTreeDataProvider(context);
-
-      // Register the tree data provider with VS Code
-      // This is necessary if you have defined a view in your package.json and want to associate this data provider with it
-      vscode.window.registerTreeDataProvider(
-        "treeView-word",
-        wordTreeDataProvider
-      );
-
-      // Optionally, create a TreeView instance programmatically if needed for additional control
-      // This step might be redundant if you only need to register the data provider for a view defined in package.json
-      vscode.window.createTreeView("treeView-word", {
-        treeDataProvider: wordTreeDataProvider,
-      });
-    })
-    .catch((error) => {
-      console.error("Initialization failed:", error);
-      // Handle initialization error
-    });
+  // Register the TreeDataProvider
+  const lemmaTreeDataProvider = new LemmaTreeDataProvider(context);
+  vscode.window.registerTreeDataProvider(
+    "treeView-lemma",
+    lemmaTreeDataProvider
+  );
 
   // The command has been defined in the package.json file
   // Now provide the implementation of the command with registerCommand
