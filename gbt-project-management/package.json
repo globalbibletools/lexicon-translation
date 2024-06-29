@@ -14,8 +14,8 @@
   "contributes": {
     "commands": [
       {
-        "command": "gbt-project-management.helloWorld",
-        "title": "Hello World"
+        "command": "gbt-project-management.createNewProject",
+        "title": "GBT: Create New Project"
       }
     ]
   },
