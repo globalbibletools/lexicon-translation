@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="006965000000000" Lemma="שְׂבָכָה" Version="4" HasAramaic="false" InLXX="false" AlphaPos="ש">
+  <StrongCodes>
+    <Strong>H7638</Strong>
+    <Strong>H7639</Strong>
+  </StrongCodes>
+  <Authors>
+    <Author>Reinier de Blois</Author>
+  </Authors>
+  <Contributors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes>
+    <Note Caller="1" LanguageCode="en" LastEdited="" LastEditedBy="">
+      <References>
+        <Reference>01100702000038</Reference>
+      </References>
+      <Content>MT-K שׂבכה | MT-Q שְׂבָכָה</Content>
+    </Note>
+  </Notes>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="006965001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>nsf</PartOfSpeech>
+      </PartsOfSpeech>
+      <RelatedLemmas>
+        <RelatedLemma>
+          <Word>שֹׂובֶךְ</Word>
+        </RelatedLemma>
+      </RelatedLemmas>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="006965001001000" IsBiblicalTerm="Y" EntryCode="" Indent="0">
+          <LEXDomains>
+            <LEXDomain Code="001005001" Source="Shape" SourceCode="002001001048">Constructions</LEXDomain>
+          </LEXDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2017-08-09 11:41:54" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>= a structure or pattern consisting of narrow strips crossing each other with spaces left between</DefinitionShort>
+              <Glosses>
+                <Gloss>lattice</Gloss>
+                <Gloss>latticework</Gloss>
+                <Gloss>network</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>01100701700002</LEXReference>
+            <LEXReference>01100701700006</LEXReference>
+            <LEXReference>01100701800024</LEXReference>
+            <LEXReference>01100702000038{N:001}</LEXReference>
+            <LEXReference>01100702000042</LEXReference>
+            <LEXReference>01100704100030</LEXReference>
+            <LEXReference>01100704200020</LEXReference>
+            <LEXReference>01100704200032</LEXReference>
+            <LEXReference>01200100200012</LEXReference>
+            <LEXReference>01202501700042</LEXReference>
+            <LEXReference>01202501700082</LEXReference>
+            <LEXReference>01400401200032</LEXReference>
+            <LEXReference>01400401300020</LEXReference>
+            <LEXReference>01400401300032</LEXReference>
+            <LEXReference>02405202200028</LEXReference>
+            <LEXReference>02405202300030</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+        <LEXMeaning Id="006965001002000" IsBiblicalTerm="Y" EntryCode="" Indent="0">
+          <LEXDomains>
+            <LEXDomain Code="001004001018" Source="Shape" SourceCode="002001001048">Traps</LEXDomain>
+          </LEXDomains>
+          <LEXSynonyms>
+            <LEXSynonym>חֶבֶל</LEXSynonym>
+            <LEXSynonym>מַלְכֹּדֶת</LEXSynonym>
+            <LEXSynonym>פַּח</LEXSynonym>
+            <LEXSynonym>צַמִּים</LEXSynonym>
+            <LEXSynonym>רֶשֶׁת</LEXSynonym>
+          </LEXSynonyms>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2017-08-09 11:41:54" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>= network of branches and twigs which covers and hides a hole or pit; ► used for catching animals; ≈ associated with aggression and control</DefinitionShort>
+              <Glosses>
+                <Gloss>pitfall</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>01801800800018</LEXReference>
+          </LEXReferences>
+          <LEXLinks>
+            <LEXLink>Realia:1.4.1</LEXLink>
+          </LEXLinks>
+          <LEXVideos/>
+          <LEXCoreDomains>
+            <LEXCoreDomain Code="040">Control</LEXCoreDomain>
+            <LEXCoreDomain Code="084">Hunting and Fishing</LEXCoreDomain>
+            <LEXCoreDomain Code="010">Animal</LEXCoreDomain>
+          </LEXCoreDomains>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

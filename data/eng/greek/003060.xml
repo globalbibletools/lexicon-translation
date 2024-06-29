@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="003060000000000" Lemma="λιμήν" Version="0" HasAramaic="false" InLXX="true" AlphaPos="λ">
+  <StrongCodes>
+    <Strong>G3040</Strong>
+  </StrongCodes>
+  <Authors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes/>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="003060001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>noun, m.</PartOfSpeech>
+      </PartsOfSpeech>
+      <Inflections>
+        <Inflection Lemma="λιμήν" BaseFormIndex="1">
+          <Form/>
+          <Realizations>
+            <Realization>-ένος</Realization>
+          </Realizations>
+          <Comments/>
+        </Inflection>
+      </Inflections>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="003060001001000" IsBiblicalTerm="Y" EntryCode="1.75" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Geographical Objects and Features</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Bodies of Water</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-11-09 11:00:13" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>a relatively small area of the sea which is well protected by land but deep enough for ships to enter and moor</DefinitionShort>
+              <Glosses>
+                <Gloss>harbor</Gloss>
+              </Glosses>
+              <Comments>λιμήν may be rendered in some languages by a descriptive phrase, ‘a place where ships are safe from the storm’ or ‘a place where ships are never damaged’ or ‘a place where ships may stay.’ In {S:04402701200042} it is difficult to know whether the reference of λιμήν is to the harbor as a convenient place for the ships to stay during the winter, or to the port (that is to say, the town at the harbor) as a convenient place for people to stay during the winter. Some languages make a clear distinction between the area where ships stay and where people may stay waiting to continue their voyage.</Comments>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04402701200008</LEXReference>
+            <LEXReference>04402701200042</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

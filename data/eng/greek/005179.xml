@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="005179000000000" Lemma="ὑποστολή" Version="0" HasAramaic="false" InLXX="false" AlphaPos="υ">
+  <StrongCodes>
+    <Strong>G5289</Strong>
+  </StrongCodes>
+  <Authors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes/>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="005179001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>noun, f.</PartOfSpeech>
+      </PartsOfSpeech>
+      <Inflections>
+        <Inflection Lemma="ὑποστολή" BaseFormIndex="1">
+          <Form/>
+          <Realizations>
+            <Realization>-ῆς</Realization>
+          </Realizations>
+          <Comments/>
+        </Inflection>
+      </Inflections>
+      <RelatedLemmas>
+        <RelatedLemma>
+          <Word>στέλλομαι</Word>
+        </RelatedLemma>
+      </RelatedLemmas>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="005179001001000" IsBiblicalTerm="Y" EntryCode="68.53" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Aspect</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Cease, Stop</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2022-05-05 08:38:04" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>to cease doing something of presumed positive value because of adverse circumstances or fear</DefinitionShort>
+              <Glosses>
+                <Gloss>to cease</Gloss>
+                <Gloss>to stop</Gloss>
+                <Gloss>to give up doing</Gloss>
+              </Glosses>
+              <Comments>In {S:05801003900010} ὑποστολῆς serves as an aspect of an implied πίστις, which occurs in {S:05801003800012}.</Comments>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>05801003900010</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

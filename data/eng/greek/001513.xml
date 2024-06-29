@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="001513000000000" Lemma="εἶδος" Version="0" HasAramaic="false" InLXX="true" AlphaPos="ε">
+  <StrongCodes>
+    <Strong>G1491</Strong>
+  </StrongCodes>
+  <Authors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes>
+    <Note Caller="1" LanguageCode="en" LastEdited="" LastEditedBy="">
+      <References/>
+      <Content>As in the case of other so-called semantic primitives, there seems to be no reason for setting up an artificial kind of definition, since the corresponding glosses serve quite satisfactorily to indicate the semantic content.</Content>
+    </Note>
+  </Notes>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="001513001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>noun, n.</PartOfSpeech>
+      </PartsOfSpeech>
+      <Inflections>
+        <Inflection Lemma="εἶδος" BaseFormIndex="1">
+          <Form/>
+          <Realizations>
+            <Realization>-ους</Realization>
+          </Realizations>
+          <Comments/>
+        </Inflection>
+      </Inflections>
+      <RelatedLemmas>
+        <RelatedLemma>
+          <Word>γραώδης</Word>
+        </RelatedLemma>
+        <RelatedLemma>
+          <Word>εἰδέα</Word>
+        </RelatedLemma>
+        <RelatedLemma>
+          <Word>εἰδωλεῖον</Word>
+        </RelatedLemma>
+        <RelatedLemma>
+          <Word>εἰδωλόθυτον</Word>
+        </RelatedLemma>
+        <RelatedLemma>
+          <Word>εἰδωλολάτρης</Word>
+        </RelatedLemma>
+        <RelatedLemma>
+          <Word>εἰδωλολατρία</Word>
+        </RelatedLemma>
+        <RelatedLemma>
+          <Word>εἴδωλον</Word>
+        </RelatedLemma>
+        <RelatedLemma>
+          <Word>κατείδωλος</Word>
+        </RelatedLemma>
+        <RelatedLemma>
+          <Word>συνείδησις</Word>
+        </RelatedLemma>
+      </RelatedLemmas>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="001513001001000" IsBiblicalTerm="Y" EntryCode="58.14" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Nature, Class, Example</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Appearance as an Outward Manifestation of Form</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-10-26 21:08:58" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>appearance as the form of that which is seen</DefinitionShort>
+              <Glosses>
+                <Gloss>form</Gloss>
+                <Gloss>appearance</Gloss>
+              </Glosses>
+              <Comments>One may also translate this expression in {S:04200902900016} as ‘while he was praying, his face became different’ or ‘… his face was seen as different’ or ‘… he didn’t look the same.’</Comments>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04200302200016</LEXReference>
+            <LEXReference>04200902900016</LEXReference>
+            <LEXReference>04300503700032</LEXReference>
+            <LEXReference>05200502200006</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+        <LEXMeaning Id="001513001002000" IsBiblicalTerm="Y" EntryCode="24.1" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Sensory Events and States</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>See</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-10-26 21:08:58" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>seeing{N:001}</DefinitionShort>
+              <Glosses>
+                <Gloss>sight</Gloss>
+                <Gloss>seeing</Gloss>
+              </Glosses>
+              <Comments>It is also possible to interpret εἶδος in {S:04700500700014} as meaning ‘what is seen’ (see {D:24.2}).</Comments>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04200902900016</LEXReference>
+            <LEXReference>04700500700014</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="006862000000000" Lemma="רְעוּת" Version="4" HasAramaic="false" InLXX="false" AlphaPos="ר">
+  <StrongCodes>
+    <Strong>H7468</Strong>
+    <Strong>H7469</Strong>
+  </StrongCodes>
+  <Authors>
+    <Author>Reinier de Blois</Author>
+  </Authors>
+  <Contributors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes/>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="006862001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>nsf</PartOfSpeech>
+      </PartsOfSpeech>
+      <RelatedLemmas>
+        <RelatedLemma>
+          <Word>רעה</Word>
+        </RelatedLemma>
+      </RelatedLemmas>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="006862001001000" IsBiblicalTerm="Y" EntryCode="" Indent="0">
+          <LEXDomains>
+            <LEXDomain Code="002003003012" Source="Engage" SourceCode="002003003010">Fail</LEXDomain>
+          </LEXDomains>
+          <LEXForms>
+            <LEXForm>vbqal-</LEXForm>
+          </LEXForms>
+          <LEXCollocations>
+            <LEXCollocation>רְעוּת רוּחַ</LEXCollocation>
+          </LEXCollocations>
+          <LEXSynonyms>
+            <LEXSynonym>הֶבֶל</LEXSynonym>
+          </LEXSynonyms>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2022-05-17 20:07:26" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>literally: striving after wind; hence: = action by which humans are actively looking to be engaged in activities that serve no purpose</DefinitionShort>
+              <Glosses>
+                <Gloss>to pursue</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>02100101400034</LEXReference>
+            <LEXReference>02100201100048</LEXReference>
+            <LEXReference>02100201700042</LEXReference>
+            <LEXReference>02100202600074</LEXReference>
+            <LEXReference>02100400400046</LEXReference>
+            <LEXReference>02100400600020</LEXReference>
+            <LEXReference>02100600900022</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+          <LEXCoreDomains>
+            <LEXCoreDomain Code="173">Success and Failure</LEXCoreDomain>
+          </LEXCoreDomains>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+    <BaseForm Id="006862002000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>nsf</PartOfSpeech>
+      </PartsOfSpeech>
+      <RelatedLemmas>
+        <RelatedLemma>
+          <Word>רעה</Word>
+        </RelatedLemma>
+      </RelatedLemmas>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="006862002001000" IsBiblicalTerm="Y" EntryCode="" Indent="0">
+          <LEXDomains>
+            <LEXDomain Code="001001002003003">Friends</LEXDomain>
+          </LEXDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2006-02-23 16:49:19" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>= female person with whom someone has some level of association, for example, by geography, social or ethnic grouping, personal connection, or temporary circumstance</DefinitionShort>
+              <Glosses>
+                <Gloss>(female) friend</Gloss>
+                <Gloss>neighbor</Gloss>
+                <Gloss>companion</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>00201100200034</LEXReference>
+            <LEXReference>01700101900074</LEXReference>
+            <LEXReference>02303401500034</LEXReference>
+            <LEXReference>02303401600028</LEXReference>
+            <LEXReference>02400901900034</LEXReference>
+            <LEXReference>03801100900040</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

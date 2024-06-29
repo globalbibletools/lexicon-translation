@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="004066000000000" Lemma="ποιητής" Version="0" HasAramaic="false" InLXX="true" AlphaPos="π">
+  <StrongCodes>
+    <Strong>G4163</Strong>
+  </StrongCodes>
+  <Authors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes/>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="004066001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>noun, m.</PartOfSpeech>
+      </PartsOfSpeech>
+      <Inflections>
+        <Inflection Lemma="ποιητής" BaseFormIndex="1">
+          <Form/>
+          <Realizations>
+            <Realization>-οῦ</Realization>
+          </Realizations>
+          <Comments/>
+        </Inflection>
+      </Inflections>
+      <RelatedLemmas>
+        <RelatedLemma>
+          <Word>ποιέω</Word>
+        </RelatedLemma>
+      </RelatedLemmas>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="004066001001000" IsBiblicalTerm="Y" EntryCode="42.20" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Perform, Do</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Do, Perform</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2023-04-25 15:06:12" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>(derivative of {L:ποιέω&lt;SDBG:ποιέω:000001&gt;}[b] ‘to do,’ {D:42.7}) one who does</DefinitionShort>
+              <Glosses>
+                <Gloss>doer</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04500201300024</LEXReference>
+            <LEXReference>05900102200006</LEXReference>
+            <LEXReference>05900102300018</LEXReference>
+            <LEXReference>05900102500034</LEXReference>
+            <LEXReference>05900401100048</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+        <LEXMeaning Id="004066001002000" IsBiblicalTerm="Y" EntryCode="33.25" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Communication</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Discourse Types</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2023-04-25 15:06:12" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>one who produces literary texts, normally in poetic form</DefinitionShort>
+              <Glosses>
+                <Gloss>poet</Gloss>
+                <Gloss>writer</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04401702800030</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

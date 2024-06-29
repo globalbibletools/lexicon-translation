@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="003452000000000" Lemma="νομοθετέω" Version="0" HasAramaic="false" InLXX="true" AlphaPos="ν">
+  <StrongCodes>
+    <Strong>G3549</Strong>
+  </StrongCodes>
+  <Authors/>
+  <AlternateLemmas>
+    <AlternateLemma>νομοθετέομαι</AlternateLemma>
+  </AlternateLemmas>
+  <MainLinks/>
+  <Notes/>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="003452001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>verb</PartOfSpeech>
+      </PartsOfSpeech>
+      <Constructs>
+        <Construct Lemma="νομοθετέω" BaseFormIndex="1">
+          <WordMeaningSet>
+            <Word>νομίζω</Word>
+          </WordMeaningSet>
+          <WordMeaningSet>
+            <Word>τίθημι</Word>
+          </WordMeaningSet>
+        </Construct>
+      </Constructs>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="003452001001000" IsBiblicalTerm="Y" EntryCode="33.339" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Communication</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Law, Regulation, Ordinance</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-12-21 11:05:23" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>to give or to establish a law</DefinitionShort>
+              <Glosses>
+                <Gloss>to enact a law</Gloss>
+                <Gloss>to give a law</Gloss>
+              </Glosses>
+              <Comments>Though in English it is normal to speak of ‘giving a law,’ such an expression can be entirely misleading, since in some languages ‘to give a law’ can mean ‘to annul a law’ in the sense of giving back to people a rule or regulation. A more frequent expression for ‘giving a law’ may be ‘commanding a law’ or ‘ordering a law.’</Comments>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>05800701100030</LEXReference>
+            <LEXReference>05800800600032</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

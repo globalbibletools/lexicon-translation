@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="003058000000000" Lemma="λιθόστρωτος" Version="0" HasAramaic="false" InLXX="true" AlphaPos="λ">
+  <StrongCodes>
+    <Strong>G3038</Strong>
+  </StrongCodes>
+  <Authors/>
+  <AlternateLemmas>
+    <AlternateLemma>λιθόστρωτον</AlternateLemma>
+  </AlternateLemmas>
+  <MainLinks/>
+  <Notes/>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="003058001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>adjc.</PartOfSpeech>
+      </PartsOfSpeech>
+      <Constructs>
+        <Construct Lemma="λιθόστρωτος" BaseFormIndex="1">
+          <WordMeaningSet>
+            <Word>λιθάζω</Word>
+          </WordMeaningSet>
+          <WordMeaningSet>
+            <Word>στρώννυμι</Word>
+          </WordMeaningSet>
+        </Construct>
+      </Constructs>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="003058001001000" IsBiblicalTerm="Y" EntryCode="7.71" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Constructions</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Miscellaneous Constructions</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-11-09 10:58:03" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>an area in Jerusalem, paved with flat blocks of stone and forming a kind of courtyard (not a thoroughfare)</DefinitionShort>
+              <Glosses>
+                <Gloss>The Stone Pavement</Gloss>
+              </Glosses>
+              <Comments>In some languages one may describe ‘The Stone Pavement’ as ‘a court covered with large blocks of flat stone’ or ‘a stone-paved courtyard.’ See {D:93.437}.</Comments>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04301901300038</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

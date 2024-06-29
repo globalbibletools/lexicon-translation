@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="000346000000000" Lemma="ἀνακάμπτω" Version="0" HasAramaic="false" InLXX="true" AlphaPos="α">
+  <StrongCodes>
+    <Strong>G0344</Strong>
+  </StrongCodes>
+  <Authors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes>
+    <Note Caller="1" LanguageCode="en" LastEdited="" LastEditedBy="">
+      <References>
+        <Reference>06100202100027</Reference>
+      </References>
+      <Content>In {S:06100202100026} ἀνακάμπτω occurs in an apparatus variant in a figurative sense of returning to a previous state with regard to divine revelation.</Content>
+    </Note>
+    <Note Caller="2" LanguageCode="en" LastEdited="" LastEditedBy="">
+      <References>
+        <Reference>06100202100027</Reference>
+      </References>
+      <Content>The substitution of ἀνακάμπτω for ὑποστρέφω in certain manuscripts of {S:06100202100026} would indicate clearly how closely these terms seem to be related in meaning. Any distinctions of meaning which they may have had would evidently be connotative.</Content>
+    </Note>
+  </Notes>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="000346001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>verb</PartOfSpeech>
+      </PartsOfSpeech>
+      <RelatedLemmas>
+        <RelatedLemma>
+          <Word>κάμπτω</Word>
+        </RelatedLemma>
+      </RelatedLemmas>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="000346001001000" IsBiblicalTerm="Y" EntryCode="15.89" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Linear Movement</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Return</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-08-03 14:32:09" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>to move back to a point or area from which one has previously departed, but with more explicit emphasis upon the return (compare {L:ὑποστρέφω&lt;SDBG:ὑποστρέφω:000000&gt;}[a], {D:15.88})</DefinitionShort>
+              <Glosses>
+                <Gloss>to move back</Gloss>
+                <Gloss>to return</Gloss>
+              </Glosses>
+              <Comments>In {S:04201000600038} ἀνακάμπτω[a] occurs in a somewhat figurative context, but it is difficult to determine precisely to what extent the use of this term suggests actual movement.{N:001}</Comments>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04000201200012</LEXReference>
+            <LEXReference>04201000600038</LEXReference>
+            <LEXReference>04401802100012</LEXReference>
+            <LEXReference>05801101500024</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+        <LEXMeaning Id="000346001002000" IsBiblicalTerm="Y" EntryCode="31.64" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Hold a View, Believe, Trust</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Change an Opinion Concerning Truth</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-08-03 14:32:09" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>(a figurative extension of meaning of {L:ἀνακάμπτω&lt;SDBG:ἀνακάμπτω:000000&gt;}[a] to return {D:15.89}); to turn back to a previous belief</DefinitionShort>
+              <Glosses>
+                <Gloss>to turn back again to</Gloss>
+                <Gloss>to change to a former belief</Gloss>
+                <Gloss>to turn back from</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>06100202100027{N:002}</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="000689000000000" Lemma="ἄργυρος" Version="0" HasAramaic="false" InLXX="true" AlphaPos="α">
+  <StrongCodes>
+    <Strong>G0696</Strong>
+  </StrongCodes>
+  <Authors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes>
+    <Note Caller="1" LanguageCode="en" LastEdited="" LastEditedBy="">
+      <References/>
+      <Content>Except for the occurrence of ἀργύριον in the plural ({S:04002601500030}), it would be possible to derive all of these references to copper (bronze), silver, and gold coins as direct and predictable metonymic correspondences of the respective terms for substances (see {D:2.54}, 51, 49). Since, however, some languages employ clear distinctions between metals as substances and metals when manufactured into the form of coins, the present classification would seem to be more useful.</Content>
+    </Note>
+  </Notes>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="000689001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>noun, m.</PartOfSpeech>
+      </PartsOfSpeech>
+      <Inflections>
+        <Inflection Lemma="ἄργυρος" BaseFormIndex="1">
+          <Form/>
+          <Realizations>
+            <Realization>-ου</Realization>
+          </Realizations>
+          <Comments/>
+        </Inflection>
+      </Inflections>
+      <RelatedLemmas>
+        <RelatedLemma>
+          <Word>ἀργύριον</Word>
+        </RelatedLemma>
+        <RelatedLemma>
+          <Word>ἀργυροκόπος</Word>
+        </RelatedLemma>
+        <RelatedLemma>
+          <Word>ἀργυροῦς</Word>
+        </RelatedLemma>
+        <RelatedLemma>
+          <Word>ἀφιλάργυρος</Word>
+        </RelatedLemma>
+        <RelatedLemma>
+          <Word>φιλαργυρία</Word>
+        </RelatedLemma>
+        <RelatedLemma>
+          <Word>φιλάργυρος</Word>
+        </RelatedLemma>
+      </RelatedLemmas>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="000689001001000" IsBiblicalTerm="M" EntryCode="2.51" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Natural Substances</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Metals</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-08-16 15:50:55" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>the metal silver; after gold the next most highly valued metal in the ancient world</DefinitionShort>
+              <Glosses>
+                <Gloss>silver</Gloss>
+              </Glosses>
+              <Comments>As in the case of ‘gold’ ({D:2.49}), there is usually no difficulty involved in obtaining a satisfactory term for ‘silver’ in most languages. In {S:06000101800010}, however, there is a problem in speaking of silver and gold that ‘perish,’ or even as something that can be ‘destroyed,’ since in reality one does not destroy such elements, and silver and gold do not really ‘perish.’ On the other hand, silver and gold can become oxidized and lose their value, especially if they are impure (see {D:2.60}). Therefore, it seems far better to emphasize the lack of value in translating {S:06000101800010}. A suitable rendering may then be ‘not with things that can lose their value as silver and gold.’</Comments>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04401702900022</LEXReference>
+            <LEXReference>04600301200018</LEXReference>
+            <LEXReference>05900500300012</LEXReference>
+            <LEXReference>06601801200008</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+        <LEXMeaning Id="000689001002000" IsBiblicalTerm="M" EntryCode="6.73" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Artifacts</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Money and Monetary Units</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-08-16 15:50:55" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>silver in the form of stamped coins used as money{N:001}</DefinitionShort>
+              <Glosses>
+                <Gloss>silver money</Gloss>
+                <Gloss>silver coin</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04001000900010</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

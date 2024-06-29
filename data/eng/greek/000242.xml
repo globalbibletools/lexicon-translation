@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="000242000000000" Lemma="ἀλλόφυλος" Version="0" HasAramaic="false" InLXX="true" AlphaPos="α">
+  <StrongCodes>
+    <Strong>G0246</Strong>
+  </StrongCodes>
+  <Authors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes>
+    <Note Caller="1" LanguageCode="en" LastEdited="" LastEditedBy="">
+      <References>
+        <Reference>04401002800030</Reference>
+      </References>
+      <Content>Though ἀλλόφυλος in its more general meaning belongs to a class of socio-political terms, its specific usage in the NT justifies the classification of its meaning as socio-religious.</Content>
+    </Note>
+  </Notes>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="000242001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>adjc.</PartOfSpeech>
+      </PartsOfSpeech>
+      <Inflections>
+        <Inflection Lemma="ἀλλόφυλος" BaseFormIndex="1">
+          <Form/>
+          <Realizations>
+            <Realization>-ον</Realization>
+          </Realizations>
+          <Comments/>
+        </Inflection>
+      </Inflections>
+      <Constructs>
+        <Construct Lemma="ἀλλόφυλος" BaseFormIndex="1">
+          <WordMeaningSet>
+            <Word>ἀλλάσσω</Word>
+          </WordMeaningSet>
+          <WordMeaningSet>
+            <Word>φύω</Word>
+          </WordMeaningSet>
+        </Construct>
+      </Constructs>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="000242001001000" IsBiblicalTerm="M" EntryCode="11.43" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Groups and Classes of Persons and Members of Such Groups and Classes</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Socio-Religious</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-05-25 12:42:12" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>a person not belonging to the ethnic group in question (from the specifically Jewish point of view, one who is not a Jew, but a Gentile)</DefinitionShort>
+              <Glosses>
+                <Gloss>foreigner</Gloss>
+                <Gloss>Gentile</Gloss>
+                <Gloss>heathen</Gloss>
+                <Gloss>pagan</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04401002800030{N:001}</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

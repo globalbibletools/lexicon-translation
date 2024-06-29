@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="002238000000000" Lemma="ζῳογονέω" Version="0" HasAramaic="false" InLXX="false" AlphaPos="ζ">
+  <StrongCodes>
+    <Strong>G2225</Strong>
+  </StrongCodes>
+  <Authors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes/>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="002238001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>verb</PartOfSpeech>
+      </PartsOfSpeech>
+      <Constructs>
+        <Construct Lemma="ζῳογονέω" BaseFormIndex="1">
+          <WordMeaningSet>
+            <Word>ζάω</Word>
+          </WordMeaningSet>
+          <WordMeaningSet>
+            <Word>γίνομαι</Word>
+          </WordMeaningSet>
+        </Construct>
+      </Constructs>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="002238001001000" IsBiblicalTerm="Y" EntryCode="23.89" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Physiological Processes and States</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Live, Die</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-07-21 10:52:19" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>to cause to continue to live</DefinitionShort>
+              <Glosses>
+                <Gloss>to keep alive</Gloss>
+                <Gloss>to preserve alive</Gloss>
+              </Glosses>
+              <Comments>‘So that they could not be kept alive’ ({S:04400701900000}) may be rendered as ‘so that they would not continue to live’ or ‘so that they would die.’</Comments>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04201703300028</LEXReference>
+            <LEXReference>04400701900038</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+        <LEXMeaning Id="002238001002000" IsBiblicalTerm="Y" EntryCode="23.92" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Physiological Processes and States</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Live, Die</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-07-21 10:52:19" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>to cause to live</DefinitionShort>
+              <Glosses>
+                <Gloss>to give life to</Gloss>
+                <Gloss>to make live</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>05400601300014</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="001147000000000" Lemma="בקר" Version="5" HasAramaic="true" InLXX="false" AlphaPos="ב">
+  <StrongCodes>
+    <Strong>H1239</Strong>
+    <Strong>A1240</Strong>
+  </StrongCodes>
+  <Authors>
+    <Author>Enio R. Mueller</Author>
+  </Authors>
+  <Contributors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes>
+    <Note Caller="1" LanguageCode="en" LastEdited="" LastEditedBy="">
+      <References>
+        <Reference>01201601500128</Reference>
+      </References>
+      <Content>RSV NRSV ESV "to inquire by" NIV "seeking guidance" GNT "divination" CEV "finding out what God wants me to do" | NJPS "decide about" NJB "see to" | REB "to offer morning sacrifice"</Content>
+    </Note>
+    <Note Caller="2" LanguageCode="en" LastEdited="" LastEditedBy="">
+      <References>
+        <Reference>01902700400044</Reference>
+      </References>
+      <Content>RSV NRSV ESV "to inquire" NIV REB "to seek" NJB "to seek out" GNT "to ask for guidance" CEV "to pray" | NJPS "to frequent"</Content>
+    </Note>
+  </Notes>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="001147001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>vb</PartOfSpeech>
+      </PartsOfSpeech>
+      <RelatedLemmas>
+        <RelatedLemma>
+          <Word>בָּקָר</Word>
+        </RelatedLemma>
+        <RelatedLemma>
+          <Word>בֹּקֶר</Word>
+        </RelatedLemma>
+        <RelatedLemma>
+          <Word>בַּקָּרָה</Word>
+        </RelatedLemma>
+        <RelatedLemma>
+          <Word>בִּקֹּרֶת</Word>
+        </RelatedLemma>
+      </RelatedLemmas>
+      <RelatedNames>
+        <RelatedName>
+          <Word>בַּקְבַּקַּר</Word>
+        </RelatedName>
+      </RelatedNames>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="001147001001000" IsBiblicalTerm="Y" EntryCode="" Indent="0">
+          <LEXDomains>
+            <LEXDomain Code="002004001005">See</LEXDomain>
+          </LEXDomains>
+          <LEXForms>
+            <LEXForm>vbpiel</LEXForm>
+          </LEXForms>
+          <LEXSynonyms>
+            <LEXSynonym>דרשׁ</LEXSynonym>
+          </LEXSynonyms>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2015-09-28 17:30:37" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>= action by which someone carefully focuses his/her eyes on a group of objects in order to locate something specific among them</DefinitionShort>
+              <Glosses>
+                <Gloss>to look for</Gloss>
+                <Gloss>to seek</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>00301303600028</LEXReference>
+            <LEXReference>00302703300004</LEXReference>
+            <LEXReference>01500401500004</LEXReference>
+            <LEXReference>01500401900012</LEXReference>
+            <LEXReference>01500501700014</LEXReference>
+            <LEXReference>01500600100016</LEXReference>
+            <LEXReference>01500701400026</LEXReference>
+            <LEXReference>02603401100026</LEXReference>
+            <LEXReference>02603401200026</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+          <LEXCoreDomains>
+            <LEXCoreDomain Code="154">Senses</LEXCoreDomain>
+          </LEXCoreDomains>
+        </LEXMeaning>
+        <LEXMeaning Id="001147001002000" IsBiblicalTerm="Y" EntryCode="" Indent="0">
+          <LEXDomains>
+            <LEXDomain Code="002004002014" Source="See" SourceCode="002004001005">Think</LEXDomain>
+          </LEXDomains>
+          <LEXForms>
+            <LEXForm>vbpiel</LEXForm>
+          </LEXForms>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2015-09-28 17:30:37" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>= action by which someone gives careful thought to a certain issue in order to make an informed decision</DefinitionShort>
+              <Glosses>
+                <Gloss>to contemplate</Gloss>
+                <Gloss>to reflect</Gloss>
+                <Gloss>to ponder</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>01201601500130{N:001}</LEXReference>
+            <LEXReference>01902700400044{N:002}</LEXReference>
+            <LEXReference>02002002500018</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+          <LEXCoreDomains>
+            <LEXCoreDomain Code="106" Source="Senses" SourceCode="154">Mind</LEXCoreDomain>
+          </LEXCoreDomains>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="003243000000000" Lemma="μεταβαίνω" Version="0" HasAramaic="false" InLXX="true" AlphaPos="μ">
+  <StrongCodes>
+    <Strong>G3327</Strong>
+  </StrongCodes>
+  <Authors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes/>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="003243001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>verb</PartOfSpeech>
+      </PartsOfSpeech>
+      <Inflections>
+        <Inflection Lemma="μεταβαίνω" BaseFormIndex="1">
+          <Form>fut.</Form>
+          <Realizations>
+            <Realization>μεταβήσομαι</Realization>
+          </Realizations>
+          <Comments/>
+        </Inflection>
+        <Inflection Lemma="μεταβαίνω" BaseFormIndex="1">
+          <Form>aor.</Form>
+          <Realizations>
+            <Realization>μετέβην</Realization>
+          </Realizations>
+          <Comments/>
+        </Inflection>
+        <Inflection Lemma="μεταβαίνω" BaseFormIndex="1">
+          <Form>impv.</Form>
+          <Realizations>
+            <Realization>μετάβα</Realization>
+            <Realization>μετάβηθι</Realization>
+          </Realizations>
+          <Comments/>
+        </Inflection>
+        <Inflection Lemma="μεταβαίνω" BaseFormIndex="1">
+          <Form>ptc.</Form>
+          <Realizations>
+            <Realization>μεταβάς</Realization>
+          </Realizations>
+          <Comments/>
+        </Inflection>
+        <Inflection Lemma="μεταβαίνω" BaseFormIndex="1">
+          <Form>pf.</Form>
+          <Realizations>
+            <Realization>μεταβέβηκα</Realization>
+          </Realizations>
+          <Comments/>
+        </Inflection>
+      </Inflections>
+      <RelatedLemmas>
+        <RelatedLemma>
+          <Word>βαίνω</Word>
+          <Meaning LanguageCode="en">
+            <Meaning>go, walk</Meaning>
+          </Meaning>
+          <Meaning LanguageCode="zhT">
+            <Meaning>走，走路</Meaning>
+          </Meaning>
+        </RelatedLemma>
+      </RelatedLemmas>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="003243001001000" IsBiblicalTerm="Y" EntryCode="15.2" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Linear Movement</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Move, Come/Go</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-11-30 11:31:54" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>to effect a change of location in space, with the implication that the two locations are significantly different</DefinitionShort>
+              <Glosses>
+                <Gloss>to move from one place to another</Gloss>
+                <Gloss>to change one’s location</Gloss>
+                <Gloss>to depart</Gloss>
+                <Gloss>departure</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04000803400032</LEXReference>
+            <LEXReference>04001100100024</LEXReference>
+            <LEXReference>04001200900004</LEXReference>
+            <LEXReference>04001502900004</LEXReference>
+            <LEXReference>04001702000046</LEXReference>
+            <LEXReference>04001702000054</LEXReference>
+            <LEXReference>04201000700042</LEXReference>
+            <LEXReference>04300700300016</LEXReference>
+            <LEXReference>04301300100032</LEXReference>
+            <LEXReference>04401800700004</LEXReference>
+            <LEXReference>06200301400008</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+        <LEXMeaning Id="003243001002000" IsBiblicalTerm="Y" EntryCode="13.51" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Be, Become, Exist, Happen</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Change of State</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-11-30 11:31:54" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>to change from one state to another</DefinitionShort>
+              <Glosses>
+                <Gloss>to change</Gloss>
+                <Gloss>to become</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04300502400050</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

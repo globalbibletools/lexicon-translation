@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="002255000000000" Lemma="ἡλικία" Version="0" HasAramaic="false" InLXX="true" AlphaPos="η">
+  <StrongCodes>
+    <Strong>G2244</Strong>
+  </StrongCodes>
+  <Authors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes>
+    <Note Caller="1" LanguageCode="en" LastEdited="" LastEditedBy="">
+      <References/>
+      <Content>The meanings of terms in {D:67.152}-{D:67.158} could almost be treated equally well in Domain 23 Physiological Processes and States, since these could be regarded as simply derivatives of physiological states. However, the focus of meaning in the respective contexts seems to be more upon a particular period of time rather than upon a physiological state or condition.</Content>
+    </Note>
+  </Notes>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="002255001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>noun, f.</PartOfSpeech>
+      </PartsOfSpeech>
+      <Inflections>
+        <Inflection Lemma="ἡλικία" BaseFormIndex="1">
+          <Form/>
+          <Realizations>
+            <Realization>-ας</Realization>
+          </Realizations>
+          <Comments/>
+        </Inflection>
+      </Inflections>
+      <RelatedLemmas>
+        <RelatedLemma>
+          <Word>ἡλίκος</Word>
+        </RelatedLemma>
+      </RelatedLemmas>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="002255001001000" IsBiblicalTerm="M" EntryCode="67.151" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Time</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Indefinite Units of Time: Age, Lifetime, Interval, Period</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-07-22 22:15:43" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>the period of time when a person is alive</DefinitionShort>
+              <Glosses>
+                <Gloss>span of life</Gloss>
+                <Gloss>lifetime</Gloss>
+                <Gloss>age</Gloss>
+              </Glosses>
+              <Comments>In {S:04000602700020} ἡλικία may also denote height (see {D:81.4}). If one understands ἡλικία in {S:04000602700020} as time, then obviously some adjustment needs to be made to the meaning of {L:πῆχυς&lt;SDBG:πῆχυς:000000&gt;} ‘cubit’ ({D:81.25}). For many languages the most appropriate term is one which means ‘day,’ but it would also be possible to use some other unit of length if this would clearly imply an impossibility.</Comments>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04000602700020</LEXReference>
+            <LEXReference>04201202500018</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+        <LEXMeaning Id="002255001002000" IsBiblicalTerm="Y" EntryCode="67.156" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Time</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Indefinite Units of Time: Age, Lifetime, Interval, Period</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-07-22 22:15:43" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>the period of life when one is mature and at one’s prime{N:001}</DefinitionShort>
+              <Glosses>
+                <Gloss>prime</Gloss>
+                <Gloss>of age</Gloss>
+                <Gloss>mature</Gloss>
+              </Glosses>
+              <Comments>Normally the phrase παρὰ καιρὸν ἡλικίας ({S:05801101100028}) would refer to a woman beyond menopause.</Comments>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04300902100036</LEXReference>
+            <LEXReference>04300902300016</LEXReference>
+            <LEXReference>04900401300044</LEXReference>
+            <LEXReference>05801101100028</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+        <LEXMeaning Id="002255001003000" IsBiblicalTerm="Y" EntryCode="81.4" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Spacial Dimensions</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>High, Low, Deep</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-07-22 22:15:43" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>height as the dimension of stature of an animate object</DefinitionShort>
+              <Glosses>
+                <Gloss>height</Gloss>
+                <Gloss>stature</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04000602700020</LEXReference>
+            <LEXReference>04200205200016</LEXReference>
+            <LEXReference>04201202500018</LEXReference>
+            <LEXReference>04201900300032</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

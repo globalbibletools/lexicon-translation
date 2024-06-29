@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="001382000000000" Lemma="δισμυριάς" Version="0" HasAramaic="false" InLXX="false" AlphaPos="δ">
+  <StrongCodes>
+    <Strong>G1364a</Strong>
+  </StrongCodes>
+  <Authors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes/>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="001382001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>noun, f.</PartOfSpeech>
+      </PartsOfSpeech>
+      <Inflections>
+        <Inflection Lemma="δισμυριάς" BaseFormIndex="1">
+          <Form/>
+          <Realizations>
+            <Realization>-άδος</Realization>
+          </Realizations>
+          <Comments/>
+        </Inflection>
+      </Inflections>
+      <Constructs>
+        <Construct Lemma="δισμυριάς" BaseFormIndex="1">
+          <WordMeaningSet>
+            <Word>δύο</Word>
+          </WordMeaningSet>
+          <WordMeaningSet>
+            <Word>μυρίος</Word>
+          </WordMeaningSet>
+        </Construct>
+      </Constructs>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="001382001001000" IsBiblicalTerm="Y" EntryCode="60.9" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Number</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Number, Countless</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-07-08 22:01:57" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>an indefinitely large number (even greater than {L:μυριάς&lt;SDBG:μυριάς:000001&gt;}[b], {D:60.8})</DefinitionShort>
+              <Glosses>
+                <Gloss>countless</Gloss>
+                <Gloss>incalculable</Gloss>
+                <Gloss>great number of</Gloss>
+              </Glosses>
+              <Comments>Though it is possible to understand δισμυριάδες μυριάδων in {S:06600901600016} as meaning ‘two hundred million’ (literally ‘twenty thousand times ten thousand’), the evident intent of the text is to emphasize the extreme number rather than to specify some large quantity.</Comments>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>06600901600016</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

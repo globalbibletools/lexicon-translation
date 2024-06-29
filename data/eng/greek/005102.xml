@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="005102000000000" Lemma="ὑμνέω" Version="0" HasAramaic="false" InLXX="true" AlphaPos="υ">
+  <StrongCodes>
+    <Strong>G5214</Strong>
+  </StrongCodes>
+  <Authors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes>
+    <Note Caller="1" LanguageCode="en" LastEdited="" LastEditedBy="">
+      <References>
+        <Reference>04002603000004</Reference>
+      </References>
+      <Content>It is possible that the reference of ὑμνέω in {S:04002603000004} is to the second part of the Hallel (Psalms 115-118). Accordingly, one could translate ‘then they sang The Hymn …’</Content>
+    </Note>
+  </Notes>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="005102001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>verb</PartOfSpeech>
+      </PartsOfSpeech>
+      <RelatedLemmas>
+        <RelatedLemma>
+          <Word>ὕμνος</Word>
+        </RelatedLemma>
+      </RelatedLemmas>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="005102001001000" IsBiblicalTerm="M" EntryCode="33.113" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Communication</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Sing, Lament</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2022-04-19 07:46:22" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>to sing a song associated with religion and worship</DefinitionShort>
+              <Glosses>
+                <Gloss>to sing a hymn</Gloss>
+                <Gloss>to sing a song of praise</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04002603000004{N:001}</LEXReference>
+            <LEXReference>04101402600004</LEXReference>
+            <LEXReference>04401602500018</LEXReference>
+            <LEXReference>05800201200024</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

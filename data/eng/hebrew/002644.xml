@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="002644000000000" Lemma="טַבּוּר" Version="5" HasAramaic="false" InLXX="false" AlphaPos="ט">
+  <StrongCodes>
+    <Strong>H2872</Strong>
+  </StrongCodes>
+  <Authors>
+    <Author>Timothy L. Wilt</Author>
+  </Authors>
+  <Contributors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes>
+    <Note Caller="1" LanguageCode="en" LastEdited="" LastEditedBy="">
+      <References>
+        <Reference>00700903700028</Reference>
+      </References>
+      <Content>{A:RSV} {A:NIV} {A:REB} {A:GNT} [1] | {A:NJB} [2] | {A:CEV} "sacred mountain" = [2] | {A:NJPS} {A:NRSV} "Tabbur-erez" = [2]</Content>
+    </Note>
+  </Notes>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="002644001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>nsm</PartOfSpeech>
+      </PartsOfSpeech>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="002644001001000" IsBiblicalTerm="Y" EntryCode="" Indent="0">
+          <LEXDomains>
+            <LEXDomain Code="001001002003">People</LEXDomain>
+          </LEXDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2016-02-18 16:27:26" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>= mark in belly ◄ left by detachment of the umbilical cord; ≈ associated with the central or prominent part of an area; may also refer to a sacred area associated with the connection of heaven and earth</DefinitionShort>
+              <Glosses>
+                <Gloss>navel</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>00700903700028</LEXReference>
+            <LEXReference>02603801200052</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+          <LEXCoreDomains>
+            <LEXCoreDomain Code="019">Body</LEXCoreDomain>
+          </LEXCoreDomains>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+    <BaseForm Id="002644002000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>nsm</PartOfSpeech>
+      </PartsOfSpeech>
+      <MeaningsOfName>
+        <MeaningOfName LanguageCode="en">
+          <Meaning>navel of the earth"</Meaning>
+        </MeaningOfName>
+        <MeaningOfName LanguageCode="pt">
+          <Meaning>umbigo da terra"</Meaning>
+        </MeaningOfName>
+      </MeaningsOfName>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="002644002001000" IsBiblicalTerm="Y" EntryCode="" Indent="0">
+          <LEXDomains>
+            <LEXDomain Code="003001008">Names of Landforms</LEXDomain>
+          </LEXDomains>
+          <LEXCollocations>
+            <LEXCollocation>טַבּוּר הָאָרֶץ</LEXCollocation>
+          </LEXCollocations>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2016-02-18 16:27:26" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>= mountain, to be identified with Mount {L:Gerizim&lt;SDBH:גְּרִזִים&gt;}, ◄ and located near {L:Shechem&lt;SDBH:שְׁכֶם&gt;}; ≈ regarded as a special connection between heaven and earth and therefore sacred ({A:ABD})</DefinitionShort>
+              <Glosses>
+                <Gloss>Navel of the Earth</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>00700903700028{N:001}</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

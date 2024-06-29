@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="000608000000000" Lemma="אפק" Version="5" HasAramaic="false" InLXX="false" AlphaPos="א">
+  <StrongCodes>
+    <Strong>H0662</Strong>
+  </StrongCodes>
+  <Authors>
+    <Author>Reinier de Blois</Author>
+  </Authors>
+  <Contributors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes>
+    <Note Caller="1" LanguageCode="en" LastEdited="" LastEditedBy="">
+      <References>
+        <Reference>02306301500040</Reference>
+      </References>
+      <Content>{A:MT} הִתְאַפָּֽקוּ | {A:REB} אל נא תתאפק "do not stand aloof"</Content>
+    </Note>
+  </Notes>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="000608001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>vb</PartOfSpeech>
+      </PartsOfSpeech>
+      <RelatedLemmas>
+        <RelatedLemma>
+          <Word>אָפִיק</Word>
+        </RelatedLemma>
+      </RelatedLemmas>
+      <RelatedNames>
+        <RelatedName>
+          <Word>אֲפִיק</Word>
+        </RelatedName>
+        <RelatedName>
+          <Word>אֲפֵק</Word>
+        </RelatedName>
+      </RelatedNames>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="000608001001000" IsBiblicalTerm="Y" EntryCode="" Indent="0">
+          <LEXDomains>
+            <LEXDomain Code="002003002008">Control</LEXDomain>
+          </LEXDomains>
+          <LEXForms>
+            <LEXForm>vbhit-</LEXForm>
+          </LEXForms>
+          <LEXSynonyms>
+            <LEXSynonym>הרשׁ</LEXSynonym>
+            <LEXSynonym>חשׁה</LEXSynonym>
+          </LEXSynonyms>
+          <LEXAntonyms>
+            <LEXAntonym>נשׁם</LEXAntonym>
+            <LEXAntonym>פעה</LEXAntonym>
+            <LEXAntonym>קרא</LEXAntonym>
+            <LEXAntonym>שׁאף</LEXAntonym>
+          </LEXAntonyms>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2017-03-13 13:34:05" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>= to restrain oneself from showing emotions</DefinitionShort>
+              <Glosses>
+                <Gloss>to restrain oneself</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>00104303100014</LEXReference>
+            <LEXReference>00104500100012</LEXReference>
+            <LEXReference>01700501000004</LEXReference>
+            <LEXReference>02304201400010</LEXReference>
+            <LEXReference>02306301500040{N:001}</LEXReference>
+            <LEXReference>02306401100008</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+          <LEXCoreDomains>
+            <LEXCoreDomain Code="106">Mind</LEXCoreDomain>
+          </LEXCoreDomains>
+        </LEXMeaning>
+        <LEXMeaning Id="000608001002000" IsBiblicalTerm="Y" EntryCode="" Indent="0">
+          <LEXDomains>
+            <LEXDomain Code="002003003010" Source="Control" SourceCode="002003002008">Engage</LEXDomain>
+          </LEXDomains>
+          <LEXForms>
+            <LEXForm>vbhit-</LEXForm>
+          </LEXForms>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2017-03-13 13:34:05" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>= action by which someone forces oneself to act</DefinitionShort>
+              <Glosses>
+                <Gloss>to force oneself</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>00901301200030</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+          <LEXCoreDomains>
+            <LEXCoreDomain Code="106">Mind</LEXCoreDomain>
+          </LEXCoreDomains>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

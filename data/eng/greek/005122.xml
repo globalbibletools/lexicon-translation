@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="005122000000000" Lemma="ὑπερβάλλω" Version="0" HasAramaic="false" InLXX="true" AlphaPos="υ">
+  <StrongCodes>
+    <Strong>G5235</Strong>
+  </StrongCodes>
+  <Authors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes>
+    <Note Caller="1" LanguageCode="en" LastEdited="" LastEditedBy="">
+      <References/>
+      <Content>It is difficult to determine the extent to which this set of meanings ({D:78.33}) differs from those in {D:78.31}, but a number of contexts for the terms in {D:78.33} would seem to imply something even beyond what is indicated in the series containing the base περισσ ({D:78.31}).</Content>
+    </Note>
+    <Note Caller="2" LanguageCode="en" LastEdited="" LastEditedBy="">
+      <References/>
+      <Content>NEW NOTE</Content>
+    </Note>
+  </Notes>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="005122001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>verb</PartOfSpeech>
+      </PartsOfSpeech>
+      <RelatedLemmas>
+        <RelatedLemma>
+          <Word>βάλλω</Word>
+        </RelatedLemma>
+      </RelatedLemmas>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="005122001001000" IsBiblicalTerm="Y" EntryCode="78.33" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Degree</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>More Than, Less Than [Comparative Degree]</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2022-05-04 08:24:44" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>a degree which exceeds extraordinarily a point on an implied or overt scale of extent{N:001}</DefinitionShort>
+              <Glosses>
+                <Gloss>extraordinary</Gloss>
+                <Gloss>extreme</Gloss>
+                <Gloss>supreme</Gloss>
+                <Gloss>far more</Gloss>
+                <Gloss>much greater</Gloss>
+                <Gloss>to a far greater degree</Gloss>
+              </Glosses>
+              <Comments>There are obviously a number of problems involved in attempting to render an expression of extraordinary degree, but it is sometimes possible to express such a degree by building up a series of intensive markers. For example, in {S:04900200700018} one might translate τὸ ὑπερβάλλον πλοῦτος τῆς χάριτος αὐτοῦ as ‘his very, very great grace,’ and in {S:04700400700022} one might render ἡ ὑπερβολὴ τῆς δυνάμεως ᾖ τοῦ θεοῦ as ‘God has very, very great power.’ Such expressions, however, may not do full justice to the intensity of degree expressed in ὑπερβάλλω and {L:ὑπερβολή&lt;SDBG:ὑπερβολή:000000&gt;}, since in a number of languages the closest equivalent might be something involving figurative meanings. For example, τὸ ὑπερβάλλον πλοῦτος τῆς χάριτος αὐτοῦ in {S:04900200700018} might be rendered as ‘he is gracious beyond anything we can imagine,’ and in {S:04700400700022} ἡ ὑπερβολὴ τῆς δυνάμεως ᾖ τοῦ θεοῦ may be rendered as ‘God has power beyond any words to describe.’|In this expression in {S:04900200700018}, both ὑπερβάλλον and πλοῦτος ({D:78.15}) serve as expressions of degree; ὑπερβάλλον indicates an implied comparison, while πλοῦτος suggests not only a high degree of something, but also value.</Comments>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04700301000026</LEXReference>
+            <LEXReference>04700901400020</LEXReference>
+            <LEXReference>04900101900008</LEXReference>
+            <LEXReference>04900200700018</LEXReference>
+            <LEXReference>04900301900008</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

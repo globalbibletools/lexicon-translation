@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="002725000000000" Lemma="κατέρχομαι" Version="0" HasAramaic="false" InLXX="true" AlphaPos="κ">
+  <StrongCodes>
+    <Strong>G2718</Strong>
+  </StrongCodes>
+  <Authors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes/>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="002725001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>verb</PartOfSpeech>
+      </PartsOfSpeech>
+      <Inflections>
+        <Inflection Lemma="κατέρχομαι" BaseFormIndex="1">
+          <Form>aor.</Form>
+          <Realizations>
+            <Realization>κατῆλθον</Realization>
+          </Realizations>
+          <Comments/>
+        </Inflection>
+        <Inflection Lemma="κατέρχομαι" BaseFormIndex="1">
+          <Form>inf.</Form>
+          <Realizations>
+            <Realization>κατελθεῖν</Realization>
+          </Realizations>
+          <Comments/>
+        </Inflection>
+      </Inflections>
+      <RelatedLemmas>
+        <RelatedLemma>
+          <Word>ἔρχομαι</Word>
+        </RelatedLemma>
+      </RelatedLemmas>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="002725001001000" IsBiblicalTerm="Y" EntryCode="15.107" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Linear Movement</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Come/Go Down, Descend</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-09-28 10:34:40" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>to move down, irrespective of the gradient</DefinitionShort>
+              <Glosses>
+                <Gloss>to move down</Gloss>
+                <Gloss>to come down</Gloss>
+                <Gloss>to go down</Gloss>
+                <Gloss>to descend</Gloss>
+              </Glosses>
+              <Comments>In a number of languages there is a series of terms for going down or descending, depending upon the gradient and the rapidity with which someone or something descends. There may also be distinct terms depending upon the extent of the descent. Rain coming down would be regarded as an extensive descent, while getting out of a boat to walk on the water would be a very limited descent.|Movement downward may, of course, involve more than physical objects, for example, οὐκ ἔστιν αὕτη ἡ σοφία ἄνωθεν κατερχομένη ‘this is not the wisdom that comes down from above’ {S:05900301500014}. Since in {S:05900301500014} ἄνωθεν is a substitute for God, it may be necessary to restructure this statement as ‘this wisdom does not come from God’ or ‘God is not the source of this wisdom.’</Comments>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04200403100004</LEXReference>
+            <LEXReference>04200903700012</LEXReference>
+            <LEXReference>04400800500006</LEXReference>
+            <LEXReference>04400903200014</LEXReference>
+            <LEXReference>04401102700012</LEXReference>
+            <LEXReference>04401201900028</LEXReference>
+            <LEXReference>04401300400018</LEXReference>
+            <LEXReference>04401500100006</LEXReference>
+            <LEXReference>04401503000010</LEXReference>
+            <LEXReference>04401800500006</LEXReference>
+            <LEXReference>04401900100030</LEXReference>
+            <LEXReference>04402101000010</LEXReference>
+            <LEXReference>05900301500014</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+        <LEXMeaning Id="002725001002000" IsBiblicalTerm="Y" EntryCode="54.15" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Maritime Activities</LEXDomain>
+          </LEXDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-09-28 10:34:40" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>(technical, nautical term) to go by ship toward the shore</DefinitionShort>
+              <Glosses>
+                <Gloss>to arrive at land</Gloss>
+                <Gloss>to put in at</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04401802200004</LEXReference>
+            <LEXReference>04402100300026</LEXReference>
+            <LEXReference>04402700500022</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

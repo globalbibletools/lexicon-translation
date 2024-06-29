@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="004439000000000" Lemma="σάλπιγξ" Version="0" HasAramaic="false" InLXX="true" AlphaPos="σ">
+  <StrongCodes>
+    <Strong>G4536</Strong>
+  </StrongCodes>
+  <Authors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes>
+    <Note Caller="1" LanguageCode="en" LastEdited="" LastEditedBy="">
+      <References/>
+      <Content>Though it would seem logical to regard σάλπιγξ[b] as a derivative of σάλπιγξ[a] ({D:6.89}) in view of the formal similarity, nevertheless from the standpoint of the semantic components involved, σάλπιγξ[b] is actually related to the verb σαλπίζω[a] meaning to play the trumpet ({D:6.90}) or possibly σαλπίζω[b] to sound a trumpet ({D:6.92}). σάλπιγξ[b] definitely relates to the result of an event, not simply to the instrument employed in such an event.</Content>
+    </Note>
+  </Notes>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="004439001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>noun, f.</PartOfSpeech>
+      </PartsOfSpeech>
+      <Inflections>
+        <Inflection Lemma="σάλπιγξ" BaseFormIndex="1">
+          <Form/>
+          <Realizations>
+            <Realization>-ιγγος</Realization>
+          </Realizations>
+          <Comments/>
+        </Inflection>
+      </Inflections>
+      <RelatedLemmas>
+        <RelatedLemma>
+          <Word>σαλπίζω</Word>
+        </RelatedLemma>
+      </RelatedLemmas>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="004439001001000" IsBiblicalTerm="M" EntryCode="6.89" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Artifacts</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Musical Instruments</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2022-02-09 12:15:19" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>a musical wind instrument; made of metal; frequently used in signaling, especially in connection with war</DefinitionShort>
+              <Glosses>
+                <Gloss>trumpet</Gloss>
+              </Glosses>
+              <Comments>The present-day equivalent of the σάλπιγξ is the bugle.</Comments>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04601400800010</LEXReference>
+            <LEXReference>06600101000030</LEXReference>
+            <LEXReference>06600400100038</LEXReference>
+            <LEXReference>06600800200030</LEXReference>
+            <LEXReference>06600800600018</LEXReference>
+            <LEXReference>06600801300052</LEXReference>
+            <LEXReference>06600901400016</LEXReference>
+          </LEXReferences>
+          <LEXLinks>
+            <LEXLink>realia:7.3.2</LEXLink>
+          </LEXLinks>
+          <LEXVideos/>
+        </LEXMeaning>
+        <LEXMeaning Id="004439001002000" IsBiblicalTerm="M" EntryCode="6.93" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Artifacts</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Musical Instruments</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2022-02-09 12:15:19" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>(derivative of {L:σαλπίζω&lt;SDBG:σαλπίζω:000000&gt;}[a] ‘to play the trumpet,’ {D:6.90}) the sound made by a trumpet{N:001}</DefinitionShort>
+              <Glosses>
+                <Gloss>trumpet blast</Gloss>
+                <Gloss>trumpet sound</Gloss>
+              </Glosses>
+              <Comments>With both {L:σαλπίζω&lt;SDBG:σαλπίζω:000001&gt;}[b] ({D:6.92}) and σάλπιγξ[b], it may be necessary to introduce an agent, even though indefinite. For example, ἐν τῇ ἐσχάτω σάλπιγγι may be translated as ‘when someone blows the trumpet for the last time,’ and σαλπίσει may be rendered as ‘when someone sounds the trumpet’ or ‘when someone produces a noise on the trumpet.’ However, any term for ‘noise’ should imply a meaningful sound.</Comments>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04002403100014</LEXReference>
+            <LEXReference>04601505200018</LEXReference>
+            <LEXReference>05200401600024</LEXReference>
+            <LEXReference>05801201900004</LEXReference>
+          </LEXReferences>
+          <LEXLinks>
+            <LEXLink>realia:7.3.2</LEXLink>
+          </LEXLinks>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

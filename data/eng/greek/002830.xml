@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="002830000000000" Lemma="κληρονομέω" Version="0" HasAramaic="false" InLXX="true" AlphaPos="κ">
+  <StrongCodes>
+    <Strong>G2816</Strong>
+  </StrongCodes>
+  <Authors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes/>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="002830001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>verb</PartOfSpeech>
+      </PartsOfSpeech>
+      <Constructs>
+        <Construct Lemma="κληρονομέω" BaseFormIndex="1">
+          <WordMeaningSet>
+            <Word>κληρόω</Word>
+          </WordMeaningSet>
+          <WordMeaningSet>
+            <Word>νομίζω</Word>
+          </WordMeaningSet>
+        </Construct>
+      </Constructs>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="002830001001000" IsBiblicalTerm="Y" EntryCode="57.131" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Possess, Transfer, Exchange</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Receive</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-10-08 20:10:53" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>to receive something of considerable value which has not been earned</DefinitionShort>
+              <Glosses>
+                <Gloss>to receive</Gloss>
+                <Gloss>to be given</Gloss>
+                <Gloss>to gain possession of</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04000500500012</LEXReference>
+            <LEXReference>04001902900054</LEXReference>
+            <LEXReference>04002503400030</LEXReference>
+            <LEXReference>04101001700040</LEXReference>
+            <LEXReference>04201002500028</LEXReference>
+            <LEXReference>04201801800026</LEXReference>
+            <LEXReference>04601505000022</LEXReference>
+            <LEXReference>04601505000038</LEXReference>
+            <LEXReference>04800502100042</LEXReference>
+            <LEXReference>05800100400020</LEXReference>
+            <LEXReference>05800101400024</LEXReference>
+            <LEXReference>05800601200024</LEXReference>
+            <LEXReference>06000300900038</LEXReference>
+            <LEXReference>06602100700006</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+        <LEXMeaning Id="002830001002000" IsBiblicalTerm="M" EntryCode="57.138" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Possess, Transfer, Exchange</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Receive</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-10-08 20:10:53" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>to receive a possession or benefit as a gift from someone who has died, generally a parent</DefinitionShort>
+              <Glosses>
+                <Gloss>to inherit</Gloss>
+                <Gloss>to receive from a deceased parent</Gloss>
+              </Glosses>
+              <Comments>In some languages the process of inheritance must be made rather explicit, so that ‘he will inherit the property’ must be expressed as ‘he will become owner of the property which his father said he should have.’</Comments>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04600600900018</LEXReference>
+            <LEXReference>04600601000026</LEXReference>
+            <LEXReference>04601505000022</LEXReference>
+            <LEXReference>04800403000032</LEXReference>
+            <LEXReference>05800101400024</LEXReference>
+            <LEXReference>05801201700014</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

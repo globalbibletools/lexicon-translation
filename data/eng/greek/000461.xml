@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="000461000000000" Lemma="ἀνόμως" Version="0" HasAramaic="false" InLXX="true" AlphaPos="α">
+  <StrongCodes>
+    <Strong>G0460</Strong>
+  </StrongCodes>
+  <Authors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes/>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="000461001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>advb.</PartOfSpeech>
+      </PartsOfSpeech>
+      <Constructs>
+        <Construct Lemma="ἀνόμως" BaseFormIndex="1">
+          <WordMeaningSet>
+            <Word>ἀ-</Word>
+          </WordMeaningSet>
+          <WordMeaningSet>
+            <Word>νομίζω</Word>
+          </WordMeaningSet>
+        </Construct>
+      </Constructs>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="000461001001000" IsBiblicalTerm="M" EntryCode="33.57" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Communication</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Written Language</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-08-09 15:23:32" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>pertaining to being without the Law (specifically the first five books of the OT)</DefinitionShort>
+              <Glosses>
+                <Gloss>without the Law</Gloss>
+              </Glosses>
+              <Comments>Even from the two contexts of {S:04600902100030} and {S:04500201200010}, it should be clear that ἄνομος[b] and ἀνόμως carry quite different implications in different contexts. In {S:04600902100030} a phrase such as ‘without the Law’ must be understood in the sense of ‘not being under obligation to the Law’ or ‘not being bound by the Law,’ and so {S:04600902100030} must be translated in a number of languages as ‘with those who are not bound by the Law, I live as one who is not bound by the Law,’ referring in these instances to the Law of Moses. It is important, however, in rendering the expression ‘not bound by the Law’ to avoid a phrase which would mean ‘lawless’ or ‘heedless of the Law.’ In the case of {S:04500201200010}, the phrase ‘without the Law’ must refer to those who are ignorant of the Law and thus are not bound by it, and so {S:04500201200010} must be rendered in some languages as ‘those who sin without knowing anything about the Law are lost, but quite apart from any relationship to the Law.’</Comments>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04500201200006</LEXReference>
+            <LEXReference>04500201200010</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

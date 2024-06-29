@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="005157000000000" Lemma="ὑποζύγιον" Version="0" HasAramaic="false" InLXX="true" AlphaPos="υ">
+  <StrongCodes>
+    <Strong>G5268</Strong>
+  </StrongCodes>
+  <Authors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes/>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="005157001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>noun, n.</PartOfSpeech>
+      </PartsOfSpeech>
+      <Inflections>
+        <Inflection Lemma="ὑποζύγιον" BaseFormIndex="1">
+          <Form/>
+          <Realizations>
+            <Realization>-ου</Realization>
+          </Realizations>
+          <Comments/>
+        </Inflection>
+      </Inflections>
+      <RelatedLemmas>
+        <RelatedLemma>
+          <Word>ζυγός</Word>
+        </RelatedLemma>
+      </RelatedLemmas>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="005157001001000" IsBiblicalTerm="Y" EntryCode="4.7" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Animals</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Animals</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2023-01-03 14:14:18" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>an animal which can be used to carry a burden or can be ridden</DefinitionShort>
+              <Glosses>
+                <Gloss>pack animal</Gloss>
+                <Gloss>beast of burden</Gloss>
+                <Gloss>riding animal</Gloss>
+              </Glosses>
+              <Comments>In {S:04002100500040} it may not actually be necessary to translate ‘the offspring of a beast of burden’ (υἱὸν ὑποζυγίου), since this may be regarded as being completely redundant after speaking of a donkey and her colt. In some languages it may be necessary in certain contexts to indicate the sex of a donkey. In {S:06100201600012} the reference of ὑποζύγιον is a female donkey, as indicated in the Hebrew text of {S:00402202200000}.</Comments>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04002100500040</LEXReference>
+            <LEXReference>06100201600012</LEXReference>
+          </LEXReferences>
+          <LEXLinks>
+            <LEXLink>fauna:2.4</LEXLink>
+          </LEXLinks>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

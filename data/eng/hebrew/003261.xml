@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="003261000000000" Lemma="כול" Version="5" HasAramaic="false" InLXX="false" AlphaPos="כ">
+  <StrongCodes>
+    <Strong>H3557</Strong>
+  </StrongCodes>
+  <Authors>
+    <Author>Enio R. Mueller</Author>
+  </Authors>
+  <Contributors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes>
+    <Note Caller="1" LanguageCode="en" LastEdited="" LastEditedBy="">
+      <References>
+        <Reference>03801101600050</Reference>
+      </References>
+      <Content>NJPS "sustain the frail" REB "nurse the sickly" NJB "support the swollen" | NIV "feed the healthy" (NRSV GNT)</Content>
+    </Note>
+    <Note Caller="2" LanguageCode="en" LastEdited="" LastEditedBy="">
+      <References>
+        <Reference>02304001200026</Reference>
+      </References>
+      <Content>NIV NRSV REB NJB GNT understand the meaning here as "to hold in" | NJPS as "to measure with", in accordance with the parallel verbs</Content>
+    </Note>
+  </Notes>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="003261001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>vb</PartOfSpeech>
+      </PartsOfSpeech>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="003261001001000" IsBiblicalTerm="Y" EntryCode="" Indent="0">
+          <LEXDomains>
+            <LEXDomain Code="002002001003">Contain</LEXDomain>
+          </LEXDomains>
+          <LEXForms>
+            <LEXForm>vbqal-</LEXForm>
+            <LEXForm>vbpiel</LEXForm>
+            <LEXForm>vbhif-</LEXForm>
+          </LEXForms>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2017-05-16 09:41:22" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>= state in which a container is able to accomodate something within its available space</DefinitionShort>
+              <Glosses>
+                <Gloss>to hold</Gloss>
+                <Gloss>to contain</Gloss>
+                <Gloss>to accommodate</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>01100702600028</LEXReference>
+            <LEXReference>01100703800016</LEXReference>
+            <LEXReference>01100802700034</LEXReference>
+            <LEXReference>01100806400086</LEXReference>
+            <LEXReference>01400200500034</LEXReference>
+            <LEXReference>01400400500032</LEXReference>
+            <LEXReference>01400601800038</LEXReference>
+            <LEXReference>01400700700066</LEXReference>
+            <LEXReference>02304001200026{N:001}</LEXReference>
+            <LEXReference>02400201300038</LEXReference>
+            <LEXReference>02602303200042</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+          <LEXCoreDomains>
+            <LEXCoreDomain Code="171">Storage</LEXCoreDomain>
+          </LEXCoreDomains>
+        </LEXMeaning>
+        <LEXMeaning Id="003261001002000" IsBiblicalTerm="Y" EntryCode="" Indent="0">
+          <LEXDomains>
+            <LEXDomain Code="002003002005" Source="Contain" SourceCode="002002001003">Care</LEXDomain>
+          </LEXDomains>
+          <LEXForms>
+            <LEXForm>vbpiel</LEXForm>
+            <LEXForm>vbpual (passive)</LEXForm>
+          </LEXForms>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2017-05-16 09:41:22" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>literally: to cause to contain; hence: = causative action by which humans, animals or deities ensure that (other) humans received the food and care that they need</DefinitionShort>
+              <Glosses>
+                <Gloss>to provide for</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>00104501100004</LEXReference>
+            <LEXReference>00104701200004</LEXReference>
+            <LEXReference>00105002100012</LEXReference>
+            <LEXReference>00800401500018</LEXReference>
+            <LEXReference>01001903300020</LEXReference>
+            <LEXReference>01001903400022</LEXReference>
+            <LEXReference>01002000300052</LEXReference>
+            <LEXReference>01100400700022</LEXReference>
+            <LEXReference>01100400700058</LEXReference>
+            <LEXReference>01100500700004</LEXReference>
+            <LEXReference>01101700400026</LEXReference>
+            <LEXReference>01101700900032</LEXReference>
+            <LEXReference>01101800400044</LEXReference>
+            <LEXReference>01101801300058</LEXReference>
+            <LEXReference>01102002700012</LEXReference>
+            <LEXReference>01600902100008</LEXReference>
+            <LEXReference>01905502300014</LEXReference>
+            <LEXReference>03801101600050</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+          <LEXCoreDomains>
+            <LEXCoreDomain Code="196">Well-Being</LEXCoreDomain>
+          </LEXCoreDomains>
+        </LEXMeaning>
+        <LEXMeaning Id="003261001003000" IsBiblicalTerm="Y" EntryCode="" Indent="0">
+          <LEXDomains>
+            <LEXDomain Code="002001002020" Source="Contain" SourceCode="002002001003">Patient</LEXDomain>
+          </LEXDomains>
+          <LEXForms>
+            <LEXForm>vbpiel</LEXForm>
+            <LEXForm>vbhif-</LEXForm>
+          </LEXForms>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2017-05-16 09:41:22" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>literally: to contain; hence: = state in which humans are able to handle or deal with a situation</DefinitionShort>
+              <Glosses>
+                <Gloss>to endure</Gloss>
+                <Gloss>to hold in</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>02001801400006</LEXReference>
+            <LEXReference>02400601100014</LEXReference>
+            <LEXReference>02401001000036</LEXReference>
+            <LEXReference>02402000900046</LEXReference>
+            <LEXReference>02900201100050</LEXReference>
+            <LEXReference>03000701000048</LEXReference>
+            <LEXReference>03900300200006</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+        <LEXMeaning Id="003261001004000" IsBiblicalTerm="Y" EntryCode="" Indent="0">
+          <LEXDomains>
+            <LEXDomain Code="002003003019" Source="Contain" SourceCode="002002001003">Succeed</LEXDomain>
+          </LEXDomains>
+          <LEXForms>
+            <LEXForm>vbpiel</LEXForm>
+            <LEXForm>vbhif-</LEXForm>
+          </LEXForms>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2017-05-16 09:41:22" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>= process by which humans or objects attain a certain goal</DefinitionShort>
+              <Glosses>
+                <Gloss>to accomplish</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>01911200500012</LEXReference>
+            <LEXReference>02602103300054</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+          <LEXCoreDomains>
+            <LEXCoreDomain Code="173">Success and Failure</LEXCoreDomain>
+          </LEXCoreDomains>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

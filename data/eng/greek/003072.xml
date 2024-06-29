@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="003072000000000" Lemma="λόγιος" Version="0" HasAramaic="false" InLXX="false" AlphaPos="λ">
+  <StrongCodes>
+    <Strong>G3052</Strong>
+  </StrongCodes>
+  <Authors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes/>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="003072001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>adjc.</PartOfSpeech>
+      </PartsOfSpeech>
+      <Inflections>
+        <Inflection Lemma="λόγιος" BaseFormIndex="1">
+          <Form/>
+          <Realizations>
+            <Realization>-α, -ον</Realization>
+          </Realizations>
+          <Comments/>
+        </Inflection>
+      </Inflections>
+      <RelatedLemmas>
+        <RelatedLemma>
+          <Word>λέγω</Word>
+        </RelatedLemma>
+      </RelatedLemmas>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="003072001001000" IsBiblicalTerm="Y" EntryCode="33.32" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Communication</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Language Levels</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-11-11 12:49:11" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>pertaining to attractive and convincing speech</DefinitionShort>
+              <Glosses>
+                <Gloss>eloquent</Gloss>
+              </Glosses>
+              <Comments>It is also possible to understand λόγιος in {S:04401802400020} as meaning ‘learned’ (see {D:27.20}).</Comments>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04401802400020</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+        <LEXMeaning Id="003072001002000" IsBiblicalTerm="Y" EntryCode="27.20" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Learn</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Learn</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-11-11 12:49:11" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>pertaining to one who has learned a great deal of the intellectual heritage of a culture</DefinitionShort>
+              <Glosses>
+                <Gloss>learned</Gloss>
+                <Gloss>cultured</Gloss>
+              </Glosses>
+              <Comments>It is also possible to understand {L:λόγιος&lt;SDBG:λόγιος:000000&gt;} in {S:04401802400020} as meaning ‘eloquent’ (see {D:33.32}).</Comments>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04401802400020</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

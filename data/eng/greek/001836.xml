@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="001836000000000" Lemma="ἐξαποστέλλω" Version="0" HasAramaic="false" InLXX="true" AlphaPos="ε">
+  <StrongCodes>
+    <Strong>G1821</Strong>
+  </StrongCodes>
+  <Authors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes>
+    <Note Caller="1" LanguageCode="en" LastEdited="" LastEditedBy="">
+      <References/>
+      <Content>πέμπω, ἀποστέλλω, and ἐξαποστέλλω in the contexts in {D:15.67} could be classified as a type of communication in Domain 33.</Content>
+    </Note>
+  </Notes>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="001836001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>verb</PartOfSpeech>
+      </PartsOfSpeech>
+      <Inflections>
+        <Inflection Lemma="ἐξαποστέλλω" BaseFormIndex="1">
+          <Form>fut.</Form>
+          <Realizations>
+            <Realization>ἐξαποστελῶ</Realization>
+          </Realizations>
+          <Comments/>
+        </Inflection>
+        <Inflection Lemma="ἐξαποστέλλω" BaseFormIndex="1">
+          <Form>aor.</Form>
+          <Realizations>
+            <Realization>ἐξαπέστειλα</Realization>
+          </Realizations>
+          <Comments/>
+        </Inflection>
+        <Inflection Lemma="ἐξαποστέλλω" BaseFormIndex="1">
+          <Form>aor.pass.</Form>
+          <Realizations>
+            <Realization>ἐξαπεστάλην</Realization>
+          </Realizations>
+          <Comments/>
+        </Inflection>
+      </Inflections>
+      <RelatedLemmas>
+        <RelatedLemma>
+          <Word>στέλλομαι</Word>
+        </RelatedLemma>
+      </RelatedLemmas>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="001836001001000" IsBiblicalTerm="Y" EntryCode="15.68" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Linear Movement</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Leave, Depart, Flee, Escape, Send</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-06-04 20:02:37" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>to send out or away from, presumably for some purpose</DefinitionShort>
+              <Glosses>
+                <Gloss>to send</Gloss>
+                <Gloss>to send out</Gloss>
+                <Gloss>to send forth</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04200105300012</LEXReference>
+            <LEXReference>04202001000038</LEXReference>
+            <LEXReference>04202001100024</LEXReference>
+            <LEXReference>04400701200016</LEXReference>
+            <LEXReference>04400903000020</LEXReference>
+            <LEXReference>04401102200034</LEXReference>
+            <LEXReference>04401201100024</LEXReference>
+            <LEXReference>04401701400012</LEXReference>
+            <LEXReference>04402202100022</LEXReference>
+            <LEXReference>04800400400016</LEXReference>
+            <LEXReference>04800400600010</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+        <LEXMeaning Id="001836001002000" IsBiblicalTerm="Y" EntryCode="15.67" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Linear Movement</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Leave, Depart, Flee, Escape, Send</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-06-04 20:02:37" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>to send a message, presumably by someone{N:001}</DefinitionShort>
+              <Glosses>
+                <Gloss>to send a message</Gloss>
+                <Gloss>to send word</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04101600800082</LEXReference>
+            <LEXReference>04401302600038</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

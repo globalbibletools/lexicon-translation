@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="003634000000000" Lemma="ὁρκωμοσία" Version="0" HasAramaic="false" InLXX="true" AlphaPos="ο">
+  <StrongCodes>
+    <Strong>G3728</Strong>
+  </StrongCodes>
+  <Authors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes/>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="003634001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>noun, f.</PartOfSpeech>
+      </PartsOfSpeech>
+      <Inflections>
+        <Inflection Lemma="ὁρκωμοσία" BaseFormIndex="1">
+          <Form/>
+          <Realizations>
+            <Realization>-ας</Realization>
+          </Realizations>
+          <Comments/>
+        </Inflection>
+      </Inflections>
+      <Constructs>
+        <Construct Lemma="ὁρκωμοσία" BaseFormIndex="1">
+          <WordMeaningSet>
+            <Word>ὁρκίζω</Word>
+          </WordMeaningSet>
+          <WordMeaningSet>
+            <Word>ὀμνύω</Word>
+          </WordMeaningSet>
+        </Construct>
+      </Constructs>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="003634001001000" IsBiblicalTerm="M" EntryCode="33.463" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Communication</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Swear, Put Under Oath, Vow</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2022-01-21 12:05:23" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>to affirm the truth of a statement by calling on a divine being to execute sanctions against a person if the statement in question is not true (in the case of a deity taking an oath, his divine being is regarded as validating the statement)</DefinitionShort>
+              <Glosses>
+                <Gloss>to swear</Gloss>
+                <Gloss>to make an oath</Gloss>
+                <Gloss>oath</Gloss>
+              </Glosses>
+              <Comments>In a number of languages it is necessary to be quite specific in referring to the swearing of an oath, for example, ‘to say something by calling upon God to listen’ or ‘to state that something is true and asking God to punish if it is not true’ or ‘to make God responsible for what one has said.’</Comments>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>05800702000012</LEXReference>
+            <LEXReference>05800702000022</LEXReference>
+            <LEXReference>05800702100008</LEXReference>
+            <LEXReference>05800702800026</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

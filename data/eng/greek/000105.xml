@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="000105000000000" Lemma="ἀετός" Version="0" HasAramaic="false" InLXX="true" AlphaPos="α">
+  <StrongCodes>
+    <Strong>G0105</Strong>
+  </StrongCodes>
+  <Authors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes/>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="000105001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>noun, m.</PartOfSpeech>
+      </PartsOfSpeech>
+      <Inflections>
+        <Inflection Lemma="ἀετός" BaseFormIndex="1">
+          <Form/>
+          <Realizations>
+            <Realization>-οῦ</Realization>
+          </Realizations>
+          <Comments/>
+        </Inflection>
+      </Inflections>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="000105001001000" IsBiblicalTerm="M" EntryCode="4.42" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Animals</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Birds</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-03-04 12:21:54" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>generic word for a large bird of prey; genus Aquila, but may include others, esp. vulture</DefinitionShort>
+              <Glosses>
+                <Gloss>eagle</Gloss>
+                <Gloss>vulture</Gloss>
+              </Glosses>
+              <Comments>In {S:06601201400018} the emphasis is upon strength and speed, and therefore a term meaning ‘eagle’ is probably more satisfactory, but in {S:04002402800018} (and the parallel passages in {S:04201703700034}) the reference is to the eating of dead flesh, and therefore a word meaning ‘vultures’ is more appropriate.|The basic distinction between eagles and vultures is that the former either capture their prey or feed upon dead carcasses, while vultures only feed upon dead carcasses. Only in the Western Hemisphere are there two distinct families of birds: (1) birds of prey, which also feed upon dead bodies (eagles) and (2) vultures, which never take live prey, but only feed upon carcasses.</Comments>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04002402800018</LEXReference>
+            <LEXReference>04201703700034</LEXReference>
+            <LEXReference>06600400700056</LEXReference>
+            <LEXReference>06600801300012</LEXReference>
+            <LEXReference>06601201400018</LEXReference>
+          </LEXReferences>
+          <LEXLinks>
+            <LEXLink>fauna:3.8</LEXLink>
+          </LEXLinks>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

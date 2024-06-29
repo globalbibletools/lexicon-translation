@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="000795000000000" Lemma="ἄστρον" Version="0" HasAramaic="false" InLXX="true" AlphaPos="α">
+  <StrongCodes>
+    <Strong>G0798</Strong>
+  </StrongCodes>
+  <Authors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes/>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="000795001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>noun, n.</PartOfSpeech>
+      </PartsOfSpeech>
+      <Inflections>
+        <Inflection Lemma="ἄστρον" BaseFormIndex="1">
+          <Form/>
+          <Realizations>
+            <Realization>-ου</Realization>
+          </Realizations>
+          <Comments/>
+        </Inflection>
+      </Inflections>
+      <RelatedLemmas>
+        <RelatedLemma>
+          <Word>ἀστήρ</Word>
+        </RelatedLemma>
+      </RelatedLemmas>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="000795001001000" IsBiblicalTerm="M" EntryCode="1.30" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Geographical Objects and Features</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Heavenly Bodies</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-08-17 14:10:06" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>a star or a planet</DefinitionShort>
+              <Glosses>
+                <Gloss>star</Gloss>
+                <Gloss>planet</Gloss>
+              </Glosses>
+              <Comments>In selecting a term for ‘star,’ it is important to avoid an expression which may relate to only one set of stars, that is to say, a particular constellation, since there may be connotations associated with such a constellation which can radically alter the intent of a particular passage. Some constellations, for example, may be regarded as kindly disposed toward mankind, while others may be regarded as hostile.</Comments>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04202102500018</LEXReference>
+            <LEXReference>04400704300018</LEXReference>
+            <LEXReference>04402702000010</LEXReference>
+            <LEXReference>05801101200022</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+        <LEXMeaning Id="000795001002000" IsBiblicalTerm="Y" EntryCode="1.31" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Geographical Objects and Features</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Heavenly Bodies</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-08-17 14:10:06" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>a group of stars</DefinitionShort>
+              <Glosses>
+                <Gloss>constellation</Gloss>
+              </Glosses>
+              <Comments>Normally a constellation may be described as ‘a group of stars’ or ‘a family of stars’ or ‘stars that travel together’ or even ‘stars that live together.’ It is possible, however, to interpret the occurrence of ἄστρον in {S:04400704300018} as being a reference to a particular planet (namely, Saturn) rather than a constellation.</Comments>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04400704300018</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

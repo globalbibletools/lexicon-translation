@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="000316000000000" Lemma="ἀναγινώσκω" Version="0" HasAramaic="false" InLXX="true" AlphaPos="α">
+  <StrongCodes>
+    <Strong>G0314</Strong>
+  </StrongCodes>
+  <Authors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes>
+    <Note Caller="1" LanguageCode="en" LastEdited="" LastEditedBy="">
+      <References/>
+      <Content>ἀναγινώσκω and ἀνάγνωσις are placed in this subdomain as a type of semantic converse of γράφω ({D:33.61}) and related terms meaning ‘to write.’</Content>
+    </Note>
+  </Notes>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="000316001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>verb</PartOfSpeech>
+      </PartsOfSpeech>
+      <Inflections>
+        <Inflection Lemma="ἀναγινώσκω" BaseFormIndex="1">
+          <Form>aor.</Form>
+          <Realizations>
+            <Realization>ἀνέγνων</Realization>
+          </Realizations>
+          <Comments/>
+        </Inflection>
+        <Inflection Lemma="ἀναγινώσκω" BaseFormIndex="1">
+          <Form>inf.</Form>
+          <Realizations>
+            <Realization>ἀναγνῶναι</Realization>
+          </Realizations>
+          <Comments/>
+        </Inflection>
+        <Inflection Lemma="ἀναγινώσκω" BaseFormIndex="1">
+          <Form>ptc.</Form>
+          <Realizations>
+            <Realization>ἀναγνούς</Realization>
+          </Realizations>
+          <Comments/>
+        </Inflection>
+        <Inflection Lemma="ἀναγινώσκω" BaseFormIndex="1">
+          <Form>aor.pass.inf.</Form>
+          <Realizations>
+            <Realization>ἀναγνωσθῆναι</Realization>
+          </Realizations>
+          <Comments/>
+        </Inflection>
+      </Inflections>
+      <RelatedLemmas>
+        <RelatedLemma>
+          <Word>γινώσκω</Word>
+        </RelatedLemma>
+      </RelatedLemmas>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="000316001001000" IsBiblicalTerm="Y" EntryCode="33.68" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Communication</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Written Language</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-08-03 12:52:36" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>to read something written, normally done aloud and thus involving verbalization{N:001}</DefinitionShort>
+              <Glosses>
+                <Gloss>to read</Gloss>
+                <Gloss>reading</Gloss>
+              </Glosses>
+              <Comments>In areas where literacy is a relatively new factor in the culture, idiomatic expressions are often employed for reading, for example, ‘to let paper speak’ or ‘to mouth the marks on paper’ or ‘to see speech.’</Comments>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04001200300012</LEXReference>
+            <LEXReference>04001200500006</LEXReference>
+            <LEXReference>04001900400012</LEXReference>
+            <LEXReference>04002101600030</LEXReference>
+            <LEXReference>04002104200012</LEXReference>
+            <LEXReference>04002203100016</LEXReference>
+            <LEXReference>04002401500038</LEXReference>
+            <LEXReference>04100202500010</LEXReference>
+            <LEXReference>04101201000010</LEXReference>
+            <LEXReference>04101202600016</LEXReference>
+            <LEXReference>04101301400026</LEXReference>
+            <LEXReference>04200401600048</LEXReference>
+            <LEXReference>04200600300020</LEXReference>
+            <LEXReference>04201002600024</LEXReference>
+            <LEXReference>04301902000012</LEXReference>
+            <LEXReference>04400802800022</LEXReference>
+            <LEXReference>04400803000014</LEXReference>
+            <LEXReference>04400803000034</LEXReference>
+            <LEXReference>04400803200014</LEXReference>
+            <LEXReference>04401302700042</LEXReference>
+            <LEXReference>04401502100036</LEXReference>
+            <LEXReference>04401503100002</LEXReference>
+            <LEXReference>04402303400002</LEXReference>
+            <LEXReference>04700101300018</LEXReference>
+            <LEXReference>04700300200026</LEXReference>
+            <LEXReference>04700301500012</LEXReference>
+            <LEXReference>04900300400008</LEXReference>
+            <LEXReference>05100401600006</LEXReference>
+            <LEXReference>05100401600030</LEXReference>
+            <LEXReference>05100401600046</LEXReference>
+            <LEXReference>05200502700010</LEXReference>
+            <LEXReference>06600100300006</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

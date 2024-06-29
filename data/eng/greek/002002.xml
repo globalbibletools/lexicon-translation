@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="002002000000000" Lemma="ἐπισκοπή" Version="0" HasAramaic="false" InLXX="true" AlphaPos="ε">
+  <StrongCodes>
+    <Strong>G1984</Strong>
+  </StrongCodes>
+  <Authors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes/>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="002002001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>noun, f.</PartOfSpeech>
+      </PartsOfSpeech>
+      <Inflections>
+        <Inflection Lemma="ἐπισκοπή" BaseFormIndex="1">
+          <Form/>
+          <Realizations>
+            <Realization>-ῆς</Realization>
+          </Realizations>
+          <Comments/>
+        </Inflection>
+      </Inflections>
+      <RelatedLemmas>
+        <RelatedLemma>
+          <Word>σκοπή</Word>
+          <Meaning LanguageCode="en">
+            <Meaning>look-out place</Meaning>
+          </Meaning>
+          <Meaning LanguageCode="zhT">
+            <Meaning>瞭望的地方</Meaning>
+          </Meaning>
+        </RelatedLemma>
+        <RelatedLemma>
+          <Word>σκοπέω</Word>
+        </RelatedLemma>
+      </RelatedLemmas>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="002002001001000" IsBiblicalTerm="M" EntryCode="34.51" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Association</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Visit</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-06-25 09:16:44" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>the coming of divine power, either for benefit or judgment</DefinitionShort>
+              <Glosses>
+                <Gloss>coming</Gloss>
+                <Gloss>visitation</Gloss>
+              </Glosses>
+              <Comments>In {S:06000201200052} the reference may be to God’s coming to rule or his coming in judgment.</Comments>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04201904400050</LEXReference>
+            <LEXReference>06000201200052</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+        <LEXMeaning Id="002002001002000" IsBiblicalTerm="Y" EntryCode="53.69" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Religious Activities</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Roles and Functions</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-06-25 09:16:44" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>a religious role involving both service and leadership</DefinitionShort>
+              <Glosses>
+                <Gloss>office</Gloss>
+                <Gloss>position</Gloss>
+                <Gloss>ministry as church leader</Gloss>
+              </Glosses>
+              <Comments>See discussion at {D:53.71}. For a more probable interpretation of ἐπισκοπή in {S:04400102000040}, see {D:35.40}.</Comments>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04400102000040</LEXReference>
+            <LEXReference>05400300100012</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+        <LEXMeaning Id="002002001003000" IsBiblicalTerm="Y" EntryCode="35.40" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Help, Care For</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Care For, Take Care Of</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-06-25 09:16:44" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>(derivative of {L:ἐπισκοπέω&lt;SDBG:ἐπισκοπέω:000000&gt;}[a] ‘to take care of,’ {D:35.39}) the position of one who has responsibility for the care of someone</DefinitionShort>
+              <Glosses>
+                <Gloss>position of responsibility</Gloss>
+                <Gloss>position of oversight</Gloss>
+              </Glosses>
+              <Comments>Though in some contexts ἐπισκοπή has been regarded traditionally as a position of authority, in reality the focus is upon the responsibility for caring for others, and in the context of {S:04400102000040} the reference is clearly to the responsibility for caring for the church (see {D:53.69}).</Comments>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04400102000040</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="006912000000000" Lemma="רֶצַח" Version="5" HasAramaic="false" InLXX="false" AlphaPos="ר">
+  <StrongCodes>
+    <Strong>H7524</Strong>
+  </StrongCodes>
+  <Authors>
+    <Author>Eric Tully</Author>
+  </Authors>
+  <Contributors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes>
+    <Note Caller="1" LanguageCode="en" LastEdited="" LastEditedBy="">
+      <References>
+        <Reference>02602102700028</Reference>
+      </References>
+      <Content>{A:MT} {A:HOTTP}-C {A:NIV} {A:NJPS} {A:NJB} {A:NRSV} {A:REB} {A:CEV} | {A:LXX} {A:RSV} {A:GNT} בצרח "with a cry"</Content>
+    </Note>
+  </Notes>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="006912001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>nsm</PartOfSpeech>
+      </PartsOfSpeech>
+      <RelatedLemmas>
+        <RelatedLemma>
+          <Word>רצח</Word>
+        </RelatedLemma>
+      </RelatedLemmas>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="006912001001000" IsBiblicalTerm="M" EntryCode="" Indent="0">
+          <LEXDomains>
+            <LEXDomain Code="002001001019">Dead</LEXDomain>
+          </LEXDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2017-04-16 12:37:27" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>= causative action by which humans take the life of other humans, whether or not intentionally</DefinitionShort>
+              <Glosses>
+                <Gloss>murder</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>02602102700028{N:001}</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+        <LEXMeaning Id="006912001002000" IsBiblicalTerm="Y" EntryCode="" Indent="0">
+          <LEXDomains>
+            <LEXDomain Code="002001002013" Source="Dead" SourceCode="002001001019">Grieve</LEXDomain>
+          </LEXDomains>
+          <LEXCollocations>
+            <LEXCollocation>רֶצַח בְּעַצְמֹות</LEXCollocation>
+          </LEXCollocations>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2017-04-16 12:37:27" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>literally: murder in one's bones; hence: = act of non-physical aggression to an individual's personality</DefinitionShort>
+              <Glosses>
+                <Gloss>great distress</Gloss>
+                <Gloss>agony</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>01904201100004</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+          <LEXCoreDomains>
+            <LEXCoreDomain Code="093">Joy and Grief</LEXCoreDomain>
+          </LEXCoreDomains>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

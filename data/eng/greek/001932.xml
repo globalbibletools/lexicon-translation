@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="001932000000000" Lemma="ἐπίβλημα" Version="0" HasAramaic="false" InLXX="true" AlphaPos="ε">
+  <StrongCodes>
+    <Strong>G1915</Strong>
+  </StrongCodes>
+  <Authors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes/>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="001932001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>noun, n.</PartOfSpeech>
+      </PartsOfSpeech>
+      <Inflections>
+        <Inflection Lemma="ἐπίβλημα" BaseFormIndex="1">
+          <Form/>
+          <Realizations>
+            <Realization>-τος</Realization>
+          </Realizations>
+          <Comments/>
+        </Inflection>
+      </Inflections>
+      <RelatedLemmas>
+        <RelatedLemma>
+          <Word>βάλλω</Word>
+        </RelatedLemma>
+      </RelatedLemmas>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="001932001001000" IsBiblicalTerm="M" EntryCode="6.157" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Artifacts</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Cloth, Leather, and Objects Made of Such Materials</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-06-18 08:44:05" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>a piece of cloth sewed on clothing to repair a hole or tear</DefinitionShort>
+              <Glosses>
+                <Gloss>patch</Gloss>
+              </Glosses>
+              <Comments>The statement in {S:04000901600008} that ‘no one puts a patch of new cloth on an old garment’ seems almost preposterous or incredible in some societies, since people habitually repair old clothing by putting on patches of new cloth, sometimes to the point where it is difficult to determine what was the original fabric. In {S:04000901600008} the phrase ῥάκους ἀγνάφου, often translated ‘new cloth,’ is literally ‘unshrunken cloth,’ in other words, cloth which has not been washed one or more times and thus has been shrunken in the process. In biblical times there was no technique for preshrinking cloth.</Comments>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04000901600008</LEXReference>
+            <LEXReference>04100202100004</LEXReference>
+            <LEXReference>04200503600018</LEXReference>
+            <LEXReference>04200503600064</LEXReference>
+          </LEXReferences>
+          <LEXLinks>
+            <LEXLink>realia:1.5.3.12</LEXLink>
+          </LEXLinks>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

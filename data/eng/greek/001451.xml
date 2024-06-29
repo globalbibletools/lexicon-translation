@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="001451000000000" Lemma="δῶμα" Version="0" HasAramaic="false" InLXX="true" AlphaPos="δ">
+  <StrongCodes>
+    <Strong>G1430</Strong>
+  </StrongCodes>
+  <Authors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes>
+    <Note Caller="1" LanguageCode="en" LastEdited="" LastEditedBy="">
+      <References/>
+      <Content>It is very possible that the two idioms in {D:28.64} differ somewhat in meaning, or at least in connotation, but it is difficult, if not impossible, to show this from existing contexts.</Content>
+    </Note>
+  </Notes>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="001451001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>noun, n.</PartOfSpeech>
+      </PartsOfSpeech>
+      <Inflections>
+        <Inflection Lemma="δῶμα" BaseFormIndex="1">
+          <Form/>
+          <Realizations>
+            <Realization>-τος</Realization>
+          </Realizations>
+          <Comments/>
+        </Inflection>
+      </Inflections>
+      <RelatedLemmas>
+        <RelatedLemma>
+          <Word>ἐνδώμησις</Word>
+        </RelatedLemma>
+        <RelatedLemma>
+          <Word>ἐποικοδομέω</Word>
+        </RelatedLemma>
+        <RelatedLemma>
+          <Word>οἰκοδομέω</Word>
+        </RelatedLemma>
+        <RelatedLemma>
+          <Word>οἰκοδομή</Word>
+        </RelatedLemma>
+        <RelatedLemma>
+          <Word>οἰκοδόμος</Word>
+        </RelatedLemma>
+        <RelatedLemma>
+          <Word>συνοικοδομέω</Word>
+        </RelatedLemma>
+      </RelatedLemmas>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="001451001001000" IsBiblicalTerm="M" EntryCode="7.51" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Constructions</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Parts and Areas of Buildings</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-06-16 21:02:34" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>the area on the top of a flat-roof house</DefinitionShort>
+              <Glosses>
+                <Gloss>housetop</Gloss>
+              </Glosses>
+              <Comments>The phrase κηρύξατε ἐπὶ τῶν δωμάτων ‘proclaim from the housetops’ ({S:04001002700040}) is an idiom meaning ‘to proclaim publicly’ (see {D:28.64}). See {D:7.50} for comments relating to translational problems.</Comments>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04001002700040</LEXReference>
+            <LEXReference>04002401700008</LEXReference>
+            <LEXReference>04101301500010</LEXReference>
+            <LEXReference>04200501900026</LEXReference>
+            <LEXReference>04201200300048</LEXReference>
+            <LEXReference>04201703100018</LEXReference>
+            <LEXReference>04401000900028</LEXReference>
+          </LEXReferences>
+          <LEXLinks>
+            <LEXLink>realia:3.1.5</LEXLink>
+          </LEXLinks>
+          <LEXVideos/>
+        </LEXMeaning>
+        <LEXMeaning Id="001451001002000" IsBiblicalTerm="Y" EntryCode="28.64" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Know</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Able To Be Known</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXCollocations>
+            <LEXCollocation>ἐπὶ τῶν δωμάτων</LEXCollocation>
+          </LEXCollocations>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-06-16 21:02:34" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>(an idiom, literally: on the housetops) pertaining to being widely known in view of the events in question having taken place in public{N:001}</DefinitionShort>
+              <Glosses>
+                <Gloss>in public</Gloss>
+                <Gloss>publicly</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04001002700040</LEXReference>
+            <LEXReference>04201200300048</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

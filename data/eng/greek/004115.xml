@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="004115000000000" Lemma="πόσις" Version="0" HasAramaic="false" InLXX="true" AlphaPos="π">
+  <StrongCodes>
+    <Strong>G4213</Strong>
+  </StrongCodes>
+  <Authors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes/>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="004115001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>noun, f.</PartOfSpeech>
+      </PartsOfSpeech>
+      <Inflections>
+        <Inflection Lemma="πόσις" BaseFormIndex="1">
+          <Form/>
+          <Realizations>
+            <Realization>-εως</Realization>
+          </Realizations>
+          <Comments/>
+        </Inflection>
+      </Inflections>
+      <RelatedLemmas>
+        <RelatedLemma>
+          <Word>πίνω</Word>
+        </RelatedLemma>
+      </RelatedLemmas>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="004115001001000" IsBiblicalTerm="Y" EntryCode="5.6" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Foods and Condiments</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Food</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2022-01-06 15:24:47" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>liquids used for nourishment or to satisfy thirst</DefinitionShort>
+              <Glosses>
+                <Gloss>a drink</Gloss>
+              </Glosses>
+              <Comments>Though in many languages the equivalent of πόσις and πόμα would be a verbal derivative meaning basically ‘that which is drunk,’ in other languages the equivalent may be ‘watery food’ or ‘liquid food.’|In some languages, however, one cannot refer to ‘blood’ ({S:04300605500028}) as being ‘drink,’ since blood is classified as food rather than as drink. On the other hand, it may be possible to translate ‘my blood is the real drink’ as ‘my blood is real nourishment.’ The expression ‘food and drink’ ({S:05800901000010}) may be better rendered in some languages as ‘all kinds of food.’</Comments>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04300605500028</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+        <LEXMeaning Id="004115001002000" IsBiblicalTerm="M" EntryCode="23.34" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Physiological Processes and States</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Eat, Drink</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2022-01-06 15:24:47" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>consumption of liquids, particularly water and wine</DefinitionShort>
+              <Glosses>
+                <Gloss>drinking</Gloss>
+              </Glosses>
+              <Comments>In a number of languages a clear distinction is made between drinking water and drinking alcoholic beverages. Still other terms may be employed in speaking of drinking soups or broths.</Comments>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04501401700020</LEXReference>
+            <LEXReference>05100201600020</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="000882000000000" Lemma="ἀχάριστος" Version="0" HasAramaic="false" InLXX="true" AlphaPos="α">
+  <StrongCodes>
+    <Strong>G0884</Strong>
+  </StrongCodes>
+  <Authors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes/>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="000882001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>adjc.</PartOfSpeech>
+      </PartsOfSpeech>
+      <Inflections>
+        <Inflection Lemma="ἀχάριστος" BaseFormIndex="1">
+          <Form/>
+          <Realizations>
+            <Realization>-ον</Realization>
+          </Realizations>
+          <Comments/>
+        </Inflection>
+      </Inflections>
+      <Constructs>
+        <Construct Lemma="ἀχάριστος" BaseFormIndex="1">
+          <WordMeaningSet>
+            <Word>ἀ-</Word>
+          </WordMeaningSet>
+          <WordMeaningSet>
+            <Word>χαρίζομαι</Word>
+          </WordMeaningSet>
+        </Construct>
+      </Constructs>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="000882001001000" IsBiblicalTerm="Y" EntryCode="25.101" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Attitudes and Emotions</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Thankful, Grateful</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-08-18 16:58:48" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>pertaining to a complete lack of thankfulness</DefinitionShort>
+              <Glosses>
+                <Gloss>unthankful</Gloss>
+                <Gloss>ungrateful</Gloss>
+              </Glosses>
+              <Comments>For another interpretation of ἀχάριστος in {S:04200603500056}, see ἀχάριστος[b] {D:33.353}.</Comments>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04200603500056</LEXReference>
+            <LEXReference>05500300200024</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+        <LEXMeaning Id="000882001002000" IsBiblicalTerm="Y" EntryCode="33.353" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Communication</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Thanks</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-08-18 16:58:48" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>pertaining to not being thankful</DefinitionShort>
+              <Glosses>
+                <Gloss>unthankful</Gloss>
+                <Gloss>ungrateful</Gloss>
+              </Glosses>
+              <Comments>For another interpretation of ἀχάριστος in {S:04200603500056}, see {L:ἀχάριστος&lt;SDBG:ἀχάριστος:000000&gt;}[a] {D:25.101}.</Comments>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04200603500056</LEXReference>
+            <LEXReference>05500300200024</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

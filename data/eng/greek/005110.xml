@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="005110000000000" Lemma="ὕπαρξις" Version="0" HasAramaic="false" InLXX="true" AlphaPos="υ">
+  <StrongCodes>
+    <Strong>G5223</Strong>
+  </StrongCodes>
+  <Authors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes>
+    <Note Caller="1" LanguageCode="en" LastEdited="" LastEditedBy="">
+      <References/>
+      <Content>ὕπαρξις and τὰ ὑπάρχοντα are similar in meaning to κτῆμα ({D:57.15}) but are probably more generic in reference and more formal in connotation.</Content>
+    </Note>
+    <Note Caller="2" LanguageCode="en" LastEdited="" LastEditedBy="">
+      <References>
+        <Reference>04400204500012</Reference>
+      </References>
+      <Content>It is possible that in {S:04400204500012} τὰ κτήματα (see {D:57.15}) refers to real estate (in accordance with later usage of κτῆμα) and that τὰς ὑπάρξεις refers to possessions in general, but the combination of the two expressions may simply be used for emphasis, thus specifying the extent of the possessions in question or the fact that all types of possessions were brought.</Content>
+    </Note>
+  </Notes>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="005110001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>noun, f.</PartOfSpeech>
+      </PartsOfSpeech>
+      <Inflections>
+        <Inflection Lemma="ὕπαρξις" BaseFormIndex="1">
+          <Form/>
+          <Realizations>
+            <Realization>-εως</Realization>
+          </Realizations>
+          <Comments/>
+        </Inflection>
+      </Inflections>
+      <RelatedLemmas>
+        <RelatedLemma>
+          <Word>ἄρχω</Word>
+        </RelatedLemma>
+      </RelatedLemmas>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="005110001001000" IsBiblicalTerm="M" EntryCode="57.16" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Possess, Transfer, Exchange</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Have, Possess, Property, Owner</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2022-04-19 07:56:04" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>(derivative of {L:ὑπάρχω&lt;SDBG:ὑπάρχω:000003&gt;}[d] ‘to belong to,’ {D:57.2}) that which constitutes someone’s possession{N:001}</DefinitionShort>
+              <Glosses>
+                <Gloss>possessions</Gloss>
+                <Gloss>property</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04400204500012{N:002}</LEXReference>
+            <LEXReference>05801003400038</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="004636000000000" Lemma="נגן" Version="4" HasAramaic="false" InLXX="false" AlphaPos="נ">
+  <StrongCodes>
+    <Strong>H5059</Strong>
+  </StrongCodes>
+  <Authors>
+    <Author>Reinier de Blois</Author>
+  </Authors>
+  <Contributors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes/>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="004636001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>vb</PartOfSpeech>
+      </PartsOfSpeech>
+      <RelatedLemmas>
+        <RelatedLemma>
+          <Word>מַנְגִּינָה</Word>
+        </RelatedLemma>
+        <RelatedLemma>
+          <Word>נְגִינָה</Word>
+        </RelatedLemma>
+      </RelatedLemmas>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="004636001001000" IsBiblicalTerm="M" EntryCode="" Indent="0">
+          <LEXDomains>
+            <LEXDomain Code="002003001013">Play</LEXDomain>
+          </LEXDomains>
+          <LEXForms>
+            <LEXForm>vbpiel</LEXForm>
+          </LEXForms>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2017-11-08 08:37:17" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>= action by which humans play an instrument with strings, such as a {L:lute&lt;SDBH:כִּנֹּור&gt;} or {L:lyre&lt;SDBH:נֵבֶל&gt;}, which can be for silent meditation or to accompany singing and dancing</DefinitionShort>
+              <Glosses>
+                <Gloss>to play</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>00901601600020</LEXReference>
+            <LEXReference>00901601600046</LEXReference>
+            <LEXReference>00901601700024</LEXReference>
+            <LEXReference>00901601800036</LEXReference>
+            <LEXReference>00901602300032</LEXReference>
+            <LEXReference>00901801000040</LEXReference>
+            <LEXReference>00901900900038</LEXReference>
+            <LEXReference>01200301500018</LEXReference>
+            <LEXReference>01903300300012</LEXReference>
+            <LEXReference>02302301600016</LEXReference>
+            <LEXReference>02303802000012</LEXReference>
+            <LEXReference>02603303200022</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+          <LEXCoreDomains>
+            <LEXCoreDomain Code="111">Music and Dance</LEXCoreDomain>
+          </LEXCoreDomains>
+        </LEXMeaning>
+        <LEXMeaning Id="004636001002000" IsBiblicalTerm="M" EntryCode="" Indent="0">
+          <LEXDomains>
+            <LEXDomain Code="001001002003" Source="Play" SourceCode="002003001013">People</LEXDomain>
+          </LEXDomains>
+          <LEXForms>
+            <LEXForm>vbqal-</LEXForm>
+          </LEXForms>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2017-11-08 08:37:17" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>= person playing an instrument with strings, such as a {L:lute&lt;SDBH:כִּנֹּור&gt;} or {L:lyre&lt;SDBH:נֵבֶל&gt;}</DefinitionShort>
+              <Glosses>
+                <Gloss>musician</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>01200301500010</LEXReference>
+            <LEXReference>01200301500022</LEXReference>
+            <LEXReference>01906802600008</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+          <LEXCoreDomains>
+            <LEXCoreDomain Code="111">Music and Dance</LEXCoreDomain>
+          </LEXCoreDomains>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

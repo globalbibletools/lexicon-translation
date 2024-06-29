@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="005507000000000" Lemma="ὠφέλιμος" Version="0" HasAramaic="false" InLXX="false" AlphaPos="ω">
+  <StrongCodes>
+    <Strong>G5624</Strong>
+  </StrongCodes>
+  <Authors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes/>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="005507001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>adjc.</PartOfSpeech>
+      </PartsOfSpeech>
+      <Inflections>
+        <Inflection Lemma="ὠφέλιμος" BaseFormIndex="1">
+          <Form/>
+          <Realizations>
+            <Realization>-ον</Realization>
+          </Realizations>
+          <Comments/>
+        </Inflection>
+      </Inflections>
+      <RelatedLemmas>
+        <RelatedLemma>
+          <Word>ὠφελέω</Word>
+        </RelatedLemma>
+      </RelatedLemmas>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="005507001001000" IsBiblicalTerm="Y" EntryCode="65.40" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Value</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Advantageous, Not Advantageous</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2022-06-13 14:12:01" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>pertaining to a benefit to be derived from some ob ject, event, or state</DefinitionShort>
+              <Glosses>
+                <Gloss>advantage</Gloss>
+                <Gloss>benefit</Gloss>
+                <Gloss>beneficial</Gloss>
+              </Glosses>
+              <Comments>In a number of languages the equivalent of ‘benefit’ or ‘beneficial’ is often ‘that which helps.’ Accordingly, in {S:05400400800028} one may render ἡ γὰρ σωματικὴ γυμνασία πρὸς ὀλίγον ἐστὶν ὠφέλιμος as ‘physical exercise helps to a small extent’ or ‘if one exercises one’s body, that helps a little.’</Comments>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>05400400800016</LEXReference>
+            <LEXReference>05400400800028</LEXReference>
+            <LEXReference>05500301600010</LEXReference>
+            <LEXReference>05600300800044</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

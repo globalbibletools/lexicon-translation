@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="003554000000000" Lemma="ὁλόκληρος" Version="0" HasAramaic="false" InLXX="true" AlphaPos="ο">
+  <StrongCodes>
+    <Strong>G3648</Strong>
+  </StrongCodes>
+  <Authors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes/>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="003554001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>adjc.</PartOfSpeech>
+      </PartsOfSpeech>
+      <Inflections>
+        <Inflection Lemma="ὁλόκληρος" BaseFormIndex="1">
+          <Form/>
+          <Realizations>
+            <Realization>-ον</Realization>
+          </Realizations>
+          <Comments/>
+        </Inflection>
+      </Inflections>
+      <Constructs>
+        <Construct Lemma="ὁλόκληρος" BaseFormIndex="1">
+          <WordMeaningSet>
+            <Word>ὅλος</Word>
+          </WordMeaningSet>
+          <WordMeaningSet>
+            <Word>κληρόω</Word>
+          </WordMeaningSet>
+        </Construct>
+      </Constructs>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="003554001001000" IsBiblicalTerm="Y" EntryCode="59.30" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Quantity</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>All, Any, Each, Every [Totality]</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-12-13 20:08:49" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>a totality, with special emphasis upon the entity as a whole</DefinitionShort>
+              <Glosses>
+                <Gloss>whole</Gloss>
+                <Gloss>entire</Gloss>
+              </Glosses>
+              <Comments>In a number of languages it may be difficult to speak of ‘your entire being.’ A substitute expression in {S:05200502300022} may be ‘yourselves as one person.’</Comments>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>05200502300022</LEXReference>
+            <LEXReference>05900100400022</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

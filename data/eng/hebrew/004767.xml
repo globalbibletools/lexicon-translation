@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="004767000000000" Lemma="נטף" Version="4" HasAramaic="false" InLXX="false" AlphaPos="נ">
+  <StrongCodes>
+    <Strong>H5197</Strong>
+  </StrongCodes>
+  <Authors>
+    <Author>Reinier de Blois</Author>
+  </Authors>
+  <Contributors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes/>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="004767001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>vb</PartOfSpeech>
+      </PartsOfSpeech>
+      <RelatedLemmas>
+        <RelatedLemma>
+          <Word>נָטָף</Word>
+        </RelatedLemma>
+        <RelatedLemma>
+          <Word>נֶטֶף</Word>
+        </RelatedLemma>
+        <RelatedLemma>
+          <Word>נְטִיפָה</Word>
+        </RelatedLemma>
+      </RelatedLemmas>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="004767001001000" IsBiblicalTerm="Y" EntryCode="" Indent="0">
+          <LEXDomains>
+            <LEXDomain Code="002002001007">Flow</LEXDomain>
+          </LEXDomains>
+          <LEXForms>
+            <LEXForm>vbqal-</LEXForm>
+          </LEXForms>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2016-12-28 17:09:22" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>= process by which liquids flow in small drops</DefinitionShort>
+              <Glosses>
+                <Gloss>to drop</Gloss>
+                <Gloss>to drip</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>00700500400030</LEXReference>
+            <LEXReference>00700500400036</LEXReference>
+            <LEXReference>01802902200014</LEXReference>
+            <LEXReference>01906800900010</LEXReference>
+            <LEXReference>02000500300006</LEXReference>
+            <LEXReference>02200401100004</LEXReference>
+            <LEXReference>02200500500018</LEXReference>
+            <LEXReference>02200501300020</LEXReference>
+            <LEXReference>02900401800016</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+          <LEXCoreDomains>
+            <LEXCoreDomain Code="101">Liquids</LEXCoreDomain>
+          </LEXCoreDomains>
+        </LEXMeaning>
+        <LEXMeaning Id="004767001002000" IsBiblicalTerm="Y" EntryCode="" Indent="0">
+          <LEXDomains>
+            <LEXDomain Code="002002001007">Flow</LEXDomain>
+          </LEXDomains>
+          <LEXForms>
+            <LEXForm>vbhif-</LEXForm>
+          </LEXForms>
+          <LEXCollocations>
+            <LEXCollocation>הַר נטף</LEXCollocation>
+          </LEXCollocations>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2016-12-28 17:09:22" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>literally: a mountain causes to drip; hence: = process by which liquids flow in small drops on a mountain</DefinitionShort>
+              <Glosses>
+                <Gloss>to drop</Gloss>
+                <Gloss>to drip</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>03000901300040</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+          <LEXCoreDomains>
+            <LEXCoreDomain Code="101">Liquids</LEXCoreDomain>
+          </LEXCoreDomains>
+        </LEXMeaning>
+        <LEXMeaning Id="004767001003000" IsBiblicalTerm="Y" EntryCode="" Indent="0">
+          <LEXDomains>
+            <LEXDomain Code="002004001009008" Source="Flow" SourceCode="002002001007">Speak</LEXDomain>
+          </LEXDomains>
+          <LEXForms>
+            <LEXForm>vbhif-</LEXForm>
+          </LEXForms>
+          <LEXSynonyms>
+            <LEXSynonym>נבא</LEXSynonym>
+          </LEXSynonyms>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2016-12-28 17:09:22" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>literally: to cause to drip (words); hence: = action by which humans speak or act as a prophet</DefinitionShort>
+              <Glosses>
+                <Gloss>to preach</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>02602100200016</LEXReference>
+            <LEXReference>02602100700016</LEXReference>
+            <LEXReference>03000701600028</LEXReference>
+            <LEXReference>03300200600004</LEXReference>
+            <LEXReference>03300200600006</LEXReference>
+            <LEXReference>03300200600010</LEXReference>
+            <LEXReference>03300201100016</LEXReference>
+            <LEXReference>03300201100038</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+          <LEXCoreDomains>
+            <LEXCoreDomain Code="041">Communication</LEXCoreDomain>
+            <LEXCoreDomain Code="134">Prophecy</LEXCoreDomain>
+          </LEXCoreDomains>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

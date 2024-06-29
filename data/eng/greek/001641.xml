@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="001641000000000" Lemma="ἐκφεύγω" Version="0" HasAramaic="false" InLXX="true" AlphaPos="ε">
+  <StrongCodes>
+    <Strong>G1628</Strong>
+  </StrongCodes>
+  <Authors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes>
+    <Note Caller="1" LanguageCode="en" LastEdited="" LastEditedBy="">
+      <References/>
+      <Content>It is possible that ἐκφεύγω[b] and ἀποφεύγω differ somewhat in meaning from φεύγω[b] and from each other, but it is not possible to determine from existing contexts what the distinctive features might be, except perhaps to indicate that ἐκφεύγω[b] and ἀποφεύγω may be connotatively somewhat more emphatic than φεύγω[b]. Note, also, that in this series of terms meaning to escape, there is no special indication of movement, but simply the fact of not having to experience some particular difficulty or danger.</Content>
+    </Note>
+  </Notes>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="001641001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>verb</PartOfSpeech>
+      </PartsOfSpeech>
+      <Inflections>
+        <Inflection Lemma="ἐκφεύγω" BaseFormIndex="1">
+          <Form>aor.</Form>
+          <Realizations>
+            <Realization>ἐξέφυγον</Realization>
+          </Realizations>
+          <Comments/>
+        </Inflection>
+        <Inflection Lemma="ἐκφεύγω" BaseFormIndex="1">
+          <Form>inf.</Form>
+          <Realizations>
+            <Realization>ἐκφυγεῖν</Realization>
+          </Realizations>
+          <Comments/>
+        </Inflection>
+      </Inflections>
+      <RelatedLemmas>
+        <RelatedLemma>
+          <Word>φεύγω</Word>
+        </RelatedLemma>
+      </RelatedLemmas>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="001641001001000" IsBiblicalTerm="Y" EntryCode="15.63" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Linear Movement</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Leave, Depart, Flee, Escape, Send</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-10-28 15:14:57" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>to flee from or out of</DefinitionShort>
+              <Glosses>
+                <Gloss>to flee out of</Gloss>
+                <Gloss>to flee from</Gloss>
+                <Gloss>to escape</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04401602700040</LEXReference>
+            <LEXReference>04401901600046</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+        <LEXMeaning Id="001641001002000" IsBiblicalTerm="Y" EntryCode="21.14" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Danger, Risk, Safe, Save</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Become Safe, Free from Danger</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-10-28 15:14:57" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>to become safe from danger by avoiding or escaping{N:001}</DefinitionShort>
+              <Glosses>
+                <Gloss>to escape</Gloss>
+                <Gloss>to avoid</Gloss>
+              </Glosses>
+              <Comments>The meaning of this part of {S:04500200300034} is ‘to become free from the danger of being judged by God.’ ἵνα κατισχύσητε ἐκφυγεῖν ταῦτα πάντα τὰ μέλλοντα γίνεσθαι ‘in order that you may be able to escape all of these things that are going to happen’ {S:04202103600018}. In {S:04500200300034} and {S:04202103600018} {L:ἐκφεύγω&lt;SDBG:ἐκφεύγω:000000&gt;} should not be understood in the literal sense of running away from (see {D:15.63}). The meaning is simply not to become involved in such danger.</Comments>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04202103600018</LEXReference>
+            <LEXReference>04500200300034</LEXReference>
+            <LEXReference>04701103300022</LEXReference>
+            <LEXReference>05200500300042</LEXReference>
+            <LEXReference>05800200300006</LEXReference>
+            <LEXReference>05801202500020</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

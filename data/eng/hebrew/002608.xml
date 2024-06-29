@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="002608000000000" Lemma="חשׂף" Version="5" HasAramaic="false" InLXX="false" AlphaPos="ח">
+  <StrongCodes>
+    <Strong>H2834</Strong>
+  </StrongCodes>
+  <Authors>
+    <Author>Reinier de Blois</Author>
+  </Authors>
+  <Contributors/>
+  <AlternateLemmas>
+    <AlternateLemma>חֲשׂוּפַי</AlternateLemma>
+  </AlternateLemmas>
+  <MainLinks/>
+  <Notes/>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="002608001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>vb</PartOfSpeech>
+      </PartsOfSpeech>
+      <RelatedLemmas>
+        <RelatedLemma>
+          <Word>חָשִׂיף</Word>
+        </RelatedLemma>
+        <RelatedLemma>
+          <Word>מַחְשֹׂף</Word>
+        </RelatedLemma>
+      </RelatedLemmas>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="002608001001000" IsBiblicalTerm="Y" EntryCode="" Indent="0">
+          <LEXDomains>
+            <LEXDomain Code="002003001008">Detach</LEXDomain>
+            <LEXDomain Code="002003001018">Uncover</LEXDomain>
+          </LEXDomains>
+          <LEXForms>
+            <LEXForm>vbqal-</LEXForm>
+          </LEXForms>
+          <LEXSynonyms>
+            <LEXSynonym>גלה</LEXSynonym>
+            <LEXSynonym>יָחֵף</LEXSynonym>
+            <LEXSynonym>עָרֹום</LEXSynonym>
+          </LEXSynonyms>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2018-01-14 14:09:20" LastEditedBy="administrator">
+              <DefinitionLong/>
+              <DefinitionShort>= causative action by which humans, deities, or animals remove an object that thinly covers another object</DefinitionShort>
+              <Glosses>
+                <Gloss>to strip off</Gloss>
+                <Gloss>to bare</Gloss>
+                <Gloss>to uncover</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>01902900900012</LEXReference>
+            <LEXReference>02302000400038</LEXReference>
+            <LEXReference>02304700200016</LEXReference>
+            <LEXReference>02305201000002</LEXReference>
+            <LEXReference>02401302600008</LEXReference>
+            <LEXReference>02404901000006</LEXReference>
+            <LEXReference>02600400700018</LEXReference>
+            <LEXReference>02900100700018</LEXReference>
+            <LEXReference>02900100700020</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+        <LEXMeaning Id="002608001002000" IsBiblicalTerm="Y" EntryCode="" Indent="0">
+          <LEXDomains>
+            <LEXDomain Code="002003001008">Detach</LEXDomain>
+          </LEXDomains>
+          <LEXForms>
+            <LEXForm>vbqal-</LEXForm>
+          </LEXForms>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2018-01-14 14:10:00" LastEditedBy="administrator">
+              <DefinitionLong/>
+              <DefinitionShort>= causative action by which humans take a liquid out of a relatively large container with the help of a smaller one</DefinitionShort>
+              <Glosses>
+                <Gloss>to scoop</Gloss>
+                <Gloss>to draw</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>02303001400046</LEXReference>
+            <LEXReference>03700201600030</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+          <LEXCoreDomains>
+            <LEXCoreDomain Code="101">Liquids</LEXCoreDomain>
+          </LEXCoreDomains>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

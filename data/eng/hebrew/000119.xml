@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="000119000000000" Lemma="אֹדֹות" Version="5" HasAramaic="false" InLXX="false" AlphaPos="א">
+  <StrongCodes>
+    <Strong>H0182</Strong>
+  </StrongCodes>
+  <Authors>
+    <Author>Reinier de Blois</Author>
+  </Authors>
+  <Contributors/>
+  <AlternateLemmas>
+    <AlternateLemma>אֹודֹות</AlternateLemma>
+    <AlternateLemma>אֹודֹת</AlternateLemma>
+  </AlternateLemmas>
+  <MainLinks/>
+  <Notes>
+    <Note Caller="1" LanguageCode="en" LastEdited="" LastEditedBy="">
+      <References>
+        <Reference>01001301600010</Reference>
+      </References>
+      <Content>{A:RSV} {A:NRSV} "no, my brother" {A:NJB} "no, brother" = אַל אָחִי</Content>
+    </Note>
+  </Notes>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="000119001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>nsf</PartOfSpeech>
+      </PartsOfSpeech>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="000119001001000" IsBiblicalTerm="N" EntryCode="" Indent="0">
+          <LEXDomains>
+            <LEXDomain Code="002002003003">Happen</LEXDomain>
+          </LEXDomains>
+          <LEXCollocations>
+            <LEXCollocation>עַל־אֹדֹות</LEXCollocation>
+          </LEXCollocations>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2016-11-24 08:57:39" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>marker that introduces an object or event that is regarded as directly or indirectly responsible for the event in focus</DefinitionShort>
+              <Glosses>
+                <Gloss>on account of</Gloss>
+                <Gloss>because of</Gloss>
+                <Gloss>because</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>00102101100020</LEXReference>
+            <LEXReference>00102102500014</LEXReference>
+            <LEXReference>00102603200032</LEXReference>
+            <LEXReference>00201800800034</LEXReference>
+            <LEXReference>00401200100018</LEXReference>
+            <LEXReference>00401302400020</LEXReference>
+            <LEXReference>00601400600064</LEXReference>
+            <LEXReference>00601400600070</LEXReference>
+            <LEXReference>00700600700020</LEXReference>
+            <LEXReference>02400300800012</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+        <LEXMeaning Id="000119001002000" IsBiblicalTerm="N" EntryCode="" Indent="0">
+          <LEXDomains>
+            <LEXDomain Code="004006">Negators</LEXDomain>
+            <LEXDomain Code="002002003003">Happen</LEXDomain>
+          </LEXDomains>
+          <LEXCollocations>
+            <LEXCollocation>אַל־אֹדֹות</LEXCollocation>
+          </LEXCollocations>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2016-11-24 08:57:39" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>unclear construction, possibly to be read as אַל עַל־אֹדֹות: marker asserting that a proposed event should not take place, followed by an event that functions as the grounds for this statement</DefinitionShort>
+              <Glosses>
+                <Gloss>no, because</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>01001301600010{N:001}</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

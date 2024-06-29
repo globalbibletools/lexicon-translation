@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="002809000000000" Lemma="יִדְּעֹנִי" Version="5" HasAramaic="false" InLXX="false" AlphaPos="י">
+  <StrongCodes>
+    <Strong>H3049</Strong>
+  </StrongCodes>
+  <Authors>
+    <Author>Timothy L. Wilt; Enio R. Mueller</Author>
+  </Authors>
+  <Contributors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes/>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="002809001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>nsm</PartOfSpeech>
+      </PartsOfSpeech>
+      <RelatedLemmas>
+        <RelatedLemma>
+          <Word>ידע</Word>
+        </RelatedLemma>
+      </RelatedLemmas>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="002809001001000" IsBiblicalTerm="M" EntryCode="" Indent="0">
+          <LEXDomains>
+            <LEXDomain Code="001001002002">Spirits</LEXDomain>
+          </LEXDomains>
+          <LEXSynonyms>
+            <LEXSynonym>אֹוב</LEXSynonym>
+          </LEXSynonyms>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2017-11-29 14:13:29" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>= spirit of a dead person, ► consulted by fortune-tellers; ≈ an activity forbidden in the law of Moses</DefinitionShort>
+              <Glosses>
+                <Gloss>spirit of the dead</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>00301903100018</LEXReference>
+            <LEXReference>00302000600024</LEXReference>
+            <LEXReference>00302002700020</LEXReference>
+            <LEXReference>00501801100016</LEXReference>
+            <LEXReference>01202100600032</LEXReference>
+            <LEXReference>01403300600044</LEXReference>
+            <LEXReference>02300801900024</LEXReference>
+            <LEXReference>02301900300052</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+          <LEXCoreDomains>
+            <LEXCoreDomain Code="104">Magic</LEXCoreDomain>
+            <LEXCoreDomain Code="099">Life and Death</LEXCoreDomain>
+          </LEXCoreDomains>
+        </LEXMeaning>
+        <LEXMeaning Id="002809001002000" IsBiblicalTerm="M" EntryCode="" Indent="0">
+          <LEXDomains>
+            <LEXDomain Code="001001002003009" Source="Spirits" SourceCode="001001002002">Professions</LEXDomain>
+          </LEXDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2017-11-29 14:13:29" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>= person who is said to be able to communicate with spirits of the deceased</DefinitionShort>
+              <Glosses>
+                <Gloss>one who consults the spirits of the dead</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>00902800300050</LEXReference>
+            <LEXReference>00902800900042</LEXReference>
+            <LEXReference>01202302400018</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+          <LEXCoreDomains>
+            <LEXCoreDomain Code="200">Work</LEXCoreDomain>
+            <LEXCoreDomain Code="104">Magic</LEXCoreDomain>
+            <LEXCoreDomain Code="099">Life and Death</LEXCoreDomain>
+          </LEXCoreDomains>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

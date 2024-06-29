@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="002223000000000" Lemma="ζημιόω" Version="0" HasAramaic="false" InLXX="true" AlphaPos="ζ">
+  <StrongCodes>
+    <Strong>G2210</Strong>
+  </StrongCodes>
+  <Authors/>
+  <AlternateLemmas>
+    <AlternateLemma>ζημιόομαι</AlternateLemma>
+  </AlternateLemmas>
+  <MainLinks/>
+  <Notes>
+    <Note Caller="1" LanguageCode="en" LastEdited="" LastEditedBy="">
+      <References/>
+      <Content>ζημία may be interpreted either as the process of losing or as that which is lost.</Content>
+    </Note>
+  </Notes>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="002223001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>verb</PartOfSpeech>
+      </PartsOfSpeech>
+      <RelatedLemmas>
+        <RelatedLemma>
+          <Word>ζημία</Word>
+        </RelatedLemma>
+      </RelatedLemmas>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="002223001001000" IsBiblicalTerm="Y" EntryCode="57.69" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Possess, Transfer, Exchange</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Take, Obtain, Gain, Lose</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXForms>
+            <LEXForm>ζημιόομαι[a]</LEXForm>
+          </LEXForms>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-07-20 10:14:50" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>to suffer the loss of something which one has previously possessed, with the implication that the loss involves considerable hardship or suffering{N:001}</DefinitionShort>
+              <Glosses>
+                <Gloss>to suffer loss</Gloss>
+                <Gloss>to forfeit</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04001602600028</LEXReference>
+            <LEXReference>04100803600020</LEXReference>
+            <LEXReference>04200902500026</LEXReference>
+            <LEXReference>04600301500012</LEXReference>
+            <LEXReference>04700700900036</LEXReference>
+            <LEXReference>05000300800044</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+        <LEXMeaning Id="002223001002000" IsBiblicalTerm="Y" EntryCode="38.7" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Punish, Reward</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Punish</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXForms>
+            <LEXForm>ζημιόομαι[b]</LEXForm>
+          </LEXForms>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-07-20 10:14:50" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>to be punished, with the implication of suffering damage</DefinitionShort>
+              <Glosses>
+                <Gloss>to be punished</Gloss>
+                <Gloss>to suffer punishment</Gloss>
+              </Glosses>
+              <Comments>It is also possible to understand ζημιόομαι in {S:04600301500012} as meaning simply ‘to suffer loss’ (see {D:57.69}).</Comments>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04600301500012</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

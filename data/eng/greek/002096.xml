@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="002096000000000" Lemma="ἑτεροζυγέω" Version="0" HasAramaic="false" InLXX="false" AlphaPos="ε">
+  <StrongCodes>
+    <Strong>G2086</Strong>
+  </StrongCodes>
+  <Authors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes/>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="002096001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>verb</PartOfSpeech>
+      </PartsOfSpeech>
+      <Constructs>
+        <Construct Lemma="ἑτεροζυγέω" BaseFormIndex="1">
+          <WordMeaningSet>
+            <Word>ἕτερος</Word>
+          </WordMeaningSet>
+          <WordMeaningSet>
+            <Word>ζυγός</Word>
+          </WordMeaningSet>
+        </Construct>
+      </Constructs>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="002096001001000" IsBiblicalTerm="Y" EntryCode="34.9" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Association</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Associate</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-07-06 10:40:18" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>to be wrongly or poorly matched in an association</DefinitionShort>
+              <Glosses>
+                <Gloss>to be mismatched</Gloss>
+                <Gloss>to be wrongly matched</Gloss>
+              </Glosses>
+              <Comments>It is often necessary to indicate somewhat more precisely the manner in which one may be wrongly matched with others. Accordingly, one can translate {S:04700601400006} as ‘do not attempt to work together with those who are unbelievers’ or ‘do not become partners with those who do not believe.’</Comments>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04700601400006</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

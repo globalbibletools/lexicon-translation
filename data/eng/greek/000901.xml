@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="000901000000000" Lemma="βάϊον" Version="0" HasAramaic="false" InLXX="false" AlphaPos="β">
+  <StrongCodes>
+    <Strong>G0902</Strong>
+  </StrongCodes>
+  <Authors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes>
+    <Note Caller="1" LanguageCode="en" LastEdited="" LastEditedBy="">
+      <References/>
+      <Content>Though in English it is generally the custom to speak of what in Greek is βάϊον or φοῖνιξ ({D:3.53}) as a palm branch, technically it is only a very large leaf, for there are no buds on these so-called branches.</Content>
+    </Note>
+  </Notes>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="000901001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>noun, n.</PartOfSpeech>
+      </PartsOfSpeech>
+      <Inflections>
+        <Inflection Lemma="βάϊον" BaseFormIndex="1">
+          <Form/>
+          <Realizations>
+            <Realization>-ου</Realization>
+          </Realizations>
+          <Comments/>
+        </Inflection>
+      </Inflections>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="000901001001000" IsBiblicalTerm="M" EntryCode="3.53" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Plants</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Non-Fruit Parts of Plants</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-02-04 21:30:03" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>branch of the palm tree (φοῖνιξ{N:001})</DefinitionShort>
+              <Glosses>
+                <Gloss>palm branch</Gloss>
+              </Glosses>
+              <Comments>βάϊον is a technical term meaning ‘palm branch,’ and in {S:04301201300006} τῶν φοινίκων ‘of palm trees’ may have been added redundantly, since the term βάϊον may not have been regarded as sufficiently well known to readers.</Comments>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04301201300006</LEXReference>
+          </LEXReferences>
+          <LEXLinks>
+            <LEXLink>flora:2.5</LEXLink>
+          </LEXLinks>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

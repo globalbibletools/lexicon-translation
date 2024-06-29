@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="005440000000000" Lemma="χρυσός" Version="0" HasAramaic="false" InLXX="true" AlphaPos="χ">
+  <StrongCodes>
+    <Strong>G5557</Strong>
+  </StrongCodes>
+  <Authors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes>
+    <Note Caller="1" LanguageCode="en" LastEdited="" LastEditedBy="">
+      <References/>
+      <Content>Except for the occurrence of ἀργύριον in the plural ({S:04002601500030}), it would be possible to derive all of these references to copper (bronze), silver, and gold coins as direct and predictable metonymic correspondences of the respective terms for substances (see {D:2.54}, {D:2.51}, {D:2.49}). Since, however, some languages employ clear distinctions between metals as substances and metals when manufactured into the form of coins, the present classification would seem to be more useful.</Content>
+    </Note>
+  </Notes>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="005440001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>noun, m.</PartOfSpeech>
+      </PartsOfSpeech>
+      <Inflections>
+        <Inflection Lemma="χρυσός" BaseFormIndex="1">
+          <Form/>
+          <Realizations>
+            <Realization>-οῦ</Realization>
+          </Realizations>
+          <Comments/>
+        </Inflection>
+      </Inflections>
+      <RelatedLemmas>
+        <RelatedLemma>
+          <Word>χρυσόω</Word>
+        </RelatedLemma>
+      </RelatedLemmas>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="005440001001000" IsBiblicalTerm="M" EntryCode="2.49" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Natural Substances</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Metals</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2022-06-04 19:20:33" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>gold (the most highly valued metal in the ancient world).</DefinitionShort>
+              <Glosses>
+                <Gloss>gold</Gloss>
+              </Glosses>
+              <Comments>Terms for gold are widespread throughout the world even as the presence of gold or knowledge about gold is likewise almost universal. Therefore, there is usually no difficulty involved in obtaining a satisfactory term for ‘gold.’</Comments>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04000201100052</LEXReference>
+            <LEXReference>04002301600042</LEXReference>
+            <LEXReference>04002301700018</LEXReference>
+            <LEXReference>04002301700032</LEXReference>
+            <LEXReference>04401702900018</LEXReference>
+            <LEXReference>04600301200016</LEXReference>
+            <LEXReference>05900500300004</LEXReference>
+            <LEXReference>06600900700038</LEXReference>
+            <LEXReference>06601801200004</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+        <LEXMeaning Id="005440001002000" IsBiblicalTerm="M" EntryCode="6.74" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Artifacts</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Money and Monetary Units</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2022-06-04 19:20:33" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>gold money, gold coin{N:001}</DefinitionShort>
+              <Glosses>
+                <Gloss>gold money</Gloss>
+                <Gloss>gold coin</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04001000900006</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

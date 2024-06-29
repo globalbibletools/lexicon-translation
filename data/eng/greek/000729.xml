@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="000729000000000" Lemma="ἄρσην" Version="0" HasAramaic="false" InLXX="true" AlphaPos="α">
+  <StrongCodes>
+    <Strong>G0730a</Strong>
+  </StrongCodes>
+  <Authors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes>
+    <Note Caller="1" LanguageCode="en" LastEdited="" LastEditedBy="">
+      <References>
+        <Reference>04200202300016</Reference>
+      </References>
+      <Content>This idiom is also discussed in {D:8.69} in connection with the meaning of {L:μήτρα&lt;SDBG:μήτρα&gt;}.</Content>
+    </Note>
+  </Notes>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="000729001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>adjc.</PartOfSpeech>
+      </PartsOfSpeech>
+      <Inflections>
+        <Inflection Lemma="ἄρσην" BaseFormIndex="1">
+          <Form/>
+          <Realizations>
+            <Realization>-εν</Realization>
+            <Realization>-ενος</Realization>
+          </Realizations>
+          <Comments/>
+        </Inflection>
+      </Inflections>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="000729001001000" IsBiblicalTerm="M" EntryCode="79.102" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Features of Objects</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Male, Female</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-08-16 16:48:27" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>the male of any living creature</DefinitionShort>
+              <Glosses>
+                <Gloss>male</Gloss>
+                <Gloss>man</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04001900400024</LEXReference>
+            <LEXReference>04101000600010</LEXReference>
+            <LEXReference>04500102700010</LEXReference>
+            <LEXReference>04500102700038</LEXReference>
+            <LEXReference>04500102700042</LEXReference>
+            <LEXReference>04800302800026</LEXReference>
+            <LEXReference>06601200500008</LEXReference>
+            <LEXReference>06601201300034</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+        <LEXMeaning Id="000729001002000" IsBiblicalTerm="M" EntryCode="10.45" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Kinship Terms</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Kinship Relations Involving Successive Generations</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXCollocations>
+            <LEXCollocation>ἄρσην διανοίγων μήτραν</LEXCollocation>
+          </LEXCollocations>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-08-16 16:48:27" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>(an idiom, literally: male that opens the womb, and closely related in meaning to {L:πρωτότοκος&lt;SDBG:πρωτότοκος:000000&gt;}[a], ‘firstborn,’ {D:10.43}) the first male offspring of a female</DefinitionShort>
+              <Glosses>
+                <Gloss>firstborn son</Gloss>
+                <Gloss>firstborn male</Gloss>
+              </Glosses>
+              <Comments>A literal translation of the idiom ‘male that opens the womb’ may be extremely misleading in some languages, since it may refer to the first act of sexual intercourse and not to the birth of the first, male child.</Comments>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04200202300016{N:001}</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

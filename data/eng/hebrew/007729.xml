@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="007729000000000" Lemma="תוב" Version="3" HasAramaic="true" InLXX="false" AlphaPos="ת">
+  <StrongCodes>
+    <Strong>A8421</Strong>
+  </StrongCodes>
+  <Authors>
+    <Author>Reinier de Blois</Author>
+  </Authors>
+  <Contributors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes/>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="007729001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>vb</PartOfSpeech>
+      </PartsOfSpeech>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="007729001001000" IsBiblicalTerm="Y" EntryCode="" Indent="0">
+          <LEXDomains>
+            <LEXDomain Code="002002001011" Source="Turn" SourceCode="002002001019">Move</LEXDomain>
+          </LEXDomains>
+          <LEXForms>
+            <LEXForm>vbhaf-</LEXForm>
+          </LEXForms>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>literally: to turn; hence: = causative action by which humans cause objects to move back to a location where they have been before</DefinitionShort>
+              <Glosses>
+                <Gloss>to bring back</Gloss>
+                <Gloss>to send back</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>01500500500038</LEXReference>
+            <LEXReference>01500600500044</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+        <LEXMeaning Id="007729001002000" IsBiblicalTerm="Y" EntryCode="" Indent="1">
+          <LEXDomains>
+            <LEXDomain Code="002002003003" Source="Move" SourceCode="002002001011">Happen</LEXDomain>
+          </LEXDomains>
+          <LEXForms>
+            <LEXForm>vbpeal</LEXForm>
+          </LEXForms>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2022-07-12 17:21:21" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>literally: to come back; hence: = process by which a certain event happens once more</DefinitionShort>
+              <Glosses>
+                <Gloss>to return</Gloss>
+                <Gloss>to come back</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>02700403100028</LEXReference>
+            <LEXReference>02700403300008</LEXReference>
+            <LEXReference>02700403300026</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+        <LEXMeaning Id="007729001003000" IsBiblicalTerm="Y" EntryCode="" Indent="1">
+          <LEXDomains>
+            <LEXDomain Code="002004001009008" Source="Move" SourceCode="002002001011">Speak</LEXDomain>
+          </LEXDomains>
+          <LEXForms>
+            <LEXForm>vbhaf-</LEXForm>
+          </LEXForms>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>literally: to bring back; hence: = action by which humans respond to (other) humans in a direct conversation</DefinitionShort>
+              <Glosses>
+                <Gloss>to reply</Gloss>
+                <Gloss>to respond</Gloss>
+                <Gloss>to answer</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>01500501100008</LEXReference>
+            <LEXReference>02700201400008</LEXReference>
+            <LEXReference>02700301600036</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+          <LEXCoreDomains>
+            <LEXCoreDomain Code="041">Communication</LEXCoreDomain>
+          </LEXCoreDomains>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="001388000000000" Lemma="διχοστασία" Version="0" HasAramaic="false" InLXX="true" AlphaPos="δ">
+  <StrongCodes>
+    <Strong>G1370</Strong>
+  </StrongCodes>
+  <Authors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes/>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="001388001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>noun, f.</PartOfSpeech>
+      </PartsOfSpeech>
+      <Inflections>
+        <Inflection Lemma="διχοστασία" BaseFormIndex="1">
+          <Form/>
+          <Realizations>
+            <Realization>-ας</Realization>
+          </Realizations>
+          <Comments/>
+        </Inflection>
+      </Inflections>
+      <Constructs>
+        <Construct Lemma="διχοστασία" BaseFormIndex="1">
+          <WordMeaningSet>
+            <Word>δύο</Word>
+          </WordMeaningSet>
+          <WordMeaningSet>
+            <Word>ἵστημι</Word>
+          </WordMeaningSet>
+        </Construct>
+      </Constructs>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="001388001001000" IsBiblicalTerm="Y" EntryCode="39.13" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Hostility, Strife</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Division</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-07-08 22:05:38" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>a division into opposing groups, generally two</DefinitionShort>
+              <Glosses>
+                <Gloss>division</Gloss>
+                <Gloss>discord</Gloss>
+              </Glosses>
+              <Comments>In some languages the equivalent of ‘causing division’ ({S:04501601700016}) is literally ‘to cause two groups in place of one group,’ but more frequently the equivalent is expressed in terms of attitudes, for example, ‘to cause people to be angry at one another’ or ‘to cause people not to like one another’ or ‘to cause people to think of one another as enemies.’</Comments>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04501601700016</LEXReference>
+            <LEXReference>04800502000016</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

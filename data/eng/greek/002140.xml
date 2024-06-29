@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="002140000000000" Lemma="εὐλογητός" Version="0" HasAramaic="false" InLXX="true" AlphaPos="ε">
+  <StrongCodes>
+    <Strong>G2128</Strong>
+  </StrongCodes>
+  <Authors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes/>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="002140001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>adjc.</PartOfSpeech>
+      </PartsOfSpeech>
+      <Inflections>
+        <Inflection Lemma="εὐλογητός" BaseFormIndex="1">
+          <Form/>
+          <Realizations>
+            <Realization>-ή, -όν</Realization>
+          </Realizations>
+          <Comments/>
+        </Inflection>
+      </Inflections>
+      <RelatedLemmas>
+        <RelatedLemma>
+          <Word>λέγω</Word>
+        </RelatedLemma>
+      </RelatedLemmas>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="002140001001000" IsBiblicalTerm="M" EntryCode="33.362" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Communication</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Praise</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-07-09 10:35:41" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>(derivative of {L:εὐλογέω&lt;SDBG:εὐλογέω:000000&gt;}[a] ‘to praise,’ {D:33.356}) pertaining to being worthy of praise or commendation</DefinitionShort>
+              <Glosses>
+                <Gloss>one to be praised</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04101406100046</LEXReference>
+            <LEXReference>04200106800002</LEXReference>
+            <LEXReference>04500102500042</LEXReference>
+            <LEXReference>04500900500034</LEXReference>
+            <LEXReference>04700100300002</LEXReference>
+            <LEXReference>04701103100022</LEXReference>
+            <LEXReference>04900100300002</LEXReference>
+            <LEXReference>06000100300002</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

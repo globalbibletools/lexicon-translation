@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="000931000000000" Lemma="βασίλειος" Version="0" HasAramaic="false" InLXX="true" AlphaPos="β">
+  <StrongCodes>
+    <Strong>G0933</Strong>
+  </StrongCodes>
+  <Authors/>
+  <AlternateLemmas>
+    <AlternateLemma>βασίλειον</AlternateLemma>
+  </AlternateLemmas>
+  <MainLinks/>
+  <Notes/>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="000931001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>adjc.</PartOfSpeech>
+      </PartsOfSpeech>
+      <Inflections>
+        <Inflection Lemma="βασίλειος" BaseFormIndex="1">
+          <Form/>
+          <Realizations>
+            <Realization>-ον</Realization>
+          </Realizations>
+          <Comments/>
+        </Inflection>
+      </Inflections>
+      <RelatedLemmas>
+        <RelatedLemma>
+          <Word>βασιλεύω</Word>
+        </RelatedLemma>
+      </RelatedLemmas>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="000931001001000" IsBiblicalTerm="Y" EntryCode="37.69" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Control, Rule</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Rule, Govern</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-02-04 22:26:56" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>pertaining to a king</DefinitionShort>
+              <Glosses>
+                <Gloss>royal</Gloss>
+                <Gloss>kingly</Gloss>
+              </Glosses>
+              <Comments>The expression ‘his royal robes’ may be rendered as ‘his clothing which he had as king,’ and the phrase ‘the royal priesthood’ may be rendered as ‘priests who are like kings.’</Comments>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>06000200900010</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+        <LEXMeaning Id="000931001002000" IsBiblicalTerm="M" EntryCode="7.5" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Constructions</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Buildings</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXForms>
+            <LEXForm>βασίλειον</LEXForm>
+          </LEXForms>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-02-04 22:26:56" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>(ου n) the dwelling of a king or ruler; usually larger and more elaborate than the dwelling of an average person</DefinitionShort>
+              <Glosses>
+                <Gloss>palace</Gloss>
+              </Glosses>
+              <Comments>In {S:04200702500040} βασίλειον may be rendered as ‘the home of a king’ or ‘the home of a ruler.’</Comments>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04200702500040</LEXReference>
+          </LEXReferences>
+          <LEXLinks>
+            <LEXLink>realia:3.4</LEXLink>
+          </LEXLinks>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

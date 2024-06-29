@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="003463000000000" Lemma="νουθεσία" Version="0" HasAramaic="false" InLXX="true" AlphaPos="ν">
+  <StrongCodes>
+    <Strong>G3559</Strong>
+  </StrongCodes>
+  <Authors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes>
+    <Note Caller="1" LanguageCode="en" LastEdited="" LastEditedBy="">
+      <References/>
+      <Content>παιδεύω[a] and παιδεία[a] ({D:33.226}) differ in meaning from νουθετέω[a] and νουθεσία[a] ({D:33.231}) and from ἐντρέφω ({D:33.242}). παιδεύω[a] and παιδεία[a] focus upon the forming of proper habits of behavior, while νουθετέω[a] and νουθεσία[a] focus upon instruction in correct behavior. ἐντρέφω appears to focus more on continuous instruction and training in the areas of skill and practical knowledge.</Content>
+    </Note>
+  </Notes>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="003463001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>noun, f.</PartOfSpeech>
+      </PartsOfSpeech>
+      <Inflections>
+        <Inflection Lemma="νουθεσία" BaseFormIndex="1">
+          <Form/>
+          <Realizations>
+            <Realization>-ας</Realization>
+          </Realizations>
+          <Comments/>
+        </Inflection>
+      </Inflections>
+      <Constructs>
+        <Construct Lemma="νουθεσία" BaseFormIndex="1">
+          <WordMeaningSet>
+            <Word>νοῦς</Word>
+          </WordMeaningSet>
+          <WordMeaningSet>
+            <Word>τίθημι</Word>
+          </WordMeaningSet>
+        </Construct>
+      </Constructs>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="003463001001000" IsBiblicalTerm="Y" EntryCode="33.231" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Communication</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Teach</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-12-11 12:12:09" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>to provide instruction as to correct behavior and belief{N:001}</DefinitionShort>
+              <Glosses>
+                <Gloss>to instruct</Gloss>
+                <Gloss>to teach</Gloss>
+                <Gloss>instruction</Gloss>
+                <Gloss>teaching</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04601001100018</LEXReference>
+            <LEXReference>04900600400030</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+        <LEXMeaning Id="003463001002000" IsBiblicalTerm="Y" EntryCode="33.424" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Communication</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Warn</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-12-11 12:12:09" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>to advise someone concerning the dangerous consequences of some happening or action</DefinitionShort>
+              <Glosses>
+                <Gloss>to warn</Gloss>
+                <Gloss>warning</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04601001100018</LEXReference>
+            <LEXReference>05600301000014</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

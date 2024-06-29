@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="003527000000000" Lemma="οἰκονόμος" Version="0" HasAramaic="false" InLXX="true" AlphaPos="ο">
+  <StrongCodes>
+    <Strong>G3623</Strong>
+  </StrongCodes>
+  <Authors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes/>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="003527001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>noun, m.</PartOfSpeech>
+      </PartsOfSpeech>
+      <Inflections>
+        <Inflection Lemma="οἰκονόμος" BaseFormIndex="1">
+          <Form/>
+          <Realizations>
+            <Realization>-ου</Realization>
+          </Realizations>
+          <Comments/>
+        </Inflection>
+      </Inflections>
+      <Constructs>
+        <Construct Lemma="οἰκονόμος" BaseFormIndex="1">
+          <WordMeaningSet>
+            <Word>οἰκέω</Word>
+          </WordMeaningSet>
+          <WordMeaningSet>
+            <Word>νομίζω</Word>
+          </WordMeaningSet>
+        </Construct>
+      </Constructs>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="003527001001000" IsBiblicalTerm="Y" EntryCode="46.4" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Household Activities</LEXDomain>
+          </LEXDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-12-13 13:25:07" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>one who is in charge of running a household</DefinitionShort>
+              <Glosses>
+                <Gloss>manager of a household</Gloss>
+                <Gloss>steward</Gloss>
+              </Glosses>
+              <Comments>It may be necessary in some languages to indicate that οἰκονόμος[a] was a person hired to engage in a particular activity, and therefore in {S:04201600100026} it may be necessary to say ‘there was a rich man who had hired a man to manage his household.’</Comments>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04201204200020</LEXReference>
+            <LEXReference>04201600100026</LEXReference>
+            <LEXReference>04201600300012</LEXReference>
+            <LEXReference>04201600800012</LEXReference>
+            <LEXReference>04800400200012</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+        <LEXMeaning Id="003527001002000" IsBiblicalTerm="Y" EntryCode="37.39" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Control, Rule</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Exercise Authority</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-12-13 13:25:07" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>one who has the authority and responsibility for something</DefinitionShort>
+              <Glosses>
+                <Gloss>one who is in charge of</Gloss>
+                <Gloss>one who is responsible for</Gloss>
+                <Gloss>adminstrator</Gloss>
+                <Gloss>manager</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04600400100018</LEXReference>
+            <LEXReference>04600400200012</LEXReference>
+            <LEXReference>05600100700018</LEXReference>
+            <LEXReference>06000401000022</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+        <LEXMeaning Id="003527001003000" IsBiblicalTerm="Y" EntryCode="57.231" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Possess, Transfer, Exchange</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Keep Records</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXCollocations>
+            <LEXCollocation>οἰκονόμος τῆς πόλεως</LEXCollocation>
+          </LEXCollocations>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-12-13 13:25:07" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>(an idiom, literally: manager of a city) one who is in charge of the finances of a city</DefinitionShort>
+              <Glosses>
+                <Gloss>city treasurer</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04501602300030</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

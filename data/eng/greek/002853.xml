@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="002853000000000" Lemma="κοίμησις" Version="0" HasAramaic="false" InLXX="true" AlphaPos="κ">
+  <StrongCodes>
+    <Strong>G2838</Strong>
+  </StrongCodes>
+  <Authors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes/>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="002853001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>noun, f.</PartOfSpeech>
+      </PartsOfSpeech>
+      <Inflections>
+        <Inflection Lemma="κοίμησις" BaseFormIndex="1">
+          <Form/>
+          <Realizations>
+            <Realization>-εως</Realization>
+          </Realizations>
+          <Comments/>
+        </Inflection>
+      </Inflections>
+      <RelatedLemmas>
+        <RelatedLemma>
+          <Word>κεῖμαι</Word>
+        </RelatedLemma>
+      </RelatedLemmas>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="002853001001000" IsBiblicalTerm="Y" EntryCode="23.66" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Physiological Processes and States</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Sleep, Waking</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-10-13 12:41:40" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>the state of being asleep</DefinitionShort>
+              <Glosses>
+                <Gloss>to sleep</Gloss>
+                <Gloss>to be asleep</Gloss>
+                <Gloss>sleep</Gloss>
+              </Glosses>
+              <Comments>In some languages sleep is expressed by an idiom, for example, ‘his soul had wandered away’ or ‘his eyes had disappeared.’ Though an expression such as ‘his soul had wandered away’ might appear in some languages to have misleading theological implications, it really means only ‘to sleep.’|In {S:04301101300030} κοίμησις is combined with {L:ὕπνος&lt;SDBG:ὕπνος:000000&gt;} apparently to stress the fact that the sleep was an ordinary or natural sleep.</Comments>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04301101300030</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

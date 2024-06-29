@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="000853000000000" Lemma="ἀφεδρών" Version="0" HasAramaic="false" InLXX="false" AlphaPos="α">
+  <StrongCodes>
+    <Strong>G0856</Strong>
+  </StrongCodes>
+  <Authors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes/>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="000853001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>noun, m.</PartOfSpeech>
+      </PartsOfSpeech>
+      <Inflections>
+        <Inflection Lemma="ἀφεδρών" BaseFormIndex="1">
+          <Form/>
+          <Realizations>
+            <Realization>-ῶνος</Realization>
+          </Realizations>
+          <Comments/>
+        </Inflection>
+      </Inflections>
+      <RelatedLemmas>
+        <RelatedLemma>
+          <Word>ἕδρα</Word>
+          <Meaning LanguageCode="en">
+            <Meaning>seat, chair</Meaning>
+          </Meaning>
+          <Meaning LanguageCode="zhT">
+            <Meaning>座位，椅子</Meaning>
+          </Meaning>
+        </RelatedLemma>
+        <RelatedLemma>
+          <Word>ἑδραῖος</Word>
+        </RelatedLemma>
+      </RelatedLemmas>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="000853001001000" IsBiblicalTerm="M" EntryCode="7.72" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Constructions</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Miscellaneous Constructions</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-08-18 14:52:56" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort/>
+              <Glosses>
+                <Gloss>latrine</Gloss>
+                <Gloss>toilet</Gloss>
+              </Glosses>
+              <Comments>The term ἀφεδρών occurs only in {S:04001501700032} and {S:04100701900030} and may be rendered in a number of languages as ‘place of defecation.’ In some languages, however, a reference to a toilet may seem inappropriate for the Scriptures, and it is possible to translate a passage such as {S:04001501700032} as ‘goes into the stomach and then passes on out.’ The meaning is thus clear without a specific reference to a latrine or toilet.</Comments>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04001501700032</LEXReference>
+            <LEXReference>04100701900030</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

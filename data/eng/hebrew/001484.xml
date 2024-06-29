@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="001484000000000" Lemma="גָּרָב" Version="5" HasAramaic="false" InLXX="false" AlphaPos="ג">
+  <StrongCodes>
+    <Strong>H1618</Strong>
+  </StrongCodes>
+  <Authors>
+    <Author>Reinier de Blois</Author>
+  </Authors>
+  <Contributors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes>
+    <Note Caller="1" LanguageCode="en" LastEdited="" LastEditedBy="">
+      <References>
+        <Reference>00302102000020</Reference>
+        <Reference>00302202200018</Reference>
+        <Reference>00502802700034</Reference>
+      </References>
+      <Content>RSV NRSV ESV "itch(ing disease)" | NIV "festering sores" | NJPS "boil-scar" | NJB "scab", "scabby", "scurvy" | REB "scab", "scabs"</Content>
+    </Note>
+  </Notes>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="001484001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>nsm</PartOfSpeech>
+      </PartsOfSpeech>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="001484001001000" IsBiblicalTerm="Y" EntryCode="" Indent="0">
+          <LEXDomains>
+            <LEXDomain Code="002001001065">Weak</LEXDomain>
+          </LEXDomains>
+          <LEXSynonyms>
+            <LEXSynonym>חֶרֶס</LEXSynonym>
+            <LEXSynonym>טְחֹרִים</LEXSynonym>
+            <LEXSynonym>שְׁחִין</LEXSynonym>
+          </LEXSynonyms>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2016-06-17 16:34:27" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>exact meaning uncertain; possibly: = a type of skin infection that disqualifies humans from functioning as priests, and animals from being acceptable sacrifices</DefinitionShort>
+              <Glosses>
+                <Gloss>skin infection</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>00302102000020{N:001}</LEXReference>
+            <LEXReference>00302202200018{N:001}</LEXReference>
+            <LEXReference>00502802700034{N:001}</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+          <LEXCoreDomains>
+            <LEXCoreDomain Code="076">Health and Sickness</LEXCoreDomain>
+          </LEXCoreDomains>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

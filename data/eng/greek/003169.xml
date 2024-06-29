@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="003169000000000" Lemma="μάρτυς" Version="0" HasAramaic="false" InLXX="true" AlphaPos="μ">
+  <StrongCodes>
+    <Strong>G3144</Strong>
+  </StrongCodes>
+  <Authors/>
+  <AlternateLemmas>
+    <AlternateLemma>μάρτυρος</AlternateLemma>
+  </AlternateLemmas>
+  <MainLinks/>
+  <Notes/>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="003169001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>noun, m.</PartOfSpeech>
+      </PartsOfSpeech>
+      <Inflections>
+        <Inflection Lemma="μάρτυς" BaseFormIndex="1">
+          <Form/>
+          <Realizations>
+            <Realization>μάρτυρος</Realization>
+          </Realizations>
+          <Comments/>
+        </Inflection>
+        <Inflection Lemma="μάρτυς" BaseFormIndex="1">
+          <Form>dat.pl.</Form>
+          <Realizations>
+            <Realization>μάρτυσιν</Realization>
+          </Realizations>
+          <Comments/>
+        </Inflection>
+      </Inflections>
+      <RelatedLemmas>
+        <RelatedLemma>
+          <Word>μαρτυρέω</Word>
+        </RelatedLemma>
+      </RelatedLemmas>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="003169001001000" IsBiblicalTerm="M" EntryCode="33.270" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Communication</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Witness, Testify</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-11-19 12:25:00" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>(derivative of {L:μαρτυρέω&lt;SDBG:μαρτυρέω:000000&gt;}[a] ‘to witness,’ {D:33.262}) a person who witnesses</DefinitionShort>
+              <Glosses>
+                <Gloss>witness</Gloss>
+                <Gloss>one who testifies</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04001801600032</LEXReference>
+            <LEXReference>04002606500028</LEXReference>
+            <LEXReference>04101406300026</LEXReference>
+            <LEXReference>04201104800004</LEXReference>
+            <LEXReference>04202404800004</LEXReference>
+            <LEXReference>04400100800026</LEXReference>
+            <LEXReference>04400102200026</LEXReference>
+            <LEXReference>04400203200022</LEXReference>
+            <LEXReference>04400301500030</LEXReference>
+            <LEXReference>04400503200008</LEXReference>
+            <LEXReference>04400601300006</LEXReference>
+            <LEXReference>04400705800018</LEXReference>
+            <LEXReference>04401003900006</LEXReference>
+            <LEXReference>04401004100012</LEXReference>
+            <LEXReference>04401303100034</LEXReference>
+            <LEXReference>04402201500006</LEXReference>
+            <LEXReference>04402601600036</LEXReference>
+            <LEXReference>04500100900002</LEXReference>
+            <LEXReference>04700102300006</LEXReference>
+            <LEXReference>04701300100018</LEXReference>
+            <LEXReference>05000100800002</LEXReference>
+            <LEXReference>05200200500030</LEXReference>
+            <LEXReference>05200201000004</LEXReference>
+            <LEXReference>05400501900026</LEXReference>
+            <LEXReference>05400601200042</LEXReference>
+            <LEXReference>05500200200016</LEXReference>
+            <LEXReference>05801002800022</LEXReference>
+            <LEXReference>05801200100018</LEXReference>
+            <LEXReference>06000500100018</LEXReference>
+            <LEXReference>06600100500012</LEXReference>
+            <LEXReference>06600201300052</LEXReference>
+            <LEXReference>06600301400028</LEXReference>
+            <LEXReference>06601100300010</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+        <LEXMeaning Id="003169001002000" IsBiblicalTerm="Y" EntryCode="20.67" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Violence, Harm, Destroy, Kill</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Kill</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-11-19 12:25:00" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>a person who has been deprived of life as the result of bearing witness to his beliefs</DefinitionShort>
+              <Glosses>
+                <Gloss>martyr</Gloss>
+              </Glosses>
+              <Comments>A strictly literal translation of the Greek expression in {S:06601700600032} (ἐκ τοῦ αἵματος τῶν μαρτύρων Ἰησοῦ ‘of the blood of the martyrs of Jesus’) is likely to result in considerable misunderstanding, for it could mean that these were individuals who had been martyred by Jesus rather than those who had been deprived of their lives because of their relationship to Jesus. It would be possible to render τῶν μαρτύρων Ἰησοῦ as ‘those who had been killed because they belonged to Jesus,’ but one should avoid any expression which would suggest slave ownership.</Comments>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04402202000016</LEXReference>
+            <LEXReference>06601700600032</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

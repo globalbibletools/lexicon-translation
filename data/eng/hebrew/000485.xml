@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="000485000000000" Lemma="אֵמוּן" Version="5" HasAramaic="false" InLXX="false" AlphaPos="א">
+  <StrongCodes>
+    <Strong>H0529</Strong>
+  </StrongCodes>
+  <Authors>
+    <Author>Enio R. Mueller</Author>
+  </Authors>
+  <Contributors/>
+  <AlternateLemmas>
+    <AlternateLemma>אֵמֻן</AlternateLemma>
+  </AlternateLemmas>
+  <MainLinks/>
+  <Notes/>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="000485001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>aj</PartOfSpeech>
+      </PartsOfSpeech>
+      <RelatedLemmas>
+        <RelatedLemma>
+          <Word>אמן</Word>
+        </RelatedLemma>
+      </RelatedLemmas>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="000485001001000" IsBiblicalTerm="M" EntryCode="" Indent="0">
+          <LEXDomains>
+            <LEXDomain Code="002001002008">Faithful</LEXDomain>
+          </LEXDomains>
+          <LEXSynonyms>
+            <LEXSynonym>חֶסֶד</LEXSynonym>
+            <LEXSynonym>צַדִּיק</LEXSynonym>
+          </LEXSynonyms>
+          <LEXAntonyms>
+            <LEXAntonym>רָשָׁע</LEXAntonym>
+            <LEXAntonym>שֶׁקֶר</LEXAntonym>
+            <LEXAntonym>תַּהְפּוּכָה</LEXAntonym>
+          </LEXAntonyms>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2014-12-08 11:35:05" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>= state in which humans are considered worthy of trust, because they are truthful and committed, with an unwavering disposition, which is reflected in their actions</DefinitionShort>
+              <Glosses>
+                <Gloss>faithfulness</Gloss>
+                <Gloss>reliability</Gloss>
+                <Gloss>trustworthiness</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>00503202000030</LEXReference>
+            <LEXReference>02001301700016</LEXReference>
+            <LEXReference>02001400500004</LEXReference>
+            <LEXReference>02002000600016</LEXReference>
+            <LEXReference>02302600200016</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+          <LEXCoreDomains>
+            <LEXCoreDomain Code="061">Faithfulness</LEXCoreDomain>
+            <LEXCoreDomain Code="082">Human</LEXCoreDomain>
+          </LEXCoreDomains>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+    <BaseForm Id="000485002000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>aj</PartOfSpeech>
+      </PartsOfSpeech>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="000485002001000" IsBiblicalTerm="M" EntryCode="" Indent="0">
+          <LEXDomains>
+            <LEXDomain Code="001001002003" Source="Faithful" SourceCode="002001002008">People</LEXDomain>
+          </LEXDomains>
+          <LEXSynonyms>
+            <LEXSynonym>חָסִיד</LEXSynonym>
+            <LEXSynonym>שׁלם</LEXSynonym>
+          </LEXSynonyms>
+          <LEXAntonyms>
+            <LEXAntonym>גַּאֲוָה</LEXAntonym>
+          </LEXAntonyms>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2014-12-08 11:35:05" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>= person who is considered worthy of trust, because s/he is truthful and committed, with an unwavering disposition, which is reflected in his/her actions</DefinitionShort>
+              <Glosses>
+                <Gloss>faithful</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>01002001900006</LEXReference>
+            <LEXReference>01901200200016</LEXReference>
+            <LEXReference>01903102400012</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+          <LEXCoreDomains>
+            <LEXCoreDomain Code="061">Faithfulness</LEXCoreDomain>
+          </LEXCoreDomains>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="004538000000000" Lemma="σκηνοπηγία" Version="0" HasAramaic="false" InLXX="true" AlphaPos="σ">
+  <StrongCodes>
+    <Strong>G4634</Strong>
+  </StrongCodes>
+  <Authors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes/>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="004538001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>noun, f.</PartOfSpeech>
+      </PartsOfSpeech>
+      <Inflections>
+        <Inflection Lemma="σκηνοπηγία" BaseFormIndex="1">
+          <Form/>
+          <Realizations>
+            <Realization>-ας</Realization>
+          </Realizations>
+          <Comments/>
+        </Inflection>
+      </Inflections>
+      <Constructs>
+        <Construct Lemma="σκηνοπηγία" BaseFormIndex="1">
+          <WordMeaningSet>
+            <Word>σκηνόω</Word>
+          </WordMeaningSet>
+          <WordMeaningSet>
+            <Word>πήγνυμι</Word>
+          </WordMeaningSet>
+        </Construct>
+      </Constructs>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="004538001001000" IsBiblicalTerm="M" EntryCode="51.10" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Festivals</LEXDomain>
+          </LEXDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2022-02-11 12:16:46" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>a Jewish festival commemorating God’s provision during the wanderings in the wilderness</DefinitionShort>
+              <Glosses>
+                <Gloss>festival of the tabernacles</Gloss>
+                <Gloss>celebration of the tents</Gloss>
+              </Glosses>
+              <Comments>In some languages it may be useful to speak of the Festival of Tents as ‘the festival when people lived in tents.’</Comments>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04300700200018</LEXReference>
+          </LEXReferences>
+          <LEXLinks>
+            <LEXLink>realia:3.16</LEXLink>
+          </LEXLinks>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="001376000000000" Lemma="Διόσκουροι" Version="0" HasAramaic="false" InLXX="false" AlphaPos="δ">
+  <StrongCodes>
+    <Strong>G1359</Strong>
+  </StrongCodes>
+  <Authors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes/>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="001376001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>noun-name, m.</PartOfSpeech>
+      </PartsOfSpeech>
+      <Inflections>
+        <Inflection Lemma="Διόσκουροι" BaseFormIndex="1">
+          <Form/>
+          <Realizations>
+            <Realization>-ων</Realization>
+          </Realizations>
+          <Comments/>
+        </Inflection>
+      </Inflections>
+      <Constructs>
+        <Construct Lemma="Διόσκουροι" BaseFormIndex="1">
+          <WordMeaningSet>
+            <Word>Διός</Word>
+          </WordMeaningSet>
+          <WordMeaningSet>
+            <Word>κοῦρος</Word>
+            <Meaning LanguageCode="en">
+              <Meaning>boy, son</Meaning>
+            </Meaning>
+            <Meaning LanguageCode="zhT">
+              <Meaning>男孩，兒子</Meaning>
+            </Meaning>
+          </WordMeaningSet>
+        </Construct>
+      </Constructs>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="001376001001000" IsBiblicalTerm="Y" EntryCode="93.98" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Names of Persons and Places</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Persons</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-07-07 22:11:11" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>a joint name for Castor and Pollux, pagan deities of an Alexandrian ship</DefinitionShort>
+              <Glosses>
+                <Gloss>Dioscuri meaning heavenly twins</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04402801100028</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

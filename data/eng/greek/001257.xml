@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="001257000000000" Lemma="διαίρεσις" Version="0" HasAramaic="false" InLXX="true" AlphaPos="δ">
+  <StrongCodes>
+    <Strong>G1243</Strong>
+  </StrongCodes>
+  <Authors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes/>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="001257001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>noun, f.</PartOfSpeech>
+      </PartsOfSpeech>
+      <Inflections>
+        <Inflection Lemma="διαίρεσις" BaseFormIndex="1">
+          <Form/>
+          <Realizations>
+            <Realization>-εως</Realization>
+          </Realizations>
+          <Comments/>
+        </Inflection>
+      </Inflections>
+      <RelatedLemmas>
+        <RelatedLemma>
+          <Word>αἱρέομαι</Word>
+        </RelatedLemma>
+      </RelatedLemmas>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="001257001001000" IsBiblicalTerm="Y" EntryCode="57.91" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Possess, Transfer, Exchange</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Give</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-06-01 21:26:33" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>to divide and distribute to persons on the basis of certain implied distinctions or differences</DefinitionShort>
+              <Glosses>
+                <Gloss>to divide</Gloss>
+                <Gloss>to distribute</Gloss>
+                <Gloss>division</Gloss>
+                <Gloss>distribution</Gloss>
+              </Glosses>
+              <Comments>In {S:04601200400002} it is also possible to interpret διαίρεσις as meaning ‘difference’ or ‘variety’ (see {D:58.39}).</Comments>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04601200400002</LEXReference>
+            <LEXReference>04601200500004</LEXReference>
+            <LEXReference>04601200600004</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+        <LEXMeaning Id="001257001002000" IsBiblicalTerm="Y" EntryCode="58.39" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Nature, Class, Example</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Different Kind or Class</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-06-01 21:26:33" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>a state of difference in the nature of objects or events, with the implication of significant variety</DefinitionShort>
+              <Glosses>
+                <Gloss>difference</Gloss>
+                <Gloss>variety</Gloss>
+              </Glosses>
+              <Comments>It is also possible to interpret διαίρεσις in {S:04601200400002} as the allotment or apportionment of such spiritual gifts (see {D:57.91}).</Comments>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04601200400002</LEXReference>
+            <LEXReference>04601200500004</LEXReference>
+            <LEXReference>04601200600004</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

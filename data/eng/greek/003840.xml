@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="003840000000000" Lemma="πάροδος" Version="0" HasAramaic="false" InLXX="true" AlphaPos="π">
+  <StrongCodes>
+    <Strong>G3938</Strong>
+  </StrongCodes>
+  <Authors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes/>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="003840001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>noun, f.</PartOfSpeech>
+      </PartsOfSpeech>
+      <Inflections>
+        <Inflection Lemma="πάροδος" BaseFormIndex="1">
+          <Form/>
+          <Realizations>
+            <Realization>-ου</Realization>
+          </Realizations>
+          <Comments/>
+        </Inflection>
+      </Inflections>
+      <RelatedLemmas>
+        <RelatedLemma>
+          <Word>ὁδεύω</Word>
+        </RelatedLemma>
+      </RelatedLemmas>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="003840001001000" IsBiblicalTerm="M" EntryCode="15.29" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Linear Movement</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Pass, Cross Over, Go Through, Go Around</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-12-23 11:38:08" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>to pass by some point of reference as one travels</DefinitionShort>
+              <Glosses>
+                <Gloss>to pass by</Gloss>
+                <Gloss>to travel on through</Gloss>
+                <Gloss>to travel past</Gloss>
+              </Glosses>
+              <Comments>A strictly literal translation of {S:04601600700014} in the form ‘I do not want to see you just briefly as I travel past’ may be misleading, for it might imply that Paul simply did not want to have a glance at the people as he travelled past. In fact, the negative in this expression may result in serious misunderstanding, and therefore it may be better to translate ‘I want to have an opportunity to talk with you as I travel on through’ or ‘I wish to visit you at least for a while as I journey on.’</Comments>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04601600700014</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

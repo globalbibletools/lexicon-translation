@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="003423000000000" Lemma="νῆσος" Version="0" HasAramaic="false" InLXX="true" AlphaPos="ν">
+  <StrongCodes>
+    <Strong>G3520</Strong>
+  </StrongCodes>
+  <Authors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes/>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="003423001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>noun, f.</PartOfSpeech>
+      </PartsOfSpeech>
+      <Inflections>
+        <Inflection Lemma="νῆσος" BaseFormIndex="1">
+          <Form/>
+          <Realizations>
+            <Realization>-ου</Realization>
+          </Realizations>
+          <Comments/>
+        </Inflection>
+      </Inflections>
+      <RelatedLemmas>
+        <RelatedLemma>
+          <Word>νησίον</Word>
+        </RelatedLemma>
+      </RelatedLemmas>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="003423001001000" IsBiblicalTerm="Y" EntryCode="1.66" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Geographical Objects and Features</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Land in Contrast With the Sea</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-12-10 16:05:44" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>an area of land completely surrounded by water</DefinitionShort>
+              <Glosses>
+                <Gloss>island</Gloss>
+              </Glosses>
+              <Comments>In some languages an island can only be designated by a description, for example, ‘a small country in the sea’ or ‘some land surrounded by water.’</Comments>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04401300600010</LEXReference>
+            <LEXReference>04402702600004</LEXReference>
+            <LEXReference>04402800100016</LEXReference>
+            <LEXReference>04402800700026</LEXReference>
+            <LEXReference>04402800900020</LEXReference>
+            <LEXReference>04402801100022</LEXReference>
+            <LEXReference>06600100900040</LEXReference>
+            <LEXReference>06600601400024</LEXReference>
+            <LEXReference>06601602000006</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

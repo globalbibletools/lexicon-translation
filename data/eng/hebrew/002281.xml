@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="002281000000000" Lemma="חַלָּה" Version="5" HasAramaic="false" InLXX="false" AlphaPos="ח">
+  <StrongCodes>
+    <Strong>H2471</Strong>
+  </StrongCodes>
+  <Authors>
+    <Author>Reinier de Blois</Author>
+  </Authors>
+  <Contributors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes/>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="002281001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>nsf</PartOfSpeech>
+      </PartsOfSpeech>
+      <RelatedLemmas>
+        <RelatedLemma>
+          <Word>חלל</Word>
+        </RelatedLemma>
+      </RelatedLemmas>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="002281001001000" IsBiblicalTerm="M" EntryCode="" Indent="0">
+          <LEXDomains>
+            <LEXDomain Code="001004003001">Bread</LEXDomain>
+          </LEXDomains>
+          <LEXSynonyms>
+            <LEXSynonym>לֶחֶם</LEXSynonym>
+            <LEXSynonym>רָקִיק</LEXSynonym>
+          </LEXSynonyms>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2017-02-23 12:39:49" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>= type of {L:bread&lt;SDBH:לֶחֶם&gt;}, shaped like a ring, ◄ made out of {L:fine flour&lt;SDBH:סֹלֶת&gt;} and other ingredients by {L:baking&lt;SDBH:אפה&gt;} it in an {L:oven&lt;SDBH:תַּנּוּר&gt;}; ► used as food, also sacrificed to God (usually unleavened) and then eaten by priests and Levites; ≈ regarded as high quality bread</DefinitionShort>
+              <Glosses>
+                <Gloss>cake</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>00202900200010</LEXReference>
+            <LEXReference>00202902300012</LEXReference>
+            <LEXReference>00300200400018</LEXReference>
+            <LEXReference>00300701200022</LEXReference>
+            <LEXReference>00300701200054</LEXReference>
+            <LEXReference>00300701300004</LEXReference>
+            <LEXReference>00300802600022</LEXReference>
+            <LEXReference>00300802600030</LEXReference>
+            <LEXReference>00302400500018</LEXReference>
+            <LEXReference>00302400500028</LEXReference>
+            <LEXReference>00400601500010</LEXReference>
+            <LEXReference>00400601900026</LEXReference>
+            <LEXReference>00401502000006</LEXReference>
+            <LEXReference>01000601900038</LEXReference>
+          </LEXReferences>
+          <LEXLinks>
+            <LEXLink>Realia:9.4</LEXLink>
+          </LEXLinks>
+          <LEXVideos/>
+          <LEXCoreDomains>
+            <LEXCoreDomain Code="069">Food</LEXCoreDomain>
+          </LEXCoreDomains>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

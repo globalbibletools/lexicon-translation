@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="004641000000000" Lemma="στηριγμός" Version="0" HasAramaic="false" InLXX="false" AlphaPos="σ">
+  <StrongCodes>
+    <Strong>G4740</Strong>
+  </StrongCodes>
+  <Authors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes/>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="004641001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>noun, m.</PartOfSpeech>
+      </PartsOfSpeech>
+      <Inflections>
+        <Inflection Lemma="στηριγμός" BaseFormIndex="1">
+          <Form/>
+          <Realizations>
+            <Realization>-οῦ</Realization>
+          </Realizations>
+          <Comments/>
+        </Inflection>
+      </Inflections>
+      <RelatedLemmas>
+        <RelatedLemma>
+          <Word>στηρίζω</Word>
+        </RelatedLemma>
+      </RelatedLemmas>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="004641001001000" IsBiblicalTerm="Y" EntryCode="21.13" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Danger, Risk, Safe, Save</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Safe, Free from Danger</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2022-03-07 12:28:06" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>a state of security and safety</DefinitionShort>
+              <Glosses>
+                <Gloss>place of safety</Gloss>
+                <Gloss>position of safety</Gloss>
+              </Glosses>
+              <Comments>For another interpretation of στηριγμός in {S:06100301700032}, see {D:74.20}.</Comments>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>06100301700032</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+        <LEXMeaning Id="004641001002000" IsBiblicalTerm="Y" EntryCode="74.20" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Able, Capable</LEXDomain>
+          </LEXDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2022-03-07 12:28:06" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>a state of firm, inner strength</DefinitionShort>
+              <Glosses>
+                <Gloss>firm position</Gloss>
+                <Gloss>being firm in</Gloss>
+                <Gloss>firmness</Gloss>
+                <Gloss>steadfastness</Gloss>
+              </Glosses>
+              <Comments>For another interpretation of {L:στηριγμός&lt;SDBG:στηριγμός:000000&gt;} in {S:06100301700032}, see {D:21.13}.</Comments>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>06100301700032</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="005402000000000" Lemma="χοϊκός" Version="0" HasAramaic="false" InLXX="false" AlphaPos="χ">
+  <StrongCodes>
+    <Strong>G5517</Strong>
+  </StrongCodes>
+  <Authors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes/>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="005402001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>adjc.</PartOfSpeech>
+      </PartsOfSpeech>
+      <Inflections>
+        <Inflection Lemma="χοϊκός" BaseFormIndex="1">
+          <Form/>
+          <Realizations>
+            <Realization>-ή, -όν</Realization>
+          </Realizations>
+          <Comments/>
+        </Inflection>
+      </Inflections>
+      <RelatedLemmas>
+        <RelatedLemma>
+          <Word>χέω</Word>
+          <Meaning LanguageCode="en">
+            <Meaning>pour</Meaning>
+          </Meaning>
+          <Meaning LanguageCode="zhT">
+            <Meaning>倒</Meaning>
+          </Meaning>
+        </RelatedLemma>
+        <RelatedLemma>
+          <Word>χοῦς</Word>
+        </RelatedLemma>
+      </RelatedLemmas>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="005402001001000" IsBiblicalTerm="Y" EntryCode="2.16" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Natural Substances</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Earth, Mud, Sand, Rock</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2022-06-01 16:46:41" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>(derivative of {L:χοῦς&lt;SDBG:χοῦς:000000&gt;} ‘dust,’ {D:2.15}) pertaining to being made or consisting of dust or soil</DefinitionShort>
+              <Glosses>
+                <Gloss>made of dust</Gloss>
+                <Gloss>made of soil</Gloss>
+              </Glosses>
+              <Comments>Though in general {L:χοῦς&lt;SDBG:χοῦς:000000&gt;} and the derivative χοϊκός would seem to refer to dry dust, they may also refer to dirt or soil. In {S:04601504700012} it is more appropriate to speak of the creation of Adam as ‘made from the ground’ or ‘formed out of soil.’ For another interpretation of χοϊκός in {S:04601504700012}, see {D:1.42}.</Comments>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04601504700012</LEXReference>
+            <LEXReference>04601504800006</LEXReference>
+            <LEXReference>04601504800014</LEXReference>
+            <LEXReference>04601504900014</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+        <LEXMeaning Id="005402001002000" IsBiblicalTerm="Y" EntryCode="1.42" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Geographical Objects and Features</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>The Earth's Surface</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2022-06-01 16:46:41" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>pertaining to having the nature of earthly existence in contrast with that which is heavenly or of heaven</DefinitionShort>
+              <Glosses>
+                <Gloss>of earth</Gloss>
+                <Gloss>earthly</Gloss>
+                <Gloss>made of earth</Gloss>
+              </Glosses>
+              <Comments>It may even be possible in rendering χοϊκός in {S:04601504700012} to say ‘created out of earth’ or ‘made from dust’ (see {D:2.16}).</Comments>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04601504700012</LEXReference>
+            <LEXReference>04601504800006</LEXReference>
+            <LEXReference>04601504800014</LEXReference>
+            <LEXReference>04601504900014</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

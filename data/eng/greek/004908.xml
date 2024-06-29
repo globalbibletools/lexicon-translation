@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="004908000000000" Lemma="ταλαιπωρέω" Version="0" HasAramaic="false" InLXX="true" AlphaPos="τ">
+  <StrongCodes>
+    <Strong>G5003</Strong>
+  </StrongCodes>
+  <Authors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes/>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="004908001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>verb</PartOfSpeech>
+      </PartsOfSpeech>
+      <Constructs>
+        <Construct Lemma="ταλαιπωρέω" BaseFormIndex="1">
+          <WordMeaningSet>
+            <Word>τάλας</Word>
+            <Meaning LanguageCode="en">
+              <Meaning>enduring hardship</Meaning>
+            </Meaning>
+            <Meaning LanguageCode="zhT">
+              <Meaning>忍受苦難</Meaning>
+            </Meaning>
+          </WordMeaningSet>
+          <WordMeaningSet>
+            <Word>πωρόω</Word>
+            <Meaning LanguageCode="en">
+              <Meaning>harden, burden</Meaning>
+            </Meaning>
+            <Meaning LanguageCode="zhT">
+              <Meaning>使剛硬，負擔</Meaning>
+            </Meaning>
+          </WordMeaningSet>
+        </Construct>
+      </Constructs>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="004908001001000" IsBiblicalTerm="Y" EntryCode="25.136" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Attitudes and Emotions</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Laugh, Cry, Groan</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2022-03-17 16:28:26" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>to be sorrowful and complain, presumably on the basis of wretched circumstances</DefinitionShort>
+              <Glosses>
+                <Gloss>to be sorrowful</Gloss>
+                <Gloss>to lament</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>05900400900002</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

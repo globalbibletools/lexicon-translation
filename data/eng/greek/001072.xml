@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="001072000000000" Lemma="γάμος" Version="0" HasAramaic="false" InLXX="true" AlphaPos="γ">
+  <StrongCodes>
+    <Strong>G1062</Strong>
+  </StrongCodes>
+  <Authors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes>
+    <Note Caller="1" LanguageCode="en" LastEdited="" LastEditedBy="">
+      <References/>
+      <Content>γάμος[a] differs in meaning from γαμέω and γαμίζω[a] ({D:34.66}) in denoting the state of being married and not simply the act of entering into a marriage relation.</Content>
+    </Note>
+    <Note Caller="2" LanguageCode="en" LastEdited="" LastEditedBy="">
+      <References>
+        <Reference>04002201000040</Reference>
+      </References>
+      <Content>Though the meaning of νυμφών and γάμος[c] in {S:04002201000040} is basically the same, νυμφών may still carry semantic associations relating to the bride, while γάμος[c] may have semantic associations which point more specifically to the celebration of a wedding.</Content>
+    </Note>
+  </Notes>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="001072001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>noun, m.</PartOfSpeech>
+      </PartsOfSpeech>
+      <Inflections>
+        <Inflection Lemma="γάμος" BaseFormIndex="1">
+          <Form/>
+          <Realizations>
+            <Realization>-ου</Realization>
+          </Realizations>
+          <Comments/>
+        </Inflection>
+      </Inflections>
+      <RelatedLemmas>
+        <RelatedLemma>
+          <Word>γαμέω</Word>
+        </RelatedLemma>
+      </RelatedLemmas>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="001072001001000" IsBiblicalTerm="M" EntryCode="34.67" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Association</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Marriage, Divorce</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-05-13 21:43:13" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>the state of being married{N:001}</DefinitionShort>
+              <Glosses>
+                <Gloss>marriage</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>05801300400006</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+        <LEXMeaning Id="001072001002000" IsBiblicalTerm="M" EntryCode="34.68" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Association</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Marriage, Divorce</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-05-13 21:43:13" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>the ceremony associated with becoming married</DefinitionShort>
+              <Glosses>
+                <Gloss>wedding</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04002200200020</LEXReference>
+            <LEXReference>04002200300022</LEXReference>
+            <LEXReference>04002200400054</LEXReference>
+            <LEXReference>04002200800016</LEXReference>
+            <LEXReference>04002200900030</LEXReference>
+            <LEXReference>04002201000040</LEXReference>
+            <LEXReference>04002201100028</LEXReference>
+            <LEXReference>04002201200022</LEXReference>
+            <LEXReference>04002501000032</LEXReference>
+            <LEXReference>04201203600026</LEXReference>
+            <LEXReference>04201400800012</LEXReference>
+            <LEXReference>04300200100012</LEXReference>
+            <LEXReference>04300200200024</LEXReference>
+            <LEXReference>05801300400006</LEXReference>
+            <LEXReference>06601900700024</LEXReference>
+            <LEXReference>06601900900022</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+        <LEXMeaning Id="001072001003000" IsBiblicalTerm="M" EntryCode="7.34" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Constructions</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Parts and Areas of Buildings</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-05-13 21:43:13" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>a relatively large room, often serving as a place for a wedding</DefinitionShort>
+              <Glosses>
+                <Gloss>wedding hall</Gloss>
+              </Glosses>
+              <Comments>In {S:04002201000040} a number of manuscripts read νυμφών rather than γάμος.</Comments>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04002201000040{N:002}</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

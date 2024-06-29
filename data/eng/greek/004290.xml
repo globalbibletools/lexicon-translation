@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="004290000000000" Lemma="πρότερος" Version="0" HasAramaic="false" InLXX="true" AlphaPos="π">
+  <StrongCodes>
+    <Strong>G4386</Strong>
+  </StrongCodes>
+  <Authors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes>
+    <Note Caller="1" LanguageCode="en" LastEdited="" LastEditedBy="">
+      <References/>
+      <Content>It would be possible to classify meanings such as before and former as a matter of sequence (Domain 61), but the meanings in this series do not point to the first item in a sequence but simply to a point of time prior to some other point.</Content>
+    </Note>
+  </Notes>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="004290001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>adjc.</PartOfSpeech>
+      </PartsOfSpeech>
+      <Inflections>
+        <Inflection Lemma="πρότερος" BaseFormIndex="1">
+          <Form/>
+          <Realizations>
+            <Realization>-α, -ον</Realization>
+          </Realizations>
+          <Comments/>
+        </Inflection>
+      </Inflections>
+      <RelatedLemmas>
+        <RelatedLemma>
+          <Word>πρό</Word>
+        </RelatedLemma>
+      </RelatedLemmas>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="004290001001000" IsBiblicalTerm="Y" EntryCode="67.18" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Time</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>A Point of Time with Reference to Other Points of Time: Before, Long Ago, Now, At the Same Time, When, About, After</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2022-02-07 12:26:53" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>pertaining to a point of time earlier in a sequence{N:001}</DefinitionShort>
+              <Glosses>
+                <Gloss>before</Gloss>
+                <Gloss>former</Gloss>
+                <Gloss>formerly</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04300606200024</LEXReference>
+            <LEXReference>04300705000020</LEXReference>
+            <LEXReference>04300900800018</LEXReference>
+            <LEXReference>04700101500012</LEXReference>
+            <LEXReference>04900402200010</LEXReference>
+            <LEXReference>05400101300004</LEXReference>
+            <LEXReference>05800400600020</LEXReference>
+            <LEXReference>05801003200008</LEXReference>
+            <LEXReference>06000101400014</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+        <LEXMeaning Id="004290001002000" IsBiblicalTerm="Y" EntryCode="60.47" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Number</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>First, Second, Third, Etc. [Ordinals]</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2022-02-07 12:26:53" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>first, with the implication of emphasis, frequently in reference to time</DefinitionShort>
+              <Glosses>
+                <Gloss>the first time</Gloss>
+              </Glosses>
+              <Comments>It is also possible to understand πρότερος in {S:04800401300022} as meaning ‘earlier, formerly’ (see {D:67.18}).</Comments>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04700101500012</LEXReference>
+            <LEXReference>04800401300022</LEXReference>
+            <LEXReference>05800702700020</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

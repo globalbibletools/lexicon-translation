@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="001353000000000" Lemma="διθάλασσος" Version="0" HasAramaic="false" InLXX="false" AlphaPos="δ">
+  <StrongCodes>
+    <Strong>G1337</Strong>
+  </StrongCodes>
+  <Authors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes/>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="001353001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>adjc.</PartOfSpeech>
+      </PartsOfSpeech>
+      <Inflections>
+        <Inflection Lemma="διθάλασσος" BaseFormIndex="1">
+          <Form/>
+          <Realizations>
+            <Realization>-ον</Realization>
+          </Realizations>
+          <Comments/>
+        </Inflection>
+      </Inflections>
+      <Constructs>
+        <Construct Lemma="διθάλασσος" BaseFormIndex="1">
+          <WordMeaningSet>
+            <Word>δύο</Word>
+          </WordMeaningSet>
+          <WordMeaningSet>
+            <Word>θάλασσα</Word>
+          </WordMeaningSet>
+        </Construct>
+      </Constructs>
+      <RelatedLemmas>
+        <RelatedLemma>
+          <Word>ἁλίζω</Word>
+        </RelatedLemma>
+      </RelatedLemmas>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="001353001001000" IsBiblicalTerm="Y" EntryCode="14.32" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Physical Events and States</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Events Involving Liquids and Dry Masses</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-06-08 21:08:02" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>two currents which meet in a body of water</DefinitionShort>
+              <Glosses>
+                <Gloss>cross-currents</Gloss>
+              </Glosses>
+              <Comments>Other scholars, however, interpret διθάλασσος together with τόπος as being a reef, a sandbar, or even a headland (see {D:1.68}).|Cross-currents may be spoken of as ‘streams in the sea’ or ‘rivers in the sea’ or ‘two rivers that meet in the sea.’ It would be wrong, however, to use the expression ‘two rivers that meet in the sea’ if this meant merely two rivers which meet at the coastline as they flow from the interior. In this context ‘rivers’ can only refer to ‘rivers of the sea,’ in other words, ‘currents.’</Comments>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04402704100010</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+        <LEXMeaning Id="001353001002000" IsBiblicalTerm="Y" EntryCode="1.68" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Geographical Objects and Features</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Land in Contrast With the Sea</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXCollocations>
+            <LEXCollocation>τόπος διθάλασσος</LEXCollocation>
+          </LEXCollocations>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-06-08 21:08:02" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>a bar or reef produced in an area where two currents meet</DefinitionShort>
+              <Glosses>
+                <Gloss>sandbar</Gloss>
+                <Gloss>reef</Gloss>
+              </Glosses>
+              <Comments>It is possible to understand τόπος {L:διθάλασσος&lt;SDBG:διθάλασσος:000000&gt;} in {S:04402704100010} as a place of crosscurrents; see {D:14.32}. In some languages it may be necessary to construct a descriptive equivalent for ‘sandbank,’ for example, ‘a hill of sand just beneath the surface of the water’ or ‘a ridge of sand hidden by the water.’</Comments>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04402704100010</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

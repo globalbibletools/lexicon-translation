@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="004006000000000" Lemma="מִכְשֹׁול" Version="4" HasAramaic="false" InLXX="false" AlphaPos="מ">
+  <StrongCodes>
+    <Strong>H4383</Strong>
+  </StrongCodes>
+  <Authors>
+    <Author>Reinier de Blois</Author>
+  </Authors>
+  <Contributors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes/>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="004006001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>nsm</PartOfSpeech>
+      </PartsOfSpeech>
+      <RelatedLemmas>
+        <RelatedLemma>
+          <Word>כשׁל</Word>
+        </RelatedLemma>
+      </RelatedLemmas>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="004006001001000" IsBiblicalTerm="Y" EntryCode="" Indent="0">
+          <LEXDomains>
+            <LEXDomain Code="002001001058">Stance</LEXDomain>
+          </LEXDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2013-11-17 19:51:53" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>= an obstacle that causes humans to trip or temporarily lose their balance when hitting it with their feet; ≈ often used figuratively to denote failure</DefinitionShort>
+              <Glosses>
+                <Gloss>stumbling block</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>00301901400020</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+          <LEXCoreDomains>
+            <LEXCoreDomain Code="019">Body</LEXCoreDomain>
+          </LEXCoreDomains>
+        </LEXMeaning>
+        <LEXMeaning Id="004006001002000" IsBiblicalTerm="Y" EntryCode="" Indent="0">
+          <LEXDomains>
+            <LEXDomain Code="002001002001" Source="Stance" SourceCode="002001001058">Afraid</LEXDomain>
+          </LEXDomains>
+          <LEXCollocations>
+            <LEXCollocation>מִכְשֹׁול לֵב</LEXCollocation>
+          </LEXCollocations>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2022-04-29 16:42:37" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>literally: a stumbling block of the heart; hence, probably: = something that dominates one's thinking and affects one's confidence</DefinitionShort>
+              <Glosses>
+                <Gloss>pang of conscience</Gloss>
+                <Gloss>faltering courage</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>00902503100020</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+          <LEXCoreDomains>
+            <LEXCoreDomain Code="043">Confidence and Fear</LEXCoreDomain>
+          </LEXCoreDomains>
+        </LEXMeaning>
+        <LEXMeaning Id="004006001003000" IsBiblicalTerm="Y" EntryCode="" Indent="0">
+          <LEXDomains>
+            <LEXDomain Code="002003003012" Source="Stance" SourceCode="002001001058">Fail</LEXDomain>
+          </LEXDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2022-04-29 16:42:37" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>literally: stumbling block; hence: = a condition that causes humans not to live up to the expectations others have of them</DefinitionShort>
+              <Glosses>
+                <Gloss>obstacle</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>01911916500018</LEXReference>
+            <LEXReference>02300801400024</LEXReference>
+            <LEXReference>02400602100024</LEXReference>
+            <LEXReference>02600302000024</LEXReference>
+            <LEXReference>02600701900060</LEXReference>
+            <LEXReference>02601400300024</LEXReference>
+            <LEXReference>02601400400046</LEXReference>
+            <LEXReference>02601400700050</LEXReference>
+            <LEXReference>02601803000046</LEXReference>
+            <LEXReference>02602102000016</LEXReference>
+            <LEXReference>02604401200028</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+          <LEXCoreDomains>
+            <LEXCoreDomain Code="173">Success and Failure</LEXCoreDomain>
+          </LEXCoreDomains>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

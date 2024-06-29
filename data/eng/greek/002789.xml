@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="002789000000000" Lemma="κεφαλίς" Version="0" HasAramaic="false" InLXX="true" AlphaPos="κ">
+  <StrongCodes>
+    <Strong>G2777</Strong>
+  </StrongCodes>
+  <Authors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes/>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="002789001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>noun, f.</PartOfSpeech>
+      </PartsOfSpeech>
+      <Inflections>
+        <Inflection Lemma="κεφαλίς" BaseFormIndex="1">
+          <Form/>
+          <Realizations>
+            <Realization>-ίδος</Realization>
+          </Realizations>
+          <Comments/>
+        </Inflection>
+      </Inflections>
+      <RelatedLemmas>
+        <RelatedLemma>
+          <Word>κεφαλιόω</Word>
+        </RelatedLemma>
+      </RelatedLemmas>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="002789001001000" IsBiblicalTerm="M" EntryCode="6.67" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Artifacts</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Instruments Used in Marking and Writing</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-10-06 12:47:23" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>section of a scroll or of a long composition</DefinitionShort>
+              <Glosses>
+                <Gloss>section</Gloss>
+                <Gloss>scroll</Gloss>
+              </Glosses>
+              <Comments>Long compositions often involved several scrolls, and a κεφαλίς would form one section or scroll of such a composition.|In the case of practically all terms for documents (for example, ‘letter,’ ‘book,’ ‘scroll’) the meaning involves not only the object on which the writing was done, but also the contents of the writing. In some languages a distinction must be made between these two aspects of such objects, and one must make certain that the particular expression used in a receptor language will at least include the contents and not refer merely to the materials on which the words may have been written.</Comments>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>05801000700012</LEXReference>
+          </LEXReferences>
+          <LEXLinks>
+            <LEXLink>realia:1.7.1</LEXLink>
+          </LEXLinks>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

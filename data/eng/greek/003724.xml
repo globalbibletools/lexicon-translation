@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="003724000000000" Lemma="παλαιότης" Version="0" HasAramaic="false" InLXX="false" AlphaPos="π">
+  <StrongCodes>
+    <Strong>G3821</Strong>
+  </StrongCodes>
+  <Authors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes>
+    <Note Caller="1" LanguageCode="en" LastEdited="" LastEditedBy="">
+      <References>
+        <Reference>04500700600038</Reference>
+      </References>
+      <Content>Whether παλαιότης in {S:04500700600038} is to be classified in Domain 58 or in Domain 67 Time depends upon which of the principal features of meaning seems to be focal. Judgments may obviously differ.</Content>
+    </Note>
+  </Notes>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="003724001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>noun, f.</PartOfSpeech>
+      </PartsOfSpeech>
+      <Inflections>
+        <Inflection Lemma="παλαιότης" BaseFormIndex="1">
+          <Form/>
+          <Realizations>
+            <Realization>-ητος</Realization>
+          </Realizations>
+          <Comments/>
+        </Inflection>
+      </Inflections>
+      <RelatedLemmas>
+        <RelatedLemma>
+          <Word>παλαιόω</Word>
+        </RelatedLemma>
+      </RelatedLemmas>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="003724001001000" IsBiblicalTerm="Y" EntryCode="67.100" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Time</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Duration of Time without Reference to Points or Units of Time: Time, Spend Time, Always, Eternal, Old, Immediately, Young</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-12-16 12:48:47" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>the state of being old, with the implication of obsolescence</DefinitionShort>
+              <Glosses>
+                <Gloss>oldness</Gloss>
+                <Gloss>old</Gloss>
+                <Gloss>being obsolete</Gloss>
+              </Glosses>
+              <Comments>For a somewhat different interpretation of παλαιότης in {S:04500700600038}, see {D:58.74}.</Comments>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04500700600038</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+        <LEXMeaning Id="003724001002000" IsBiblicalTerm="Y" EntryCode="58.74" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Nature, Class, Example</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>New, Old [primarily non-temporal]</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-12-16 12:48:47" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>the state of that which is old, obsolete, and hence inferior and unsatisfactory (in contrast with that which is either {L:καινός&lt;SDBG:καινός:000001&gt;}[b] or {L:νέος&lt;SDBG:νέος:000001&gt;}[b] ‘new,’ {D:58.71})</DefinitionShort>
+              <Glosses>
+                <Gloss>old</Gloss>
+                <Gloss>obsolete</Gloss>
+                <Gloss>old way</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04500700600038{N:001}</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

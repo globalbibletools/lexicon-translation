@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="003038000000000" Lemma="יִצְהָר" Version="5" HasAramaic="false" InLXX="false" AlphaPos="י">
+  <StrongCodes>
+    <Strong>H3323</Strong>
+    <Strong>H3324</Strong>
+  </StrongCodes>
+  <Authors>
+    <Author>Reinier de Blois</Author>
+  </Authors>
+  <Contributors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes/>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="003038001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>nsm</PartOfSpeech>
+      </PartsOfSpeech>
+      <RelatedLemmas>
+        <RelatedLemma>
+          <Word>צהר</Word>
+        </RelatedLemma>
+      </RelatedLemmas>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="003038001001000" IsBiblicalTerm="M" EntryCode="" Indent="0">
+          <LEXDomains>
+            <LEXDomain Code="001006007">Liquids</LEXDomain>
+          </LEXDomains>
+          <LEXSynonyms>
+            <LEXSynonym>דְּבַשׁ</LEXSynonym>
+            <LEXSynonym>דָּגָן</LEXSynonym>
+            <LEXSynonym>תִּירֹושׁ</LEXSynonym>
+          </LEXSynonyms>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2015-12-22 08:32:02" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>= high quality {L:oil&lt;SDBH:שֶׁמֶן&gt;}, ◄ extracted from the fruits of the olive tree during the first pressing; ► used as food and in various religious rituals</DefinitionShort>
+              <Glosses>
+                <Gloss>olive oil</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>00401801200006</LEXReference>
+            <LEXReference>00500701300036</LEXReference>
+            <LEXReference>00501101400032</LEXReference>
+            <LEXReference>00501201700024</LEXReference>
+            <LEXReference>00501402300040</LEXReference>
+            <LEXReference>00501800400010</LEXReference>
+            <LEXReference>00502805100034</LEXReference>
+            <LEXReference>01201803200040</LEXReference>
+            <LEXReference>01403100500026</LEXReference>
+            <LEXReference>01403202800018</LEXReference>
+            <LEXReference>01600501100046</LEXReference>
+            <LEXReference>01601003800026</LEXReference>
+            <LEXReference>01601004000040</LEXReference>
+            <LEXReference>01601300500056</LEXReference>
+            <LEXReference>01601301200026</LEXReference>
+            <LEXReference>02403101200040</LEXReference>
+            <LEXReference>02800201000032</LEXReference>
+            <LEXReference>02800202400030</LEXReference>
+            <LEXReference>02900101000022</LEXReference>
+            <LEXReference>02900201900038</LEXReference>
+            <LEXReference>02900202400024</LEXReference>
+            <LEXReference>03700101100044</LEXReference>
+            <LEXReference>03800401400014</LEXReference>
+          </LEXReferences>
+          <LEXLinks>
+            <LEXLink>Realia:1.10.5</LEXLink>
+            <LEXLink>Flora:2.8</LEXLink>
+            <LEXLink>Realia:9.3</LEXLink>
+          </LEXLinks>
+          <LEXVideos/>
+          <LEXCoreDomains>
+            <LEXCoreDomain Code="101">Liquids</LEXCoreDomain>
+          </LEXCoreDomains>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+    <BaseForm Id="003038002000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>np</PartOfSpeech>
+      </PartsOfSpeech>
+      <RelatedNames>
+        <RelatedName>
+          <Word>יִצְהָרִי</Word>
+        </RelatedName>
+      </RelatedNames>
+      <MeaningsOfName>
+        <MeaningOfName LanguageCode="en">
+          <Meaning>olive oil</Meaning>
+        </MeaningOfName>
+        <MeaningOfName LanguageCode="pt">
+          <Meaning>azeite de primeira</Meaning>
+        </MeaningOfName>
+      </MeaningsOfName>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="003038002001000" IsBiblicalTerm="Y" EntryCode="" Indent="0">
+          <LEXDomains>
+            <LEXDomain Code="003001007">Names of People</LEXDomain>
+          </LEXDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2015-12-22 08:32:02" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>= man; ◄ son of {L:Kohath&lt;SDBH:קְהָת&gt;}; tribe of {L:Levi&lt;SDBH:לֵוִי&gt;}; ► founder of {L:Izharite&lt;SDBH:יִצְהָרִי&gt;} clan</DefinitionShort>
+              <Glosses>
+                <Gloss>Izhar</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>00200601800012</LEXReference>
+            <LEXReference>00200602100006</LEXReference>
+            <LEXReference>00400301900016</LEXReference>
+            <LEXReference>00401600100010</LEXReference>
+            <LEXReference>01300502800010</LEXReference>
+            <LEXReference>01300600300012</LEXReference>
+            <LEXReference>01300602300004</LEXReference>
+            <LEXReference>01302301200008</LEXReference>
+            <LEXReference>01302301800004</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

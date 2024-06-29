@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="003891000000000" Lemma="πεισμονή" Version="0" HasAramaic="false" InLXX="false" AlphaPos="π">
+  <StrongCodes>
+    <Strong>G3988</Strong>
+  </StrongCodes>
+  <Authors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes/>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="003891001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>noun, f.</PartOfSpeech>
+      </PartsOfSpeech>
+      <Inflections>
+        <Inflection Lemma="πεισμονή" BaseFormIndex="1">
+          <Form/>
+          <Realizations>
+            <Realization>-ῆς</Realization>
+          </Realizations>
+          <Comments/>
+        </Inflection>
+      </Inflections>
+      <RelatedLemmas>
+        <RelatedLemma>
+          <Word>πείθω</Word>
+        </RelatedLemma>
+      </RelatedLemmas>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="003891001001000" IsBiblicalTerm="Y" EntryCode="33.303" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Communication</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Urge, Persuade</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-12-24 12:11:59" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>(derivative of {L:πείθω&lt;SDBG:πείθω:000000&gt;}[a] ‘to persuade,’ {D:33.301}) the means by which someone is caused to believe</DefinitionShort>
+              <Glosses>
+                <Gloss>that which persuades</Gloss>
+                <Gloss>the means of convincing</Gloss>
+              </Glosses>
+              <Comments>It is also possible to interpret πεισμονή in {S:04800500800004} as the actual process of persuasion, in which case πεισμονή would be classified as a nominal form corresponding to {L:πείθω&lt;SDBG:πείθω:000000&gt;}[a] ({D:33.301}). Such an interpretation would require one to render {S:04800500800004} as he who called you was not the one who persuaded you.</Comments>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04800500800004</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

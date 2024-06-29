@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="004421000000000" Lemma="Σαβαώθ" Version="0" HasAramaic="false" InLXX="false" AlphaPos="σ">
+  <StrongCodes>
+    <Strong>G4519</Strong>
+  </StrongCodes>
+  <Authors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes>
+    <Note Caller="1" LanguageCode="en" LastEdited="" LastEditedBy="">
+      <References/>
+      <Content>Items {D:12.4}-{D:12.8}, ({D:12.9}) and {D:12.12} in this domain are titles for θεός[a] God ({D:12.1}). As titles, they have precisely the same reference as θεός[a], but they each contribute distinctive meanings which are legitimate qualifications of the referent in question.</Content>
+    </Note>
+  </Notes>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="004421001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>noun-name, m.</PartOfSpeech>
+      </PartsOfSpeech>
+      <Inflections>
+        <Inflection Lemma="Σαβαώθ" BaseFormIndex="1">
+          <Form/>
+          <Realizations/>
+          <Comments>
+            <Comment LanguageCode="en">
+              <Meaning>indeclinable</Meaning>
+            </Comment>
+            <Comment LanguageCode="zhT">
+              <Meaning>無語尾變化</Meaning>
+            </Comment>
+          </Comments>
+        </Inflection>
+      </Inflections>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="004421001001000" IsBiblicalTerm="M" EntryCode="12.8{N:001}" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Supernatural Beings and Powers</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Supernatural Beings</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2022-02-09 02:13:34" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>(a Greek transliteration of a Hebrew word meaning armies and used with {L:κύριος&lt;SDBG:κύριος:000000&gt;}[a] Lord, {D:12.9}, as a title for God) pertaining to one who has overwhelming power</DefinitionShort>
+              <Glosses>
+                <Gloss>Almighty</Gloss>
+                <Gloss>All Powerful</Gloss>
+                <Gloss>One who is powerful over all</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04500902900016</LEXReference>
+            <LEXReference>05900500400050</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

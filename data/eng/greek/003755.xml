@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="003755000000000" Lemma="παραγγέλλω" Version="0" HasAramaic="false" InLXX="true" AlphaPos="π">
+  <StrongCodes>
+    <Strong>G3853</Strong>
+  </StrongCodes>
+  <Authors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes/>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="003755001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>verb</PartOfSpeech>
+      </PartsOfSpeech>
+      <Inflections>
+        <Inflection Lemma="παραγγέλλω" BaseFormIndex="1">
+          <Form>aor.</Form>
+          <Realizations>
+            <Realization>παρήγγειλα</Realization>
+          </Realizations>
+          <Comments/>
+        </Inflection>
+        <Inflection Lemma="παραγγέλλω" BaseFormIndex="1">
+          <Form>ptc.</Form>
+          <Realizations>
+            <Realization>παραγγείλας</Realization>
+          </Realizations>
+          <Comments/>
+        </Inflection>
+      </Inflections>
+      <RelatedLemmas>
+        <RelatedLemma>
+          <Word>ἀγγέλλω</Word>
+        </RelatedLemma>
+      </RelatedLemmas>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="003755001001000" IsBiblicalTerm="Y" EntryCode="33.327" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Communication</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Command, Order</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2022-02-10 11:07:18" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>to announce what must be done</DefinitionShort>
+              <Glosses>
+                <Gloss>to order</Gloss>
+                <Gloss>to command</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04001000500014</LEXReference>
+            <LEXReference>04001503500004</LEXReference>
+            <LEXReference>04100600800004</LEXReference>
+            <LEXReference>04100800600004</LEXReference>
+            <LEXReference>04101600800044</LEXReference>
+            <LEXReference>04200501400006</LEXReference>
+            <LEXReference>04200802900002</LEXReference>
+            <LEXReference>04200805600016</LEXReference>
+            <LEXReference>04200902100010</LEXReference>
+            <LEXReference>04400100400006</LEXReference>
+            <LEXReference>04400401800008</LEXReference>
+            <LEXReference>04400502800008</LEXReference>
+            <LEXReference>04400504000012</LEXReference>
+            <LEXReference>04401004200004</LEXReference>
+            <LEXReference>04401500500032</LEXReference>
+            <LEXReference>04401601800030</LEXReference>
+            <LEXReference>04401602300018</LEXReference>
+            <LEXReference>04401703000024</LEXReference>
+            <LEXReference>04402302200016</LEXReference>
+            <LEXReference>04402303000026</LEXReference>
+            <LEXReference>04600701000008</LEXReference>
+            <LEXReference>04601101700006</LEXReference>
+            <LEXReference>05200401100032</LEXReference>
+            <LEXReference>05300300400018</LEXReference>
+            <LEXReference>05300300600002</LEXReference>
+            <LEXReference>05300301000016</LEXReference>
+            <LEXReference>05300301200008</LEXReference>
+            <LEXReference>05400100300022</LEXReference>
+            <LEXReference>05400401100002</LEXReference>
+            <LEXReference>05400500700006</LEXReference>
+            <LEXReference>05400601300002</LEXReference>
+            <LEXReference>05400601700014</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

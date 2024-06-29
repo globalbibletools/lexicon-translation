@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="007377000000000" Lemma="שָׁלוּ" Version="5" HasAramaic="true" InLXX="false" AlphaPos="ש">
+  <StrongCodes>
+    <Strong>A7955</Strong>
+    <Strong>A7960</Strong>
+    <Strong>H7959</Strong>
+  </StrongCodes>
+  <Authors>
+    <Author>Reinier de Blois</Author>
+  </Authors>
+  <Contributors/>
+  <AlternateLemmas>
+    <AlternateLemma>שָׁלָה</AlternateLemma>
+  </AlternateLemmas>
+  <MainLinks/>
+  <Notes>
+    <Note Caller="1" LanguageCode="en" LastEdited="" LastEditedBy="">
+      <References>
+        <Reference>02700302900026</Reference>
+      </References>
+      <Content>MT-K שׁלה | MT-Q שָׁלוּ</Content>
+    </Note>
+  </Notes>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="007377001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>nsf</PartOfSpeech>
+      </PartsOfSpeech>
+      <RelatedLemmas>
+        <RelatedLemma>
+          <Word>שׁלה</Word>
+        </RelatedLemma>
+      </RelatedLemmas>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="007377001001000" IsBiblicalTerm="Y" EntryCode="" Indent="0">
+          <LEXDomains>
+            <LEXDomain Code="002001002003">Confident</LEXDomain>
+          </LEXDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2017-12-21 14:18:53" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>= state in which humans can live without fear or concerns, which is either or not appropriate depending on the situation</DefinitionShort>
+              <Glosses>
+                <Gloss>at ease</Gloss>
+                <Gloss>at peace</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>01903000700010</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+          <LEXCoreDomains>
+            <LEXCoreDomain Code="043">Confidence and Fear</LEXCoreDomain>
+            <LEXCoreDomain Code="196">Well-Being</LEXCoreDomain>
+          </LEXCoreDomains>
+        </LEXMeaning>
+        <LEXMeaning Id="007377001002000" IsBiblicalTerm="Y" EntryCode="" Indent="0">
+          <LEXDomains>
+            <LEXDomain Code="002001002017" Source="Confident" SourceCode="002001002003">Lazy</LEXDomain>
+          </LEXDomains>
+          <LEXForms>
+            <LEXForm>vbnif-</LEXForm>
+          </LEXForms>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2017-12-21 14:18:53" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>literally: to be at ease; hence: = state in which humans are unconcerned about matters to the extent that it becomes problematic</DefinitionShort>
+              <Glosses>
+                <Gloss>negligence</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>01500402200008</LEXReference>
+            <LEXReference>01500600900070</LEXReference>
+            <LEXReference>02700302900026{N:001}</LEXReference>
+            <LEXReference>02700302900028</LEXReference>
+            <LEXReference>02700600500064</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

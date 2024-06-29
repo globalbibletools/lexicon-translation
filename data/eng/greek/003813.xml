@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="003813000000000" Lemma="παραφρονία" Version="0" HasAramaic="false" InLXX="false" AlphaPos="π">
+  <StrongCodes>
+    <Strong>G3913</Strong>
+  </StrongCodes>
+  <Authors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes>
+    <Note Caller="1" LanguageCode="en" LastEdited="" LastEditedBy="">
+      <References/>
+      <Content>It is possible that there are some significant differences in meaning between the set μαίνομαι / μανία and the set παραφρονέω / παραφρονία, but the difference is likely to be more connotative than denotative, as, for example, the distinction in English between crazy and insane.</Content>
+    </Note>
+  </Notes>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="003813001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>noun, f.</PartOfSpeech>
+      </PartsOfSpeech>
+      <Inflections>
+        <Inflection Lemma="παραφρονία" BaseFormIndex="1">
+          <Form/>
+          <Realizations>
+            <Realization>-ας</Realization>
+          </Realizations>
+          <Comments/>
+        </Inflection>
+      </Inflections>
+      <RelatedLemmas>
+        <RelatedLemma>
+          <Word>φρονέω</Word>
+        </RelatedLemma>
+      </RelatedLemmas>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="003813001001000" IsBiblicalTerm="M" EntryCode="30.24" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Think</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>To Think, Thought</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-12-06 14:57:44" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>to think or reason in a completely irrational manner{N:001}</DefinitionShort>
+              <Glosses>
+                <Gloss>to not be in one’s right mind</Gloss>
+                <Gloss>to be insane</Gloss>
+                <Gloss>to be mad</Gloss>
+                <Gloss>to be out of one’s mind</Gloss>
+                <Gloss>insanity</Gloss>
+                <Gloss>madness</Gloss>
+              </Glosses>
+              <Comments>It may be necessary in some languages to restructure the expression ‘stopped the prophet’s insane action.’ This can often be done by saying ‘prevented the prophet from acting like a crazy person.’ In other languages παραφρονία is best rendered by an idiomatic expression such as ‘wandering thoughts’ or ‘twisted thoughts.’</Comments>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>06100201600032</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

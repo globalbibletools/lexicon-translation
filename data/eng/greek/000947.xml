@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="000947000000000" Lemma="βεβαίωσις" Version="0" HasAramaic="false" InLXX="true" AlphaPos="β">
+  <StrongCodes>
+    <Strong>G0951</Strong>
+  </StrongCodes>
+  <Authors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes>
+    <Note Caller="1" LanguageCode="en" LastEdited="" LastEditedBy="">
+      <References/>
+      <Content>The meanings of βέβαιος[c] ({D:28.43}), βεβαιόω[b] and βεβαίωσις ({D:28.44}) involve two quite distinct sets of semantic features. There is the obvious element of that which is confirmed, verified, and true (meanings which could be classified in Domain 72 True, False) as well as the process of making such information known. These meanings could therefore be treated in either domain.</Content>
+    </Note>
+  </Notes>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="000947001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>noun, f.</PartOfSpeech>
+      </PartsOfSpeech>
+      <Inflections>
+        <Inflection Lemma="βεβαίωσις" BaseFormIndex="1">
+          <Form/>
+          <Realizations>
+            <Realization>-εως</Realization>
+          </Realizations>
+          <Comments/>
+        </Inflection>
+      </Inflections>
+      <RelatedLemmas>
+        <RelatedLemma>
+          <Word>βεβαιόω</Word>
+        </RelatedLemma>
+      </RelatedLemmas>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="000947001001000" IsBiblicalTerm="Y" EntryCode="28.44" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Know</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Well Known, Clearly Shown, Revealed</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-02-05 10:29:01" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>to cause something to be known as certain{N:001}</DefinitionShort>
+              <Glosses>
+                <Gloss>to confirm</Gloss>
+                <Gloss>to verify</Gloss>
+                <Gloss>to prove to be true and certain</Gloss>
+                <Gloss>confirmation</Gloss>
+                <Gloss>verification</Gloss>
+              </Glosses>
+              <Comments> {S:05000100700056} βεβαίωσις may denote either the process of making known something in such a way as to confirm its truth or the process of causing people to think about something and to accept it as trustworthy, in which case βεβαίωσις might also be classified in Domain 31 Hold a View, Believe, Trust, Subdomain G Accept as True.</Comments>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>05000100700056</LEXReference>
+            <LEXReference>05800601600026</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

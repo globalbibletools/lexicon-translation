@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="005301000000000" Lemma="φορτίον" Version="0" HasAramaic="false" InLXX="true" AlphaPos="φ">
+  <StrongCodes>
+    <Strong>G5413</Strong>
+  </StrongCodes>
+  <Authors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes/>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="005301001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>noun, n.</PartOfSpeech>
+      </PartsOfSpeech>
+      <Inflections>
+        <Inflection Lemma="φορτίον" BaseFormIndex="1">
+          <Form/>
+          <Realizations>
+            <Realization>-ου</Realization>
+          </Realizations>
+          <Comments/>
+        </Inflection>
+      </Inflections>
+      <RelatedLemmas>
+        <RelatedLemma>
+          <Word>φέρω</Word>
+        </RelatedLemma>
+      </RelatedLemmas>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="005301001001000" IsBiblicalTerm="M" EntryCode="15.208" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Linear Movement</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Carry, Bear</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2022-05-30 13:29:11" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>(derivative of {L:φορτίζω&lt;SDBG:φορτίζω:000000&gt;} ‘to cause to carry a load,’ {D:15.207}) a relatively heavy object which is carried</DefinitionShort>
+              <Glosses>
+                <Gloss>load</Gloss>
+                <Gloss>burden</Gloss>
+                <Gloss>cargo (as of a ship)</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04001103000016</LEXReference>
+            <LEXReference>04002300400006</LEXReference>
+            <LEXReference>04201104600026</LEXReference>
+            <LEXReference>04201104600048</LEXReference>
+            <LEXReference>04402701000028</LEXReference>
+            <LEXReference>04800600500010</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

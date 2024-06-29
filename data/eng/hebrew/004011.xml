@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="004011000000000" Lemma="מַכְתֵּשׁ" Version="4" HasAramaic="false" InLXX="false" AlphaPos="מ">
+  <StrongCodes>
+    <Strong>H4388</Strong>
+    <Strong>H4389</Strong>
+  </StrongCodes>
+  <Authors>
+    <Author>Reinier de Blois</Author>
+  </Authors>
+  <Contributors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes>
+    <Note Caller="1" LanguageCode="en" LastEdited="" LastEditedBy="">
+      <References>
+        <Reference>03600101100008</Reference>
+      </References>
+      <Content>RSV NRSV "Mortar" NIV "market district" NJPS "Machtesh" REB "Lower Town" GNT "lower part of the city" CEV "Lower Hollow"</Content>
+    </Note>
+  </Notes>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="004011001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>nsm</PartOfSpeech>
+      </PartsOfSpeech>
+      <RelatedLemmas>
+        <RelatedLemma>
+          <Word>כתשׁ</Word>
+        </RelatedLemma>
+      </RelatedLemmas>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="004011001001000" IsBiblicalTerm="M" EntryCode="" Indent="0">
+          <LEXDomains>
+            <LEXDomain Code="001004001017">Tools</LEXDomain>
+          </LEXDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2016-12-13 01:08:03" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>= a bowl-shaped vessel ◄ usually made of stone or another strong material ► in which a substance such as seeds is pounded or crushed with a {L:pestle&lt;SDBH:עֱלִי&gt;}</DefinitionShort>
+              <Glosses>
+                <Gloss>mortar</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>02002702200016</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+        <LEXMeaning Id="004011001002000" IsBiblicalTerm="Y" EntryCode="" Indent="0">
+          <LEXDomains>
+            <LEXDomain Code="001005002002002" Source="Tools" SourceCode="001004001017">Landforms</LEXDomain>
+          </LEXDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2016-12-13 01:08:03" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>literally: mortar; hence: = a hollow place in the earth, ◄ referred to as such because of its mortar-like shape</DefinitionShort>
+              <Glosses>
+                <Gloss>hollow place</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>00701501900012</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+        <LEXMeaning Id="004011001003000" IsBiblicalTerm="Y" EntryCode="" Indent="0">
+          <LEXDomains>
+            <LEXDomain Code="003001003" Source="Tools" SourceCode="001004001017">Names of Constructions</LEXDomain>
+          </LEXDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2016-12-13 01:08:03" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>literally: mortar; exact meaning unknown; possibly: = a relatively low part of {L:Jerusalem&lt;SDBH:יְרוּשָׁלַ͏ִם&gt;} used as market area, ◄ referred to as such because of its mortar-like shape</DefinitionShort>
+              <Glosses>
+                <Gloss>the Mortar</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>03600101100008{N:001}</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="004657000000000" Lemma="στρατεύω" Version="0" HasAramaic="false" InLXX="true" AlphaPos="σ">
+  <StrongCodes>
+    <Strong>G4754</Strong>
+  </StrongCodes>
+  <Authors/>
+  <AlternateLemmas>
+    <AlternateLemma>στρατεύομαι</AlternateLemma>
+  </AlternateLemmas>
+  <MainLinks/>
+  <Notes/>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="004657001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>verb</PartOfSpeech>
+      </PartsOfSpeech>
+      <RelatedLemmas>
+        <RelatedLemma>
+          <Word>ἀντιστρατεύομαι</Word>
+        </RelatedLemma>
+        <RelatedLemma>
+          <Word>στρατεία</Word>
+        </RelatedLemma>
+        <RelatedLemma>
+          <Word>στράτευμα</Word>
+        </RelatedLemma>
+        <RelatedLemma>
+          <Word>στρατηγός</Word>
+        </RelatedLemma>
+        <RelatedLemma>
+          <Word>στρατιά</Word>
+        </RelatedLemma>
+        <RelatedLemma>
+          <Word>στρατιώτης</Word>
+        </RelatedLemma>
+        <RelatedLemma>
+          <Word>στρατολογέω</Word>
+        </RelatedLemma>
+        <RelatedLemma>
+          <Word>στρατοπεδάρχης</Word>
+        </RelatedLemma>
+        <RelatedLemma>
+          <Word>στρατόπεδον</Word>
+        </RelatedLemma>
+        <RelatedLemma>
+          <Word>συστρατιώτης</Word>
+        </RelatedLemma>
+      </RelatedLemmas>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="004657001001000" IsBiblicalTerm="M" EntryCode="55.4" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Military Activities</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>To Fight</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXForms>
+            <LEXForm>στρατεύομαι[a]</LEXForm>
+          </LEXForms>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2022-03-07 13:04:16" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>to engage in war or battle as a soldier</DefinitionShort>
+              <Glosses>
+                <Gloss>to battle</Gloss>
+                <Gloss>to fight</Gloss>
+                <Gloss>to engage in war</Gloss>
+                <Gloss>warfare</Gloss>
+              </Glosses>
+              <Comments>στρατεύω[a] and στρατεία in {S:05400101800040} and {S:04701000400010} are used figuratively, and it may be essential to mark this figurative usage as a type of simile. For example, in {S:05400101800040} στρατεύομαι may be rendered as ‘you may, so to speak, wage the good battle’ or ‘it is like you are fighting.’ Similarly, in {S:04701000400010} στρατεία may be rendered as ‘in what is like a battle for us.’</Comments>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04701000300016</LEXReference>
+            <LEXReference>05400101800030</LEXReference>
+            <LEXReference>05900400100030</LEXReference>
+            <LEXReference>06000201100024</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+        <LEXMeaning Id="004657001002000" IsBiblicalTerm="M" EntryCode="55.18" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Military Activities</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Soldiers, Officers</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXForms>
+            <LEXForm>στρατεύομαι[b]</LEXForm>
+          </LEXForms>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2022-03-07 13:04:16" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>(derivative of {L:στρατιώτης&lt;SDBG:στρατιώτης:000000&gt;} ‘soldier,’ {D:55.17}) to engage in military activity as a soldier</DefinitionShort>
+              <Glosses>
+                <Gloss>to serve as a soldier</Gloss>
+                <Gloss>to be a soldier</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04200301400010</LEXReference>
+            <LEXReference>04600900700004</LEXReference>
+            <LEXReference>05500200400004</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

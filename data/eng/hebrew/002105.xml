@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="002105000000000" Lemma="חֶבְרֹונִי" Version="5" HasAramaic="false" InLXX="false" AlphaPos="ח">
+  <StrongCodes>
+    <Strong>H2276</Strong>
+  </StrongCodes>
+  <Authors>
+    <Author>Reinier de Blois</Author>
+  </Authors>
+  <Contributors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes/>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="002105001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>aj</PartOfSpeech>
+      </PartsOfSpeech>
+      <RelatedNames>
+        <RelatedName>
+          <Word>חֶבְרֹון</Word>
+        </RelatedName>
+      </RelatedNames>
+      <MeaningsOfName>
+        <MeaningOfName LanguageCode="pt">
+          <Meaning>de Hebrom</Meaning>
+        </MeaningOfName>
+      </MeaningsOfName>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="002105001001000" IsBiblicalTerm="Y" EntryCode="" Indent="0">
+          <LEXDomains>
+            <LEXDomain Code="003001006">Names of Groups</LEXDomain>
+          </LEXDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2015-11-09 17:11:16" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>= descendant of {L:Hebron&lt;SDBH:חֶבְרֹון&gt;}; ◄ subclan of {L:Kohathites&lt;SDBH:קְהָתִי&gt;}; tribe of {L:Levi&lt;SDBH:לֵוִי&gt;}</DefinitionShort>
+              <Glosses>
+                <Gloss>Hebronite</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>00400302700028</LEXReference>
+            <LEXReference>00402605800018</LEXReference>
+            <LEXReference>01302602300018</LEXReference>
+            <LEXReference>01302603000006</LEXReference>
+            <LEXReference>01302603100006</LEXReference>
+            <LEXReference>01302603100018</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="004564000000000" Lemma="σκύλλω" Version="0" HasAramaic="false" InLXX="false" AlphaPos="σ">
+  <StrongCodes>
+    <Strong>G4660</Strong>
+  </StrongCodes>
+  <Authors/>
+  <AlternateLemmas>
+    <AlternateLemma>σκύλλομαι</AlternateLemma>
+  </AlternateLemmas>
+  <MainLinks/>
+  <Notes/>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="004564001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>verb</PartOfSpeech>
+      </PartsOfSpeech>
+      <Inflections>
+        <Inflection Lemma="σκύλλω" BaseFormIndex="1">
+          <Form>midd.impv.</Form>
+          <Realizations>
+            <Realization>σκύλλου</Realization>
+          </Realizations>
+          <Comments/>
+        </Inflection>
+        <Inflection Lemma="σκύλλω" BaseFormIndex="1">
+          <Form>pf.pass.</Form>
+          <Realizations>
+            <Realization>ἔσκυλμαι</Realization>
+          </Realizations>
+          <Comments/>
+        </Inflection>
+      </Inflections>
+      <RelatedLemmas>
+        <RelatedLemma>
+          <Word>σκῦλα</Word>
+        </RelatedLemma>
+      </RelatedLemmas>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="004564001001000" IsBiblicalTerm="Y" EntryCode="22.23" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Trouble, Hardship, Relief, Favorable Circumstances</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Cause Trouble, Hardship</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2022-02-12 14:54:31" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>to cause trouble or harassment</DefinitionShort>
+              <Glosses>
+                <Gloss>to trouble</Gloss>
+                <Gloss>to harass</Gloss>
+                <Gloss>to bother</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04000903600020</LEXReference>
+            <LEXReference>04100503500032</LEXReference>
+            <LEXReference>04200804900032</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+        <LEXMeaning Id="004564001002000" IsBiblicalTerm="Y" EntryCode="22.16" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Trouble, Hardship, Relief, Favorable Circumstances</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Experience Trouble, Hardship</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXForms>
+            <LEXForm>σκύλλομαι</LEXForm>
+          </LEXForms>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2022-02-12 14:54:31" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>to suffer trouble or harassment</DefinitionShort>
+              <Glosses>
+                <Gloss>to be troubled</Gloss>
+                <Gloss>to be harassed</Gloss>
+                <Gloss>to be bothered</Gloss>
+              </Glosses>
+              <Comments>In {S:04200700600048} σκύλλου can perhaps be best rendered in some languages by supplying a pronoun, for example, ‘do not bother yourself’ or ‘do not trouble yourself’ or even ‘do not cause yourself difficulty.’</Comments>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04200700600048</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

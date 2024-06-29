@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="002832000000000" Lemma="κληρονόμος" Version="0" HasAramaic="false" InLXX="true" AlphaPos="κ">
+  <StrongCodes>
+    <Strong>G2818</Strong>
+  </StrongCodes>
+  <Authors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes>
+    <Note Caller="1" LanguageCode="en" LastEdited="" LastEditedBy="">
+      <References>
+        <Reference>05600300700012</Reference>
+        <Reference>05900200500034</Reference>
+      </References>
+      <Content>It is possible to interpret κληρονόμος in {S:05900200500034} (and particularly in {S:05600300700012}) as identifying essentially a future experiencer, but with the additional components of the experience being valuable and not having been worked for. In this respect κληρονόμος overlaps between Subdomain I, Receive, in Domain 57 Possess, Transfer, Exchange, and Domain 90 Case.</Content>
+    </Note>
+  </Notes>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="002832001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>noun, m.</PartOfSpeech>
+      </PartsOfSpeech>
+      <Inflections>
+        <Inflection Lemma="κληρονόμος" BaseFormIndex="1">
+          <Form/>
+          <Realizations>
+            <Realization>-ου</Realization>
+          </Realizations>
+          <Comments/>
+        </Inflection>
+      </Inflections>
+      <Constructs>
+        <Construct Lemma="κληρονόμος" BaseFormIndex="1">
+          <WordMeaningSet>
+            <Word>κληρόω</Word>
+          </WordMeaningSet>
+          <WordMeaningSet>
+            <Word>νομίζω</Word>
+          </WordMeaningSet>
+        </Construct>
+      </Constructs>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="002832001001000" IsBiblicalTerm="M" EntryCode="57.133" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Possess, Transfer, Exchange</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Receive</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-10-08 20:12:20" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>(derivative of {L:κληρονομέω&lt;SDBG:κληρονομέω:000000&gt;}[a] ‘to gain as a possession,’ {D:57.131}) one who receives something as a gift</DefinitionShort>
+              <Glosses>
+                <Gloss>one who receives</Gloss>
+                <Gloss>one who comes into possession of</Gloss>
+                <Gloss>receiver</Gloss>
+                <Gloss>heir</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04500401300028</LEXReference>
+            <LEXReference>04500401400012</LEXReference>
+            <LEXReference>05600300700012{N:001}</LEXReference>
+            <LEXReference>05800601700018</LEXReference>
+            <LEXReference>05900200500034{N:001}</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+        <LEXMeaning Id="002832001002000" IsBiblicalTerm="M" EntryCode="57.139" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Possess, Transfer, Exchange</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Receive</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-10-08 20:12:20" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>(derivative of {L:κληρονομέω&lt;SDBG:κληρονομέω:000001&gt;}[b] ‘to inherit,’ {D:57.138}) the person who inherits possessions</DefinitionShort>
+              <Glosses>
+                <Gloss>heir</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04002103800026</LEXReference>
+            <LEXReference>04101200700024</LEXReference>
+            <LEXReference>04202001400026</LEXReference>
+            <LEXReference>04500801700010</LEXReference>
+            <LEXReference>04500801700012</LEXReference>
+            <LEXReference>04800302900024</LEXReference>
+            <LEXReference>04800400100014</LEXReference>
+            <LEXReference>04800400700022</LEXReference>
+            <LEXReference>05800100200024</LEXReference>
+            <LEXReference>05801100700054</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

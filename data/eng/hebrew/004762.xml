@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="004762000000000" Lemma="נטל" Version="4" HasAramaic="true" InLXX="false" AlphaPos="נ">
+  <StrongCodes>
+    <Strong>H5190</Strong>
+    <Strong>A5191</Strong>
+  </StrongCodes>
+  <Authors>
+    <Author>Reinier de Blois</Author>
+  </Authors>
+  <Contributors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes/>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="004762001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>vb</PartOfSpeech>
+      </PartsOfSpeech>
+      <RelatedLemmas>
+        <RelatedLemma>
+          <Word>נָטִיל</Word>
+        </RelatedLemma>
+        <RelatedLemma>
+          <Word>נֵטֶל</Word>
+        </RelatedLemma>
+      </RelatedLemmas>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="004762001001000" IsBiblicalTerm="Y" EntryCode="" Indent="0">
+          <LEXDomains>
+            <LEXDomain Code="002001001032">High</LEXDomain>
+          </LEXDomains>
+          <LEXForms>
+            <LEXForm>vbqal-</LEXForm>
+            <LEXForm>vbpiel</LEXForm>
+            <LEXForm>vbpeil (passive)</LEXForm>
+          </LEXForms>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2017-11-29 15:04:07" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>= causative action by which humans or forces take hold of objects and cause them to rise up from a certain location</DefinitionShort>
+              <Glosses>
+                <Gloss>to lift up</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>02304001500034</LEXReference>
+            <LEXReference>02306300900038</LEXReference>
+            <LEXReference>02700700400032</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+        <LEXMeaning Id="004762001002000" IsBiblicalTerm="Y" EntryCode="" Indent="0">
+          <LEXDomains>
+            <LEXDomain Code="002003003010" Source="High" SourceCode="002001001032">Engage</LEXDomain>
+          </LEXDomains>
+          <LEXForms>
+            <LEXForm>vbqal-</LEXForm>
+          </LEXForms>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2017-04-16 12:04:34" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>literally: to lift up (and lay) on someone else; hence: = causative action by which deities cause humans to undergo a certain event</DefinitionShort>
+              <Glosses>
+                <Gloss>to lay upon</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>02500302800012</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+          <LEXCoreDomains>
+            <LEXCoreDomain Code="196">Well-Being</LEXCoreDomain>
+          </LEXCoreDomains>
+        </LEXMeaning>
+        <LEXMeaning Id="004762001003000" IsBiblicalTerm="Y" EntryCode="" Indent="0">
+          <LEXDomains>
+            <LEXDomain Code="002004001005" Source="High" SourceCode="002001001032">See</LEXDomain>
+          </LEXDomains>
+          <LEXForms>
+            <LEXForm>vbpeal</LEXForm>
+          </LEXForms>
+          <LEXCollocations>
+            <LEXCollocation>נטל עֵינַיִם</LEXCollocation>
+          </LEXCollocations>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2017-11-29 15:04:07" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>to lift up (one's eyes); hence: = action by which humans direct their face or eyes away from the ground so that they can see what is in the distance or in the sky</DefinitionShort>
+              <Glosses>
+                <Gloss>to look up</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>02700403100020</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+          <LEXCoreDomains>
+            <LEXCoreDomain Code="154">Senses</LEXCoreDomain>
+          </LEXCoreDomains>
+        </LEXMeaning>
+        <LEXMeaning Id="004762001004000" IsBiblicalTerm="Y" EntryCode="" Indent="0">
+          <LEXDomains>
+            <LEXDomain Code="002003003010" Source="High" SourceCode="002001001032">Engage</LEXDomain>
+          </LEXDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2023-01-22 16:02:29" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>literally: to lift up (over someone else); hence: = action by which a deity offers several options for humans to choose from</DefinitionShort>
+              <Glosses>
+                <Gloss>to offer</Gloss>
+                <Gloss>to give options</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>01002401200022</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

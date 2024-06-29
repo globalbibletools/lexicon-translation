@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="003986000000000" Lemma="πήρα" Version="0" HasAramaic="false" InLXX="true" AlphaPos="π">
+  <StrongCodes>
+    <Strong>G4082</Strong>
+  </StrongCodes>
+  <Authors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes/>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="003986001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>noun, f.</PartOfSpeech>
+      </PartsOfSpeech>
+      <Inflections>
+        <Inflection Lemma="πήρα" BaseFormIndex="1">
+          <Form/>
+          <Realizations>
+            <Realization>-ας</Realization>
+          </Realizations>
+          <Comments/>
+        </Inflection>
+      </Inflections>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="003986001001000" IsBiblicalTerm="M" EntryCode="6.145" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Artifacts</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Containers</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-12-27 11:33:22" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>a bag used by travellers (or beggars) to carry possessions</DefinitionShort>
+              <Glosses>
+                <Gloss>traveller’s bag</Gloss>
+              </Glosses>
+              <Comments>It is possible that in {S:04001001000004} (and parallel passages) the reference is specifically to a ‘beggar’s bag’ used to collect food or money.</Comments>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04001001000004</LEXReference>
+            <LEXReference>04100600800032</LEXReference>
+            <LEXReference>04200900300026</LEXReference>
+            <LEXReference>04201000400010</LEXReference>
+            <LEXReference>04202203500020</LEXReference>
+            <LEXReference>04202203600024</LEXReference>
+          </LEXReferences>
+          <LEXLinks>
+            <LEXLink>realia:10.1</LEXLink>
+          </LEXLinks>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

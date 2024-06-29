@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="001841000000000" Lemma="ἔξειμι" Version="0" HasAramaic="false" InLXX="true" AlphaPos="ε">
+  <StrongCodes>
+    <Strong>G1826</Strong>
+  </StrongCodes>
+  <Authors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes>
+    <Note Caller="1" LanguageCode="en" LastEdited="" LastEditedBy="">
+      <References>
+        <Reference>04402704300044</Reference>
+      </References>
+      <Content>In {S:04402704300044} one might assume that ἐξιέναι in the phrase ἐπὶ τὴν γῆν ἐξιέναι would mean ‘to head for land,’ but it seems quite clear from the context that one should interpret ἐξιέναι as meaning ‘to leave the boat and go to shore.’</Content>
+    </Note>
+    <Note Caller="2" LanguageCode="en" LastEdited="" LastEditedBy="">
+      <References>
+        <Reference>04402704300044</Reference>
+      </References>
+      <Content>NEW NOTE</Content>
+    </Note>
+  </Notes>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="001841001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>verb</PartOfSpeech>
+      </PartsOfSpeech>
+      <Inflections>
+        <Inflection Lemma="ἔξειμι" BaseFormIndex="1">
+          <Form>‏inf.</Form>
+          <Realizations>
+            <Realization>ἐξιέναι</Realization>
+          </Realizations>
+          <Comments/>
+        </Inflection>
+        <Inflection Lemma="ἔξειμι" BaseFormIndex="1">
+          <Form>ptc.</Form>
+          <Realizations>
+            <Realization>ἐξιών</Realization>
+          </Realizations>
+          <Comments/>
+        </Inflection>
+        <Inflection Lemma="ἔξειμι" BaseFormIndex="1">
+          <Form>impf.3pl.</Form>
+          <Realizations>
+            <Realization>ἐξῄεσαν</Realization>
+          </Realizations>
+          <Comments/>
+        </Inflection>
+      </Inflections>
+      <RelatedLemmas>
+        <RelatedLemma>
+          <Word>εἶμι</Word>
+          <Meaning LanguageCode="en">
+            <Meaning>come, go</Meaning>
+          </Meaning>
+          <Meaning LanguageCode="zhT">
+            <Meaning>來，去</Meaning>
+          </Meaning>
+        </RelatedLemma>
+      </RelatedLemmas>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="001841001001000" IsBiblicalTerm="Y" EntryCode="15.40" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Linear Movement</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Leave, Depart, Flee, Escape, Send</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-06-04 20:04:23" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>to move out of an enclosed or welldefined two or three-dimensional area</DefinitionShort>
+              <Glosses>
+                <Gloss>to go out of</Gloss>
+                <Gloss>to depart out of</Gloss>
+                <Gloss>to leave from within</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04401304200002</LEXReference>
+            <LEXReference>04401701500048</LEXReference>
+            <LEXReference>04402000700032</LEXReference>
+            <LEXReference>04402704300044{N:001}</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

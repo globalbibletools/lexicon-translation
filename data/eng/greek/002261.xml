@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="002261000000000" Lemma="ἡμιθανής" Version="0" HasAramaic="false" InLXX="true" AlphaPos="η">
+  <StrongCodes>
+    <Strong>G2253</Strong>
+  </StrongCodes>
+  <Authors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes/>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="002261001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>adjc.</PartOfSpeech>
+      </PartsOfSpeech>
+      <Inflections>
+        <Inflection Lemma="ἡμιθανής" BaseFormIndex="1">
+          <Form/>
+          <Realizations>
+            <Realization>-ές</Realization>
+          </Realizations>
+          <Comments/>
+        </Inflection>
+      </Inflections>
+      <Constructs>
+        <Construct Lemma="ἡμιθανής" BaseFormIndex="1">
+          <WordMeaningSet>
+            <Word>ἥμισυς</Word>
+          </WordMeaningSet>
+          <WordMeaningSet>
+            <Word>θανατόω</Word>
+          </WordMeaningSet>
+        </Construct>
+      </Constructs>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="002261001001000" IsBiblicalTerm="Y" EntryCode="23.122" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Physiological Processes and States</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Live, Die</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-07-23 17:39:27" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>the state of being somewhere between life and death</DefinitionShort>
+              <Glosses>
+                <Gloss>half dead</Gloss>
+                <Gloss>nearly dead</Gloss>
+              </Glosses>
+              <Comments>One may render ‘half dead’ as ‘almost dead’ or ‘about to die.’</Comments>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04201003000048</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="000588000000000" Lemma="אפה" Version="5" HasAramaic="false" InLXX="false" AlphaPos="א">
+  <StrongCodes>
+    <Strong>H0644</Strong>
+  </StrongCodes>
+  <Authors>
+    <Author>Reinier de Blois</Author>
+  </Authors>
+  <Contributors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes>
+    <Note Caller="1" LanguageCode="en" LastEdited="" LastEditedBy="">
+      <References>
+        <Reference>02800700600026</Reference>
+      </References>
+      <Content>{A:MT} {A:HOTTP}-B {A:NJPS} | {A:RSV} {A:NIV} {A:NJB} {A:NRSV} {A:REB} {A:GNT} {A:CEV} אַפְּהֶם "their anger" = {L:אַף&lt;SDBH:אַף&gt;}</Content>
+    </Note>
+  </Notes>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="000588001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>nsm</PartOfSpeech>
+      </PartsOfSpeech>
+      <RelatedLemmas>
+        <RelatedLemma>
+          <Word>מַאֲפֶה</Word>
+        </RelatedLemma>
+      </RelatedLemmas>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="000588001001000" IsBiblicalTerm="Y" EntryCode="" Indent="0">
+          <LEXDomains>
+            <LEXDomain Code="002001001017">Cooked</LEXDomain>
+          </LEXDomains>
+          <LEXForms>
+            <LEXForm>vbqal-</LEXForm>
+            <LEXForm>vbnif-</LEXForm>
+          </LEXForms>
+          <LEXSynonyms>
+            <LEXSynonym>בשׁל</LEXSynonym>
+          </LEXSynonyms>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2017-11-24 12:39:47" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>= causative action by which humans prepare food with dry heat without direct exposure to a flame, typically in an {L:oven&lt;SDBH:תַּנּוּר&gt;}</DefinitionShort>
+              <Glosses>
+                <Gloss>to bake</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>00101900300036</LEXReference>
+            <LEXReference>00201203900004</LEXReference>
+            <LEXReference>00201602300032</LEXReference>
+            <LEXReference>00201602300034</LEXReference>
+            <LEXReference>00300601000004</LEXReference>
+            <LEXReference>00300700900010</LEXReference>
+            <LEXReference>00302301700024</LEXReference>
+            <LEXReference>00302400500010</LEXReference>
+            <LEXReference>00302602600014</LEXReference>
+            <LEXReference>00902802400040</LEXReference>
+            <LEXReference>02304401500030</LEXReference>
+            <LEXReference>02304401900040</LEXReference>
+            <LEXReference>02604602000040</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+          <LEXCoreDomains>
+            <LEXCoreDomain Code="069">Food</LEXCoreDomain>
+          </LEXCoreDomains>
+        </LEXMeaning>
+        <LEXMeaning Id="000588001002000" IsBiblicalTerm="Y" EntryCode="" Indent="0">
+          <LEXDomains>
+            <LEXDomain Code="001001002003009" Source="Cooked" SourceCode="002001001017">Professions</LEXDomain>
+          </LEXDomains>
+          <LEXSynonyms>
+            <LEXSynonym>טַבָּחָה</LEXSynonym>
+            <LEXSynonym>רַקָּח</LEXSynonym>
+          </LEXSynonyms>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2017-11-24 12:39:47" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>= person who made it his/her profession to bake food</DefinitionShort>
+              <Glosses>
+                <Gloss>baker</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>00104000100028</LEXReference>
+            <LEXReference>00104000200030</LEXReference>
+            <LEXReference>00104000500036</LEXReference>
+            <LEXReference>00104001600010</LEXReference>
+            <LEXReference>00104001700024</LEXReference>
+            <LEXReference>00104002000060</LEXReference>
+            <LEXReference>00104002200010</LEXReference>
+            <LEXReference>00104101000038</LEXReference>
+            <LEXReference>00900801300024</LEXReference>
+            <LEXReference>02403702100050</LEXReference>
+            <LEXReference>02800700400014</LEXReference>
+            <LEXReference>02800700600026{N:001}</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+          <LEXCoreDomains>
+            <LEXCoreDomain Code="200">Work</LEXCoreDomain>
+            <LEXCoreDomain Code="027">Crafts</LEXCoreDomain>
+            <LEXCoreDomain Code="069">Food</LEXCoreDomain>
+          </LEXCoreDomains>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

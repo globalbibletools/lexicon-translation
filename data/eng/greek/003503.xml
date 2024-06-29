@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="003503000000000" Lemma="ὀδυνάω" Version="0" HasAramaic="false" InLXX="true" AlphaPos="ο">
+  <StrongCodes>
+    <Strong>G3600</Strong>
+  </StrongCodes>
+  <Authors/>
+  <AlternateLemmas>
+    <AlternateLemma>ὀδυνάομαι</AlternateLemma>
+  </AlternateLemmas>
+  <MainLinks/>
+  <Notes/>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="003503001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>verb</PartOfSpeech>
+      </PartsOfSpeech>
+      <RelatedLemmas>
+        <RelatedLemma>
+          <Word>ὀδύνη</Word>
+        </RelatedLemma>
+      </RelatedLemmas>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="003503001001000" IsBiblicalTerm="M" EntryCode="24.92" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Sensory Events and States</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Pain, Suffering</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXForms>
+            <LEXForm>ὀδυνάομαι[a]</LEXForm>
+          </LEXForms>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-12-11 14:50:08" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>to be in severe or great pain</DefinitionShort>
+              <Glosses>
+                <Gloss>to suffer greatly</Gloss>
+                <Gloss>to be in great pain</Gloss>
+              </Glosses>
+              <Comments>In a number of languages ‘the fire’ must be more clearly marked as the causative agent, so that this expression in {S:04201602400052} may be restructured as ‘this fire is causing me great pain.’</Comments>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04201602400052</LEXReference>
+            <LEXReference>04201602500052</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+        <LEXMeaning Id="003503001002000" IsBiblicalTerm="Y" EntryCode="25.236" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Attitudes and Emotions</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Worry, Anxiety, Distress, Peace</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXForms>
+            <LEXForm>ὀδυνάομαι[b]</LEXForm>
+          </LEXForms>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-12-11 14:50:08" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>(derivative of {L:ὀδύνη&lt;SDBG:ὀδύνη:000000&gt;} ‘great distress,’ {D:25.235}) to experience great distress or anxiety</DefinitionShort>
+              <Glosses>
+                <Gloss>to be very much distressed</Gloss>
+                <Gloss>to be terribly worried</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04200204800044</LEXReference>
+            <LEXReference>04402003800002</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

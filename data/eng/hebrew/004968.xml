@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="004968000000000" Lemma="נֶתֶק" Version="5" HasAramaic="false" InLXX="false" AlphaPos="נ">
+  <StrongCodes>
+    <Strong>H5424</Strong>
+  </StrongCodes>
+  <Authors>
+    <Author>Reinier de Blois</Author>
+  </Authors>
+  <Contributors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes>
+    <Note Caller="1" LanguageCode="en" LastEdited="" LastEditedBy="">
+      <References>
+        <Reference>02002502000016</Reference>
+      </References>
+      <Content>LXX RSV NJB NRSV REB GNT CEV | MT HOTTP-B NIV NJPS {L:נֶתֶר&lt;SDBH:נֶתֶר&gt;} "natron"</Content>
+    </Note>
+  </Notes>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="004968001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>nsm</PartOfSpeech>
+      </PartsOfSpeech>
+      <RelatedLemmas>
+        <RelatedLemma>
+          <Word>נתק</Word>
+        </RelatedLemma>
+      </RelatedLemmas>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="004968001001000" IsBiblicalTerm="Y" EntryCode="" Indent="0">
+          <LEXDomains>
+            <LEXDomain Code="002001001023">Impact</LEXDomain>
+          </LEXDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2017-01-17 13:59:43" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>exact meaning unsure: = infection of the skin; ► causing uncleanness</DefinitionShort>
+              <Glosses>
+                <Gloss>skin infection</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>00301303000050</LEXReference>
+            <LEXReference>00301303100018</LEXReference>
+            <LEXReference>00301303100060</LEXReference>
+            <LEXReference>00301303200036</LEXReference>
+            <LEXReference>00301303200056</LEXReference>
+            <LEXReference>00301303300012</LEXReference>
+            <LEXReference>00301303300030</LEXReference>
+            <LEXReference>00301303400014</LEXReference>
+            <LEXReference>00301303400036</LEXReference>
+            <LEXReference>00301303500012</LEXReference>
+            <LEXReference>00301303600018</LEXReference>
+            <LEXReference>00301303700014</LEXReference>
+            <LEXReference>00301303700030</LEXReference>
+            <LEXReference>00301405400024</LEXReference>
+            <LEXReference>02002502000016{N:001}</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+          <LEXCoreDomains>
+            <LEXCoreDomain Code="019">Body</LEXCoreDomain>
+            <LEXCoreDomain Code="076">Health and Sickness</LEXCoreDomain>
+            <LEXCoreDomain Code="147">Ritual Contamination</LEXCoreDomain>
+          </LEXCoreDomains>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

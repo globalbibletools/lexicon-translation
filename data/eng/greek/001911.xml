@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="001911000000000" Lemma="ἐπειδήπερ" Version="0" HasAramaic="false" InLXX="false" AlphaPos="ε">
+  <StrongCodes>
+    <Strong>G1895</Strong>
+  </StrongCodes>
+  <Authors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes>
+    <Note Caller="1" LanguageCode="en" LastEdited="" LastEditedBy="">
+      <References/>
+      <Content>In this series ἐπειδή[a] may be more emphatic than ἐπεί and the conjunction ἐπειδήπερ even more emphatic than ἐπειδή[a].</Content>
+    </Note>
+  </Notes>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="001911001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>conj.</PartOfSpeech>
+      </PartsOfSpeech>
+      <Constructs>
+        <Construct Lemma="ἐπειδήπερ" BaseFormIndex="1">
+          <WordMeaningSet>
+            <Word>ἐπί</Word>
+          </WordMeaningSet>
+          <WordMeaningSet>
+            <Word>δή</Word>
+          </WordMeaningSet>
+          <WordMeaningSet>
+            <Word>-πέρ</Word>
+          </WordMeaningSet>
+        </Construct>
+      </Constructs>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="001911001001000" IsBiblicalTerm="Y" EntryCode="89.32" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Relations</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Cause and/or Reason</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-06-16 08:53:13" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>a marker of cause or reason, often with the implication of a relevant temporal element{N:001}</DefinitionShort>
+              <Glosses>
+                <Gloss>because</Gloss>
+                <Gloss>since</Gloss>
+                <Gloss>for</Gloss>
+                <Gloss>inasmuch as</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04200100100002</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

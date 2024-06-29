@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="000069000000000" Lemma="ἀγρυπνέω" Version="0" HasAramaic="false" InLXX="true" AlphaPos="α">
+  <StrongCodes>
+    <Strong>G0069</Strong>
+  </StrongCodes>
+  <Authors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes/>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="000069001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>verb</PartOfSpeech>
+      </PartsOfSpeech>
+      <Constructs>
+        <Construct Lemma="ἀγρυπνέω" BaseFormIndex="1">
+          <WordMeaningSet>
+            <Word>ἀγρεύω</Word>
+          </WordMeaningSet>
+          <WordMeaningSet>
+            <Word>ὕπνος</Word>
+          </WordMeaningSet>
+        </Construct>
+      </Constructs>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="000069001001000" IsBiblicalTerm="Y" EntryCode="27.57" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Learn</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Be Ready To Learn, Pay Attention</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-01-29 17:27:37" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>(a figurative extension of meaning of ἀγρυπνέω ‘to keep oneself awake,’ not occurring in the NT) to make an effort to learn of what might be a potential future threat</DefinitionShort>
+              <Glosses>
+                <Gloss>to be alert</Gloss>
+                <Gloss>to be on the lookout for</Gloss>
+                <Gloss>to be vigilant</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04101303300004</LEXReference>
+            <LEXReference>04202103600002</LEXReference>
+            <LEXReference>04900601800030</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+        <LEXMeaning Id="000069001002000" IsBiblicalTerm="Y" EntryCode="35.41" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Help, Care For</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Care For, Take Care Of</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-01-29 17:27:37" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>to take care of or to look after, with the implication of continuous and wakeful concern for</DefinitionShort>
+              <Glosses>
+                <Gloss>to look after</Gloss>
+                <Gloss>to take care of</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>05801301700018</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

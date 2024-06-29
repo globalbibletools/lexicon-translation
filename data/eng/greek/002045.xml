@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="002045000000000" Lemma="ἐποικοδομέω" Version="0" HasAramaic="false" InLXX="false" AlphaPos="ε">
+  <StrongCodes>
+    <Strong>G2026</Strong>
+  </StrongCodes>
+  <Authors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes>
+    <Note Caller="1" LanguageCode="en" LastEdited="" LastEditedBy="">
+      <References>
+        <Reference>04600301000032</Reference>
+        <Reference>04600301000042</Reference>
+        <Reference>06500102000008</Reference>
+      </References>
+      <Content>In {S:04600301000032} and {S:06500102000008} ἐποικοδομέω is clearly used in a figurative sense, since the context itself is figurative, but the meanings of ἐποικοδομέω and θεμέλιον are to be understood in their normal sense.</Content>
+    </Note>
+  </Notes>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="002045001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>verb</PartOfSpeech>
+      </PartsOfSpeech>
+      <Constructs>
+        <Construct Lemma="ἐποικοδομέω" BaseFormIndex="1">
+          <WordMeaningSet>
+            <Word>οἰκέω</Word>
+          </WordMeaningSet>
+          <WordMeaningSet>
+            <Word>δῶμα</Word>
+          </WordMeaningSet>
+        </Construct>
+      </Constructs>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="002045001001000" IsBiblicalTerm="M" EntryCode="45.5" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Building, Constructing</LEXDomain>
+          </LEXDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-06-30 08:57:21" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>to build or construct something on some specified location</DefinitionShort>
+              <Glosses>
+                <Gloss>to build upon</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04600301000032{N:001}</LEXReference>
+            <LEXReference>04600301000042{N:001}</LEXReference>
+            <LEXReference>04600301200008</LEXReference>
+            <LEXReference>04600301400014</LEXReference>
+            <LEXReference>04900202000002</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+        <LEXMeaning Id="002045001002000" IsBiblicalTerm="M" EntryCode="74.15" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Able, Capable</LEXDomain>
+          </LEXDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-06-30 08:57:21" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>to increase the potential of someone or something, with focus upon the process involved</DefinitionShort>
+              <Glosses>
+                <Gloss>to strengthen</Gloss>
+                <Gloss>to make more able</Gloss>
+                <Gloss>to build up</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>05100200700006</LEXReference>
+            <LEXReference>06500102000008{N:001}</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

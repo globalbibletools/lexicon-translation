@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="001561000000000" Lemma="ἐκδαπανάω" Version="0" HasAramaic="false" InLXX="false" AlphaPos="ε">
+  <StrongCodes>
+    <Strong>G1550</Strong>
+  </StrongCodes>
+  <Authors/>
+  <AlternateLemmas>
+    <AlternateLemma>ἐκδαπανάομαι</AlternateLemma>
+  </AlternateLemmas>
+  <MainLinks/>
+  <Notes>
+    <Note Caller="1" LanguageCode="en" LastEdited="" LastEditedBy="">
+      <References>
+        <Reference>04701201500012</Reference>
+      </References>
+      <Content>In {S:04701201500012} it is clear that ἐκδαπανάω is to be understood in a more intensive sense that δαπανάω[c] ({D:42.27}).</Content>
+    </Note>
+  </Notes>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="001561001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>verb</PartOfSpeech>
+      </PartsOfSpeech>
+      <RelatedLemmas>
+        <RelatedLemma>
+          <Word>δαπανάω</Word>
+        </RelatedLemma>
+      </RelatedLemmas>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="001561001001000" IsBiblicalTerm="Y" EntryCode="42.28" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Perform, Do</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Do, Perform</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-07-04 17:17:02" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>(a figurative extension of meaning of ἐκδαπανάω ‘to spend completely,’ not occurring in the NT) to do anything and everything to the limit of one’s capacity</DefinitionShort>
+              <Glosses>
+                <Gloss>to give oneself completely for</Gloss>
+                <Gloss>to do anything and everything</Gloss>
+              </Glosses>
+              <Comments>If one wishes to preserve something of the underlying figurative meaning of this part of {S:04701201500012}, one may translate ‘I will gladly spend everything and be completely spent on your behalf.’</Comments>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04701201500012{N:001}</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

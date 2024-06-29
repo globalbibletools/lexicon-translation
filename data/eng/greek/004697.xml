@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="004697000000000" Lemma="συγκρίνω" Version="0" HasAramaic="false" InLXX="true" AlphaPos="σ">
+  <StrongCodes>
+    <Strong>G4793</Strong>
+  </StrongCodes>
+  <Authors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes>
+    <Note Caller="1" LanguageCode="en" LastEdited="" LastEditedBy="">
+      <References/>
+      <Content>NEW NOTE</Content>
+    </Note>
+  </Notes>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="004697001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>verb</PartOfSpeech>
+      </PartsOfSpeech>
+      <RelatedLemmas>
+        <RelatedLemma>
+          <Word>κρίνω</Word>
+        </RelatedLemma>
+      </RelatedLemmas>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="004697001001000" IsBiblicalTerm="Y" EntryCode="64.6" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Comparison</LEXDomain>
+          </LEXDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2022-03-09 11:42:50" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>to judge whether something is like something else{N:001}</DefinitionShort>
+              <Glosses>
+                <Gloss>to judge the degree of similarity</Gloss>
+                <Gloss>to compare</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04701001200012</LEXReference>
+            <LEXReference>04701001200038</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+        <LEXMeaning Id="004697001002000" IsBiblicalTerm="Y" EntryCode="33.154" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Communication</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Interpret, Mean, Explain</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2022-03-09 11:42:50" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>to explain, primarily by means of comparison</DefinitionShort>
+              <Glosses>
+                <Gloss>to explain</Gloss>
+                <Gloss>to make clear</Gloss>
+              </Glosses>
+              <Comments>The expression πνευματικοῖς πνευματικὰ συγκρίνοντες in {S:04600201300032} is highly ambiguous and may mean, in addition to the rendering given here, ‘we explain spiritual truths to those who have the Spirit’ or ‘we explain spiritual truths with words given by the Spirit.’</Comments>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04600201300032</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

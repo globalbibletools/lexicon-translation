@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="001112000000000" Lemma="γλυκύς" Version="0" HasAramaic="false" InLXX="true" AlphaPos="γ">
+  <StrongCodes>
+    <Strong>G1099</Strong>
+  </StrongCodes>
+  <Authors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes/>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="001112001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>adjc.</PartOfSpeech>
+      </PartsOfSpeech>
+      <Inflections>
+        <Inflection Lemma="γλυκύς" BaseFormIndex="1">
+          <Form/>
+          <Realizations>
+            <Realization>-εῖα, -ύ</Realization>
+          </Realizations>
+          <Comments/>
+        </Inflection>
+      </Inflections>
+      <RelatedLemmas>
+        <RelatedLemma>
+          <Word>γλεῦκος</Word>
+        </RelatedLemma>
+      </RelatedLemmas>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="001112001001000" IsBiblicalTerm="Y" EntryCode="79.39" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Features of Objects</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Sweet, Bitter, Tasteless</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-08-28 15:43:20" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>pertaining to being sweet in contrast with being bitter or salty</DefinitionShort>
+              <Glosses>
+                <Gloss>sweet</Gloss>
+                <Gloss>fresh</Gloss>
+                <Gloss>not bitter</Gloss>
+                <Gloss>good</Gloss>
+              </Glosses>
+              <Comments>In a number of languages it would be somewhat misleading to speak of ‘sweet water,’ since this would suggest water to which sugar or some other sweet substance had been added. The equivalent in {S:05900301100020} may be ‘fresh water’ or ‘good water’ in contrast with ‘bad water’ or ‘not bitter water’ in contrast with ‘bitter water.’</Comments>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>05900301100020</LEXReference>
+            <LEXReference>05900301200026</LEXReference>
+            <LEXReference>06601000900060</LEXReference>
+            <LEXReference>06601001000042</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

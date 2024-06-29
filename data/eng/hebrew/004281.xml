@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="004281000000000" Lemma="מַצָּב" Version="4" HasAramaic="false" InLXX="false" AlphaPos="מ">
+  <StrongCodes>
+    <Strong>H4673</Strong>
+  </StrongCodes>
+  <Authors>
+    <Author>Reinier de Blois</Author>
+  </Authors>
+  <Contributors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes/>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="004281001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>nsm</PartOfSpeech>
+      </PartsOfSpeech>
+      <RelatedLemmas>
+        <RelatedLemma>
+          <Word>נצב</Word>
+        </RelatedLemma>
+      </RelatedLemmas>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="004281001001000" IsBiblicalTerm="Y" EntryCode="" Indent="0">
+          <LEXDomains>
+            <LEXDomain Code="002002001016" Source="Stance" SourceCode="002001001058">Space</LEXDomain>
+          </LEXDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2022-11-22 10:49:28" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>= a location where humans have placed themselves in an upright position</DefinitionShort>
+              <Glosses>
+                <Gloss>standing-place (of feet)</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>00600400300030</LEXReference>
+            <LEXReference>00600400900024</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+        <LEXMeaning Id="004281001002000" IsBiblicalTerm="Y" EntryCode="" Indent="1">
+          <LEXDomains>
+            <LEXDomain Code="001001002003004" Source="Space" SourceCode="002002001016">Groups</LEXDomain>
+            <LEXDomain Code="001001002003013">Soldiers</LEXDomain>
+          </LEXDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2022-11-22 10:49:28" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>literally: placed (group of people); hence: = a body of troops</DefinitionShort>
+              <Glosses>
+                <Gloss>garrison</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>00901302300006</LEXReference>
+            <LEXReference>00901400100038</LEXReference>
+            <LEXReference>00901400400022</LEXReference>
+            <LEXReference>00901400600026</LEXReference>
+            <LEXReference>00901401100010</LEXReference>
+            <LEXReference>00901401500032</LEXReference>
+            <LEXReference>01002301400016</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+        <LEXMeaning Id="004281001003000" IsBiblicalTerm="Y" EntryCode="" Indent="1">
+          <LEXDomains>
+            <LEXDomain Code="002002002008" Source="Space" SourceCode="002002001016">Role</LEXDomain>
+          </LEXDomains>
+          <LEXSynonyms>
+            <LEXSynonym>מַעֲמָד</LEXSynonym>
+          </LEXSynonyms>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2022-11-22 10:49:28" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>literally: placed; hence: = state in which humans have been assigned a certain role</DefinitionShort>
+              <Glosses>
+                <Gloss>office</Gloss>
+                <Gloss>position</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>02302201900008</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

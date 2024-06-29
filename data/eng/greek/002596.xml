@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="002596000000000" Lemma="καρποφορέω" Version="0" HasAramaic="false" InLXX="true" AlphaPos="κ">
+  <StrongCodes>
+    <Strong>G2592</Strong>
+  </StrongCodes>
+  <Authors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes>
+    <Note Caller="1" LanguageCode="en" LastEdited="" LastEditedBy="">
+      <References/>
+      <Content>By setting up certain highly generic meanings for βλαστάνω, δίδωμι, ἀποδίδωμι, and ποιέω, it would be possible to treat the phrase compounds in this series as being semantically endocentric. However, it seems more satisfactory to regard them as what might be called low-grade idioms with specialized meanings of the semantically head expressions.</Content>
+    </Note>
+  </Notes>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="002596001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>verb</PartOfSpeech>
+      </PartsOfSpeech>
+      <Constructs>
+        <Construct Lemma="καρποφορέω" BaseFormIndex="1">
+          <WordMeaningSet>
+            <Word>καρπός</Word>
+          </WordMeaningSet>
+          <WordMeaningSet>
+            <Word>φέρω</Word>
+          </WordMeaningSet>
+        </Construct>
+      </Constructs>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="002596001001000" IsBiblicalTerm="M" EntryCode="23.199" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Physiological Processes and States</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Ripen, Produce Fruit, Bear Seed</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-09-14 10:32:33" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>to produce fruit or seed (of plants){N:001}</DefinitionShort>
+              <Glosses>
+                <Gloss>to bear fruit</Gloss>
+                <Gloss>to produce fruit</Gloss>
+                <Gloss>to produce seed</Gloss>
+                <Gloss>to yield</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04001302300036</LEXReference>
+            <LEXReference>04100402000036</LEXReference>
+            <LEXReference>04100402800008</LEXReference>
+            <LEXReference>04200801500040</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+        <LEXMeaning Id="002596001002000" IsBiblicalTerm="M" EntryCode="13.86" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Be, Become, Exist, Happen</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Exist</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-09-14 10:32:33" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>to cause results to exist</DefinitionShort>
+              <Glosses>
+                <Gloss>to produce results</Gloss>
+                <Gloss>to cause results</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04500700400048</LEXReference>
+            <LEXReference>04500700500044</LEXReference>
+            <LEXReference>05100100600024</LEXReference>
+            <LEXReference>05100101000024</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="003100000000000" Lemma="Λύστρα" Version="0" HasAramaic="false" InLXX="false" AlphaPos="λ">
+  <StrongCodes>
+    <Strong>G3082</Strong>
+  </StrongCodes>
+  <Authors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes/>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="003100001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>noun-name, f./n.</PartOfSpeech>
+      </PartsOfSpeech>
+      <Inflections>
+        <Inflection Lemma="Λύστρα" BaseFormIndex="1">
+          <Form/>
+          <Realizations>
+            <Realization>-ου ?</Realization>
+          </Realizations>
+          <Comments/>
+        </Inflection>
+        <Inflection Lemma="Λύστρα" BaseFormIndex="1">
+          <Form>dat.</Form>
+          <Realizations>
+            <Realization>Λύστροις</Realization>
+          </Realizations>
+          <Comments/>
+        </Inflection>
+        <Inflection Lemma="Λύστρα" BaseFormIndex="1">
+          <Form>acc.</Form>
+          <Realizations>
+            <Realization>Λύστραν</Realization>
+          </Realizations>
+          <Comments/>
+        </Inflection>
+      </Inflections>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="003100001001000" IsBiblicalTerm="M" EntryCode="93.521" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Names of Persons and Places</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Places</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-11-12 19:30:57" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>a city in Lycaonia in Asia Minor</DefinitionShort>
+              <Glosses>
+                <Gloss>Lystra</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04401400600016</LEXReference>
+            <LEXReference>04401400800012</LEXReference>
+            <LEXReference>04401402100024</LEXReference>
+            <LEXReference>04401600100016</LEXReference>
+            <LEXReference>04401600200012</LEXReference>
+            <LEXReference>05500301100026</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

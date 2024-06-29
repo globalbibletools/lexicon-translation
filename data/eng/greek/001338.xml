@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="001338000000000" Lemma="δίδραχμον" Version="0" HasAramaic="false" InLXX="true" AlphaPos="δ">
+  <StrongCodes>
+    <Strong>G1323</Strong>
+  </StrongCodes>
+  <Authors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes/>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="001338001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>noun, n.</PartOfSpeech>
+      </PartsOfSpeech>
+      <Inflections>
+        <Inflection Lemma="δίδραχμον" BaseFormIndex="1">
+          <Form/>
+          <Realizations>
+            <Realization>-ου</Realization>
+          </Realizations>
+          <Comments/>
+        </Inflection>
+      </Inflections>
+      <Constructs>
+        <Construct Lemma="δίδραχμον" BaseFormIndex="1">
+          <WordMeaningSet>
+            <Word>δύο</Word>
+          </WordMeaningSet>
+          <WordMeaningSet>
+            <Word>δραχμή</Word>
+          </WordMeaningSet>
+        </Construct>
+      </Constructs>
+      <RelatedLemmas>
+        <RelatedLemma>
+          <Word>δράσσομαι</Word>
+        </RelatedLemma>
+      </RelatedLemmas>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="001338001001000" IsBiblicalTerm="M" EntryCode="57.181" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Possess, Transfer, Exchange</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Tax, Tribute</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-07-04 21:14:53" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>the tax required of every male Jew from the age of twenty onward; to support the temple</DefinitionShort>
+              <Glosses>
+                <Gloss>two-drachma piece</Gloss>
+                <Gloss>temple tax</Gloss>
+              </Glosses>
+              <Comments>The two-drachma coin referred to in {S:04001702400042} was approximately equivalent to two denarii. The meaning of δίδραχμον is treated here in Domain 57 rather than in Domain 6 (where the value of other coins is discussed) since the focus of the meaning of δίδραχμον is the required Temple tax rather than the value or form of the coin itself.</Comments>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04001702400018</LEXReference>
+            <LEXReference>04001702400042</LEXReference>
+          </LEXReferences>
+          <LEXLinks>
+            <LEXLink>realia:11.6.2.7</LEXLink>
+          </LEXLinks>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

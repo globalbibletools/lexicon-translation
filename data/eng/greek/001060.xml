@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="001060000000000" Lemma="γάλα" Version="0" HasAramaic="false" InLXX="true" AlphaPos="γ">
+  <StrongCodes>
+    <Strong>G1051</Strong>
+  </StrongCodes>
+  <Authors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes>
+    <Note Caller="1" LanguageCode="en" LastEdited="" LastEditedBy="">
+      <References/>
+      <Content>The meanings of ᾠόν ‘egg’ ({D:5.18}) and γάλα ‘milk’ ({D:5.19}) could be classified under Body Products in Domain 8, but in the NT contexts the focus is upon these products as food and not upon the physiological processes involved in producing such products.</Content>
+    </Note>
+  </Notes>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="001060001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>noun, n.</PartOfSpeech>
+      </PartsOfSpeech>
+      <Inflections>
+        <Inflection Lemma="γάλα" BaseFormIndex="1">
+          <Form/>
+          <Realizations>
+            <Realization>γάλακτος</Realization>
+          </Realizations>
+          <Comments/>
+        </Inflection>
+      </Inflections>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="001060001001000" IsBiblicalTerm="M" EntryCode="5.19" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Foods and Condiments</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Food</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-05-13 21:30:53" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>white fluid secreted by women and female mammals for nourishment of their young; also used as food for humans</DefinitionShort>
+              <Glosses>
+                <Gloss>milk</Gloss>
+              </Glosses>
+              <Comments>The term γάλα may refer to any type of milk, whether produced by humans or by certain domesticated animals, for example, cow, sheep, goat, camel.|In a number of languages two distinct terms are used for milk, one identifying the human milk and another term specifying milk from animals. In the context of {S:04600300200002} it is probably the latter reference which is important, though the passage is highly figurative and the emphasis is upon food for babies.{N:001}</Comments>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04600300200002</LEXReference>
+            <LEXReference>04600900700044</LEXReference>
+            <LEXReference>05800501200056</LEXReference>
+            <LEXReference>05800501300010</LEXReference>
+            <LEXReference>06000200200014</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

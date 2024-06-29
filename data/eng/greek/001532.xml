@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="001532000000000" Lemma="εἰρηνοποιός" Version="0" HasAramaic="false" InLXX="false" AlphaPos="ε">
+  <StrongCodes>
+    <Strong>G1518</Strong>
+  </StrongCodes>
+  <Authors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes/>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="001532001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>adjc.</PartOfSpeech>
+      </PartsOfSpeech>
+      <Inflections>
+        <Inflection Lemma="εἰρηνοποιός" BaseFormIndex="1">
+          <Form/>
+          <Realizations>
+            <Realization>-όν</Realization>
+          </Realizations>
+          <Comments/>
+        </Inflection>
+      </Inflections>
+      <Constructs>
+        <Construct Lemma="εἰρηνοποιός" BaseFormIndex="1">
+          <WordMeaningSet>
+            <Word>εἰρηνεύω</Word>
+          </WordMeaningSet>
+          <WordMeaningSet>
+            <Word>ποιέω</Word>
+          </WordMeaningSet>
+        </Construct>
+      </Constructs>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="001532001001000" IsBiblicalTerm="M" EntryCode="40.5" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Reconciliation, Forgiveness</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Reconciliation</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-10-27 02:14:12" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>(derivative of {L:εἰρηνοποιέω&lt;SDBG:εἰρηνοποιέω:000000&gt;} ‘to make peace,’ {D:40.4}) a person who restores peace between people</DefinitionShort>
+              <Glosses>
+                <Gloss>peacemaker</Gloss>
+                <Gloss>one who works for peace</Gloss>
+              </Glosses>
+              <Comments>Though in {S:04000500900006} the cessation of war is by no means excluded, the focus of meaning of εἰρηνοποιός is reconciliation between persons and not primarily to cause wars to cease.</Comments>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04000500900006</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

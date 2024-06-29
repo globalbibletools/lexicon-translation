@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="002025000000000" Lemma="ἐπιτήδειος" Version="0" HasAramaic="false" InLXX="true" AlphaPos="ε">
+  <StrongCodes>
+    <Strong>G2006</Strong>
+  </StrongCodes>
+  <Authors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes>
+    <Note Caller="1" LanguageCode="en" LastEdited="" LastEditedBy="">
+      <References/>
+      <Content>In view of the more general meaning of ἐπιτήδειος in non-biblical Greek, one could classify ἐπιτήδειος under Domain 71 Mode, since the focus in so many contexts outside of the Scriptures is upon suitability and fitness, but in the one occurrence in the NT, namely {S:05900201600036}, the element of lack is focal, namely, poverty as a more or less continuous state of lack of needed possessions.</Content>
+    </Note>
+  </Notes>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="002025001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>adjc.</PartOfSpeech>
+      </PartsOfSpeech>
+      <Inflections>
+        <Inflection Lemma="ἐπιτήδειος" BaseFormIndex="1">
+          <Form/>
+          <Realizations>
+            <Realization>-α, -ον</Realization>
+          </Realizations>
+          <Comments/>
+        </Inflection>
+      </Inflections>
+      <RelatedLemmas>
+        <RelatedLemma>
+          <Word>ἐπιτηδειόομαι</Word>
+          <Meaning LanguageCode="en">
+            <Meaning>make fit, capable</Meaning>
+          </Meaning>
+          <Meaning LanguageCode="zhT">
+            <Meaning>使合適，能夠</Meaning>
+          </Meaning>
+        </RelatedLemma>
+      </RelatedLemmas>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="002025001001000" IsBiblicalTerm="Y" EntryCode="57.48" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Possess, Transfer, Exchange</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Need, Lack</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-06-29 11:07:55" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>pertaining to being needed or necessary for some particular purpose{N:001}</DefinitionShort>
+              <Glosses>
+                <Gloss>needed</Gloss>
+                <Gloss>necessary</Gloss>
+                <Gloss>essential</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>05900201600036</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="005355000000000" Lemma="עֶזְרָה" Version="4" HasAramaic="false" InLXX="false" AlphaPos="ע">
+  <StrongCodes>
+    <Strong>H5833</Strong>
+    <Strong>H5834</Strong>
+  </StrongCodes>
+  <Authors>
+    <Author>Steve Berneking</Author>
+    <Author>J.K. Aitken</Author>
+    <Author>A. Gray</Author>
+    <Author>G.I. Davies</Author>
+  </Authors>
+  <Contributors/>
+  <AlternateLemmas/>
+  <MainLinks>
+    <MainLink>SAHD@http://www.sahd.div.ed.ac.uk/_media/lexeme:pdf:jgv-ʿezrah-aitken_gray_davies-cam-2016.pdf</MainLink>
+  </MainLinks>
+  <Notes>
+    <Note Caller="1" LanguageCode="en" LastEdited="" LastEditedBy="">
+      <References>
+        <Reference>01002203600014</Reference>
+      </References>
+      <Content>4QSam-a RSV NRSV GNT CEV "help"  | MT {L:עֲנֹתְךָ&lt;SDBH:ענה&gt;} ESV "gentleness" NIV "stoop down" NJPS "providence"</Content>
+    </Note>
+  </Notes>
+  <ContributorNote>Definition: 6. Exegesis, A.2 - A.10, pp. 5-6; 7. Conclusion, pp. 6-7</ContributorNote>
+  <BaseForms>
+    <BaseForm Id="005355001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>nsf</PartOfSpeech>
+      </PartsOfSpeech>
+      <RelatedLemmas>
+        <RelatedLemma>
+          <Word>עזר</Word>
+        </RelatedLemma>
+      </RelatedLemmas>
+      <MeaningsOfName>
+        <MeaningOfName LanguageCode="en">
+          <Meaning/>
+        </MeaningOfName>
+      </MeaningsOfName>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="005355001001000" IsBiblicalTerm="M" EntryCode="" Indent="0">
+          <LEXDomains>
+            <LEXDomain Code="002003002015">Help</LEXDomain>
+          </LEXDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2017-11-28 09:46:01" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>= action by which humans or deities provide assistance or support to (other) humans (in both military and non-military contexts) ► in order to make their life or work or task easier</DefinitionShort>
+              <Glosses>
+                <Gloss>help</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>00700502300026</LEXReference>
+            <LEXReference>00700502300032</LEXReference>
+            <LEXReference>01002203600014{N:001}</LEXReference>
+            <LEXReference>01402802100046</LEXReference>
+            <LEXReference>01800601300008</LEXReference>
+            <LEXReference>01803102100022</LEXReference>
+            <LEXReference>01902202000016</LEXReference>
+            <LEXReference>01902700900020</LEXReference>
+            <LEXReference>01903500200016</LEXReference>
+            <LEXReference>01903802300006</LEXReference>
+            <LEXReference>01904001400014</LEXReference>
+            <LEXReference>01904001800018</LEXReference>
+            <LEXReference>01904402700004</LEXReference>
+            <LEXReference>01904600200012</LEXReference>
+            <LEXReference>01906001300006</LEXReference>
+            <LEXReference>01906300800006</LEXReference>
+            <LEXReference>01907000200012</LEXReference>
+            <LEXReference>01907101200014</LEXReference>
+            <LEXReference>01909401700006</LEXReference>
+            <LEXReference>01910801300006</LEXReference>
+            <LEXReference>02301000300034</LEXReference>
+            <LEXReference>02302000600040</LEXReference>
+            <LEXReference>02303100100012</LEXReference>
+            <LEXReference>02303100200040</LEXReference>
+            <LEXReference>02403700700048</LEXReference>
+            <LEXReference>02500401700012</LEXReference>
+            <LEXReference>03400300900026</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+    <BaseForm Id="005355002000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>np</PartOfSpeech>
+      </PartsOfSpeech>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="005355002001000" IsBiblicalTerm="Y" EntryCode="" Indent="0">
+          <LEXDomains>
+            <LEXDomain Code="003001007">Names of People</LEXDomain>
+          </LEXDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2017-11-28 09:46:01" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>= man from the tribe of {L:Judah&lt;SDBH:יְהוּדָה&gt;}</DefinitionShort>
+              <Glosses>
+                <Gloss>Ezrah</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>01300401700006</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

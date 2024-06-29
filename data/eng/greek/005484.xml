@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="005484000000000" Lemma="Ὦ" Version="0" HasAramaic="false" InLXX="true" AlphaPos="ω">
+  <StrongCodes>
+    <Strong>G5598</Strong>
+  </StrongCodes>
+  <Authors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes/>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="005484001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>noun-name, n.</PartOfSpeech>
+      </PartsOfSpeech>
+      <Inflections>
+        <Inflection Lemma="Ὦ" BaseFormIndex="1">
+          <Form/>
+          <Realizations/>
+          <Comments>
+            <Comment LanguageCode="en">
+              <Meaning>indeclinable</Meaning>
+            </Comment>
+            <Comment LanguageCode="zhT">
+              <Meaning>無語尾變化</Meaning>
+            </Comment>
+          </Comments>
+        </Inflection>
+      </Inflections>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="005484001001000" IsBiblicalTerm="M" EntryCode="61.18" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Sequence</LEXDomain>
+          </LEXDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2022-06-06 17:01:28" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>the last in an inclusive series beginning with {L:ἄλφα&lt;SDBG:ἄλφα:000000&gt;} ({D:61.7}), implying an all-inclusive sphere of authority and high status</DefinitionShort>
+              <Glosses>
+                <Gloss>omega</Gloss>
+                <Gloss>the last</Gloss>
+                <Gloss>the end</Gloss>
+              </Glosses>
+              <Comments>For a discussion of the relationship of ω to {L:ἄλφα&lt;SDBG:ἄλφα:000000&gt;} and its different translations, see {D:61.7}.</Comments>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>06600100800014</LEXReference>
+            <LEXReference>06602100600022</LEXReference>
+            <LEXReference>06602201300012</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

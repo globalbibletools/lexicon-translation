@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="001635000000000" Lemma="דִּין" Version="5" HasAramaic="true" InLXX="false" AlphaPos="ד">
+  <StrongCodes>
+    <Strong>H1779b</Strong>
+    <Strong>A1780</Strong>
+  </StrongCodes>
+  <Authors>
+    <Author>Enio R. Mueller</Author>
+  </Authors>
+  <Contributors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes>
+    <Note Caller="1" LanguageCode="en" LastEdited="" LastEditedBy="">
+      <References>
+        <Reference>01801902900024</Reference>
+      </References>
+      <Content>MT-K שׁדין | MT-Q {L:שַׁדּוּן&lt;SDBH:דּוּן&gt;}</Content>
+    </Note>
+    <Note Caller="2" LanguageCode="en" LastEdited="" LastEditedBy="">
+      <References>
+        <Reference>01803601700004</Reference>
+      </References>
+      <Content>DCH suggests here a meaning "food" ("you are full of rich food")</Content>
+    </Note>
+  </Notes>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="001635001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>nsm</PartOfSpeech>
+      </PartsOfSpeech>
+      <RelatedLemmas>
+        <RelatedLemma>
+          <Word>דין</Word>
+        </RelatedLemma>
+      </RelatedLemmas>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="001635001001000" IsBiblicalTerm="M" EntryCode="" Indent="0">
+          <LEXDomains>
+            <LEXDomain Code="002004002006">Judge</LEXDomain>
+          </LEXDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2015-10-01 10:39:10" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>= the act of giving a verdict on a case or person in a dispute and ensure that the verdict is implemented, which, ideally, results in vindication for the innocent and punishment for the guilty; this can only be done by someone in authority, such as a judge or ruler or even God himself</DefinitionShort>
+              <Glosses>
+                <Gloss>judgment</Gloss>
+                <Gloss>justice</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>01500702600030</LEXReference>
+            <LEXReference>01700101300044</LEXReference>
+            <LEXReference>01801902900024{N:001}</LEXReference>
+            <LEXReference>01803601700010</LEXReference>
+            <LEXReference>01907600900008</LEXReference>
+            <LEXReference>02002000800010</LEXReference>
+            <LEXReference>02301000200008</LEXReference>
+            <LEXReference>02400502800014</LEXReference>
+            <LEXReference>02700403400036</LEXReference>
+            <LEXReference>02700702200014</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+          <LEXCoreDomains>
+            <LEXCoreDomain Code="095">Justice</LEXCoreDomain>
+            <LEXCoreDomain Code="015">Authority</LEXCoreDomain>
+          </LEXCoreDomains>
+        </LEXMeaning>
+        <LEXMeaning Id="001635001002000" IsBiblicalTerm="Y" EntryCode="" Indent="0">
+          <LEXDomains>
+            <LEXDomain Code="002003002007">Conflict</LEXDomain>
+          </LEXDomains>
+          <LEXSynonyms>
+            <LEXSynonym>מִשְׁפָּט</LEXSynonym>
+          </LEXSynonyms>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2015-10-01 10:39:10" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>= a situation where one party has a dispute with another party, and is looking for a legal ruling in which they receive what they consider to be rightfully theirs</DefinitionShort>
+              <Glosses>
+                <Gloss>case</Gloss>
+                <Gloss>cause</Gloss>
+                <Gloss>plea</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>00501700800026</LEXReference>
+            <LEXReference>00501700800030</LEXReference>
+            <LEXReference>01803501400012</LEXReference>
+            <LEXReference>01803601700004{N:002}</LEXReference>
+            <LEXReference>01900900500010</LEXReference>
+            <LEXReference>01914001300012</LEXReference>
+            <LEXReference>02002201000016</LEXReference>
+            <LEXReference>02002900700006</LEXReference>
+            <LEXReference>02003100500016</LEXReference>
+            <LEXReference>02003100800012</LEXReference>
+            <LEXReference>02400502800020</LEXReference>
+            <LEXReference>02402201600004</LEXReference>
+            <LEXReference>02403001300006</LEXReference>
+            <LEXReference>02700701000038</LEXReference>
+            <LEXReference>02700702600004</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+          <LEXCoreDomains>
+            <LEXCoreDomain Code="095">Justice</LEXCoreDomain>
+          </LEXCoreDomains>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

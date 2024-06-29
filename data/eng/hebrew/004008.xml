@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="004008000000000" Lemma="מִכְתָּב" Version="5" HasAramaic="false" InLXX="false" AlphaPos="מ">
+  <StrongCodes>
+    <Strong>H4385</Strong>
+  </StrongCodes>
+  <Authors>
+    <Author>Reinier de Blois</Author>
+  </Authors>
+  <Contributors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes/>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="004008001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>nsm</PartOfSpeech>
+      </PartsOfSpeech>
+      <RelatedLemmas>
+        <RelatedLemma>
+          <Word>כתב</Word>
+        </RelatedLemma>
+      </RelatedLemmas>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="004008001001000" IsBiblicalTerm="Y" EntryCode="" Indent="0">
+          <LEXDomains>
+            <LEXDomain Code="002001001069">Write</LEXDomain>
+          </LEXDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2022-03-02 10:27:33" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>= action by which humans or deities mark letters, words or other symbols on a surface, such as clay, stone, skin, or papyrus, usually with a pointed stylus or reed</DefinitionShort>
+              <Glosses>
+                <Gloss>writing</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>00203201600018</LEXReference>
+            <LEXReference>00203201600020</LEXReference>
+            <LEXReference>00501000400016</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+          <LEXCoreDomains>
+            <LEXCoreDomain Code="041">Communication</LEXCoreDomain>
+          </LEXCoreDomains>
+        </LEXMeaning>
+        <LEXMeaning Id="004008001002000" IsBiblicalTerm="Y" EntryCode="" Indent="0">
+          <LEXDomains>
+            <LEXDomain Code="001004001014" Source="Write" SourceCode="002001001069">Scrolls</LEXDomain>
+          </LEXDomains>
+          <LEXSynonyms>
+            <LEXSynonym>כְּתָב</LEXSynonym>
+          </LEXSynonyms>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2022-03-02 10:27:33" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>= a written document, written on an unspecified surface</DefinitionShort>
+              <Glosses>
+                <Gloss>writing</Gloss>
+                <Gloss>written message</Gloss>
+                <Gloss>inscription</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>00203903000026</LEXReference>
+            <LEXReference>01402101200008</LEXReference>
+            <LEXReference>01403500400034</LEXReference>
+            <LEXReference>01403602200064</LEXReference>
+            <LEXReference>01500100100064</LEXReference>
+            <LEXReference>02303800900002</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

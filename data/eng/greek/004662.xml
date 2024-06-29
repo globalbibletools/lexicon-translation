@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="004662000000000" Lemma="στρατοπέδαρχος" Version="0" HasAramaic="false" InLXX="false" AlphaPos="σ">
+  <StrongCodes/>
+  <Authors/>
+  <AlternateLemmas>
+    <AlternateLemma>στρατοπεδάρχης</AlternateLemma>
+  </AlternateLemmas>
+  <MainLinks/>
+  <Notes/>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="004662001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>noun, m.</PartOfSpeech>
+      </PartsOfSpeech>
+      <Inflections>
+        <Inflection Lemma="στρατοπέδαρχος" BaseFormIndex="1">
+          <Form/>
+          <Realizations>
+            <Realization>-ου</Realization>
+          </Realizations>
+          <Comments/>
+        </Inflection>
+      </Inflections>
+      <Constructs>
+        <Construct Lemma="στρατοπέδαρχος" BaseFormIndex="1">
+          <WordMeaningSet>
+            <Word>στρατεύομαι</Word>
+          </WordMeaningSet>
+          <WordMeaningSet>
+            <Word>πούς</Word>
+          </WordMeaningSet>
+          <WordMeaningSet>
+            <Word>ἄρχω</Word>
+          </WordMeaningSet>
+        </Construct>
+      </Constructs>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="004662001001000" IsBiblicalTerm="Y" EntryCode="55.14" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Military Activities</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Soldiers, Officers</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2022-03-08 20:48:30" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>one in command of a military camp</DefinitionShort>
+              <Glosses>
+                <Gloss>camp commander</Gloss>
+              </Glosses>
+              <Comments>This word is found as a variant reading only: παρέδωκε τοὺς δεσμίους τῷ στρατοπεδάρχῳ ‘he turned the prisoners over to the camp commander’ {S:04402801600016} (apparatus).</Comments>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04402801600016</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

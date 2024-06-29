@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="004595000000000" Lemma="σπήλαιον" Version="0" HasAramaic="false" InLXX="true" AlphaPos="σ">
+  <StrongCodes>
+    <Strong>G4693</Strong>
+  </StrongCodes>
+  <Authors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes/>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="004595001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>noun, n.</PartOfSpeech>
+      </PartsOfSpeech>
+      <Inflections>
+        <Inflection Lemma="σπήλαιον" BaseFormIndex="1">
+          <Form/>
+          <Realizations>
+            <Realization>-ου</Realization>
+          </Realizations>
+          <Comments/>
+        </Inflection>
+      </Inflections>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="004595001001000" IsBiblicalTerm="M" EntryCode="1.57" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Geographical Objects and Features</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Depressions and Holes</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2022-02-14 22:41:09" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>a cave or den generally large enough for at least temporary occupation by persons (since such places were often used for habitation or refuge by those who were refugees or thieves, σπήλαιον has in certain contexts the connotation of a ‘hideout’)</DefinitionShort>
+              <Glosses>
+                <Gloss>cave</Gloss>
+                <Gloss>den</Gloss>
+                <Gloss>hideout</Gloss>
+              </Glosses>
+              <Comments>In {S:06600601500054} the reference of σπήλαιον is literal, since people actually hid themselves in such caves. In {S:04002101300030}, however, the reference is to the Temple, which has been made a kind of ‘cave’ or ‘den,’ and since the connotation of the term suggests a ‘hideout,’ this is obviously a reflection upon the activities and motivations of those who had commercialized the Temple in Jerusalem.</Comments>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04002101300030</LEXReference>
+            <LEXReference>04101101700044</LEXReference>
+            <LEXReference>04201904600030</LEXReference>
+            <LEXReference>04301103800026</LEXReference>
+            <LEXReference>05801103800026</LEXReference>
+            <LEXReference>06600601500054</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

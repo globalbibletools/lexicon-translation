@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="005273000000000" Lemma="φιλοπρωτεύω" Version="0" HasAramaic="false" InLXX="false" AlphaPos="φ">
+  <StrongCodes>
+    <Strong>G5383</Strong>
+  </StrongCodes>
+  <Authors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes/>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="005273001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>verb</PartOfSpeech>
+      </PartsOfSpeech>
+      <Constructs>
+        <Construct Lemma="φιλοπρωτεύω" BaseFormIndex="1">
+          <WordMeaningSet>
+            <Word>φιλέω</Word>
+          </WordMeaningSet>
+          <WordMeaningSet>
+            <Word>πρωτεύω</Word>
+            <Meaning LanguageCode="en">
+              <Meaning>be first</Meaning>
+            </Meaning>
+            <Meaning LanguageCode="zhT">
+              <Meaning>為首</Meaning>
+            </Meaning>
+          </WordMeaningSet>
+        </Construct>
+      </Constructs>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="005273001001000" IsBiblicalTerm="Y" EntryCode="25.110" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Attitudes and Emotions</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Enjoy, Take Pleasure In, Be Fond of Doing</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2022-05-19 14:16:33" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>to like or love to be first in rank or position</DefinitionShort>
+              <Glosses>
+                <Gloss>to desire to be first</Gloss>
+                <Gloss>to desire to order others</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>06400100900014</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

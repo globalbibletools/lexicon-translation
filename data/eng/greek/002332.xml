@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="002332000000000" Lemma="θεριστής" Version="0" HasAramaic="false" InLXX="true" AlphaPos="θ">
+  <StrongCodes>
+    <Strong>G2327</Strong>
+  </StrongCodes>
+  <Authors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes/>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="002332001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>noun, m.</PartOfSpeech>
+      </PartsOfSpeech>
+      <Inflections>
+        <Inflection Lemma="θεριστής" BaseFormIndex="1">
+          <Form/>
+          <Realizations>
+            <Realization>-οῦ</Realization>
+          </Realizations>
+          <Comments/>
+        </Inflection>
+      </Inflections>
+      <RelatedLemmas>
+        <RelatedLemma>
+          <Word>θερμαίνομαι</Word>
+        </RelatedLemma>
+      </RelatedLemmas>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="002332001001000" IsBiblicalTerm="Y" EntryCode="43.16" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Agriculture</LEXDomain>
+          </LEXDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-08-13 18:48:41" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>(derivative of {L:θερίζω&lt;SDBG:θερίζω:000000&gt;} ‘to harvest,’ {D:43.14}) a person who gathers in a crop</DefinitionShort>
+              <Glosses>
+                <Gloss>reaper</Gloss>
+                <Gloss>harvester</Gloss>
+              </Glosses>
+              <Comments>In a number of languages there is no specific term for ‘reapers,’ and therefore it may be necessary in {S:04001303000028} to say ‘… I will say to those who are working in the fields’ or ‘… who are cutting down the grain.’</Comments>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04001303000028</LEXReference>
+            <LEXReference>04001303900036</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="004679000000000" Lemma="συγκάθημαι" Version="0" HasAramaic="false" InLXX="true" AlphaPos="σ">
+  <StrongCodes>
+    <Strong>G4775</Strong>
+  </StrongCodes>
+  <Authors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes>
+    <Note Caller="1" LanguageCode="en" LastEdited="" LastEditedBy="">
+      <References/>
+      <Content>There are certain technical problems involved in treating the series καθέζομαι, κάθημαι[a], καθίζω[a] ({D:17.12}) and συγκάθημαι, συγκαθίζω[a] ({D:17.13}), since there appears to be an alternation in meaning between (1) being in a position and (2) assuming such a position. It would be possible to set up two distinct meanings or to assume that the respective forms are essentially ambiguous. In general, however, the participial forms indicate a state of being, while the non-participial forms imply assuming a particular position of being seated. However, there are certain subtle differences in the tenses of the participial forms, and hence one cannot determine precisely what are the referential distinctions.</Content>
+    </Note>
+  </Notes>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="004679001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>verb</PartOfSpeech>
+      </PartsOfSpeech>
+      <RelatedLemmas>
+        <RelatedLemma>
+          <Word>καθίζω</Word>
+        </RelatedLemma>
+      </RelatedLemmas>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="004679001001000" IsBiblicalTerm="Y" EntryCode="17.13" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Stances and Events Related to Stances</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Sit</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2022-05-02 20:48:39" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>to sit down with someone or to be seated with someone{N:001}</DefinitionShort>
+              <Glosses>
+                <Gloss>to sit down with</Gloss>
+                <Gloss>to be seated with</Gloss>
+                <Gloss>sitting with</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04101405400034</LEXReference>
+            <LEXReference>04402603000026</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

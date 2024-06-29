@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="002012000000000" Lemma="ἐπιστολή" Version="0" HasAramaic="false" InLXX="true" AlphaPos="ε">
+  <StrongCodes>
+    <Strong>G1992</Strong>
+  </StrongCodes>
+  <Authors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes>
+    <Note Caller="1" LanguageCode="en" LastEdited="" LastEditedBy="">
+      <References/>
+      <Content>ἐπιστολή may occur either in the sense of the physical object (see {D:6.63}) which is used as a means of communication or as the content of what is written ({D:33.48}), but in some contexts it is difficult, if not impossible, to distinguish between these two phases of the meaning of ἐπιστολή.</Content>
+    </Note>
+  </Notes>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="002012001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>noun, f.</PartOfSpeech>
+      </PartsOfSpeech>
+      <Inflections>
+        <Inflection Lemma="ἐπιστολή" BaseFormIndex="1">
+          <Form/>
+          <Realizations>
+            <Realization>-ῆς</Realization>
+          </Realizations>
+          <Comments/>
+        </Inflection>
+      </Inflections>
+      <RelatedLemmas>
+        <RelatedLemma>
+          <Word>στέλλομαι</Word>
+        </RelatedLemma>
+      </RelatedLemmas>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="002012001001000" IsBiblicalTerm="M" EntryCode="6.63" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Artifacts</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Instruments Used in Marking and Writing</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-06-25 18:37:16" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>an object containing writing addressed to one or more persons</DefinitionShort>
+              <Glosses>
+                <Gloss>letter (normally written on papyrus)</Gloss>
+              </Glosses>
+              <Comments>In some languages it may be necessary to try to distinguish between a letter as an object and a letter as content or message. In {S:04402303300018} the focus seems to be upon the letter as an object, not necessarily upon the contents of the document. In most contexts, however, it is impossible to distinguish between a letter as a material object and a letter as a message (see {D:33.48}).</Comments>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04400900200008</LEXReference>
+            <LEXReference>04401503000028</LEXReference>
+            <LEXReference>04402200500028</LEXReference>
+            <LEXReference>04402302500004</LEXReference>
+            <LEXReference>04402303300018</LEXReference>
+            <LEXReference>04501602200016</LEXReference>
+            <LEXReference>04601600300016</LEXReference>
+            <LEXReference>04700300100022</LEXReference>
+            <LEXReference>05200502700014</LEXReference>
+            <LEXReference>05300200200040</LEXReference>
+            <LEXReference>05300201500032</LEXReference>
+            <LEXReference>05300301400022</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+        <LEXMeaning Id="002012001002000" IsBiblicalTerm="M" EntryCode="33.48" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Communication</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Written Language</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-06-25 18:37:16" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>a written communication, usually from one person to one or more persons{N:001}</DefinitionShort>
+              <Glosses>
+                <Gloss>letter</Gloss>
+              </Glosses>
+              <Comments>It is also possible to understand {L:ἐπιστολή&lt;SDBG:ἐπιστολή:000000&gt;} in {S:04402302500004} not as a content or message, but as an object (see {D:6.63})</Comments>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04400900200008</LEXReference>
+            <LEXReference>04402302500004</LEXReference>
+            <LEXReference>04501602200016</LEXReference>
+            <LEXReference>04600500900010</LEXReference>
+            <LEXReference>04601600300016</LEXReference>
+            <LEXReference>04700300200004</LEXReference>
+            <LEXReference>04700300300008</LEXReference>
+            <LEXReference>04700700800016</LEXReference>
+            <LEXReference>04700700800036</LEXReference>
+            <LEXReference>04701000900020</LEXReference>
+            <LEXReference>04701001000006</LEXReference>
+            <LEXReference>04701001100022</LEXReference>
+            <LEXReference>05100401600014</LEXReference>
+            <LEXReference>05200502700014</LEXReference>
+            <LEXReference>05300200200040</LEXReference>
+            <LEXReference>05300201500032</LEXReference>
+            <LEXReference>05300301700024</LEXReference>
+            <LEXReference>06100300100014</LEXReference>
+            <LEXReference>06100301600012</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

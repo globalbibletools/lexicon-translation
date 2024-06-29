@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="004547000000000" Lemma="משׁשׁ" Version="4" HasAramaic="false" InLXX="false" AlphaPos="מ">
+  <StrongCodes>
+    <Strong>H4959</Strong>
+  </StrongCodes>
+  <Authors>
+    <Author>Reinier de Blois</Author>
+  </Authors>
+  <Contributors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes>
+    <Note Caller="1" LanguageCode="en" LastEdited="" LastEditedBy="">
+      <References>
+        <Reference>00701602600028</Reference>
+      </References>
+      <Content>MT-K והימשׁני | MT-Q וַהֲמִשֵׁנִי</Content>
+    </Note>
+  </Notes>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="004547001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>vb</PartOfSpeech>
+      </PartsOfSpeech>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="004547001001000" IsBiblicalTerm="Y" EntryCode="" Indent="0">
+          <LEXDomains>
+            <LEXDomain Code="002004001001004">Touch</LEXDomain>
+          </LEXDomains>
+          <LEXForms>
+            <LEXForm>vbqal-</LEXForm>
+            <LEXForm>vbpiel</LEXForm>
+            <LEXForm>vbhif-</LEXForm>
+          </LEXForms>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2020-10-16 13:34:05" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>= action by which humans examine a place or object by touching ◄ usually as a result of being unable to see</DefinitionShort>
+              <Glosses>
+                <Gloss>to feel</Gloss>
+                <Gloss>to touch</Gloss>
+                <Gloss>to grope</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>00102701200004</LEXReference>
+            <LEXReference>00102702200016</LEXReference>
+            <LEXReference>00201002100036</LEXReference>
+            <LEXReference>00502802900006</LEXReference>
+            <LEXReference>00502802900018</LEXReference>
+            <LEXReference>00701602600028{N:001}</LEXReference>
+            <LEXReference>00701602600032</LEXReference>
+            <LEXReference>01800501400016</LEXReference>
+            <LEXReference>01801202500002</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+        <LEXMeaning Id="004547001002000" IsBiblicalTerm="Y" EntryCode="" Indent="0">
+          <LEXDomains>
+            <LEXDomain Code="002002001015" Source="Touch" SourceCode="002004001001004">Search</LEXDomain>
+          </LEXDomains>
+          <LEXForms>
+            <LEXForm>vbpiel</LEXForm>
+          </LEXForms>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2020-10-16 13:34:05" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>= action by which humans try to find an object by feeling around without looking or being able to see</DefinitionShort>
+              <Glosses>
+                <Gloss>to rummage</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>00103103400034</LEXReference>
+            <LEXReference>00103103700004</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

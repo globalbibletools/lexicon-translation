@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="003248000000000" Lemma="μεταίρω" Version="0" HasAramaic="false" InLXX="true" AlphaPos="μ">
+  <StrongCodes>
+    <Strong>G3332</Strong>
+  </StrongCodes>
+  <Authors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes/>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="003248001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>verb</PartOfSpeech>
+      </PartsOfSpeech>
+      <Inflections>
+        <Inflection Lemma="μεταίρω" BaseFormIndex="1">
+          <Form>aor.</Form>
+          <Realizations>
+            <Realization>μετήρα</Realization>
+          </Realizations>
+          <Comments/>
+        </Inflection>
+      </Inflections>
+      <RelatedLemmas>
+        <RelatedLemma>
+          <Word>αἴρω</Word>
+        </RelatedLemma>
+      </RelatedLemmas>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="003248001001000" IsBiblicalTerm="Y" EntryCode="15.35" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Linear Movement</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Leave, Depart, Flee, Escape, Send</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-12-01 10:56:28" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>to move away from a reference point, perhaps more definitively than in the case of {L:πορεύομαι&lt;SDBG:πορεύομαι:000002&gt;}[c] and {L:ἄγω&lt;SDBG:ἄγω:000002&gt;}[c] ({D:15.34})</DefinitionShort>
+              <Glosses>
+                <Gloss>to go</Gloss>
+                <Gloss>to go away from</Gloss>
+                <Gloss>to depart</Gloss>
+                <Gloss>to leave</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04001305300020</LEXReference>
+            <LEXReference>04001900100020</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

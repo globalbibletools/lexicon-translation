@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="002775000000000" Lemma="κεραμεύς" Version="0" HasAramaic="false" InLXX="true" AlphaPos="κ">
+  <StrongCodes>
+    <Strong>G2763</Strong>
+  </StrongCodes>
+  <Authors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes/>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="002775001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>noun, m.</PartOfSpeech>
+      </PartsOfSpeech>
+      <Inflections>
+        <Inflection Lemma="κεραμεύς" BaseFormIndex="1">
+          <Form/>
+          <Realizations>
+            <Realization>-έως</Realization>
+          </Realizations>
+          <Comments/>
+        </Inflection>
+      </Inflections>
+      <RelatedLemmas>
+        <RelatedLemma>
+          <Word>κεραμικός</Word>
+        </RelatedLemma>
+        <RelatedLemma>
+          <Word>κεράμιον</Word>
+        </RelatedLemma>
+        <RelatedLemma>
+          <Word>κέραμος</Word>
+        </RelatedLemma>
+      </RelatedLemmas>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="002775001001000" IsBiblicalTerm="M" EntryCode="6.129" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Artifacts</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Containers</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-10-05 12:42:26" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>(derivative of {L:κεράμιον&lt;SDBG:κεράμιον:000000&gt;} ‘earthenware vessel,’ {D:6.128}) one who makes earthenware vessels</DefinitionShort>
+              <Glosses>
+                <Gloss>potter</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04002700700020</LEXReference>
+            <LEXReference>04002701000016</LEXReference>
+            <LEXReference>04500902100012</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

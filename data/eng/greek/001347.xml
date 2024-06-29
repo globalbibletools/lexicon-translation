@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="001347000000000" Lemma="διερωτάω" Version="0" HasAramaic="false" InLXX="false" AlphaPos="δ">
+  <StrongCodes>
+    <Strong>G1331</Strong>
+  </StrongCodes>
+  <Authors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes>
+    <Note Caller="1" LanguageCode="en" LastEdited="" LastEditedBy="">
+      <References/>
+      <Content>It is also possible to interpret διερωτάω as meaning ‘to ask questions’ or ‘to inquire about,’ in which case the meaning of διερωτάω may be treated under Domain 33 Communication.</Content>
+    </Note>
+  </Notes>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="001347001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>verb</PartOfSpeech>
+      </PartsOfSpeech>
+      <RelatedLemmas>
+        <RelatedLemma>
+          <Word>ἐρωτάω</Word>
+        </RelatedLemma>
+      </RelatedLemmas>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="001347001001000" IsBiblicalTerm="Y" EntryCode="27.11" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Learn</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Learn</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-06-08 21:01:20" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>to acquire information by questioning{N:001}</DefinitionShort>
+              <Glosses>
+                <Gloss>to learn about</Gloss>
+                <Gloss>to find out about by inquiry</Gloss>
+              </Glosses>
+              <Comments>Since πυνθάνομαι[b] and διερωτάω imply quite distinct semantic components, namely ‘to acquire information’ and ‘by the process of questioning,’ it may be appropriate in many languages to use two verbs meaning ‘to ask’ and ‘to find out.’ Accordingly, this expression in {S:04401001700046} may be rendered as ‘meanwhile, men sent by Cornelius asked and learned where Simon’s house was.’</Comments>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04401001700046</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

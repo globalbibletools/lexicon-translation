@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="000136000000000" Lemma="αἴνιγμα" Version="0" HasAramaic="false" InLXX="true" AlphaPos="α">
+  <StrongCodes>
+    <Strong>G0135</Strong>
+  </StrongCodes>
+  <Authors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes/>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="000136001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>noun, n.</PartOfSpeech>
+      </PartsOfSpeech>
+      <Inflections>
+        <Inflection Lemma="αἴνιγμα" BaseFormIndex="1">
+          <Form/>
+          <Realizations>
+            <Realization>-τος</Realization>
+          </Realizations>
+          <Comments/>
+        </Inflection>
+      </Inflections>
+      <RelatedLemmas>
+        <RelatedLemma>
+          <Word>αἰνίσσομαι</Word>
+          <Meaning LanguageCode="en">
+            <Meaning>speak in riddles</Meaning>
+          </Meaning>
+          <Meaning LanguageCode="zhT">
+            <Meaning>用謎語說</Meaning>
+          </Meaning>
+        </RelatedLemma>
+      </RelatedLemmas>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="000136001001000" IsBiblicalTerm="Y" EntryCode="32.21" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Understand</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Ease or Difficulty in Understanding</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-03-07 11:33:39" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>that which is difficult or impossible to understand</DefinitionShort>
+              <Glosses>
+                <Gloss>that which is puzzling</Gloss>
+                <Gloss>that which is difficult to understand</Gloss>
+                <Gloss>puzzle</Gloss>
+                <Gloss>riddle</Gloss>
+              </Glosses>
+              <Comments>In {S:04601301200014} the term αἴνιγμα may be interpreted as lack of clarity in perception, so that the meaning would be ‘that which is difficult to see clearly,’ but the general usage of αἴνιγμα would seem to point to the meaning of difficulty in understanding and comprehension rather than in visual perception. For another interpretation of αἴνιγμα in {S:04601301200014}, see {D:24.37}.</Comments>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04601301200014</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+        <LEXMeaning Id="000136001002000" IsBiblicalTerm="Y" EntryCode="24.37" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Sensory Events and States</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>See</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-03-07 11:33:39" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>an indirect or indistinct visual image</DefinitionShort>
+              <Glosses>
+                <Gloss>dim image</Gloss>
+                <Gloss>reflected image</Gloss>
+                <Gloss>dimly</Gloss>
+              </Glosses>
+              <Comments>For another interpretation of {L:αἴνιγμα&lt;SDBG:αἴνιγμα:000000&gt;} in {S:04601301200014}, see {D:32.21}.</Comments>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04601301200014</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="002185000000000" Lemma="εὔχομαι" Version="0" HasAramaic="false" InLXX="true" AlphaPos="ε">
+  <StrongCodes>
+    <Strong>G2172</Strong>
+  </StrongCodes>
+  <Authors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes>
+    <Note Caller="1" LanguageCode="en" LastEdited="" LastEditedBy="">
+      <References/>
+      <Content>It is possible that εὔχομαι[a] and προσεύχομαι differ somewhat in the extent to which focus is upon the person to whom the prayer is addressed, but this cannot be determined from NT usage.</Content>
+    </Note>
+    <Note Caller="2" LanguageCode="en" LastEdited="" LastEditedBy="">
+      <References>
+        <Reference>04500900300002</Reference>
+      </References>
+      <Content>It is possible, but not very probable, that εὔχομαι in {S:04500900300002} could mean ‘to pray’ (see {D:33.178}).</Content>
+    </Note>
+  </Notes>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="002185001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>verb</PartOfSpeech>
+      </PartsOfSpeech>
+      <Inflections>
+        <Inflection Lemma="εὔχομαι" BaseFormIndex="1">
+          <Form>aor.opt.</Form>
+          <Realizations>
+            <Realization>εὐξαίμην</Realization>
+          </Realizations>
+          <Comments/>
+        </Inflection>
+      </Inflections>
+      <RelatedLemmas>
+        <RelatedLemma>
+          <Word>εὐχή</Word>
+        </RelatedLemma>
+        <RelatedLemma>
+          <Word>προσεύχομαι</Word>
+        </RelatedLemma>
+        <RelatedLemma>
+          <Word>προσευχή</Word>
+        </RelatedLemma>
+      </RelatedLemmas>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="002185001001000" IsBiblicalTerm="M" EntryCode="33.178" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Communication</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Pray</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-07-14 10:02:39" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>to speak to or to make requests of God{N:001}</DefinitionShort>
+              <Glosses>
+                <Gloss>to pray</Gloss>
+                <Gloss>to speak to God</Gloss>
+                <Gloss>to ask God for</Gloss>
+                <Gloss>prayer</Gloss>
+              </Glosses>
+              <Comments>In some languages there are a number of different terms used for prayer depending upon the nature of the content, for example, requests for material blessing, pleas for spiritual help, intercession for others, thanksgiving, and praise. There may also be important distinctions on the basis of urgency and need. The most generic expression for prayer may simply be ‘to speak to God.’ It is normally best to avoid an expression which means primarily ‘to recite.’</Comments>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04402602900008</LEXReference>
+            <LEXReference>04701300700002</LEXReference>
+            <LEXReference>04701300900024</LEXReference>
+            <LEXReference>05900501600014</LEXReference>
+            <LEXReference>06400100200008</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+        <LEXMeaning Id="002185001002000" IsBiblicalTerm="Y" EntryCode="25.6" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Attitudes and Emotions</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Desire, Want, Wish</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-07-14 10:02:39" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>to desire something, with the implication of a pious wish</DefinitionShort>
+              <Glosses>
+                <Gloss>to desire</Gloss>
+                <Gloss>to wish</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04402602900008</LEXReference>
+            <LEXReference>04402702900028</LEXReference>
+            <LEXReference>04500900300002{N:002}</LEXReference>
+            <LEXReference>06400100200008</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

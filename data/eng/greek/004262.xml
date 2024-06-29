@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="004262000000000" Lemma="προσμένω" Version="0" HasAramaic="false" InLXX="true" AlphaPos="π">
+  <StrongCodes>
+    <Strong>G4357</Strong>
+  </StrongCodes>
+  <Authors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes/>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="004262001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>verb</PartOfSpeech>
+      </PartsOfSpeech>
+      <Inflections>
+        <Inflection Lemma="προσμένω" BaseFormIndex="1">
+          <Form>aor.inf.</Form>
+          <Realizations>
+            <Realization>προσμεῖναι</Realization>
+          </Realizations>
+          <Comments/>
+        </Inflection>
+      </Inflections>
+      <RelatedLemmas>
+        <RelatedLemma>
+          <Word>μένω</Word>
+        </RelatedLemma>
+      </RelatedLemmas>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="004262001001000" IsBiblicalTerm="Y" EntryCode="85.59" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Existence in Space</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Remain, Stay</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2022-02-04 15:24:14" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>to stay or remain in a place beyond some point of time</DefinitionShort>
+              <Glosses>
+                <Gloss>to stay on</Gloss>
+                <Gloss>to remain</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04001503200034</LEXReference>
+            <LEXReference>04100800200018</LEXReference>
+            <LEXReference>04401801800010</LEXReference>
+            <LEXReference>05400100300008</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+        <LEXMeaning Id="004262001002000" IsBiblicalTerm="Y" EntryCode="68.11" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Aspect</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Continue</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2022-02-04 15:24:14" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>to continue in an activity or state</DefinitionShort>
+              <Glosses>
+                <Gloss>to continue</Gloss>
+                <Gloss>to remain in</Gloss>
+                <Gloss>to keep on</Gloss>
+              </Glosses>
+              <Comments>It is possible that προσμένω[b] differs from ἐπιμένω[b] in focusing upon the continuity or extent of time involved.</Comments>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04401102300036</LEXReference>
+            <LEXReference>04401304300046</LEXReference>
+            <LEXReference>05400500500022</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

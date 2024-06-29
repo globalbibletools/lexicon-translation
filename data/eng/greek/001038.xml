@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="001038000000000" Lemma="βρύχω" Version="0" HasAramaic="false" InLXX="true" AlphaPos="β">
+  <StrongCodes>
+    <Strong>G1031</Strong>
+  </StrongCodes>
+  <Authors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes>
+    <Note Caller="1" LanguageCode="en" LastEdited="" LastEditedBy="">
+      <References>
+        <Reference>04400705400018</Reference>
+      </References>
+      <Content>It is possible to interpret the phrase βρύχω τοὺς ὀδόντας as being simply an idiom meaning ‘to show anger against,’ but the context suggests that the persons actually did grind their teeth as a symbol of their anger. See also {D:88.184}.</Content>
+    </Note>
+  </Notes>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="001038001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>verb</PartOfSpeech>
+      </PartsOfSpeech>
+      <RelatedLemmas>
+        <RelatedLemma>
+          <Word>βρυγμός</Word>
+        </RelatedLemma>
+      </RelatedLemmas>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="001038001001000" IsBiblicalTerm="Y" EntryCode="23.41" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Physiological Processes and States</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Processes Involving the Mouth, Other Than Eating and Drinking</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-05-10 21:00:09" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>the grinding or the gnashing of the teeth, whether involuntary as in the case of certain illnesses, or as an expression of an emotion such as anger or of pain and suffering</DefinitionShort>
+              <Glosses>
+                <Gloss>to grind the teeth</Gloss>
+                <Gloss>to gnash the teeth</Gloss>
+                <Gloss>gnashing of teeth</Gloss>
+              </Glosses>
+              <Comments>In translating ‘they ground their teeth at him’ ({S:04400705400018}) it may be necessary to indicate the type of emotion which is involved in such an action, for example, ‘in anger they ground their teeth at him’ or ‘they showed their anger by grinding their teeth.’ It is essential to avoid an expression such as ‘to grit the teeth,’ which in English is a symbol of determination, not of anger.</Comments>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04400705400018{N:001}</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+        <LEXMeaning Id="001038001002000" IsBiblicalTerm="Y" EntryCode="88.184" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Moral and Ethical Qualities and Related Behavior</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Anger, Be Indignant With</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXCollocations>
+            <LEXCollocation>βρύχω τοὺς ὀδόντας</LEXCollocation>
+          </LEXCollocations>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-05-10 21:00:09" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>(an idiom, literally: to grind one’s teeth) to express and manifest intense anger</DefinitionShort>
+              <Glosses>
+                <Gloss>to be furious</Gloss>
+              </Glosses>
+              <Comments>As noted in {D:23.41}, it is possible to understand the expression βρύχω τοὺς ὀδόντας in both a literal as well as a figurative sense. The persons may very well have ‘ground their teeth’ as a sign of their anger and fury, so that a statement about what such persons did could be true in a literal as well as in a figurative sense.</Comments>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04400705400018</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

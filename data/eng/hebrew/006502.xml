@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="006502000000000" Lemma="קֵן" Version="5" HasAramaic="false" InLXX="false" AlphaPos="ק">
+  <StrongCodes>
+    <Strong>H7064</Strong>
+  </StrongCodes>
+  <Authors>
+    <Author>Graham S. Ogden</Author>
+  </Authors>
+  <Contributors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes>
+    <Note Caller="1" LanguageCode="en" LastEdited="" LastEditedBy="">
+      <References>
+        <Reference>01802901800008</Reference>
+      </References>
+      <Content>MT HOTTP-B RSV NIV NJPS NRSV GNT CEV | NJB REB {L:קֶרֶן&lt;SDBH:קֶרֶן&gt;} "horn", "strength"</Content>
+    </Note>
+    <Note Caller="2" LanguageCode="en" LastEdited="" LastEditedBy="">
+      <References>
+        <Reference>00100601400012</Reference>
+      </References>
+      <Content>MT RSV NIV NJPS NRSV GNT CEV | NJB REB {L:קָנֶה &lt;SDBH:קָנֶה &gt;}"reeds" | HOTTP-B קִנִּים קִנִּים "series of compartments"</Content>
+    </Note>
+  </Notes>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="006502001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>nsm</PartOfSpeech>
+      </PartsOfSpeech>
+      <RelatedLemmas>
+        <RelatedLemma>
+          <Word>קנן</Word>
+        </RelatedLemma>
+      </RelatedLemmas>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="006502001001000" IsBiblicalTerm="Y" EntryCode="" Indent="0">
+          <LEXDomains>
+            <LEXDomain Code="001005001">Constructions</LEXDomain>
+          </LEXDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2007-02-20 09:35:44" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>= structure, made by birds ◄ from twigs, straw, grass, or other materials, ► to lay their eggs and shelter their young; ≈ associated with security</DefinitionShort>
+              <Glosses>
+                <Gloss>nest</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>00402402100036</LEXReference>
+            <LEXReference>00502200600006</LEXReference>
+            <LEXReference>01802901800008</LEXReference>
+            <LEXReference>01803902700018</LEXReference>
+            <LEXReference>01908400400014</LEXReference>
+            <LEXReference>02002700800010</LEXReference>
+            <LEXReference>02301001400010</LEXReference>
+            <LEXReference>02404901600038</LEXReference>
+            <LEXReference>03100100400022</LEXReference>
+            <LEXReference>03500200900024</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+          <LEXCoreDomains>
+            <LEXCoreDomain Code="010">Animal</LEXCoreDomain>
+          </LEXCoreDomains>
+        </LEXMeaning>
+        <LEXMeaning Id="006502001002000" IsBiblicalTerm="Y" EntryCode="" Indent="0">
+          <LEXDomains>
+            <LEXDomain Code="001001002001005" Source="Constructions" SourceCode="001005001">Birds</LEXDomain>
+          </LEXDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2007-02-20 09:35:44" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>extension of mening of [a]: = group of young birds that are not yet or hardly mature enough to leave the security of their nest; ≈ associated with being vulnerable, in need of protection</DefinitionShort>
+              <Glosses>
+                <Gloss>nestling</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>00503201100008</LEXReference>
+            <LEXReference>02301600200012</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+          <LEXCoreDomains>
+            <LEXCoreDomain Code="010">Animal</LEXCoreDomain>
+          </LEXCoreDomains>
+        </LEXMeaning>
+        <LEXMeaning Id="006502001003000" IsBiblicalTerm="Y" EntryCode="" Indent="0">
+          <LEXDomains>
+            <LEXDomain Code="001005001">Constructions</LEXDomain>
+          </LEXDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2007-02-20 09:35:44" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>= division within a space forming a separate room</DefinitionShort>
+              <Glosses>
+                <Gloss>room</Gloss>
+                <Gloss>compartment</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>00100601400012{N:002}</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+          <LEXCoreDomains>
+            <LEXCoreDomain Code="045">Construction</LEXCoreDomain>
+          </LEXCoreDomains>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

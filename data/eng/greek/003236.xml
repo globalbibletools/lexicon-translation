@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="003236000000000" Lemma="μεσότοιχον" Version="0" HasAramaic="false" InLXX="false" AlphaPos="μ">
+  <StrongCodes>
+    <Strong>G3320</Strong>
+  </StrongCodes>
+  <Authors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes/>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="003236001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>noun, n.</PartOfSpeech>
+      </PartsOfSpeech>
+      <Inflections>
+        <Inflection Lemma="μεσότοιχον" BaseFormIndex="1">
+          <Form/>
+          <Realizations>
+            <Realization>-ου</Realization>
+          </Realizations>
+          <Comments/>
+        </Inflection>
+      </Inflections>
+      <Constructs>
+        <Construct Lemma="μεσότοιχον" BaseFormIndex="1">
+          <WordMeaningSet>
+            <Word>μεσόω</Word>
+          </WordMeaningSet>
+          <WordMeaningSet>
+            <Word>τοῖχος</Word>
+          </WordMeaningSet>
+        </Construct>
+      </Constructs>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="003236001001000" IsBiblicalTerm="M" EntryCode="7.62" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Constructions</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Walls and Fences</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-11-30 10:56:58" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>a wall or fence which separates one area from another</DefinitionShort>
+              <Glosses>
+                <Gloss>dividing wall</Gloss>
+              </Glosses>
+              <Comments>In the NT μεσότοιχον is used figuratively in reference to the partition in the Temple in Jerusalem, which set off the court of the Gentiles from the rest of the Temple area.|Such a ‘dividing wall’ may be rendered as ‘barrier’ or ‘fence which separates.’</Comments>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04900201400028</LEXReference>
+          </LEXReferences>
+          <LEXLinks>
+            <LEXLink>realia:3.6</LEXLink>
+          </LEXLinks>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

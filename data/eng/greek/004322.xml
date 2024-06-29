@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="004322000000000" Lemma="πτέρυξ" Version="0" HasAramaic="false" InLXX="true" AlphaPos="π">
+  <StrongCodes>
+    <Strong>G4420</Strong>
+  </StrongCodes>
+  <Authors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes/>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="004322001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>noun, f.</PartOfSpeech>
+      </PartsOfSpeech>
+      <Inflections>
+        <Inflection Lemma="πτέρυξ" BaseFormIndex="1">
+          <Form/>
+          <Realizations>
+            <Realization>-υγος</Realization>
+          </Realizations>
+          <Comments/>
+        </Inflection>
+      </Inflections>
+      <RelatedLemmas>
+        <RelatedLemma>
+          <Word>πτερύγιον</Word>
+        </RelatedLemma>
+      </RelatedLemmas>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="004322001001000" IsBiblicalTerm="Y" EntryCode="8.29" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Body, Body Parts, and Body Products</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Parts of the Body</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2022-02-07 13:42:14" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>a wing of any flying creature</DefinitionShort>
+              <Glosses>
+                <Gloss>wing</Gloss>
+              </Glosses>
+              <Comments>In {S:06600900900022}, in which the apocalyptic locusts are mentioned, the expression ἡ φωνὴ τῶν πτερύγων may require a distinct term for ‘wings,’ since the wings of insects may be referred to by terms different from those employed in speaking of the wings of birds.</Comments>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04002303700056</LEXReference>
+            <LEXReference>04201303400054</LEXReference>
+            <LEXReference>06600400800022</LEXReference>
+            <LEXReference>06600900900022</LEXReference>
+            <LEXReference>06601201400014</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

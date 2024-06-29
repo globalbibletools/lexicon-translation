@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="004207000000000" Lemma="προοράω" Version="0" HasAramaic="false" InLXX="true" AlphaPos="π">
+  <StrongCodes>
+    <Strong>G4308</Strong>
+  </StrongCodes>
+  <Authors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes>
+    <Note Caller="1" LanguageCode="en" LastEdited="" LastEditedBy="">
+      <References>
+        <Reference>04400203100002</Reference>
+      </References>
+      <Content>It is possible to understand προοράω in {S:04400203100002} as meaning to learn ahead of time or to become aware of ahead of time or even to understand ahead of time. In {S:04800300800002} προοράω is used with the Scripture as the subject, in which case it would be the personified Scripture as knowing beforehand, but it is also possible to understand προοράω in {S:04800300800002} as meaning to cause something to be known ahead of time.</Content>
+    </Note>
+  </Notes>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="004207001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>verb</PartOfSpeech>
+      </PartsOfSpeech>
+      <Inflections>
+        <Inflection Lemma="προοράω" BaseFormIndex="1">
+          <Form>aor.ptc.</Form>
+          <Realizations>
+            <Realization>προϊδών</Realization>
+          </Realizations>
+          <Comments/>
+        </Inflection>
+      </Inflections>
+      <RelatedLemmas>
+        <RelatedLemma>
+          <Word>ὁράω</Word>
+        </RelatedLemma>
+      </RelatedLemmas>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="004207001001000" IsBiblicalTerm="Y" EntryCode="24.5" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Sensory Events and States</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>See</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2022-12-16 14:47:16" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>to have seen something or someone beforehand or prior to an event in question</DefinitionShort>
+              <Glosses>
+                <Gloss>to see beforehand to have seen previously</Gloss>
+              </Glosses>
+              <Comments>In some languages an adverb such as ‘previously’ must be represented by a clause, for example, ‘before this happened,’ so that one might translate the expression in {S:04402102900006} as ‘for they had seen Trophimus the Ephesian even before this happened.’</Comments>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04400202500012</LEXReference>
+            <LEXReference>04402102900006</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+        <LEXMeaning Id="004207001002000" IsBiblicalTerm="Y" EntryCode="28.6" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Know</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Know</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2022-12-16 14:47:16" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>to know about something prior to some temporal reference point, for example, to know about an event before it happens</DefinitionShort>
+              <Glosses>
+                <Gloss>to know beforehand</Gloss>
+                <Gloss>to know already</Gloss>
+                <Gloss>to have foreknowledge</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04400203100002{N:001}</LEXReference>
+            <LEXReference>04800300800002</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="000392000000000" Lemma="ἀναστρέφω" Version="0" HasAramaic="false" InLXX="true" AlphaPos="α">
+  <StrongCodes>
+    <Strong>G0390</Strong>
+  </StrongCodes>
+  <Authors/>
+  <AlternateLemmas>
+    <AlternateLemma>ἀναστρέφομαι</AlternateLemma>
+  </AlternateLemmas>
+  <MainLinks/>
+  <Notes>
+    <Note Caller="1" LanguageCode="en" LastEdited="" LastEditedBy="">
+      <References/>
+      <Content>No doubt there are subtle distinctions in meaning between διάγω, ἀγωγή, ἀναστρέφομαι, and ἀναστροφή, but it is difficult or impossible to determine this from existing contexts.</Content>
+    </Note>
+  </Notes>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="000392001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>verb</PartOfSpeech>
+      </PartsOfSpeech>
+      <Inflections>
+        <Inflection Lemma="ἀναστρέφω" BaseFormIndex="1">
+          <Form>aor.pass.</Form>
+          <Realizations>
+            <Realization>ἀνεστράφην</Realization>
+          </Realizations>
+          <Comments/>
+        </Inflection>
+      </Inflections>
+      <RelatedLemmas>
+        <RelatedLemma>
+          <Word>στρέφω</Word>
+        </RelatedLemma>
+      </RelatedLemmas>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="000392001001000" IsBiblicalTerm="Y" EntryCode="15.89" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Linear Movement</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Return</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-08-05 15:19:02" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>to move back to a point or area from which one has previously departed, but with more explicit emphasis upon the return (compare {L:ὑποστρέφω&lt;SDBG:ὑποστρέφω:000000&gt;}[a], {D:15.88})</DefinitionShort>
+              <Glosses>
+                <Gloss>to move back</Gloss>
+                <Gloss>to return</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04400502200022</LEXReference>
+            <LEXReference>04401501600006</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+        <LEXMeaning Id="000392001002000" IsBiblicalTerm="M" EntryCode="41.3" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Behavior and Related States</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Behavior, Conduct</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXCollocations>
+            <LEXCollocation>ἀναστρέφομαι</LEXCollocation>
+          </LEXCollocations>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-08-05 15:19:02" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>to conduct oneself, with apparent focus upon overt daily behavior{N:001}</DefinitionShort>
+              <Glosses>
+                <Gloss>to live</Gloss>
+                <Gloss>to conduct oneself</Gloss>
+                <Gloss>to behave</Gloss>
+                <Gloss>behavior</Gloss>
+                <Gloss>conduct</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04700101200056</LEXReference>
+            <LEXReference>04900200300012</LEXReference>
+            <LEXReference>05400301500022</LEXReference>
+            <LEXReference>05801003300026</LEXReference>
+            <LEXReference>05801301800028</LEXReference>
+            <LEXReference>06000101700038</LEXReference>
+            <LEXReference>06100201800032</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

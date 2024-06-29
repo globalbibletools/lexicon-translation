@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="000404000000000" Lemma="ἀναχωρέω" Version="0" HasAramaic="false" InLXX="true" AlphaPos="α">
+  <StrongCodes>
+    <Strong>G0402</Strong>
+  </StrongCodes>
+  <Authors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes>
+    <Note Caller="1" LanguageCode="en" LastEdited="" LastEditedBy="">
+      <References>
+        <Reference>04000201200024</Reference>
+      </References>
+      <Content>It is possible that ἀναχωρέω in {S:04000201200024} means only ‘to depart,’ ‘to withdraw,’ and is thus equivalent to ἀναχωρέω[a] ({D:15.53}), but it is also possible that ἀναχωρέω[b] differs from the other verbs in this series ({D:15.89}) by focusing attention upon the distance involved.</Content>
+    </Note>
+  </Notes>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="000404001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>verb</PartOfSpeech>
+      </PartsOfSpeech>
+      <RelatedLemmas>
+        <RelatedLemma>
+          <Word>χωρέω</Word>
+        </RelatedLemma>
+      </RelatedLemmas>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="000404001001000" IsBiblicalTerm="Y" EntryCode="15.53" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Linear Movement</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Leave, Depart, Flee, Escape, Send</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-08-05 15:49:04" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>to move away from a location, implying a considerable distance</DefinitionShort>
+              <Glosses>
+                <Gloss>to withdraw</Gloss>
+                <Gloss>to retire</Gloss>
+                <Gloss>to go off</Gloss>
+                <Gloss>to go away</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04000201400026</LEXReference>
+            <LEXReference>04000202200040</LEXReference>
+            <LEXReference>04000902400004</LEXReference>
+            <LEXReference>04001201500010</LEXReference>
+            <LEXReference>04001401300010</LEXReference>
+            <LEXReference>04001502100012</LEXReference>
+            <LEXReference>04002700500016</LEXReference>
+            <LEXReference>04100300700016</LEXReference>
+            <LEXReference>04300601500026</LEXReference>
+            <LEXReference>04402301900018</LEXReference>
+            <LEXReference>04402603100004</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+        <LEXMeaning Id="000404001002000" IsBiblicalTerm="Y" EntryCode="15.89" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Linear Movement</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Return</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-08-05 15:49:04" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>to move back to a point or area from which one has previously departed, but with more explicit emphasis upon the return (compare {L:ὑποστρέφω&lt;SDBG:ὑποστρέφω:000000&gt;}[a], {D:15.88})</DefinitionShort>
+              <Glosses>
+                <Gloss>to move back</Gloss>
+                <Gloss>to return</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04000201200024{N:001}</LEXReference>
+            <LEXReference>04000201300002</LEXReference>
+            <LEXReference>04000401200012</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

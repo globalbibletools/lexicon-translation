@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="000059000000000" Lemma="אָבֵל בֵּית מַעֲכָה" Version="5" HasAramaic="false" InLXX="false" AlphaPos="א">
+  <StrongCodes>
+    <Strong>H0062</Strong>
+    <Strong>H1038</Strong>
+  </StrongCodes>
+  <Authors>
+    <Author>Reinier de Blois</Author>
+  </Authors>
+  <Contributors/>
+  <AlternateLemmas>
+    <AlternateLemma>אָבֵל בֵּית־מַעֲכָה</AlternateLemma>
+    <AlternateLemma>אָבֵל בֵּית הַמַעֲכָה</AlternateLemma>
+  </AlternateLemmas>
+  <MainLinks/>
+  <Notes/>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="000059001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>np</PartOfSpeech>
+      </PartsOfSpeech>
+      <RelatedLemmas>
+        <RelatedLemma>
+          <Word>אָבֵל</Word>
+        </RelatedLemma>
+        <RelatedLemma>
+          <Word>בַּיִת</Word>
+        </RelatedLemma>
+      </RelatedLemmas>
+      <RelatedNames>
+        <RelatedName>
+          <Word>מַעֲכָה</Word>
+        </RelatedName>
+      </RelatedNames>
+      <MeaningsOfName>
+        <MeaningOfName LanguageCode="en">
+          <Meaning>area of house of Maacah</Meaning>
+        </MeaningOfName>
+        <MeaningOfName LanguageCode="pt">
+          <Meaning>riacho da casa de Maacá</Meaning>
+        </MeaningOfName>
+      </MeaningsOfName>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="000059001001000" IsBiblicalTerm="Y" EntryCode="" Indent="0">
+          <LEXDomains>
+            <LEXDomain Code="003001010">Names of Locations</LEXDomain>
+          </LEXDomains>
+          <LEXSynonyms>
+            <LEXSynonym>אָבֵל</LEXSynonym>
+            <LEXSynonym>אָבֵל מַיִם</LEXSynonym>
+          </LEXSynonyms>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2017-01-04 10:55:08" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>= town, also known as {L:Abel-Maim&lt;SDBH:אָבֵל מָיִם&gt;} and {L:Abel&lt;SDBH:אָבֵל&gt;}; ◄ territory of {L:Naphtali&lt;SDBH:נַפְתָּלִי&gt;}</DefinitionShort>
+              <Glosses>
+                <Gloss>Abel-Beth-Maacah</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>01002001400018</LEXReference>
+            <LEXReference>01002001500016</LEXReference>
+            <LEXReference>01101502000056</LEXReference>
+            <LEXReference>01201502900032</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

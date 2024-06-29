@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="004497000000000" Lemma="σής" Version="0" HasAramaic="false" InLXX="true" AlphaPos="σ">
+  <StrongCodes>
+    <Strong>G4597</Strong>
+  </StrongCodes>
+  <Authors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes/>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="004497001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>noun, m.</PartOfSpeech>
+      </PartsOfSpeech>
+      <Inflections>
+        <Inflection Lemma="σής" BaseFormIndex="1">
+          <Form/>
+          <Realizations>
+            <Realization>σητός</Realization>
+          </Realizations>
+          <Comments/>
+        </Inflection>
+      </Inflections>
+      <RelatedLemmas>
+        <RelatedLemma>
+          <Word>σητόβρωτος</Word>
+        </RelatedLemma>
+      </RelatedLemmas>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="004497001001000" IsBiblicalTerm="M" EntryCode="4.49" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Animals</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Insects</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2022-02-09 20:30:55" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>smallish brown or gray moth that lays eggs in clothing or other cloth; eggs hatch into very small caterpillars, which feed on the fibers; Tineidae family, probably Tineola biselliella; symbols of decay, ruin, and slow destruction</DefinitionShort>
+              <Glosses>
+                <Gloss>moth</Gloss>
+              </Glosses>
+              <Comments>In the NT the Greek term σής is used only in reference to the larvae of moths, and therefore it is frequently necessary to employ a term in the receptor language for the larvae rather than for the flying insect. This means that frequently an appropriate equivalent is ‘the worms of moths,’ but often one can employ an expression which means simply ‘cloth worms’ or ‘cloth eaters.’|In {S:04000601900018 04000602000018 04201203300046} the effect of the larvae of moths is combined with rust as agents for the destruction of valuable objects. It is rare, however, that one can speak of the destruction caused by moths in the same way as one can describe the effects of rust or tarnish. It may therefore be necessary to talk about ‘moths eating cloth,’ while ‘tarnish ruins precious metal.’</Comments>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04000601900018</LEXReference>
+            <LEXReference>04000602000018</LEXReference>
+            <LEXReference>04201203300046</LEXReference>
+          </LEXReferences>
+          <LEXLinks>
+            <LEXLink>fauna:6.10</LEXLink>
+          </LEXLinks>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

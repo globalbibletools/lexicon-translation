@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="001265000000000" Lemma="διακόσιοι" Version="0" HasAramaic="false" InLXX="true" AlphaPos="δ">
+  <StrongCodes>
+    <Strong>G1250</Strong>
+  </StrongCodes>
+  <Authors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes/>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="001265001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>adjc.</PartOfSpeech>
+      </PartsOfSpeech>
+      <Inflections>
+        <Inflection Lemma="διακόσιοι" BaseFormIndex="1">
+          <Form/>
+          <Realizations>
+            <Realization>-αι, -α</Realization>
+          </Realizations>
+          <Comments/>
+        </Inflection>
+      </Inflections>
+      <Constructs>
+        <Construct Lemma="διακόσιοι" BaseFormIndex="1">
+          <WordMeaningSet>
+            <Word>δύο</Word>
+          </WordMeaningSet>
+          <WordMeaningSet>
+            <Word>ἑκατόν</Word>
+          </WordMeaningSet>
+        </Construct>
+      </Constructs>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="001265001001000" IsBiblicalTerm="Y" EntryCode="60.34" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Number</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>One, Two, Three, Etc. [Cardinals]</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-10-12 16:17:46" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>cardinal number, where there are two hundred instances of a countable entity</DefinitionShort>
+              <Glosses>
+                <Gloss>two hundred</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04100603700032</LEXReference>
+            <LEXReference>04300600700010</LEXReference>
+            <LEXReference>04302100800038</LEXReference>
+            <LEXReference>04402302300020</LEXReference>
+            <LEXReference>04402302300040</LEXReference>
+            <LEXReference>04402703700018</LEXReference>
+            <LEXReference>06601100300022</LEXReference>
+            <LEXReference>06601200600044</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

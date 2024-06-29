@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="005457000000000" Lemma="ψευδολόγος" Version="0" HasAramaic="false" InLXX="false" AlphaPos="ψ">
+  <StrongCodes>
+    <Strong>G5573</Strong>
+  </StrongCodes>
+  <Authors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes/>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="005457001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>adjc.</PartOfSpeech>
+      </PartsOfSpeech>
+      <Inflections>
+        <Inflection Lemma="ψευδολόγος" BaseFormIndex="1">
+          <Form/>
+          <Realizations>
+            <Realization>-ου</Realization>
+          </Realizations>
+          <Comments/>
+        </Inflection>
+      </Inflections>
+      <Constructs>
+        <Construct Lemma="ψευδολόγος" BaseFormIndex="1">
+          <WordMeaningSet>
+            <Word>ψεύδομαι</Word>
+          </WordMeaningSet>
+          <WordMeaningSet>
+            <Word>λέγω</Word>
+          </WordMeaningSet>
+        </Construct>
+      </Constructs>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="005457001001000" IsBiblicalTerm="M" EntryCode="33.255" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Communication</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Speak Truth, Speak Falsehood</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2022-06-04 20:35:08" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>one who utters falsehoods and lies</DefinitionShort>
+              <Glosses>
+                <Gloss>liar</Gloss>
+              </Glosses>
+              <Comments>Since lying is a universal, there is usually no difficulty in obtaining a satisfactory term for ‘liar,’ though frequently the equivalent is an idiomatic expression, for example, ‘to speak too much,’ ‘to speak with two tongues,’ or ‘to speak what is not one’s thoughts.’</Comments>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>05400400200006</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="004640000000000" Lemma="στήκω" Version="0" HasAramaic="false" InLXX="true" AlphaPos="σ">
+  <StrongCodes>
+    <Strong>G4739</Strong>
+  </StrongCodes>
+  <Authors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes>
+    <Note Caller="1" LanguageCode="en" LastEdited="" LastEditedBy="">
+      <References/>
+      <Content>ἵσταμαι[a] and στήκω[a] would seem to differ only in terms of linguistic level or register, since στήκω was a new formation and probably somewhat more colloquial.</Content>
+    </Note>
+  </Notes>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="004640001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>verb</PartOfSpeech>
+      </PartsOfSpeech>
+      <RelatedLemmas>
+        <RelatedLemma>
+          <Word>ἵστημι</Word>
+        </RelatedLemma>
+      </RelatedLemmas>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="004640001001000" IsBiblicalTerm="Y" EntryCode="17.1" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Stances and Events Related to Stances</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Stand</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2022-02-18 12:23:22" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>to be in a standing position{N:001}</DefinitionShort>
+              <Glosses>
+                <Gloss>to stand</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04100303100024</LEXReference>
+            <LEXReference>04101102500006</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+        <LEXMeaning Id="004640001002000" IsBiblicalTerm="Y" EntryCode="13.30" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Be, Become, Exist, Happen</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>State</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2022-02-18 12:23:22" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>to continue in a state, with a possible implication of acceptability</DefinitionShort>
+              <Glosses>
+                <Gloss>to continue to be</Gloss>
+                <Gloss>to stand</Gloss>
+              </Glosses>
+              <Comments>For a discussion of στήκω as part of an idiom in {S:04501400400022}, see {D:87.56}.</Comments>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04501400400022</LEXReference>
+            <LEXReference>04601601300004</LEXReference>
+            <LEXReference>04800500100012</LEXReference>
+            <LEXReference>05000102700042</LEXReference>
+            <LEXReference>05000400100024</LEXReference>
+            <LEXReference>05200300800012</LEXReference>
+            <LEXReference>05300201500008</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+        <LEXMeaning Id="004640001003000" IsBiblicalTerm="Y" EntryCode="87.56" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Status</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>High Status or Rank [including persons of high status]</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXCollocations>
+            <LEXCollocation>τῷ ἰδίῳ κυρίῳ στήκει ἢ πίπτει</LEXCollocation>
+          </LEXCollocations>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2022-02-18 12:23:22" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>(an idiom, literally: to his own master he stands or falls, probably a familiar adage) whether one maintains one’s status or relationship to a master depends on the masters judgment or evaluation</DefinitionShort>
+              <Glosses>
+                <Gloss>honor or disgrace depends on the person whom one serves</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04501400400022</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

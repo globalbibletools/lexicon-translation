@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="001822000000000" Lemma="ἐξαιρέω" Version="0" HasAramaic="false" InLXX="true" AlphaPos="ε">
+  <StrongCodes>
+    <Strong>G1807</Strong>
+  </StrongCodes>
+  <Authors/>
+  <AlternateLemmas>
+    <AlternateLemma>ἐξαιρέομαι</AlternateLemma>
+  </AlternateLemmas>
+  <MainLinks/>
+  <Notes/>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="001822001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>verb</PartOfSpeech>
+      </PartsOfSpeech>
+      <Inflections>
+        <Inflection Lemma="ἐξαιρέω" BaseFormIndex="1">
+          <Form>aor.</Form>
+          <Realizations>
+            <Realization>ἐξεῖλον</Realization>
+          </Realizations>
+          <Comments/>
+        </Inflection>
+        <Inflection Lemma="ἐξαιρέω" BaseFormIndex="1">
+          <Form>impv.</Form>
+          <Realizations>
+            <Realization>ἔξελε</Realization>
+          </Realizations>
+          <Comments/>
+        </Inflection>
+        <Inflection Lemma="ἐξαιρέω" BaseFormIndex="1">
+          <Form>aor.midd.</Form>
+          <Realizations>
+            <Realization>ἐξειλάμην</Realization>
+          </Realizations>
+          <Comments/>
+        </Inflection>
+        <Inflection Lemma="ἐξαιρέω" BaseFormIndex="1">
+          <Form>inf.</Form>
+          <Realizations>
+            <Realization>ἐξελέσθαι</Realization>
+          </Realizations>
+          <Comments/>
+        </Inflection>
+      </Inflections>
+      <RelatedLemmas>
+        <RelatedLemma>
+          <Word>αἱρέομαι</Word>
+        </RelatedLemma>
+      </RelatedLemmas>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="001822001001000" IsBiblicalTerm="Y" EntryCode="85.43" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Existence in Space</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Put, Place</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-06-04 09:51:39" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>to take something out of its place</DefinitionShort>
+              <Glosses>
+                <Gloss>to take out</Gloss>
+                <Gloss>to remove</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04000502900020</LEXReference>
+            <LEXReference>04001800900016</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+        <LEXMeaning Id="001822001002000" IsBiblicalTerm="M" EntryCode="21.17" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Danger, Risk, Safe, Save</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Cause To Be Safe, Free from Danger</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXForms>
+            <LEXForm>ἐξαιρέομαι[a]</LEXForm>
+          </LEXForms>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-06-04 09:51:39" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>to rescue or set someone free from danger</DefinitionShort>
+              <Glosses>
+                <Gloss>to set free</Gloss>
+                <Gloss>to rescue</Gloss>
+                <Gloss>to deliver</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04400701000004</LEXReference>
+            <LEXReference>04400703400036</LEXReference>
+            <LEXReference>04401201100038</LEXReference>
+            <LEXReference>04402302700034</LEXReference>
+            <LEXReference>04402601700002</LEXReference>
+            <LEXReference>04800100400018</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+        <LEXMeaning Id="001822001003000" IsBiblicalTerm="Y" EntryCode="30.90" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Think</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>To Choose, To Select, To Prefer</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXForms>
+            <LEXForm>ἐξαιρέομαι[b]</LEXForm>
+          </LEXForms>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-06-04 09:51:39" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>to choose out from among</DefinitionShort>
+              <Glosses>
+                <Gloss>to choose</Gloss>
+              </Glosses>
+              <Comments>It is also possible to interpret ἐξαιρέομαι in {S:04402601700002} as meaning ‘to rescue from’ (see {D:21.17}).</Comments>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04402601700002</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

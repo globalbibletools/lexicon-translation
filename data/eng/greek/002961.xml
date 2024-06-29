@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="002961000000000" Lemma="κυκλόω" Version="0" HasAramaic="false" InLXX="true" AlphaPos="κ">
+  <StrongCodes>
+    <Strong>G2944</Strong>
+  </StrongCodes>
+  <Authors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes>
+    <Note Caller="1" LanguageCode="en" LastEdited="" LastEditedBy="">
+      <References/>
+      <Content>It is possible that περικυκλόω is somewhat more emphatic than κυκλόω[b] and κυκλεύω in emphasizing the fact of being surrounded.</Content>
+    </Note>
+  </Notes>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="002961001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>verb</PartOfSpeech>
+      </PartsOfSpeech>
+      <RelatedLemmas>
+        <RelatedLemma>
+          <Word>κυκλεύω</Word>
+        </RelatedLemma>
+        <RelatedLemma>
+          <Word>κυκλόθεν</Word>
+        </RelatedLemma>
+        <RelatedLemma>
+          <Word>κύκλῳ</Word>
+        </RelatedLemma>
+        <RelatedLemma>
+          <Word>περικυκλόω</Word>
+        </RelatedLemma>
+      </RelatedLemmas>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="002961001001000" IsBiblicalTerm="Y" EntryCode="15.146" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Linear Movement</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Go Around, Surround</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-10-28 12:16:47" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>to move around an object</DefinitionShort>
+              <Glosses>
+                <Gloss>to go around</Gloss>
+              </Glosses>
+              <Comments>A strictly literal translation of the Greek text of {S:05801103000012} may be extremely difficult, since it is usually necessary to employ an active form involving movement so as to specify what entities go around. Therefore, it may be preferable to translate ‘the walls of Jericho fell after the Israelites had gone around them for seven days.’</Comments>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>05801103000012</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+        <LEXMeaning Id="002961001002000" IsBiblicalTerm="Y" EntryCode="15.147" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Linear Movement</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Go Around, Surround</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-10-28 12:16:47" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>to move in such a way as to encircle an object{N:001}</DefinitionShort>
+              <Glosses>
+                <Gloss>to surround</Gloss>
+                <Gloss>to be around</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04202102000008</LEXReference>
+            <LEXReference>04301002400002</LEXReference>
+            <LEXReference>04401402000002</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

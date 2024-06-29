@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="001699000000000" Lemma="ἐμβαίνω" Version="0" HasAramaic="false" InLXX="true" AlphaPos="ε">
+  <StrongCodes>
+    <Strong>G1684</Strong>
+  </StrongCodes>
+  <Authors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes/>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="001699001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>verb</PartOfSpeech>
+      </PartsOfSpeech>
+      <Inflections>
+        <Inflection Lemma="ἐμβαίνω" BaseFormIndex="1">
+          <Form>aor.</Form>
+          <Realizations>
+            <Realization>ἐνέβην</Realization>
+          </Realizations>
+          <Comments/>
+        </Inflection>
+        <Inflection Lemma="ἐμβαίνω" BaseFormIndex="1">
+          <Form>ptc.</Form>
+          <Realizations>
+            <Realization>ἐμβάς</Realization>
+          </Realizations>
+          <Comments/>
+        </Inflection>
+        <Inflection Lemma="ἐμβαίνω" BaseFormIndex="1">
+          <Form>inf.</Form>
+          <Realizations>
+            <Realization>ἐμβῆναι</Realization>
+          </Realizations>
+          <Comments/>
+        </Inflection>
+      </Inflections>
+      <RelatedLemmas>
+        <RelatedLemma>
+          <Word>βαίνω</Word>
+          <Meaning LanguageCode="en">
+            <Meaning>go, walk</Meaning>
+          </Meaning>
+          <Meaning LanguageCode="zhT">
+            <Meaning>走，走路</Meaning>
+          </Meaning>
+        </RelatedLemma>
+      </RelatedLemmas>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="001699001001000" IsBiblicalTerm="Y" EntryCode="15.95" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Linear Movement</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Come/Go Into</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-05-20 10:15:45" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>to go into or onto, as in the case of a boat</DefinitionShort>
+              <Glosses>
+                <Gloss>to embark</Gloss>
+                <Gloss>to get into a boat</Gloss>
+              </Glosses>
+              <Comments>In certain contexts ἐμβαίνω[a] occurs without a specific indication of a ship or boat in the immediate context, for example, πάλιν ἐμβὰς ἀπῆλθεν εἰς τὸ πέραν ‘again embarking, he left for the other side’ {S:04100801300010}.|In a number of languages it is necessary to introduce into the context some specific reference to a boat or ship.</Comments>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04000802300004</LEXReference>
+            <LEXReference>04000900100004</LEXReference>
+            <LEXReference>04001300200022</LEXReference>
+            <LEXReference>04001402200012</LEXReference>
+            <LEXReference>04001503900010</LEXReference>
+            <LEXReference>04100400100036</LEXReference>
+            <LEXReference>04100501800004</LEXReference>
+            <LEXReference>04100604500014</LEXReference>
+            <LEXReference>04100801000006</LEXReference>
+            <LEXReference>04100801300010</LEXReference>
+            <LEXReference>04200500300002</LEXReference>
+            <LEXReference>04200802200018</LEXReference>
+            <LEXReference>04200803700040</LEXReference>
+            <LEXReference>04300601700004</LEXReference>
+            <LEXReference>04300602400030</LEXReference>
+            <LEXReference>04302100300032</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+        <LEXMeaning Id="001699001002000" IsBiblicalTerm="Y" EntryCode="15.225" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Linear Movement</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Walk, Step</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-05-20 10:15:45" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>to step into some area</DefinitionShort>
+              <Glosses>
+                <Gloss>to go into</Gloss>
+                <Gloss>to step into</Gloss>
+              </Glosses>
+              <Comments>This meaning is only found as a variant reading: ὁ οὖν πρῶτος ἐμβὰς μετὰ τὴν ταραχὴν τοῦ ὕδατος ὑγιὴς ἐγίνετο ‘the first one to go into (the pool) after the water was stirred up was healed’ {S:04300500300018} (apparatus).</Comments>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04300500300018</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

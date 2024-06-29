@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="001704000000000" Lemma="ἐμβλέπω" Version="0" HasAramaic="false" InLXX="true" AlphaPos="ε">
+  <StrongCodes>
+    <Strong>G1689</Strong>
+  </StrongCodes>
+  <Authors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes>
+    <Note Caller="1" LanguageCode="en" LastEdited="" LastEditedBy="">
+      <References/>
+      <Content>It is possible that ἐμβλέπω[b] differs somewhat in meaning from βλέπω[d] in focusing the thought processes on some particular object or matter, but it is difficult to determine this on the basis of existing contexts.</Content>
+    </Note>
+    <Note Caller="2" LanguageCode="en" LastEdited="" LastEditedBy="">
+      <References>
+        <Reference>04000602600002</Reference>
+      </References>
+      <Content>It is possible to regard ἐμβλέπω in {S:04000602600002} as involving a combination of seeing (see {D:24.9}) plus intellectual activity.</Content>
+    </Note>
+  </Notes>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="001704001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>verb</PartOfSpeech>
+      </PartsOfSpeech>
+      <RelatedLemmas>
+        <RelatedLemma>
+          <Word>βλέπω</Word>
+        </RelatedLemma>
+      </RelatedLemmas>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="001704001001000" IsBiblicalTerm="Y" EntryCode="24.9" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Sensory Events and States</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>See</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-05-20 10:21:56" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>to direct one’s vision and attention to a particular object</DefinitionShort>
+              <Glosses>
+                <Gloss>to look straight at</Gloss>
+                <Gloss>to look directly at</Gloss>
+              </Glosses>
+              <Comments>In {S:04300103600004} ἐμβλέπω may not differ significantly in meaning from {L:βλέπω&lt;SDBG:βλέπω:000000&gt;} in {S:04300102900006} (see {D:24.7}).</Comments>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04000602600002</LEXReference>
+            <LEXReference>04001902600002</LEXReference>
+            <LEXReference>04100802500030</LEXReference>
+            <LEXReference>04101002100008</LEXReference>
+            <LEXReference>04101002700002</LEXReference>
+            <LEXReference>04101406700012</LEXReference>
+            <LEXReference>04202001700006</LEXReference>
+            <LEXReference>04202206100010</LEXReference>
+            <LEXReference>04300103600004</LEXReference>
+            <LEXReference>04300104200012</LEXReference>
+            <LEXReference>04400101100016</LEXReference>
+            <LEXReference>04402201100008</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+        <LEXMeaning Id="001704001002000" IsBiblicalTerm="Y" EntryCode="30.1" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Think</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>To Think, Thought</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-05-20 10:21:56" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>to process information by giving consideration to various aspects{N:001}</DefinitionShort>
+              <Glosses>
+                <Gloss>to think about</Gloss>
+                <Gloss>to consider</Gloss>
+              </Glosses>
+              <Comments>In a number of languages the concept of thinking is closely related to terms referring to perception. For example, in some languages one may speak of thinking as ‘to see with the heart’ or ‘to look at with the liver.’</Comments>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04000602600002{N:002}</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

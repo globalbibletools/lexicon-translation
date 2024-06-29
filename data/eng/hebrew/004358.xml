@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="004358000000000" Lemma="מְרַאֲשֹׁות" Version="3" HasAramaic="false" InLXX="false" AlphaPos="מ">
+  <StrongCodes>
+    <Strong>H4761</Strong>
+    <Strong>H4763</Strong>
+    <Strong>H7226</Strong>
+  </StrongCodes>
+  <Authors>
+    <Author>Reinier de Blois</Author>
+  </Authors>
+  <Contributors/>
+  <AlternateLemmas>
+    <AlternateLemma>רַאֲשֹׁת</AlternateLemma>
+  </AlternateLemmas>
+  <MainLinks/>
+  <Notes>
+    <Note Caller="1" LanguageCode="en" LastEdited="" LastEditedBy="">
+      <References>
+        <Reference>02401301800026</Reference>
+      </References>
+      <Content>MT HOTTP-C | RSV NRSV NJB ESV "from your head" NIV REB "from your heads" =  {L:מראשׁכם&lt;SDBH:רֹאשׁ&gt;} | NJPS "diadems"</Content>
+    </Note>
+  </Notes>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="004358001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>nsf</PartOfSpeech>
+      </PartsOfSpeech>
+      <RelatedLemmas>
+        <RelatedLemma>
+          <Word>רֹאשׁ</Word>
+        </RelatedLemma>
+      </RelatedLemmas>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="004358001001000" IsBiblicalTerm="" EntryCode="" Indent="0">
+          <LEXDomains>
+            <LEXDomain Code="001004001008">Furnishings</LEXDomain>
+          </LEXDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2020-09-01 12:51:42" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>= the place where one lays the head when sleeping</DefinitionShort>
+              <Glosses>
+                <Gloss>place at the head</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>00102801100042</LEXReference>
+            <LEXReference>00102801800028</LEXReference>
+            <LEXReference>00901901300036</LEXReference>
+            <LEXReference>00901901600032</LEXReference>
+            <LEXReference>00902600700048</LEXReference>
+            <LEXReference>00902600700050</LEXReference>
+            <LEXReference>00902601100038</LEXReference>
+            <LEXReference>00902601100040</LEXReference>
+            <LEXReference>00902601200024</LEXReference>
+            <LEXReference>00902601600072</LEXReference>
+            <LEXReference>00902601600074</LEXReference>
+            <LEXReference>01101900600010</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+        <LEXMeaning Id="004358001002000" IsBiblicalTerm="N" EntryCode="" Indent="0">
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2008-11-01 16:19:49" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>read מֵרֹאשְׁכֶם = {L:רֹאשׁ&lt;SDBH:רֹאשׁ&gt;}</DefinitionShort>
+              <Glosses>
+                <Gloss>head</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>02401301800026{N:001}</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

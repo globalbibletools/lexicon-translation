@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="002617000000000" Lemma="κατάγω" Version="0" HasAramaic="false" InLXX="true" AlphaPos="κ">
+  <StrongCodes>
+    <Strong>G2609</Strong>
+  </StrongCodes>
+  <Authors/>
+  <AlternateLemmas>
+    <AlternateLemma>κατάγομαι</AlternateLemma>
+  </AlternateLemmas>
+  <MainLinks/>
+  <Notes/>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="002617001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>verb</PartOfSpeech>
+      </PartsOfSpeech>
+      <Inflections>
+        <Inflection Lemma="κατάγω" BaseFormIndex="1">
+          <Form>aor.</Form>
+          <Realizations>
+            <Realization>κατήγαγον</Realization>
+          </Realizations>
+          <Comments/>
+        </Inflection>
+        <Inflection Lemma="κατάγω" BaseFormIndex="1">
+          <Form>inf.</Form>
+          <Realizations>
+            <Realization>καταγαγεῖν</Realization>
+          </Realizations>
+          <Comments/>
+        </Inflection>
+        <Inflection Lemma="κατάγω" BaseFormIndex="1">
+          <Form>aor.pass.</Form>
+          <Realizations>
+            <Realization>κατήχθην</Realization>
+          </Realizations>
+          <Comments/>
+        </Inflection>
+        <Inflection Lemma="κατάγω" BaseFormIndex="1">
+          <Form>ptc.</Form>
+          <Realizations>
+            <Realization>καταχθείς</Realization>
+          </Realizations>
+          <Comments/>
+        </Inflection>
+      </Inflections>
+      <RelatedLemmas>
+        <RelatedLemma>
+          <Word>ἄγω</Word>
+        </RelatedLemma>
+      </RelatedLemmas>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="002617001001000" IsBiblicalTerm="Y" EntryCode="15.175" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Linear Movement</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Lead, Bring, Take</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-09-17 11:31:08" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>to lead or to bring down</DefinitionShort>
+              <Glosses>
+                <Gloss>to bring down</Gloss>
+                <Gloss>to lead down</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04400903000010</LEXReference>
+            <LEXReference>04402203000052</LEXReference>
+            <LEXReference>04402301500022</LEXReference>
+            <LEXReference>04402302000028</LEXReference>
+            <LEXReference>04402302800020</LEXReference>
+            <LEXReference>04501000600044</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+        <LEXMeaning Id="002617001002000" IsBiblicalTerm="Y" EntryCode="54.16" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Maritime Activities</LEXDomain>
+          </LEXDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-09-17 11:31:08" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>to cause a boat to put in at a shore or to land</DefinitionShort>
+              <Glosses>
+                <Gloss>to put in at</Gloss>
+                <Gloss>to land</Gloss>
+                <Gloss>to bring to shore</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04200501100004</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+        <LEXMeaning Id="002617001003000" IsBiblicalTerm="Y" EntryCode="54.15" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Maritime Activities</LEXDomain>
+          </LEXDomains>
+          <LEXForms>
+            <LEXForm>κατάγομαι</LEXForm>
+          </LEXForms>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-09-17 11:31:08" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>(technical, nautical terms) to go by ship toward the shore</DefinitionShort>
+              <Glosses>
+                <Gloss>to arrive at land</Gloss>
+                <Gloss>to put in at</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04402700300008</LEXReference>
+            <LEXReference>04402801200004</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

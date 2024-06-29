@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="002516000000000" Lemma="καθάπτω" Version="0" HasAramaic="false" InLXX="false" AlphaPos="κ">
+  <StrongCodes>
+    <Strong>G2510</Strong>
+  </StrongCodes>
+  <Authors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes/>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="002516001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>verb</PartOfSpeech>
+      </PartsOfSpeech>
+      <Inflections>
+        <Inflection Lemma="καθάπτω" BaseFormIndex="1">
+          <Form>aor.</Form>
+          <Realizations>
+            <Realization>καθῆψα</Realization>
+          </Realizations>
+          <Comments/>
+        </Inflection>
+      </Inflections>
+      <RelatedLemmas>
+        <RelatedLemma>
+          <Word>ἅπτω</Word>
+        </RelatedLemma>
+      </RelatedLemmas>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="002516001001000" IsBiblicalTerm="Y" EntryCode="18.7" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Attachment</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Grasp, Hold</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-09-02 09:57:07" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>to seize and fasten onto</DefinitionShort>
+              <Glosses>
+                <Gloss>to seize</Gloss>
+                <Gloss>to fasten onto</Gloss>
+              </Glosses>
+              <Comments>In some languages it may be necessary to translate this expression in {S:04402800300036} as ‘a snake bit his hand and did not let go.’</Comments>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04402800300036</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

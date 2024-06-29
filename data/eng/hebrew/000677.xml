@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="000677000000000" Lemma="אֲרֻחָה" Version="5" HasAramaic="false" InLXX="false" AlphaPos="א">
+  <StrongCodes>
+    <Strong>H0737</Strong>
+  </StrongCodes>
+  <Authors>
+    <Author>Reinier de Blois</Author>
+  </Authors>
+  <Contributors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes>
+    <Note Caller="1" LanguageCode="en" LastEdited="" LastEditedBy="">
+      <References>
+        <Reference>02001501700004</Reference>
+      </References>
+      <Content>{A:RSV} {A:NRSV} "dinner" {A:NIV} {A:NJPS} "meal" {A:NJB} {A:REB} "dish" | in view of the other passages where this word occurs a rendering with "diet" would possible be better</Content>
+    </Note>
+  </Notes>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="000677001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>nsf</PartOfSpeech>
+      </PartsOfSpeech>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="000677001001000" IsBiblicalTerm="Y" EntryCode="" Indent="0">
+          <LEXDomains>
+            <LEXDomain Code="002001001042">Quantity</LEXDomain>
+          </LEXDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2011-01-14 14:26:02" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>= a quantity of food that a person receives to live on for a specific period of time</DefinitionShort>
+              <Glosses>
+                <Gloss>allowance</Gloss>
+                <Gloss>portion</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>01202503000004</LEXReference>
+            <LEXReference>01202503000006</LEXReference>
+            <LEXReference>02001501700004{N:001}</LEXReference>
+            <LEXReference>02404000500084</LEXReference>
+            <LEXReference>02405203400004</LEXReference>
+            <LEXReference>02405203400006</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+          <LEXCoreDomains>
+            <LEXCoreDomain Code="069">Food</LEXCoreDomain>
+          </LEXCoreDomains>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="002128000000000" Lemma="εὐθύνω" Version="0" HasAramaic="false" InLXX="true" AlphaPos="ε">
+  <StrongCodes>
+    <Strong>G2116</Strong>
+  </StrongCodes>
+  <Authors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes/>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="002128001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>verb</PartOfSpeech>
+      </PartsOfSpeech>
+      <RelatedLemmas>
+        <RelatedLemma>
+          <Word>θύνω</Word>
+          <Meaning LanguageCode="en">
+            <Meaning>rush along</Meaning>
+          </Meaning>
+          <Meaning LanguageCode="zhT">
+            <Meaning>快速移動</Meaning>
+          </Meaning>
+        </RelatedLemma>
+        <RelatedLemma>
+          <Word>εὐθύς</Word>
+        </RelatedLemma>
+      </RelatedLemmas>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="002128001001000" IsBiblicalTerm="Y" EntryCode="79.89" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Features of Objects</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Straight, Crooked</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-07-08 09:59:41" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>to make something straight</DefinitionShort>
+              <Glosses>
+                <Gloss>to cause to be straight</Gloss>
+                <Gloss>to make straight</Gloss>
+                <Gloss>to straighten</Gloss>
+              </Glosses>
+              <Comments>In a number of languages a distinction is made between making some object straight and straightening out a road. The first meaning may be equivalent to ‘bending something straight,’ while the latter meaning may be literally ‘to avoid the curves.’</Comments>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04300102300016</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+        <LEXMeaning Id="002128001002000" IsBiblicalTerm="Y" EntryCode="54.21" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Maritime Activities</LEXDomain>
+          </LEXDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-07-08 09:59:41" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>to steer a ship on its course</DefinitionShort>
+              <Glosses>
+                <Gloss>to pilot a ship</Gloss>
+                <Gloss>to steer a course</Gloss>
+              </Glosses>
+              <Comments>In a number of languages the equivalent of ‘piloting a ship’ is ‘to hold the rudder’ or ‘to hold the wheel’ (referring to the wheel which controls the position of the rudder).</Comments>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>05900300400040</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

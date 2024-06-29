@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="002240000000000" Lemma="חִיל" Version="5" HasAramaic="false" InLXX="false" AlphaPos="ח">
+  <StrongCodes>
+    <Strong>H2427a</Strong>
+  </StrongCodes>
+  <Authors>
+    <Author>Reinier de Blois</Author>
+  </Authors>
+  <Contributors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes/>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="002240001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>nsm</PartOfSpeech>
+      </PartsOfSpeech>
+      <RelatedLemmas>
+        <RelatedLemma>
+          <Word>חיל</Word>
+        </RelatedLemma>
+      </RelatedLemmas>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="002240001001000" IsBiblicalTerm="Y" EntryCode="" Indent="0">
+          <LEXDomains>
+            <LEXDomain Code="002001002001" Source="Spasm" SourceCode="002001001056">Afraid</LEXDomain>
+          </LEXDomains>
+          <LEXSynonyms>
+            <LEXSynonym>חֵבֶל</LEXSynonym>
+            <LEXSynonym>צָרָה</LEXSynonym>
+            <LEXSynonym>רגז</LEXSynonym>
+            <LEXSynonym>רְעָדָה</LEXSynonym>
+          </LEXSynonyms>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2016-03-21 08:43:22" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>= state of strong fear and distress, compared to the state of mind of a woman in labor; ► often accompanied by physical side-effects, like writhing and trembling</DefinitionShort>
+              <Glosses>
+                <Gloss>trembling</Gloss>
+                <Gloss>distress</Gloss>
+                <Gloss>anguish</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>00201501400008</LEXReference>
+            <LEXReference>01904800700008</LEXReference>
+            <LEXReference>02400602400016</LEXReference>
+            <LEXReference>02402202300034</LEXReference>
+            <LEXReference>02405004300022</LEXReference>
+            <LEXReference>03300400900028</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+          <LEXCoreDomains>
+            <LEXCoreDomain Code="043" Source="Childbirth" SourceCode="030">Confidence and Fear</LEXCoreDomain>
+            <LEXCoreDomain Code="019">Body</LEXCoreDomain>
+            <LEXCoreDomain Code="196">Well-Being</LEXCoreDomain>
+            <LEXCoreDomain Code="082">Human</LEXCoreDomain>
+          </LEXCoreDomains>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

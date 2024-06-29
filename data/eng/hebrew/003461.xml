@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="003461000000000" Lemma="כשׁף" Version="4" HasAramaic="false" InLXX="false" AlphaPos="כ">
+  <StrongCodes>
+    <Strong>H3784</Strong>
+  </StrongCodes>
+  <Authors>
+    <Author>Reinier de Blois</Author>
+  </Authors>
+  <Contributors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes/>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="003461001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>vb</PartOfSpeech>
+      </PartsOfSpeech>
+      <RelatedLemmas>
+        <RelatedLemma>
+          <Word>כֶּשֶׁף</Word>
+        </RelatedLemma>
+        <RelatedLemma>
+          <Word>כַּשָּׁף</Word>
+        </RelatedLemma>
+      </RelatedLemmas>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="003461001001000" IsBiblicalTerm="M" EntryCode="" Indent="0">
+          <LEXDomains>
+            <LEXDomain Code="002003003008">Divination</LEXDomain>
+          </LEXDomains>
+          <LEXForms>
+            <LEXForm>vbpiel</LEXForm>
+          </LEXForms>
+          <LEXSynonyms>
+            <LEXSynonym>נחשׁ</LEXSynonym>
+            <LEXSynonym>ענן</LEXSynonym>
+            <LEXSynonym>עשׂה אֹוב</LEXSynonym>
+            <LEXSynonym>עשׂה יִדְּעֹונִי</LEXSynonym>
+          </LEXSynonyms>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2017-11-15 08:23:51" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>= action by which humans make an effort to gain control over humans, animals, or deities ◄ through rituals and incantations</DefinitionShort>
+              <Glosses>
+                <Gloss>to practice sorcery</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>01403300600034</LEXReference>
+            <LEXReference>03900300500026</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+        <LEXMeaning Id="003461001002000" IsBiblicalTerm="M" EntryCode="" Indent="0">
+          <LEXDomains>
+            <LEXDomain Code="001001002003009" Source="Divination" SourceCode="002003003008">Professions</LEXDomain>
+          </LEXDomains>
+          <LEXSynonyms>
+            <LEXSynonym>אַשָּׁף</LEXSynonym>
+            <LEXSynonym>חָכָם</LEXSynonym>
+            <LEXSynonym>חַרְטֹם</LEXSynonym>
+            <LEXSynonym>כַּשְׂדִּים</LEXSynonym>
+            <LEXSynonym>נחשׁ</LEXSynonym>
+            <LEXSynonym>ענן</LEXSynonym>
+          </LEXSynonyms>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2020-08-27 18:05:49" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>= a person who has made it their profession to help humans gain control over (other) humans, animals, or deities ◄ through rituals and incantations</DefinitionShort>
+              <Glosses>
+                <Gloss>sorcerer: sorceress</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>00200701100022</LEXReference>
+            <LEXReference>00202201700002</LEXReference>
+            <LEXReference>00501801000034</LEXReference>
+            <LEXReference>02700200200034</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+          <LEXCoreDomains>
+            <LEXCoreDomain Code="200">Work</LEXCoreDomain>
+            <LEXCoreDomain Code="104">Magic</LEXCoreDomain>
+          </LEXCoreDomains>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="004060000000000" Lemma="πνοή" Version="0" HasAramaic="false" InLXX="true" AlphaPos="π">
+  <StrongCodes>
+    <Strong>G4157</Strong>
+  </StrongCodes>
+  <Authors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes/>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="004060001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>noun, f.</PartOfSpeech>
+      </PartsOfSpeech>
+      <Inflections>
+        <Inflection Lemma="πνοή" BaseFormIndex="1">
+          <Form/>
+          <Realizations>
+            <Realization>-ῆς</Realization>
+          </Realizations>
+          <Comments/>
+        </Inflection>
+      </Inflections>
+      <RelatedLemmas>
+        <RelatedLemma>
+          <Word>πνέω</Word>
+        </RelatedLemma>
+      </RelatedLemmas>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="004060001001000" IsBiblicalTerm="Y" EntryCode="14.4" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Physical Events and States</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Wind</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-12-28 15:48:44" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>air in relatively rapid movement, but without specification as to the force of the movement</DefinitionShort>
+              <Glosses>
+                <Gloss>wind</Gloss>
+                <Gloss>blowing</Gloss>
+                <Gloss>to blow</Gloss>
+              </Glosses>
+              <Comments>As in the case of English (which has, for example, such terms as breeze, zephyr, gust, storm, whirlwind, cyclone, tornado, etc.), other languages likewise normally have a number of different terms depending upon the strength of the wind and whether the wind may be carrying substances such as sand or dust. In some languages there may also be a problem involved in the use of terms for ‘wind,’ since some of these may have meanings of malicious or malevolent spirits, or they may imply a disease-bringing event.</Comments>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04400200200020</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+        <LEXMeaning Id="004060001002000" IsBiblicalTerm="M" EntryCode="23.187" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Physiological Processes and States</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Breathe, Breath</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-12-28 15:48:44" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>the process of breathing</DefinitionShort>
+              <Glosses>
+                <Gloss>breath</Gloss>
+                <Gloss>capacity to breathe</Gloss>
+              </Glosses>
+              <Comments>Rather than rendering {S:04401702500026} as ‘gives life and breath to all people,’ it may be better to say ‘causes all people to live and breathe.’ In some languages, however, ‘to breathe’ is synonymous with ‘life,’ and therefore to say ‘to live and to breathe’ is to be both redundant and repetitious. One may therefore translate ‘who causes all people to live.’</Comments>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04401702500026</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

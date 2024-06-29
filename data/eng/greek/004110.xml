@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="004110000000000" Lemma="πόρρωθεν" Version="0" HasAramaic="false" InLXX="true" AlphaPos="π">
+  <StrongCodes>
+    <Strong>G4207</Strong>
+  </StrongCodes>
+  <Authors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes>
+    <Note Caller="1" LanguageCode="en" LastEdited="" LastEditedBy="">
+      <References/>
+      <Content>It is possible that πόρρωθεν[b] differs in meaning from πόρρω in emphasizing the degree of separation, but this cannot be determined from existing contexts.</Content>
+    </Note>
+  </Notes>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="004110001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>advb.</PartOfSpeech>
+      </PartsOfSpeech>
+      <RelatedLemmas>
+        <RelatedLemma>
+          <Word>πρωτεύω</Word>
+        </RelatedLemma>
+      </RelatedLemmas>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="004110001001000" IsBiblicalTerm="Y" EntryCode="67.46" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Time</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>A Point of Time with Reference to Other Points of Time: Before, Long Ago, Now, At the Same Time, When, About, After</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2022-01-06 16:07:49" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>from a point of time considerably prior to another point of time</DefinitionShort>
+              <Glosses>
+                <Gloss>far ahead of time</Gloss>
+                <Gloss>long before</Gloss>
+              </Glosses>
+              <Comments>It is also possible to interpret πόρρωθεν in {S:05801101300022} as meaning ‘from afar’ or ‘from a great distance’ (see {D:83.31}).</Comments>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>05801101300022</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+        <LEXMeaning Id="004110001002000" IsBiblicalTerm="Y" EntryCode="83.31" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Spacial Positions</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>At, Beside, Near, Far</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2022-01-06 16:07:49" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>a position at a relatively great distance, with the possible implication of comparison{N:001}</DefinitionShort>
+              <Glosses>
+                <Gloss>far away</Gloss>
+                <Gloss>at a distance</Gloss>
+                <Gloss>a long way off</Gloss>
+              </Glosses>
+              <Comments>In {S:05801101300022} {L:πόρρωθεν&lt;SDBG:πόρρωθεν:000000&gt;} may be interpreted as time (see {D:67.46}), but it is perhaps more satisfactorily interpreted as implying some visionary experience and hence a matter of space.</Comments>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04201701200028</LEXReference>
+            <LEXReference>05801101300022</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

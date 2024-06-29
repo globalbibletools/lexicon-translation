@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="000847000000000" Lemma="בְּדִיל" Version="5" HasAramaic="false" InLXX="false" AlphaPos="ב">
+  <StrongCodes>
+    <Strong>H0913a</Strong>
+  </StrongCodes>
+  <Authors>
+    <Author>Reinier de Blois</Author>
+  </Authors>
+  <Contributors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes>
+    <Note Caller="1" LanguageCode="en" LastEdited="" LastEditedBy="">
+      <References>
+        <Reference>03800401000030</Reference>
+      </References>
+      <Content>{A:HOTTP}-B {A:RSV} {A:NIV} {A:NRSV} | {A:NJPS} "stone of distinction", {A:NJB} "chosen stone", {A:REB} "stone called separation", {A:CEV} "important stone"</Content>
+    </Note>
+  </Notes>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="000847001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>nsm</PartOfSpeech>
+      </PartsOfSpeech>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="000847001001000" IsBiblicalTerm="Y" EntryCode="" Indent="0">
+          <LEXDomains>
+            <LEXDomain Code="001006008">Metals</LEXDomain>
+          </LEXDomains>
+          <LEXSynonyms>
+            <LEXSynonym>בַּרְזֶל</LEXSynonym>
+            <LEXSynonym>זָהָב</LEXSynonym>
+            <LEXSynonym>כֶּסֶף</LEXSynonym>
+            <LEXSynonym>נְחֹשֶׁת</LEXSynonym>
+            <LEXSynonym>עֹופֶרֶת</LEXSynonym>
+          </LEXSynonyms>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2015-12-28 08:43:11" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>= silvery-white metal; ► used, together with copper, for the production of bronze</DefinitionShort>
+              <Glosses>
+                <Gloss>tin</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>00403102200034</LEXReference>
+            <LEXReference>02602201800028</LEXReference>
+            <LEXReference>02602202000020</LEXReference>
+            <LEXReference>02602701200020</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+          <LEXCoreDomains>
+            <LEXCoreDomain Code="115">Nature</LEXCoreDomain>
+          </LEXCoreDomains>
+        </LEXMeaning>
+        <LEXMeaning Id="000847001002000" IsBiblicalTerm="M" EntryCode="" Indent="0">
+          <LEXDomains>
+            <LEXDomain Code="001004001017">Tools</LEXDomain>
+          </LEXDomains>
+          <LEXCollocations>
+            <LEXCollocation>אֶבֶן בְּדִיל</LEXCollocation>
+          </LEXCollocations>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2015-12-28 08:43:11" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>= a tin weight suspended on the end of a string, ► used by builders to determine whether a wall was straight or not</DefinitionShort>
+              <Glosses>
+                <Gloss>tin weight (as tool) &gt; plumb line</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>03800401000030{N:001}</LEXReference>
+          </LEXReferences>
+          <LEXLinks>
+            <LEXLink>Realia:1.8.5</LEXLink>
+          </LEXLinks>
+          <LEXVideos/>
+          <LEXCoreDomains>
+            <LEXCoreDomain Code="027">Crafts</LEXCoreDomain>
+          </LEXCoreDomains>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

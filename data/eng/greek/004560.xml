@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="004560000000000" Lemma="σκοτόω" Version="0" HasAramaic="false" InLXX="true" AlphaPos="σ">
+  <StrongCodes>
+    <Strong>G4656</Strong>
+  </StrongCodes>
+  <Authors/>
+  <AlternateLemmas>
+    <AlternateLemma>σκοτόομαι</AlternateLemma>
+  </AlternateLemmas>
+  <MainLinks/>
+  <Notes/>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="004560001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>verb</PartOfSpeech>
+      </PartsOfSpeech>
+      <RelatedLemmas>
+        <RelatedLemma>
+          <Word>σκοτίζομαι</Word>
+        </RelatedLemma>
+      </RelatedLemmas>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="004560001001000" IsBiblicalTerm="M" EntryCode="14.55" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Physical Events and States</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Darkness</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXForms>
+            <LEXForm>σκοτόομαι[a]</LEXForm>
+          </LEXForms>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2022-02-12 14:49:03" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>(derivative of {L:σκότος&lt;SDBG:σκότος:000000&gt;}[a] ‘darkness,’ {D:14.53}) to change from a condition of being light to one of being dark</DefinitionShort>
+              <Glosses>
+                <Gloss>to become dark</Gloss>
+              </Glosses>
+              <Comments>In {S:06600900200036} it may not be difficult to speak of ‘the air becoming dark,’ since this would mean the space above the earth, but it may be difficult to speak of ‘the sun becoming dark.’ In the latter instance, for both {S:06600900200036} and {S:04002402900022}, one may say ‘the sun will no longer shine’ or ‘the sun will not give its light.’|In place of ‘the air became dark,’ it is also possible to speak of ‘the sky will become dark.’</Comments>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>06600900200036</LEXReference>
+            <LEXReference>06601601000036</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+        <LEXMeaning Id="004560001002000" IsBiblicalTerm="M" EntryCode="32.44" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Understand</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Lack of Capacity for Understanding</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXForms>
+            <LEXForm>σκοτόομαι[b]</LEXForm>
+          </LEXForms>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2022-02-12 14:49:03" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>(figurative extension of meaning of {L:σκοτόω&lt;SDBG:σκοτόω:000000&gt;}[a] ‘to become dark,’ {D:14.55}) to become unable to perceive and thus unable to understand</DefinitionShort>
+              <Glosses>
+                <Gloss>to be incapable of perceiving</Gloss>
+                <Gloss>to not be able to understand</Gloss>
+              </Glosses>
+              <Comments>It is rare that one can combine the concept of ‘becoming dark’ with incapacity to understand or comprehend. Sometimes a parallel figure of speech may be employed by using an expression such as ‘to not be able to see.’ For example, in {S:04500102100036} it is sometimes possible to translate ‘their foolish minds became unable to see the truth,’ and in {S:04900401800002} it is sometimes possible to translate ‘they were not able to see with their minds.’</Comments>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04900401800002</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

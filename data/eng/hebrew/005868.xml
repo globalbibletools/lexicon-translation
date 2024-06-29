@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="005868000000000" Lemma="פֶּלֶג" Version="3" HasAramaic="false" InLXX="false" AlphaPos="פ">
+  <StrongCodes>
+    <Strong>H6388</Strong>
+    <Strong>H6389</Strong>
+  </StrongCodes>
+  <Authors>
+    <Author>Reinier de Blois</Author>
+  </Authors>
+  <Contributors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes/>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="005868001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>nsm</PartOfSpeech>
+      </PartsOfSpeech>
+      <RelatedLemmas>
+        <RelatedLemma>
+          <Word>פלג</Word>
+        </RelatedLemma>
+      </RelatedLemmas>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="005868001001000" IsBiblicalTerm="Y" EntryCode="" Indent="0">
+          <LEXDomains>
+            <LEXDomain Code="001005002002005">Waterbodies</LEXDomain>
+          </LEXDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2022-11-25 11:07:16" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>= a body of flowing water, ◄ probably dug by humans</DefinitionShort>
+              <Glosses>
+                <Gloss>channel</Gloss>
+                <Gloss>watercourse</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>01900100300014</LEXReference>
+            <LEXReference>01904600500004</LEXReference>
+            <LEXReference>01906501000016</LEXReference>
+            <LEXReference>02002100100002</LEXReference>
+            <LEXReference>02303002500024</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+          <LEXCoreDomains>
+            <LEXCoreDomain Code="189">Water</LEXCoreDomain>
+          </LEXCoreDomains>
+        </LEXMeaning>
+        <LEXMeaning Id="005868001002000" IsBiblicalTerm="Y" EntryCode="" Indent="0">
+          <LEXDomains>
+            <LEXDomain Code="002002001007" Source="Waterbodies" SourceCode="001005002002005">Flow</LEXDomain>
+          </LEXDomains>
+          <LEXSynonyms>
+            <LEXSynonym>מַעְיָן</LEXSynonym>
+          </LEXSynonyms>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2017-01-02 17:25:29" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>= a relatively large quantity of liquid flowing with strength</DefinitionShort>
+              <Glosses>
+                <Gloss>stream</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>01802900600020</LEXReference>
+            <LEXReference>01911913600002</LEXReference>
+            <LEXReference>02000501600014</LEXReference>
+            <LEXReference>02303200200022</LEXReference>
+            <LEXReference>02500304800002</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+          <LEXCoreDomains>
+            <LEXCoreDomain Code="101">Liquids</LEXCoreDomain>
+          </LEXCoreDomains>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+    <BaseForm Id="005868002000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>np</PartOfSpeech>
+      </PartsOfSpeech>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="005868002001000" IsBiblicalTerm="Y" EntryCode="" Indent="0">
+          <LEXDomains>
+            <LEXDomain Code="003001007">Names of People</LEXDomain>
+          </LEXDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2017-01-02 17:25:29" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>= man; ◄ son of {L:Eber&lt;SDBH:עֵבֶר&gt;}; descendant of {L:Shem&lt;SDBH:שֵׁם&gt;}; ► father of {L:Reu&lt;SDBH:רְעוּ&gt;}</DefinitionShort>
+              <Glosses>
+                <Gloss>Peleg</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>00101002500020</LEXReference>
+            <LEXReference>00101101600022</LEXReference>
+            <LEXReference>00101101700014</LEXReference>
+            <LEXReference>00101101800006</LEXReference>
+            <LEXReference>00101101900006</LEXReference>
+            <LEXReference>01300101900020</LEXReference>
+            <LEXReference>01300102500004</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

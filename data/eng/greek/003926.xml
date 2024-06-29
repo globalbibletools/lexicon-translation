@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="003926000000000" Lemma="περιέρχομαι" Version="0" HasAramaic="false" InLXX="true" AlphaPos="π">
+  <StrongCodes>
+    <Strong>G4022</Strong>
+  </StrongCodes>
+  <Authors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes/>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="003926001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>verb</PartOfSpeech>
+      </PartsOfSpeech>
+      <Inflections>
+        <Inflection Lemma="περιέρχομαι" BaseFormIndex="1">
+          <Form>aor.</Form>
+          <Realizations>
+            <Realization>περιῆλθον</Realization>
+          </Realizations>
+          <Comments/>
+        </Inflection>
+        <Inflection Lemma="περιέρχομαι" BaseFormIndex="1">
+          <Form>ptc.</Form>
+          <Realizations>
+            <Realization>περιελθών</Realization>
+          </Realizations>
+          <Comments/>
+        </Inflection>
+      </Inflections>
+      <RelatedLemmas>
+        <RelatedLemma>
+          <Word>ἔρχομαι</Word>
+        </RelatedLemma>
+      </RelatedLemmas>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="003926001001000" IsBiblicalTerm="M" EntryCode="15.23" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Linear Movement</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Travel, Journey</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-12-24 13:10:24" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>to move about from place to place, with significant changes in direction</DefinitionShort>
+              <Glosses>
+                <Gloss>to travel about</Gloss>
+                <Gloss>to wander about</Gloss>
+              </Glosses>
+              <Comments>In order to communicate the meaning of ‘to wander about’ or ‘to travel about,’ it may be necessary to be rather specific, for example, ‘they first go in one direction and then in another’ or ‘they first go to one place and then off to another.’</Comments>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04401901300012</LEXReference>
+            <LEXReference>05400501300012</LEXReference>
+            <LEXReference>05801103700014</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+        <LEXMeaning Id="003926001002000" IsBiblicalTerm="Y" EntryCode="15.33" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Linear Movement</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Pass, Cross Over, Go Through, Go Around</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-12-24 13:10:24" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>to move or go around some object or point of reference</DefinitionShort>
+              <Glosses>
+                <Gloss>to go around</Gloss>
+                <Gloss>to sail around</Gloss>
+              </Glosses>
+              <Comments>This word is found as a variant reading only: ὅθεν περιελθόντες κατηντήσαμεν εἰς Ρήγιον ‘from there we sailed around and arrived at Rhegium’ {S:04402801300004} (apparatus).</Comments>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04402801300004</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

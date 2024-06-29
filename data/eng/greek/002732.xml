@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="002732000000000" Lemma="κατηγορία" Version="0" HasAramaic="false" InLXX="false" AlphaPos="κ">
+  <StrongCodes>
+    <Strong>G2724</Strong>
+  </StrongCodes>
+  <Authors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes/>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="002732001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>noun, f.</PartOfSpeech>
+      </PartsOfSpeech>
+      <Inflections>
+        <Inflection Lemma="κατηγορία" BaseFormIndex="1">
+          <Form/>
+          <Realizations>
+            <Realization>-ας</Realization>
+          </Realizations>
+          <Comments/>
+        </Inflection>
+      </Inflections>
+      <RelatedLemmas>
+        <RelatedLemma>
+          <Word>κατηγορέω</Word>
+        </RelatedLemma>
+      </RelatedLemmas>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="002732001001000" IsBiblicalTerm="Y" EntryCode="33.428" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Communication</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Accuse, Blame</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-09-30 11:07:09" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>(derivative of {L:κατηγορέω&lt;SDBG:κατηγορέω:000000&gt;} ‘to accuse,’ {D:33.427}) the content of the accusation or charge made against someone</DefinitionShort>
+              <Glosses>
+                <Gloss>accusation</Gloss>
+                <Gloss>charge</Gloss>
+              </Glosses>
+              <Comments>It is possible that in {S:05400501900006} κατηγορία may denote either the event of accusing or the content of the accusation. If κατηγορία in {S:05400501900006} is understood as the event of accusing, it may be classified with the items in {D:33.427}.</Comments>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04301802900022</LEXReference>
+            <LEXReference>05400501900006</LEXReference>
+            <LEXReference>05600100600026</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

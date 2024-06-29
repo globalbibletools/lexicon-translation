@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="004090000000000" Lemma="πολυτρόπως" Version="0" HasAramaic="false" InLXX="false" AlphaPos="π">
+  <StrongCodes>
+    <Strong>G4187</Strong>
+  </StrongCodes>
+  <Authors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes/>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="004090001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>advb.</PartOfSpeech>
+      </PartsOfSpeech>
+      <Constructs>
+        <Construct Lemma="πολυτρόπως" BaseFormIndex="1">
+          <WordMeaningSet>
+            <Word>πολύς</Word>
+          </WordMeaningSet>
+          <WordMeaningSet>
+            <Word>τροπή</Word>
+          </WordMeaningSet>
+        </Construct>
+      </Constructs>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="004090001001000" IsBiblicalTerm="Y" EntryCode="58.29" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Nature, Class, Example</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Class, Kind</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2022-01-06 15:22:31" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>pertaining to that which occurs in many kinds of ways</DefinitionShort>
+              <Glosses>
+                <Gloss>in many ways</Gloss>
+              </Glosses>
+              <Comments>For another interpretation of πολυτρόπως in {S:05800100100006}, see {D:89.82}.</Comments>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>05800100100006</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+        <LEXMeaning Id="004090001002000" IsBiblicalTerm="Y" EntryCode="89.82" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Relations</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Manner</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2022-01-06 15:22:31" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>pertaining to occurring in many ways or manners</DefinitionShort>
+              <Glosses>
+                <Gloss>in many ways</Gloss>
+              </Glosses>
+              <Comments>For another interpretation of {L:πολυτρόπως&lt;SDBG:πολυτρόπως:000000&gt;} in {S:05800100100006}, see {D:58.29}.</Comments>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>05800100100006</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

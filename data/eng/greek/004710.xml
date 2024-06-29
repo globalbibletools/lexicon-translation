@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="004710000000000" Lemma="συζωοποιέω" Version="0" HasAramaic="false" InLXX="false" AlphaPos="σ">
+  <StrongCodes>
+    <Strong>G4806</Strong>
+  </StrongCodes>
+  <Authors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes/>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="004710001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>verb</PartOfSpeech>
+      </PartsOfSpeech>
+      <Constructs>
+        <Construct Lemma="συζωοποιέω" BaseFormIndex="1">
+          <WordMeaningSet>
+            <Word>ζάω</Word>
+          </WordMeaningSet>
+          <WordMeaningSet>
+            <Word>ποιέω</Word>
+          </WordMeaningSet>
+        </Construct>
+      </Constructs>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="004710001001000" IsBiblicalTerm="Y" EntryCode="23.95" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Physiological Processes and States</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Live, Die</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2022-03-09 12:00:11" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>to cause to live again together with others</DefinitionShort>
+              <Glosses>
+                <Gloss>to raise to life together with</Gloss>
+              </Glosses>
+              <Comments>There are serious semantic difficulties involved in a literal translation of συνεγείρω or συζωοποιέω, for a literal rendering could either be interpreted as ‘to be raised to life at the same time with’ or ‘to be raised to life in the same way as,’ but the reference in {S:05100300100006} and {S:04900200500014} is to a spiritual existence more than to a literal resurrection of the body. This means that both συνεγείρω and συζωοποιέω must be understood as highly figurative. Hence, in {S:05100300100006} it may be necessary to translate εἰ οὖν συνηγέρθητε τῷ Χριστῷ as ‘since you have been raised to life, so to speak, with Christ’ or ‘since, as it were, you have been raised to life with Christ.’ In this way one may point to the fact of a figurative element involved.</Comments>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04900200500014</LEXReference>
+            <LEXReference>05100201300028</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

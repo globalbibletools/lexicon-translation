@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="001299000000000" Lemma="διαρρήγνυμι" Version="0" HasAramaic="false" InLXX="false" AlphaPos="δ">
+  <StrongCodes>
+    <Strong>G1284</Strong>
+  </StrongCodes>
+  <Authors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes>
+    <Note Caller="1" LanguageCode="en" LastEdited="" LastEditedBy="">
+      <References/>
+      <Content>διαρρήγνυμι differs from ῥήγνυμι[a] ({D:19.31}) in that it specifies a more decisive and thorough action.</Content>
+    </Note>
+  </Notes>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="001299001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>verb</PartOfSpeech>
+      </PartsOfSpeech>
+      <Inflections>
+        <Inflection Lemma="διαρρήγνυμι" BaseFormIndex="1">
+          <Form>aor.</Form>
+          <Realizations>
+            <Realization>διέρρηξα</Realization>
+          </Realizations>
+          <Comments/>
+        </Inflection>
+      </Inflections>
+      <RelatedLemmas>
+        <RelatedLemma>
+          <Word>ῥήγνυμι</Word>
+        </RelatedLemma>
+      </RelatedLemmas>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="001299001001000" IsBiblicalTerm="Y" EntryCode="19.32" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Physical Impact</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Split, Tear</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-10-13 12:17:25" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>to tear or rip in two (as of clothing){N:001}</DefinitionShort>
+              <Glosses>
+                <Gloss>to tear</Gloss>
+                <Gloss>to rip</Gloss>
+              </Glosses>
+              <Comments>In the NT tearing of clothing was a symbol of horror associated with sacrilege. In many cultures, however, the tearing of clothing may be associated only with insanity. It may therefore be important to add a phrase in describing ‘the tearing of clothing’ in order to mark the significance, for example, ‘to show horror’ ({S:04002606500008}, {S:04401401400016}) and in the OT ‘to show mourning’ ({S:00103703400000}, {S:00701103500000}).</Comments>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04002606500008</LEXReference>
+            <LEXReference>04101406300008</LEXReference>
+            <LEXReference>04200500600016</LEXReference>
+            <LEXReference>04200802900046</LEXReference>
+            <LEXReference>04401401400016</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

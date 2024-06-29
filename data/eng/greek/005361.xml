@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="005361000000000" Lemma="χαλκός" Version="0" HasAramaic="false" InLXX="true" AlphaPos="χ">
+  <StrongCodes>
+    <Strong>G5475</Strong>
+  </StrongCodes>
+  <Authors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes>
+    <Note Caller="1" LanguageCode="en" LastEdited="" LastEditedBy="">
+      <References/>
+      <Content>Except for the occurrence of ἀργύριον in the plural ({S:04002601500030}), it would be possible to derive all of these references to copper (bronze), silver, and gold coins as direct and predictable metonymic correspondences of the respective terms for substances (see {D:2.54}, 51, 49). Since, however, some languages employ clear distinctions between metals as substances and metals when manufactured into the form of coins, the present classification would seem to be more useful.</Content>
+    </Note>
+  </Notes>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="005361001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>noun, m.</PartOfSpeech>
+      </PartsOfSpeech>
+      <Inflections>
+        <Inflection Lemma="χαλκός" BaseFormIndex="1">
+          <Form/>
+          <Realizations>
+            <Realization>-οῦ</Realization>
+          </Realizations>
+          <Comments/>
+        </Inflection>
+      </Inflections>
+      <RelatedLemmas>
+        <RelatedLemma>
+          <Word>χαλκεύς</Word>
+        </RelatedLemma>
+        <RelatedLemma>
+          <Word>χαλκηδών</Word>
+        </RelatedLemma>
+        <RelatedLemma>
+          <Word>χαλκίον</Word>
+        </RelatedLemma>
+        <RelatedLemma>
+          <Word>χαλκολίβανον</Word>
+        </RelatedLemma>
+        <RelatedLemma>
+          <Word>χαλκοῦς</Word>
+        </RelatedLemma>
+      </RelatedLemmas>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="005361001001000" IsBiblicalTerm="M" EntryCode="2.54" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Natural Substances</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Metals</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2022-05-30 16:03:37" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>generally bronze (an alloy of copper and tin), but in some contexts apparently brass (an alloy of copper and zinc) and perhaps in a few instances copper</DefinitionShort>
+              <Glosses>
+                <Gloss>bronze</Gloss>
+                <Gloss>brass</Gloss>
+                <Gloss>copper</Gloss>
+              </Glosses>
+              <Comments>Most archaeological objects of the Middle East containing copper consist of bronze, and therefore the most accurate translation of χαλκός[a] is in most instances a term for bronze, which is harder than brass and much harder than pure copper. Many languages have technical terms for bronze, brass, and copper, but some simply designate bronze as ‘brown metal,’ brass as ‘bright metal,’ and copper as ‘red metal.’</Comments>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>06601801200066</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+        <LEXMeaning Id="005361001002000" IsBiblicalTerm="M" EntryCode="6.72" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Artifacts</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Money and Monetary Units</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2022-05-30 16:03:37" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>coins of bronze or copper, and hence of little value{N:001}</DefinitionShort>
+              <Glosses>
+                <Gloss>copper coins</Gloss>
+                <Gloss>bronze money</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04001000900014</LEXReference>
+            <LEXReference>04100600800042</LEXReference>
+            <LEXReference>04101204100022</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+        <LEXMeaning Id="005361001003000" IsBiblicalTerm="M" EntryCode="6.95" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Artifacts</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Musical Instruments</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXCollocations>
+            <LEXCollocation>χαλκὸς ἠχῶν</LEXCollocation>
+          </LEXCollocations>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2022-05-30 16:03:37" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>(an idiom, literally: echoing brass, or: resounding brass) a gong made of brass</DefinitionShort>
+              <Glosses>
+                <Gloss>brass gong</Gloss>
+              </Glosses>
+              <Comments>In a number of languages the equivalent of gong is ‘noisy metal’ or ‘reverberating metal’ or ‘echoing metal,’ but frequently translators have simply used an expression meaning ‘loud bell.’</Comments>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04601300100030</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

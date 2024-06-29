@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="007611000000000" Lemma="שׁקל" Version="4" HasAramaic="false" InLXX="false" AlphaPos="ש">
+  <StrongCodes>
+    <Strong>H8254</Strong>
+  </StrongCodes>
+  <Authors>
+    <Author>Reinier de Blois</Author>
+  </Authors>
+  <Contributors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes/>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="007611001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>vb</PartOfSpeech>
+      </PartsOfSpeech>
+      <RelatedLemmas>
+        <RelatedLemma>
+          <Word>מִשְׁקֹול</Word>
+        </RelatedLemma>
+        <RelatedLemma>
+          <Word>מִשְׁקָל</Word>
+        </RelatedLemma>
+        <RelatedLemma>
+          <Word>מִשְׁקֶלֶת</Word>
+        </RelatedLemma>
+        <RelatedLemma>
+          <Word>שֶׁקֶל</Word>
+        </RelatedLemma>
+      </RelatedLemmas>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="007611001001000" IsBiblicalTerm="M" EntryCode="" Indent="0">
+          <LEXDomains>
+            <LEXDomain Code="002004002009">Measure</LEXDomain>
+          </LEXDomains>
+          <LEXForms>
+            <LEXForm>vbqal-</LEXForm>
+            <LEXForm>vbnif- (passive)</LEXForm>
+          </LEXForms>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2017-04-16 12:11:24" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>= action by which humans determine the weight of an object, which is usually done with the help of a balance (scales)</DefinitionShort>
+              <Glosses>
+                <Gloss>to weigh out</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>00102301600014</LEXReference>
+            <LEXReference>00202201600018</LEXReference>
+            <LEXReference>01001402600044</LEXReference>
+            <LEXReference>01001801200024</LEXReference>
+            <LEXReference>01102003900094</LEXReference>
+            <LEXReference>01500802500004</LEXReference>
+            <LEXReference>01500802500008</LEXReference>
+            <LEXReference>01500802600004</LEXReference>
+            <LEXReference>01500802900010</LEXReference>
+            <LEXReference>01500803300014</LEXReference>
+            <LEXReference>01700300900028</LEXReference>
+            <LEXReference>01700400700036</LEXReference>
+            <LEXReference>01802801500014</LEXReference>
+            <LEXReference>02303301800014</LEXReference>
+            <LEXReference>02304001200042</LEXReference>
+            <LEXReference>02304600600022</LEXReference>
+            <LEXReference>02305500200004</LEXReference>
+            <LEXReference>02403200900030</LEXReference>
+            <LEXReference>02403201000024</LEXReference>
+            <LEXReference>03801101200030</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+          <LEXCoreDomains>
+            <LEXCoreDomain Code="154">Senses</LEXCoreDomain>
+            <LEXCoreDomain Code="190">Weight</LEXCoreDomain>
+          </LEXCoreDomains>
+        </LEXMeaning>
+        <LEXMeaning Id="007611001002000" IsBiblicalTerm="Y" EntryCode="" Indent="0">
+          <LEXDomains>
+            <LEXDomain Code="002004002005" Source="Measure" SourceCode="002004002009">Estimate</LEXDomain>
+          </LEXDomains>
+          <LEXForms>
+            <LEXForm>vbqal-</LEXForm>
+            <LEXForm>vbnif- (passive)</LEXForm>
+          </LEXForms>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2022-12-19 14:05:54" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>literally: to weigh; hence: = action by which humans or deities determine the intensity of an event</DefinitionShort>
+              <Glosses>
+                <Gloss>to weigh</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>01800600200004</LEXReference>
+            <LEXReference>01800600200006</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+          <LEXCoreDomains>
+            <LEXCoreDomain Code="106">Mind</LEXCoreDomain>
+            <LEXCoreDomain Code="090">Intensity</LEXCoreDomain>
+          </LEXCoreDomains>
+        </LEXMeaning>
+        <LEXMeaning Id="007611001003000" IsBiblicalTerm="Y" EntryCode="" Indent="0">
+          <LEXDomains>
+            <LEXDomain Code="002004002005" Source="Measure" SourceCode="002004002009">Estimate</LEXDomain>
+          </LEXDomains>
+          <LEXForms>
+            <LEXForm>vbqal-</LEXForm>
+          </LEXForms>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2022-12-19 14:05:54" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>literally: to weigh; hence: = action by which humans or deities determine whether the behavior of (other) humans is morally or ethically correct</DefinitionShort>
+              <Glosses>
+                <Gloss>to weigh</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>01803100600002</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+          <LEXCoreDomains>
+            <LEXCoreDomain Code="106">Mind</LEXCoreDomain>
+            <LEXCoreDomain Code="017">Behavior</LEXCoreDomain>
+          </LEXCoreDomains>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

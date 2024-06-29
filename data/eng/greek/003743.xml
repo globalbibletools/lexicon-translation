@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="003743000000000" Lemma="παντοκράτωρ" Version="0" HasAramaic="false" InLXX="true" AlphaPos="π">
+  <StrongCodes>
+    <Strong>G3841</Strong>
+  </StrongCodes>
+  <Authors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes>
+    <Note Caller="1" LanguageCode="en" LastEdited="" LastEditedBy="">
+      <References/>
+      <Content>Items {D:12.4}-{D:12.8}, ({D:12.9}) and {D:12.12} in this domain are titles for θεός[a] God ({D:12.1}). As titles, they have precisely the same reference as θεός[a], but they each contribute distinctive meanings which are legitimate qualifications of the referent in question.</Content>
+    </Note>
+  </Notes>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="003743001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>noun, m.</PartOfSpeech>
+      </PartsOfSpeech>
+      <Inflections>
+        <Inflection Lemma="παντοκράτωρ" BaseFormIndex="1">
+          <Form/>
+          <Realizations>
+            <Realization>-ορος</Realization>
+          </Realizations>
+          <Comments/>
+        </Inflection>
+      </Inflections>
+      <Constructs>
+        <Construct Lemma="παντοκράτωρ" BaseFormIndex="1">
+          <WordMeaningSet>
+            <Word>πᾶς</Word>
+          </WordMeaningSet>
+          <WordMeaningSet>
+            <Word>κρατέω</Word>
+          </WordMeaningSet>
+        </Construct>
+      </Constructs>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="003743001001000" IsBiblicalTerm="M" EntryCode="12.7{N:001}" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Supernatural Beings and Powers</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Supernatural Beings</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-12-17 18:52:24" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>a title for God, literally: all powerful</DefinitionShort>
+              <Glosses>
+                <Gloss>the Almighty</Gloss>
+                <Gloss>the One who has all power</Gloss>
+              </Glosses>
+              <Comments>In some languages the Almighty as a title for God may be expressed as ‘the one who controls everything’ or ‘the one who commands all things and all people.’</Comments>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04700601800032</LEXReference>
+            <LEXReference>06600100800042</LEXReference>
+            <LEXReference>06600400800066</LEXReference>
+            <LEXReference>06601101700016</LEXReference>
+            <LEXReference>06601500300052</LEXReference>
+            <LEXReference>06601600700022</LEXReference>
+            <LEXReference>06601601400054</LEXReference>
+            <LEXReference>06601900600052</LEXReference>
+            <LEXReference>06601901500072</LEXReference>
+            <LEXReference>06602102200026</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

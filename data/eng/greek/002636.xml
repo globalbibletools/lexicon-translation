@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="002636000000000" Lemma="κατακλίνω" Version="0" HasAramaic="false" InLXX="true" AlphaPos="κ">
+  <StrongCodes>
+    <Strong>G2625</Strong>
+  </StrongCodes>
+  <Authors/>
+  <AlternateLemmas>
+    <AlternateLemma>κατακλίνομαι</AlternateLemma>
+  </AlternateLemmas>
+  <MainLinks/>
+  <Notes/>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="002636001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>verb</PartOfSpeech>
+      </PartsOfSpeech>
+      <Inflections>
+        <Inflection Lemma="κατακλίνω" BaseFormIndex="1">
+          <Form>aor.pass.</Form>
+          <Realizations>
+            <Realization>κατεκλίθην</Realization>
+          </Realizations>
+          <Comments/>
+        </Inflection>
+      </Inflections>
+      <RelatedLemmas>
+        <RelatedLemma>
+          <Word>κλίνω</Word>
+        </RelatedLemma>
+      </RelatedLemmas>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="002636001001000" IsBiblicalTerm="M" EntryCode="17.24" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Stances and Events Related to Stances</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Recline [to eat]</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-09-17 18:25:21" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>to cause someone to assume a reclining (or possibly sitting) position as part of the process of eating</DefinitionShort>
+              <Glosses>
+                <Gloss>to cause to recline to eat</Gloss>
+                <Gloss>to have someone sit down to eat</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04200901400024</LEXReference>
+            <LEXReference>04200901500010</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+        <LEXMeaning Id="002636001002000" IsBiblicalTerm="M" EntryCode="17.23" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Stances and Events Related to Stances</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Recline [to eat]</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXForms>
+            <LEXForm>κατακλίνομαι</LEXForm>
+          </LEXForms>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-09-17 18:25:21" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>to be in a reclining position as one eats (with the focus either upon the position or the act of eating)</DefinitionShort>
+              <Glosses>
+                <Gloss>to recline</Gloss>
+                <Gloss>to eat</Gloss>
+                <Gloss>to be at table</Gloss>
+                <Gloss>to eat</Gloss>
+                <Gloss>to dine</Gloss>
+                <Gloss>to sit down to eat</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04200703600036</LEXReference>
+            <LEXReference>04201400800016</LEXReference>
+            <LEXReference>04202403000010</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

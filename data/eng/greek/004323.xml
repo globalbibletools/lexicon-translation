@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="004323000000000" Lemma="πτηνός" Version="0" HasAramaic="false" InLXX="false" AlphaPos="π">
+  <StrongCodes>
+    <Strong>G4421</Strong>
+  </StrongCodes>
+  <Authors/>
+  <AlternateLemmas>
+    <AlternateLemma>πτηνόν</AlternateLemma>
+  </AlternateLemmas>
+  <MainLinks/>
+  <Notes/>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="004323001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>adjc.</PartOfSpeech>
+      </PartsOfSpeech>
+      <Inflections>
+        <Inflection Lemma="πτηνός" BaseFormIndex="1">
+          <Form/>
+          <Realizations>
+            <Realization>(-ή), -όν</Realization>
+          </Realizations>
+          <Comments/>
+        </Inflection>
+      </Inflections>
+      <RelatedLemmas>
+        <RelatedLemma>
+          <Word>πέτομαι</Word>
+        </RelatedLemma>
+      </RelatedLemmas>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="004323001001000" IsBiblicalTerm="M" EntryCode="4.38" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Animals</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Birds</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2022-02-07 13:43:08" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>any kind of bird, wild or domestic</DefinitionShort>
+              <Glosses>
+                <Gloss>bird</Gloss>
+              </Glosses>
+              <Comments>All languages have at least some terms for birds, but there may be no generic term which identifies birds while excluding all other creatures which fly. For example, in some languages a term which includes all kinds of birds also includes flying insects and bats. However, since in most instances such a term has birds as its primary reference, it can usually be employed in contexts in which birds are more or less readily identified by other expressions in the passage. In other languages generic terms for birds may identify only certain classes of birds, for example, birds of prey, water birds, and birds of the forest.</Comments>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04601503900036</LEXReference>
+          </LEXReferences>
+          <LEXLinks>
+            <LEXLink>fauna:3.1</LEXLink>
+            <LEXLink>fauna:3.3</LEXLink>
+          </LEXLinks>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

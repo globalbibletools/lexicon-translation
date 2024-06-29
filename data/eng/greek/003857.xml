@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="003857000000000" Lemma="παρρησιάζομαι" Version="0" HasAramaic="false" InLXX="true" AlphaPos="π">
+  <StrongCodes>
+    <Strong>G3955</Strong>
+  </StrongCodes>
+  <Authors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes/>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="003857001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>verb</PartOfSpeech>
+      </PartsOfSpeech>
+      <Constructs>
+        <Construct Lemma="παρρησιάζομαι" BaseFormIndex="1">
+          <WordMeaningSet>
+            <Word>πᾶς</Word>
+          </WordMeaningSet>
+          <WordMeaningSet>
+            <Word>ῥῆμα</Word>
+          </WordMeaningSet>
+        </Construct>
+      </Constructs>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="003857001001000" IsBiblicalTerm="Y" EntryCode="33.90" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Communication</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Speak, Talk</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2022-02-23 12:19:56" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>(derivative of {L:παρρησία&lt;SDBG:παρρησία:000000&gt;} ‘boldness,’ {D:25.158}) to speak openly about something and with complete confidence</DefinitionShort>
+              <Glosses>
+                <Gloss>to speak boldly</Gloss>
+                <Gloss>to speak openly</Gloss>
+              </Glosses>
+              <Comments>In some languages the equivalent of ‘to speak boldly’ is ‘to speak regardless of who is listening’ or ‘to speak without fearing’ or ‘to speak without worrying.’</Comments>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04400902700054</LEXReference>
+            <LEXReference>04400902800020</LEXReference>
+            <LEXReference>04401304600002</LEXReference>
+            <LEXReference>04401400300012</LEXReference>
+            <LEXReference>04401802600008</LEXReference>
+            <LEXReference>04401900800012</LEXReference>
+            <LEXReference>04402602600020</LEXReference>
+            <LEXReference>04900602000018</LEXReference>
+            <LEXReference>05200200200018</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+        <LEXMeaning Id="003857001002000" IsBiblicalTerm="Y" EntryCode="25.159" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Attitudes and Emotions</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Courage, Boldness</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2022-02-23 12:19:56" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>to have courage or boldness in the face of danger or opposition</DefinitionShort>
+              <Glosses>
+                <Gloss>to be bold</Gloss>
+                <Gloss>to have courage</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>05200200200018</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

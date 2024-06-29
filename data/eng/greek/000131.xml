@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="000131000000000" Lemma="αἱματεκχυσία" Version="0" HasAramaic="false" InLXX="false" AlphaPos="α">
+  <StrongCodes>
+    <Strong>G0130</Strong>
+  </StrongCodes>
+  <Authors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes/>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="000131001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>noun, f.</PartOfSpeech>
+      </PartsOfSpeech>
+      <Inflections>
+        <Inflection Lemma="αἱματεκχυσία" BaseFormIndex="1">
+          <Form/>
+          <Realizations>
+            <Realization>-ας</Realization>
+          </Realizations>
+          <Comments/>
+        </Inflection>
+      </Inflections>
+      <Constructs>
+        <Construct Lemma="αἱματεκχυσία" BaseFormIndex="1">
+          <WordMeaningSet>
+            <Word>αἷμα</Word>
+          </WordMeaningSet>
+          <WordMeaningSet>
+            <Word>χέω</Word>
+            <Meaning LanguageCode="en">
+              <Meaning>pour</Meaning>
+            </Meaning>
+            <Meaning LanguageCode="zhT">
+              <Meaning>倒</Meaning>
+            </Meaning>
+          </WordMeaningSet>
+        </Construct>
+      </Constructs>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="000131001001000" IsBiblicalTerm="M" EntryCode="23.183" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Physiological Processes and States</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Sickness, Disease, Weakness</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-03-07 10:00:30" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>the process of causing blood to flow out</DefinitionShort>
+              <Glosses>
+                <Gloss>to cause bleeding</Gloss>
+                <Gloss>to cause blood to flow</Gloss>
+                <Gloss>the flow of blood</Gloss>
+              </Glosses>
+              <Comments>It may be important in translating {S:05800902200024} to introduce some statement with regard to sacrifice, for example, ‘if the blood of the sacrifice did not flow’ or ‘if there was no sacrifice involving blood’ or simply ‘if there was no sacrifice,’ but because of the symbolic value of ‘blood’ in the ritual, some reference to blood should be retained.</Comments>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>05800902200024</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

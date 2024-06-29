@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="002821000000000" Lemma="κλείς" Version="0" HasAramaic="false" InLXX="true" AlphaPos="κ">
+  <StrongCodes>
+    <Strong>G2807</Strong>
+  </StrongCodes>
+  <Authors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes/>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="002821001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>noun, f.</PartOfSpeech>
+      </PartsOfSpeech>
+      <Inflections>
+        <Inflection Lemma="κλείς" BaseFormIndex="1">
+          <Form/>
+          <Realizations>
+            <Realization>κλειδός</Realization>
+          </Realizations>
+          <Comments/>
+        </Inflection>
+      </Inflections>
+      <RelatedLemmas>
+        <RelatedLemma>
+          <Word>κλείω</Word>
+        </RelatedLemma>
+      </RelatedLemmas>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="002821001001000" IsBiblicalTerm="M" EntryCode="6.220" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Artifacts</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Miscellaneous</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-10-08 11:44:02" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>an instrument used for locking and unlocking doors and gates</DefinitionShort>
+              <Glosses>
+                <Gloss>key</Gloss>
+              </Glosses>
+              <Comments>In rendering {S:06600900100040} it may not be possible to speak of ‘the key to the abyss,’ but rather ‘the key to the entrance to the abyss’ or ‘the key used in opening or closing the gate to the abyss.’</Comments>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04001601900008</LEXReference>
+            <LEXReference>06600900100040</LEXReference>
+            <LEXReference>06602000100020</LEXReference>
+          </LEXReferences>
+          <LEXLinks>
+            <LEXLink>realia:3.1.2.2</LEXLink>
+          </LEXLinks>
+          <LEXVideos/>
+        </LEXMeaning>
+        <LEXMeaning Id="002821001002000" IsBiblicalTerm="Y" EntryCode="57.63" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Possess, Transfer, Exchange</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Take, Obtain, Gain, Lose</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-10-08 11:44:02" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>(a figurative extension of meaning of {L:κλείς&lt;SDBG:κλείς:000000&gt;}[a] ‘key,’ {D:6.220}) a means of acquiring something</DefinitionShort>
+              <Glosses>
+                <Gloss>the means of</Gloss>
+                <Gloss>the key to</Gloss>
+              </Glosses>
+              <Comments>One may also translate this expression in {S:04201105200016} as ‘you have kept to yourselves the key to knowledge’ or ‘… the means by which one may gain understanding.’</Comments>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04201105200016</LEXReference>
+            <LEXReference>06600101800038</LEXReference>
+            <LEXReference>06600300700036</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

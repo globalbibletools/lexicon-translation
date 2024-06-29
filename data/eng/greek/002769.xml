@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="002769000000000" Lemma="κενοφωνία" Version="0" HasAramaic="false" InLXX="false" AlphaPos="κ">
+  <StrongCodes>
+    <Strong>G2757</Strong>
+  </StrongCodes>
+  <Authors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes/>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="002769001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>noun, f.</PartOfSpeech>
+      </PartsOfSpeech>
+      <Inflections>
+        <Inflection Lemma="κενοφωνία" BaseFormIndex="1">
+          <Form/>
+          <Realizations>
+            <Realization>-ας</Realization>
+          </Realizations>
+          <Comments/>
+        </Inflection>
+      </Inflections>
+      <Constructs>
+        <Construct Lemma="κενοφωνία" BaseFormIndex="1">
+          <WordMeaningSet>
+            <Word>κενόω</Word>
+          </WordMeaningSet>
+          <WordMeaningSet>
+            <Word>φωνέω</Word>
+          </WordMeaningSet>
+        </Construct>
+      </Constructs>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="002769001001000" IsBiblicalTerm="Y" EntryCode="33.376" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Communication</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Foolish Talk</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-10-05 12:38:02" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>talk which lacks significant content</DefinitionShort>
+              <Glosses>
+                <Gloss>foolish talk</Gloss>
+                <Gloss>empty talk</Gloss>
+              </Glosses>
+              <Comments>‘Foolish talk’ may often be expressed as ‘to talk the way fools talk’ or ‘to talk with a smirk on the face.’</Comments>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>05400602000018</LEXReference>
+            <LEXReference>05500201600008</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

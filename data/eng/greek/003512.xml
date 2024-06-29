@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="003512000000000" Lemma="οἰκεῖος" Version="0" HasAramaic="false" InLXX="true" AlphaPos="ο">
+  <StrongCodes>
+    <Strong>G3609</Strong>
+  </StrongCodes>
+  <Authors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes/>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="003512001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>adjc.</PartOfSpeech>
+      </PartsOfSpeech>
+      <Inflections>
+        <Inflection Lemma="οἰκεῖος" BaseFormIndex="1">
+          <Form/>
+          <Realizations>
+            <Realization>(-α), -ον</Realization>
+          </Realizations>
+          <Comments/>
+        </Inflection>
+      </Inflections>
+      <RelatedLemmas>
+        <RelatedLemma>
+          <Word>οἰκέω</Word>
+        </RelatedLemma>
+      </RelatedLemmas>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="003512001001000" IsBiblicalTerm="Y" EntryCode="10.11" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Kinship Terms</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Groups and Members of Groups of Persons Regarded as Related by Blood but without Special Reference to Successive Generations</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-12-11 14:59:24" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>(derivative of {L:οἶκος&lt;SDBG:οἶκος:000001&gt;}[b] ‘family,’ {D:10.8}) one who belongs to a particular household or extended family</DefinitionShort>
+              <Glosses>
+                <Gloss>member of a family</Gloss>
+                <Gloss>relative</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04800601000030</LEXReference>
+            <LEXReference>04900201900028</LEXReference>
+            <LEXReference>05400500800016</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

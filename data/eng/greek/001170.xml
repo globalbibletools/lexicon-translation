@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="001170000000000" Lemma="δανίζω" Version="0" HasAramaic="false" InLXX="false" AlphaPos="δ">
+  <StrongCodes>
+    <Strong>G1155a</Strong>
+  </StrongCodes>
+  <Authors/>
+  <AlternateLemmas>
+    <AlternateLemma>δανείζω</AlternateLemma>
+    <AlternateLemma>δανείζομαι</AlternateLemma>
+  </AlternateLemmas>
+  <MainLinks/>
+  <Notes/>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="001170001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>verb</PartOfSpeech>
+      </PartsOfSpeech>
+      <Inflections>
+        <Inflection Lemma="δανίζω" BaseFormIndex="1">
+          <Form>aor.subj.</Form>
+          <Realizations>
+            <Realization>δανίσω</Realization>
+          </Realizations>
+          <Comments/>
+        </Inflection>
+      </Inflections>
+      <RelatedLemmas>
+        <RelatedLemma>
+          <Word>δάνειον</Word>
+        </RelatedLemma>
+        <RelatedLemma>
+          <Word>δανιστής</Word>
+        </RelatedLemma>
+      </RelatedLemmas>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="001170001001000" IsBiblicalTerm="M" EntryCode="57.209" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Possess, Transfer, Exchange</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Lend, Loan, Interest, Borrow, Bank</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-08-30 14:50:34" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>to lend money, normally with the expectation of receiving the same amount in return plus interest</DefinitionShort>
+              <Glosses>
+                <Gloss>to make a loan</Gloss>
+                <Gloss>to lend money</Gloss>
+              </Glosses>
+              <Comments>In {S:04200603400030} it is possible that no interest payment is involved, in which case the meaning is similar to that of {L:κίχρημι&lt;SDBG:κίχρημι:000000&gt;} ‘to lend’ ({D:57.214}).</Comments>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04200603400006</LEXReference>
+            <LEXReference>04200603400030</LEXReference>
+            <LEXReference>04200603500018</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+        <LEXMeaning Id="001170001002000" IsBiblicalTerm="M" EntryCode="57.213" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Possess, Transfer, Exchange</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Lend, Loan, Interest, Borrow, Bank</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXForms>
+            <LEXForm>δανείζομαι</LEXForm>
+          </LEXForms>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-08-30 14:50:34" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>to borrow money, normally with the implication of interest to be paid</DefinitionShort>
+              <Glosses>
+                <Gloss>to borrow money</Gloss>
+              </Glosses>
+              <Comments>It is possible, however, that in {S:04000504200020} interest on the loan is not involved.</Comments>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04000504200020</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

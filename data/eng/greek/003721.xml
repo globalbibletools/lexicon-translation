@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="003721000000000" Lemma="παίω" Version="0" HasAramaic="false" InLXX="true" AlphaPos="π">
+  <StrongCodes>
+    <Strong>G3817</Strong>
+  </StrongCodes>
+  <Authors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes>
+    <Note Caller="1" LanguageCode="en" LastEdited="" LastEditedBy="">
+      <References>
+        <Reference>06600900500042</Reference>
+      </References>
+      <Content>It is possible that παίω in {S:06600900500042} should be understood in the more generic sense of ‘to strike’ (see παίω[a], {D:19.1}). It is difficult to tell, especially in apocalyptic literature, precisely what particular meaning fits a context.</Content>
+    </Note>
+  </Notes>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="003721001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>verb</PartOfSpeech>
+      </PartsOfSpeech>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="003721001001000" IsBiblicalTerm="Y" EntryCode="19.1" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Physical Impact</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Hit, Strike</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-12-16 12:33:14" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>to strike or hit an object, one or more times</DefinitionShort>
+              <Glosses>
+                <Gloss>to hit</Gloss>
+                <Gloss>to strike</Gloss>
+                <Gloss>to beat</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04002606800016</LEXReference>
+            <LEXReference>04101404700018</LEXReference>
+            <LEXReference>04202206400020</LEXReference>
+            <LEXReference>04301801000018</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+        <LEXMeaning Id="003721001002000" IsBiblicalTerm="Y" EntryCode="19.16" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Physical Impact</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Pierce, Cut</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-12-16 12:33:14" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>to sting (as of a scorpion)</DefinitionShort>
+              <Glosses>
+                <Gloss>to sting</Gloss>
+                <Gloss>to strike</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>06600900500042{N:001}</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

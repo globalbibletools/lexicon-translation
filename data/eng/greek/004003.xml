@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="004003000000000" Lemma="πιπράσκω" Version="0" HasAramaic="false" InLXX="true" AlphaPos="π">
+  <StrongCodes>
+    <Strong>G4097</Strong>
+  </StrongCodes>
+  <Authors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes/>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="004003001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>verb</PartOfSpeech>
+      </PartsOfSpeech>
+      <Inflections>
+        <Inflection Lemma="πιπράσκω" BaseFormIndex="1">
+          <Form>pf.</Form>
+          <Realizations>
+            <Realization>πέπρακα</Realization>
+          </Realizations>
+          <Comments/>
+        </Inflection>
+        <Inflection Lemma="πιπράσκω" BaseFormIndex="1">
+          <Form>pf.pass.</Form>
+          <Realizations>
+            <Realization>πέπραμαι</Realization>
+          </Realizations>
+          <Comments/>
+        </Inflection>
+        <Inflection Lemma="πιπράσκω" BaseFormIndex="1">
+          <Form>aor.pass.</Form>
+          <Realizations>
+            <Realization>ἐπράθην</Realization>
+          </Realizations>
+          <Comments/>
+        </Inflection>
+        <Inflection Lemma="πιπράσκω" BaseFormIndex="1">
+          <Form>inf.</Form>
+          <Realizations>
+            <Realization>πραθῆναι</Realization>
+          </Realizations>
+          <Comments/>
+        </Inflection>
+        <Inflection Lemma="πιπράσκω" BaseFormIndex="1">
+          <Form>ptc.neut.</Form>
+          <Realizations>
+            <Realization>πραθέν</Realization>
+          </Realizations>
+          <Comments/>
+        </Inflection>
+      </Inflections>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="004003001001000" IsBiblicalTerm="Y" EntryCode="57.186" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Possess, Transfer, Exchange</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Sell, Buy, Price</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-12-27 12:08:27" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>to dispose of property or provide services in exchange for money or other valuable considerations</DefinitionShort>
+              <Glosses>
+                <Gloss>to sell</Gloss>
+              </Glosses>
+              <Comments>πιπράσκω and ἀποδίδομαι ({L:ἀποδίδωμι&lt;SDBG:ἀποδίδωμι:000004&gt;}[e]) may also be used to refer to selling a person into slavery. Note, for example, πιπράσκω in {S:04001802500020} (ἐκέλευσεν αὐτὸν ὁ κύριος πραθῆναι ‘his master ordered him to be sold as a slave’) and ἀποδίδομαι in {S:04400700900014} (οἱ πατριάρχαι ζηλώσαντες τὸν Ἰωσὴφ ἀπέδοντο εἰς Αἴγυπτον ‘the patriarchs were jealous of Joseph and sold him to be a slave in Egypt’).|In a number of languages, however, it may be important to use a distinctive term for selling a person into slavery. In fact, it may be necessary to describe the event rather explicitly, for example, ‘to receive money for handing a person over to someone else to be a slave.’|In {S:04500701400024} πιπράσκω is used figuratively in the phrase πεπραμένος ὑπὸ τὴν ἁμαρτίαν ‘sold as a slave to sin,’ in the sense that sin is personified as the master.</Comments>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04001304600014</LEXReference>
+            <LEXReference>04001802500020</LEXReference>
+            <LEXReference>04002600900008</LEXReference>
+            <LEXReference>04101400500012</LEXReference>
+            <LEXReference>04301200500014</LEXReference>
+            <LEXReference>04400204500014</LEXReference>
+            <LEXReference>04400403400040</LEXReference>
+            <LEXReference>04400500400012</LEXReference>
+            <LEXReference>04500701400024</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

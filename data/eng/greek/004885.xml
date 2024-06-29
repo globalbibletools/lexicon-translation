@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="004885000000000" Lemma="σχολή" Version="0" HasAramaic="false" InLXX="true" AlphaPos="σ">
+  <StrongCodes>
+    <Strong>G4981</Strong>
+  </StrongCodes>
+  <Authors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes/>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="004885001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>noun, f.</PartOfSpeech>
+      </PartsOfSpeech>
+      <Inflections>
+        <Inflection Lemma="σχολή" BaseFormIndex="1">
+          <Form/>
+          <Realizations>
+            <Realization>-ῆς</Realization>
+          </Realizations>
+          <Comments/>
+        </Inflection>
+      </Inflections>
+      <RelatedLemmas>
+        <RelatedLemma>
+          <Word>σχολάζω</Word>
+        </RelatedLemma>
+      </RelatedLemmas>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="004885001001000" IsBiblicalTerm="M" EntryCode="7.14" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Constructions</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Buildings</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2022-03-17 15:17:06" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>a building where teachers and students met for study and discussion</DefinitionShort>
+              <Glosses>
+                <Gloss>lecture hall</Gloss>
+                <Gloss>school</Gloss>
+              </Glosses>
+              <Comments>In {S:04401900900048} it is better to use a translation such as ‘lecture hall’ rather than ‘school,’ since one does not wish to give the impression of the typical classroom situation characteristic of present-day schools. One may translate the relevant context of {S:04401900900048} as ‘every day Paul discussed with people in the lecture hall which belonged to Tyrannus’ or ‘… in a hall where Tyrannus often taught’ or ‘… lectured.’</Comments>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04401900900048</LEXReference>
+          </LEXReferences>
+          <LEXLinks>
+            <LEXLink>realia:3.13.7</LEXLink>
+          </LEXLinks>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

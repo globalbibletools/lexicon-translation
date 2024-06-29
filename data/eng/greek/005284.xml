@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="005284000000000" Lemma="φλόξ" Version="0" HasAramaic="false" InLXX="true" AlphaPos="φ">
+  <StrongCodes>
+    <Strong>G5395</Strong>
+  </StrongCodes>
+  <Authors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes/>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="005284001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>noun, f.</PartOfSpeech>
+      </PartsOfSpeech>
+      <Inflections>
+        <Inflection Lemma="φλόξ" BaseFormIndex="1">
+          <Form/>
+          <Realizations>
+            <Realization>φλογός</Realization>
+          </Realizations>
+          <Comments/>
+        </Inflection>
+      </Inflections>
+      <RelatedLemmas>
+        <RelatedLemma>
+          <Word>φλογίζω</Word>
+        </RelatedLemma>
+      </RelatedLemmas>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="005284001001000" IsBiblicalTerm="Y" EntryCode="2.4" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Natural Substances</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Fire</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2022-05-19 14:43:51" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>the burning vapor surrounding an object on fire</DefinitionShort>
+              <Glosses>
+                <Gloss>flame</Gloss>
+              </Glosses>
+              <Comments>As in the case of {L:πῦρ&lt;SDBG:πῦρ:000000&gt;}a ‘fire’ ({D:2.3}), the term φλόξ ‘flame’ is likewise frequently rendered by a verb rather than by a noun. Accordingly, in a passage such as {S:04400703000030} ‘in the flames of a burning bush’ becomes ‘where the burning bush was flaming up’ or ‘where flames were burning a bush.’ In some languages ‘flames’ are referred to as ‘the tongues of the fire’ or ‘the banner of the fire.’ In a number of languages, however, no distinction is made between ‘fire’ and ‘flame.’</Comments>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04201602400058</LEXReference>
+            <LEXReference>04400703000030</LEXReference>
+            <LEXReference>05300100800006</LEXReference>
+            <LEXReference>05800100700036</LEXReference>
+            <LEXReference>06600101400038</LEXReference>
+            <LEXReference>06600201800042</LEXReference>
+            <LEXReference>06601901200012</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

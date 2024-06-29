@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="003869000000000" Lemma="πατρίς" Version="0" HasAramaic="false" InLXX="true" AlphaPos="π">
+  <StrongCodes>
+    <Strong>G3968</Strong>
+  </StrongCodes>
+  <Authors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes/>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="003869001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>noun, f.</PartOfSpeech>
+      </PartsOfSpeech>
+      <Inflections>
+        <Inflection Lemma="πατρίς" BaseFormIndex="1">
+          <Form/>
+          <Realizations>
+            <Realization>-ίδος</Realization>
+          </Realizations>
+          <Comments/>
+        </Inflection>
+      </Inflections>
+      <RelatedLemmas>
+        <RelatedLemma>
+          <Word>πατήρ</Word>
+        </RelatedLemma>
+      </RelatedLemmas>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="003869001001000" IsBiblicalTerm="Y" EntryCode="1.81" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Geographical Objects and Features</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Sociopolitical Areas</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-12-23 21:17:45" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>the region or population center from which a person comes, that is to say, the place of one’s birth or childhood or the place from which one’s family has come</DefinitionShort>
+              <Glosses>
+                <Gloss>homeland</Gloss>
+                <Gloss>hometown</Gloss>
+              </Glosses>
+              <Comments>In some languages a very clear distinction is made between three different references of a term such as πατρίς: (1) the place from which one’s family has come, (2) the place where one is born, and (3) the place where one normally resides. Special care, therefore, must be exercised in translating a passage such as {S:04100600100016}.</Comments>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04001305400010</LEXReference>
+            <LEXReference>04001305700036</LEXReference>
+            <LEXReference>04100600100016</LEXReference>
+            <LEXReference>04100600400030</LEXReference>
+            <LEXReference>04200402300050</LEXReference>
+            <LEXReference>04200402400026</LEXReference>
+            <LEXReference>04300404400020</LEXReference>
+            <LEXReference>05801101400014</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

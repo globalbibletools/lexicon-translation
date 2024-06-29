@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="004416000000000" Lemma="מֵרֵעַ" Version="4" HasAramaic="false" InLXX="false" AlphaPos="מ">
+  <StrongCodes>
+    <Strong>H4828</Strong>
+  </StrongCodes>
+  <Authors>
+    <Author>Sarah Lind</Author>
+  </Authors>
+  <Contributors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes>
+    <Note Caller="1" LanguageCode="en" LastEdited="" LastEditedBy="">
+      <References>
+        <Reference>01800601400008</Reference>
+      </References>
+      <Content>MT HOTTP-B | RSV NRSV ESV "withhold from a friend" = למאס {L:מרעהו&lt;SDBH:רֵעַ&gt;}</Content>
+    </Note>
+    <Note Caller="2" LanguageCode="en" LastEdited="" LastEditedBy="">
+      <References>
+        <Reference>02001202600004</Reference>
+      </References>
+      <Content>MT HOTTP-B NJPS NRSV NJB GNT ESV | RSV {L:רָעָה&lt;SDBH:רָעָה&gt;}</Content>
+    </Note>
+  </Notes>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="004416001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>nsm</PartOfSpeech>
+      </PartsOfSpeech>
+      <RelatedLemmas>
+        <RelatedLemma>
+          <Word>רעה</Word>
+        </RelatedLemma>
+      </RelatedLemmas>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="004416001001000" IsBiblicalTerm="M" EntryCode="" Indent="0">
+          <LEXDomains>
+            <LEXDomain Code="001001002003003">Friends</LEXDomain>
+          </LEXDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2020-10-16 13:03:49" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>= a person with whom someone has a bond of mutual affection and respect and trust</DefinitionShort>
+              <Glosses>
+                <Gloss>friend</Gloss>
+                <Gloss>companion</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>00102602600018</LEXReference>
+            <LEXReference>00701401100018</LEXReference>
+            <LEXReference>00701402000012</LEXReference>
+            <LEXReference>00701500200024</LEXReference>
+            <LEXReference>00701500600040</LEXReference>
+            <LEXReference>01000300800060</LEXReference>
+            <LEXReference>01800601400008{N:001}</LEXReference>
+            <LEXReference>02001202600004{N:002}</LEXReference>
+            <LEXReference>02001900700014</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+        <LEXMeaning Id="004416001002000" IsBiblicalTerm="X" EntryCode="" Indent="0">
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>NO DATA YET</DefinitionShort>
+              <Glosses>
+                <Gloss>NO DATA YET</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>01800601400008</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

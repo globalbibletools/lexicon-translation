@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="004086000000000" Lemma="מַמְלָכוּת" Version="4" HasAramaic="false" InLXX="false" AlphaPos="מ">
+  <StrongCodes>
+    <Strong>H4468</Strong>
+  </StrongCodes>
+  <Authors>
+    <Author>Reinier de Blois</Author>
+  </Authors>
+  <Contributors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes/>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="004086001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>nsf</PartOfSpeech>
+      </PartsOfSpeech>
+      <RelatedLemmas>
+        <RelatedLemma>
+          <Word>מלך</Word>
+        </RelatedLemma>
+      </RelatedLemmas>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="004086001001000" IsBiblicalTerm="M" EntryCode="" Indent="0">
+          <LEXDomains>
+            <LEXDomain Code="002003002008">Control</LEXDomain>
+          </LEXDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2016-12-12 00:32:17" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>= state in which a person or deity has been entrusted with the office of {L:king&lt;SDBH:מֶלֶךְ&gt;} or {L:queen&lt;SDBH:מַלְכָּה&gt;}</DefinitionShort>
+              <Glosses>
+                <Gloss>kingship</Gloss>
+                <Gloss>kingdom</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>00901502800016</LEXReference>
+            <LEXReference>01001600300056</LEXReference>
+            <LEXReference>02402600100006</LEXReference>
+            <LEXReference>02800100400042</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+          <LEXCoreDomains>
+            <LEXCoreDomain Code="015">Authority</LEXCoreDomain>
+            <LEXCoreDomain Code="148">Royalty</LEXCoreDomain>
+          </LEXCoreDomains>
+        </LEXMeaning>
+        <LEXMeaning Id="004086001002000" IsBiblicalTerm="Y" EntryCode="" Indent="0">
+          <LEXDomains>
+            <LEXDomain Code="001001002003004" Source="Control" SourceCode="002003002008">Groups</LEXDomain>
+            <LEXDomain Code="001005002002001" Source="Control" SourceCode="002003002008">Land</LEXDomain>
+          </LEXDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2022-09-19 20:21:54" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>= the realm of a {L:king&lt;SDBH:מֶלֶךְ&gt;} or {L:queen&lt;SDBH:מַלְכָּה&gt;} including the people, the land, and all other assets</DefinitionShort>
+              <Glosses>
+                <Gloss>kingdom</Gloss>
+                <Gloss>realm</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>00601301200004</LEXReference>
+            <LEXReference>00601302100016</LEXReference>
+            <LEXReference>00601302700026</LEXReference>
+            <LEXReference>00601303000020</LEXReference>
+            <LEXReference>00601303100020</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+          <LEXCoreDomains>
+            <LEXCoreDomain Code="015">Authority</LEXCoreDomain>
+            <LEXCoreDomain Code="148">Royalty</LEXCoreDomain>
+          </LEXCoreDomains>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="004922000000000" Lemma="ταραχή" Version="0" HasAramaic="false" InLXX="true" AlphaPos="τ">
+  <StrongCodes/>
+  <Authors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes/>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="004922001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>noun, f.</PartOfSpeech>
+      </PartsOfSpeech>
+      <Inflections>
+        <Inflection Lemma="ταραχή" BaseFormIndex="1">
+          <Form/>
+          <Realizations>
+            <Realization>-ῆς</Realization>
+          </Realizations>
+          <Comments/>
+        </Inflection>
+      </Inflections>
+      <RelatedLemmas>
+        <RelatedLemma>
+          <Word>ταράσσω</Word>
+        </RelatedLemma>
+      </RelatedLemmas>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="004922001001000" IsBiblicalTerm="Y" EntryCode="16.4" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Non-Linear Movement</LEXDomain>
+          </LEXDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2022-03-31 22:04:33" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>the motion resulting from a mass being stirred up or shaken</DefinitionShort>
+              <Glosses>
+                <Gloss>movement</Gloss>
+                <Gloss>motion</Gloss>
+              </Glosses>
+              <Comments>This word is found as a variant reading only: ὁ οὖν πρῶτος ἐμβὰς μετὰ τὴν ταραχὴν τοῦ ὕδατος ὑγιὴς ἐγίνετο ‘the first person to go into (the pool) after the water had been moved was healed’ {S:04300500400000} (apparatus).</Comments>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04300500300018</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+        <LEXMeaning Id="004922001002000" IsBiblicalTerm="Y" EntryCode="39.42" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Hostility, Strife</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Riot</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2022-03-31 22:04:33" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>disorderly behavior of people in violent opposition to authority</DefinitionShort>
+              <Glosses>
+                <Gloss>riot</Gloss>
+              </Glosses>
+              <Comments>This word is found as a variant reading only: λιμοὶ καὶ ταραχαί ‘famines and riots’ {S:04101300800030} (apparatus).</Comments>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04101300800030</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

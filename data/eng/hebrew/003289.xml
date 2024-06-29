@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="003289000000000" Lemma="כִּידֹון" Version="5" HasAramaic="false" InLXX="false" AlphaPos="כ">
+  <StrongCodes>
+    <Strong>H3591</Strong>
+    <Strong>H3592</Strong>
+  </StrongCodes>
+  <Authors>
+    <Author>Reinier de Blois</Author>
+  </Authors>
+  <Contributors/>
+  <AlternateLemmas>
+    <AlternateLemma>כִּידֹן</AlternateLemma>
+  </AlternateLemmas>
+  <MainLinks/>
+  <Notes/>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="003289001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>nsm</PartOfSpeech>
+      </PartsOfSpeech>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="003289001001000" IsBiblicalTerm="M" EntryCode="" Indent="0">
+          <LEXDomains>
+            <LEXDomain Code="001004001020">Weapons</LEXDomain>
+          </LEXDomains>
+          <LEXSynonyms>
+            <LEXSynonym>אַשְׁפָּה</LEXSynonym>
+            <LEXSynonym>חֲנִית</LEXSynonym>
+            <LEXSynonym>קֶשֶׁת</LEXSynonym>
+            <LEXSynonym>תֹּותָח</LEXSynonym>
+          </LEXSynonyms>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2017-11-12 14:53:04" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>= a type of short {L:spear&lt;SDBH:רֹמַח&gt;} or large {L:arrow&lt;SDBH:חֵץ&gt;}, made of wood or reed, and therefore relatively light and more suited for throwing from a standing position or while riding on a horse or in a chariot</DefinitionShort>
+              <Glosses>
+                <Gloss>javelin</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>00600801800018</LEXReference>
+            <LEXReference>00600801800050</LEXReference>
+            <LEXReference>00600802600020</LEXReference>
+            <LEXReference>00901700600014</LEXReference>
+            <LEXReference>00901704500034</LEXReference>
+            <LEXReference>01803902300014</LEXReference>
+            <LEXReference>01804102100018</LEXReference>
+            <LEXReference>02400602300006</LEXReference>
+            <LEXReference>02405004200006</LEXReference>
+          </LEXReferences>
+          <LEXLinks>
+            <LEXLink>Realia:2.6</LEXLink>
+          </LEXLinks>
+          <LEXVideos/>
+          <LEXCoreDomains>
+            <LEXCoreDomain Code="027">Crafts</LEXCoreDomain>
+            <LEXCoreDomain Code="006">Aggression</LEXCoreDomain>
+            <LEXCoreDomain Code="188">Warfare</LEXCoreDomain>
+          </LEXCoreDomains>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+    <BaseForm Id="003289002000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>np</PartOfSpeech>
+      </PartsOfSpeech>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="003289002001000" IsBiblicalTerm="N" EntryCode="" Indent="0">
+          <LEXDomains>
+            <LEXDomain Code="003001003">Names of Constructions</LEXDomain>
+          </LEXDomains>
+          <LEXCollocations>
+            <LEXCollocation>גֹּרֶן כִּידֹון</LEXCollocation>
+          </LEXCollocations>
+          <LEXSynonyms>
+            <LEXSynonym>גֹּרֶן נָכֹון</LEXSynonym>
+          </LEXSynonyms>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2017-11-12 14:53:04" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>= {L:threshing-floor&lt;SDBH:גֹּרֶן&gt;}; ◄ belonging to Kidon, also known as {L:Nacon&lt;SDBH:נָכֹון&gt;}; ◄ location unknown</DefinitionShort>
+              <Glosses>
+                <Gloss>threshing floor of Kidon</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>01301300900010</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

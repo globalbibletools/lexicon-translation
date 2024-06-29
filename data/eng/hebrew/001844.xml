@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="001844000000000" Lemma="המם" Version="4" HasAramaic="false" InLXX="false" AlphaPos="ה">
+  <StrongCodes>
+    <Strong>H2000</Strong>
+  </StrongCodes>
+  <Authors>
+    <Author>Enio R. Mueller</Author>
+  </Authors>
+  <Contributors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes>
+    <Note Caller="1" LanguageCode="en" LastEdited="" LastEditedBy="">
+      <References>
+        <Reference>02405103400006</Reference>
+      </References>
+      <Content>MT-K הממנו | MT-Q הֲמָמַנִי</Content>
+    </Note>
+    <Note Caller="2" LanguageCode="en" LastEdited="" LastEditedBy="">
+      <References>
+        <Reference>01002201500016</Reference>
+      </References>
+      <Content>MT-K ויהמם | MT-Q וַיָּהֹם</Content>
+    </Note>
+  </Notes>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="001844001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>vb</PartOfSpeech>
+      </PartsOfSpeech>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="001844001001000" IsBiblicalTerm="Y" EntryCode="" Indent="0">
+          <LEXDomains>
+            <LEXDomain Code="002001002001">Afraid</LEXDomain>
+            <LEXDomain Code="002002001006">Flee</LEXDomain>
+          </LEXDomains>
+          <LEXForms>
+            <LEXForm>vbqal-</LEXForm>
+          </LEXForms>
+          <LEXSynonyms>
+            <LEXSynonym>אֵימָה</LEXSynonym>
+            <LEXSynonym>נגף</LEXSynonym>
+            <LEXSynonym>פוץ</LEXSynonym>
+          </LEXSynonyms>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2017-03-10 15:42:16" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>= causative process by which deities cause humans to be overwhelmed with fear and flee</DefinitionShort>
+              <Glosses>
+                <Gloss>to throw in a panic</Gloss>
+                <Gloss>to rout</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>00201402400038</LEXReference>
+            <LEXReference>00202302700014</LEXReference>
+            <LEXReference>00601001000004</LEXReference>
+            <LEXReference>00700401500004</LEXReference>
+            <LEXReference>00900701000058</LEXReference>
+            <LEXReference>01002201500016{N:002}</LEXReference>
+            <LEXReference>01002201500020</LEXReference>
+            <LEXReference>01401500600024</LEXReference>
+            <LEXReference>01901801500020</LEXReference>
+            <LEXReference>01914400600016</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+          <LEXCoreDomains>
+            <LEXCoreDomain Code="043">Confidence and Fear</LEXCoreDomain>
+            <LEXCoreDomain Code="110">Motion</LEXCoreDomain>
+          </LEXCoreDomains>
+        </LEXMeaning>
+        <LEXMeaning Id="001844001002000" IsBiblicalTerm="Y" EntryCode="" Indent="0">
+          <LEXDomains>
+            <LEXDomain Code="002002002006" Source="Afraid" SourceCode="002001002001">Non-Exist</LEXDomain>
+          </LEXDomains>
+          <LEXForms>
+            <LEXForm>vbqal-</LEXForm>
+          </LEXForms>
+          <LEXSynonyms>
+            <LEXSynonym>אבד</LEXSynonym>
+            <LEXSynonym>אכל</LEXSynonym>
+          </LEXSynonyms>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2017-03-10 15:42:16" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>= causative process by which humans or deities cause (other) humans to be removed from existence, usually in a violent way</DefinitionShort>
+              <Glosses>
+                <Gloss>to destroy</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>00500201500016</LEXReference>
+            <LEXReference>01700902400048</LEXReference>
+            <LEXReference>02405103400006{N:001}</LEXReference>
+            <LEXReference>02405103400008</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+          <LEXCoreDomains>
+            <LEXCoreDomain Code="006">Aggression</LEXCoreDomain>
+          </LEXCoreDomains>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+    <BaseForm Id="001844002000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>vb</PartOfSpeech>
+      </PartsOfSpeech>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="001844002001000" IsBiblicalTerm="Y" EntryCode="" Indent="0">
+          <LEXDomains>
+            <LEXDomain Code="002004001009007">Sounds</LEXDomain>
+          </LEXDomains>
+          <LEXForms>
+            <LEXForm>vbqal-</LEXForm>
+          </LEXForms>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2017-03-10 15:42:16" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>= process by which an object produces noise when moving</DefinitionShort>
+              <Glosses>
+                <Gloss>to rumble</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>02302802800020</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

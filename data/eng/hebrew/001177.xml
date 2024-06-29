@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="001177000000000" Lemma="בָּרִיא" Version="5" HasAramaic="false" InLXX="false" AlphaPos="ב">
+  <StrongCodes>
+    <Strong>H1274</Strong>
+    <Strong>H1277</Strong>
+  </StrongCodes>
+  <Authors>
+    <Author>Enio R. Mueller</Author>
+  </Authors>
+  <Contributors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes>
+    <Note Caller="1" LanguageCode="en" LastEdited="" LastEditedBy="">
+      <References>
+        <Reference>02603402000026</Reference>
+      </References>
+      <Content>MT בִרְיָה</Content>
+    </Note>
+  </Notes>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="001177001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>aj</PartOfSpeech>
+      </PartsOfSpeech>
+      <RelatedLemmas>
+        <RelatedLemma>
+          <Word>ברא</Word>
+        </RelatedLemma>
+      </RelatedLemmas>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="001177001001000" IsBiblicalTerm="Y" EntryCode="" Indent="0">
+          <LEXDomains>
+            <LEXDomain Code="002001001027">Fat</LEXDomain>
+          </LEXDomains>
+          <LEXSynonyms>
+            <LEXSynonym>רָזֶה</LEXSynonym>
+          </LEXSynonyms>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2015-09-29 11:14:18" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>= state in which a human or animal has a lot of excess fat; ≈ considered a sign of health and wealth</DefinitionShort>
+              <Glosses>
+                <Gloss>fat</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>00104100200024</LEXReference>
+            <LEXReference>00104100400042</LEXReference>
+            <LEXReference>00104101800018</LEXReference>
+            <LEXReference>00104102000034</LEXReference>
+            <LEXReference>00700301700026</LEXReference>
+            <LEXReference>01100500300006</LEXReference>
+            <LEXReference>01907300400014</LEXReference>
+            <LEXReference>02603400300022</LEXReference>
+            <LEXReference>02603402000026{N:001}</LEXReference>
+            <LEXReference>02700101500020</LEXReference>
+            <LEXReference>03801101600058</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+          <LEXCoreDomains>
+            <LEXCoreDomain Code="161">Size</LEXCoreDomain>
+            <LEXCoreDomain Code="019">Body</LEXCoreDomain>
+            <LEXCoreDomain Code="076">Health and Sickness</LEXCoreDomain>
+          </LEXCoreDomains>
+        </LEXMeaning>
+        <LEXMeaning Id="001177001002000" IsBiblicalTerm="Y" EntryCode="" Indent="0">
+          <LEXDomains>
+            <LEXDomain Code="002001001027">Fat</LEXDomain>
+          </LEXDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2015-09-29 11:14:18" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>= state in which an object is large in size, as if it were containing excess fat; ≈ considered a sign of health and wealth</DefinitionShort>
+              <Glosses>
+                <Gloss>plump</Gloss>
+                <Gloss>thick</Gloss>
+                <Gloss>fat</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>00104100500028</LEXReference>
+            <LEXReference>00104100700024</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+          <LEXCoreDomains>
+            <LEXCoreDomain Code="161">Size</LEXCoreDomain>
+          </LEXCoreDomains>
+        </LEXMeaning>
+        <LEXMeaning Id="001177001003000" IsBiblicalTerm="Y" EntryCode="" Indent="0">
+          <LEXDomains>
+            <LEXDomain Code="002001001028" Source="Fat" SourceCode="002001001027">Good</LEXDomain>
+          </LEXDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2015-09-29 11:14:18" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>= state in which food contains much fat; ≈ considered high quality</DefinitionShort>
+              <Glosses>
+                <Gloss>rich (food)</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>03500101600034</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+          <LEXCoreDomains>
+            <LEXCoreDomain Code="137">Quality</LEXCoreDomain>
+            <LEXCoreDomain Code="069">Food</LEXCoreDomain>
+          </LEXCoreDomains>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

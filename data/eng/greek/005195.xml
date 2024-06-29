@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="005195000000000" Lemma="ὑστέρησις" Version="0" HasAramaic="false" InLXX="false" AlphaPos="υ">
+  <StrongCodes>
+    <Strong>G5304</Strong>
+  </StrongCodes>
+  <Authors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes>
+    <Note Caller="1" LanguageCode="en" LastEdited="" LastEditedBy="">
+      <References/>
+      <Content>As will be readily noted, the terms ὑστερέω[a] ({D:57.37}), ὑστέρησις ({D:57.37}), and ὑστέρημα[a] ({D:57.38}) occur in contexts implying various degrees of lack, so that in certain contexts one may appropriately translate these terms as in dire need, to be poor, or even to be poverty stricken, but there seems to be no semantically justifiable means by which one may clearly distinguish degrees of lack.</Content>
+    </Note>
+  </Notes>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="005195001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>noun, f.</PartOfSpeech>
+      </PartsOfSpeech>
+      <Inflections>
+        <Inflection Lemma="ὑστέρησις" BaseFormIndex="1">
+          <Form/>
+          <Realizations>
+            <Realization>-εως</Realization>
+          </Realizations>
+          <Comments/>
+        </Inflection>
+      </Inflections>
+      <RelatedLemmas>
+        <RelatedLemma>
+          <Word>ὑστερέω</Word>
+        </RelatedLemma>
+      </RelatedLemmas>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="005195001001000" IsBiblicalTerm="Y" EntryCode="57.37" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Possess, Transfer, Exchange</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Need, Lack</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2022-05-06 08:01:13" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>to be lacking in what is essential or needed{N:001}</DefinitionShort>
+              <Glosses>
+                <Gloss>to lack</Gloss>
+                <Gloss>to be in need of</Gloss>
+                <Gloss>to be in want</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04101204400024</LEXReference>
+            <LEXReference>05000401100008</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="001028000000000" Lemma="בַּלְעֲדֵי" Version="5" HasAramaic="false" InLXX="false" AlphaPos="ב">
+  <StrongCodes>
+    <Strong>H1107</Strong>
+  </StrongCodes>
+  <Authors>
+    <Author>Reinier de Blois</Author>
+  </Authors>
+  <Contributors/>
+  <AlternateLemmas>
+    <AlternateLemma>בִּלְעֲדֵי</AlternateLemma>
+  </AlternateLemmas>
+  <MainLinks/>
+  <Notes>
+    <Note Caller="1" LanguageCode="en" LastEdited="" LastEditedBy="">
+      <References>
+        <Reference>01803403200002</Reference>
+      </References>
+      <Content>MT HOTTP-B RSV NIV NJPS NRSV "what ... not ..." | NJB "although (I have sinned)"</Content>
+    </Note>
+  </Notes>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="001028001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>pr</PartOfSpeech>
+      </PartsOfSpeech>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="001028001001000" IsBiblicalTerm="Y" EntryCode="" Indent="0">
+          <LEXDomains>
+            <LEXDomain Code="004006">Negators</LEXDomain>
+          </LEXDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2015-05-10 22:52:39" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>= particle indicating that a certain state is not true or that an event does not take place without the involvement of someone else</DefinitionShort>
+              <Glosses>
+                <Gloss>other than</Gloss>
+                <Gloss>apart from</Gloss>
+                <Gloss>without</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>00101402400002</LEXReference>
+            <LEXReference>00104101600016</LEXReference>
+            <LEXReference>00104104400018</LEXReference>
+            <LEXReference>00400502000034</LEXReference>
+            <LEXReference>00602201900072</LEXReference>
+            <LEXReference>01002203200010</LEXReference>
+            <LEXReference>01002203200022</LEXReference>
+            <LEXReference>01201802500008</LEXReference>
+            <LEXReference>01901803200010</LEXReference>
+            <LEXReference>02303601000010</LEXReference>
+            <LEXReference>02304301100014</LEXReference>
+            <LEXReference>02304400600034</LEXReference>
+            <LEXReference>02304400800040</LEXReference>
+            <LEXReference>02304500600022</LEXReference>
+            <LEXReference>02304502100048</LEXReference>
+            <LEXReference>02404401900032</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+        <LEXMeaning Id="001028001002000" IsBiblicalTerm="Y" EntryCode="" Indent="0">
+          <LEXDomains>
+            <LEXDomain Code="002001">Description</LEXDomain>
+          </LEXDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2015-05-10 22:52:39" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>meaning unsure; possibly: = particle linking two elements, in which Y modifies the information presented by X, by which X represents an implicit entity denoting an object, location, time, or manner, and Y represents a negated proposition in which X is one of the semantic arguments</DefinitionShort>
+              <Glosses>
+                <Gloss>that which not</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>01803403200002{N:001}</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

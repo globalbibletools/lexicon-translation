@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="003230000000000" Lemma="μεσημβρία" Version="0" HasAramaic="false" InLXX="true" AlphaPos="μ">
+  <StrongCodes>
+    <Strong>G3314</Strong>
+  </StrongCodes>
+  <Authors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes/>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="003230001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>noun, f.</PartOfSpeech>
+      </PartsOfSpeech>
+      <Inflections>
+        <Inflection Lemma="μεσημβρία" BaseFormIndex="1">
+          <Form/>
+          <Realizations>
+            <Realization>-ας</Realization>
+          </Realizations>
+          <Comments/>
+        </Inflection>
+      </Inflections>
+      <Constructs>
+        <Construct Lemma="μεσημβρία" BaseFormIndex="1">
+          <WordMeaningSet>
+            <Word>μεσόω</Word>
+          </WordMeaningSet>
+          <WordMeaningSet>
+            <Word>ἡμέρα</Word>
+          </WordMeaningSet>
+        </Construct>
+      </Constructs>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="003230001001000" IsBiblicalTerm="Y" EntryCode="67.74" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Time</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>A Point of Time with Reference to Units of Time: Daybreak, Midday, Midnight, Late</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-11-26 20:30:54" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>the midpoint of a day</DefinitionShort>
+              <Glosses>
+                <Gloss>noon</Gloss>
+                <Gloss>midday</Gloss>
+              </Glosses>
+              <Comments>In a number of languages μεσημβρία[a] may be rendered as ‘when the sun is high’ or ‘when the sun is above one’s head’ or ‘just as the sun starts down.’ For another interpretation of μεσημβρία in {S:04400802600024}, see {D:82.4}.</Comments>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04400802600024</LEXReference>
+            <LEXReference>04402200600020</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+        <LEXMeaning Id="003230001002000" IsBiblicalTerm="Y" EntryCode="82.4" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Spacial Orientations</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>North, South, East, West</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-11-26 20:30:54" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort/>
+              <Glosses>
+                <Gloss>south</Gloss>
+              </Glosses>
+              <Comments>It is also possible to interpret κατὰ μεσημβρίαν in {S:04400802600024} as meaning ‘about noon,’ since {L:μεσημβρία&lt;SDBG:μεσημβρία:000000&gt;} is a normal expression for ‘midday’ or ‘noon’ (see {D:67.74}). See also the discussion at {D:82.3}.</Comments>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04400802600024</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="004198000000000" Lemma="מְעוּנִים" Version="5" HasAramaic="false" InLXX="false" AlphaPos="מ">
+  <StrongCodes>
+    <Strong>H4586</Strong>
+  </StrongCodes>
+  <Authors>
+    <Author>Reinier de Blois</Author>
+  </Authors>
+  <Contributors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes>
+    <Note Caller="1" LanguageCode="en" LastEdited="" LastEditedBy="">
+      <References>
+        <Reference>01300404100040</Reference>
+        <Reference>01300404100042</Reference>
+      </References>
+      <Content>{A:MT-K} הַמְּעִינִים | {A:MT-Q} הַמְּעוּנִים</Content>
+    </Note>
+    <Note Caller="2" LanguageCode="en" LastEdited="" LastEditedBy="">
+      <References>
+        <Reference>01500205000008</Reference>
+      </References>
+      <Content>MT-K מעינים | MT-Q מְעוּנִים</Content>
+    </Note>
+  </Notes>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="004198001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>np</PartOfSpeech>
+      </PartsOfSpeech>
+      <RelatedNames>
+        <RelatedName>
+          <Word>מָעֹון</Word>
+        </RelatedName>
+      </RelatedNames>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="004198001001000" IsBiblicalTerm="Y" EntryCode="" Indent="0">
+          <LEXDomains>
+            <LEXDomain Code="003001006">Names of Groups</LEXDomain>
+          </LEXDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2015-12-29 18:57:55" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>= inhabitants of {L:Maon&lt;SDBH:מָעֹון&gt;}</DefinitionShort>
+              <Glosses>
+                <Gloss>Meunites</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>01300404100040{N:001}</LEXReference>
+            <LEXReference>01300404100042{N:001}</LEXReference>
+            <LEXReference>01402600700036</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+        <LEXMeaning Id="004198001002000" IsBiblicalTerm="Y" EntryCode="" Indent="0">
+          <LEXDomains>
+            <LEXDomain Code="003001007">Names of People</LEXDomain>
+          </LEXDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2015-12-29 18:57:55" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>= man; ► family head; {L:temple servants&lt;SDBH:נָתִין&gt;}; after exile</DefinitionShort>
+              <Glosses>
+                <Gloss>Meunim</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>01500205000008{N:002}</LEXReference>
+            <LEXReference>01500205000010</LEXReference>
+            <LEXReference>01600705200008</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

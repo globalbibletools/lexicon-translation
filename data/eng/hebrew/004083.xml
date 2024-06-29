@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="004083000000000" Lemma="מִמְכָּר" Version="4" HasAramaic="false" InLXX="false" AlphaPos="מ">
+  <StrongCodes>
+    <Strong>H4465</Strong>
+  </StrongCodes>
+  <Authors>
+    <Author>Reinier de Blois</Author>
+  </Authors>
+  <Contributors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes/>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="004083001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>nsm</PartOfSpeech>
+      </PartsOfSpeech>
+      <RelatedLemmas>
+        <RelatedLemma>
+          <Word>מכר</Word>
+        </RelatedLemma>
+      </RelatedLemmas>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="004083001001000" IsBiblicalTerm="Y" EntryCode="" Indent="0">
+          <LEXDomains>
+            <LEXDomain Code="002003002019">Non-Possess</LEXDomain>
+          </LEXDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2022-05-05 07:39:57" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>= causative action by which humans hand over objects or privileges in their possession in exchange for goods or money</DefinitionShort>
+              <Glosses>
+                <Gloss>sale</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>00302501400008</LEXReference>
+            <LEXReference>00302502700010</LEXReference>
+            <LEXReference>00302502900030</LEXReference>
+            <LEXReference>00302505000032</LEXReference>
+            <LEXReference>00501800800014</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+        <LEXMeaning Id="004083001002000" IsBiblicalTerm="Y" EntryCode="" Indent="0">
+          <LEXDomains>
+            <LEXDomain Code="001" Source="Non-Possess" SourceCode="002003002019">Objects</LEXDomain>
+          </LEXDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2022-09-19 19:27:41" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>= objects that are sold or available for sale</DefinitionShort>
+              <Glosses>
+                <Gloss>what is sold</Gloss>
+                <Gloss>merchandise</Gloss>
+                <Gloss>wares</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>00302502500034</LEXReference>
+            <LEXReference>00302502800022</LEXReference>
+            <LEXReference>00302503300018</LEXReference>
+            <LEXReference>01601302000016</LEXReference>
+            <LEXReference>02600701300012</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

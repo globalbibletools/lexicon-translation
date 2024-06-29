@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="002882000000000" Lemma="κονιορτός" Version="0" HasAramaic="false" InLXX="true" AlphaPos="κ">
+  <StrongCodes>
+    <Strong>G2868</Strong>
+  </StrongCodes>
+  <Authors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes/>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="002882001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>noun, m.</PartOfSpeech>
+      </PartsOfSpeech>
+      <Inflections>
+        <Inflection Lemma="κονιορτός" BaseFormIndex="1">
+          <Form/>
+          <Realizations>
+            <Realization>-οῦ</Realization>
+          </Realizations>
+          <Comments/>
+        </Inflection>
+      </Inflections>
+      <Constructs>
+        <Construct Lemma="κονιορτός" BaseFormIndex="1">
+          <WordMeaningSet>
+            <Word>κόνις [κονιάω]</Word>
+            <Meaning LanguageCode="en">
+              <Meaning>ashes</Meaning>
+            </Meaning>
+            <Meaning LanguageCode="zhT">
+              <Meaning>灰</Meaning>
+            </Meaning>
+          </WordMeaningSet>
+          <WordMeaningSet>
+            <Word>ὄρνυμι [ὁρμάω]</Word>
+            <Meaning LanguageCode="en">
+              <Meaning>stir up</Meaning>
+            </Meaning>
+            <Meaning LanguageCode="zhT">
+              <Meaning>激起</Meaning>
+            </Meaning>
+          </WordMeaningSet>
+        </Construct>
+      </Constructs>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="002882001001000" IsBiblicalTerm="M" EntryCode="2.15" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Natural Substances</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Earth, Mud, Sand, Rock</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-11-17 12:23:31" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>dust, soil (see also {D:2.16}).</DefinitionShort>
+              <Glosses>
+                <Gloss>dust</Gloss>
+                <Gloss>soil</Gloss>
+              </Glosses>
+              <Comments>‘Shake the dust from your feet’ may be expressed as ‘kick the dust from your feet.’ In some instances, however, the more appropriate equivalent would be ‘get rid of the dust from your feet’ or even ‘remove the dust from your feet and leave it there.’</Comments>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04001001400044</LEXReference>
+            <LEXReference>04200900500026</LEXReference>
+            <LEXReference>04201001100006</LEXReference>
+            <LEXReference>04401305100010</LEXReference>
+            <LEXReference>04402202300018</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

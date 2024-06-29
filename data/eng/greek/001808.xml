@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="001808000000000" Lemma="ἐντυγχάνω" Version="0" HasAramaic="false" InLXX="true" AlphaPos="ε">
+  <StrongCodes>
+    <Strong>G1793</Strong>
+  </StrongCodes>
+  <Authors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes/>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="001808001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>verb</PartOfSpeech>
+      </PartsOfSpeech>
+      <Inflections>
+        <Inflection Lemma="ἐντυγχάνω" BaseFormIndex="1">
+          <Form>aor.</Form>
+          <Realizations>
+            <Realization>ἐνέτυχον</Realization>
+          </Realizations>
+          <Comments/>
+        </Inflection>
+      </Inflections>
+      <RelatedLemmas>
+        <RelatedLemma>
+          <Word>τυγχάνω</Word>
+        </RelatedLemma>
+      </RelatedLemmas>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="001808001001000" IsBiblicalTerm="Y" EntryCode="33.169" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Communication</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Ask For, Request</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-06-03 10:12:10" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>to ask for something with urgency and intensity</DefinitionShort>
+              <Glosses>
+                <Gloss>to plead</Gloss>
+                <Gloss>to beg</Gloss>
+                <Gloss>to appeal to</Gloss>
+                <Gloss>to petition</Gloss>
+              </Glosses>
+              <Comments>In translating expressions such as ‘to plead’ or ‘to beg’ or ‘to appeal to,’ the implications of urgency or intensity are often expressed in figurative ways, for example, ‘to ask for with the heart exposed’ or ‘to ask for with crying words’ or ‘to beg with one’s hands outstretched.’</Comments>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04402502400044</LEXReference>
+            <LEXReference>04500802700030</LEXReference>
+            <LEXReference>04501100200040</LEXReference>
+            <LEXReference>05800702500036</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+        <LEXMeaning Id="001808001002000" IsBiblicalTerm="Y" EntryCode="33.347" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Communication</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Intercede</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-06-03 10:12:10" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>to speak to someone on behalf of someone else</DefinitionShort>
+              <Glosses>
+                <Gloss>to intercede</Gloss>
+                <Gloss>intercession</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04500803400040</LEXReference>
+            <LEXReference>05800702500036</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

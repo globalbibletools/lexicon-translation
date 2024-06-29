@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="002553000000000" Lemma="κἀκεῖθεν" Version="0" HasAramaic="false" InLXX="false" AlphaPos="κ">
+  <StrongCodes>
+    <Strong>G2547</Strong>
+  </StrongCodes>
+  <Authors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes/>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="002553001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>conj.</PartOfSpeech>
+      </PartsOfSpeech>
+      <Constructs>
+        <Construct Lemma="κἀκεῖθεν" BaseFormIndex="1">
+          <WordMeaningSet>
+            <Word>καί</Word>
+          </WordMeaningSet>
+          <WordMeaningSet>
+            <Word>εκεῖθεν</Word>
+          </WordMeaningSet>
+        </Construct>
+      </Constructs>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="002553001001000" IsBiblicalTerm="Y" EntryCode="84.10" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Spacial Extensions</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Extension From a Source</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-09-08 11:29:39" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>extension from a source which is away from the speaker</DefinitionShort>
+              <Glosses>
+                <Gloss>from there</Gloss>
+                <Gloss>from that place</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04100903000002</LEXReference>
+            <LEXReference>04201105300002</LEXReference>
+            <LEXReference>04400700400018</LEXReference>
+            <LEXReference>04401402600002</LEXReference>
+            <LEXReference>04401601200002</LEXReference>
+            <LEXReference>04402001500002</LEXReference>
+            <LEXReference>04402100100040</LEXReference>
+            <LEXReference>04402700400002</LEXReference>
+            <LEXReference>04402801500002</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+        <LEXMeaning Id="002553001002000" IsBiblicalTerm="Y" EntryCode="67.47" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Time</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>A Point of Time with Reference to Other Points of Time: Before, Long Ago, Now, At the Same Time, When, About, After</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-09-08 11:29:39" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>a point of time subsequent to another point of time</DefinitionShort>
+              <Glosses>
+                <Gloss>then</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04401302100002</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

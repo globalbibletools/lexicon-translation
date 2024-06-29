@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="000428000000000" Lemma="ἄνεσις" Version="0" HasAramaic="false" InLXX="true" AlphaPos="α">
+  <StrongCodes>
+    <Strong>G0425</Strong>
+  </StrongCodes>
+  <Authors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes>
+    <Note Caller="1" LanguageCode="en" LastEdited="" LastEditedBy="">
+      <References/>
+      <Content>It would also be possible to treat ἄνεσις[b] in Subdomain A Control, Restrain (Domain 37 Control, Rule) on the basis that ἄνεσις[b] would suggest the relaxing of controls.</Content>
+    </Note>
+  </Notes>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="000428001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>noun, f.</PartOfSpeech>
+      </PartsOfSpeech>
+      <Inflections>
+        <Inflection Lemma="ἄνεσις" BaseFormIndex="1">
+          <Form/>
+          <Realizations>
+            <Realization>-εως</Realization>
+          </Realizations>
+          <Comments/>
+        </Inflection>
+      </Inflections>
+      <RelatedLemmas>
+        <RelatedLemma>
+          <Word>ἵημι</Word>
+          <Meaning LanguageCode="en">
+            <Meaning>send, set in motion</Meaning>
+          </Meaning>
+          <Meaning LanguageCode="zhT">
+            <Meaning>發送，調動</Meaning>
+          </Meaning>
+        </RelatedLemma>
+      </RelatedLemmas>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="000428001001000" IsBiblicalTerm="Y" EntryCode="22.36" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Trouble, Hardship, Relief, Favorable Circumstances</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Relief from Trouble</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-08-05 16:49:38" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>relief as a cessation or suspension of trouble and difficulty</DefinitionShort>
+              <Glosses>
+                <Gloss>relief</Gloss>
+              </Glosses>
+              <Comments>In rendering ‘relief to you who suffer,’ it may be necessary to restructure the semantic relations, for example, ‘to cause you who suffer not to have to suffer longer’ or ‘to cause you to no longer have to suffer.’</Comments>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04700201300006</LEXReference>
+            <LEXReference>04700700500018</LEXReference>
+            <LEXReference>04700801300010</LEXReference>
+            <LEXReference>05300100700010</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+        <LEXMeaning Id="000428001002000" IsBiblicalTerm="M" EntryCode="37.137" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Control, Rule</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Release, Set Free</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-08-05 16:49:38" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>a partial degree of liberty or freedom{N:001}</DefinitionShort>
+              <Glosses>
+                <Gloss>some freedom</Gloss>
+                <Gloss>some liberty</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04402402300016</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

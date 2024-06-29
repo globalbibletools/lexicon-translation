@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="003642000000000" Lemma="ὅρος" Version="0" HasAramaic="false" InLXX="true" AlphaPos="ο">
+  <StrongCodes/>
+  <Authors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes>
+    <Note Caller="1" LanguageCode="en" LastEdited="" LastEditedBy="">
+      <References/>
+      <Content>There may very well be certain significant differences of meaning in this series of degree expressions, but this is difficult, if not impossible, to determine from existing contexts.</Content>
+    </Note>
+  </Notes>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="003642001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>noun, m.</PartOfSpeech>
+      </PartsOfSpeech>
+      <Inflections>
+        <Inflection Lemma="ὅρος" BaseFormIndex="1">
+          <Form/>
+          <Realizations>
+            <Realization>-ου</Realization>
+          </Realizations>
+          <Comments/>
+        </Inflection>
+      </Inflections>
+      <RelatedLemmas>
+        <RelatedLemma>
+          <Word>ὁρίζω</Word>
+        </RelatedLemma>
+      </RelatedLemmas>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="003642001001000" IsBiblicalTerm="Y" EntryCode="78.44" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Degree</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Completely, Enough [Completive Degree]</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2022-01-21 20:27:22" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>a degree of totality or completeness{N:001}</DefinitionShort>
+              <Glosses>
+                <Gloss>complete</Gloss>
+                <Gloss>completely</Gloss>
+                <Gloss>totally</Gloss>
+                <Gloss>totality</Gloss>
+              </Glosses>
+              <Comments>This word is found as a variant reading only: ὁ ὅρος τῶν ἐτῶν ‘the total number of the years’ (literally ‘the totality of the years’) {S:04101601400042} (apparatus).</Comments>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04101601400043</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

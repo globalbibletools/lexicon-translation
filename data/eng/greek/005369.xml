@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="005369000000000" Lemma="χάραξ" Version="0" HasAramaic="false" InLXX="true" AlphaPos="χ">
+  <StrongCodes>
+    <Strong>G5482</Strong>
+  </StrongCodes>
+  <Authors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes/>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="005369001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>noun, m.</PartOfSpeech>
+      </PartsOfSpeech>
+      <Inflections>
+        <Inflection Lemma="χάραξ" BaseFormIndex="1">
+          <Form/>
+          <Realizations>
+            <Realization>-ακος</Realization>
+          </Realizations>
+          <Comments/>
+        </Inflection>
+      </Inflections>
+      <RelatedLemmas>
+        <RelatedLemma>
+          <Word>χάραγμα</Word>
+        </RelatedLemma>
+      </RelatedLemmas>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="005369001001000" IsBiblicalTerm="M" EntryCode="7.60" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Constructions</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Walls and Fences</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2022-05-30 16:12:03" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>a fence of poles or stakes used to fortify entrenchments</DefinitionShort>
+              <Glosses>
+                <Gloss>palisade</Gloss>
+                <Gloss>barricade</Gloss>
+              </Glosses>
+              <Comments>In {S:04201904300022} barricades may be rendered in some instances as ‘thick walls’ or ‘strong fences.’</Comments>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04201904300022</LEXReference>
+          </LEXReferences>
+          <LEXLinks>
+            <LEXLink>realia:2.19.1</LEXLink>
+          </LEXLinks>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

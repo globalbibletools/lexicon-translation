@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="005099000000000" Lemma="ὕλη" Version="0" HasAramaic="false" InLXX="true" AlphaPos="υ">
+  <StrongCodes>
+    <Strong>G5208</Strong>
+  </StrongCodes>
+  <Authors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes/>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="005099001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>noun, f.</PartOfSpeech>
+      </PartsOfSpeech>
+      <Inflections>
+        <Inflection Lemma="ὕλη" BaseFormIndex="1">
+          <Form/>
+          <Realizations>
+            <Realization>-ης</Realization>
+          </Realizations>
+          <Comments/>
+        </Inflection>
+      </Inflections>
+      <RelatedLemmas>
+        <RelatedLemma>
+          <Word>διϋλίζω</Word>
+        </RelatedLemma>
+      </RelatedLemmas>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="005099001001000" IsBiblicalTerm="Y" EntryCode="3.3" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Plants</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Trees</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2022-04-19 07:43:59" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>a dense growth of trees covering a relatively large area</DefinitionShort>
+              <Glosses>
+                <Gloss>forest</Gloss>
+              </Glosses>
+              <Comments>In {S:05900300500030} it is also possible to interpret ὕλη as wood which has been cut up, either firewood or wood used for construction (see ὕλη[b] wood, pile of wood, {D:3.64}).|In some languages spoken by people living in tropical forest areas the equivalent of ‘forest’ is simply the expression ‘where no one lives,’ based upon the fact that people live in clearings and everything else is forest. Such a rendering, however, may not lead to a satisfactory translation of {S:05900300500030} (the only occurrence of ὕλη in the NT), in which case one is better advised to interpret ὕλη in the sense of ‘pile of wood’ ({D:3.64}).</Comments>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>05900300500030</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+        <LEXMeaning Id="005099001002000" IsBiblicalTerm="Y" EntryCode="3.64" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Plants</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Wood and Wood Products</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2022-04-19 07:43:59" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>the woody part of trees or bushes</DefinitionShort>
+              <Glosses>
+                <Gloss>wood</Gloss>
+                <Gloss>pile of wood</Gloss>
+              </Glosses>
+              <Comments>In {S:05900300500030} ὕλη may be interpreted as a forest (see {D:3.3}).|As already noted in the case of {L:ξύλον&lt;SDBG:ξύλον:000000&gt;}[a] ({D:3.60}), a number of languages make a distinction between wood used as building material and wood employed in heating or cooking.</Comments>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>05900300500030</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

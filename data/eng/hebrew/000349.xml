@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="000349000000000" Lemma="אִין" Version="5" HasAramaic="false" InLXX="false" AlphaPos="א">
+  <StrongCodes>
+    <Strong>H0371</Strong>
+  </StrongCodes>
+  <Authors>
+    <Author>Reinier de Blois</Author>
+  </Authors>
+  <Contributors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes>
+    <Note Caller="1" LanguageCode="en" LastEdited="" LastEditedBy="">
+      <References>
+        <Reference>00902100900014</Reference>
+      </References>
+      <Content>LXX הֵן הֲיֵשׁ "see, is there ...?" | DCH אַיִן יֵשׁ | HALOT אֵי יֵשׁ or אֵין יֵשׁ</Content>
+    </Note>
+  </Notes>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="000349001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>cj</PartOfSpeech>
+      </PartsOfSpeech>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="000349001001000" IsBiblicalTerm="Y" EntryCode="" Indent="0">
+          <LEXDomains>
+            <LEXDomain Code="002002002005">Exist</LEXDomain>
+          </LEXDomains>
+          <LEXCollocations>
+            <LEXCollocation>אִין יֵשׁ</LEXCollocation>
+          </LEXCollocations>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2014-08-01 12:11:47" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>meaning unsure; probably: = a polite inquiry as to whether an object is present</DefinitionShort>
+              <Glosses>
+                <Gloss>is there ...?</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>00902100900014{N:001}</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

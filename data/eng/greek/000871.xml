@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="000871000000000" Lemma="ἀφορίζω" Version="0" HasAramaic="false" InLXX="true" AlphaPos="α">
+  <StrongCodes>
+    <Strong>G0873</Strong>
+  </StrongCodes>
+  <Authors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes>
+    <Note Caller="1" LanguageCode="en" LastEdited="" LastEditedBy="">
+      <References/>
+      <Content>It is possible that ἀφορίζω[b] is somewhat more emphatic in meaning than ὁρίζω[b] ({D:37.96}).</Content>
+    </Note>
+  </Notes>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="000871001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>verb</PartOfSpeech>
+      </PartsOfSpeech>
+      <Inflections>
+        <Inflection Lemma="ἀφορίζω" BaseFormIndex="1">
+          <Form>fut.</Form>
+          <Realizations>
+            <Realization>ἀφοριῶ</Realization>
+            <Realization>ἀφορίσω</Realization>
+          </Realizations>
+          <Comments/>
+        </Inflection>
+      </Inflections>
+      <RelatedLemmas>
+        <RelatedLemma>
+          <Word>ὁρίζω</Word>
+        </RelatedLemma>
+      </RelatedLemmas>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="000871001001000" IsBiblicalTerm="Y" EntryCode="34.36" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Association</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Belong To, Be Included in the Membership of, Be Excluded From</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-08-18 15:32:45" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>to exclude or remove someone from an association</DefinitionShort>
+              <Glosses>
+                <Gloss>to exclude</Gloss>
+                <Gloss>to separate</Gloss>
+                <Gloss>to get rid of</Gloss>
+              </Glosses>
+              <Comments>It is, of course, possible to translate ἀφορίζω in {S:04200602200020} as ‘not to welcome,’ but the emphasis of ἀφορίζω is to exclude from a relationship which has previously existed. One may therefore translate {S:04200602200020} as ‘happy are you … when people no longer welcome you in their company … because of the Son of Man.’ By introducing the temporal element ‘no longer,’ the fact of exclusion is made clear.</Comments>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04200602200020</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+        <LEXMeaning Id="000871001002000" IsBiblicalTerm="M" EntryCode="37.97" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Control, Rule</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Assign to a Role or Function</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-08-18 15:32:45" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>to set aside a person for a particular task or function{N:001}</DefinitionShort>
+              <Glosses>
+                <Gloss>to appoint</Gloss>
+                <Gloss>to set apart for</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04401300200026</LEXReference>
+            <LEXReference>04500100100014</LEXReference>
+            <LEXReference>04800101500014</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+        <LEXMeaning Id="000871001003000" IsBiblicalTerm="Y" EntryCode="63.28" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Whole, Unite, Part, Divide</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Separate</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-08-18 15:32:45" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>to separate into two or more parts or groups, often by some intervening space</DefinitionShort>
+              <Glosses>
+                <Gloss>to separate</Gloss>
+                <Gloss>to set one apart from another</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04001304900024</LEXReference>
+            <LEXReference>04002503200018</LEXReference>
+            <LEXReference>04002503200032</LEXReference>
+            <LEXReference>04401900900032</LEXReference>
+            <LEXReference>04700601700014</LEXReference>
+            <LEXReference>04800201200034</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

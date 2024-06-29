@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="000987000000000" Lemma="βίος" Version="0" HasAramaic="false" InLXX="true" AlphaPos="β">
+  <StrongCodes>
+    <Strong>G0979</Strong>
+  </StrongCodes>
+  <Authors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes/>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="000987001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>noun, m.</PartOfSpeech>
+      </PartsOfSpeech>
+      <Inflections>
+        <Inflection Lemma="βίος" BaseFormIndex="1">
+          <Form/>
+          <Realizations>
+            <Realization>-ου</Realization>
+          </Realizations>
+          <Comments/>
+        </Inflection>
+      </Inflections>
+      <RelatedLemmas>
+        <RelatedLemma>
+          <Word>βιόω</Word>
+        </RelatedLemma>
+      </RelatedLemmas>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="000987001001000" IsBiblicalTerm="Y" EntryCode="41.18" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Behavior and Related States</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Behavior, Conduct</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-02-05 11:22:05" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>to conduct oneself, with focus upon everyday activity</DefinitionShort>
+              <Glosses>
+                <Gloss>to live</Gloss>
+                <Gloss>daily life</Gloss>
+                <Gloss>life</Gloss>
+                <Gloss>existence</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04200801400038</LEXReference>
+            <LEXReference>05400200200026</LEXReference>
+            <LEXReference>05500200400012</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+        <LEXMeaning Id="000987001002000" IsBiblicalTerm="M" EntryCode="57.18" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Possess, Transfer, Exchange</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Have, Possess, Property, Owner</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-02-05 11:22:05" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>(semantic derivative of {L:βίος&lt;SDBG:βίος:000000&gt;}[a] ‘life,’ {D:41.18}) the resources which one has as a means of living</DefinitionShort>
+              <Glosses>
+                <Gloss>possessions</Gloss>
+                <Gloss>property</Gloss>
+                <Gloss>livelihood</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04101204400040</LEXReference>
+            <LEXReference>04200804300030</LEXReference>
+            <LEXReference>04201501200042</LEXReference>
+            <LEXReference>04201503000022</LEXReference>
+            <LEXReference>04202100400040</LEXReference>
+            <LEXReference>06200201600040</LEXReference>
+            <LEXReference>06200301700012</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

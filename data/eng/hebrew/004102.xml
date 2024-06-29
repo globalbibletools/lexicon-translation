@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="004102000000000" Lemma="מַנְדַּע" Version="3" HasAramaic="true" InLXX="false" AlphaPos="מ">
+  <StrongCodes>
+    <Strong>A4486</Strong>
+  </StrongCodes>
+  <Authors>
+    <Author>Enio R. Mueller</Author>
+  </Authors>
+  <Contributors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes/>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="004102001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>nsm</PartOfSpeech>
+      </PartsOfSpeech>
+      <RelatedLemmas>
+        <RelatedLemma>
+          <Word>ידע</Word>
+        </RelatedLemma>
+      </RelatedLemmas>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="004102001001000" IsBiblicalTerm="A" EntryCode="" Indent="0">
+          <LEXDomains>
+            <LEXDomain Code="002004002007">Know</LEXDomain>
+          </LEXDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2022-03-02 10:31:55" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>= a collection of information stored and processed in someone's mind that gives that person the ability to analyse, discern, make decisions and act accordingly</DefinitionShort>
+              <Glosses>
+                <Gloss>reason</Gloss>
+                <Gloss>knowledge</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>02700202100034</LEXReference>
+            <LEXReference>02700403100024</LEXReference>
+            <LEXReference>02700403300006</LEXReference>
+            <LEXReference>02700501200016</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+          <LEXCoreDomains>
+            <LEXCoreDomain Code="106">Mind</LEXCoreDomain>
+          </LEXCoreDomains>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

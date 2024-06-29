@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="005360000000000" Lemma="χαλκολίβανον" Version="0" HasAramaic="false" InLXX="false" AlphaPos="χ">
+  <StrongCodes>
+    <Strong>G5474</Strong>
+  </StrongCodes>
+  <Authors/>
+  <AlternateLemmas>
+    <AlternateLemma>χαλκολίβανος</AlternateLemma>
+  </AlternateLemmas>
+  <MainLinks/>
+  <Notes/>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="005360001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>noun, n.</PartOfSpeech>
+      </PartsOfSpeech>
+      <Inflections>
+        <Inflection Lemma="χαλκολίβανον" BaseFormIndex="1">
+          <Form/>
+          <Realizations>
+            <Realization>-ου, χαλκολίβανος, -ου</Realization>
+          </Realizations>
+          <Comments/>
+        </Inflection>
+      </Inflections>
+      <Constructs>
+        <Construct Lemma="χαλκολίβανον" BaseFormIndex="1">
+          <WordMeaningSet>
+            <Word>χαλκός</Word>
+          </WordMeaningSet>
+          <WordMeaningSet>
+            <Word>λίβανος</Word>
+          </WordMeaningSet>
+        </Construct>
+      </Constructs>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="005360001001000" IsBiblicalTerm="M" EntryCode="2.57" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Natural Substances</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Metals</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2022-05-30 15:59:57" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>a particularly valuable or fine type of bronze or brass, possibly even an alloy containing some gold</DefinitionShort>
+              <Glosses>
+                <Gloss>fine bronze</Gloss>
+                <Gloss>fine brass</Gloss>
+              </Glosses>
+              <Comments>In the two references with χαλκολίβανον in the NT ({S:06600101500012} and {S:06600201800056}) the emphasis is upon the lustrous appearance of the metal. A satisfactory equivalent may be ‘bright bronze’ or ‘shining metal.’</Comments>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>06600101500012</LEXReference>
+            <LEXReference>06600201800056</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

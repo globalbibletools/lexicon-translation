@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="002930000000000" Lemma="κριθή" Version="0" HasAramaic="false" InLXX="true" AlphaPos="κ">
+  <StrongCodes>
+    <Strong>G2915</Strong>
+  </StrongCodes>
+  <Authors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes/>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="002930001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>noun, f.</PartOfSpeech>
+      </PartsOfSpeech>
+      <Inflections>
+        <Inflection Lemma="κριθή" BaseFormIndex="1">
+          <Form/>
+          <Realizations>
+            <Realization>-ῆς</Realization>
+          </Realizations>
+          <Comments/>
+        </Inflection>
+      </Inflections>
+      <RelatedLemmas>
+        <RelatedLemma>
+          <Word>κρίθινος</Word>
+        </RelatedLemma>
+      </RelatedLemmas>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="002930001001000" IsBiblicalTerm="M" EntryCode="3.44" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Plants</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Fruit Parts of Plants</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-10-22 11:41:18" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>a grain somewhat similar to wheat, but regarded as less desirable for food</DefinitionShort>
+              <Glosses>
+                <Gloss>barley</Gloss>
+              </Glosses>
+              <Comments>In a number of languages there is no specific term for barley, and therefore it may be useful simply to borrow a term from a dominant language. In certain instances, however, translators have used an expression such as ‘wheat-like grain.’ It may even be useful to have a footnote to explain something of the nature of barley, but the fact that it was cheaper than wheat is clear from {S:06600600600034}.</Comments>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>06600600600034</LEXReference>
+          </LEXReferences>
+          <LEXLinks>
+            <LEXLink>flora:3.1.1</LEXLink>
+          </LEXLinks>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

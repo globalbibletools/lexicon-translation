@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="003159000000000" Lemma="μαράνα θᾶ" Version="0" HasAramaic="false" InLXX="false" AlphaPos="μ">
+  <StrongCodes>
+    <Strong>G3134</Strong>
+  </StrongCodes>
+  <Authors/>
+  <AlternateLemmas>
+    <AlternateLemma>θα</AlternateLemma>
+    <AlternateLemma>μαρανα</AlternateLemma>
+    <AlternateLemma>μαρανα θα</AlternateLemma>
+  </AlternateLemmas>
+  <MainLinks/>
+  <Notes>
+    <Note Caller="1" LanguageCode="en" LastEdited="" LastEditedBy="">
+      <References/>
+      <Content>In the Didache (10,6) and in some NT manuscripts the expression reads μαραν αθα (our) Lord has come.</Content>
+    </Note>
+  </Notes>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="003159001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>(Aramaic loanword)</PartOfSpeech>
+      </PartsOfSpeech>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="003159001001000" IsBiblicalTerm="Y" EntryCode="12.11" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Supernatural Beings and Powers</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Supernatural Beings</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXForms>
+            <LEXForm>μαρανα</LEXForm>
+          </LEXForms>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-11-18 12:11:55" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>(an Aramaic word)</DefinitionShort>
+              <Glosses>
+                <Gloss>our Lord</Gloss>
+              </Glosses>
+              <Comments>The expression μαρανα θα in {S:04601602200018} is an Aramaic formula evidently associated with early Christian liturgy. It must have been widely used, since it occurs in {S:04601602200018} without explanation.</Comments>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04601602200018</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+        <LEXMeaning Id="003159001002000" IsBiblicalTerm="Y" EntryCode="15.82" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Linear Movement</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Come, Come To, Arrive</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXForms>
+            <LEXForm>θα</LEXForm>
+          </LEXForms>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-11-18 12:11:55" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>(an Aramaic word) to move to or toward a reference point of the viewpoint character or event{N:001}</DefinitionShort>
+              <Glosses>
+                <Gloss>to come</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04601602200020</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

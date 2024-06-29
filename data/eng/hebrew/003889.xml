@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="003889000000000" Lemma="מַחְמָד" Version="5" HasAramaic="false" InLXX="false" AlphaPos="מ">
+  <StrongCodes>
+    <Strong>H4261</Strong>
+  </StrongCodes>
+  <Authors>
+    <Author>Reinier de Blois</Author>
+  </Authors>
+  <Contributors/>
+  <AlternateLemmas>
+    <AlternateLemma>מַחֲמָד</AlternateLemma>
+  </AlternateLemmas>
+  <MainLinks/>
+  <Notes>
+    <Note Caller="1" LanguageCode="en" LastEdited="" LastEditedBy="">
+      <References>
+        <Reference>02500101100016</Reference>
+      </References>
+      <Content>MT-Q מַחֲמַדֵּיהֶם | MT-K מַחֲמֹודֵּיהֶם = {L:מַחְמֹד&lt;SDBH:מַחְמֹד&gt;}</Content>
+    </Note>
+  </Notes>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="003889001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>nsm</PartOfSpeech>
+      </PartsOfSpeech>
+      <RelatedLemmas>
+        <RelatedLemma>
+          <Word>חמד</Word>
+        </RelatedLemma>
+      </RelatedLemmas>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="003889001001000" IsBiblicalTerm="M" EntryCode="" Indent="0">
+          <LEXDomains>
+            <LEXDomain Code="002004002001001">Wish</LEXDomain>
+          </LEXDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2017-03-10 11:29:30" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>= inanimate objects that are the object of someone's desire, ◄ because of their quality or value</DefinitionShort>
+              <Glosses>
+                <Gloss>object of desire</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>01102000600044</LEXReference>
+            <LEXReference>01403601900044</LEXReference>
+            <LEXReference>02306401000028</LEXReference>
+            <LEXReference>02500101000012</LEXReference>
+            <LEXReference>02500101100014</LEXReference>
+            <LEXReference>02500101100016{N:001}</LEXReference>
+            <LEXReference>02500200400024</LEXReference>
+            <LEXReference>02602401600014</LEXReference>
+            <LEXReference>02602402100030</LEXReference>
+            <LEXReference>02602402500032</LEXReference>
+            <LEXReference>02800900600020</LEXReference>
+            <LEXReference>02800901600028</LEXReference>
+            <LEXReference>02900400500014</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+          <LEXCoreDomains>
+            <LEXCoreDomain Code="137">Quality</LEXCoreDomain>
+            <LEXCoreDomain Code="186">Value</LEXCoreDomain>
+          </LEXCoreDomains>
+        </LEXMeaning>
+        <LEXMeaning Id="003889001002000" IsBiblicalTerm="M" EntryCode="" Indent="0">
+          <LEXDomains>
+            <LEXDomain Code="002001001028">Good</LEXDomain>
+          </LEXDomains>
+          <LEXSynonyms>
+            <LEXSynonym>מַמְתַּקִּים</LEXSynonym>
+          </LEXSynonyms>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2017-03-10 11:29:30" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>= state in which humans are highly attractive; ► which provokes in someone else the desire to have a (sexual) relationship with that person</DefinitionShort>
+              <Glosses>
+                <Gloss>attractiveness</Gloss>
+                <Gloss>beauty</Gloss>
+                <Gloss>charming</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>02200501600010</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+          <LEXCoreDomains>
+            <LEXCoreDomain Code="019">Body</LEXCoreDomain>
+            <LEXCoreDomain Code="016">Beauty</LEXCoreDomain>
+            <LEXCoreDomain Code="155">Sex</LEXCoreDomain>
+          </LEXCoreDomains>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

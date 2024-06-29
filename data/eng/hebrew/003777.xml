@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="003777000000000" Lemma="מֹולֶדֶת" Version="4" HasAramaic="false" InLXX="false" AlphaPos="מ">
+  <StrongCodes>
+    <Strong>H4138</Strong>
+  </StrongCodes>
+  <Authors>
+    <Author>Reinier de Blois</Author>
+  </Authors>
+  <Contributors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes/>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="003777001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>nsf</PartOfSpeech>
+      </PartsOfSpeech>
+      <RelatedLemmas>
+        <RelatedLemma>
+          <Word>ילד</Word>
+        </RelatedLemma>
+      </RelatedLemmas>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="003777001001000" IsBiblicalTerm="M" EntryCode="" Indent="0">
+          <LEXDomains>
+            <LEXDomain Code="002002002003">Birth</LEXDomain>
+          </LEXDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2017-12-17 12:52:51" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>= process by which a woman gives birth to a child</DefinitionShort>
+              <Glosses>
+                <Gloss>birth</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>00301800900016</LEXReference>
+            <LEXReference>00301800900022</LEXReference>
+            <LEXReference>02601600300022</LEXReference>
+            <LEXReference>02601600400004</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+          <LEXCoreDomains>
+            <LEXCoreDomain Code="030">Childbirth</LEXCoreDomain>
+          </LEXCoreDomains>
+        </LEXMeaning>
+        <LEXMeaning Id="003777001002000" IsBiblicalTerm="M" EntryCode="" Indent="0">
+          <LEXDomains>
+            <LEXDomain Code="001001002003012" Source="Birth" SourceCode="002002002003">Relatives</LEXDomain>
+          </LEXDomains>
+          <LEXSynonyms>
+            <LEXSynonym>עַם</LEXSynonym>
+          </LEXSynonyms>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2017-12-17 12:52:51" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>= the community where a person was born and grew up</DefinitionShort>
+              <Glosses>
+                <Gloss>family circle</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>00101102800020</LEXReference>
+            <LEXReference>00101200100024</LEXReference>
+            <LEXReference>00102400400012</LEXReference>
+            <LEXReference>00102400700026</LEXReference>
+            <LEXReference>00103100300024</LEXReference>
+            <LEXReference>00103101300052</LEXReference>
+            <LEXReference>00103201000040</LEXReference>
+            <LEXReference>00104300700020</LEXReference>
+            <LEXReference>00301801100010</LEXReference>
+            <LEXReference>00401003000024</LEXReference>
+            <LEXReference>00800201100050</LEXReference>
+            <LEXReference>01700201000016</LEXReference>
+            <LEXReference>01700202000008</LEXReference>
+            <LEXReference>01700800600040</LEXReference>
+            <LEXReference>02402201000044</LEXReference>
+            <LEXReference>02404601600036</LEXReference>
+            <LEXReference>02602301500034</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+          <LEXCoreDomains>
+            <LEXCoreDomain Code="062">Family</LEXCoreDomain>
+          </LEXCoreDomains>
+        </LEXMeaning>
+        <LEXMeaning Id="003777001003000" IsBiblicalTerm="M" EntryCode="" Indent="0">
+          <LEXDomains>
+            <LEXDomain Code="001001002003012" Source="Birth" SourceCode="002002002003">Relatives</LEXDomain>
+          </LEXDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2017-12-17 12:52:51" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>literally: birth; hence: = a person's child or children</DefinitionShort>
+              <Glosses>
+                <Gloss>offspring</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>00104800600004</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+          <LEXCoreDomains>
+            <LEXCoreDomain Code="062">Family</LEXCoreDomain>
+            <LEXCoreDomain Code="121">Parenthood</LEXCoreDomain>
+            <LEXCoreDomain Code="129">Posterity</LEXCoreDomain>
+          </LEXCoreDomains>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

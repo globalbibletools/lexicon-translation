@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="004788000000000" Lemma="συναρμολογέω" Version="0" HasAramaic="false" InLXX="false" AlphaPos="σ">
+  <StrongCodes>
+    <Strong>G4883</Strong>
+  </StrongCodes>
+  <Authors/>
+  <AlternateLemmas>
+    <AlternateLemma>συναρμολογέομαι</AlternateLemma>
+  </AlternateLemmas>
+  <MainLinks/>
+  <Notes>
+    <Note Caller="1" LanguageCode="en" LastEdited="" LastEditedBy="">
+      <References/>
+      <Content>The meaning to be joined together does not suggest that συναρμολογέομαι is to be understood as a causative passive. The reference is simply to the state of being joined together.</Content>
+    </Note>
+  </Notes>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="004788001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>verb</PartOfSpeech>
+      </PartsOfSpeech>
+      <Constructs>
+        <Construct Lemma="συναρμολογέω" BaseFormIndex="1">
+          <WordMeaningSet>
+            <Word>ἁρμόζομαι</Word>
+          </WordMeaningSet>
+          <WordMeaningSet>
+            <Word>λέγω</Word>
+          </WordMeaningSet>
+        </Construct>
+      </Constructs>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="004788001001000" IsBiblicalTerm="Y" EntryCode="62.1" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Arrange, Organize</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Put Together, Arrange [of physical objects]</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXForms>
+            <LEXForm>συναρμολογέομαι</LEXForm>
+          </LEXForms>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2022-03-14 14:56:41" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>to fit together in a coherent and compatible manner{N:001}</DefinitionShort>
+              <Glosses>
+                <Gloss>to fit together</Gloss>
+                <Gloss>to be joined together</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04900202100010</LEXReference>
+            <LEXReference>04900401600012</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

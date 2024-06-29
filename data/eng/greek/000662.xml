@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="000662000000000" Lemma="ἀποφεύγω" Version="0" HasAramaic="false" InLXX="true" AlphaPos="α">
+  <StrongCodes>
+    <Strong>G0668</Strong>
+  </StrongCodes>
+  <Authors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes>
+    <Note Caller="1" LanguageCode="en" LastEdited="" LastEditedBy="">
+      <References/>
+      <Content>It is possible that ἐκφεύγω[b] and ἀποφεύγω differ somewhat in meaning from φεύγω[b] and from each other, but it is not possible to determine from existing contexts what the distinctive features might be, except perhaps to indicate that ἐκφεύγω[b] and ἀποφεύγω may be connotatively somewhat more emphatic than φεύγω[b]. Note, also, that in this series of terms meaning to escape, there is no special indication of movement, but simply the fact of not having to experience some particular difficulty or danger.</Content>
+    </Note>
+  </Notes>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="000662001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>verb</PartOfSpeech>
+      </PartsOfSpeech>
+      <Inflections>
+        <Inflection Lemma="ἀποφεύγω" BaseFormIndex="1">
+          <Form>aor.ptc.</Form>
+          <Realizations>
+            <Realization>ἀποφυγών</Realization>
+          </Realizations>
+          <Comments/>
+        </Inflection>
+      </Inflections>
+      <RelatedLemmas>
+        <RelatedLemma>
+          <Word>φεύγω</Word>
+        </RelatedLemma>
+      </RelatedLemmas>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="000662001001000" IsBiblicalTerm="Y" EntryCode="21.14" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Danger, Risk, Safe, Save</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Become Safe, Free from Danger</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-08-16 15:21:43" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>to become safe from danger by avoiding or escaping{N:001}</DefinitionShort>
+              <Glosses>
+                <Gloss>to escape</Gloss>
+                <Gloss>to avoid</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>06100100400034</LEXReference>
+            <LEXReference>06100201800024</LEXReference>
+            <LEXReference>06100202000006</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

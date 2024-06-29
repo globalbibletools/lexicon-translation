@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="003237000000000" Lemma="μεσουράνημα" Version="0" HasAramaic="false" InLXX="false" AlphaPos="μ">
+  <StrongCodes>
+    <Strong>G3321</Strong>
+  </StrongCodes>
+  <Authors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes/>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="003237001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>noun, n.</PartOfSpeech>
+      </PartsOfSpeech>
+      <Inflections>
+        <Inflection Lemma="μεσουράνημα" BaseFormIndex="1">
+          <Form/>
+          <Realizations>
+            <Realization>-τος</Realization>
+          </Realizations>
+          <Comments/>
+        </Inflection>
+      </Inflections>
+      <Constructs>
+        <Construct Lemma="μεσουράνημα" BaseFormIndex="1">
+          <WordMeaningSet>
+            <Word>μεσόω</Word>
+          </WordMeaningSet>
+          <WordMeaningSet>
+            <Word>οὐρανός</Word>
+          </WordMeaningSet>
+        </Construct>
+      </Constructs>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="003237001001000" IsBiblicalTerm="Y" EntryCode="1.10" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Geographical Objects and Features</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Regions Above the Earth</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-11-30 11:01:21" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>a point or region of the sky directly above the earth</DefinitionShort>
+              <Glosses>
+                <Gloss>high in the sky</Gloss>
+                <Gloss>midpoint in the sky</Gloss>
+                <Gloss>directly overhead</Gloss>
+                <Gloss>straight above in the sky</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>06600801300018</LEXReference>
+            <LEXReference>06601400600014</LEXReference>
+            <LEXReference>06601901700042</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

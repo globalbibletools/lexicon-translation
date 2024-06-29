@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="000798000000000" Lemma="ἀσύνετος" Version="0" HasAramaic="false" InLXX="true" AlphaPos="α">
+  <StrongCodes>
+    <Strong>G0801</Strong>
+  </StrongCodes>
+  <Authors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes/>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="000798001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>adjc.</PartOfSpeech>
+      </PartsOfSpeech>
+      <Inflections>
+        <Inflection Lemma="ἀσύνετος" BaseFormIndex="1">
+          <Form/>
+          <Realizations>
+            <Realization>-ον</Realization>
+          </Realizations>
+          <Comments/>
+        </Inflection>
+      </Inflections>
+      <Constructs>
+        <Construct Lemma="ἀσύνετος" BaseFormIndex="1">
+          <WordMeaningSet>
+            <Word>ἵημι</Word>
+            <Meaning LanguageCode="en">
+              <Meaning>send, set in motion</Meaning>
+            </Meaning>
+            <Meaning LanguageCode="zhT">
+              <Meaning>發送，調動</Meaning>
+            </Meaning>
+          </WordMeaningSet>
+          <WordMeaningSet>
+            <Word>ἐτός</Word>
+            <Meaning LanguageCode="en">
+              <Meaning>without reason</Meaning>
+            </Meaning>
+            <Meaning LanguageCode="zhT">
+              <Meaning>沒有理由</Meaning>
+            </Meaning>
+          </WordMeaningSet>
+        </Construct>
+      </Constructs>
+      <RelatedLemmas>
+        <RelatedLemma>
+          <Word>συνετός</Word>
+          <Meaning LanguageCode="en">
+            <Meaning>understanding, intelligent</Meaning>
+          </Meaning>
+          <Meaning LanguageCode="zhT">
+            <Meaning>聰明的，智慧的</Meaning>
+          </Meaning>
+        </RelatedLemma>
+      </RelatedLemmas>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="000798001001000" IsBiblicalTerm="Y" EntryCode="32.49" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Understand</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Lack of Capacity for Understanding</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-08-17 14:11:29" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>pertaining to a lack of capacity for insight and understanding</DefinitionShort>
+              <Glosses>
+                <Gloss>without understanding</Gloss>
+                <Gloss>senseless</Gloss>
+                <Gloss>foolish</Gloss>
+              </Glosses>
+              <Comments>Care must be exercised in the rendering of ἀσύνετος in {S:04001501600014} and {S:04500102100040}, since a lack of capacity for understanding may result from mental deficiencies or from a lack of the proper use of mental capacity. It is, of course, this latter meaning which is involved in the use of ἀσύνετος in these contexts.</Comments>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04001501600014</LEXReference>
+            <LEXReference>04100701800014</LEXReference>
+            <LEXReference>04500102100040</LEXReference>
+            <LEXReference>04500103100002</LEXReference>
+            <LEXReference>04501001900036</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

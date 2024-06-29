@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="005093000000000" Lemma="ὑδροποτέω" Version="0" HasAramaic="false" InLXX="true" AlphaPos="υ">
+  <StrongCodes>
+    <Strong>G5202</Strong>
+  </StrongCodes>
+  <Authors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes/>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="005093001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>verb</PartOfSpeech>
+      </PartsOfSpeech>
+      <Constructs>
+        <Construct Lemma="ὑδροποτέω" BaseFormIndex="1">
+          <WordMeaningSet>
+            <Word>ὕδωρ</Word>
+          </WordMeaningSet>
+          <WordMeaningSet>
+            <Word>πίνω</Word>
+          </WordMeaningSet>
+        </Construct>
+      </Constructs>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="005093001001000" IsBiblicalTerm="Y" EntryCode="23.38" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Physiological Processes and States</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Eat, Drink</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2022-04-18 08:17:04" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort/>
+              <Glosses>
+                <Gloss>to drink water</Gloss>
+              </Glosses>
+              <Comments>In a number of languages ‘to drink water’ is expressed by a single term which combines the components of drinking and of water. In other instances a verb meaning simply ‘to drink’ normally means to drink water unless otherwise specified. In Greek almost the opposite situation exists. For example, {S:04001101800014} (ἦλθεν γὰρ Ἰωάννης μήτε ἐσθίων μήτε πίνων ‘for John came neither eating nor drinking’) implies a reference to drinking alcoholic beverages.</Comments>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>05400502300004</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

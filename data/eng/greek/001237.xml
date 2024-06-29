@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="001237000000000" Lemma="δήπου" Version="0" HasAramaic="false" InLXX="false" AlphaPos="δ">
+  <StrongCodes>
+    <Strong>G1222</Strong>
+  </StrongCodes>
+  <Authors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes/>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="001237001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>part.</PartOfSpeech>
+      </PartsOfSpeech>
+      <Constructs>
+        <Construct Lemma="δήπου" BaseFormIndex="1">
+          <WordMeaningSet>
+            <Word>δή</Word>
+          </WordMeaningSet>
+          <WordMeaningSet>
+            <Word>πού</Word>
+          </WordMeaningSet>
+        </Construct>
+      </Constructs>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="001237001001000" IsBiblicalTerm="Y" EntryCode="91.7" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Discourse Markers</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Markers of Emphasis</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-05-12 09:35:22" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>a marker of somewhat greater emphasis (in comparison with {L:μέν&lt;SDBG:μέν:000001&gt;}[b], {L:γέ&lt;SDBG:γέ:000000&gt;}, and {L:δή&lt;SDBG:δή:000000&gt;}, {D:91.6})</DefinitionShort>
+              <Glosses>
+                <Gloss>surely</Gloss>
+                <Gloss>indeed</Gloss>
+                <Gloss>then</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>05800201600006</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

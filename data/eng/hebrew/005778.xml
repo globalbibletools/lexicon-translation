@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="005778000000000" Lemma="פֶּגֶר" Version="5" HasAramaic="false" InLXX="false" AlphaPos="פ">
+  <StrongCodes>
+    <Strong>H6297</Strong>
+  </StrongCodes>
+  <Authors>
+    <Author>Reinier de Blois</Author>
+  </Authors>
+  <Contributors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes>
+    <Note Caller="1" LanguageCode="en" LastEdited="" LastEditedBy="">
+      <References>
+        <Reference>02604300700076</Reference>
+        <Reference>02604300900012</Reference>
+      </References>
+      <Content>{A:RSV} {A:NJB} {A:NJPS} {A:NRSV} {A:GNT} | {A:NIV} "lifeless idols" | {A:REB} {A:CEV} [2]</Content>
+    </Note>
+    <Note Caller="2" LanguageCode="en" LastEdited="" LastEditedBy="">
+      <References>
+        <Reference>02604300700076</Reference>
+        <Reference>02604300900012</Reference>
+      </References>
+      <Content>{A:REB} {A:CEV} | {A:RSV} {A:NJB} {A:NJPS} {A:NRSV} {A:GNT} "corpses" = [1] | {A:NIV} "lifeless idols" = [1]</Content>
+    </Note>
+  </Notes>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="005778001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>nsm</PartOfSpeech>
+      </PartsOfSpeech>
+      <RelatedLemmas>
+        <RelatedLemma>
+          <Word>פגר</Word>
+        </RelatedLemma>
+      </RelatedLemmas>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="005778001001000" IsBiblicalTerm="M" EntryCode="" Indent="0">
+          <LEXDomains>
+            <LEXDomain Code="001001002">Creatures</LEXDomain>
+          </LEXDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2017-11-29 16:38:20" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>= body of an animal or human that has died or been killed; ► source of pollution and impurity</DefinitionShort>
+              <Glosses>
+                <Gloss>corpse</Gloss>
+                <Gloss>carcass</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>00101501100014</LEXReference>
+            <LEXReference>00302603000024</LEXReference>
+            <LEXReference>00401402900014</LEXReference>
+            <LEXReference>00401403200004</LEXReference>
+            <LEXReference>00401403300032</LEXReference>
+            <LEXReference>00901704600038</LEXReference>
+            <LEXReference>01201903500060</LEXReference>
+            <LEXReference>01402002400034</LEXReference>
+            <LEXReference>02301401900036</LEXReference>
+            <LEXReference>02303400300010</LEXReference>
+            <LEXReference>02303703600048</LEXReference>
+            <LEXReference>02306602400012</LEXReference>
+            <LEXReference>02403104000012</LEXReference>
+            <LEXReference>02403300500022</LEXReference>
+            <LEXReference>02404100900020</LEXReference>
+            <LEXReference>02600600500008</LEXReference>
+            <LEXReference>02604300700076</LEXReference>
+            <LEXReference>02604300900012</LEXReference>
+            <LEXReference>03000800300030</LEXReference>
+            <LEXReference>03400300300028</LEXReference>
+            <LEXReference>00302603000028</LEXReference>
+            <LEXReference>02604300700076</LEXReference>
+            <LEXReference>02604300900012</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+          <LEXCoreDomains>
+            <LEXCoreDomain Code="099">Life and Death</LEXCoreDomain>
+            <LEXCoreDomain Code="147">Ritual Contamination</LEXCoreDomain>
+          </LEXCoreDomains>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+    <BaseForm Id="005778002000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>nsm</PartOfSpeech>
+      </PartsOfSpeech>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="005778002001000" IsBiblicalTerm="M" EntryCode="" Indent="0">
+          <LEXDomains>
+            <LEXDomain Code="001005001004">Monuments</LEXDomain>
+          </LEXDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2017-11-29 16:38:20" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>= monument erected as a memorial for a dead king</DefinitionShort>
+              <Glosses>
+                <Gloss>monument</Gloss>
+                <Gloss>memorial</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>02604300700076{N:001}</LEXReference>
+            <LEXReference>02604300900012{N:001}</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+          <LEXCoreDomains>
+            <LEXCoreDomain Code="108">Monument</LEXCoreDomain>
+          </LEXCoreDomains>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

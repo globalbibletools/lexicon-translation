@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="003027000000000" Lemma="λειτουργία" Version="0" HasAramaic="false" InLXX="true" AlphaPos="λ">
+  <StrongCodes>
+    <Strong>G3009</Strong>
+  </StrongCodes>
+  <Authors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes>
+    <Note Caller="1" LanguageCode="en" LastEdited="" LastEditedBy="">
+      <References/>
+      <Content>In general Greek usage, λειτουργέω and λειτουργία denote service performed by an individual, free of charge, on behalf of the state. This meaning is not found in the NT. In the NT λειτουργέω[b] and λειτουργία[c] ({D:53.13}) are less specifically religious in connotation than λατρεύω and λατρεία ({D:53.14}).</Content>
+    </Note>
+  </Notes>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="003027001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>noun, f.</PartOfSpeech>
+      </PartsOfSpeech>
+      <Inflections>
+        <Inflection Lemma="λειτουργία" BaseFormIndex="1">
+          <Form/>
+          <Realizations>
+            <Realization>-ας</Realization>
+          </Realizations>
+          <Comments/>
+        </Inflection>
+      </Inflections>
+      <Constructs>
+        <Construct Lemma="λειτουργία" BaseFormIndex="1">
+          <WordMeaningSet>
+            <Word>λαός</Word>
+          </WordMeaningSet>
+          <WordMeaningSet>
+            <Word>ἐργάζομαι</Word>
+          </WordMeaningSet>
+        </Construct>
+      </Constructs>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="003027001001000" IsBiblicalTerm="Y" EntryCode="35.22" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Help, Care For</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Serve</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-11-05 09:54:30" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>to serve, with the implication of more formal or regular service</DefinitionShort>
+              <Glosses>
+                <Gloss>to serve</Gloss>
+                <Gloss>service</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04700901200010</LEXReference>
+            <LEXReference>05000203000040</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+        <LEXMeaning Id="003027001002000" IsBiblicalTerm="M" EntryCode="35.25" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Help, Care For</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Serve</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-11-05 09:54:30" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>(derivative of {L:λειτουργέω&lt;SDBG:λειτουργέω:000000&gt;}[a] ‘to serve,’ {D:35.22}) an assignment or role in serving</DefinitionShort>
+              <Glosses>
+                <Gloss>ministry</Gloss>
+                <Gloss>service</Gloss>
+              </Glosses>
+              <Comments>The meaning of ‘ministry’ may be expressed in some languages as ‘a way of serving.’</Comments>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>05800800600010</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+        <LEXMeaning Id="003027001003000" IsBiblicalTerm="Y" EntryCode="53.13" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Religious Activities</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Religious Practice</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-11-05 09:54:30" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>to perform religious rites as part of one’s religious duties or as the result of one’s role{N:001}</DefinitionShort>
+              <Glosses>
+                <Gloss>to perform religious duties</Gloss>
+                <Gloss>to carry out religious rites</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04200102300016</LEXReference>
+            <LEXReference>05000201700018</LEXReference>
+            <LEXReference>05800902100020</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

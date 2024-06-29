@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="003927000000000" Lemma="περιέχω" Version="0" HasAramaic="false" InLXX="true" AlphaPos="π">
+  <StrongCodes>
+    <Strong>G4023</Strong>
+  </StrongCodes>
+  <Authors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes>
+    <Note Caller="1" LanguageCode="en" LastEdited="" LastEditedBy="">
+      <References>
+        <Reference>04200500900006</Reference>
+      </References>
+      <Content>The expression θάμβος γὰρ περιέσχεν αὐτόν in {S:04200500900006} is a clear example of a syntactic structure being formally the converse of the semantic structure. One may say amazement seized him, but clearly it is the person who experiences the amazement.</Content>
+    </Note>
+  </Notes>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="003927001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>verb</PartOfSpeech>
+      </PartsOfSpeech>
+      <Inflections>
+        <Inflection Lemma="περιέχω" BaseFormIndex="1">
+          <Form>aor.</Form>
+          <Realizations>
+            <Realization>περιέσχον</Realization>
+          </Realizations>
+          <Comments/>
+        </Inflection>
+      </Inflections>
+      <RelatedLemmas>
+        <RelatedLemma>
+          <Word>ἔχω</Word>
+        </RelatedLemma>
+      </RelatedLemmas>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="003927001001000" IsBiblicalTerm="Y" EntryCode="90.27" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Case</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Content</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-12-24 13:13:59" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>a marker of designations of content</DefinitionShort>
+              <Glosses>
+                <Gloss>to have</Gloss>
+                <Gloss>to contain</Gloss>
+              </Glosses>
+              <Comments>This word is found as a variant reading only: γράψαντες ἐπιστολὴν διὰ χειρὸς αὐτῶν περιέχουσαν τάδε ‘writing a letter through them having these (words)’ {S:04401502300008} (apparatus).</Comments>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04401502300008</LEXReference>
+            <LEXReference>06000200600004</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+        <LEXMeaning Id="003927001002000" IsBiblicalTerm="Y" EntryCode="90.69" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Case</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Experiencer</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-12-24 13:13:59" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>(a figurative extension of meaning of περιέχω ‘to surround,’ not occurring in the NT) to experience an emotion or mood in an overwhelming manner</DefinitionShort>
+              <Glosses>
+                <Gloss>to experience</Gloss>
+                <Gloss>to be seized by</Gloss>
+                <Gloss>to have happen to</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04200500900006{N:001}</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

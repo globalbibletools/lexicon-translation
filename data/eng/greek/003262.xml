@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="003262000000000" Lemma="μετατίθημι" Version="0" HasAramaic="false" InLXX="true" AlphaPos="μ">
+  <StrongCodes>
+    <Strong>G3346</Strong>
+  </StrongCodes>
+  <Authors/>
+  <AlternateLemmas>
+    <AlternateLemma>μετατίθεμαι</AlternateLemma>
+  </AlternateLemmas>
+  <MainLinks/>
+  <Notes>
+    <Note Caller="1" LanguageCode="en" LastEdited="" LastEditedBy="">
+      <References/>
+      <Content>There are undoubtedly certain significant differences of meaning in this series in {D:13.64}, but it is impossible to determine this on the basis of existing contexts.</Content>
+    </Note>
+  </Notes>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="003262001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>verb</PartOfSpeech>
+      </PartsOfSpeech>
+      <Inflections>
+        <Inflection Lemma="μετατίθημι" BaseFormIndex="1">
+          <Form>aor.</Form>
+          <Realizations>
+            <Realization>μετέθηκα</Realization>
+          </Realizations>
+          <Comments/>
+        </Inflection>
+        <Inflection Lemma="μετατίθημι" BaseFormIndex="1">
+          <Form>aor.pass.</Form>
+          <Realizations>
+            <Realization>μετετέθην</Realization>
+          </Realizations>
+          <Comments/>
+        </Inflection>
+      </Inflections>
+      <RelatedLemmas>
+        <RelatedLemma>
+          <Word>τίθημι</Word>
+        </RelatedLemma>
+      </RelatedLemmas>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="003262001001000" IsBiblicalTerm="Y" EntryCode="15.2" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Linear Movement</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Move, Come/Go</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-12-02 20:57:17" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>to effect a change of location in space, with the implication that the two locations are significantly different</DefinitionShort>
+              <Glosses>
+                <Gloss>to move from one place to another</Gloss>
+                <Gloss>to change one’s location</Gloss>
+                <Gloss>to depart</Gloss>
+                <Gloss>departure</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04400701600004</LEXReference>
+            <LEXReference>05801100500006</LEXReference>
+            <LEXReference>05801100500024</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+        <LEXMeaning Id="003262001002000" IsBiblicalTerm="Y" EntryCode="13.64" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Be, Become, Exist, Happen</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Change of State</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-12-02 20:57:17" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>to cause a change of state, with emphasis upon the difference in the resulting state{N:001}</DefinitionShort>
+              <Glosses>
+                <Gloss>to change to</Gloss>
+                <Gloss>to turn into</Gloss>
+                <Gloss>to cause to be different from</Gloss>
+                <Gloss>to transform</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>05800701200002</LEXReference>
+            <LEXReference>06500100400036</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+        <LEXMeaning Id="003262001003000" IsBiblicalTerm="Y" EntryCode="34.27" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Association</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Join, Begin To Associate</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXForms>
+            <LEXForm>μετατίθεμαι</LEXForm>
+          </LEXForms>
+          <LEXCollocations>
+            <LEXCollocation>μετατίθεμαι ἀπό</LEXCollocation>
+          </LEXCollocations>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-12-02 20:57:17" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>(an idiom, literally: to change from) to abandon an association</DefinitionShort>
+              <Glosses>
+                <Gloss>to turn away from</Gloss>
+                <Gloss>to abandon one’s loyalty to</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04800100600010</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

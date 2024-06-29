@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="005461000000000" Lemma="ψευδόμαρτυς" Version="0" HasAramaic="false" InLXX="false" AlphaPos="ψ">
+  <StrongCodes>
+    <Strong>G5575a</Strong>
+  </StrongCodes>
+  <Authors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes/>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="005461001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>noun, m.</PartOfSpeech>
+      </PartsOfSpeech>
+      <Inflections>
+        <Inflection Lemma="ψευδόμαρτυς" BaseFormIndex="1">
+          <Form/>
+          <Realizations>
+            <Realization>-υρος</Realization>
+          </Realizations>
+          <Comments/>
+        </Inflection>
+      </Inflections>
+      <RelatedLemmas>
+        <RelatedLemma>
+          <Word>ψευδομαρτυρέω</Word>
+        </RelatedLemma>
+      </RelatedLemmas>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="005461001001000" IsBiblicalTerm="M" EntryCode="33.273" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Communication</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Witness, Testify</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2022-06-04 20:39:16" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>(derivative of {L:ψευδομαρτυρέω&lt;SDBG:ψευδομαρτυρέω:000000&gt;} ‘to testify falsely,’ {D:33.271}) one who testifies falsely</DefinitionShort>
+              <Glosses>
+                <Gloss>false witness</Gloss>
+              </Glosses>
+              <Comments>The focal element in the evidence provided by a ‘false witness’ is the fact that what is said is not true.|It is also possible that such a person has pretended to have been present and thus an eyewitness of an event, but that is not the focus of the meaning. In fact, a false witness may have been present but at the same time may later provide false evidence as to what took place. It is possible to render ψευδόμαρτυς in some languages as ‘one who pretends to know about something but is really lying in what he says’ or ‘one who lies about what he pretends to have seen.’</Comments>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04002606000012</LEXReference>
+            <LEXReference>04601501500008</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

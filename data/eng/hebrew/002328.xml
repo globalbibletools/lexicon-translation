@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="002328000000000" Lemma="חֶמְאָה" Version="5" HasAramaic="false" InLXX="false" AlphaPos="ח">
+  <StrongCodes>
+    <Strong>H2529</Strong>
+    <Strong>H4260</Strong>
+  </StrongCodes>
+  <Authors>
+    <Author>Reinier de Blois</Author>
+  </Authors>
+  <Contributors/>
+  <AlternateLemmas>
+    <AlternateLemma>מַחְמָאֹת</AlternateLemma>
+    <AlternateLemma>מַחֲמָאֹת</AlternateLemma>
+  </AlternateLemmas>
+  <MainLinks/>
+  <Notes>
+    <Note Caller="1" LanguageCode="en" LastEdited="" LastEditedBy="">
+      <References>
+        <Reference>01802900600010</Reference>
+      </References>
+      <Content>{A:MT} {L:חֵמָה&lt;SDBH:חֵמָה&gt;}</Content>
+    </Note>
+    <Note Caller="2" LanguageCode="en" LastEdited="" LastEditedBy="">
+      <References>
+        <Reference>01905502200004</Reference>
+      </References>
+      <Content>{A:MT} {L:מַחֲמָאֹות&lt;SDBH:מַחֲמָאֹת&gt;} | {A:RSV} {A:NIV} {A:NJB} {A:NJPS} {A:NRSV} {A:REB} {A:GNT} {A:CEV} מֵחֶמְאָה "than curds, butter"</Content>
+    </Note>
+  </Notes>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="002328001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>nsf</PartOfSpeech>
+      </PartsOfSpeech>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="002328001001000" IsBiblicalTerm="Y" EntryCode="" Indent="0">
+          <LEXDomains>
+            <LEXDomain Code="001004003003">Dairy</LEXDomain>
+          </LEXDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2013-02-13 17:09:34" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>= coagulated substance; ◄ formed by action of acids on milk; ► made into {L:cheese&lt;SDBH:חָרִיץ&gt;} or eaten as food; ≈ regarded as choice food and therefore often associated with prosperity; because of the smoothness of this substance it is sometimes associated with flattery and untrustworthiness as well</DefinitionShort>
+              <Glosses>
+                <Gloss>curds</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>00101800800006</LEXReference>
+            <LEXReference>00503201400002</LEXReference>
+            <LEXReference>00700502500018</LEXReference>
+            <LEXReference>01001702900008</LEXReference>
+            <LEXReference>01802001700018</LEXReference>
+            <LEXReference>01802900600010{N:001}</LEXReference>
+            <LEXReference>01905502200004{N:002}</LEXReference>
+            <LEXReference>02003003300010</LEXReference>
+            <LEXReference>02300701500002</LEXReference>
+            <LEXReference>02300702200016</LEXReference>
+            <LEXReference>02300702200020</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+          <LEXCoreDomains>
+            <LEXCoreDomain Code="069">Food</LEXCoreDomain>
+          </LEXCoreDomains>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

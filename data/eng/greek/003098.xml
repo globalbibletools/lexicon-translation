@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="003098000000000" Lemma="λύσις" Version="0" HasAramaic="false" InLXX="true" AlphaPos="λ">
+  <StrongCodes>
+    <Strong>G3080</Strong>
+  </StrongCodes>
+  <Authors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes/>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="003098001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>noun, f.</PartOfSpeech>
+      </PartsOfSpeech>
+      <Inflections>
+        <Inflection Lemma="λύσις" BaseFormIndex="1">
+          <Form/>
+          <Realizations>
+            <Realization>-εως</Realization>
+          </Realizations>
+          <Comments/>
+        </Inflection>
+      </Inflections>
+      <RelatedLemmas>
+        <RelatedLemma>
+          <Word>λύω</Word>
+        </RelatedLemma>
+      </RelatedLemmas>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="003098001001000" IsBiblicalTerm="M" EntryCode="34.78" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Association</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Marriage, Divorce</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-11-12 19:30:20" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>to dissolve the marriage bond</DefinitionShort>
+              <Glosses>
+                <Gloss>to divorce</Gloss>
+                <Gloss>to separate</Gloss>
+              </Glosses>
+              <Comments>Expressions for divorce are often based on terms meaning literally ‘to send away,’ ‘to separate from,’ or ‘to leave one another.’ However, in a number of languages idiomatic expressions are employed, for example ‘to send him off with his clothes,’ ‘to untie the knot between them,’ or ‘to throw away her hearthstones.’|Some persons have attempted to make an important distinction between ἀφίημι in {S:04600701100008} and χωρίζω in {S:04600701500010} on the assumption that ἀφίημι implies legal divorce, while χωρίζω only relates to separation. Such a distinction, however, seems to be quite artificial.</Comments>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04600702700010</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

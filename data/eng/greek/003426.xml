@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="003426000000000" Lemma="νῆστις" Version="0" HasAramaic="false" InLXX="true" AlphaPos="ν">
+  <StrongCodes>
+    <Strong>G3523</Strong>
+  </StrongCodes>
+  <Authors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes/>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="003426001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>adjc.</PartOfSpeech>
+      </PartsOfSpeech>
+      <Inflections>
+        <Inflection Lemma="νῆστις" BaseFormIndex="1">
+          <Form/>
+          <Realizations>
+            <Realization>-ιος, -ιδος</Realization>
+          </Realizations>
+          <Comments/>
+        </Inflection>
+        <Inflection Lemma="νῆστις" BaseFormIndex="1">
+          <Form>acc.pl.</Form>
+          <Realizations>
+            <Realization>νήστεις</Realization>
+          </Realizations>
+          <Comments/>
+        </Inflection>
+      </Inflections>
+      <RelatedLemmas>
+        <RelatedLemma>
+          <Word>νηστεύω</Word>
+        </RelatedLemma>
+      </RelatedLemmas>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="003426001001000" IsBiblicalTerm="M" EntryCode="23.31" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Physiological Processes and States</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Eat, Drink</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-12-10 16:11:52" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>the state of being very hungry, presumably for a considerable period of time and as the result of necessity rather than choice (compare {L:νηστεία&lt;SDBG:νηστεία:000000&gt;}[a] ‘fasting,’ {D:53.65})</DefinitionShort>
+              <Glosses>
+                <Gloss>to be quite hungry</Gloss>
+                <Gloss>considerable hunger</Gloss>
+                <Gloss>lack of food</Gloss>
+              </Glosses>
+              <Comments>Terms referring to hunger often distinguish varying degrees of hunger and whether the hunger is by necessity or by choice.</Comments>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04001503200054</LEXReference>
+            <LEXReference>04100800300010</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

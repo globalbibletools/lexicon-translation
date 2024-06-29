@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="000653000000000" Lemma="ἀποτίθημι" Version="0" HasAramaic="false" InLXX="true" AlphaPos="α">
+  <StrongCodes>
+    <Strong>G0659</Strong>
+  </StrongCodes>
+  <Authors/>
+  <AlternateLemmas>
+    <AlternateLemma>ἀποτίθεμαι</AlternateLemma>
+  </AlternateLemmas>
+  <MainLinks/>
+  <Notes>
+    <Note Caller="1" LanguageCode="en" LastEdited="" LastEditedBy="">
+      <References/>
+      <Content>It would also be possible to classify the meanings of ἀποτίθημι[a] and ἀφαιρέω[a] in Domain 15 Linear Movement, but in a number of contexts the focus seems not to be primarily upon the movement but upon the removal from a particular location. In other words, the focus is upon the absence of an object from a place rather than the movement involved in removal.</Content>
+    </Note>
+  </Notes>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="000653001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>verb</PartOfSpeech>
+      </PartsOfSpeech>
+      <Inflections>
+        <Inflection Lemma="ἀποτίθημι" BaseFormIndex="1">
+          <Form>aor.midd.</Form>
+          <Realizations>
+            <Realization>ἀπεθέμην</Realization>
+          </Realizations>
+          <Comments/>
+        </Inflection>
+        <Inflection Lemma="ἀποτίθημι" BaseFormIndex="1">
+          <Form>subj.</Form>
+          <Realizations>
+            <Realization>ἀποθῶμαι</Realization>
+          </Realizations>
+          <Comments/>
+        </Inflection>
+        <Inflection Lemma="ἀποτίθημι" BaseFormIndex="1">
+          <Form>impv.2pl.</Form>
+          <Realizations>
+            <Realization>ἀπόθεσθε</Realization>
+          </Realizations>
+          <Comments/>
+        </Inflection>
+        <Inflection Lemma="ἀποτίθημι" BaseFormIndex="1">
+          <Form>inf.</Form>
+          <Realizations>
+            <Realization>ἀποθέσθαι</Realization>
+          </Realizations>
+          <Comments/>
+        </Inflection>
+        <Inflection Lemma="ἀποτίθημι" BaseFormIndex="1">
+          <Form>ptc.</Form>
+          <Realizations>
+            <Realization>ἀποθέμενος</Realization>
+          </Realizations>
+          <Comments/>
+        </Inflection>
+      </Inflections>
+      <RelatedLemmas>
+        <RelatedLemma>
+          <Word>τίθημι</Word>
+        </RelatedLemma>
+      </RelatedLemmas>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="000653001001000" IsBiblicalTerm="Y" EntryCode="85.44" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Existence in Space</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Put, Place</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-08-13 17:44:21" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>to put or take something away from its normal location{N:001}</DefinitionShort>
+              <Glosses>
+                <Gloss>to put away</Gloss>
+                <Gloss>to put out of the way</Gloss>
+                <Gloss>to remove</Gloss>
+              </Glosses>
+              <Comments>In {S:04001400300024} the semantic element of ‘out of the way’ is implied in the activity of ‘putting in prison.’</Comments>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04001400300024</LEXReference>
+            <LEXReference>04400705800020</LEXReference>
+            <LEXReference>04501301200016</LEXReference>
+            <LEXReference>05801200100022</LEXReference>
+            <LEXReference>05900102100004</LEXReference>
+            <LEXReference>06000200100002</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+        <LEXMeaning Id="000653001002000" IsBiblicalTerm="Y" EntryCode="68.37" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Aspect</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Cease, Stop</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-08-13 17:44:21" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>(a figurative extension of meaning of {L:ἀποτίθημι&lt;SDBG:ἀποτίθημι:000000&gt;}[a] ‘to put away,’ {D:85.44}) to cease doing what one is accustomed to doing</DefinitionShort>
+              <Glosses>
+                <Gloss>to stop</Gloss>
+                <Gloss>to cease</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04900402200002</LEXReference>
+            <LEXReference>04900402500004</LEXReference>
+            <LEXReference>05100300800006</LEXReference>
+            <LEXReference>05900102100004</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

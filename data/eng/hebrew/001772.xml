@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="001772000000000" Lemma="הֲדַר" Version="5" HasAramaic="true" InLXX="false" AlphaPos="ה">
+  <StrongCodes>
+    <Strong>A1923</Strong>
+    <Strong>H1924</Strong>
+  </StrongCodes>
+  <Authors>
+    <Author>Reinier de Blois</Author>
+  </Authors>
+  <Contributors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes>
+    <Note Caller="1" LanguageCode="en" LastEdited="" LastEditedBy="">
+      <References>
+        <Reference>00103603900018</Reference>
+      </References>
+      <Content>{A:MT} {A:RSV} {A:NJPS} {A:NRSV} {A:REB} {A:CEV} | {A:NIV} {A:NJB} {A:GNT} {L:הֲדַד&lt;SDBH:הֲדַד&gt;}</Content>
+    </Note>
+  </Notes>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="001772001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>nsm</PartOfSpeech>
+      </PartsOfSpeech>
+      <RelatedLemmas>
+        <RelatedLemma>
+          <Word>הדר</Word>
+        </RelatedLemma>
+      </RelatedLemmas>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="001772001001000" IsBiblicalTerm="M" EntryCode="" Indent="0">
+          <LEXDomains>
+            <LEXDomain Code="002001002012">Great</LEXDomain>
+          </LEXDomains>
+          <LEXSynonyms>
+            <LEXSynonym>זִיו</LEXSynonym>
+          </LEXSynonyms>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2017-09-04 12:39:45" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>= state in which humans have personal greatness and a high status, recognized and respected by others</DefinitionShort>
+              <Glosses>
+                <Gloss>majesty</Gloss>
+                <Gloss>majestic</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>02700402700046</LEXReference>
+            <LEXReference>02700403300020</LEXReference>
+            <LEXReference>02700501800026</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+          <LEXCoreDomains>
+            <LEXCoreDomain Code="170">Status</LEXCoreDomain>
+          </LEXCoreDomains>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+    <BaseForm Id="001772002000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>np</PartOfSpeech>
+      </PartsOfSpeech>
+      <RelatedLemmas>
+        <RelatedLemma>
+          <Word>הדר</Word>
+        </RelatedLemma>
+      </RelatedLemmas>
+      <MeaningsOfName>
+        <MeaningOfName LanguageCode="pt">
+          <Meaning>glorioso</Meaning>
+        </MeaningOfName>
+      </MeaningsOfName>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="001772002001000" IsBiblicalTerm="Y" EntryCode="" Indent="0">
+          <LEXDomains>
+            <LEXDomain Code="003001007">Names of People</LEXDomain>
+          </LEXDomains>
+          <LEXSynonyms>
+            <LEXSynonym>הֲדַד</LEXSynonym>
+          </LEXSynonyms>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2015-11-12 14:56:49" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>= man, also known as {L:Hadad&lt;SDBH:הֲדַד&gt;}; son of {L:Baal Hanan&lt;SDBH:בַּעַל חָנָן&gt;}; from {L:Pau&lt;SDBH:פָּעוּ&gt;} or {L:Pai&lt;SDBH:פָּעִי&gt;}; ► king of {L:Edom&lt;SDBH:אֱדֹום&gt;}</DefinitionShort>
+              <Glosses>
+                <Gloss>Hadar</Gloss>
+                <Gloss>Hadad</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>00103603900018{N:001}</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

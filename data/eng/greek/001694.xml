@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="001694000000000" Lemma="ἐλπίζω" Version="0" HasAramaic="false" InLXX="true" AlphaPos="ε">
+  <StrongCodes>
+    <Strong>G1679</Strong>
+  </StrongCodes>
+  <Authors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes>
+    <Note Caller="1" LanguageCode="en" LastEdited="" LastEditedBy="">
+      <References/>
+      <Content>It is possible that ἀπελπίζω differs from ἐλπίζω[b] in focusing upon an expectation of something coming back or expecting something in return, but the shift from ἐλπίζω to ἀπελπίζω may be merely a matter of stylistic variation.</Content>
+    </Note>
+  </Notes>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="001694001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>verb</PartOfSpeech>
+      </PartsOfSpeech>
+      <Inflections>
+        <Inflection Lemma="ἐλπίζω" BaseFormIndex="1">
+          <Form>fut.</Form>
+          <Realizations>
+            <Realization>ἐλπιῶ</Realization>
+          </Realizations>
+          <Comments/>
+        </Inflection>
+        <Inflection Lemma="ἐλπίζω" BaseFormIndex="1">
+          <Form>aor.</Form>
+          <Realizations>
+            <Realization>ἤλπισα</Realization>
+          </Realizations>
+          <Comments/>
+        </Inflection>
+        <Inflection Lemma="ἐλπίζω" BaseFormIndex="1">
+          <Form>pf.</Form>
+          <Realizations>
+            <Realization>ἤλπικα</Realization>
+          </Realizations>
+          <Comments/>
+        </Inflection>
+      </Inflections>
+      <RelatedLemmas>
+        <RelatedLemma>
+          <Word>ἀπελπίζω</Word>
+        </RelatedLemma>
+        <RelatedLemma>
+          <Word>ἐλπίς</Word>
+        </RelatedLemma>
+        <RelatedLemma>
+          <Word>προελπίζω</Word>
+        </RelatedLemma>
+      </RelatedLemmas>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="001694001001000" IsBiblicalTerm="M" EntryCode="25.59" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Attitudes and Emotions</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Hope, Look Forward To</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-05-19 10:26:11" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>to look forward with confidence to that which is good and beneficial</DefinitionShort>
+              <Glosses>
+                <Gloss>to hope</Gloss>
+                <Gloss>to hope for</Gloss>
+                <Gloss>hope</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04001202100012</LEXReference>
+            <LEXReference>04202300800046</LEXReference>
+            <LEXReference>04202402100006</LEXReference>
+            <LEXReference>04300504500036</LEXReference>
+            <LEXReference>04402600700024</LEXReference>
+            <LEXReference>04500802400030</LEXReference>
+            <LEXReference>04500802500012</LEXReference>
+            <LEXReference>04501501200036</LEXReference>
+            <LEXReference>04501502400014</LEXReference>
+            <LEXReference>04601501900016</LEXReference>
+            <LEXReference>04601600700018</LEXReference>
+            <LEXReference>04700101000022</LEXReference>
+            <LEXReference>04700101300026</LEXReference>
+            <LEXReference>04700501100024</LEXReference>
+            <LEXReference>04700800500008</LEXReference>
+            <LEXReference>04701300600002</LEXReference>
+            <LEXReference>05400401000016</LEXReference>
+            <LEXReference>05400500500014</LEXReference>
+            <LEXReference>05400601700022</LEXReference>
+            <LEXReference>05700102200014</LEXReference>
+            <LEXReference>05801100100008</LEXReference>
+            <LEXReference>06000101300020</LEXReference>
+            <LEXReference>06000300500018</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+        <LEXMeaning Id="001694001002000" IsBiblicalTerm="Y" EntryCode="30.54" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Think</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>To Think Concerning Future Contingencies</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-05-19 10:26:11" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>to expect, with the implication of some benefit{N:001}</DefinitionShort>
+              <Glosses>
+                <Gloss>to expect</Gloss>
+                <Gloss>to hope</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04200603400012</LEXReference>
+            <LEXReference>04402402600006</LEXReference>
+            <LEXReference>04601300700012</LEXReference>
+            <LEXReference>05000201900002</LEXReference>
+            <LEXReference>05000202300008</LEXReference>
+            <LEXReference>05400301400008</LEXReference>
+            <LEXReference>06300101200024</LEXReference>
+            <LEXReference>06400101400002</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

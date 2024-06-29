@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="001080000000000" Lemma="בעל" Version="5" HasAramaic="false" InLXX="false" AlphaPos="ב">
+  <StrongCodes>
+    <Strong>H1166</Strong>
+  </StrongCodes>
+  <Authors>
+    <Author>Enio R. Mueller</Author>
+  </Authors>
+  <Contributors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes>
+    <Note Caller="1" LanguageCode="en" LastEdited="" LastEditedBy="">
+      <References>
+        <Reference>01300402200022</Reference>
+      </References>
+      <Content>NJPS GNT CEV "married" | RSV NIV ESV "ruled"</Content>
+    </Note>
+    <Note Caller="2" LanguageCode="en" LastEdited="" LastEditedBy="">
+      <References>
+        <Reference>02400301400016</Reference>
+      </References>
+      <Content>NIV "husband" NJPS "espoused" | RSV NJB NRSV ESV "master"</Content>
+    </Note>
+  </Notes>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="001080001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>vb</PartOfSpeech>
+      </PartsOfSpeech>
+      <RelatedLemmas>
+        <RelatedLemma>
+          <Word>בַּעַל</Word>
+        </RelatedLemma>
+        <RelatedLemma>
+          <Word>בַּעֲלָה</Word>
+        </RelatedLemma>
+      </RelatedLemmas>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="001080001001000" IsBiblicalTerm="Y" EntryCode="" Indent="0">
+          <LEXDomains>
+            <LEXDomain Code="002003002008">Control</LEXDomain>
+          </LEXDomains>
+          <LEXForms>
+            <LEXForm>vbqal-</LEXForm>
+          </LEXForms>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2016-02-09 14:11:52" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>= action by which someone exercises authority over other people</DefinitionShort>
+              <Glosses>
+                <Gloss>to rule</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>02302601300006</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+          <LEXCoreDomains>
+            <LEXCoreDomain Code="015">Authority</LEXCoreDomain>
+          </LEXCoreDomains>
+        </LEXMeaning>
+        <LEXMeaning Id="001080001002000" IsBiblicalTerm="M" EntryCode="" Indent="0">
+          <LEXDomains>
+            <LEXDomain Code="002003002003" Source="Control" SourceCode="002003002008">Associate</LEXDomain>
+          </LEXDomains>
+          <LEXForms>
+            <LEXForm>vbqal-</LEXForm>
+            <LEXForm>vbnif- (passive)</LEXForm>
+          </LEXForms>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2016-02-09 14:11:52" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>= action by which a man takes a woman as his lawful wife</DefinitionShort>
+              <Glosses>
+                <Gloss>to marry</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>00102000300044</LEXReference>
+            <LEXReference>00502101300054</LEXReference>
+            <LEXReference>00502202200014</LEXReference>
+            <LEXReference>00502400100012</LEXReference>
+            <LEXReference>01300402200022{N:001}</LEXReference>
+            <LEXReference>02003002300008</LEXReference>
+            <LEXReference>02305400100034</LEXReference>
+            <LEXReference>02305400500004</LEXReference>
+            <LEXReference>02306200400042</LEXReference>
+            <LEXReference>02306200400056</LEXReference>
+            <LEXReference>02306200500004</LEXReference>
+            <LEXReference>02306200500010</LEXReference>
+            <LEXReference>02400301400016{N:002}</LEXReference>
+            <LEXReference>02403103200052</LEXReference>
+            <LEXReference>03900201100038</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+          <LEXCoreDomains>
+            <LEXCoreDomain Code="142">Relationship</LEXCoreDomain>
+            <LEXCoreDomain Code="105">Marriage</LEXCoreDomain>
+            <LEXCoreDomain Code="082">Human</LEXCoreDomain>
+          </LEXCoreDomains>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

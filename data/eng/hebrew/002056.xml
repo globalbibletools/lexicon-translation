@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="002056000000000" Lemma="זֶרֶם" Version="5" HasAramaic="false" InLXX="false" AlphaPos="ז">
+  <StrongCodes>
+    <Strong>H2230</Strong>
+  </StrongCodes>
+  <Authors>
+    <Author>Reinier de Blois</Author>
+  </Authors>
+  <Contributors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes/>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="002056001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>nsm</PartOfSpeech>
+      </PartsOfSpeech>
+      <RelatedLemmas>
+        <RelatedLemma>
+          <Word>זרם</Word>
+        </RelatedLemma>
+      </RelatedLemmas>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="002056001001000" IsBiblicalTerm="Y" EntryCode="" Indent="0">
+          <LEXDomains>
+            <LEXDomain Code="001006011">Rain</LEXDomain>
+          </LEXDomains>
+          <LEXSynonyms>
+            <LEXSynonym>אֶבֶן בָּרָד</LEXSynonym>
+            <LEXSynonym>בָּרָד</LEXSynonym>
+            <LEXSynonym>מָטָר</LEXSynonym>
+            <LEXSynonym>נֶפֶץ</LEXSynonym>
+          </LEXSynonyms>
+          <LEXAntonyms>
+            <LEXAntonym>חֹרֶב</LEXAntonym>
+          </LEXAntonyms>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2017-08-23 20:10:52" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>= process by which copious amounts of water flow from the skies, often accompanied by strong winds and having a destructive effect</DefinitionShort>
+              <Glosses>
+                <Gloss>rainstorm</Gloss>
+                <Gloss>torrent of rain</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>01802400800004</LEXReference>
+            <LEXReference>02300400600032</LEXReference>
+            <LEXReference>02302500400034</LEXReference>
+            <LEXReference>02302500400050</LEXReference>
+            <LEXReference>02302800200016</LEXReference>
+            <LEXReference>02302800200026</LEXReference>
+            <LEXReference>02303003000040</LEXReference>
+            <LEXReference>02303200200018</LEXReference>
+            <LEXReference>03500301000008</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+          <LEXCoreDomains>
+            <LEXCoreDomain Code="193">Weather</LEXCoreDomain>
+          </LEXCoreDomains>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

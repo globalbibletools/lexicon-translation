@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="001473000000000" Lemma="געשׁ" Version="5" HasAramaic="false" InLXX="false" AlphaPos="ג">
+  <StrongCodes>
+    <Strong>H1607</Strong>
+  </StrongCodes>
+  <Authors>
+    <Author>Reinier de Blois</Author>
+  </Authors>
+  <Contributors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes>
+    <Note Caller="1" LanguageCode="en" LastEdited="" LastEditedBy="">
+      <References>
+        <Reference>01002200800004</Reference>
+      </References>
+      <Content>MT-K ותגעשׁ | MT-Q ויתגעשׁ</Content>
+    </Note>
+    <Note Caller="2" LanguageCode="en" LastEdited="" LastEditedBy="">
+      <References>
+        <Reference>01803402000012</Reference>
+      </References>
+      <Content>MT HOTTP-B יְגֹעְַשׁוּ עָם RSV NIV NRSV ESV "the people are shaken" = [1b] | NJPS "People are in turmoil" = [1a] | יגועו שׁועִים NJB "they perish - these great ones" = {L:גוע&lt;SDBH:גוע&gt;} | יגע שֹׁועִים REB "at his touch the rich" = {L:נגע&lt;SDBH:נגע&gt;}</Content>
+    </Note>
+  </Notes>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="001473001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>vb</PartOfSpeech>
+      </PartsOfSpeech>
+      <RelatedNames>
+        <RelatedName>
+          <Word>גַּעַשׁ</Word>
+        </RelatedName>
+      </RelatedNames>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="001473001001000" IsBiblicalTerm="Y" EntryCode="" Indent="0">
+          <LEXDomains>
+            <LEXDomain Code="002001001064">Unsteady</LEXDomain>
+          </LEXDomains>
+          <LEXForms>
+            <LEXForm>vbqal-</LEXForm>
+            <LEXForm>vbhit-</LEXForm>
+          </LEXForms>
+          <LEXSynonyms>
+            <LEXSynonym>המה</LEXSynonym>
+            <LEXSynonym>רגז</LEXSynonym>
+            <LEXSynonym>רעשׁ</LEXSynonym>
+          </LEXSynonyms>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2016-04-08 19:29:12" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>= process by which humans or objects move up and down or to and fro</DefinitionShort>
+              <Glosses>
+                <Gloss>to shake</Gloss>
+                <Gloss>to toss about</Gloss>
+                <Gloss>to be turbulent</Gloss>
+                <Gloss>to stagger</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>01002200800004{N:001}</LEXReference>
+            <LEXReference>01002200800008</LEXReference>
+            <LEXReference>01002200800028</LEXReference>
+            <LEXReference>01901800800004</LEXReference>
+            <LEXReference>01901800800024</LEXReference>
+            <LEXReference>02400502200050</LEXReference>
+            <LEXReference>02402501600008</LEXReference>
+            <LEXReference>02404600700020</LEXReference>
+            <LEXReference>02404600800020</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+          <LEXCoreDomains>
+            <LEXCoreDomain Code="166">Space</LEXCoreDomain>
+          </LEXCoreDomains>
+        </LEXMeaning>
+        <LEXMeaning Id="001473001002000" IsBiblicalTerm="Y" EntryCode="" Indent="0">
+          <LEXDomains>
+            <LEXDomain Code="002002002006" Source="Unsteady" SourceCode="002001001064">Non-Exist</LEXDomain>
+          </LEXDomains>
+          <LEXForms>
+            <LEXForm>vbpual</LEXForm>
+          </LEXForms>
+          <LEXSynonyms>
+            <LEXSynonym>עבר</LEXSynonym>
+          </LEXSynonyms>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2016-04-08 19:29:12" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>= process by which humans suddenly go through an experience that affects the core of their existence, and die as a result, as if they are suddenly shaken from a fixed position</DefinitionShort>
+              <Glosses>
+                <Gloss>to be shaken</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>01803402000012{N:002}</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+          <LEXCoreDomains>
+            <LEXCoreDomain Code="099">Life and Death</LEXCoreDomain>
+          </LEXCoreDomains>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

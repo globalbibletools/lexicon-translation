@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="001656000000000" Lemma="ἐλαύνω" Version="0" HasAramaic="false" InLXX="true" AlphaPos="ε">
+  <StrongCodes>
+    <Strong>G1643</Strong>
+  </StrongCodes>
+  <Authors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes>
+    <Note Caller="1" LanguageCode="en" LastEdited="" LastEditedBy="">
+      <References>
+        <Reference>04100604800014</Reference>
+      </References>
+      <Content>In {S:04100604800014} the specific reference of ἐλαύνω is to rowing, though the meaning of ἐλαύνω in its more general sense involves simply moving an object by means of force.</Content>
+    </Note>
+  </Notes>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="001656001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>verb</PartOfSpeech>
+      </PartsOfSpeech>
+      <Inflections>
+        <Inflection Lemma="ἐλαύνω" BaseFormIndex="1">
+          <Form>pf.</Form>
+          <Realizations>
+            <Realization>ἐλήλακα</Realization>
+          </Realizations>
+          <Comments/>
+        </Inflection>
+      </Inflections>
+      <RelatedLemmas>
+        <RelatedLemma>
+          <Word>ἀπελαύνω</Word>
+        </RelatedLemma>
+      </RelatedLemmas>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="001656001001000" IsBiblicalTerm="Y" EntryCode="15.161" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Linear Movement</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Drive Along, Carry Along</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-05-14 20:33:12" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>to cause an object to move by means of a strong force or vigorous action</DefinitionShort>
+              <Glosses>
+                <Gloss>to drive along</Gloss>
+                <Gloss>to carry along</Gloss>
+              </Glosses>
+              <Comments>In {S:04200802900052} ἐλαύνω occurs in the statement ἠλαύνετο ὑπὸ τοῦ δαιμονίου εἰς τὰς ἐρήμους ‘he was driven into the desert by the demon.’ In this context it would appear that the demon was regarded as a type of force, parallel perhaps to wind.</Comments>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04100604800014{N:001}</LEXReference>
+            <LEXReference>04200802900052</LEXReference>
+            <LEXReference>04300601900002</LEXReference>
+            <LEXReference>05900300400022</LEXReference>
+            <LEXReference>06100201700018</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

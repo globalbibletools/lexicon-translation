@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="005671000000000" Lemma="עֲרִירִי" Version="4" HasAramaic="false" InLXX="false" AlphaPos="ע">
+  <StrongCodes>
+    <Strong>H6185</Strong>
+  </StrongCodes>
+  <Authors>
+    <Author>J.E. Hartley</Author>
+  </Authors>
+  <Contributors/>
+  <AlternateLemmas/>
+  <MainLinks>
+    <MainLink>SAHD@http://www.sahd.div.ed.ac.uk/_media/lexeme:pdf:jvx-ariri-hartley_j-azu-2006p.pdf</MainLink>
+  </MainLinks>
+  <Notes/>
+  <ContributorNote>Extra subentry (b): 7. Conclusion: p. 6. </ContributorNote>
+  <BaseForms>
+    <BaseForm Id="005671001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>aj</PartOfSpeech>
+      </PartsOfSpeech>
+      <RelatedLemmas>
+        <RelatedLemma>
+          <Word>ערר</Word>
+        </RelatedLemma>
+      </RelatedLemmas>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="005671001001000" IsBiblicalTerm="Y" EntryCode="" Indent="0">
+          <LEXDomains>
+            <LEXDomain Code="002001001062">Unable</LEXDomain>
+          </LEXDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-10-04 21:56:20" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>= state in which humans, whether male or female, have no children</DefinitionShort>
+              <Glosses>
+                <Gloss>childless</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>00101500200024</LEXReference>
+            <LEXReference>00302002000024</LEXReference>
+            <LEXReference>00302002100026</LEXReference>
+            <LEXReference>02402203000020</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+          <LEXCoreDomains>
+            <LEXCoreDomain Code="001">Ability</LEXCoreDomain>
+            <LEXCoreDomain Code="019">Body</LEXCoreDomain>
+            <LEXCoreDomain Code="030">Childbirth</LEXCoreDomain>
+          </LEXCoreDomains>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

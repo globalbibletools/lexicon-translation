@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="001113000000000" Lemma="בעת" Version="5" HasAramaic="false" InLXX="false" AlphaPos="ב">
+  <StrongCodes>
+    <Strong>H1204</Strong>
+  </StrongCodes>
+  <Authors>
+    <Author>Enio R. Mueller</Author>
+  </Authors>
+  <Contributors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes/>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="001113001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>vb</PartOfSpeech>
+      </PartsOfSpeech>
+      <RelatedLemmas>
+        <RelatedLemma>
+          <Word>בִּעוּתִים</Word>
+        </RelatedLemma>
+        <RelatedLemma>
+          <Word>בְּעָתָה</Word>
+        </RelatedLemma>
+      </RelatedLemmas>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="001113001001000" IsBiblicalTerm="Y" EntryCode="" Indent="0">
+          <LEXDomains>
+            <LEXDomain Code="002003003021">Unsafe</LEXDomain>
+          </LEXDomains>
+          <LEXForms>
+            <LEXForm>vbpiel</LEXForm>
+          </LEXForms>
+          <LEXSynonyms>
+            <LEXSynonym>אפף</LEXSynonym>
+          </LEXSynonyms>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2015-06-07 12:39:28" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>= causative process by which a creature or object causes someone else to be in deep distress</DefinitionShort>
+              <Glosses>
+                <Gloss>to torment</Gloss>
+                <Gloss>to overwhelm</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>00901601400018</LEXReference>
+            <LEXReference>00901601500022</LEXReference>
+            <LEXReference>01002200500014</LEXReference>
+            <LEXReference>01901800500014</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+          <LEXCoreDomains>
+            <LEXCoreDomain Code="196">Well-Being</LEXCoreDomain>
+          </LEXCoreDomains>
+        </LEXMeaning>
+        <LEXMeaning Id="001113001002000" IsBiblicalTerm="Y" EntryCode="" Indent="0">
+          <LEXDomains>
+            <LEXDomain Code="002003003021">Unsafe</LEXDomain>
+          </LEXDomains>
+          <LEXForms>
+            <LEXForm>vbpiel</LEXForm>
+          </LEXForms>
+          <LEXSynonyms>
+            <LEXSynonym>גאל</LEXSynonym>
+            <LEXSynonym>חתת</LEXSynonym>
+            <LEXSynonym>כבד</LEXSynonym>
+            <LEXSynonym>נפל</LEXSynonym>
+            <LEXSynonym>שׁכן</LEXSynonym>
+            <LEXSynonym>תקף</LEXSynonym>
+          </LEXSynonyms>
+          <LEXAntonyms>
+            <LEXAntonym>סור שֵׁבֶט</LEXAntonym>
+            <LEXAntonym>רחק כַּף</LEXAntonym>
+          </LEXAntonyms>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2015-06-07 12:39:28" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>= causative process by which a specific event causes someone else to be in deep distress</DefinitionShort>
+              <Glosses>
+                <Gloss>to overwhelm</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>01800300500016</LEXReference>
+            <LEXReference>01800701400016</LEXReference>
+            <LEXReference>01800903400016</LEXReference>
+            <LEXReference>01801301100008</LEXReference>
+            <LEXReference>01801302100016</LEXReference>
+            <LEXReference>01801502400002</LEXReference>
+            <LEXReference>01801801100004</LEXReference>
+            <LEXReference>01803300700008</LEXReference>
+            <LEXReference>02302100400008</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+          <LEXCoreDomains>
+            <LEXCoreDomain Code="196">Well-Being</LEXCoreDomain>
+          </LEXCoreDomains>
+        </LEXMeaning>
+        <LEXMeaning Id="001113001003000" IsBiblicalTerm="Y" EntryCode="" Indent="0">
+          <LEXDomains>
+            <LEXDomain Code="002001002001" Source="Unsafe" SourceCode="002003003021">Afraid</LEXDomain>
+          </LEXDomains>
+          <LEXForms>
+            <LEXForm>vbnif-</LEXForm>
+          </LEXForms>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2015-06-07 12:39:28" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>= process by which someone experiences an overwhelming fear</DefinitionShort>
+              <Glosses>
+                <Gloss>to be terrified</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>01302103000026</LEXReference>
+            <LEXReference>01700700600030</LEXReference>
+            <LEXReference>02700801700016</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+          <LEXCoreDomains>
+            <LEXCoreDomain Code="196">Well-Being</LEXCoreDomain>
+            <LEXCoreDomain Code="043">Confidence and Fear</LEXCoreDomain>
+          </LEXCoreDomains>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>
