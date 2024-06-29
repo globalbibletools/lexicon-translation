@@ -6,10 +6,8 @@
 // Import the vscode module from the vscode node module.
 import * as vscode from "vscode";
 import * as path from "path";
-import * as fs from "fs";
 
 // Define global constants
-const jsonFilePath: string = `./data/local/`;
 const wordFilePath: string = `./data/eng/`;
 const wordExtension: string = ".XML";
 export class LemmaTreeDataProvider implements vscode.TreeDataProvider<Entry> {
@@ -24,14 +22,32 @@ export class LemmaTreeDataProvider implements vscode.TreeDataProvider<Entry> {
   getChildren(element?: Entry): Thenable<Entry[]> {
     if (!element) {
       // Return root level entries (level 1)
-      const rootEntries = Array.from(Entry.entriesMap.values()).filter(
-        (entry) => entry.key.startsWith("1")
+      // Commenting this out is there is a timing issue in that when this is called, the Entry.entriesMap is not yet populated
+      // const rootEntries = Array.from(Entry.entriesMap.values()).filter(
+      //   (entry) => entry.key.startsWith("1")
+      // );
+
+      // This is a temporary solution to return root entries
+      const rootEntries = new Array<Entry>();
+      rootEntries[0] = new Entry(
+        1,
+        "1H001",
+        "Hebrew",
+        vscode.TreeItemCollapsibleState.Collapsed
       );
+      rootEntries[1] = new Entry(
+        1,
+        "1G002",
+        "Greek",
+        vscode.TreeItemCollapsibleState.Collapsed
+      );
+
       return Promise.resolve(rootEntries);
     } else {
       // Generate parentKey for child entries
-      // const key = element.key;
-      // const parentKey = (parseInt(element.level.toString()) + 1).toString() + key.substring(1);
+      const key = element.key;
+      const parentKey =
+        (parseInt(element.level.toString()) + 1).toString() + key.substring(1);
       const childKeyPrefix =
         (element.level + 1).toString() + element.key.substring(1);
       const childEntries = Array.from(Entry.entriesMap.values()).filter(
@@ -44,6 +60,7 @@ export class LemmaTreeDataProvider implements vscode.TreeDataProvider<Entry> {
 
 export class Entry extends vscode.TreeItem {
   public static entriesMap: Map<string, Entry> = new Map<string, Entry>();
+  public static rootPath: string;
   constructor(
     public readonly level: number,
     public readonly key: string,
@@ -55,22 +72,13 @@ export class Entry extends vscode.TreeItem {
     this.tooltip = `${this.label}`;
   }
   public static async initialize(context: vscode.ExtensionContext) {
+    Entry.rootPath = context.extensionPath;
     const fs = vscode.workspace.fs;
     const hebrewDataPath = vscode.Uri.file(
-      path.join(
-        context.extensionPath,
-        "data",
-        "local",
-        "treeViewHebrewData.json"
-      )
+      path.join(Entry.rootPath, "data", "local", "treeViewHebrewWordData.json")
     );
     const greekDataPath = vscode.Uri.file(
-      path.join(
-        context.extensionPath,
-        "data",
-        "local",
-        "treeViewGreekData.json"
-      )
+      path.join(Entry.rootPath, "data", "local", "treeViewGreekWordData.json")
     );
     console.log("hebrewDataPath:", hebrewDataPath);
     console.log("greekDataPath:", greekDataPath);
@@ -100,7 +108,7 @@ export class Entry extends vscode.TreeItem {
                 command: "extension.openFile",
                 title: "Open File",
                 arguments: [
-                  `${wordFilePath}${language}/${item.fileName}.${wordExtension}`,
+                  `${Entry.rootPath}/data/eng/${language}/${item.fileName}${wordExtension}`,
                 ],
               }
             : undefined;
