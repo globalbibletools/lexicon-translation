@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="001531000000000" Lemma="εἰρηνοποιέω" Version="0" HasAramaic="false" InLXX="true" AlphaPos="ε">
+  <StrongCodes>
+    <Strong>G1517</Strong>
+  </StrongCodes>
+  <Authors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes/>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="001531001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>verb</PartOfSpeech>
+      </PartsOfSpeech>
+      <Constructs>
+        <Construct Lemma="εἰρηνοποιέω" BaseFormIndex="1">
+          <WordMeaningSet>
+            <Word>εἰρηνεύω</Word>
+          </WordMeaningSet>
+          <WordMeaningSet>
+            <Word>ποιέω</Word>
+          </WordMeaningSet>
+        </Construct>
+      </Constructs>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="001531001001000" IsBiblicalTerm="Y" EntryCode="40.4" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Reconciliation, Forgiveness</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Reconciliation</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-10-27 02:11:48" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>to cause a state of peace or reconciliation between persons</DefinitionShort>
+              <Glosses>
+                <Gloss>to make peace</Gloss>
+                <Gloss>to make things right</Gloss>
+              </Glosses>
+              <Comments>εἰρηνοποιέω is closely related in meaning to the series in {D:40.1} in that the making of peace or reestablishing peace between persons is a distinctive feature of reconciliation, but the focus in εἰρηνοποιέω seems to be upon the resulting state rather than upon the process.</Comments>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>05100102000018</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

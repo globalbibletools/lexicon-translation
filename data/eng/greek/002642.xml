@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="002642000000000" Lemma="κατάκριμα" Version="0" HasAramaic="false" InLXX="false" AlphaPos="κ">
+  <StrongCodes>
+    <Strong>G2631</Strong>
+  </StrongCodes>
+  <Authors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes>
+    <Note Caller="1" LanguageCode="en" LastEdited="" LastEditedBy="">
+      <References/>
+      <Content>The series κατακρίνω, κατάκρισις, and κατάκριμα probably differs slightly in meaning from καταδικάζω and καταδίκη in that the first series focuses more upon the actual process of judging rather than upon the verdict, but it is not possible to determine this from existing NT contexts.</Content>
+    </Note>
+  </Notes>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="002642001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>noun, n.</PartOfSpeech>
+      </PartsOfSpeech>
+      <Inflections>
+        <Inflection Lemma="κατάκριμα" BaseFormIndex="1">
+          <Form/>
+          <Realizations>
+            <Realization>-τος</Realization>
+          </Realizations>
+          <Comments/>
+        </Inflection>
+      </Inflections>
+      <RelatedLemmas>
+        <RelatedLemma>
+          <Word>κρίνω</Word>
+        </RelatedLemma>
+      </RelatedLemmas>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="002642001001000" IsBiblicalTerm="M" EntryCode="56.31" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Courts and Legal Procedures</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Judge, Condemn, Acquit</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-11-13 13:04:12" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>to judge someone as definitely guilty and thus subject to punishment{N:001}</DefinitionShort>
+              <Glosses>
+                <Gloss>to condemn</Gloss>
+                <Gloss>to render a verdict of guilt</Gloss>
+                <Gloss>condemnation</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04500501600032</LEXReference>
+            <LEXReference>04500501800022</LEXReference>
+            <LEXReference>04500800100008</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

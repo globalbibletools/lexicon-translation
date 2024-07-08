@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="002124000000000" Lemma="εὐθυδρομέω" Version="0" HasAramaic="false" InLXX="false" AlphaPos="ε">
+  <StrongCodes>
+    <Strong>G2113</Strong>
+  </StrongCodes>
+  <Authors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes/>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="002124001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>verb</PartOfSpeech>
+      </PartsOfSpeech>
+      <Constructs>
+        <Construct Lemma="εὐθυδρομέω" BaseFormIndex="1">
+          <WordMeaningSet>
+            <Word>εὐθύς</Word>
+          </WordMeaningSet>
+          <WordMeaningSet>
+            <Word>δραμών [τρέχω]</Word>
+          </WordMeaningSet>
+        </Construct>
+      </Constructs>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="002124001001000" IsBiblicalTerm="Y" EntryCode="54.3" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Maritime Activities</LEXDomain>
+          </LEXDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-07-08 09:58:03" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>to follow a straight course to one’s destination or goal</DefinitionShort>
+              <Glosses>
+                <Gloss>to sail a straight course</Gloss>
+                <Gloss>to sail straight to</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04401601100010</LEXReference>
+            <LEXReference>04402100100018</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

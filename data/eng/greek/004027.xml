@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="004027000000000" Lemma="πλεονέκτης" Version="0" HasAramaic="false" InLXX="true" AlphaPos="π">
+  <StrongCodes>
+    <Strong>G4123</Strong>
+  </StrongCodes>
+  <Authors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes/>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="004027001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>noun, m.</PartOfSpeech>
+      </PartsOfSpeech>
+      <Inflections>
+        <Inflection Lemma="πλεονέκτης" BaseFormIndex="1">
+          <Form/>
+          <Realizations>
+            <Realization>-ου</Realization>
+          </Realizations>
+          <Comments/>
+        </Inflection>
+      </Inflections>
+      <Constructs>
+        <Construct Lemma="πλεονέκτης" BaseFormIndex="1">
+          <WordMeaningSet>
+            <Word>πλεονάζω</Word>
+          </WordMeaningSet>
+          <WordMeaningSet>
+            <Word>ἔχω</Word>
+          </WordMeaningSet>
+        </Construct>
+      </Constructs>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="004027001001000" IsBiblicalTerm="M" EntryCode="25.23" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Attitudes and Emotions</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Desire Strongly</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-12-27 14:52:37" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>(derivative of {L:πλεονεξία&lt;SDBG:πλεονεξία:000000&gt;}[a] ‘greed,’ {D:25.22}) one who is greedy or covetous</DefinitionShort>
+              <Glosses>
+                <Gloss>greedy person</Gloss>
+                <Gloss>covetous person</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04600501000020</LEXReference>
+            <LEXReference>04600501100028</LEXReference>
+            <LEXReference>04600601000008</LEXReference>
+            <LEXReference>04900500500022</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="003130000000000" Lemma="μαίνομαι" Version="0" HasAramaic="false" InLXX="true" AlphaPos="μ">
+  <StrongCodes>
+    <Strong>G3105</Strong>
+  </StrongCodes>
+  <Authors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes>
+    <Note Caller="1" LanguageCode="en" LastEdited="" LastEditedBy="">
+      <References/>
+      <Content>It is possible that there are some significant differences in meaning between the set μαίνομαι / μανία and the set παραφρονέω / παραφρονία, but the difference is likely to be more connotative than denotative, as, for example, the distinction in English between crazy and insane.</Content>
+    </Note>
+  </Notes>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="003130001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>verb</PartOfSpeech>
+      </PartsOfSpeech>
+      <RelatedLemmas>
+        <RelatedLemma>
+          <Word>ἐμμαίνομαι</Word>
+        </RelatedLemma>
+        <RelatedLemma>
+          <Word>μανία</Word>
+        </RelatedLemma>
+      </RelatedLemmas>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="003130001001000" IsBiblicalTerm="M" EntryCode="30.24" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Think</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>To Think, Thought</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-11-19 14:21:24" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>to think or reason in a completely irrational manner{N:001}</DefinitionShort>
+              <Glosses>
+                <Gloss>to not be in one’s right mind</Gloss>
+                <Gloss>to be insane</Gloss>
+                <Gloss>to be mad</Gloss>
+                <Gloss>to be out of one’s mind</Gloss>
+                <Gloss>insanity</Gloss>
+                <Gloss>madness</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04301002000018</LEXReference>
+            <LEXReference>04401201500012</LEXReference>
+            <LEXReference>04402602400022</LEXReference>
+            <LEXReference>04402602500010</LEXReference>
+            <LEXReference>04601402300044</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

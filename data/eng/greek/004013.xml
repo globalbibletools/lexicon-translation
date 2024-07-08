@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="004013000000000" Lemma="πλάνη" Version="0" HasAramaic="false" InLXX="true" AlphaPos="π">
+  <StrongCodes>
+    <Strong>G4106</Strong>
+  </StrongCodes>
+  <Authors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes>
+    <Note Caller="1" LanguageCode="en" LastEdited="" LastEditedBy="">
+      <References/>
+      <Content>The meanings of πλανάω and πλάνη[a] ({D:31.8}), πλάνος ({D:31.9}), πλάνη[b] ({D:31.10}), and ἀποπλανάω ({D:31.11}) focus primarily upon the misleading or deceptive views which people are caused to have, but these same terms may refer to more than mere mistaken ideas or opinions. They may involve deception of a behavioral nature, and therefore these same meanings could be in Domain 88 Moral and Ethical Qualities and Related Behavior, Subdomain U Mislead, Lead Astray, Deceive.</Content>
+    </Note>
+  </Notes>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="004013001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>noun, f.</PartOfSpeech>
+      </PartsOfSpeech>
+      <Inflections>
+        <Inflection Lemma="πλάνη" BaseFormIndex="1">
+          <Form/>
+          <Realizations>
+            <Realization>-ης</Realization>
+          </Realizations>
+          <Comments/>
+        </Inflection>
+      </Inflections>
+      <RelatedLemmas>
+        <RelatedLemma>
+          <Word>πλανάω</Word>
+        </RelatedLemma>
+      </RelatedLemmas>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="004013001001000" IsBiblicalTerm="M" EntryCode="31.8" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Hold a View, Believe, Trust</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Hold a Wrong View, Be Mistaken</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-12-27 14:40:17" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>(figurative extension of meaning of πλανάω ‘to cause to wander off the path,’ not occurring in the NT) act of causing someone to hold a wrong view and thus be mistaken{N:001}</DefinitionShort>
+              <Glosses>
+                <Gloss>deception</Gloss>
+              </Glosses>
+              <Comments>To mislead people as to proper views which they should have may often be expressed idiomatically, for example, ‘to twist people’s thoughts,’ ‘to cause what is false to seem like what is true,’ ‘to make a lie appear true,’ ‘to dig away the truth,’ or ‘to cover the eyes with lies.’</Comments>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04900401400046</LEXReference>
+            <LEXReference>05200200300014</LEXReference>
+            <LEXReference>05300201100018</LEXReference>
+            <LEXReference>05900502000014</LEXReference>
+            <LEXReference>06200400600064</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+        <LEXMeaning Id="004013001002000" IsBiblicalTerm="M" EntryCode="31.10" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Hold a View, Believe, Trust</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Hold a Wrong View, Be Mistaken</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-12-27 14:40:17" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>(semantic derivative of {L:πλάνη&lt;SDBG:πλάνη:000000&gt;}[a] ‘deception,’ {D:31.8}) the content of that which misleads or deceives{N:001}</DefinitionShort>
+              <Glosses>
+                <Gloss>misleading belief</Gloss>
+                <Gloss>deceptive belief</Gloss>
+                <Gloss>error</Gloss>
+                <Gloss>mistaken view</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04002706400058</LEXReference>
+            <LEXReference>05200200300014</LEXReference>
+            <LEXReference>05900502000014</LEXReference>
+            <LEXReference>06100201800030</LEXReference>
+            <LEXReference>06100301700022</LEXReference>
+            <LEXReference>06500101100022</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+        <LEXMeaning Id="004013001003000" IsBiblicalTerm="Y" EntryCode="88.262" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Moral and Ethical Qualities and Related Behavior</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Licentiousness, Perversion</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-12-27 14:40:17" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>behavior which deviates seriously from that which is morally correct</DefinitionShort>
+              <Glosses>
+                <Gloss>perversion</Gloss>
+              </Glosses>
+              <Comments>In a number of languages πλάνη in {S:04500102700062} may be rendered as ‘what people do which is completely wrong’ or ‘… what is very wrong indeed.’</Comments>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04500102700062</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

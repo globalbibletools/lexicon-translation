@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="001690000000000" Lemma="דָּן יַעַן" Version="5" HasAramaic="false" InLXX="false" AlphaPos="ד">
+  <StrongCodes>
+    <Strong>H1842</Strong>
+  </StrongCodes>
+  <Authors>
+    <Author>Reinier de Blois</Author>
+  </Authors>
+  <Contributors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes>
+    <Note Caller="1" LanguageCode="en" LastEdited="" LastEditedBy="">
+      <References>
+        <Reference>01002400600022</Reference>
+      </References>
+      <Content>MT HOTTP-B NIV "Dan Jaan" NJPS "Dan-jaan" | RSV NJB NRSV GNT ESV "from Dan" = {L:מִדָּן&lt;SDBH:דָּן&gt;} | REB "Dan and Iyyon" CEV "Dan, Ijon"</Content>
+    </Note>
+  </Notes>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="001690001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>np</PartOfSpeech>
+      </PartsOfSpeech>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="001690001001000" IsBiblicalTerm="M" EntryCode="" Indent="0">
+          <LEXDomains>
+            <LEXDomain Code="003001010">Names of Locations</LEXDomain>
+          </LEXDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2017-12-31 11:53:01" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>= location, probably to be identified with {L:Dan&lt;SDBH:דָּן&gt;} in the north of {L:Israel&lt;SDBH:יִשְׂרָאֵל&gt;}; ► visited by {L:David&lt;SDBH:דָּוִד&gt;}'s men who who commissioned to number the fighting men of Israel</DefinitionShort>
+              <Glosses>
+                <Gloss>Dan Jaan</Gloss>
+                <Gloss>Dan</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>01002400600022{N:001}</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+        <LEXMeaning Id="001690001002000" IsBiblicalTerm="X" EntryCode="" Indent="0">
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>NO DATA YET</DefinitionShort>
+              <Glosses>
+                <Gloss>NO DATA YET</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>01002400600022</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

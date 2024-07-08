@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="005049000000000" Lemma="τροφή" Version="0" HasAramaic="false" InLXX="true" AlphaPos="τ">
+  <StrongCodes>
+    <Strong>G5160</Strong>
+  </StrongCodes>
+  <Authors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes>
+    <Note Caller="1" LanguageCode="en" LastEdited="" LastEditedBy="">
+      <References/>
+      <Content>There are no doubt certain subtle differences of meaning in the various terms listed here as meaning ‘food,’ but it is impossible to determine such distinctions in meaning from NT contexts. Perhaps τροφή and διατροφή are somewhat more generic in meaning and may suggest a greater emphasis upon nourishment (see footnote b). At the same time, βρῶσις[c] and βρῶμα[a] may imply solid substantive food, but it is difficult, if not impossible, to argue for such subtle connotative distinctions in meanings which are essentially generic.</Content>
+    </Note>
+    <Note Caller="2" LanguageCode="en" LastEdited="" LastEditedBy="">
+      <References>
+        <Reference>04001001000034</Reference>
+      </References>
+      <Content>It is possible that τροφή and διατροφή focus primarily upon the meaning of food as nourishment, and in {S:04001001000034} and {S:05400600800006} it would be perfectly appropriate to use a translation meaning ‘nourishment’ rather than merely ‘food.’</Content>
+    </Note>
+  </Notes>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="005049001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>noun, f.</PartOfSpeech>
+      </PartsOfSpeech>
+      <Inflections>
+        <Inflection Lemma="τροφή" BaseFormIndex="1">
+          <Form/>
+          <Realizations>
+            <Realization>-ῆς</Realization>
+          </Realizations>
+          <Comments/>
+        </Inflection>
+      </Inflections>
+      <RelatedLemmas>
+        <RelatedLemma>
+          <Word>τρέφω</Word>
+        </RelatedLemma>
+      </RelatedLemmas>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="005049001001000" IsBiblicalTerm="M" EntryCode="5.1" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Foods and Condiments</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Food</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2022-04-14 08:09:26" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>any kind of food or nourishment{N:001}</DefinitionShort>
+              <Glosses>
+                <Gloss>food</Gloss>
+              </Glosses>
+              <Comments>Almost all languages have at least a few general terms for food, though these may be derived from verbal expressions meaning essentially ‘that which is eaten.’ In some instances a distinction may be made between ‘that which is chewed’ and ‘that which is drunk,’ and it may therefore be important in certain contexts to speak of food in general by a phrase meaning ‘that which is either chewed or drunk.’ If one fails to include both types of food, the reader might interpret a passage such as {S:04000601100004} as requesting only solid foods.|In the place of a general term or phrase such as ‘that which is eaten’ or ‘that which is consumed,’ some languages generalize the meaning of a particular term. For example, in certain parts of the Orient the term meaning specifically ‘rice’ also refers to ‘food’ in general. In fact, some persons will declare, ‘I have not eaten!’ if they have not had rice as part of a meal. A similar type of meaning has developed in English with respect to ‘bread.’ For example, in rendering {S:04200400400022} (οὐκ ἐπ’ ἄρτῳ μόνῳ ζήσεται ὁ ἄνθρωπος ‘man shall not live by bread alone’) it would be wrong to employ a strictly literal rendering, since this might mean simply that people should not live on a diet consisting solely of bread. The meaning of {S:04200400400022} is, of course, ‘to live means more than merely eating.’</Comments>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04000300400042</LEXReference>
+            <LEXReference>04000602500054</LEXReference>
+            <LEXReference>04001001000034{N:002}</LEXReference>
+            <LEXReference>04002404500042</LEXReference>
+            <LEXReference>04201202300014</LEXReference>
+            <LEXReference>04300400800020</LEXReference>
+            <LEXReference>04400204600030</LEXReference>
+            <LEXReference>04400901900006</LEXReference>
+            <LEXReference>04401401700030</LEXReference>
+            <LEXReference>04402703300024</LEXReference>
+            <LEXReference>04402703400010</LEXReference>
+            <LEXReference>04402703600016</LEXReference>
+            <LEXReference>04402703800006</LEXReference>
+            <LEXReference>05800501200064</LEXReference>
+            <LEXReference>05800501400012</LEXReference>
+            <LEXReference>05900201500024</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

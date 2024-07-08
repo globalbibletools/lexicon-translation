@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="004690000000000" Lemma="συγκεράννυμι" Version="0" HasAramaic="false" InLXX="true" AlphaPos="σ">
+  <StrongCodes>
+    <Strong>G4786</Strong>
+  </StrongCodes>
+  <Authors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes/>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="004690001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>verb</PartOfSpeech>
+      </PartsOfSpeech>
+      <Inflections>
+        <Inflection Lemma="συγκεράννυμι" BaseFormIndex="1">
+          <Form>aor.</Form>
+          <Realizations>
+            <Realization>συνεκέρασα</Realization>
+          </Realizations>
+          <Comments/>
+        </Inflection>
+        <Inflection Lemma="συγκεράννυμι" BaseFormIndex="1">
+          <Form>pf.pass.</Form>
+          <Realizations>
+            <Realization>συγκεκέρασμαι</Realization>
+          </Realizations>
+          <Comments/>
+        </Inflection>
+        <Inflection Lemma="συγκεράννυμι" BaseFormIndex="1">
+          <Form>ptc.</Form>
+          <Realizations>
+            <Realization>συγκεκραμένος</Realization>
+          </Realizations>
+          <Comments/>
+        </Inflection>
+      </Inflections>
+      <RelatedLemmas>
+        <RelatedLemma>
+          <Word>κεράννυμι</Word>
+        </RelatedLemma>
+      </RelatedLemmas>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="004690001001000" IsBiblicalTerm="Y" EntryCode="62.2" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Arrange, Organize</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Put Together, Arrange [of physical objects]</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2022-12-26 12:47:08" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>to cause parts to fit together in an overall arrangement</DefinitionShort>
+              <Glosses>
+                <Gloss>to put together</Gloss>
+                <Gloss>to compose</Gloss>
+                <Gloss>to structure</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04601202400022</LEXReference>
+            <LEXReference>05800400200032</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

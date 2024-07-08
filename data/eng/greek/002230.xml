@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="002230000000000" Lemma="ζόφος" Version="0" HasAramaic="false" InLXX="false" AlphaPos="ζ">
+  <StrongCodes>
+    <Strong>G2217</Strong>
+  </StrongCodes>
+  <Authors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes/>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="002230001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>noun, m.</PartOfSpeech>
+      </PartsOfSpeech>
+      <Inflections>
+        <Inflection Lemma="ζόφος" BaseFormIndex="1">
+          <Form/>
+          <Realizations>
+            <Realization>-ου</Realization>
+          </Realizations>
+          <Comments/>
+        </Inflection>
+      </Inflections>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="002230001001000" IsBiblicalTerm="M" EntryCode="14.57" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Physical Events and States</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Darkness</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-07-21 10:36:41" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>a condition of darkness associated with feelings of despair and foreboding</DefinitionShort>
+              <Glosses>
+                <Gloss>gloom</Gloss>
+                <Gloss>darkness</Gloss>
+              </Glosses>
+              <Comments>In {S:05801201800022} {L:γνόφος&lt;SDBG:γνόφος:000000&gt;} ‘darkness’ ({D:14.53}) and ζόφος may be combined to form a phrase such as ‘fearful darkness’ or ‘darkness that causes fear’ or ‘fear because of darkness.’</Comments>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>05801201800022</LEXReference>
+            <LEXReference>06100200400022</LEXReference>
+            <LEXReference>06500100600042</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+        <LEXMeaning Id="002230001002000" IsBiblicalTerm="Y" EntryCode="1.24" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Geographical Objects and Features</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Regions Below the Surface of the Earth</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXCollocations>
+            <LEXCollocation>ὁ ζόφος τοῦ σκότους</LEXCollocation>
+          </LEXCollocations>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-07-21 10:36:41" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>(an idiom, literally: the gloom of darkness) the dark, gloomy nature of hell as a place of punishment</DefinitionShort>
+              <Glosses>
+                <Gloss>gloomy hell</Gloss>
+                <Gloss>black darkness</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>06100201700024</LEXReference>
+            <LEXReference>06500101300024</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

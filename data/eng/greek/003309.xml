@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="003309000000000" Lemma="μιμητής" Version="0" HasAramaic="false" InLXX="false" AlphaPos="μ">
+  <StrongCodes>
+    <Strong>G3402</Strong>
+  </StrongCodes>
+  <Authors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes/>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="003309001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>noun, m.</PartOfSpeech>
+      </PartsOfSpeech>
+      <Inflections>
+        <Inflection Lemma="μιμητής" BaseFormIndex="1">
+          <Form/>
+          <Realizations>
+            <Realization>-οῦ</Realization>
+          </Realizations>
+          <Comments/>
+        </Inflection>
+      </Inflections>
+      <RelatedLemmas>
+        <RelatedLemma>
+          <Word>μιμέομαι</Word>
+        </RelatedLemma>
+      </RelatedLemmas>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="003309001001000" IsBiblicalTerm="Y" EntryCode="41.45" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Behavior and Related States</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Imitate Behavior</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-12-08 14:56:54" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>(derivative of {L:μιμέομαι&lt;SDBG:μιμέομαι:000000&gt;} ‘to imitate,’ {D:41.44}) one who imitates someone else</DefinitionShort>
+              <Glosses>
+                <Gloss>imitator</Gloss>
+                <Gloss>one who does what others do</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04600401600008</LEXReference>
+            <LEXReference>04601100100002</LEXReference>
+            <LEXReference>04900500100006</LEXReference>
+            <LEXReference>05200100600006</LEXReference>
+            <LEXReference>05200201400006</LEXReference>
+            <LEXReference>05800601200010</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

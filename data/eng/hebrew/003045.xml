@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="003045000000000" Lemma="יצע" Version="4" HasAramaic="false" InLXX="false" AlphaPos="י">
+  <StrongCodes>
+    <Strong>H3331</Strong>
+  </StrongCodes>
+  <Authors>
+    <Author>Enio R. Mueller</Author>
+  </Authors>
+  <Contributors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes/>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="003045001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>vb</PartOfSpeech>
+      </PartsOfSpeech>
+      <RelatedLemmas>
+        <RelatedLemma>
+          <Word>יָצוּעַ</Word>
+        </RelatedLemma>
+        <RelatedLemma>
+          <Word>יָצִיעַ</Word>
+        </RelatedLemma>
+        <RelatedLemma>
+          <Word>מַצָּע</Word>
+        </RelatedLemma>
+      </RelatedLemmas>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="003045001001000" IsBiblicalTerm="Y" EntryCode="" Indent="0">
+          <LEXDomains>
+            <LEXDomain Code="002001001048">Shape</LEXDomain>
+          </LEXDomains>
+          <LEXForms>
+            <LEXForm>vbhif-</LEXForm>
+            <LEXForm>vbhof-</LEXForm>
+          </LEXForms>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2017-05-06 22:12:15" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>= causative action by which humans spread out a cloth on the floor or a bed with the intention of sleeping on top of it</DefinitionShort>
+              <Glosses>
+                <Gloss>to spread out (as a bed)</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>01913900800014</LEXReference>
+            <LEXReference>02301401100014</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+          <LEXCoreDomains>
+            <LEXCoreDomain Code="164">Sleeping</LEXCoreDomain>
+          </LEXCoreDomains>
+        </LEXMeaning>
+        <LEXMeaning Id="003045001002000" IsBiblicalTerm="Y" EntryCode="" Indent="0">
+          <LEXDomains>
+            <LEXDomain Code="002001002013" Source="Shape" SourceCode="002001001048">Grieve</LEXDomain>
+          </LEXDomains>
+          <LEXForms>
+            <LEXForm>vbhif-</LEXForm>
+            <LEXForm>vbhof-</LEXForm>
+          </LEXForms>
+          <LEXCollocations>
+            <LEXCollocation>יצע שַׂק וְאֵפֶר</LEXCollocation>
+          </LEXCollocations>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2022-03-13 19:26:01" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>literally: to lie down on sackcloth and ashes; hence: = action by which humans give expression to their grief by sleeping on {L:sackcloth&lt;SDBH:שַׂק&gt;} and {L:ashes&lt;SDBH:אֵפֶר&gt;}</DefinitionShort>
+              <Glosses>
+                <Gloss>to lie down on sackcloth and ashes</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>01700400300058</LEXReference>
+            <LEXReference>02305800500042</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+          <LEXCoreDomains>
+            <LEXCoreDomain Code="164">Sleeping</LEXCoreDomain>
+            <LEXCoreDomain Code="093">Joy and Grief</LEXCoreDomain>
+          </LEXCoreDomains>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

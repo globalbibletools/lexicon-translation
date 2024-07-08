@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="001642000000000" Lemma="דִּישֹׁון" Version="5" HasAramaic="false" InLXX="false" AlphaPos="ד">
+  <StrongCodes>
+    <Strong>H1787</Strong>
+    <Strong>H1788</Strong>
+  </StrongCodes>
+  <Authors>
+    <Author>Reinier de Blois</Author>
+  </Authors>
+  <Contributors/>
+  <AlternateLemmas>
+    <AlternateLemma>דִּישֹׁן</AlternateLemma>
+    <AlternateLemma>דִּשֹׁון</AlternateLemma>
+    <AlternateLemma>דִּשֹׁן</AlternateLemma>
+  </AlternateLemmas>
+  <MainLinks/>
+  <Notes/>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="001642001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>nsm</PartOfSpeech>
+      </PartsOfSpeech>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="001642001001000" IsBiblicalTerm="M" EntryCode="" Indent="0">
+          <LEXDomains>
+            <LEXDomain Code="001001002001001">Wild Animals</LEXDomain>
+          </LEXDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2015-11-12 22:46:16" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>= deerlike ruminant mammal of the Kobus family, of which the male grows two horns; feeds on plants; ◄ |iAddax nasomaculatus, Kobus|i*; ► clean animal which may be eaten</DefinitionShort>
+              <Glosses>
+                <Gloss>addax</Gloss>
+                <Gloss>waterbuck</Gloss>
+                <Gloss>defassa</Gloss>
+                <Gloss>kob</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>00501400500018</LEXReference>
+          </LEXReferences>
+          <LEXLinks>
+            <LEXLink>Fauna:2.2</LEXLink>
+          </LEXLinks>
+          <LEXVideos/>
+          <LEXCoreDomains>
+            <LEXCoreDomain Code="010">Animal</LEXCoreDomain>
+          </LEXCoreDomains>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+    <BaseForm Id="001642002000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>np</PartOfSpeech>
+      </PartsOfSpeech>
+      <MeaningsOfName>
+        <MeaningOfName LanguageCode="en">
+          <Meaning>addax, waterbuck, defassa, or kob</Meaning>
+        </MeaningOfName>
+        <MeaningOfName LanguageCode="pt">
+          <Meaning>antílope" ou "bisonte</Meaning>
+        </MeaningOfName>
+      </MeaningsOfName>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="001642002001000" IsBiblicalTerm="Y" EntryCode="" Indent="0">
+          <LEXDomains>
+            <LEXDomain Code="003001007">Names of People</LEXDomain>
+          </LEXDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2015-11-12 22:46:16" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>= man; ◄ son of {L:Seir&lt;SDBH:שֵׂעִיר&gt;}; ► chief of {L:Horites&lt;SDBH:חֹרִי&gt;}</DefinitionShort>
+              <Glosses>
+                <Gloss>Dishon</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>00103602100004</LEXReference>
+            <LEXReference>00103603000004</LEXReference>
+            <LEXReference>01300103800024</LEXReference>
+            <LEXReference>01300104100006</LEXReference>
+            <LEXReference>01300104200016</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+        <LEXMeaning Id="001642002002000" IsBiblicalTerm="Y" EntryCode="" Indent="0">
+          <LEXDomains>
+            <LEXDomain Code="003001007">Names of People</LEXDomain>
+          </LEXDomains>
+          <LEXSynonyms>
+            <LEXSynonym>דִּישָׁן</LEXSynonym>
+          </LEXSynonyms>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2015-11-12 22:46:16" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>= man, also known as {L:Dishan&lt;SDBH:דִּישָׁן&gt;}; ◄ son of {L:Anah&lt;SDBH:עֲנָה&gt;}; brother of {L:Oholibamah&lt;SDBH:אָהֳלִיבָמָה&gt;}; descendant of {L:Seir&lt;SDBH:שֵׂעִיר&gt;}; father of {L:Hemdan&lt;SDBH:חֶמְדָּן&gt;}/{L:Hamran&lt;SDBH:חַמְרָן&gt;}, {L:Eshban&lt;SDBH:אֶשְׁבָּן&gt;}, {L:Ithran&lt;SDBH:יִתְרָן&gt;}, and {L:Cheran&lt;SDBH:כְּרָן&gt;}</DefinitionShort>
+              <Glosses>
+                <Gloss>Dishon</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>00103602500010</LEXReference>
+            <LEXReference>01300104100012</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

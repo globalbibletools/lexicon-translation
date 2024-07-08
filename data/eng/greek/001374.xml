@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="001374000000000" Lemma="διόρθωσις" Version="0" HasAramaic="false" InLXX="false" AlphaPos="δ">
+  <StrongCodes>
+    <Strong>G1357</Strong>
+  </StrongCodes>
+  <Authors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes/>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="001374001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>noun, f.</PartOfSpeech>
+      </PartsOfSpeech>
+      <Inflections>
+        <Inflection Lemma="διόρθωσις" BaseFormIndex="1">
+          <Form/>
+          <Realizations>
+            <Realization>-εως</Realization>
+          </Realizations>
+          <Comments/>
+        </Inflection>
+      </Inflections>
+      <RelatedLemmas>
+        <RelatedLemma>
+          <Word>ὀρθός</Word>
+        </RelatedLemma>
+      </RelatedLemmas>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="001374001001000" IsBiblicalTerm="Y" EntryCode="62.5" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Arrange, Organize</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Organize [of events and states]</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-07-07 22:09:40" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>a corrected new order, implying a change from an earlier state</DefinitionShort>
+              <Glosses>
+                <Gloss>new order</Gloss>
+                <Gloss>improvement</Gloss>
+              </Glosses>
+              <Comments>μέχρι καιροῦ διορθώσεως can be translated as ‘until the time of the new order’ {S:05800901000026}, but see {D:62.6} for the generally preferred interpretation.</Comments>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>05800901000026</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+        <LEXMeaning Id="001374001002000" IsBiblicalTerm="Y" EntryCode="62.6" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Arrange, Organize</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Organize [of events and states]</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-07-07 22:09:40" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>the process of establishing a new order</DefinitionShort>
+              <Glosses>
+                <Gloss>to establish a new order</Gloss>
+                <Gloss>forming a new order</Gloss>
+                <Gloss>reformation</Gloss>
+              </Glosses>
+              <Comments>μέχρι καιροῦ διορθώσεως ‘until the time when he will establish a new order’ or ‘… will reform all things’ {S:05800901000026}, but see {D:62.5}.</Comments>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>05800901000026</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

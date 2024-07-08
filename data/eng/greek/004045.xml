@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="004045000000000" Lemma="πλοιάριον" Version="0" HasAramaic="false" InLXX="false" AlphaPos="π">
+  <StrongCodes>
+    <Strong>G4142</Strong>
+  </StrongCodes>
+  <Authors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes/>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="004045001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>noun, n.</PartOfSpeech>
+      </PartsOfSpeech>
+      <Inflections>
+        <Inflection Lemma="πλοιάριον" BaseFormIndex="1">
+          <Form/>
+          <Realizations>
+            <Realization>-ου</Realization>
+          </Realizations>
+          <Comments/>
+        </Inflection>
+      </Inflections>
+      <RelatedLemmas>
+        <RelatedLemma>
+          <Word>πλέω</Word>
+        </RelatedLemma>
+      </RelatedLemmas>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="004045001001000" IsBiblicalTerm="M" EntryCode="6.42" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Artifacts</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Boats and Parts of Boats</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-12-28 11:08:46" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>(a diminutive form of {L:πλοῖον&lt;SDBG:πλοῖον:000000&gt;} ‘boat, ship,’ {D:6.41}, but in some contexts it is possible that the diminutive aspect of πλοιάριον is not relevant) small fishing boat</DefinitionShort>
+              <Glosses>
+                <Gloss>small boat</Gloss>
+              </Glosses>
+              <Comments>Receptor language terms to be employed for πλοιάριον, {L:πλοῖον&lt;SDBG:πλοῖον:000000&gt;} ({D:6.41}), and {L:ναῦς&lt;SDBG:ναῦς:000000&gt;} ({D:6.43}) depend largely upon the contextual equivalents in each receptor language.</Comments>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04100300900014</LEXReference>
+            <LEXReference>04300602200024</LEXReference>
+            <LEXReference>04300602300006</LEXReference>
+            <LEXReference>04300602400038</LEXReference>
+            <LEXReference>04302100800012</LEXReference>
+          </LEXReferences>
+          <LEXLinks>
+            <LEXLink>realia:8.1</LEXLink>
+          </LEXLinks>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

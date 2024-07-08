@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="005476000000000" Lemma="ψυχικός" Version="0" HasAramaic="false" InLXX="true" AlphaPos="ψ">
+  <StrongCodes>
+    <Strong>G5591</Strong>
+  </StrongCodes>
+  <Authors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes/>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="005476001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>adjc.</PartOfSpeech>
+      </PartsOfSpeech>
+      <Inflections>
+        <Inflection Lemma="ψυχικός" BaseFormIndex="1">
+          <Form/>
+          <Realizations>
+            <Realization>-ή, -όν</Realization>
+          </Realizations>
+          <Comments/>
+        </Inflection>
+      </Inflections>
+      <RelatedLemmas>
+        <RelatedLemma>
+          <Word>ψύχομαι</Word>
+        </RelatedLemma>
+      </RelatedLemmas>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="005476001001000" IsBiblicalTerm="Y" EntryCode="79.2" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Features of Objects</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Physical [Material], Spiritual</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2022-06-06 16:37:17" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>pertaining to being material or physical, especially in relation to life processes</DefinitionShort>
+              <Glosses>
+                <Gloss>physical</Gloss>
+                <Gloss>natural</Gloss>
+              </Glosses>
+              <Comments>In some languages, however, it is impossible to translate σπείρεται in {S:04601504400020} as ‘sown,’ and one must therefore translate this expression as ‘when buried, it is a physical body.’</Comments>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04601504400006</LEXReference>
+            <LEXReference>04601504400020</LEXReference>
+            <LEXReference>04601504600016</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+        <LEXMeaning Id="005476001002000" IsBiblicalTerm="M" EntryCode="79.5" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Features of Objects</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Natural [Human], Spiritual</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2022-06-06 16:37:17" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>pertaining to human nature (possibly contrasting with {L:σάρκινος&lt;SDBG:σάρκινος:000002&gt;}[c] and {L:σαρκικός&lt;SDBG:σαρκικός:000002&gt;}[c] ‘natural, human,’ {D:79.4}, in focusing somewhat more on so-called higher endowments of personality)</DefinitionShort>
+              <Glosses>
+                <Gloss>natural</Gloss>
+                <Gloss>human</Gloss>
+              </Glosses>
+              <Comments>For another interpretation of ψυχικός in {S:04600201400002}, see {D:41.41}.</Comments>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04600201400002</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+        <LEXMeaning Id="005476001003000" IsBiblicalTerm="M" EntryCode="41.41" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Behavior and Related States</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Particular Patterns of Behavior</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2022-06-06 16:37:17" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>(derivative of {L:ψυχή&lt;SDBG:ψυχή:000000&gt;}[a] ‘inner self,’ {D:26.4}) pertaining to behavior which is typical of human nature, in contrast with that which is under the control of God’s Spirit</DefinitionShort>
+              <Glosses>
+                <Gloss>unspiritual</Gloss>
+                <Gloss>worldly</Gloss>
+                <Gloss>natural</Gloss>
+              </Glosses>
+              <Comments>In a number of languages the equivalent of ‘unspiritual’ is simply ‘one who is not guided by God’s Spirit’ or ‘one who does not live in accordance with God’s Spirit.’ For another interpretation of ψυχικός in {S:04600201400002}, see {D:79.5}.</Comments>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04600201400002</LEXReference>
+            <LEXReference>05900301500020</LEXReference>
+            <LEXReference>06500101900010</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

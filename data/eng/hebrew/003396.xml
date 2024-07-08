@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="003396000000000" Lemma="כִּפָּה" Version="4" HasAramaic="false" InLXX="false" AlphaPos="כ">
+  <StrongCodes>
+    <Strong>H3712</Strong>
+  </StrongCodes>
+  <Authors>
+    <Author>Reinier de Blois</Author>
+  </Authors>
+  <Contributors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes/>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="003396001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>nsf</PartOfSpeech>
+      </PartsOfSpeech>
+      <RelatedLemmas>
+        <RelatedLemma>
+          <Word>כפף</Word>
+        </RelatedLemma>
+      </RelatedLemmas>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="003396001001000" IsBiblicalTerm="M" EntryCode="" Indent="0">
+          <LEXDomains>
+            <LEXDomain Code="001003001">Plants</LEXDomain>
+          </LEXDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2017-05-22 18:36:22" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>= branch of a palm tree</DefinitionShort>
+              <Glosses>
+                <Gloss>palm branch</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>00302304000024</LEXReference>
+            <LEXReference>01801503200012</LEXReference>
+          </LEXReferences>
+          <LEXLinks>
+            <LEXLink>Flora:2.5</LEXLink>
+          </LEXLinks>
+          <LEXVideos/>
+        </LEXMeaning>
+        <LEXMeaning Id="003396001002000" IsBiblicalTerm="M" EntryCode="" Indent="0">
+          <LEXDomains>
+            <LEXDomain Code="001001002003001" Source="Plants" SourceCode="001003001">Classes</LEXDomain>
+          </LEXDomains>
+          <LEXCollocations>
+            <LEXCollocation>כִּפָּה וְאַגְמֹון</LEXCollocation>
+          </LEXCollocations>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2017-11-08 13:23:30" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>literally: palm branch and reed; hence: = people of all layers in the society, including those belonging to the nobility (i.e. the palm branch) and those that are part of the lower classes (i.e. the reed)</DefinitionShort>
+              <Glosses>
+                <Gloss>palm brach and reed</Gloss>
+                <Gloss>everyone, whether great or small</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>02300901300018</LEXReference>
+            <LEXReference>02301901500024</LEXReference>
+          </LEXReferences>
+          <LEXLinks>
+            <LEXLink>Flora:2.5</LEXLink>
+          </LEXLinks>
+          <LEXVideos/>
+          <LEXCoreDomains>
+            <LEXCoreDomain Code="170">Status</LEXCoreDomain>
+          </LEXCoreDomains>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

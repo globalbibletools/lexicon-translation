@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="003502000000000" Lemma="ὀδούς" Version="0" HasAramaic="false" InLXX="true" AlphaPos="ο">
+  <StrongCodes>
+    <Strong>G3599</Strong>
+  </StrongCodes>
+  <Authors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes/>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="003502001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>noun, m.</PartOfSpeech>
+      </PartsOfSpeech>
+      <Inflections>
+        <Inflection Lemma="ὀδούς" BaseFormIndex="1">
+          <Form/>
+          <Realizations>
+            <Realization>ὀδόντος</Realization>
+          </Realizations>
+          <Comments/>
+        </Inflection>
+      </Inflections>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="003502001001000" IsBiblicalTerm="M" EntryCode="8.20" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Body, Body Parts, and Body Products</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Parts of the Body</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-12-11 14:49:02" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>one of a set of hard, bony structures set in the mouth of humans and many animals; used for chewing and biting</DefinitionShort>
+              <Glosses>
+                <Gloss>tooth</Gloss>
+              </Glosses>
+              <Comments>There are several problems involved in the rendering of ὀδούς. Even in the case of {S:06600900800018} it may be necessary to use two different terms for teeth, since human teeth may be referred to by expressions quite different from those used in referring to the teeth of animals. In {S:04400705400022} the idiom ‘to grind one’s teeth’ denotes anger ({D:88.184}), but a literal rendering of ‘to grind the teeth’ may mean in some languages merely ‘to be nervous.’ The expression βρυγμὸς τῶν ὀδόντων ‘gnashing of the teeth’ is used in connection with the tortures of hell ({S:04201302800018}), but a literal rendering of such a phrase can be quite misleading, since it may refer merely to the eating of some hard substance. See {D:23.41}.</Comments>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04000503800016</LEXReference>
+            <LEXReference>04000503800020</LEXReference>
+            <LEXReference>04000801200040</LEXReference>
+            <LEXReference>04001304200034</LEXReference>
+            <LEXReference>04001305000034</LEXReference>
+            <LEXReference>04002201300054</LEXReference>
+            <LEXReference>04002405100040</LEXReference>
+            <LEXReference>04002503000038</LEXReference>
+            <LEXReference>04100901800026</LEXReference>
+            <LEXReference>04201302800018</LEXReference>
+            <LEXReference>04400705400022</LEXReference>
+            <LEXReference>06600900800018</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

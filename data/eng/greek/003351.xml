@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="003351000000000" Lemma="μοσχοποιέω" Version="0" HasAramaic="false" InLXX="false" AlphaPos="μ">
+  <StrongCodes>
+    <Strong>G3447</Strong>
+  </StrongCodes>
+  <Authors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes/>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="003351001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>verb</PartOfSpeech>
+      </PartsOfSpeech>
+      <Constructs>
+        <Construct Lemma="μοσχοποιέω" BaseFormIndex="1">
+          <WordMeaningSet>
+            <Word>μόσχος</Word>
+          </WordMeaningSet>
+          <WordMeaningSet>
+            <Word>ποιέω</Word>
+          </WordMeaningSet>
+        </Construct>
+      </Constructs>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="003351001001000" IsBiblicalTerm="Y" EntryCode="6.101" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Artifacts</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Images and Idols</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-12-09 14:04:16" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>to make an idol in the form of a calf</DefinitionShort>
+              <Glosses>
+                <Gloss>to make a calf-idol</Gloss>
+                <Gloss>to shape an idol in the form of a calf</Gloss>
+              </Glosses>
+              <Comments>In order not to appear to contradict the corresponding OT passage ({S:00203200400000-00203200600000}), one may wish to translate this clause in {S:04400704100004} as ‘they made an idol in the form of a bull calf.’</Comments>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04400704100004</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

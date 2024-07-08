@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="003481000000000" Lemma="ξενία" Version="0" HasAramaic="false" InLXX="false" AlphaPos="ξ">
+  <StrongCodes>
+    <Strong>G3578</Strong>
+  </StrongCodes>
+  <Authors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes>
+    <Note Caller="1" LanguageCode="en" LastEdited="" LastEditedBy="">
+      <References>
+        <Reference>04402802300020</Reference>
+        <Reference>05700102200012</Reference>
+      </References>
+      <Content>It is also possible to interpret ξενία in both {S:04402802300020} and {S:05700102200012} as hospitality or the activity involved in receiving a guest (see {D:34.57}). This is the more common meaning of ξενία, but it fits less well in the two contexts in which ξενία occurs in the NT.</Content>
+    </Note>
+  </Notes>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="003481001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>noun, f.</PartOfSpeech>
+      </PartsOfSpeech>
+      <Inflections>
+        <Inflection Lemma="ξενία" BaseFormIndex="1">
+          <Form/>
+          <Realizations>
+            <Realization>-ας</Realization>
+          </Realizations>
+          <Comments/>
+        </Inflection>
+      </Inflections>
+      <RelatedLemmas>
+        <RelatedLemma>
+          <Word>ξενίζω</Word>
+        </RelatedLemma>
+      </RelatedLemmas>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="003481001001000" IsBiblicalTerm="Y" EntryCode="7.31" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Constructions</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Parts and Areas of Buildings</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-12-11 12:44:59" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>a place of temporary lodging for a person away from home</DefinitionShort>
+              <Glosses>
+                <Gloss>guestroom</Gloss>
+                <Gloss>lodging for guest</Gloss>
+                <Gloss>place to stay in</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04402802300020{N:001}</LEXReference>
+            <LEXReference>05700102200012{N:001}</LEXReference>
+          </LEXReferences>
+          <LEXLinks>
+            <LEXLink>realia:3.1.6.9</LEXLink>
+          </LEXLinks>
+          <LEXVideos/>
+        </LEXMeaning>
+        <LEXMeaning Id="003481001002000" IsBiblicalTerm="Y" EntryCode="34.57" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Association</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Show Hospitality</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-12-11 12:44:59" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>hospitality to a stranger, that is, someone who is not regarded as a member of the extended family or a close friend</DefinitionShort>
+              <Glosses>
+                <Gloss>hospitality</Gloss>
+              </Glosses>
+              <Comments>To receive a stranger as a guest is sometimes expressed idiomatically as ‘to let a stranger sit at one’s table,’ ‘to offer a bed to a stranger,’ or ‘to let a stranger enter one’s house.’|For another interpretation of ξενία in {S:05700102200012}, see {D:7.31}.</Comments>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>05700102200012</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

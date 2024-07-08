@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="000170000000000" Lemma="ἄκακος" Version="0" HasAramaic="false" InLXX="true" AlphaPos="α">
+  <StrongCodes>
+    <Strong>G0172</Strong>
+  </StrongCodes>
+  <Authors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes>
+    <Note Caller="1" LanguageCode="en" LastEdited="" LastEditedBy="">
+      <References/>
+      <Content>There is a certain parallel to ἄκακος in the English expression not bad, which in many contexts indicates something which is positively good. In fact, with certain intonation the expression not bad may actually have a stronger positive designation than good.</Content>
+    </Note>
+  </Notes>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="000170001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>adjc.</PartOfSpeech>
+      </PartsOfSpeech>
+      <Inflections>
+        <Inflection Lemma="ἄκακος" BaseFormIndex="1">
+          <Form/>
+          <Realizations>
+            <Realization>-ον</Realization>
+          </Realizations>
+          <Comments/>
+        </Inflection>
+      </Inflections>
+      <Constructs>
+        <Construct Lemma="ἄκακος" BaseFormIndex="1">
+          <WordMeaningSet>
+            <Word>ἀ-</Word>
+          </WordMeaningSet>
+          <WordMeaningSet>
+            <Word>κακόω</Word>
+          </WordMeaningSet>
+        </Construct>
+      </Constructs>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="000170001001000" IsBiblicalTerm="M" EntryCode="88.2" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Moral and Ethical Qualities and Related Behavior</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Goodness</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-04-13 00:05:32" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>pertaining to being without fault and hence guileless</DefinitionShort>
+              <Glosses>
+                <Gloss>without fault</Gloss>
+                <Gloss>guileless</Gloss>
+                <Gloss>innocent</Gloss>
+              </Glosses>
+              <Comments>In {S:05800702600016} ἄκακος has a far more positive meaning than merely not being bad. In other words, the negation of {L:κακός&lt;SDBG:κακός:000000&gt;}[a] bad ({D:88.106}) does not produce a term which is merely morally neutral, but it designates something of a clearly positive character.{N:001}</Comments>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>05800702600016</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+        <LEXMeaning Id="000170001002000" IsBiblicalTerm="Y" EntryCode="31.34" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Hold a View, Believe, Trust</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Suppose, Think Possible</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-04-13 00:05:32" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>pertaining to being unsuspecting or naive with regard to possible deception</DefinitionShort>
+              <Glosses>
+                <Gloss>unsuspecting</Gloss>
+                <Gloss>naive</Gloss>
+              </Glosses>
+              <Comments>It may be possible to spell out the implications of ἄκακος in {S:04501601800048} by translating ‘the minds of people who do not suspect lies.’</Comments>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04501601800048</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

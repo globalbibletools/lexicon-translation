@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="000764000000000" Lemma="אַשְׁפָּה" Version="5" HasAramaic="false" InLXX="false" AlphaPos="א">
+  <StrongCodes>
+    <Strong>H0827</Strong>
+  </StrongCodes>
+  <Authors>
+    <Author>P.J. Williams</Author>
+  </Authors>
+  <Contributors/>
+  <AlternateLemmas/>
+  <MainLinks>
+    <MainLink>SAHD@http://www.sahd.div.ed.ac.uk/_media/lexeme:pdf:bgt-ashpa-williams_p-cam-1998p.pdf</MainLink>
+  </MainLinks>
+  <Notes/>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="000764001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>nsf</PartOfSpeech>
+      </PartsOfSpeech>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="000764001001000" IsBiblicalTerm="M" EntryCode="" Indent="0">
+          <LEXDomains>
+            <LEXDomain Code="001004001003">Containers</LEXDomain>
+            <LEXDomain Code="001004001020">Weapons</LEXDomain>
+          </LEXDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2015-12-22 14:14:15" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>= long, narrow container ► for storing one's arrows</DefinitionShort>
+              <Glosses>
+                <Gloss>quiver</Gloss>
+              </Glosses>
+              <Comments>Possibly a case for bow and arrows, cf. SAHD article p. 5.</Comments>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>01803902300006</LEXReference>
+            <LEXReference>01912700500014</LEXReference>
+            <LEXReference>02302200600008</LEXReference>
+            <LEXReference>02304900200034</LEXReference>
+            <LEXReference>02400501600002</LEXReference>
+          </LEXReferences>
+          <LEXLinks>
+            <LEXLink>Realia:2.14.3</LEXLink>
+          </LEXLinks>
+          <LEXVideos/>
+          <LEXCoreDomains>
+            <LEXCoreDomain Code="027">Crafts</LEXCoreDomain>
+            <LEXCoreDomain Code="171">Storage</LEXCoreDomain>
+          </LEXCoreDomains>
+        </LEXMeaning>
+        <LEXMeaning Id="000764001002000" IsBiblicalTerm="Y" EntryCode="" Indent="0">
+          <LEXDomains>
+            <LEXDomain Code="001004001020">Weapons</LEXDomain>
+          </LEXDomains>
+          <LEXCollocations>
+            <LEXCollocation>בְּנֵי אַשְׁפָּה</LEXCollocation>
+          </LEXCollocations>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2015-12-22 14:14:15" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>literally: sons of the quiver; hence: = pointed missile, shot from a bow; slender and straight in shape and moving swiftly; ◄ made out of wood and/or iron; ► mainly used for hunting, in warfare, and occasionally for divination; ≈ symbol of aggression, affliction, and punishment</DefinitionShort>
+              <Glosses>
+                <Gloss>sons of the quiver &gt; arrows</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>02500301300010</LEXReference>
+          </LEXReferences>
+          <LEXLinks>
+            <LEXLink>Realia:2.14.2</LEXLink>
+          </LEXLinks>
+          <LEXVideos/>
+          <LEXCoreDomains>
+            <LEXCoreDomain Code="027">Crafts</LEXCoreDomain>
+            <LEXCoreDomain Code="006">Aggression</LEXCoreDomain>
+            <LEXCoreDomain Code="188">Warfare</LEXCoreDomain>
+          </LEXCoreDomains>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

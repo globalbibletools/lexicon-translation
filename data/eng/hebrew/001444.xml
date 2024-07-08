@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="001444000000000" Lemma="גְּמוּל" Version="5" HasAramaic="false" InLXX="false" AlphaPos="ג">
+  <StrongCodes>
+    <Strong>H1576</Strong>
+  </StrongCodes>
+  <Authors>
+    <Author>Matthew P. Anstey</Author>
+  </Authors>
+  <Contributors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes/>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="001444001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>nsm</PartOfSpeech>
+      </PartsOfSpeech>
+      <RelatedLemmas>
+        <RelatedLemma>
+          <Word>גמל</Word>
+        </RelatedLemma>
+      </RelatedLemmas>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="001444001001000" IsBiblicalTerm="M" EntryCode="" Indent="0">
+          <LEXDomains>
+            <LEXDomain Code="002002003003">Happen</LEXDomain>
+          </LEXDomains>
+          <LEXSynonyms>
+            <LEXSynonym>מַעֲלָל</LEXSynonym>
+            <LEXSynonym>מַעֲשֶׂה</LEXSynonym>
+            <LEXSynonym>פֹּעַל</LEXSynonym>
+            <LEXSynonym>פְּרִי</LEXSynonym>
+          </LEXSynonyms>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2016-04-02 13:26:22" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>= action by which humans act towards other humans or deities in a way that has consequences and can result either in retribution or a reward</DefinitionShort>
+              <Glosses>
+                <Gloss>actions</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>00700901600052</LEXReference>
+            <LEXReference>01403202500008</LEXReference>
+            <LEXReference>01902800400030</LEXReference>
+            <LEXReference>01910300200018</LEXReference>
+            <LEXReference>01913700800020</LEXReference>
+            <LEXReference>02001201400016</LEXReference>
+            <LEXReference>02001901700012</LEXReference>
+            <LEXReference>02300301100012</LEXReference>
+            <LEXReference>02900400400052</LEXReference>
+            <LEXReference>02900400700024</LEXReference>
+            <LEXReference>03100101500028</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+          <LEXCoreDomains>
+            <LEXCoreDomain Code="140">Recompense</LEXCoreDomain>
+          </LEXCoreDomains>
+        </LEXMeaning>
+        <LEXMeaning Id="001444001002000" IsBiblicalTerm="M" EntryCode="" Indent="0">
+          <LEXDomains>
+            <LEXDomain Code="002003002006" Source="Happen" SourceCode="002002003003">Chastise</LEXDomain>
+          </LEXDomains>
+          <LEXSynonyms>
+            <LEXSynonym>חֵמָה</LEXSynonym>
+            <LEXSynonym>נָקָם</LEXSynonym>
+            <LEXSynonym>נְקָמָה</LEXSynonym>
+          </LEXSynonyms>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2016-04-02 13:26:22" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>= action by which humans or deities deal with other humans or deities according to their actions, which could be either by punishing them or by giving them a reward</DefinitionShort>
+              <Glosses>
+                <Gloss>retribution</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>01909400200012</LEXReference>
+            <LEXReference>02303500400024</LEXReference>
+            <LEXReference>02305901800020</LEXReference>
+            <LEXReference>02305901800032</LEXReference>
+            <LEXReference>02306600600022</LEXReference>
+            <LEXReference>02405100600038</LEXReference>
+            <LEXReference>02500306400006</LEXReference>
+            <LEXReference>02900400400028</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+          <LEXCoreDomains>
+            <LEXCoreDomain Code="140">Recompense</LEXCoreDomain>
+          </LEXCoreDomains>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

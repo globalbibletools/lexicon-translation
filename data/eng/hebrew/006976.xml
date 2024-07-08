@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="006976000000000" Lemma="שׂגא" Version="4" HasAramaic="true" InLXX="false" AlphaPos="ש">
+  <StrongCodes>
+    <Strong>H7679</Strong>
+    <Strong>A7680</Strong>
+  </StrongCodes>
+  <Authors>
+    <Author>Reinier de Blois</Author>
+  </Authors>
+  <Contributors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes>
+    <Note Caller="1" LanguageCode="en" LastEdited="" LastEditedBy="">
+      <References>
+        <Reference>01801202300002</Reference>
+      </References>
+      <Content>REB "leads astray" = {L:שׁגה&lt;SDBH:שׁגה&gt;}</Content>
+    </Note>
+  </Notes>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="006976001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>vb</PartOfSpeech>
+      </PartsOfSpeech>
+      <RelatedLemmas>
+        <RelatedLemma>
+          <Word>שַׂגִּיא</Word>
+        </RelatedLemma>
+      </RelatedLemmas>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="006976001001000" IsBiblicalTerm="Y" EntryCode="" Indent="0">
+          <LEXDomains>
+            <LEXDomain Code="002001002012">Great</LEXDomain>
+          </LEXDomains>
+          <LEXForms>
+            <LEXForm>vbhif-</LEXForm>
+          </LEXForms>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2017-08-10 09:11:29" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>= causative process by which deities causes a nation to be regarded with respect</DefinitionShort>
+              <Glosses>
+                <Gloss>to make great</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>01801202300002{N:001}</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+        <LEXMeaning Id="006976001002000" IsBiblicalTerm="Y" EntryCode="" Indent="0">
+          <LEXDomains>
+            <LEXDomain Code="002004001009009" Source="Great" SourceCode="002001002012">Praise</LEXDomain>
+          </LEXDomains>
+          <LEXForms>
+            <LEXForm>vbhif-</LEXForm>
+          </LEXForms>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2022-04-15 17:26:42" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>= action by which humans give expression to their respect for the deeds of a deity</DefinitionShort>
+              <Glosses>
+                <Gloss>to praise</Gloss>
+                <Gloss>to extol</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>01803602400006</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+        <LEXMeaning Id="006976001003000" IsBiblicalTerm="Y" EntryCode="" Indent="0">
+          <LEXDomains>
+            <LEXDomain Code="002001003012" Source="Great" SourceCode="002001002012">Intense</LEXDomain>
+          </LEXDomains>
+          <LEXForms>
+            <LEXForm>vbpeal</LEXForm>
+          </LEXForms>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2022-04-15 17:26:42" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>= process by which an event increases in intensity</DefinitionShort>
+              <Glosses>
+                <Gloss>to grow</Gloss>
+                <Gloss>to be multiplied</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>01500402200022</LEXReference>
+            <LEXReference>02700303100032</LEXReference>
+            <LEXReference>02700602600038</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+          <LEXCoreDomains>
+            <LEXCoreDomain Code="090">Intensity</LEXCoreDomain>
+          </LEXCoreDomains>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="001917000000000" Lemma="זָבוּד" Version="5" HasAramaic="false" InLXX="false" AlphaPos="ז">
+  <StrongCodes>
+    <Strong>H2071</Strong>
+    <Strong>H2072</Strong>
+  </StrongCodes>
+  <Authors>
+    <Author>Lénart J. de Regt</Author>
+  </Authors>
+  <Contributors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes>
+    <Note Caller="1" LanguageCode="en" LastEdited="" LastEditedBy="">
+      <References>
+        <Reference>01500801400014</Reference>
+      </References>
+      <Content>MT-K וזבוד NJB "Zabud" | MT-Q וְזַכּוּר RSV NIV NJPS NRSV REB GNT CEV ESV "Zaccur"</Content>
+    </Note>
+  </Notes>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="001917001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>np</PartOfSpeech>
+      </PartsOfSpeech>
+      <RelatedLemmas>
+        <RelatedLemma>
+          <Word>זבד</Word>
+        </RelatedLemma>
+      </RelatedLemmas>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="001917001001000" IsBiblicalTerm="Y" EntryCode="" Indent="0">
+          <LEXDomains>
+            <LEXDomain Code="003001007">Names of People</LEXDomain>
+          </LEXDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2016-02-18 17:28:32" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>= man; ◄ son of {L:Nathan&lt;SDBH:נָתָן&gt;}; ► friend or adviser of {L:David&lt;SDBH:דָּוִד&gt;}</DefinitionShort>
+              <Glosses>
+                <Gloss>Zabud</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>01100400500018</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+        <LEXMeaning Id="001917001002000" IsBiblicalTerm="Y" EntryCode="" Indent="0">
+          <LEXDomains>
+            <LEXDomain Code="003001007">Names of People</LEXDomain>
+          </LEXDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2016-02-18 17:28:32" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>read {L:Zaccur&lt;SDBH:זַכּוּר&gt;} with MT-Q</DefinitionShort>
+              <Glosses>
+                <Gloss>Zaccur</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>01500801400014{N:001}</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

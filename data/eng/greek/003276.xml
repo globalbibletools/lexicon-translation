@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="003276000000000" Lemma="μέτωπον" Version="0" HasAramaic="false" InLXX="true" AlphaPos="μ">
+  <StrongCodes>
+    <Strong>G3359</Strong>
+  </StrongCodes>
+  <Authors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes/>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="003276001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>noun, n.</PartOfSpeech>
+      </PartsOfSpeech>
+      <Inflections>
+        <Inflection Lemma="μέτωπον" BaseFormIndex="1">
+          <Form/>
+          <Realizations>
+            <Realization>-ου</Realization>
+          </Realizations>
+          <Comments/>
+        </Inflection>
+      </Inflections>
+      <RelatedLemmas>
+        <RelatedLemma>
+          <Word>ὤψ</Word>
+          <Meaning LanguageCode="en">
+            <Meaning>eyes, face</Meaning>
+          </Meaning>
+          <Meaning LanguageCode="zhT">
+            <Meaning>眼睛，臉</Meaning>
+          </Meaning>
+        </RelatedLemma>
+        <RelatedLemma>
+          <Word>ὁράω</Word>
+        </RelatedLemma>
+      </RelatedLemmas>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="003276001001000" IsBiblicalTerm="Y" EntryCode="8.16" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Body, Body Parts, and Body Products</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Parts of the Body</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-12-03 12:05:32" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>the front part of the head above the eyes</DefinitionShort>
+              <Glosses>
+                <Gloss>forehead</Gloss>
+              </Glosses>
+              <Comments>Though in most languages there is a specific term to designate the forehead, it may be necessary in some instances to speak of ‘the upper face’ or ‘the face above the eyes.’</Comments>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>06600700300042</LEXReference>
+            <LEXReference>06600900400060</LEXReference>
+            <LEXReference>06601301600068</LEXReference>
+            <LEXReference>06601400100064</LEXReference>
+            <LEXReference>06601400900050</LEXReference>
+            <LEXReference>06601700500008</LEXReference>
+            <LEXReference>06602000400088</LEXReference>
+            <LEXReference>06602200400024</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

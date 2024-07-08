@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="005069000000000" Lemma="סכל" Version="4" HasAramaic="false" InLXX="false" AlphaPos="ס">
+  <StrongCodes>
+    <Strong>H5528</Strong>
+  </StrongCodes>
+  <Authors>
+    <Author>Steve Berneking</Author>
+  </Authors>
+  <Contributors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes>
+    <Note Caller="1" LanguageCode="en" LastEdited="" LastEditedBy="">
+      <References>
+        <Reference>02304402500024</Reference>
+      </References>
+      <Content>MT יְשַׂכֵּל</Content>
+    </Note>
+  </Notes>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="005069001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>vb</PartOfSpeech>
+      </PartsOfSpeech>
+      <RelatedLemmas>
+        <RelatedLemma>
+          <Word>סָכָל</Word>
+        </RelatedLemma>
+        <RelatedLemma>
+          <Word>סֶכֶל</Word>
+        </RelatedLemma>
+        <RelatedLemma>
+          <Word>סִכְלוּת</Word>
+        </RelatedLemma>
+      </RelatedLemmas>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="005069001001000" IsBiblicalTerm="M" EntryCode="" Indent="0">
+          <LEXDomains>
+            <LEXDomain Code="002001002010">Foolish</LEXDomain>
+          </LEXDomains>
+          <LEXForms>
+            <LEXForm>vbnif-</LEXForm>
+            <LEXForm>vbhif-</LEXForm>
+          </LEXForms>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2017-03-13 16:54:08" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>= action by which humans behave without good sense or wisdom</DefinitionShort>
+              <Glosses>
+                <Gloss>to act foolishly</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>00103102800024</LEXReference>
+            <LEXReference>00901301300012</LEXReference>
+            <LEXReference>00902602100048</LEXReference>
+            <LEXReference>01002401000060</LEXReference>
+            <LEXReference>01302100800048</LEXReference>
+            <LEXReference>01401600900030</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+          <LEXCoreDomains>
+            <LEXCoreDomain Code="199">Wisdom</LEXCoreDomain>
+          </LEXCoreDomains>
+        </LEXMeaning>
+        <LEXMeaning Id="005069001002000" IsBiblicalTerm="M" EntryCode="" Indent="0">
+          <LEXDomains>
+            <LEXDomain Code="002001002010">Foolish</LEXDomain>
+          </LEXDomains>
+          <LEXForms>
+            <LEXForm>vbpiel</LEXForm>
+          </LEXForms>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2017-03-13 16:54:08" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>= causative action by which human behavior is made or becomes unwise or senseless</DefinitionShort>
+              <Glosses>
+                <Gloss>to make foolish</Gloss>
+                <Gloss>to turn into foolishness</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>01001503100030</LEXReference>
+            <LEXReference>02304402500024{N:001}</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+          <LEXCoreDomains>
+            <LEXCoreDomain Code="199">Wisdom</LEXCoreDomain>
+          </LEXCoreDomains>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

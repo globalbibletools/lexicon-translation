@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="003545000000000" Lemma="ὀλιγόπιστος" Version="0" HasAramaic="false" InLXX="false" AlphaPos="ο">
+  <StrongCodes>
+    <Strong>G3640</Strong>
+  </StrongCodes>
+  <Authors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes/>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="003545001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>adjc.</PartOfSpeech>
+      </PartsOfSpeech>
+      <Inflections>
+        <Inflection Lemma="ὀλιγόπιστος" BaseFormIndex="1">
+          <Form/>
+          <Realizations>
+            <Realization>-ον</Realization>
+          </Realizations>
+          <Comments/>
+        </Inflection>
+      </Inflections>
+      <Constructs>
+        <Construct Lemma="ὀλιγόπιστος" BaseFormIndex="1">
+          <WordMeaningSet>
+            <Word>ὀλιγωρέω</Word>
+          </WordMeaningSet>
+          <WordMeaningSet>
+            <Word>πιστεύω</Word>
+          </WordMeaningSet>
+        </Construct>
+      </Constructs>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="003545001001000" IsBiblicalTerm="M" EntryCode="31.96" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Hold a View, Believe, Trust</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Trust, Rely</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-12-13 19:53:19" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>pertaining to having relatively little faith</DefinitionShort>
+              <Glosses>
+                <Gloss>of little faith</Gloss>
+                <Gloss>of insufficient faith</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04000603000044</LEXReference>
+            <LEXReference>04000802600014</LEXReference>
+            <LEXReference>04001403100026</LEXReference>
+            <LEXReference>04001600800020</LEXReference>
+            <LEXReference>04201202800042</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

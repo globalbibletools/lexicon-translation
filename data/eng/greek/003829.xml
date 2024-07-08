@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="003829000000000" Lemma="παρεπίδημος" Version="0" HasAramaic="false" InLXX="true" AlphaPos="π">
+  <StrongCodes>
+    <Strong>G3927</Strong>
+  </StrongCodes>
+  <Authors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes/>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="003829001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>adjc.</PartOfSpeech>
+      </PartsOfSpeech>
+      <Inflections>
+        <Inflection Lemma="παρεπίδημος" BaseFormIndex="1">
+          <Form/>
+          <Realizations>
+            <Realization>-ον</Realization>
+          </Realizations>
+          <Comments/>
+        </Inflection>
+      </Inflections>
+      <RelatedLemmas>
+        <RelatedLemma>
+          <Word>δῆμος</Word>
+        </RelatedLemma>
+      </RelatedLemmas>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="003829001001000" IsBiblicalTerm="M" EntryCode="11.77" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Groups and Classes of Persons and Members of Such Groups and Classes</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Socio-Political</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-12-23 11:05:31" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>(derivative of {L:ἐπιδημέω&lt;SDBG:ἐπιδημέω:000000&gt;} ‘to live as a foreigner,’ {D:85.78}) a person who for a period of time lives in a place which is not his normal residence</DefinitionShort>
+              <Glosses>
+                <Gloss>alien</Gloss>
+                <Gloss>stranger</Gloss>
+                <Gloss>temporary resident</Gloss>
+              </Glosses>
+              <Comments>In {S:04400700600022} the expression ‘as strangers in a foreign country’ may be rendered ‘as strangers living in a country which was not their own.’ Similarly, ‘who live as aliens’ may also be rendered as ‘who live in countries not their own’ or ‘who live with people to whose nation they do not belong.’</Comments>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>05801101300042</LEXReference>
+            <LEXReference>06000100100012</LEXReference>
+            <LEXReference>06000201100012</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

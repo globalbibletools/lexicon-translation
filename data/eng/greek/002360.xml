@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="002360000000000" Lemma="θρηνέω" Version="0" HasAramaic="false" InLXX="true" AlphaPos="θ">
+  <StrongCodes>
+    <Strong>G2354</Strong>
+  </StrongCodes>
+  <Authors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes>
+    <Note Caller="1" LanguageCode="en" LastEdited="" LastEditedBy="">
+      <References/>
+      <Content>It is possible that θρηνέω[a] should be classified only in Domain 52 Funerals and Burial, in view of the fact that θρηνέω[a] may in many contexts suggest a formal type of ritual expression.</Content>
+    </Note>
+    <Note Caller="2" LanguageCode="en" LastEdited="" LastEditedBy="">
+      <References/>
+      <Content>ὀδυρμός ({D:52.3}) apparently differs in meaning from θρηνέω[c] ({D:52.2}) in being less institutionalized and focusing somewhat more upon the wailing at funerals, while θρηνέω[b] denotes the singing of a dirge (see {D:33.115}). See also {D:33.116} and {D:25.141}. The meanings in Domain 52 differ in that they reflect ritualized wailing.</Content>
+    </Note>
+  </Notes>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="002360001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>verb</PartOfSpeech>
+      </PartsOfSpeech>
+      <RelatedLemmas>
+        <RelatedLemma>
+          <Word>θροέομαι</Word>
+        </RelatedLemma>
+      </RelatedLemmas>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="002360001001000" IsBiblicalTerm="M" EntryCode="25.141" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Attitudes and Emotions</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Laugh, Cry, Groan</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-08-19 09:54:16" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>to weep or cry, especially in mourning for the dead{N:001}</DefinitionShort>
+              <Glosses>
+                <Gloss>to wail</Gloss>
+                <Gloss>to lament</Gloss>
+              </Glosses>
+              <Comments>For another interpretation of θρηνέω in {S:04202302700026}, see {D:52.2}.|Mourning and wailing for the dead are frequently expressed by a term very different from expressions employed in referring to events not involving death.</Comments>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04202302700026</LEXReference>
+            <LEXReference>04301602000016</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+        <LEXMeaning Id="002360001002000" IsBiblicalTerm="M" EntryCode="33.115" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Communication</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Sing, Lament</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-08-19 09:54:16" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>to sing or chant expressions of mourning</DefinitionShort>
+              <Glosses>
+                <Gloss>to sing funeral songs</Gloss>
+                <Gloss>to chant a dirge</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04001101700014</LEXReference>
+            <LEXReference>04200703200036</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+        <LEXMeaning Id="002360001003000" IsBiblicalTerm="M" EntryCode="52.2" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Funerals and Burial</LEXDomain>
+          </LEXDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-08-19 09:54:16" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>to wail and lament for the dead, implying a ritualized form of mourning at funerals{N:002}</DefinitionShort>
+              <Glosses>
+                <Gloss>to wail</Gloss>
+                <Gloss>to lament</Gloss>
+              </Glosses>
+              <Comments>For another interpretation of {L:θρηνέω&lt;SDBG:θρηνέω:000000&gt;} in {S:04202302700026}, see {D:25.141}.</Comments>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04202302700026</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

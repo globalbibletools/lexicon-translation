@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="002360000000000" Lemma="חָמֵץ" Version="5" HasAramaic="false" InLXX="false" AlphaPos="ח">
+  <StrongCodes>
+    <Strong>H2557a</Strong>
+  </StrongCodes>
+  <Authors>
+    <Author>Reinier de Blois</Author>
+  </Authors>
+  <Contributors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes/>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="002360001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>nsc</PartOfSpeech>
+      </PartsOfSpeech>
+      <RelatedLemmas>
+        <RelatedLemma>
+          <Word>חמץ</Word>
+        </RelatedLemma>
+      </RelatedLemmas>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="002360001001000" IsBiblicalTerm="M" EntryCode="" Indent="0">
+          <LEXDomains>
+            <LEXDomain Code="002004001008">Taste</LEXDomain>
+          </LEXDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2018-01-13 05:32:42" LastEditedBy="administrator">
+              <DefinitionLong/>
+              <DefinitionShort>= state in which food has become sour;= ◄ due to the addition of sourdough or leaven during the production process</DefinitionShort>
+              <Glosses>
+                <Gloss>something leavened</Gloss>
+                <Gloss>food containing leaven</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>00201201500036</LEXReference>
+            <LEXReference>00201300300064</LEXReference>
+            <LEXReference>00201300700022</LEXReference>
+            <LEXReference>00202301800008</LEXReference>
+            <LEXReference>00203402500008</LEXReference>
+            <LEXReference>00300201100020</LEXReference>
+            <LEXReference>00300601000006</LEXReference>
+            <LEXReference>00300701300008</LEXReference>
+            <LEXReference>00302301700022</LEXReference>
+            <LEXReference>00501600300008</LEXReference>
+            <LEXReference>03000400500008</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+          <LEXCoreDomains>
+            <LEXCoreDomain Code="069">Food</LEXCoreDomain>
+          </LEXCoreDomains>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

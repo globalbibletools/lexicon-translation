@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="001189000000000" Lemma="בֶּרֶךְ" Version="5" HasAramaic="false" InLXX="false" AlphaPos="ב">
+  <StrongCodes>
+    <Strong>H1290</Strong>
+  </StrongCodes>
+  <Authors>
+    <Author>Enio R. Mueller</Author>
+  </Authors>
+  <Contributors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes>
+    <Note Caller="1" LanguageCode="en" LastEdited="" LastEditedBy="">
+      <References>
+        <Reference>01101804200046</Reference>
+        <Reference>01101804200048</Reference>
+      </References>
+      <Content>MT-K בְּרָכֹו (sg.) | MT-Q בִּרְכָּיו (pl., with no semantic change)</Content>
+    </Note>
+    <Note Caller="2" LanguageCode="en" LastEdited="" LastEditedBy="">
+      <References>
+        <Reference>02600701700014</Reference>
+      </References>
+      <Content>This expression here probably means "to run with water" | the image is of urine running down the knees, because of fear (cf. Greenberg loc.cit.). There has also been a suggestion that בִרְכַּיִם here means penis or the male genitalia | in this case we would have an extended meaning within the same lexical domain, and a contextual domain Liquids | Confidence.</Content>
+    </Note>
+  </Notes>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="001189001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>nsf</PartOfSpeech>
+      </PartsOfSpeech>
+      <RelatedLemmas>
+        <RelatedLemma>
+          <Word>ברך</Word>
+        </RelatedLemma>
+      </RelatedLemmas>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="001189001001000" IsBiblicalTerm="Y" EntryCode="" Indent="0">
+          <LEXDomains>
+            <LEXDomain Code="001001002">Creatures</LEXDomain>
+          </LEXDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2017-12-23 09:31:48" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>= central area of the leg where the thigh is joined to the lower leg; ≈ associated with stability and strength</DefinitionShort>
+              <Glosses>
+                <Gloss>knee</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>00103000300022</LEXReference>
+            <LEXReference>00104801200014</LEXReference>
+            <LEXReference>00105002300030</LEXReference>
+            <LEXReference>00502803500016</LEXReference>
+            <LEXReference>00700700500072</LEXReference>
+            <LEXReference>00700700600040</LEXReference>
+            <LEXReference>00701601900008</LEXReference>
+            <LEXReference>01100805400056</LEXReference>
+            <LEXReference>01101804200046{N:001}</LEXReference>
+            <LEXReference>01101804200048{N:001}</LEXReference>
+            <LEXReference>01101901800018</LEXReference>
+            <LEXReference>01200101300044</LEXReference>
+            <LEXReference>01200402000020</LEXReference>
+            <LEXReference>01400601300058</LEXReference>
+            <LEXReference>01500900500036</LEXReference>
+            <LEXReference>01800301200006</LEXReference>
+            <LEXReference>01800400400010</LEXReference>
+            <LEXReference>01910902400002</LEXReference>
+            <LEXReference>02303500300010</LEXReference>
+            <LEXReference>02304502300030</LEXReference>
+            <LEXReference>02306601200048</LEXReference>
+            <LEXReference>02600701700014{N:002}</LEXReference>
+            <LEXReference>02602101200060</LEXReference>
+            <LEXReference>02604700400020</LEXReference>
+            <LEXReference>02701001000018</LEXReference>
+            <LEXReference>03400201100022</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+          <LEXCoreDomains>
+            <LEXCoreDomain Code="019">Body</LEXCoreDomain>
+          </LEXCoreDomains>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

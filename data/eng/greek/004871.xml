@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="004871000000000" Lemma="σφαγή" Version="0" HasAramaic="false" InLXX="true" AlphaPos="σ">
+  <StrongCodes>
+    <Strong>G4967</Strong>
+  </StrongCodes>
+  <Authors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes>
+    <Note Caller="1" LanguageCode="en" LastEdited="" LastEditedBy="">
+      <References/>
+      <Content>It is possible that κατασφάζω is somewhat more emphatic in connotation than σφάζω.</Content>
+    </Note>
+  </Notes>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="004871001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>noun, f.</PartOfSpeech>
+      </PartsOfSpeech>
+      <Inflections>
+        <Inflection Lemma="σφαγή" BaseFormIndex="1">
+          <Form/>
+          <Realizations>
+            <Realization>-ῆς</Realization>
+          </Realizations>
+          <Comments/>
+        </Inflection>
+      </Inflections>
+      <RelatedLemmas>
+        <RelatedLemma>
+          <Word>σφάζω</Word>
+        </RelatedLemma>
+      </RelatedLemmas>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="004871001001000" IsBiblicalTerm="M" EntryCode="20.72" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Violence, Harm, Destroy, Kill</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Kill</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2022-03-15 11:59:55" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>slaughtering, either of animals or persons; in contexts referring to persons, the implication is of violence and mercilessness{N:001}</DefinitionShort>
+              <Glosses>
+                <Gloss>slaughter</Gloss>
+                <Gloss>killing</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04400803200026</LEXReference>
+            <LEXReference>04500803600026</LEXReference>
+            <LEXReference>05900500500026</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+        <LEXMeaning Id="004871001002000" IsBiblicalTerm="Y" EntryCode="56.33" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Courts and Legal Procedures</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Judge, Condemn, Acquit</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXCollocations>
+            <LEXCollocation>ἡμέρα σφαγῆς</LEXCollocation>
+          </LEXCollocations>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2022-03-15 11:59:55" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>(an idiom, literally: day of slaughter) a time of destructive judgment</DefinitionShort>
+              <Glosses>
+                <Gloss>day of condemnation</Gloss>
+              </Glosses>
+              <Comments>The reference of the phrase ἡμέρᾳ σφαγῆς in {S:05900500500026} is the destructive judgment of God, but it is possible that σφαγῆς should be interpreted in a more literal sense of ‘destruction’ rather than mere condemnation.</Comments>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>05900500500026</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="004696000000000" Lemma="נום" Version="5" HasAramaic="false" InLXX="false" AlphaPos="נ">
+  <StrongCodes>
+    <Strong>H5123</Strong>
+  </StrongCodes>
+  <Authors>
+    <Author>Reinier de Blois</Author>
+  </Authors>
+  <Contributors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes/>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="004696001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>vb</PartOfSpeech>
+      </PartsOfSpeech>
+      <RelatedLemmas>
+        <RelatedLemma>
+          <Word>נוּמָה</Word>
+        </RelatedLemma>
+        <RelatedLemma>
+          <Word>תְּנוּמָה</Word>
+        </RelatedLemma>
+      </RelatedLemmas>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="004696001001000" IsBiblicalTerm="Y" EntryCode="" Indent="0">
+          <LEXDomains>
+            <LEXDomain Code="002001001004">Asleep</LEXDomain>
+          </LEXDomains>
+          <LEXForms>
+            <LEXForm>vbqal-</LEXForm>
+          </LEXForms>
+          <LEXSynonyms>
+            <LEXSynonym>ישׁן</LEXSynonym>
+            <LEXSynonym>שׁכב</LEXSynonym>
+            <LEXSynonym>שׁכן</LEXSynonym>
+          </LEXSynonyms>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2017-11-07 18:43:31" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>= state in which humans or animals are in a state of a relatively light sleep; ≈ sometimes associated with death, sometimes with being inactive</DefinitionShort>
+              <Glosses>
+                <Gloss>to slumber</Gloss>
+                <Gloss>to sleep</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>01907600600008</LEXReference>
+            <LEXReference>01912100300016</LEXReference>
+            <LEXReference>01912100400006</LEXReference>
+            <LEXReference>02300502700016</LEXReference>
+            <LEXReference>02305601000036</LEXReference>
+            <LEXReference>03400301800002</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+          <LEXCoreDomains>
+            <LEXCoreDomain Code="164">Sleeping</LEXCoreDomain>
+          </LEXCoreDomains>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

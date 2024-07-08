@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="001234000000000" Lemma="δημόσιος" Version="0" HasAramaic="false" InLXX="true" AlphaPos="δ">
+  <StrongCodes>
+    <Strong>G1219</Strong>
+  </StrongCodes>
+  <Authors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes/>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="001234001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>adjc.</PartOfSpeech>
+      </PartsOfSpeech>
+      <Inflections>
+        <Inflection Lemma="δημόσιος" BaseFormIndex="1">
+          <Form/>
+          <Realizations>
+            <Realization>-α, -ον</Realization>
+          </Realizations>
+          <Comments/>
+        </Inflection>
+      </Inflections>
+      <RelatedLemmas>
+        <RelatedLemma>
+          <Word>δῆμος</Word>
+        </RelatedLemma>
+      </RelatedLemmas>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="001234001001000" IsBiblicalTerm="Y" EntryCode="28.66" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Know</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Able To Be Known</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-06-01 20:29:51" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>pertaining to being able to be known by the public</DefinitionShort>
+              <Glosses>
+                <Gloss>public</Gloss>
+                <Gloss>open</Gloss>
+              </Glosses>
+              <Comments>The rendering of διακατηλέγχετο in {S:04401802800012} provides the verbal correspondences ‘he … refuted … in … debate.’ The term δημοσίᾳ indicates that the debates took place in public so that everyone could know or did know what was said and proven. It is, of course, possible to understand δημοσίᾳ only in the sense of ‘public setting,’ but in {S:04401802800012} something more than mere setting seems to be implied.</Comments>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04400501800026</LEXReference>
+            <LEXReference>04401603700018</LEXReference>
+            <LEXReference>04401802800012</LEXReference>
+            <LEXReference>04402002000026</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

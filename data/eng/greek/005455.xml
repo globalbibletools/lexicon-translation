@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="005455000000000" Lemma="ψευδής" Version="0" HasAramaic="false" InLXX="true" AlphaPos="ψ">
+  <StrongCodes>
+    <Strong>G5571</Strong>
+  </StrongCodes>
+  <Authors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes/>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="005455001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>adjc.</PartOfSpeech>
+      </PartsOfSpeech>
+      <Inflections>
+        <Inflection Lemma="ψευδής" BaseFormIndex="1">
+          <Form/>
+          <Realizations>
+            <Realization>-ές</Realization>
+          </Realizations>
+          <Comments/>
+        </Inflection>
+      </Inflections>
+      <RelatedLemmas>
+        <RelatedLemma>
+          <Word>ψεύδομαι</Word>
+        </RelatedLemma>
+      </RelatedLemmas>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="005455001001000" IsBiblicalTerm="M" EntryCode="33.255" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Communication</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Speak Truth, Speak Falsehood</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2022-06-04 20:16:09" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>(derivative of {L:ψεύδομαι&lt;SDBG:ψεύδομαι:000000&gt;} ‘to lie,’ {D:33.253}) one who utters falsehoods and lies</DefinitionShort>
+              <Glosses>
+                <Gloss>liar</Gloss>
+              </Glosses>
+              <Comments>Since lying is a universal, there is usually no difficulty in obtaining a satisfactory term for ‘liar,’ though frequently the equivalent is an idiomatic expression, for example, ‘to speak too much,’ ‘to speak with two tongues,’ or ‘to speak what is not one’s thoughts.’</Comments>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04400601300008</LEXReference>
+            <LEXReference>06600200200060</LEXReference>
+            <LEXReference>06602100800038</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

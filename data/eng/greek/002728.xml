@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="002728000000000" Lemma="κατευλογέω" Version="0" HasAramaic="false" InLXX="true" AlphaPos="κ">
+  <StrongCodes>
+    <Strong>G2127a</Strong>
+  </StrongCodes>
+  <Authors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes>
+    <Note Caller="1" LanguageCode="en" LastEdited="" LastEditedBy="">
+      <References/>
+      <Content>It is possible that κατευλογέω is somewhat more emphatic than εὐλογέω[b], but this cannot be determined from existing contexts.</Content>
+    </Note>
+  </Notes>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="002728001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>verb</PartOfSpeech>
+      </PartsOfSpeech>
+      <Constructs>
+        <Construct Lemma="κατευλογέω" BaseFormIndex="1">
+          <WordMeaningSet>
+            <Word>εὐ</Word>
+          </WordMeaningSet>
+          <WordMeaningSet>
+            <Word>λέγω</Word>
+          </WordMeaningSet>
+        </Construct>
+      </Constructs>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="002728001001000" IsBiblicalTerm="M" EntryCode="33.470" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Communication</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Bless, Curse</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-09-29 10:54:42" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>to ask God to bestow divine favor on, with the implication that the verbal act itself constitutes a significant benefit{N:001}</DefinitionShort>
+              <Glosses>
+                <Gloss>to bless</Gloss>
+                <Gloss>blessing</Gloss>
+              </Glosses>
+              <Comments>In a number of languages the closest equivalent of ‘to bless’ is ‘to pray God on behalf of’ or ‘to ask God to do something good for.’</Comments>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04101001600008</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

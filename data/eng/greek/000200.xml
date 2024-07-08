@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="000200000000000" Lemma="ἀκρογωνιαῖος" Version="0" HasAramaic="false" InLXX="true" AlphaPos="α">
+  <StrongCodes>
+    <Strong>G0204</Strong>
+  </StrongCodes>
+  <Authors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes/>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="000200001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>adjc.</PartOfSpeech>
+      </PartsOfSpeech>
+      <Inflections>
+        <Inflection Lemma="ἀκρογωνιαῖος" BaseFormIndex="1">
+          <Form/>
+          <Realizations>
+            <Realization>-α, -ον</Realization>
+          </Realizations>
+          <Comments/>
+        </Inflection>
+      </Inflections>
+      <Constructs>
+        <Construct Lemma="ἀκρογωνιαῖος" BaseFormIndex="1">
+          <WordMeaningSet>
+            <Word>ἄκρον</Word>
+          </WordMeaningSet>
+          <WordMeaningSet>
+            <Word>γωνία</Word>
+          </WordMeaningSet>
+        </Construct>
+      </Constructs>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="000200001001000" IsBiblicalTerm="M" EntryCode="7.44" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Constructions</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Parts and Areas of Buildings</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-07-30 23:07:03" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>the cornerstone or capstone of a building, essential to its construction (this term occurs in the NT only figuratively in reference to Christ)</DefinitionShort>
+              <Glosses>
+                <Gloss>cornerstone</Gloss>
+                <Gloss>important stone</Gloss>
+              </Glosses>
+              <Comments>Some scholars have assumed that ἀκρογωνιαῖος would refer to the capstone occurring at the high point of a peaked roof, but in the NT ἀκρογωνιαῖος would probably refer to the type of stone which would have been used in the Temple in Jerusalem, and therefore it is far more likely to understand ἀκρογωνιαῖος as a cornerstone rather than a capstone of a peaked roof. It would not have referred to the keystone of an arch. Since, however, in many societies the use of ‘cornerstone’ is not known and in others it may have an entirely different function, it may be more satisfactory to use an expression such as ‘the most important stone’ or ‘the very important stone.’ This serves to describe the function and significance of the cornerstone without trying to indicate precisely its location or form.</Comments>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04900202000020</LEXReference>
+            <LEXReference>06000200600020</LEXReference>
+          </LEXReferences>
+          <LEXLinks>
+            <LEXLink>realia:3.1.1.1</LEXLink>
+          </LEXLinks>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

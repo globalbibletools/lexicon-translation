@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="000160000000000" Lemma="αἰχμαλωσία" Version="0" HasAramaic="false" InLXX="true" AlphaPos="α">
+  <StrongCodes>
+    <Strong>G0161</Strong>
+  </StrongCodes>
+  <Authors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes/>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="000160001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>noun, f.</PartOfSpeech>
+      </PartsOfSpeech>
+      <Inflections>
+        <Inflection Lemma="αἰχμαλωσία" BaseFormIndex="1">
+          <Form/>
+          <Realizations>
+            <Realization>-ας</Realization>
+          </Realizations>
+          <Comments/>
+        </Inflection>
+      </Inflections>
+      <Constructs>
+        <Construct Lemma="αἰχμαλωσία" BaseFormIndex="1">
+          <WordMeaningSet>
+            <Word>αἰχμή</Word>
+            <Meaning LanguageCode="en">
+              <Meaning>spear</Meaning>
+            </Meaning>
+            <Meaning LanguageCode="zhT">
+              <Meaning>矛槍</Meaning>
+            </Meaning>
+          </WordMeaningSet>
+          <WordMeaningSet>
+            <Word>ἅλωσις</Word>
+          </WordMeaningSet>
+        </Construct>
+      </Constructs>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="000160001001000" IsBiblicalTerm="Y" EntryCode="55.23" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Military Activities</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Prisoners of War</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-03-08 13:13:23" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>the state of being taken as a prisoner of war and kept a captive</DefinitionShort>
+              <Glosses>
+                <Gloss>captivity</Gloss>
+              </Glosses>
+              <Comments>In a number of languages it may be necessary to render ‘captivity’ in terms of ‘being a captive,’ and therefore this expression in {S:06601301000012} may be rendered as ‘if anyone is meant to become a captive, he will indeed become a captive.’</Comments>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04900400800014</LEXReference>
+            <LEXReference>06601301000008</LEXReference>
+            <LEXReference>06601301000012</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

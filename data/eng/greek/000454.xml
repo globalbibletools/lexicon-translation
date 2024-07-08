@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="000454000000000" Lemma="ἀνόητος" Version="0" HasAramaic="false" InLXX="true" AlphaPos="α">
+  <StrongCodes>
+    <Strong>G0453</Strong>
+  </StrongCodes>
+  <Authors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes/>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="000454001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>adjc.</PartOfSpeech>
+      </PartsOfSpeech>
+      <Inflections>
+        <Inflection Lemma="ἀνόητος" BaseFormIndex="1">
+          <Form/>
+          <Realizations>
+            <Realization>-ον</Realization>
+          </Realizations>
+          <Comments/>
+        </Inflection>
+      </Inflections>
+      <Constructs>
+        <Construct Lemma="ἀνόητος" BaseFormIndex="1">
+          <WordMeaningSet>
+            <Word>ἀ-</Word>
+          </WordMeaningSet>
+          <WordMeaningSet>
+            <Word>νοέω</Word>
+          </WordMeaningSet>
+        </Construct>
+      </Constructs>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="000454001001000" IsBiblicalTerm="M" EntryCode="32.50" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Understand</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Lack of Capacity for Understanding</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-08-09 15:06:57" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>pertaining to unwillingness to use one’s mental faculties in order to understand</DefinitionShort>
+              <Glosses>
+                <Gloss>foolish</Gloss>
+                <Gloss>stupid</Gloss>
+                <Gloss>without understanding</Gloss>
+              </Glosses>
+              <Comments>As in the case of {L:ἀσύνετος&lt;SDBG:ἀσύνετος:000000&gt;} ({D:32.49}), the meaning of ἀνόητος is that people presumably would not use their capacity for understanding and as a result, thought and behaved foolishly. ἀνόητος does not imply the mental state of being an idiot or imbecile.</Comments>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04202402500014</LEXReference>
+            <LEXReference>04500101400016</LEXReference>
+            <LEXReference>04800300100004</LEXReference>
+            <LEXReference>04800300300004</LEXReference>
+            <LEXReference>05400600900026</LEXReference>
+            <LEXReference>05600300300012</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

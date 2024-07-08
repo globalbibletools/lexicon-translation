@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="004035000000000" Lemma="πλήμμυρα" Version="0" HasAramaic="false" InLXX="true" AlphaPos="π">
+  <StrongCodes>
+    <Strong>G4132</Strong>
+  </StrongCodes>
+  <Authors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes/>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="004035001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>noun, f.</PartOfSpeech>
+      </PartsOfSpeech>
+      <Inflections>
+        <Inflection Lemma="πλήμμυρα" BaseFormIndex="1">
+          <Form/>
+          <Realizations>
+            <Realization>-ης</Realization>
+          </Realizations>
+          <Comments/>
+        </Inflection>
+      </Inflections>
+      <Constructs>
+        <Construct Lemma="πλήμμυρα" BaseFormIndex="1">
+          <WordMeaningSet>
+            <Word>πίμπλημι</Word>
+          </WordMeaningSet>
+          <WordMeaningSet>
+            <Word>μύρω</Word>
+            <Meaning LanguageCode="en">
+              <Meaning>flow, stream</Meaning>
+            </Meaning>
+            <Meaning LanguageCode="zhT">
+              <Meaning>流，河流</Meaning>
+            </Meaning>
+          </WordMeaningSet>
+        </Construct>
+      </Constructs>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="004035001001000" IsBiblicalTerm="M" EntryCode="14.33" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Physical Events and States</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Events Involving Liquids and Dry Masses</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-12-27 15:15:27" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>the overflowing of the banks by a river or stream</DefinitionShort>
+              <Glosses>
+                <Gloss>flood</Gloss>
+                <Gloss>high water</Gloss>
+              </Glosses>
+              <Comments>One might very well render {S:04200604800032} as ‘when the river overflowed its banks, it burst against the house.’ In some instances it may not be possible to use a term which would be more or less literally ‘to burst against,’ but one can say ‘tried to cause the house to collapse’ or ‘tried to destroy the house.’</Comments>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04200604800032</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

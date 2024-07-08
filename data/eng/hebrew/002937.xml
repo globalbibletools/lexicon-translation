@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="002937000000000" Lemma="יָלִיד" Version="4" HasAramaic="false" InLXX="false" AlphaPos="י">
+  <StrongCodes>
+    <Strong>H3211</Strong>
+  </StrongCodes>
+  <Authors>
+    <Author>Enio R. Mueller</Author>
+  </Authors>
+  <Contributors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes/>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="002937001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>nsm</PartOfSpeech>
+      </PartsOfSpeech>
+      <RelatedLemmas>
+        <RelatedLemma>
+          <Word>ילד</Word>
+        </RelatedLemma>
+      </RelatedLemmas>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="002937001001000" IsBiblicalTerm="Y" EntryCode="" Indent="0">
+          <LEXDomains>
+            <LEXDomain Code="001001002003012" Source="Birth" SourceCode="002002002003">Relatives</LEXDomain>
+          </LEXDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2016-11-17 09:25:44" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>= direct or indirect human offspring, either male or indeterminate</DefinitionShort>
+              <Glosses>
+                <Gloss>descendant</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>00401302200032</LEXReference>
+            <LEXReference>00401302800038</LEXReference>
+            <LEXReference>00601501400038</LEXReference>
+            <LEXReference>01002101800046</LEXReference>
+            <LEXReference>01302000400040</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+          <LEXCoreDomains>
+            <LEXCoreDomain Code="062">Family</LEXCoreDomain>
+            <LEXCoreDomain Code="129">Posterity</LEXCoreDomain>
+          </LEXCoreDomains>
+        </LEXMeaning>
+        <LEXMeaning Id="002937001002000" IsBiblicalTerm="Y" EntryCode="" Indent="0">
+          <LEXDomains>
+            <LEXDomain Code="001001002003001" Source="Birth" SourceCode="002002002003">Classes</LEXDomain>
+          </LEXDomains>
+          <LEXCollocations>
+            <LEXCollocation>יְלִיד בַּיִת</LEXCollocation>
+          </LEXCollocations>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2016-11-17 09:25:44" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>literally: born of home; hence: = a slave that was born of slave parents, as opposed to a slave that was purchased from outside</DefinitionShort>
+              <Glosses>
+                <Gloss>homeborn (slave)</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>00101401400022</LEXReference>
+            <LEXReference>00101701200022</LEXReference>
+            <LEXReference>00101701300006</LEXReference>
+            <LEXReference>00101702300020</LEXReference>
+            <LEXReference>00101702700010</LEXReference>
+            <LEXReference>00302201100024</LEXReference>
+            <LEXReference>02400201400010</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+          <LEXCoreDomains>
+            <LEXCoreDomain Code="070">Freedom and Bondage</LEXCoreDomain>
+          </LEXCoreDomains>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

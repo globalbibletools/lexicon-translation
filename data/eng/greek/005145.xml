@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="005145000000000" Lemma="ὑπηρετέω" Version="0" HasAramaic="false" InLXX="true" AlphaPos="υ">
+  <StrongCodes>
+    <Strong>G5256</Strong>
+  </StrongCodes>
+  <Authors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes/>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="005145001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>verb</PartOfSpeech>
+      </PartsOfSpeech>
+      <Constructs>
+        <Construct Lemma="ὑπηρετέω" BaseFormIndex="1">
+          <WordMeaningSet>
+            <Word>ὑπό</Word>
+          </WordMeaningSet>
+          <WordMeaningSet>
+            <Word>ἐρέτης</Word>
+            <Meaning LanguageCode="en">
+              <Meaning>a rower, sailor</Meaning>
+            </Meaning>
+            <Meaning LanguageCode="zhT">
+              <Meaning>槳手，水手</Meaning>
+            </Meaning>
+          </WordMeaningSet>
+        </Construct>
+      </Constructs>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="005145001001000" IsBiblicalTerm="Y" EntryCode="35.19" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Help, Care For</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Serve</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2022-05-04 08:47:44" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>to render assistance or help by performing certain duties, often of a humble or menial nature</DefinitionShort>
+              <Glosses>
+                <Gloss>to serve</Gloss>
+                <Gloss>to render service</Gloss>
+                <Gloss>to help</Gloss>
+                <Gloss>service</Gloss>
+                <Gloss>help</Gloss>
+              </Glosses>
+              <Comments>In some languages it is essential in communicating the concept of ‘service’ to introduce a specific reference to ‘a servant,’ for example, ‘to help as a servant’ or ‘to assist as one who must,’ and in some contexts it may be useful to employ a phrase such as ‘to help in small things’ or ‘to do the low tasks.’</Comments>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04401303600012</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+        <LEXMeaning Id="005145001002000" IsBiblicalTerm="Y" EntryCode="35.32" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Help, Care For</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Provide For, Support</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2022-05-04 08:47:44" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>to provide continuous and possibly prolonged assistance and help by supplying the needs of someone</DefinitionShort>
+              <Glosses>
+                <Gloss>to provide for</Gloss>
+                <Gloss>to support</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04402003400024</LEXReference>
+            <LEXReference>04402402300030</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

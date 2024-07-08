@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="001295000000000" Lemma="גדד" Version="5" HasAramaic="false" InLXX="false" AlphaPos="ג">
+  <StrongCodes>
+    <Strong>H1413</Strong>
+    <Strong>A1414</Strong>
+  </StrongCodes>
+  <Authors>
+    <Author>Enio R. Mueller</Author>
+  </Authors>
+  <Contributors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes>
+    <Note Caller="1" LanguageCode="en" LastEdited="" LastEditedBy="">
+      <References>
+        <Reference>02800701400030</Reference>
+      </References>
+      <Content>HOTTP-C יתגדדו RSV NJB NRSV GNT ESV "gash themselves" REB "gashing of themselves" CEV "slashed themselves" (= [1a]) NIV "gather together" NJPS "debauch" (= [1b]) | MT יתגררו = {L:גור&lt;SDBH:גור&gt;}</Content>
+    </Note>
+    <Note Caller="2" LanguageCode="en" LastEdited="" LastEditedBy="">
+      <References>
+        <Reference>03300401400004</Reference>
+      </References>
+      <Content>MT HOTTP-B NJPS "you gash yourself" = [1] NIV "marshall your troops" GNT "gather your forces" ESV "muster your troops" = [2] | RSV "you are walled about" NRSV "you are walled around" REB "withdraw behind your walls" = {L:גדר&lt;SDBH:גדר&gt;}</Content>
+    </Note>
+  </Notes>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="001295001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>vb</PartOfSpeech>
+      </PartsOfSpeech>
+      <RelatedLemmas>
+        <RelatedLemma>
+          <Word>גְּדוּדָה</Word>
+        </RelatedLemma>
+      </RelatedLemmas>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="001295001001000" IsBiblicalTerm="Y" EntryCode="" Indent="0">
+          <LEXDomains>
+            <LEXDomain Code="002001001023">Impact</LEXDomain>
+          </LEXDomains>
+          <LEXForms>
+            <LEXForm>vbhit-</LEXForm>
+          </LEXForms>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2017-01-17 13:56:49" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>= causative action by which humans inflict wounds on their body with a knife, ► as a sign of mourning, or in order to reinforce one's prayer</DefinitionShort>
+              <Glosses>
+                <Gloss>to cut oneself</Gloss>
+                <Gloss>to gash oneself</Gloss>
+                <Gloss>to lacerate oneself</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>00501400100014</LEXReference>
+            <LEXReference>01101802800014</LEXReference>
+            <LEXReference>02401600600038</LEXReference>
+            <LEXReference>02404100500038</LEXReference>
+            <LEXReference>02404700500022</LEXReference>
+            <LEXReference>02800701400030{N:001}</LEXReference>
+            <LEXReference>03300401400004{N:002}</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+          <LEXCoreDomains>
+            <LEXCoreDomain Code="019">Body</LEXCoreDomain>
+            <LEXCoreDomain Code="006">Aggression</LEXCoreDomain>
+          </LEXCoreDomains>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+    <BaseForm Id="001295002000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>vb</PartOfSpeech>
+      </PartsOfSpeech>
+      <RelatedLemmas>
+        <RelatedLemma>
+          <Word>גוד</Word>
+        </RelatedLemma>
+        <RelatedLemma>
+          <Word>גְּדוּד</Word>
+        </RelatedLemma>
+      </RelatedLemmas>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="001295002001000" IsBiblicalTerm="Y" EntryCode="" Indent="0">
+          <LEXDomains>
+            <LEXDomain Code="002003002003">Associate</LEXDomain>
+          </LEXDomains>
+          <LEXForms>
+            <LEXForm>vbqal-</LEXForm>
+            <LEXForm>vbhit-</LEXForm>
+          </LEXForms>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2017-01-17 13:56:49" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>= action by which several people form a group in order to pursue a common goal together</DefinitionShort>
+              <Glosses>
+                <Gloss>to band together</Gloss>
+                <Gloss>to troop together</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>01909402100002</LEXReference>
+            <LEXReference>02400500700044</LEXReference>
+            <LEXReference>02800701400030{N:001}</LEXReference>
+            <LEXReference>03300401400004{N:002}</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+          <LEXCoreDomains>
+            <LEXCoreDomain Code="142">Relationship</LEXCoreDomain>
+            <LEXCoreDomain Code="074">Group</LEXCoreDomain>
+          </LEXCoreDomains>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

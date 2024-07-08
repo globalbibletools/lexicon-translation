@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="000044000000000" Lemma="ἄγκιστρον" Version="0" HasAramaic="false" InLXX="true" AlphaPos="α">
+  <StrongCodes>
+    <Strong>G0044</Strong>
+  </StrongCodes>
+  <Authors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes/>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="000044001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>noun, n.</PartOfSpeech>
+      </PartsOfSpeech>
+      <Inflections>
+        <Inflection Lemma="ἄγκιστρον" BaseFormIndex="1">
+          <Form/>
+          <Realizations>
+            <Realization>-ου</Realization>
+          </Realizations>
+          <Comments/>
+        </Inflection>
+      </Inflections>
+      <RelatedLemmas>
+        <RelatedLemma>
+          <Word>ἄγκυρα</Word>
+        </RelatedLemma>
+      </RelatedLemmas>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="000044001001000" IsBiblicalTerm="M" EntryCode="6.10" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Artifacts</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Instruments Used in Fishing</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-01-27 07:49:20" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>small, curved piece of metal or bone or even a strong thorn, with a sharp point on one end, usually with a barb just behind the point, and a loop or bend on the other end to which a fishing line can be attached; used with some bait attached to it in order to attract a fish</DefinitionShort>
+              <Glosses>
+                <Gloss>fish hook</Gloss>
+              </Glosses>
+              <Comments>A literal rendering of {S:04001702700020} could be quite misleading, since it would imply that only the hook was thrown into the water. What was thrown into the water was a line with a baited hook on the end, and it may be necessary to be explicit in some languages in order to avoid misunderstanding.</Comments>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04001702700020</LEXReference>
+          </LEXReferences>
+          <LEXLinks>
+            <LEXLink>realia:1.3.2</LEXLink>
+          </LEXLinks>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

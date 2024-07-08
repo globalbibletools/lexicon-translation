@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="003760000000000" Lemma="παραδέχομαι" Version="0" HasAramaic="false" InLXX="true" AlphaPos="π">
+  <StrongCodes>
+    <Strong>G3858</Strong>
+  </StrongCodes>
+  <Authors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes>
+    <Note Caller="1" LanguageCode="en" LastEdited="" LastEditedBy="">
+      <References/>
+      <Content>There are no doubt certain contextual constraints involved in the choice of ἀναδέχομαι[a], ἀποδέχομαι[a], ἐπιδέχομαι[a], εἰσδέχομαι, ὑποδέχομαι, προσδέχομαι[b], and παραδέχομαι[b] in the sense that the spacial relationships involved in the welcoming of a guest can be reflected in the prepositional prefixes. For example, in {S:04200804000014} the use of ἀποδέχομαι may focus upon the particular source, while ἐπιδέχομαι in {S:06400101000044} may be relevant in view of the fact that the believers are coming to a particular point. προσδέχομαι in {S:04201500200026} may suggest a kind of reciprocal relationship which is established with outcasts, and παραδέχομαι in {S:04401500400010} may simply point to spacial proximity. However, it would be wrong to insist upon clear distinctions in meaning based on the very limited number of contexts involved. Some of these same distinctions in spacial relations may exist for the set προσλαμβάνομαι[e], παραλαμβάνω[d], and ἀπολαμβάνω[d].</Content>
+    </Note>
+  </Notes>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="003760001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>verb</PartOfSpeech>
+      </PartsOfSpeech>
+      <RelatedLemmas>
+        <RelatedLemma>
+          <Word>δέχομαι</Word>
+        </RelatedLemma>
+      </RelatedLemmas>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="003760001001000" IsBiblicalTerm="M" EntryCode="31.52" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Hold a View, Believe, Trust</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Accept As True</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-12-20 12:32:44" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>to come to believe something to be true and to respond accordingly, with some emphasis upon the source</DefinitionShort>
+              <Glosses>
+                <Gloss>to accept</Gloss>
+                <Gloss>to receive</Gloss>
+                <Gloss>acceptance</Gloss>
+                <Gloss>reception</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04100402000032</LEXReference>
+            <LEXReference>04401602100016</LEXReference>
+            <LEXReference>04402201800030</LEXReference>
+            <LEXReference>05400501900010</LEXReference>
+            <LEXReference>05801200600022</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+        <LEXMeaning Id="003760001002000" IsBiblicalTerm="M" EntryCode="34.53" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Association</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Welcome, Receive</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-12-20 12:32:44" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>to accept the presence of a person with friendliness{N:001}</DefinitionShort>
+              <Glosses>
+                <Gloss>to welcome</Gloss>
+                <Gloss>to receive</Gloss>
+                <Gloss>to accept</Gloss>
+                <Gloss>to have as a guest</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04401500400010</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

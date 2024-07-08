@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="004531000000000" Lemma="σκάφη" Version="0" HasAramaic="false" InLXX="true" AlphaPos="σ">
+  <StrongCodes>
+    <Strong>G4627</Strong>
+  </StrongCodes>
+  <Authors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes/>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="004531001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>noun, f.</PartOfSpeech>
+      </PartsOfSpeech>
+      <Inflections>
+        <Inflection Lemma="σκάφη" BaseFormIndex="1">
+          <Form/>
+          <Realizations>
+            <Realization>-ης</Realization>
+          </Realizations>
+          <Comments/>
+        </Inflection>
+      </Inflections>
+      <RelatedLemmas>
+        <RelatedLemma>
+          <Word>σκάπτω</Word>
+        </RelatedLemma>
+      </RelatedLemmas>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="004531001001000" IsBiblicalTerm="M" EntryCode="6.45" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Artifacts</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Boats and Parts of Boats</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2022-02-11 11:51:50" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>a small boat which was normally kept aboard a larger ship and used by sailors in placing anchors, repairing the ship, or saving lives in the case of storms</DefinitionShort>
+              <Glosses>
+                <Gloss>small boat</Gloss>
+                <Gloss>skiff</Gloss>
+              </Glosses>
+              <Comments>In some languages σκάφη is equivalent to ‘rowboat’ or ‘lifeboat.’</Comments>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04402701600024</LEXReference>
+            <LEXReference>04402703000024</LEXReference>
+            <LEXReference>04402703200016</LEXReference>
+          </LEXReferences>
+          <LEXLinks>
+            <LEXLink>realia:8.1</LEXLink>
+          </LEXLinks>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

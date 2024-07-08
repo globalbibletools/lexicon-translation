@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="003203000000000" Lemma="μέλας" Version="0" HasAramaic="false" InLXX="true" AlphaPos="μ">
+  <StrongCodes>
+    <Strong>G3189</Strong>
+  </StrongCodes>
+  <Authors/>
+  <AlternateLemmas>
+    <AlternateLemma/>
+  </AlternateLemmas>
+  <MainLinks/>
+  <Notes/>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="003203001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>adjc.</PartOfSpeech>
+      </PartsOfSpeech>
+      <Inflections>
+        <Inflection Lemma="μέλας" BaseFormIndex="1">
+          <Form/>
+          <Realizations>
+            <Realization>μέλαινα, μέλαν</Realization>
+          </Realizations>
+          <Comments/>
+        </Inflection>
+        <Inflection Lemma="μέλας" BaseFormIndex="1">
+          <Form>gen.</Form>
+          <Realizations>
+            <Realization>-ανος, -αίνης, -ανος</Realization>
+          </Realizations>
+          <Comments/>
+        </Inflection>
+      </Inflections>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="003203001001000" IsBiblicalTerm="Y" EntryCode="79.26" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Features of Objects</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Color</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-11-24 12:20:59" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort/>
+              <Glosses>
+                <Gloss>black</Gloss>
+                <Gloss>dark color</Gloss>
+              </Glosses>
+              <Comments>Expressions for a number of terms for color differ on the basis of the object which is designated as having such a color. For example, a term for black as applied to a horse may be a different term from what one would use in speaking of a black box.</Comments>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04000503600030</LEXReference>
+            <LEXReference>06600600500038</LEXReference>
+            <LEXReference>06600601200034</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+        <LEXMeaning Id="003203001002000" IsBiblicalTerm="M" EntryCode="6.57" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Artifacts</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Instruments Used in Marking and Writing</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-11-24 12:20:59" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>a dark liquid used in writing or marking</DefinitionShort>
+              <Glosses>
+                <Gloss>ink</Gloss>
+              </Glosses>
+              <Comments>The use of ink is so universal at the present time that some term or expression for it is almost inevitable in all languages. However, in some cases the equivalent is essentially a descriptive phrase, for example, ‘black stain’ or ‘writing stain.’</Comments>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04700300300022</LEXReference>
+            <LEXReference>06300101200020</LEXReference>
+            <LEXReference>06400101300018</LEXReference>
+          </LEXReferences>
+          <LEXLinks>
+            <LEXLink>realia:1.7.2</LEXLink>
+          </LEXLinks>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

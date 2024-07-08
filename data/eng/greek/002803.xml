@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="002803000000000" Lemma="κιθαρῳδός" Version="0" HasAramaic="false" InLXX="false" AlphaPos="κ">
+  <StrongCodes>
+    <Strong>G2790</Strong>
+  </StrongCodes>
+  <Authors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes/>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="002803001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>noun, m.</PartOfSpeech>
+      </PartsOfSpeech>
+      <Inflections>
+        <Inflection Lemma="κιθαρῳδός" BaseFormIndex="1">
+          <Form/>
+          <Realizations>
+            <Realization>-οῦ</Realization>
+          </Realizations>
+          <Comments/>
+        </Inflection>
+      </Inflections>
+      <Constructs>
+        <Construct Lemma="κιθαρῳδός" BaseFormIndex="1">
+          <WordMeaningSet>
+            <Word>κιθαρίζω</Word>
+          </WordMeaningSet>
+          <WordMeaningSet>
+            <Word>ᾄδω</Word>
+          </WordMeaningSet>
+        </Construct>
+      </Constructs>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="002803001001000" IsBiblicalTerm="M" EntryCode="6.85" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Artifacts</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Musical Instruments</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-10-07 10:49:30" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>(derivative of {L:κιθαρίζω&lt;SDBG:κιθαρίζω:000000&gt;} ‘to play a lyre,’ {D:6.84}) one who plays the lyre, a small stringed harp-like instrument held in the hands and plucked</DefinitionShort>
+              <Glosses>
+                <Gloss>harpist</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>06601400200044</LEXReference>
+            <LEXReference>06601802200006</LEXReference>
+          </LEXReferences>
+          <LEXLinks>
+            <LEXLink>realia:7.2.1</LEXLink>
+          </LEXLinks>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="000929000000000" Lemma="בִּירָה" Version="5" HasAramaic="true" InLXX="false" AlphaPos="ב">
+  <StrongCodes>
+    <Strong>A1001</Strong>
+    <Strong>H1002</Strong>
+    <Strong>H1003</Strong>
+  </StrongCodes>
+  <Authors>
+    <Author>Enio R. Mueller</Author>
+  </Authors>
+  <Contributors/>
+  <AlternateLemmas>
+    <AlternateLemma>בִּירָנִית</AlternateLemma>
+  </AlternateLemmas>
+  <MainLinks/>
+  <Notes>
+    <Note Caller="1" LanguageCode="en" LastEdited="" LastEditedBy="">
+      <References>
+        <Reference>01302900100056</Reference>
+        <Reference>01302901900046</Reference>
+        <Reference>01600200800042</Reference>
+      </References>
+      <Content>The meaning of בִּירָה here is disputed. Since it is a building or a series of buildings לַיהוָה אֶלֹהִים the referent must be the temple or the temple area. RSV "palace" NIV "palatial structure" | NRSV NJPS CEV GNT "temple". NRSV has "temple" in the text and a note "Heb. fortress". Klein has "temple" | Braun "palace" (but with the sense of "temple", cf. note). Knoppers 944 has "citadel" and explains: "there is reason to believe that bîrâ refers here to a complex of buildings, including the Temple (J. Schwartz 1996: 29–49), rather than to a single structure".</Content>
+    </Note>
+  </Notes>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="000929001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>nsf</PartOfSpeech>
+      </PartsOfSpeech>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="000929001001000" IsBiblicalTerm="M" EntryCode="" Indent="0">
+          <LEXDomains>
+            <LEXDomain Code="001005001001">Buildings</LEXDomain>
+          </LEXDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2015-03-17 17:33:04" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>= a fortress that commands a city and is used in the control of the inhabitants and in defense during attack or siege.</DefinitionShort>
+              <Glosses>
+                <Gloss>fortress</Gloss>
+                <Gloss>citadel</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>01401701200028</LEXReference>
+            <LEXReference>01402700400024</LEXReference>
+            <LEXReference>01500600200012</LEXReference>
+            <LEXReference>01600100100038</LEXReference>
+            <LEXReference>01600700200022</LEXReference>
+            <LEXReference>01700100200036</LEXReference>
+            <LEXReference>01700100500040</LEXReference>
+            <LEXReference>01700200300042</LEXReference>
+            <LEXReference>01700200500014</LEXReference>
+            <LEXReference>01700200800036</LEXReference>
+            <LEXReference>01700301500032</LEXReference>
+            <LEXReference>01700801400046</LEXReference>
+            <LEXReference>01700900600010</LEXReference>
+            <LEXReference>01700901100026</LEXReference>
+            <LEXReference>01700901200024</LEXReference>
+            <LEXReference>02700800200030</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+          <LEXCoreDomains>
+            <LEXCoreDomain Code="020">Building</LEXCoreDomain>
+            <LEXCoreDomain Code="188">Warfare</LEXCoreDomain>
+          </LEXCoreDomains>
+        </LEXMeaning>
+        <LEXMeaning Id="000929001002000" IsBiblicalTerm="Y" EntryCode="" Indent="0">
+          <LEXDomains>
+            <LEXDomain Code="001005001001">Buildings</LEXDomain>
+          </LEXDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2015-03-17 17:33:04" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>= a complex of buildings in Jerusalem, including the temple area</DefinitionShort>
+              <Glosses>
+                <Gloss>temple (of Jerusalem)</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>01302900100056{N:001}</LEXReference>
+            <LEXReference>01302901900046{N:001}</LEXReference>
+            <LEXReference>01600200800042{N:001}</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+          <LEXCoreDomains>
+            <LEXCoreDomain Code="020">Building</LEXCoreDomain>
+            <LEXCoreDomain Code="150">Sanctuary</LEXCoreDomain>
+          </LEXCoreDomains>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

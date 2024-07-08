@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="000209000000000" Lemma="אֹורָה" Version="5" HasAramaic="false" InLXX="false" AlphaPos="א">
+  <StrongCodes>
+    <Strong>H0219</Strong>
+  </StrongCodes>
+  <Authors>
+    <Author>Reinier de Blois</Author>
+  </Authors>
+  <Contributors/>
+  <AlternateLemmas>
+    <AlternateLemma>אֹרֹת</AlternateLemma>
+  </AlternateLemmas>
+  <MainLinks/>
+  <Notes/>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="000209001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>nsf</PartOfSpeech>
+      </PartsOfSpeech>
+      <RelatedLemmas>
+        <RelatedLemma>
+          <Word>אור</Word>
+        </RelatedLemma>
+      </RelatedLemmas>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="000209001001000" IsBiblicalTerm="M" EntryCode="" Indent="0">
+          <LEXDomains>
+            <LEXDomain Code="002001001049">Shine</LEXDomain>
+          </LEXDomains>
+          <LEXSynonyms>
+            <LEXSynonym>שִׂמְחָה</LEXSynonym>
+            <LEXSynonym>שָׂשֹׂון</LEXSynonym>
+          </LEXSynonyms>
+          <LEXAntonyms>
+            <LEXAntonym>חֲשֵׁכָה</LEXAntonym>
+          </LEXAntonyms>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2014-07-16 12:02:24" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>= light as a physical phenomenon, mainly observed during daytime, and the opposite of darkness; ◄ one of God's most important attributes; first created by God and since produced by sun, moon, and stars, but also by fire; ► enables people and animals to see; ≈ associated with life, goodness, happiness, prosperity, security, favor, and wisdom, loved by the righteous, and hated by the wicked</DefinitionShort>
+              <Glosses>
+                <Gloss>light</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>01700801600010</LEXReference>
+            <LEXReference>01913901200034</LEXReference>
+            <LEXReference>02302601900024</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+          <LEXCoreDomains>
+            <LEXCoreDomain Code="100">Light and Darkness</LEXCoreDomain>
+          </LEXCoreDomains>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+    <BaseForm Id="000209002000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>nsf</PartOfSpeech>
+      </PartsOfSpeech>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="000209002001000" IsBiblicalTerm="Y" EntryCode="" Indent="0">
+          <LEXDomains>
+            <LEXDomain Code="001003001">Plants</LEXDomain>
+          </LEXDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2014-07-16 12:02:24" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>exact meaning unsure: = edible plants, sometimes identified as mallow (|iMalva rotundifolia|i*)</DefinitionShort>
+              <Glosses>
+                <Gloss>herbs</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>01200403900018</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+          <LEXCoreDomains>
+            <LEXCoreDomain Code="125">Plant</LEXCoreDomain>
+          </LEXCoreDomains>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

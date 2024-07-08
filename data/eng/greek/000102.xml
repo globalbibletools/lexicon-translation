@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="000102000000000" Lemma="ἀδύνατος" Version="0" HasAramaic="false" InLXX="true" AlphaPos="α">
+  <StrongCodes>
+    <Strong>G0102</Strong>
+  </StrongCodes>
+  <Authors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes>
+    <Note Caller="1" LanguageCode="en" LastEdited="" LastEditedBy="">
+      <References/>
+      <Content>This statement in {S:05800601800016} may provide certain philosophical problems in view of the doctrine of the absoluteness of God, but no doubt the writer of Hebrews makes this statement in view of the presumed nature of God himself.</Content>
+    </Note>
+  </Notes>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="000102001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>adjc.</PartOfSpeech>
+      </PartsOfSpeech>
+      <Inflections>
+        <Inflection Lemma="ἀδύνατος" BaseFormIndex="1">
+          <Form/>
+          <Realizations>
+            <Realization>-ον</Realization>
+          </Realizations>
+          <Comments/>
+        </Inflection>
+      </Inflections>
+      <Constructs>
+        <Construct Lemma="ἀδύνατος" BaseFormIndex="1">
+          <WordMeaningSet>
+            <Word>ἀ-</Word>
+          </WordMeaningSet>
+          <WordMeaningSet>
+            <Word>δύναμαι</Word>
+          </WordMeaningSet>
+        </Construct>
+      </Constructs>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="000102001001000" IsBiblicalTerm="Y" EntryCode="74.22" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Able, Capable</LEXDomain>
+          </LEXDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-03-23 09:57:06" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>pertaining to not being able to do or experience something</DefinitionShort>
+              <Glosses>
+                <Gloss>incapable</Gloss>
+                <Gloss>not being able</Gloss>
+              </Glosses>
+              <Comments>In {S:04501500100018} οἱ δυνατοί refers to capability with respect to faith and τῶν ἀδυνάτων refers, conversely, to those who are incapable with respect to faith. In some languages, therefore, it may be possible to use a similar biblical phrase, weak in the faith.|In many languages the appropriate equivalent of {S:04401400800008} would be but in Lystra there was a man who was crippled.</Comments>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04401400800008</LEXReference>
+            <LEXReference>04501500100018</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+        <LEXMeaning Id="000102001002000" IsBiblicalTerm="Y" EntryCode="71.3" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Mode</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Possible, Impossible</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-03-23 09:57:06" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>pertaining to being impossible, presumably because of a lack of power to alter or control circumstances</DefinitionShort>
+              <Glosses>
+                <Gloss>impossible</Gloss>
+              </Glosses>
+              <Comments>In {S:05800600400002} the use of ἀδύνατον seems to be an instance of hyperbole in view of the warnings against apostasy (see {S:05800501100000-05800601200000}). Therefore, one may translate ἀδύνατον in {S:05800600400002} as ‘it is extremely difficult to.’ TEV introduces a rhetorical question to express strong doubt, “for how can those who abandon their faith be brought back to repent again?”</Comments>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04001902600020</LEXReference>
+            <LEXReference>04101002700016</LEXReference>
+            <LEXReference>04201802700010</LEXReference>
+            <LEXReference>04500800300006</LEXReference>
+            <LEXReference>05800600400002</LEXReference>
+            <LEXReference>05800601800016{N:001}</LEXReference>
+            <LEXReference>05801000400002</LEXReference>
+            <LEXReference>05801100600008</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

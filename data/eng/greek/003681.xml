@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="003681000000000" Lemma="οὐσία" Version="0" HasAramaic="false" InLXX="true" AlphaPos="ο">
+  <StrongCodes>
+    <Strong>G3776</Strong>
+  </StrongCodes>
+  <Authors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes/>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="003681001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>noun, f.</PartOfSpeech>
+      </PartsOfSpeech>
+      <Inflections>
+        <Inflection Lemma="οὐσία" BaseFormIndex="1">
+          <Form/>
+          <Realizations>
+            <Realization>-ας</Realization>
+          </Realizations>
+          <Comments/>
+        </Inflection>
+      </Inflections>
+      <RelatedLemmas>
+        <RelatedLemma>
+          <Word>εἰμί</Word>
+        </RelatedLemma>
+      </RelatedLemmas>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="003681001001000" IsBiblicalTerm="M" EntryCode="57.19" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Possess, Transfer, Exchange</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Have, Possess, Property, Owner</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2022-01-28 13:38:38" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>(derivative of {L:εἰμί&lt;SDBG:εἰμί:000002&gt;}[c] ‘to exist,’ {D:13.69}) that which exists as property and wealth</DefinitionShort>
+              <Glosses>
+                <Gloss>property</Gloss>
+                <Gloss>wealth</Gloss>
+              </Glosses>
+              <Comments>In most contexts in which οὐσία occurs in non-biblical Greek, the reference is to considerable possessions or wealth, and accordingly it would be appropriate in {S:04201501200030} to speak of ‘estate.’</Comments>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04201501200030</LEXReference>
+            <LEXReference>04201501300038</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

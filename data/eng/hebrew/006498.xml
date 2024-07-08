@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="006498000000000" Lemma="קמט" Version="5" HasAramaic="false" InLXX="false" AlphaPos="ק">
+  <StrongCodes>
+    <Strong>H7059</Strong>
+  </StrongCodes>
+  <Authors>
+    <Author>Graham S. Ogden</Author>
+  </Authors>
+  <Contributors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes>
+    <Note Caller="1" LanguageCode="en" LastEdited="" LastEditedBy="">
+      <References>
+        <Reference>01801600800004</Reference>
+      </References>
+      <Content>{A:NIV} {A:GNT} [1] | {A:HOTTP}-B {A:RSV} {A:NJPS} {A:NRSV} {A:CEV} [2] | {A:NJB} "to round on someone" | {A:REB} "to come forward"</Content>
+    </Note>
+    <Note Caller="2" LanguageCode="en" LastEdited="" LastEditedBy="">
+      <References>
+        <Reference>01802201600004</Reference>
+      </References>
+      <Content>{A:RSV} {A:NIV} {A:NJB} {A:NRSV} {A:REB} {A:GNT} {A:CEV} [1] | {A:NJPS} [2]</Content>
+    </Note>
+  </Notes>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="006498001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>vb</PartOfSpeech>
+      </PartsOfSpeech>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="006498001001000" IsBiblicalTerm="Y" EntryCode="" Indent="0">
+          <LEXDomains>
+            <LEXDomain Code="002003001010">Hold</LEXDomain>
+          </LEXDomains>
+          <LEXForms>
+            <LEXForm>vbqal-</LEXForm>
+            <LEXForm>vbpual (passive)</LEXForm>
+          </LEXForms>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2011-01-26 18:18:53" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>= causative action by which deities take hold of humans ► in order to harm them</DefinitionShort>
+              <Glosses>
+                <Gloss>to seize</Gloss>
+                <Gloss>to snatch away</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>01801600800004{N:001}</LEXReference>
+            <LEXReference>01802201600004{N:002}</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+          <LEXCoreDomains>
+            <LEXCoreDomain Code="040">Control</LEXCoreDomain>
+            <LEXCoreDomain Code="196">Well-Being</LEXCoreDomain>
+            <LEXCoreDomain Code="140">Recompense</LEXCoreDomain>
+          </LEXCoreDomains>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+    <BaseForm Id="006498002000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>vb</PartOfSpeech>
+      </PartsOfSpeech>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="006498002001000" IsBiblicalTerm="Y" EntryCode="" Indent="0">
+          <LEXDomains>
+            <LEXDomain Code="002001001048">Shape</LEXDomain>
+          </LEXDomains>
+          <LEXForms>
+            <LEXForm>vbqal-</LEXForm>
+            <LEXForm>vbpual (passive)</LEXForm>
+          </LEXForms>
+          <LEXValencies>
+            <LEXValency>v X</LEXValency>
+          </LEXValencies>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2011-01-26 18:18:53" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>= causative action by which deities cause the skin of humans to shrivel or dry up ◄ as a result of a bad health</DefinitionShort>
+              <Glosses>
+                <Gloss>to cause to wrinkle</Gloss>
+                <Gloss>to cause to shrivel up</Gloss>
+                <Gloss>to cause to dry up</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>01801600800004{N:001}</LEXReference>
+            <LEXReference>01802201600004{N:002}</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+          <LEXCoreDomains>
+            <LEXCoreDomain Code="019">Body</LEXCoreDomain>
+            <LEXCoreDomain Code="076">Health and Sickness</LEXCoreDomain>
+            <LEXCoreDomain Code="196">Well-Being</LEXCoreDomain>
+            <LEXCoreDomain Code="140">Recompense</LEXCoreDomain>
+            <LEXCoreDomain Code="055">Divine</LEXCoreDomain>
+          </LEXCoreDomains>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

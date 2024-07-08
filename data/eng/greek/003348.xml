@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="003348000000000" Lemma="μορφή" Version="0" HasAramaic="false" InLXX="true" AlphaPos="μ">
+  <StrongCodes>
+    <Strong>G3444</Strong>
+  </StrongCodes>
+  <Authors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes/>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="003348001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>noun, f.</PartOfSpeech>
+      </PartsOfSpeech>
+      <Inflections>
+        <Inflection Lemma="μορφή" BaseFormIndex="1">
+          <Form/>
+          <Realizations>
+            <Realization>-ῆς</Realization>
+          </Realizations>
+          <Comments/>
+        </Inflection>
+      </Inflections>
+      <RelatedLemmas>
+        <RelatedLemma>
+          <Word>μορφόω</Word>
+        </RelatedLemma>
+      </RelatedLemmas>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="003348001001000" IsBiblicalTerm="Y" EntryCode="58.2" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Nature, Class, Example</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Nature, Character</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-12-09 13:59:51" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>the nature or character of something, with emphasis upon both the internal and external form</DefinitionShort>
+              <Glosses>
+                <Gloss>nature</Gloss>
+                <Gloss>character</Gloss>
+              </Glosses>
+              <Comments>In view of the lack of a closely corresponding lexical item such as ‘nature,’ it may be necessary to restructure the form of {S:05000200700008} as ‘he became truly a servant.’</Comments>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>05000200600006</LEXReference>
+            <LEXReference>05000200700008</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+        <LEXMeaning Id="003348001002000" IsBiblicalTerm="Y" EntryCode="58.15" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Nature, Class, Example</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Appearance as an Outward Manifestation of Form</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-12-09 13:59:51" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>a visual form of something</DefinitionShort>
+              <Glosses>
+                <Gloss>visual form</Gloss>
+                <Gloss>appearance</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04101601200022</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

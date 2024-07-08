@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="004714000000000" Lemma="σῦκον" Version="0" HasAramaic="false" InLXX="true" AlphaPos="σ">
+  <StrongCodes>
+    <Strong>G4810</Strong>
+  </StrongCodes>
+  <Authors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes/>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="004714001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>noun, n.</PartOfSpeech>
+      </PartsOfSpeech>
+      <Inflections>
+        <Inflection Lemma="σῦκον" BaseFormIndex="1">
+          <Form/>
+          <Realizations>
+            <Realization>-ου</Realization>
+          </Realizations>
+          <Comments/>
+        </Inflection>
+      </Inflections>
+      <RelatedLemmas>
+        <RelatedLemma>
+          <Word>συκάμινος</Word>
+        </RelatedLemma>
+        <RelatedLemma>
+          <Word>συκῆ</Word>
+        </RelatedLemma>
+        <RelatedLemma>
+          <Word>συκομορέα</Word>
+        </RelatedLemma>
+        <RelatedLemma>
+          <Word>συκοφαντέω</Word>
+        </RelatedLemma>
+      </RelatedLemmas>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="004714001001000" IsBiblicalTerm="M" EntryCode="3.36" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Plants</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Fruit Parts of Plants</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2022-03-09 12:18:12" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>the fruit of the fig tree</DefinitionShort>
+              <Glosses>
+                <Gloss>fig</Gloss>
+              </Glosses>
+              <Comments>As in the case of the corresponding term for the fig tree ({D:3.5}), it may be best to borrow a term for fig and add a classifier, for example, ‘fruit called fig.’</Comments>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04000701600030</LEXReference>
+            <LEXReference>04101101300058</LEXReference>
+            <LEXReference>04200604400028</LEXReference>
+            <LEXReference>05900301200020</LEXReference>
+          </LEXReferences>
+          <LEXLinks>
+            <LEXLink>flora:2.6</LEXLink>
+          </LEXLinks>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

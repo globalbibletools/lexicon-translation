@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="000235000000000" Lemma="אֶזְרָח" Version="5" HasAramaic="false" InLXX="false" AlphaPos="א">
+  <StrongCodes>
+    <Strong>H0249</Strong>
+  </StrongCodes>
+  <Authors>
+    <Author>Enio R. Mueller</Author>
+  </Authors>
+  <Contributors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes>
+    <Note Caller="1" LanguageCode="en" LastEdited="" LastEditedBy="">
+      <References>
+        <Reference>00302304200018</Reference>
+      </References>
+      <Content>This is the only occurrence in the MT (except PSA 37:35) in which אֶזְרָח is not paralleled by {L:גֵר&lt;SDBH:גֵּר&gt;} | for an explanation, see Milgrom</Content>
+    </Note>
+    <Note Caller="2" LanguageCode="en" LastEdited="" LastEditedBy="">
+      <References>
+        <Reference>01903703500014</Reference>
+      </References>
+      <Content>MT HOTTP-B אֶזְרָח רַעְַנָן NIV "a green tree in its native soil" NJPS "a robust native tree" REB "a spreading tree in its native soil" CEV strong like trees in rich soil" | RSV NJB NRSV GNT "a cedar of Lebanon" = {L:ארז&lt;SDBH:אֶרֶז&gt;} הלבנון</Content>
+    </Note>
+  </Notes>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="000235001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>nsm</PartOfSpeech>
+      </PartsOfSpeech>
+      <RelatedLemmas>
+        <RelatedLemma>
+          <Word>זרח</Word>
+        </RelatedLemma>
+      </RelatedLemmas>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="000235001001000" IsBiblicalTerm="Y" EntryCode="" Indent="0">
+          <LEXDomains>
+            <LEXDomain Code="001001002003001">Classes</LEXDomain>
+          </LEXDomains>
+          <LEXAntonyms>
+            <LEXAntonym>גֵּר</LEXAntonym>
+          </LEXAntonyms>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2016-03-30 11:13:54" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>= person born in the land, as opposed to the {L:resident alien&lt;SDBH:גֵּר&gt;}</DefinitionShort>
+              <Glosses>
+                <Gloss>native-born</Gloss>
+                <Gloss>citizen</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>00201201900052</LEXReference>
+            <LEXReference>00201204800046</LEXReference>
+            <LEXReference>00201204900012</LEXReference>
+            <LEXReference>00301602900054</LEXReference>
+            <LEXReference>00301701500022</LEXReference>
+            <LEXReference>00301802600038</LEXReference>
+            <LEXReference>00301903400004</LEXReference>
+            <LEXReference>00302304200018{N:001}</LEXReference>
+            <LEXReference>00302401600036</LEXReference>
+            <LEXReference>00302402200020</LEXReference>
+            <LEXReference>00400901400060</LEXReference>
+            <LEXReference>00401501300006</LEXReference>
+            <LEXReference>00401502900004</LEXReference>
+            <LEXReference>00401503000022</LEXReference>
+            <LEXReference>00600803300066</LEXReference>
+            <LEXReference>02604702200050</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+          <LEXCoreDomains>
+            <LEXCoreDomain Code="032">Citizen vs. Foreigner</LEXCoreDomain>
+          </LEXCoreDomains>
+        </LEXMeaning>
+        <LEXMeaning Id="000235001002000" IsBiblicalTerm="Y" EntryCode="" Indent="0">
+          <LEXDomains>
+            <LEXDomain Code="001003002" Source="Classes" SourceCode="001001002003001">Trees</LEXDomain>
+          </LEXDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2016-03-30 11:13:54" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>= tree that grows in its natural habitat; ≈ associated with well-being</DefinitionShort>
+              <Glosses>
+                <Gloss>native tree</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>01903703500014{N:002}</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+          <LEXCoreDomains>
+            <LEXCoreDomain Code="125">Plant</LEXCoreDomain>
+          </LEXCoreDomains>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

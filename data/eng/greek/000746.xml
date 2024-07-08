@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="000746000000000" Lemma="ἀρχιποίμην" Version="0" HasAramaic="false" InLXX="false" AlphaPos="α">
+  <StrongCodes>
+    <Strong>G0750</Strong>
+  </StrongCodes>
+  <Authors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes>
+    <Note Caller="1" LanguageCode="en" LastEdited="" LastEditedBy="">
+      <References>
+        <Reference>06000500400008</Reference>
+      </References>
+      <Content>The occurrence of ἀρχιποίμην ‘chief shepherd’ in {S:06000500400008} is an excellent example of figurative usage. There is no indication that by the time 1 Peter was written ἀρχιποίμην had acquired the conventional meaning of a title designating Christ as one who had principal responsibility for believers. The meaning of ἀρχιποίμην, therefore, is simply ‘chief shepherd,’ but the reference is to Christ in a function which does not involve the literal care of sheep.</Content>
+    </Note>
+  </Notes>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="000746001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>noun, m.</PartOfSpeech>
+      </PartsOfSpeech>
+      <Inflections>
+        <Inflection Lemma="ἀρχιποίμην" BaseFormIndex="1">
+          <Form/>
+          <Realizations>
+            <Realization>-ενος</Realization>
+          </Realizations>
+          <Comments/>
+        </Inflection>
+      </Inflections>
+      <Constructs>
+        <Construct Lemma="ἀρχιποίμην" BaseFormIndex="1">
+          <WordMeaningSet>
+            <Word>ἄρχω</Word>
+          </WordMeaningSet>
+          <WordMeaningSet>
+            <Word>ποιμαίνω</Word>
+          </WordMeaningSet>
+        </Construct>
+      </Constructs>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="000746001001000" IsBiblicalTerm="M" EntryCode="44.5" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Animal Husbandry, Fishing</LEXDomain>
+          </LEXDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-08-17 12:06:04" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>the head shepherd who directs the activities of other shepherds (in its only NT occurrence; a figurative reference to Christ)</DefinitionShort>
+              <Glosses>
+                <Gloss>chief shepherd</Gloss>
+                <Gloss>head shepherd</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>06000500400008{N:001}</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

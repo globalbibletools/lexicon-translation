@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="004590000000000" Lemma="σπεκουλάτωρ" Version="0" HasAramaic="false" InLXX="false" AlphaPos="σ">
+  <StrongCodes>
+    <Strong>G4688</Strong>
+  </StrongCodes>
+  <Authors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes/>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="004590001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>noun, m.</PartOfSpeech>
+      </PartsOfSpeech>
+      <Inflections>
+        <Inflection Lemma="σπεκουλάτωρ" BaseFormIndex="1">
+          <Form/>
+          <Realizations>
+            <Realization>-ορος</Realization>
+          </Realizations>
+          <Comments/>
+        </Inflection>
+      </Inflections>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="004590001001000" IsBiblicalTerm="Y" EntryCode="33.196" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Communication</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Inform, Announce</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2022-02-12 15:39:38" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>a soldier who acts as a courier to carry confidential information</DefinitionShort>
+              <Glosses>
+                <Gloss>courier</Gloss>
+                <Gloss>messenger</Gloss>
+              </Glosses>
+              <Comments>In {S:04100602700012} σπεκουλάτωρ may also have the meaning of ‘executioner’ (see {D:20.70}).</Comments>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04100602700012</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+        <LEXMeaning Id="004590001002000" IsBiblicalTerm="Y" EntryCode="20.70" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Violence, Harm, Destroy, Kill</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Kill</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2022-02-12 15:39:38" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>one who carries out official executions on the basis of orders from military or government officials</DefinitionShort>
+              <Glosses>
+                <Gloss>executioner</Gloss>
+              </Glosses>
+              <Comments>It is also possible to interpret {L:σπεκουλάτωρ&lt;SDBG:σπεκουλάτωρ:000000&gt;} (a borrowing from Latin) as meaning ‘courier,’ possibly a soldier who had special duties to carry messages of a confidential nature (see {D:33.196}).</Comments>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04100602700012</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="000225000000000" Lemma="ἀληθῶς" Version="0" HasAramaic="false" InLXX="true" AlphaPos="α">
+  <StrongCodes>
+    <Strong>G0230</Strong>
+  </StrongCodes>
+  <Authors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes>
+    <Note Caller="1" LanguageCode="en" LastEdited="" LastEditedBy="">
+      <References/>
+      <Content>It would seem that the meanings of items in subdomains {D:70.1}-{D:70.4} (ὅλως[b], ὄντως, ἀληθής[b], ἀληθινός[a], ἀληθῶς, and idioms with ἀλήθεια) do reflect certain subtle differences, but it is not at all easy to determine precisely how they differ.</Content>
+    </Note>
+  </Notes>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="000225001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>advb.</PartOfSpeech>
+      </PartsOfSpeech>
+      <Constructs>
+        <Construct Lemma="ἀληθῶς" BaseFormIndex="1">
+          <WordMeaningSet>
+            <Word>ἀ-</Word>
+          </WordMeaningSet>
+          <WordMeaningSet>
+            <Word>λήθω</Word>
+          </WordMeaningSet>
+        </Construct>
+      </Constructs>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="000225001001000" IsBiblicalTerm="M" EntryCode="70.3" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Real, Unreal</LEXDomain>
+          </LEXDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-05-23 19:45:42" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>pertaining to being real and not imaginary{N:001}</DefinitionShort>
+              <Glosses>
+                <Gloss>real</Gloss>
+                <Gloss>really</Gloss>
+                <Gloss>true</Gloss>
+                <Gloss>truly</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04001403300018</LEXReference>
+            <LEXReference>04002607300020</LEXReference>
+            <LEXReference>04002705400040</LEXReference>
+            <LEXReference>04101407000028</LEXReference>
+            <LEXReference>04101503900028</LEXReference>
+            <LEXReference>04200902700008</LEXReference>
+            <LEXReference>04201204400002</LEXReference>
+            <LEXReference>04202100300006</LEXReference>
+            <LEXReference>04300104700028</LEXReference>
+            <LEXReference>04300404200040</LEXReference>
+            <LEXReference>04300601400024</LEXReference>
+            <LEXReference>04300702600020</LEXReference>
+            <LEXReference>04300704000024</LEXReference>
+            <LEXReference>04300803100036</LEXReference>
+            <LEXReference>04301700800028</LEXReference>
+            <LEXReference>04401201100020</LEXReference>
+            <LEXReference>05200201300050</LEXReference>
+            <LEXReference>06200200500016</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

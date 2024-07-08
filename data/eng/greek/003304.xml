@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="003304000000000" Lemma="μίγνυμι" Version="0" HasAramaic="false" InLXX="false" AlphaPos="μ">
+  <StrongCodes>
+    <Strong>G3396</Strong>
+  </StrongCodes>
+  <Authors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes/>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="003304001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>verb</PartOfSpeech>
+      </PartsOfSpeech>
+      <Inflections>
+        <Inflection Lemma="μίγνυμι" BaseFormIndex="1">
+          <Form>aor.</Form>
+          <Realizations>
+            <Realization>ἔμιξα</Realization>
+          </Realizations>
+          <Comments/>
+        </Inflection>
+        <Inflection Lemma="μίγνυμι" BaseFormIndex="1">
+          <Form>pf.pass.</Form>
+          <Realizations>
+            <Realization>μέμιγμαι</Realization>
+          </Realizations>
+          <Comments/>
+        </Inflection>
+      </Inflections>
+      <RelatedLemmas>
+        <RelatedLemma>
+          <Word>μίγμα</Word>
+        </RelatedLemma>
+        <RelatedLemma>
+          <Word>συναναμίγνυμι</Word>
+        </RelatedLemma>
+      </RelatedLemmas>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="003304001001000" IsBiblicalTerm="Y" EntryCode="63.10" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Whole, Unite, Part, Divide</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Mix</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-12-07 11:01:00" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>to mix or mingle, either of liquids or solids, often involving substances which do not normally go together</DefinitionShort>
+              <Glosses>
+                <Gloss>to mix</Gloss>
+                <Gloss>to mingle</Gloss>
+              </Glosses>
+              <Comments>This statement in {S:04201300100034} must be understood figuratively, and it can often be best translated as ‘Pilate caused them to be killed while they were offering sacrifices to God’ or ‘Pilate ordered them to be slain while they were sacrificing.’</Comments>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04002703400014</LEXReference>
+            <LEXReference>04201300100034</LEXReference>
+            <LEXReference>06600800700020</LEXReference>
+            <LEXReference>06601500200012</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

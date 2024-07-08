@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="007225000000000" Lemma="שֹׁואָה" Version="4" HasAramaic="false" InLXX="false" AlphaPos="ש">
+  <StrongCodes>
+    <Strong>H7584</Strong>
+    <Strong>H7722b</Strong>
+  </StrongCodes>
+  <Authors>
+    <Author>Reinier de Blois</Author>
+  </Authors>
+  <Contributors/>
+  <AlternateLemmas>
+    <AlternateLemma>שֹׁאָה</AlternateLemma>
+    <AlternateLemma>שׁאוה</AlternateLemma>
+  </AlternateLemmas>
+  <MainLinks/>
+  <Notes>
+    <Note Caller="1" LanguageCode="en" LastEdited="" LastEditedBy="">
+      <References>
+        <Reference>02000102700008</Reference>
+      </References>
+      <Content>MT-K כשׁאוה | MT-Q כְשֹׁואָה</Content>
+    </Note>
+  </Notes>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="007225001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>nsf</PartOfSpeech>
+      </PartsOfSpeech>
+      <RelatedLemmas>
+        <RelatedLemma>
+          <Word>שׁאה</Word>
+        </RelatedLemma>
+      </RelatedLemmas>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="007225001001000" IsBiblicalTerm="Y" EntryCode="" Indent="0">
+          <LEXDomains>
+            <LEXDomain Code="002001001023">Impact</LEXDomain>
+          </LEXDomains>
+          <LEXCollocations>
+            <LEXCollocation>שֹׁואָה וּמְשֹׁואָה</LEXCollocation>
+          </LEXCollocations>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2022-03-24 10:49:17" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>= state in which buildings and infrastructure have been totally destroyed</DefinitionShort>
+              <Glosses>
+                <Gloss>total desolation</Gloss>
+                <Gloss>total destruction</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>01803000300022</LEXReference>
+            <LEXReference>01803802700006</LEXReference>
+            <LEXReference>03600101500024</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+        <LEXMeaning Id="007225001002000" IsBiblicalTerm="Y" EntryCode="" Indent="0">
+          <LEXDomains>
+            <LEXDomain Code="001006001" Source="Impact" SourceCode="002001001023">Air</LEXDomain>
+          </LEXDomains>
+          <LEXSynonyms>
+            <LEXSynonym>סוּפָה</LEXSynonym>
+          </LEXSynonyms>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2022-03-24 10:49:17" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>literally: destruction; hence: = a strong wind that destroys everything in its way</DefinitionShort>
+              <Glosses>
+                <Gloss>devastating storm</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>02000102700008{N:001}</LEXReference>
+            <LEXReference>02000102700012</LEXReference>
+            <LEXReference>02603800900010</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+        <LEXMeaning Id="007225001003000" IsBiblicalTerm="Y" EntryCode="" Indent="0">
+          <LEXDomains>
+            <LEXDomain Code="002003003021" Source="Impact" SourceCode="002001001023">Unsafe</LEXDomain>
+          </LEXDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2022-03-24 10:49:17" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>literally: destruction; hence: = an event that has a great negative impact on one's life, possessions and well-being</DefinitionShort>
+              <Glosses>
+                <Gloss>calamity</Gloss>
+                <Gloss>disaster</Gloss>
+                <Gloss>ruin</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>01903500800004</LEXReference>
+            <LEXReference>01903500800022</LEXReference>
+            <LEXReference>01906301000008</LEXReference>
+            <LEXReference>02301000300018</LEXReference>
+            <LEXReference>02304701100038</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+          <LEXCoreDomains>
+            <LEXCoreDomain Code="196">Well-Being</LEXCoreDomain>
+          </LEXCoreDomains>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

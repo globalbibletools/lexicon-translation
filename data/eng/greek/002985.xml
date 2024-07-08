@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="002985000000000" Lemma="κώμη" Version="0" HasAramaic="false" InLXX="true" AlphaPos="κ">
+  <StrongCodes>
+    <Strong>G2968</Strong>
+  </StrongCodes>
+  <Authors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes>
+    <Note Caller="1" LanguageCode="en" LastEdited="" LastEditedBy="">
+      <References/>
+      <Content>It is possible that in the case of such meanings as τόπος[f] ({D:11.59}), πόλις[c] ({D:11.61}), κώμη[b] ({D:11.62}), and χώρα[e] ({D:11.64}) one should count on certain more or less automatic semantic rules by which the meaning of inhabitants could be derived by metonymy from expressions of place. Since, however, such metonymic developments are far from universal, the distinct meanings are listed here as a practical guide to translators. The same type of problem occurs with Ιεροσόλυμα ‘Jerusalem,’  Ἰουδαία ‘Judea,’ and περίχωρος ‘region’ in {S:04000300500000}.</Content>
+    </Note>
+  </Notes>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="002985001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>noun, f.</PartOfSpeech>
+      </PartsOfSpeech>
+      <Inflections>
+        <Inflection Lemma="κώμη" BaseFormIndex="1">
+          <Form/>
+          <Realizations>
+            <Realization>-ης</Realization>
+          </Realizations>
+          <Comments/>
+        </Inflection>
+      </Inflections>
+      <RelatedLemmas>
+        <RelatedLemma>
+          <Word>κωμόπολις</Word>
+        </RelatedLemma>
+        <RelatedLemma>
+          <Word>κῶμος</Word>
+        </RelatedLemma>
+      </RelatedLemmas>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="002985001001000" IsBiblicalTerm="M" EntryCode="1.92" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Geographical Objects and Features</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Population Centers</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-10-29 12:12:38" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>a relatively unimportant population center (in contrast with {L:πόλις&lt;SDBG:πόλις:000001&gt;}[b] ‘city,’ {D:1.89})</DefinitionShort>
+              <Glosses>
+                <Gloss>village</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04000903500020</LEXReference>
+            <LEXReference>04001001100014</LEXReference>
+            <LEXReference>04001401500050</LEXReference>
+            <LEXReference>04002100200012</LEXReference>
+            <LEXReference>04100600600020</LEXReference>
+            <LEXReference>04100603600020</LEXReference>
+            <LEXReference>04100605600012</LEXReference>
+            <LEXReference>04100802300022</LEXReference>
+            <LEXReference>04100802600022</LEXReference>
+            <LEXReference>04100802700022</LEXReference>
+            <LEXReference>04101100200014</LEXReference>
+            <LEXReference>04200501700044</LEXReference>
+            <LEXReference>04200800100024</LEXReference>
+            <LEXReference>04200900600012</LEXReference>
+            <LEXReference>04200901200040</LEXReference>
+            <LEXReference>04200905200022</LEXReference>
+            <LEXReference>04200905600010</LEXReference>
+            <LEXReference>04201003800018</LEXReference>
+            <LEXReference>04201302200012</LEXReference>
+            <LEXReference>04201701200012</LEXReference>
+            <LEXReference>04201903000012</LEXReference>
+            <LEXReference>04202401300026</LEXReference>
+            <LEXReference>04202402800010</LEXReference>
+            <LEXReference>04300704200028</LEXReference>
+            <LEXReference>04301100100020</LEXReference>
+            <LEXReference>04301103000016</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+        <LEXMeaning Id="002985001002000" IsBiblicalTerm="M" EntryCode="11.62" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Groups and Classes of Persons and Members of Such Groups and Classes</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Socio-Political</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-10-29 12:12:38" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>the inhabitants of a village{N:001}</DefinitionShort>
+              <Glosses>
+                <Gloss>the people there</Gloss>
+                <Gloss>the people of a village</Gloss>
+              </Glosses>
+              <Comments>Though in English it may seem perfectly appropriate to speak of ‘announcing the good news to a town’ or ‘… a village,’ in a number of languages this is simply not possible, for any announcement of good news must be directed to people and not to a place or area.</Comments>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04400802500032</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

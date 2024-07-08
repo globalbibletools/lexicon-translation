@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="003396000000000" Lemma="ναῦς" Version="0" HasAramaic="false" InLXX="true" AlphaPos="ν">
+  <StrongCodes>
+    <Strong>G3491</Strong>
+  </StrongCodes>
+  <Authors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes/>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="003396001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>noun, f.</PartOfSpeech>
+      </PartsOfSpeech>
+      <Inflections>
+        <Inflection Lemma="ναῦς" BaseFormIndex="1">
+          <Form>acc.</Form>
+          <Realizations>
+            <Realization>ναῦν</Realization>
+          </Realizations>
+          <Comments/>
+        </Inflection>
+      </Inflections>
+      <RelatedLemmas>
+        <RelatedLemma>
+          <Word>ναυαγέω</Word>
+        </RelatedLemma>
+        <RelatedLemma>
+          <Word>ναύκληρος</Word>
+        </RelatedLemma>
+        <RelatedLemma>
+          <Word>ναῦτης</Word>
+        </RelatedLemma>
+      </RelatedLemmas>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="003396001001000" IsBiblicalTerm="M" EntryCode="6.43" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Artifacts</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Boats and Parts of Boats</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-12-09 16:37:20" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>a larger ocean-going vessel used for transporting cargo and people</DefinitionShort>
+              <Glosses>
+                <Gloss>ship</Gloss>
+              </Glosses>
+              <Comments>The term ναῦς occurs in the NT only in {S:04402704100016}, where it refers to the ship which was wrecked at Malta. See {D:6.42}.</Comments>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04402704100016</LEXReference>
+          </LEXReferences>
+          <LEXLinks>
+            <LEXLink>realia:8.1</LEXLink>
+          </LEXLinks>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

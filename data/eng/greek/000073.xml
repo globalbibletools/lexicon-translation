@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="000073000000000" Lemma="ἀγών" Version="0" HasAramaic="false" InLXX="true" AlphaPos="α">
+  <StrongCodes>
+    <Strong>G0073</Strong>
+  </StrongCodes>
+  <Authors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes/>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="000073001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>noun, m.</PartOfSpeech>
+      </PartsOfSpeech>
+      <Inflections>
+        <Inflection Lemma="ἀγών" BaseFormIndex="1">
+          <Form/>
+          <Realizations>
+            <Realization>-ῶνος</Realization>
+          </Realizations>
+          <Comments/>
+        </Inflection>
+      </Inflections>
+      <RelatedLemmas>
+        <RelatedLemma>
+          <Word>ἀγωνίζομαι</Word>
+        </RelatedLemma>
+      </RelatedLemmas>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="000073001001000" IsBiblicalTerm="Y" EntryCode="39.29" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Hostility, Strife</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Strife, Struggle</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-02-01 15:24:11" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>to engage in intense struggle, involving physical or nonphysical force against strong opposition</DefinitionShort>
+              <Glosses>
+                <Gloss>to struggle</Gloss>
+                <Gloss>to fight</Gloss>
+              </Glosses>
+              <Comments>In a number of languages a marked distinction is made between physical fighting and nonphysical contending with someone. It is therefore often impossible to carry over any terminology involving war or physical struggling to contexts in which one is speaking of interpersonal hostility or contention.</Comments>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>05000103000006</LEXReference>
+            <LEXReference>05100200100012</LEXReference>
+            <LEXReference>05200200200046</LEXReference>
+            <LEXReference>05500400700006</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+        <LEXMeaning Id="000073001002000" IsBiblicalTerm="Y" EntryCode="50.4" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Contests and Play</LEXDomain>
+          </LEXDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-02-01 15:24:11" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>a race involving competition and struggle</DefinitionShort>
+              <Glosses>
+                <Gloss>race</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>05200200200046</LEXReference>
+            <LEXReference>05400601200008</LEXReference>
+            <LEXReference>05500400700006</LEXReference>
+            <LEXReference>05801200100046</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

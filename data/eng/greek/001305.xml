@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="001305000000000" Lemma="διασπορά" Version="0" HasAramaic="false" InLXX="true" AlphaPos="δ">
+  <StrongCodes>
+    <Strong>G1290</Strong>
+  </StrongCodes>
+  <Authors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes/>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="001305001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>noun, f.</PartOfSpeech>
+      </PartsOfSpeech>
+      <Inflections>
+        <Inflection Lemma="διασπορά" BaseFormIndex="1">
+          <Form/>
+          <Realizations>
+            <Realization>-ᾶς</Realization>
+          </Realizations>
+          <Comments/>
+        </Inflection>
+      </Inflections>
+      <RelatedLemmas>
+        <RelatedLemma>
+          <Word>σπείρω</Word>
+        </RelatedLemma>
+      </RelatedLemmas>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="001305001001000" IsBiblicalTerm="M" EntryCode="15.137" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Linear Movement</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Disperse, Scatter</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-06-07 20:37:09" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>(derivative of {L:διασπείρω&lt;SDBG:διασπείρω:000000&gt;} ‘to scatter,’ {D:15.136}) the region or area in which persons have been scattered (particularly a reference to the nation of Israel which had been scattered throughout the ancient world)</DefinitionShort>
+              <Glosses>
+                <Gloss>region in which people are scattered</Gloss>
+                <Gloss>diaspora</Gloss>
+              </Glosses>
+              <Comments>For the most part, the phrase ταῖς δώδεκα φυλαῖς in {S:05900100100028} has been interpreted as a reference to believers in Christ. In translating, one may render the term διασπορά as ‘in all the regions where they have been scattered,’ thus rendering this expression in {S:05900100100028} as ‘greetings to all of God’s people in all of the regions in which they have been scattered.’</Comments>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04300703500038</LEXReference>
+            <LEXReference>05900100100028</LEXReference>
+            <LEXReference>06000100100014</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

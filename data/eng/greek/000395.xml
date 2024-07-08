@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="000395000000000" Lemma="ἀνατέλλω" Version="0" HasAramaic="false" InLXX="true" AlphaPos="α">
+  <StrongCodes>
+    <Strong>G0393</Strong>
+  </StrongCodes>
+  <Authors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes/>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="000395001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>verb</PartOfSpeech>
+      </PartsOfSpeech>
+      <Inflections>
+        <Inflection Lemma="ἀνατέλλω" BaseFormIndex="1">
+          <Form>aor.</Form>
+          <Realizations>
+            <Realization>ἀνέτειλα</Realization>
+          </Realizations>
+          <Comments/>
+        </Inflection>
+        <Inflection Lemma="ἀνατέλλω" BaseFormIndex="1">
+          <Form>pf.</Form>
+          <Realizations>
+            <Realization>ἀνατέταλκα</Realization>
+          </Realizations>
+          <Comments/>
+        </Inflection>
+      </Inflections>
+      <RelatedLemmas>
+        <RelatedLemma>
+          <Word>τέλλω</Word>
+          <Meaning LanguageCode="en">
+            <Meaning>cause to rise</Meaning>
+          </Meaning>
+          <Meaning LanguageCode="zhT">
+            <Meaning>使……起來</Meaning>
+          </Meaning>
+        </RelatedLemma>
+        <RelatedLemma>
+          <Word>ἀνατολή</Word>
+        </RelatedLemma>
+        <RelatedLemma>
+          <Word>ἐξανατέλλω</Word>
+        </RelatedLemma>
+      </RelatedLemmas>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="000395001001000" IsBiblicalTerm="Y" EntryCode="15.104" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Linear Movement</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Come/Go Up, Ascend</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-08-05 15:22:41" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>to move up, especially of the upward movement of the sun, stars, or clouds</DefinitionShort>
+              <Glosses>
+                <Gloss>to come up</Gloss>
+                <Gloss>to move upward</Gloss>
+                <Gloss>to rise</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04000504500028</LEXReference>
+            <LEXReference>04001300600006</LEXReference>
+            <LEXReference>04100400600006</LEXReference>
+            <LEXReference>04101600200024</LEXReference>
+            <LEXReference>04201205400020</LEXReference>
+            <LEXReference>05900101100002</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+        <LEXMeaning Id="000395001002000" IsBiblicalTerm="Y" EntryCode="14.41" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Physical Events and States</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Light</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-08-05 15:22:41" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>to change from darkness to light in the early morning hours</DefinitionShort>
+              <Glosses>
+                <Gloss>to dawn</Gloss>
+                <Gloss>to become light</Gloss>
+              </Glosses>
+              <Comments>In some languages dawning is divided into more than one aspect or period of time. The first may be only a glimmering of light in the east; the second period makes visibility quite easy; and the third period involves shafts of light or colored clouds visible in the sky immediately before sunrise. Usually an expression for one of these periods of time is more generalized in usage, and therefore it is probably satisfactory to adopt such an expression for any transition from darkness to light.</Comments>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04000401600038</LEXReference>
+            <LEXReference>06100101900046</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+        <LEXMeaning Id="000395001003000" IsBiblicalTerm="Y" EntryCode="10.35" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Kinship Terms</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Kinship Relations Involving Successive Generations</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-08-05 15:22:41" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>(a figurative extension of meaning of {L:ἀνατέλλω&lt;SDBG:ἀνατέλλω:000000&gt;}[a] ‘to rise,’ as of the sun, {D:15.104}) to be an important descendant, presumably of a distinguished ancestor, normally with a number of intervening generations</DefinitionShort>
+              <Glosses>
+                <Gloss>be a descendant</Gloss>
+                <Gloss>offspring</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>05800701400012</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

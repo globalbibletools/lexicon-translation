@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="004791000000000" Lemma="σύνδεσμος" Version="0" HasAramaic="false" InLXX="true" AlphaPos="σ">
+  <StrongCodes>
+    <Strong>G4886</Strong>
+  </StrongCodes>
+  <Authors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes/>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="004791001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>noun, m.</PartOfSpeech>
+      </PartsOfSpeech>
+      <Inflections>
+        <Inflection Lemma="σύνδεσμος" BaseFormIndex="1">
+          <Form/>
+          <Realizations>
+            <Realization>-ου</Realization>
+          </Realizations>
+          <Comments/>
+        </Inflection>
+      </Inflections>
+      <RelatedLemmas>
+        <RelatedLemma>
+          <Word>δέω</Word>
+        </RelatedLemma>
+      </RelatedLemmas>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="004791001001000" IsBiblicalTerm="Y" EntryCode="18.17" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Attachment</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Fasten, Stick To</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2022-03-14 15:13:37" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>that which ties something together</DefinitionShort>
+              <Glosses>
+                <Gloss>bindings</Gloss>
+                <Gloss>bonds</Gloss>
+                <Gloss>that which ties together</Gloss>
+              </Glosses>
+              <Comments>The context of {S:05100201900030} is, however, highly figurative.</Comments>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04400802300012</LEXReference>
+            <LEXReference>05100201900030</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+        <LEXMeaning Id="004791001002000" IsBiblicalTerm="Y" EntryCode="63.7" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Whole, Unite, Part, Divide</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Unite</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2022-03-14 15:13:37" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>that which combines or brings objects and/or events together</DefinitionShort>
+              <Glosses>
+                <Gloss>to bring together</Gloss>
+                <Gloss>to bind together</Gloss>
+                <Gloss>to unite</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04900400300018</LEXReference>
+            <LEXReference>05100301400018</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

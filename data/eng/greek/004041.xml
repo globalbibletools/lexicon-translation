@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="004041000000000" Lemma="πλήρωμα" Version="0" HasAramaic="false" InLXX="true" AlphaPos="π">
+  <StrongCodes>
+    <Strong>G4138</Strong>
+  </StrongCodes>
+  <Authors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes>
+    <Note Caller="1" LanguageCode="en" LastEdited="" LastEditedBy="">
+      <References/>
+      <Content>In a number of contexts it is difficult to determine whether the meanings in {D:67.69} and {D:67.70} are primarily temporal or aspectual. If the meaning in any one context seems to focus upon the completion of an activity, then the meaning should be classified as aspectual (Domain 68 Aspect), but if the emphasis would seem to be primarily upon the end point of an activity, then one may legitimately classify these meanings as being temporal.</Content>
+    </Note>
+  </Notes>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="004041001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>noun, n.</PartOfSpeech>
+      </PartsOfSpeech>
+      <Inflections>
+        <Inflection Lemma="πλήρωμα" BaseFormIndex="1">
+          <Form/>
+          <Realizations>
+            <Realization>-τος</Realization>
+          </Realizations>
+          <Comments/>
+        </Inflection>
+      </Inflections>
+      <RelatedLemmas>
+        <RelatedLemma>
+          <Word>πληρόω</Word>
+        </RelatedLemma>
+      </RelatedLemmas>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="004041001001000" IsBiblicalTerm="Y" EntryCode="59.36" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Quantity</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Full, Empty</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-12-28 10:59:13" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>a quantity which fills a space</DefinitionShort>
+              <Glosses>
+                <Gloss>that which fills</Gloss>
+                <Gloss>contents</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04000901600026</LEXReference>
+            <LEXReference>04100202100028</LEXReference>
+            <LEXReference>04100604300012</LEXReference>
+            <LEXReference>04100802000018</LEXReference>
+            <LEXReference>04601002600016</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+        <LEXMeaning Id="004041001002000" IsBiblicalTerm="M" EntryCode="59.32" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Quantity</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>All, Any, Each, Every [Totality]</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-12-28 10:59:13" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>a total quantity, with emphasis upon completeness</DefinitionShort>
+              <Glosses>
+                <Gloss>full number</Gloss>
+                <Gloss>full measure</Gloss>
+                <Gloss>fullness</Gloss>
+                <Gloss>completeness</Gloss>
+                <Gloss>totality</Gloss>
+              </Glosses>
+              <Comments>In a number of languages it may be difficult to use a generic expression such as ‘totality.’ As a result, this clause in {S:05100200900014} must often be completely restructured, for example, ‘for Christ is completely like God’ or ‘for just what God is, that is exactly what Christ is.’</Comments>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04300101600008</LEXReference>
+            <LEXReference>04501101200034</LEXReference>
+            <LEXReference>04501102500052</LEXReference>
+            <LEXReference>04501301000016</LEXReference>
+            <LEXReference>04501502900016</LEXReference>
+            <LEXReference>04900102300014</LEXReference>
+            <LEXReference>04900301900030</LEXReference>
+            <LEXReference>04900401300048</LEXReference>
+            <LEXReference>05100101900014</LEXReference>
+            <LEXReference>05100200900014</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+        <LEXMeaning Id="004041001003000" IsBiblicalTerm="Y" EntryCode="67.69" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Time</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>A Point of Time with Reference to Duration of Time: Beginning, End</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-12-28 10:59:13" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>the totality of a period of time, with the implication of proper completion{N:001}</DefinitionShort>
+              <Glosses>
+                <Gloss>end</Gloss>
+                <Gloss>completion</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04800400400010</LEXReference>
+            <LEXReference>04900101000008</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

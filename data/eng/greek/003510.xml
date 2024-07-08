@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="003510000000000" Lemma="ὀθόνιον" Version="0" HasAramaic="false" InLXX="true" AlphaPos="ο">
+  <StrongCodes>
+    <Strong>G3608</Strong>
+  </StrongCodes>
+  <Authors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes/>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="003510001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>noun, n.</PartOfSpeech>
+      </PartsOfSpeech>
+      <Inflections>
+        <Inflection Lemma="ὀθόνιον" BaseFormIndex="1">
+          <Form/>
+          <Realizations>
+            <Realization>-ου</Realization>
+          </Realizations>
+          <Comments/>
+        </Inflection>
+      </Inflections>
+      <RelatedLemmas>
+        <RelatedLemma>
+          <Word>ὀθόνη</Word>
+        </RelatedLemma>
+      </RelatedLemmas>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="003510001001000" IsBiblicalTerm="M" EntryCode="6.154" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Artifacts</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Cloth, Leather, and Objects Made of Such Materials</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2022-01-07 13:22:32" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>a piece of linen cloth</DefinitionShort>
+              <Glosses>
+                <Gloss>linen cloth</Gloss>
+              </Glosses>
+              <Comments>In the NT ὀθόνιον occurs only in reference to strips of cloth used in preparing a corpse for burial.</Comments>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04202401200026</LEXReference>
+            <LEXReference>04301904000020</LEXReference>
+            <LEXReference>04302000500012</LEXReference>
+            <LEXReference>04302000600032</LEXReference>
+            <LEXReference>04302000700026</LEXReference>
+          </LEXReferences>
+          <LEXLinks>
+            <LEXLink>realia:1.5.3.7</LEXLink>
+          </LEXLinks>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="002547000000000" Lemma="חֶרְמֹון" Version="5" HasAramaic="false" InLXX="false" AlphaPos="ח">
+  <StrongCodes>
+    <Strong>H2768</Strong>
+    <Strong>H2769</Strong>
+  </StrongCodes>
+  <Authors>
+    <Author>Reinier de Blois</Author>
+  </Authors>
+  <Contributors/>
+  <AlternateLemmas>
+    <AlternateLemma>חֶרְמֹונִים</AlternateLemma>
+  </AlternateLemmas>
+  <MainLinks/>
+  <Notes>
+    <Note Caller="1" LanguageCode="en" LastEdited="" LastEditedBy="">
+      <References>
+        <Reference/>
+      </References>
+      <Content>{A:NJB} | MT {A:HOTTP}-C {A:RSV} {A:NIV} {A:NRSV} {A:CEV} "{L:Harmon&lt;SDBH:הַרְמֹון&gt;}" | {A:NJPS} {A:NJB} "{L:dunghill&lt;SDBH:מַדְמֵנָה&gt;}"</Content>
+    </Note>
+  </Notes>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="002547001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>np</PartOfSpeech>
+      </PartsOfSpeech>
+      <RelatedLemmas>
+        <RelatedLemma>
+          <Word>חרם</Word>
+        </RelatedLemma>
+      </RelatedLemmas>
+      <RelatedNames>
+        <RelatedName>
+          <Word>בַּעַל חֶרְמֹון</Word>
+        </RelatedName>
+      </RelatedNames>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="002547001001000" IsBiblicalTerm="M" EntryCode="" Indent="0">
+          <LEXDomains>
+            <LEXDomain Code="003001008">Names of Landforms</LEXDomain>
+          </LEXDomains>
+          <LEXSynonyms>
+            <LEXSynonym>שִׂיאֹון</LEXSynonym>
+            <LEXSynonym>שְׂנִיר</LEXSynonym>
+            <LEXSynonym>שִׂרְיֹון</LEXSynonym>
+          </LEXSynonyms>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2016-02-18 16:25:37" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>= mountain, also known as {L:Senir&lt;SDBH:שְׂנִיר&gt;}, {L:Sion&lt;SDBH:שִׂיאֹון&gt;}, and  {L:Sirion&lt;SDBH:שִׂרְיֹון&gt;}; ◄ part of the Anti-Lebanon range; located north-east of {L:Israel&lt;SDBH:יִשְׂרָאֵל&gt;}</DefinitionShort>
+              <Glosses>
+                <Gloss>Hermon</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>00500300800054</LEXReference>
+            <LEXReference>00500300900008</LEXReference>
+            <LEXReference>00500404800026</LEXReference>
+            <LEXReference>00601100300054</LEXReference>
+            <LEXReference>00601101700036</LEXReference>
+            <LEXReference>00601200100052</LEXReference>
+            <LEXReference>00601200500010</LEXReference>
+            <LEXReference>00601300500034</LEXReference>
+            <LEXReference>00601301100028</LEXReference>
+            <LEXReference>01300502300036</LEXReference>
+            <LEXReference>01904200700024</LEXReference>
+            <LEXReference>01908901300016</LEXReference>
+            <LEXReference>01913300300006</LEXReference>
+            <LEXReference>02200400800034</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="004002000000000" Lemma="πιότης" Version="0" HasAramaic="false" InLXX="true" AlphaPos="π">
+  <StrongCodes>
+    <Strong>G4096</Strong>
+  </StrongCodes>
+  <Authors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes>
+    <Note Caller="1" LanguageCode="en" LastEdited="" LastEditedBy="">
+      <References/>
+      <Content>πιότης occurs in non-biblical Greek in the figurative sense of ‘wealth and riches,’ and it may be that in {S:04501101700038} there is a blend of the conventional figurative meaning of ‘wealth’ with the more specific quality of fatness as exemplified by the fruit of the olive tree. See also {D:65.7} and footnote.</Content>
+    </Note>
+    <Note Caller="2" LanguageCode="en" LastEdited="" LastEditedBy="">
+      <References>
+        <Reference>04501101700038</Reference>
+      </References>
+      <Content>It is difficult to determine whether the expression συγκοινωνὸς τῆς ῥίζης τῆς πιότητος τῆς ἐλαίας in {S:04501101700038} should be interpreted merely as an instance of an extended figurative use of related terms, or whether πιότης should be understood in a metaphorical sense of ‘value’ or ‘wealth,’ which it had already acquired in secular literature. If πιότης is to be understood in a figurative sense, then one is likewise justified in regarding ῥίζα in the figurative sense of ‘tradition’ and ἐλαία in this context as being a direct reference to Judaism.</Content>
+    </Note>
+  </Notes>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="004002001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>noun, f.</PartOfSpeech>
+      </PartsOfSpeech>
+      <Inflections>
+        <Inflection Lemma="πιότης" BaseFormIndex="1">
+          <Form/>
+          <Realizations>
+            <Realization>-ητος</Realization>
+          </Realizations>
+          <Comments/>
+        </Inflection>
+      </Inflections>
+      <RelatedLemmas>
+        <RelatedLemma>
+          <Word>πίων</Word>
+          <Meaning LanguageCode="en">
+            <Meaning>fat, rich, fertile</Meaning>
+          </Meaning>
+          <Meaning LanguageCode="zhT">
+            <Meaning>肥的，肥沃的，富饒的</Meaning>
+          </Meaning>
+        </RelatedLemma>
+      </RelatedLemmas>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="004002001001000" IsBiblicalTerm="Y" EntryCode="3.59" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Plants</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Non-Fruit Parts of Plants</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2017-10-09 22:41:58" LastEditedBy="sl">
+              <DefinitionLong/>
+              <DefinitionShort>a nutritionally rich, fatty quality</DefinitionShort>
+              <Glosses>
+                <Gloss>fatness</Gloss>
+                <Gloss>rich quality</Gloss>
+              </Glosses>
+              <Comments>The text of {S:04501101700038} is strange, for literally it reads ‘of the root of the richness.’ As may be easily understood, a number of scribal variations occur in different manuscripts.|Since the reference in {S:04501101700038} is to the olive tree, the fruit of which produces so much oil, one can readily understand the basis for the extension of meaning. Some translations render πιότης simply as ‘sap’ (New English Bible), while others abandon completely the figure of speech, for example, TEV which has “you share the strong spiritual life.”{N:001}|For another treatment of πιότης in {S:04501101700038}, see {D:65.7}.</Comments>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04501101700038</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+        <LEXMeaning Id="004002001002000" IsBiblicalTerm="Y" EntryCode="65.7" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Value</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Valuable, Lacking in Value</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-12-27 12:07:32" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>(a figurative extension of meaning of {L:πιότης&lt;SDBG:πιότης:000000&gt;}[a] ‘fatness,’ {D:3.59}) a rich, valuable substance</DefinitionShort>
+              <Glosses>
+                <Gloss>richness</Gloss>
+                <Gloss>value</Gloss>
+              </Glosses>
+              <Comments>For another interpretation of {L:πιότης&lt;SDBG:πιότης:000000&gt;} in {S:04501101700038}, see {D:3.59}.</Comments>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04501101700038{N:002}</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="007401000000000" Lemma="שַׁלִּיט" Version="5" HasAramaic="true" InLXX="false" AlphaPos="ש">
+  <StrongCodes>
+    <Strong>H7989</Strong>
+    <Strong>A7990</Strong>
+  </StrongCodes>
+  <Authors>
+    <Author>Reinier de Blois</Author>
+  </Authors>
+  <Contributors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes/>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="007401001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>aj</PartOfSpeech>
+      </PartsOfSpeech>
+      <RelatedLemmas>
+        <RelatedLemma>
+          <Word>שׁלט</Word>
+        </RelatedLemma>
+      </RelatedLemmas>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="007401001001000" IsBiblicalTerm="M" EntryCode="" Indent="0">
+          <LEXDomains>
+            <LEXDomain Code="001001002003005">Leaders</LEXDomain>
+          </LEXDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2017-04-06 15:11:17" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>= a person in a position of high authority</DefinitionShort>
+              <Glosses>
+                <Gloss>master</Gloss>
+                <Gloss>ruler</Gloss>
+                <Gloss>governor</Gloss>
+                <Gloss>captain</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>00104200600010</LEXReference>
+            <LEXReference>01500402000016</LEXReference>
+            <LEXReference>02100701900018</LEXReference>
+            <LEXReference>02100800800006</LEXReference>
+            <LEXReference>02101000500030</LEXReference>
+            <LEXReference>02700201000054</LEXReference>
+            <LEXReference>02700201500012</LEXReference>
+            <LEXReference>02700401400030</LEXReference>
+            <LEXReference>02700402200068</LEXReference>
+            <LEXReference>02700402300034</LEXReference>
+            <LEXReference>02700402900052</LEXReference>
+            <LEXReference>02700502100060</LEXReference>
+            <LEXReference>02700502900046</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+          <LEXCoreDomains>
+            <LEXCoreDomain Code="015">Authority</LEXCoreDomain>
+          </LEXCoreDomains>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+    <BaseForm Id="007401002000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>aj</PartOfSpeech>
+      </PartsOfSpeech>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="007401002001000" IsBiblicalTerm="A" EntryCode="" Indent="0">
+          <LEXDomains>
+            <LEXDomain Code="002001003014">Right</LEXDomain>
+          </LEXDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2017-04-06 15:11:17" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>= state in which someone in a position of authority has given permission for a certain activity to take place</DefinitionShort>
+              <Glosses>
+                <Gloss>lawful</Gloss>
+                <Gloss>allowed</Gloss>
+                <Gloss>permissible</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>01500702400044</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+          <LEXCoreDomains>
+            <LEXCoreDomain Code="098">Law</LEXCoreDomain>
+            <LEXCoreDomain Code="017">Behavior</LEXCoreDomain>
+          </LEXCoreDomains>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="001551000000000" Lemma="ἑκάστοτε" Version="0" HasAramaic="false" InLXX="false" AlphaPos="ε">
+  <StrongCodes>
+    <Strong>G1539</Strong>
+  </StrongCodes>
+  <Authors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes/>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="001551001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>advb.</PartOfSpeech>
+      </PartsOfSpeech>
+      <Constructs>
+        <Construct Lemma="ἑκάστοτε" BaseFormIndex="1">
+          <WordMeaningSet>
+            <Word>ἕκαστος</Word>
+          </WordMeaningSet>
+          <WordMeaningSet>
+            <Word>ὅς</Word>
+          </WordMeaningSet>
+          <WordMeaningSet>
+            <Word>τέ</Word>
+          </WordMeaningSet>
+        </Construct>
+      </Constructs>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="001551001001000" IsBiblicalTerm="Y" EntryCode="67.88" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Time</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Duration of Time without Reference to Points or Units of Time: Time, Spend Time, Always, Eternal, Old, Immediately, Young</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-05-13 10:11:42" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>duration of time, with reference to a series of occasions</DefinitionShort>
+              <Glosses>
+                <Gloss>always</Gloss>
+                <Gloss>at all times</Gloss>
+                <Gloss>on every occasion</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>06100101500008</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

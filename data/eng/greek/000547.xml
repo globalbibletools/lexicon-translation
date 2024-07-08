@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="000547000000000" Lemma="ἄπειμι" Version="0" HasAramaic="false" InLXX="true" AlphaPos="α">
+  <StrongCodes>
+    <Strong>G0548</Strong>
+    <Strong>G0549</Strong>
+  </StrongCodes>
+  <Authors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes>
+    <Note Caller="1" LanguageCode="en" LastEdited="" LastEditedBy="">
+      <References>
+        <Reference>04401701000046</Reference>
+      </References>
+      <Content>Despite the fact that ἄπειμι[a] is morphologically derived from ἀπό ‘from’ and εἶμι ‘to come’ or ‘to go,’ there are certain contexts, such as in {S:04401701000046}, in which there appears to be no meaning of separation or departure, but merely generalized movement. ἄπειμι[a], however, seems to be not as generalized in meaning of movement as in the case of κινέω[a], γίνομαι[e], and μεταβαίνω[a] ({D:15.1}, 2).</Content>
+    </Note>
+  </Notes>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="000547001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>verb</PartOfSpeech>
+      </PartsOfSpeech>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="000547001001000" IsBiblicalTerm="Y" EntryCode="15.8" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Linear Movement</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Move, Come/Go</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-08-11 14:19:19" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>to move away from one place to another</DefinitionShort>
+              <Glosses>
+                <Gloss>to come</Gloss>
+                <Gloss>to go</Gloss>
+                <Gloss>to arrive</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04401701000046{N:001}</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+        <LEXMeaning Id="000547001002000" IsBiblicalTerm="Y" EntryCode="85.27" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Existence in Space</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Be in a Place</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-08-11 14:19:19" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>to be absent from a place at a particular time</DefinitionShort>
+              <Glosses>
+                <Gloss>to be absent</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04600500300008</LEXReference>
+            <LEXReference>04701000100042</LEXReference>
+            <LEXReference>04701001100024</LEXReference>
+            <LEXReference>04701300200018</LEXReference>
+            <LEXReference>04701301000008</LEXReference>
+            <LEXReference>05000102700030</LEXReference>
+            <LEXReference>05100200500012</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

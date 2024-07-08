@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="006098000000000" Lemma="צֶאֱצָא" Version="5" HasAramaic="false" InLXX="false" AlphaPos="צ">
+  <StrongCodes>
+    <Strong>H6631</Strong>
+  </StrongCodes>
+  <Authors>
+    <Author>Graham S. Ogden</Author>
+  </Authors>
+  <Contributors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes/>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="006098001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>nsm</PartOfSpeech>
+      </PartsOfSpeech>
+      <RelatedLemmas>
+        <RelatedLemma>
+          <Word>יצא</Word>
+        </RelatedLemma>
+      </RelatedLemmas>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="006098001001000" IsBiblicalTerm="Y" EntryCode="" Indent="0">
+          <LEXDomains>
+            <LEXDomain Code="002002002005">Exist</LEXDomain>
+          </LEXDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2008-06-05 11:18:12" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>= object which derives from or comes from another object, used for plants and, by extension, for humans</DefinitionShort>
+              <Glosses>
+                <Gloss>what comes from ...</Gloss>
+                <Gloss>what ... brings forth</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>02303400100032</LEXReference>
+            <LEXReference>02304200500030</LEXReference>
+            <LEXReference>01803100800012</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+          <LEXCoreDomains>
+            <LEXCoreDomain Code="125">Plant</LEXCoreDomain>
+          </LEXCoreDomains>
+        </LEXMeaning>
+        <LEXMeaning Id="006098001002000" IsBiblicalTerm="Y" EntryCode="" Indent="0">
+          <LEXDomains>
+            <LEXDomain Code="001001002003012" Source="Exist" SourceCode="002002002005">Relatives</LEXDomain>
+          </LEXDomains>
+          <LEXSynonyms>
+            <LEXSynonym>בֵּן</LEXSynonym>
+            <LEXSynonym>זֶרַע</LEXSynonym>
+            <LEXSynonym>צְפִיעָה</LEXSynonym>
+          </LEXSynonyms>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2008-06-05 11:18:12" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>= one's children including their respective offspring ◄ literally referred to as those who come forth from someone</DefinitionShort>
+              <Glosses>
+                <Gloss>offspring</Gloss>
+                <Gloss>descendants</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>01800502500014</LEXReference>
+            <LEXReference>01802100800014</LEXReference>
+            <LEXReference>01802701400014</LEXReference>
+            <LEXReference>02302202400018</LEXReference>
+            <LEXReference>02304400300034</LEXReference>
+            <LEXReference>02304801900016</LEXReference>
+            <LEXReference>02306100900016</LEXReference>
+            <LEXReference>02306502300036</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+          <LEXCoreDomains>
+            <LEXCoreDomain Code="062">Family</LEXCoreDomain>
+            <LEXCoreDomain Code="129">Posterity</LEXCoreDomain>
+          </LEXCoreDomains>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="001702000000000" Lemma="דפק" Version="5" HasAramaic="false" InLXX="false" AlphaPos="ד">
+  <StrongCodes>
+    <Strong>H1849</Strong>
+  </StrongCodes>
+  <Authors>
+    <Author>Enio R. Mueller</Author>
+  </Authors>
+  <Contributors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes>
+    <Note Caller="1" LanguageCode="en" LastEdited="" LastEditedBy="">
+      <References>
+        <Reference>00701902200034</Reference>
+      </References>
+      <Content>HALAT (cf. Lisowsky) proposes for the hitp. a meaning "to push one another" | DCH mentions it as "hurl oneself" | but it can be understood as the intensive of the qal ("a violent pounding that almost breaks down the door", M.G.Klingbeil, DOTTE 1: 980).</Content>
+    </Note>
+  </Notes>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="001702001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>vb</PartOfSpeech>
+      </PartsOfSpeech>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="001702001001000" IsBiblicalTerm="Y" EntryCode="" Indent="0">
+          <LEXDomains>
+            <LEXDomain Code="002001001023">Impact</LEXDomain>
+          </LEXDomains>
+          <LEXForms>
+            <LEXForm>vbqal-</LEXForm>
+            <LEXForm>vbhit-</LEXForm>
+          </LEXForms>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2017-03-17 17:43:12" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>= action by which someone strikes a surface noisily to attract attention</DefinitionShort>
+              <Glosses>
+                <Gloss>to knock</Gloss>
+                <Gloss>to beat</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>00701902200034{N:001}</LEXReference>
+            <LEXReference>02200500200016</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+        <LEXMeaning Id="001702001002000" IsBiblicalTerm="Y" EntryCode="" Indent="0">
+          <LEXDomains>
+            <LEXDomain Code="002003003010" Source="Impact" SourceCode="002001001023">Engage</LEXDomain>
+          </LEXDomains>
+          <LEXForms>
+            <LEXForm>vbqal-s</LEXForm>
+          </LEXForms>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2017-03-17 17:43:12" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>= state in which people or animals are forced to exert more strength than they can handle</DefinitionShort>
+              <Glosses>
+                <Gloss>to be driven hard</Gloss>
+                <Gloss>to be overdriven</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>00103301300038</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="001877000000000" Lemma="ἐπαγγέλλομαι" Version="0" HasAramaic="false" InLXX="false" AlphaPos="ε">
+  <StrongCodes>
+    <Strong>G1861</Strong>
+  </StrongCodes>
+  <Authors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes/>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="001877001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>verb</PartOfSpeech>
+      </PartsOfSpeech>
+      <Inflections>
+        <Inflection Lemma="ἐπαγγέλλομαι" BaseFormIndex="1">
+          <Form>aor.</Form>
+          <Realizations>
+            <Realization>ἐπηγγειλάμην</Realization>
+          </Realizations>
+          <Comments/>
+        </Inflection>
+        <Inflection Lemma="ἐπαγγέλλομαι" BaseFormIndex="1">
+          <Form>pf.</Form>
+          <Realizations>
+            <Realization>ἐπήγγελμαι</Realization>
+          </Realizations>
+          <Comments/>
+        </Inflection>
+      </Inflections>
+      <RelatedLemmas>
+        <RelatedLemma>
+          <Word>ἀγγέλλω</Word>
+        </RelatedLemma>
+      </RelatedLemmas>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="001877001001000" IsBiblicalTerm="M" EntryCode="33.286" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Communication</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Promise</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-06-10 09:35:03" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>to announce with certainty as to what one will do</DefinitionShort>
+              <Glosses>
+                <Gloss>to promise</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04101401100012</LEXReference>
+            <LEXReference>04400700500024</LEXReference>
+            <LEXReference>04500402100010</LEXReference>
+            <LEXReference>04800301900030</LEXReference>
+            <LEXReference>05600100200012</LEXReference>
+            <LEXReference>05800601300008</LEXReference>
+            <LEXReference>05801002300020</LEXReference>
+            <LEXReference>05801101100038</LEXReference>
+            <LEXReference>05801202600020</LEXReference>
+            <LEXReference>05900101200030</LEXReference>
+            <LEXReference>05900200500042</LEXReference>
+            <LEXReference>06100201900006</LEXReference>
+            <LEXReference>06200202500016</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+        <LEXMeaning Id="001877001002000" IsBiblicalTerm="Y" EntryCode="33.219" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Communication</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Assert, Declare</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-06-10 09:35:03" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>to announce something openly and emphatically</DefinitionShort>
+              <Glosses>
+                <Gloss>to assert</Gloss>
+                <Gloss>to profess</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>05400201000010</LEXReference>
+            <LEXReference>05400602100006</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

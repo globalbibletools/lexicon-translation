@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="004025000000000" Lemma="מַלְבֵּן" Version="5" HasAramaic="false" InLXX="false" AlphaPos="מ">
+  <StrongCodes>
+    <Strong>H4404</Strong>
+  </StrongCodes>
+  <Authors>
+    <Author>Reinier de Blois</Author>
+  </Authors>
+  <Contributors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes>
+    <Note Caller="1" LanguageCode="en" LastEdited="" LastEditedBy="">
+      <References>
+        <Reference>01001203100058</Reference>
+      </References>
+      <Content>{A:MT-Q} בַּמַּלְבֵּן | {A:MT-K} בַמַלכן</Content>
+    </Note>
+  </Notes>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="004025001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>nsm</PartOfSpeech>
+      </PartsOfSpeech>
+      <RelatedLemmas>
+        <RelatedLemma>
+          <Word>לבן</Word>
+        </RelatedLemma>
+      </RelatedLemmas>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="004025001001000" IsBiblicalTerm="M" EntryCode="" Indent="0">
+          <LEXDomains>
+            <LEXDomain Code="001004001017">Tools</LEXDomain>
+          </LEXDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2009-05-04 14:21:41" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>exact meaning unknown: = small, rectangular wooden container (about 20‑25 by 10 centimeters) ► used to form bricks in equal sizes; or: = large outdoor oven ► for baking bricks to harden them</DefinitionShort>
+              <Glosses>
+                <Gloss>brick mold</Gloss>
+                <Gloss>brick kiln</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>01001203100058{N:001}</LEXReference>
+            <LEXReference>01001203100060</LEXReference>
+            <LEXReference>01001203100062</LEXReference>
+            <LEXReference>03400301400034</LEXReference>
+          </LEXReferences>
+          <LEXLinks>
+            <LEXLink>Realia:1.8.1</LEXLink>
+          </LEXLinks>
+          <LEXVideos/>
+          <LEXCoreDomains>
+            <LEXCoreDomain Code="027">Crafts</LEXCoreDomain>
+          </LEXCoreDomains>
+        </LEXMeaning>
+        <LEXMeaning Id="004025001002000" IsBiblicalTerm="M" EntryCode="" Indent="0">
+          <LEXDomains>
+            <LEXDomain Code="001005001">Constructions</LEXDomain>
+          </LEXDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2009-05-04 14:21:41" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>exact meaning unknown; probably: = pavement ◄ made out of bricks</DefinitionShort>
+              <Glosses>
+                <Gloss>brick pavement</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>02404300900026</LEXReference>
+          </LEXReferences>
+          <LEXLinks>
+            <LEXLink>Realia:3.20.1</LEXLink>
+          </LEXLinks>
+          <LEXVideos/>
+          <LEXCoreDomains>
+            <LEXCoreDomain Code="087">Infrastructure</LEXCoreDomain>
+          </LEXCoreDomains>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

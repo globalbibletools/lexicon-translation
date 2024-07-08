@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="002262000000000" Lemma="ἥμισυς" Version="0" HasAramaic="false" InLXX="true" AlphaPos="η">
+  <StrongCodes>
+    <Strong>G2255</Strong>
+  </StrongCodes>
+  <Authors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes/>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="002262001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>adjc.</PartOfSpeech>
+      </PartsOfSpeech>
+      <Inflections>
+        <Inflection Lemma="ἥμισυς" BaseFormIndex="1">
+          <Form/>
+          <Realizations>
+            <Realization>-εια, -υ</Realization>
+          </Realizations>
+          <Comments/>
+        </Inflection>
+        <Inflection Lemma="ἥμισυς" BaseFormIndex="1">
+          <Form>gen.</Form>
+          <Realizations>
+            <Realization>ἡμίσους</Realization>
+          </Realizations>
+          <Comments/>
+        </Inflection>
+      </Inflections>
+      <RelatedLemmas>
+        <RelatedLemma>
+          <Word>ἡμιθανής</Word>
+        </RelatedLemma>
+        <RelatedLemma>
+          <Word>ἡμίωρον</Word>
+        </RelatedLemma>
+      </RelatedLemmas>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="002262001001000" IsBiblicalTerm="Y" EntryCode="60.62" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Number</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Half, Third, Fourth [Fractional Part]</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-07-23 17:39:39" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>one half of an object, series, or mass</DefinitionShort>
+              <Glosses>
+                <Gloss>half</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04100602300026</LEXReference>
+            <LEXReference>04201900800020</LEXReference>
+            <LEXReference>06601100900036</LEXReference>
+            <LEXReference>06601101100014</LEXReference>
+            <LEXReference>06601201400056</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

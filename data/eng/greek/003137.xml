@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="003137000000000" Lemma="μακράν" Version="0" HasAramaic="false" InLXX="true" AlphaPos="μ">
+  <StrongCodes>
+    <Strong>G3112</Strong>
+  </StrongCodes>
+  <Authors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes>
+    <Note Caller="1" LanguageCode="en" LastEdited="" LastEditedBy="">
+      <References/>
+      <Content>μακρόθεν may differ somewhat from μακράν in emphasizing the separation of one location from another, but such a distinction is not always borne out in the various contexts.</Content>
+    </Note>
+  </Notes>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="003137001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>adjc.</PartOfSpeech>
+      </PartsOfSpeech>
+      <RelatedLemmas>
+        <RelatedLemma>
+          <Word>μηκύνομαι</Word>
+        </RelatedLemma>
+      </RelatedLemmas>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="003137001001000" IsBiblicalTerm="Y" EntryCode="83.30" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Spacial Positions</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>At, Beside, Near, Far</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-11-19 14:25:56" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>a position at a relatively great distance from another position{N:001}</DefinitionShort>
+              <Glosses>
+                <Gloss>far</Gloss>
+                <Gloss>at a distance</Gloss>
+                <Gloss>some distance away</Gloss>
+                <Gloss>far away</Gloss>
+              </Glosses>
+              <Comments>For {L:εἰς&lt;SDBG:εἰς:000000&gt;} in {S:04400203900028}, see {D:84.16}).</Comments>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04000803000006</LEXReference>
+            <LEXReference>04101203400024</LEXReference>
+            <LEXReference>04200700600022</LEXReference>
+            <LEXReference>04201502000022</LEXReference>
+            <LEXReference>04302100800022</LEXReference>
+            <LEXReference>04400203900028</LEXReference>
+            <LEXReference>04401702700028</LEXReference>
+            <LEXReference>04402202100020</LEXReference>
+            <LEXReference>04900201300020</LEXReference>
+            <LEXReference>04900201700014</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

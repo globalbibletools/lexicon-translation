@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="000910000000000" Lemma="βάπτω" Version="0" HasAramaic="false" InLXX="true" AlphaPos="β">
+  <StrongCodes>
+    <Strong>G0911</Strong>
+  </StrongCodes>
+  <Authors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes>
+    <Note Caller="1" LanguageCode="en" LastEdited="" LastEditedBy="">
+      <References/>
+      <Content>It is possible that ἐμβάπτω differs in meaning from βάπτω in specifying somewhat more clearly the factor of something being in something else.</Content>
+    </Note>
+  </Notes>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="000910001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>verb</PartOfSpeech>
+      </PartsOfSpeech>
+      <Inflections>
+        <Inflection Lemma="βάπτω" BaseFormIndex="1">
+          <Form>pf.pass.</Form>
+          <Realizations>
+            <Realization>βέβαμμαι</Realization>
+          </Realizations>
+          <Comments/>
+        </Inflection>
+      </Inflections>
+      <RelatedLemmas>
+        <RelatedLemma>
+          <Word>βαπτίζω</Word>
+        </RelatedLemma>
+        <RelatedLemma>
+          <Word>βάπτισμα</Word>
+        </RelatedLemma>
+        <RelatedLemma>
+          <Word>βαπτισμός</Word>
+        </RelatedLemma>
+        <RelatedLemma>
+          <Word>βαπτιστής</Word>
+        </RelatedLemma>
+        <RelatedLemma>
+          <Word>ἐμβάπτω</Word>
+        </RelatedLemma>
+      </RelatedLemmas>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="000910001001000" IsBiblicalTerm="M" EntryCode="47.11" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Activities Involving Liquids or Masses</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Use of Liquids</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-02-04 22:09:19" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>to dip an object in a liquid{N:001}</DefinitionShort>
+              <Glosses>
+                <Gloss>to dip in</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04201602400026</LEXReference>
+            <LEXReference>04301302600016</LEXReference>
+            <LEXReference>04301302600028</LEXReference>
+            <LEXReference>06601901300008</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

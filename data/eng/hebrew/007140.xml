@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="007140000000000" Lemma="שְׁאֵר" Version="4" HasAramaic="false" InLXX="false" AlphaPos="ש">
+  <StrongCodes>
+    <Strong>H7607</Strong>
+  </StrongCodes>
+  <Authors>
+    <Author>Reinier de Blois</Author>
+  </Authors>
+  <Contributors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes/>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="007140001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>nsm</PartOfSpeech>
+      </PartsOfSpeech>
+      <RelatedLemmas>
+        <RelatedLemma>
+          <Word>שׁאר</Word>
+        </RelatedLemma>
+      </RelatedLemmas>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="007140001001000" IsBiblicalTerm="M" EntryCode="" Indent="0">
+          <LEXDomains>
+            <LEXDomain Code="001001002">Creatures</LEXDomain>
+          </LEXDomains>
+          <LEXSynonyms>
+            <LEXSynonym>בָּשָׂר</LEXSynonym>
+          </LEXSynonyms>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2015-11-15 14:06:43" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>= the soft substance in the body of humans and animals that consists of muscle tissue and fat</DefinitionShort>
+              <Glosses>
+                <Gloss>flesh</Gloss>
+                <Gloss>meat</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>01907302600004</LEXReference>
+            <LEXReference>01907802000034</LEXReference>
+            <LEXReference>01907802700014</LEXReference>
+            <LEXReference>02000501100018</LEXReference>
+            <LEXReference>02001101700014</LEXReference>
+            <LEXReference>03300300200024</LEXReference>
+            <LEXReference>03300300300008</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+          <LEXCoreDomains>
+            <LEXCoreDomain Code="019">Body</LEXCoreDomain>
+          </LEXCoreDomains>
+        </LEXMeaning>
+        <LEXMeaning Id="007140001002000" IsBiblicalTerm="Y" EntryCode="" Indent="0">
+          <LEXDomains>
+            <LEXDomain Code="001004003" Source="Creatures" SourceCode="001001002">Food</LEXDomain>
+          </LEXDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2017-03-12 15:15:27" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>= food provided to someone to live on</DefinitionShort>
+              <Glosses>
+                <Gloss>food</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>00202101000010</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+          <LEXCoreDomains>
+            <LEXCoreDomain Code="069">Food</LEXCoreDomain>
+          </LEXCoreDomains>
+        </LEXMeaning>
+        <LEXMeaning Id="007140001003000" IsBiblicalTerm="M" EntryCode="" Indent="0">
+          <LEXDomains>
+            <LEXDomain Code="001001002003012" Source="Creatures" SourceCode="001001002">Relatives</LEXDomain>
+          </LEXDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2015-11-15 14:06:43" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>= a person connected by blood or marriage</DefinitionShort>
+              <Glosses>
+                <Gloss>relative</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>00301800600010</LEXReference>
+            <LEXReference>00301801200012</LEXReference>
+            <LEXReference>00301801300014</LEXReference>
+            <LEXReference>00302001900024</LEXReference>
+            <LEXReference>00302100200008</LEXReference>
+            <LEXReference>00302504900018</LEXReference>
+            <LEXReference>00402701100024</LEXReference>
+            <LEXReference>02405103500006</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+          <LEXCoreDomains>
+            <LEXCoreDomain Code="062">Family</LEXCoreDomain>
+          </LEXCoreDomains>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

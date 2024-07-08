@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="003400000000000" Lemma="νεανίας" Version="0" HasAramaic="false" InLXX="true" AlphaPos="ν">
+  <StrongCodes>
+    <Strong>G3494</Strong>
+  </StrongCodes>
+  <Authors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes/>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="003400001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>noun, m.</PartOfSpeech>
+      </PartsOfSpeech>
+      <Inflections>
+        <Inflection Lemma="νεανίας" BaseFormIndex="1">
+          <Form/>
+          <Realizations>
+            <Realization>-ου</Realization>
+          </Realizations>
+          <Comments/>
+        </Inflection>
+      </Inflections>
+      <RelatedLemmas>
+        <RelatedLemma>
+          <Word>νέος</Word>
+        </RelatedLemma>
+      </RelatedLemmas>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="003400001001000" IsBiblicalTerm="Y" EntryCode="9.32" Indent="0">
+          <LEXDomains>
+            <LEXDomain>People</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Males</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-12-09 16:42:41" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>a young man beyond the age of puberty, but normally before marriage</DefinitionShort>
+              <Glosses>
+                <Gloss>young man</Gloss>
+              </Glosses>
+              <Comments>The person referred to as a νεανίας in {S:04402000900008} is called a {L:παῖς&lt;SDBG:παῖς:000000&gt;} ‘boy’ (see {D:9.41}) in {S:04402001200008}. This should not be understood as identity in meaning, since the person concerned could have been of such an age that either ‘young man’ or ‘boy’ was a possible denotation. In other words, the age reference of νεανίας and {L:παῖς&lt;SDBG:παῖς:000000&gt;} overlaps in Greek. In a number of languages, however, there is a much more specific and clear-cut distinction in age grading.</Comments>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04400705800034</LEXReference>
+            <LEXReference>04402000900008</LEXReference>
+            <LEXReference>04402301700020</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="001775000000000" Lemma="הֲדָרָה" Version="5" HasAramaic="false" InLXX="false" AlphaPos="ה">
+  <StrongCodes>
+    <Strong>H1927</Strong>
+  </StrongCodes>
+  <Authors>
+    <Author>Enio R. Mueller</Author>
+  </Authors>
+  <Contributors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes>
+    <Note Caller="1" LanguageCode="en" LastEdited="" LastEditedBy="">
+      <References>
+        <Reference>01301602900032</Reference>
+      </References>
+      <Content>MT RSV "in holy array" NIV ESV "splendor of holiness" Knoppers NJPS "majestic in holiness" NRSV "in holy splendor" REB "in holy attire" | LXX "ἐν αὐλαῖς ἁγίαις αὐτοῦ" NJB "in his sacred court"</Content>
+    </Note>
+    <Note Caller="2" LanguageCode="en" LastEdited="" LastEditedBy="">
+      <References>
+        <Reference>01402002100028</Reference>
+      </References>
+      <Content>MT RSV "in holy array" NIV "splendor of holiness" NJPS "majestic in holiness" NJB "in sacred vestments" NRSV "in holy splendor" ESV "in holy attire" | LXX "αἰνεῖν τὰ ἅγια"</Content>
+    </Note>
+    <Note Caller="3" LanguageCode="en" LastEdited="" LastEditedBy="">
+      <References>
+        <Reference>01902900200020</Reference>
+        <Reference>01909600900010</Reference>
+      </References>
+      <Content>MT RSV "in holy array" NIV NJB ESV "splendor of holiness" NJPS "majestic in holiness" NRSV "in holy splendor" REB "in holy attire" | LXX "ἐν αὐλῇ ἁγίᾳ αὐτοῦ"</Content>
+    </Note>
+  </Notes>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="001775001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>nsf</PartOfSpeech>
+      </PartsOfSpeech>
+      <RelatedLemmas>
+        <RelatedLemma>
+          <Word>הדר</Word>
+        </RelatedLemma>
+        <RelatedLemma>
+          <Word>הָדָר</Word>
+        </RelatedLemma>
+      </RelatedLemmas>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="001775001001000" IsBiblicalTerm="M" EntryCode="" Indent="0">
+          <LEXDomains>
+            <LEXDomain Code="002001002012">Great</LEXDomain>
+          </LEXDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2017-09-04 12:40:52" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>= state in which deities or humans have personal greatness and a high status, recognized and respected by others</DefinitionShort>
+              <Glosses>
+                <Gloss>majesty</Gloss>
+                <Gloss>glory</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>01301602900032{N:001}</LEXReference>
+            <LEXReference>01402002100028{N:002}</LEXReference>
+            <LEXReference>01902900200020{N:003}</LEXReference>
+            <LEXReference>01909600900010{N:003}</LEXReference>
+            <LEXReference>02001402800008</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+          <LEXCoreDomains>
+            <LEXCoreDomain Code="170">Status</LEXCoreDomain>
+          </LEXCoreDomains>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

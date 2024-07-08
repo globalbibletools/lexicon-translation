@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="001333000000000" Lemma="διδακτός" Version="0" HasAramaic="false" InLXX="true" AlphaPos="δ">
+  <StrongCodes>
+    <Strong>G1318</Strong>
+  </StrongCodes>
+  <Authors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes/>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="001333001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>adjc.</PartOfSpeech>
+      </PartsOfSpeech>
+      <Inflections>
+        <Inflection Lemma="διδακτός" BaseFormIndex="1">
+          <Form/>
+          <Realizations>
+            <Realization>-ή, -όν</Realization>
+          </Realizations>
+          <Comments/>
+        </Inflection>
+      </Inflections>
+      <RelatedLemmas>
+        <RelatedLemma>
+          <Word>διδάσκω</Word>
+        </RelatedLemma>
+      </RelatedLemmas>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="001333001001000" IsBiblicalTerm="Y" EntryCode="33.227" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Communication</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Teach</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-06-08 20:32:45" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>(derivative of {L:διδάσκω&lt;SDBG:διδάσκω:000000&gt;} ‘to teach,’ {D:33.224}) pertaining to that which is taught</DefinitionShort>
+              <Glosses>
+                <Gloss>taught</Gloss>
+                <Gloss>instructed</Gloss>
+              </Glosses>
+              <Comments>The expression ἐν διδακτοῖς ἀνθρωπίνης σοφίας λόγοις in {S:04600201300024} is semantically complex. One may interpret this to mean ‘by means of words used in teaching human wisdom’ or ‘by means of words concerning human wisdom as it is taught.’ Though grammatically διδακτοῖς ‘taught’ goes with λόγοις ‘words,’ there is a very close semantic connection between διδακτοῖς and ἀνθρωπίνης σοφίας ‘human wisdom.’</Comments>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04300604500018</LEXReference>
+            <LEXReference>04600201300012</LEXReference>
+            <LEXReference>04600201300024</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

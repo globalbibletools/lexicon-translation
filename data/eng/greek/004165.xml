@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="004165000000000" Lemma="προβλέπω" Version="0" HasAramaic="false" InLXX="true" AlphaPos="π">
+  <StrongCodes>
+    <Strong>G4265</Strong>
+  </StrongCodes>
+  <Authors/>
+  <AlternateLemmas>
+    <AlternateLemma>προβλέπομαι</AlternateLemma>
+  </AlternateLemmas>
+  <MainLinks/>
+  <Notes/>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="004165001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>verb</PartOfSpeech>
+      </PartsOfSpeech>
+      <RelatedLemmas>
+        <RelatedLemma>
+          <Word>βλέπω</Word>
+        </RelatedLemma>
+      </RelatedLemmas>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="004165001001000" IsBiblicalTerm="Y" EntryCode="35.35" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Help, Care For</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Provide For, Support</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXForms>
+            <LEXForm>προβλέπομαι[a]</LEXForm>
+          </LEXForms>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2022-02-03 12:21:29" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>to provide for the needs of others, with the implication of anticipating such a need</DefinitionShort>
+              <Glosses>
+                <Gloss>to provide for</Gloss>
+              </Glosses>
+              <Comments>It may be possible to translate προβλέπομαι in {S:05801104000014} as ‘to provide for by foreseeing’ or ‘… by determining in advance’ (see {D:30.100}).</Comments>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>05801104000014</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+        <LEXMeaning Id="004165001002000" IsBiblicalTerm="Y" EntryCode="30.100" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Think</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>To Choose, To Select, To Prefer</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXForms>
+            <LEXForm>προβλέπομαι[b]</LEXForm>
+          </LEXForms>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2022-02-03 12:21:29" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>to choose or select in advance of some other event</DefinitionShort>
+              <Glosses>
+                <Gloss>to choose beforehand</Gloss>
+                <Gloss>to select in advance</Gloss>
+              </Glosses>
+              <Comments>It is also possible to understand προβλέπομαι in {S:05801104000014} as meaning ‘to decide in advance’ (compare the meanings in {D:30.84}) or ‘to provide for’ ({D:35.35}).</Comments>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>05801104000014</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

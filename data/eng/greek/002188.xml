@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="002188000000000" Lemma="εὐωδία" Version="0" HasAramaic="false" InLXX="true" AlphaPos="ε">
+  <StrongCodes>
+    <Strong>G2175</Strong>
+  </StrongCodes>
+  <Authors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes/>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="002188001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>noun, f.</PartOfSpeech>
+      </PartsOfSpeech>
+      <Inflections>
+        <Inflection Lemma="εὐωδία" BaseFormIndex="1">
+          <Form/>
+          <Realizations>
+            <Realization>-ας</Realization>
+          </Realizations>
+          <Comments/>
+        </Inflection>
+      </Inflections>
+      <RelatedLemmas>
+        <RelatedLemma>
+          <Word>ὄζω</Word>
+        </RelatedLemma>
+      </RelatedLemmas>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="002188001001000" IsBiblicalTerm="M" EntryCode="79.46" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Features of Objects</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Fragrance, Odor</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-07-15 10:16:27" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>a pleasant or sweet-smelling odor</DefinitionShort>
+              <Glosses>
+                <Gloss>aroma</Gloss>
+                <Gloss>fragrance</Gloss>
+              </Glosses>
+              <Comments>Since the reference in {S:05000401800028} is to a sacrifice, the use of εὐωδία may seem strange, if not contradictory, in many languages, since the odor from burning flesh is normally not regarded as being fragrant or pleasant. It may therefore be necessary to include a marginal note to explain this usage.</Comments>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04700201500006</LEXReference>
+            <LEXReference>04900500200046</LEXReference>
+            <LEXReference>05000401800028</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

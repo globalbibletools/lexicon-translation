@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="002000000000000" Lemma="ἐπισκιάζω" Version="0" HasAramaic="false" InLXX="true" AlphaPos="ε">
+  <StrongCodes>
+    <Strong>G1982</Strong>
+  </StrongCodes>
+  <Authors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes/>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="002000001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>verb</PartOfSpeech>
+      </PartsOfSpeech>
+      <RelatedLemmas>
+        <RelatedLemma>
+          <Word>σκιάζω</Word>
+          <Meaning LanguageCode="en">
+            <Meaning>shade, overshadow</Meaning>
+          </Meaning>
+          <Meaning LanguageCode="zhT">
+            <Meaning>陰，遮蓋</Meaning>
+          </Meaning>
+        </RelatedLemma>
+        <RelatedLemma>
+          <Word>σκιά</Word>
+        </RelatedLemma>
+      </RelatedLemmas>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="002000001001000" IsBiblicalTerm="Y" EntryCode="14.62" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Physical Events and States</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Darkness</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-06-25 09:13:56" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>to cause a shadow by interposing something between an object and a source of light</DefinitionShort>
+              <Glosses>
+                <Gloss>to cast a shadow upon</Gloss>
+              </Glosses>
+              <Comments>In {S:04400501500042} there is a semantic duplication of the element of ‘shadow’ in view of the noun {L:σκιά&lt;SDBG:σκιά:000000&gt;} and the verb ἐπισκιάζω. In {S:04001700500014} the shining cloud would not produce the same kind of shadow as in the case of {S:04400501500042}, but it would be interposed between (1) the sun and (2) Jesus and his disciples. In {S:04001700500014} the shining cloud may thus be more like a covering than a shadow. The reference to this shining cloud in {S:04001700500014} as the Shekinah of God is discussed in {D:14.49} and {D:14.50}.|In {S:04200103500030} ἐπισκιάζω is used figuratively in speaking of the agency of the Holy Spirit in causing Mary to conceive: πνεῦμα ἅγιον ἐπελεύσεται ἐπὶ σέκαὶ δύναμις ὑψίστου ἐπισκιάσει σοι the Holy Spirit will come upon you and the power of the Most High will overshadow you.|In a number of languages it is not possible, however, to translate ἐπισκιάζω literally as ‘overshadow.’ It may therefore be necessary to use some such expression as the power of the Most High will come to you or God’s power will come upon you. A strictly literal rendering of ἐπισκιάζω in {S:04200103500030} could be interpreted in some languages as being a rather crude reference to sexual intercourse, and this interpretation should be avoided.</Comments>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04001700500014</LEXReference>
+            <LEXReference>04100900700008</LEXReference>
+            <LEXReference>04200103500030</LEXReference>
+            <LEXReference>04200903400016</LEXReference>
+            <LEXReference>04400501500042</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

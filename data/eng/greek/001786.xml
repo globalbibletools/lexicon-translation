@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="001786000000000" Lemma="ἔννομος" Version="0" HasAramaic="false" InLXX="true" AlphaPos="ε">
+  <StrongCodes>
+    <Strong>G1772</Strong>
+  </StrongCodes>
+  <Authors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes/>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="001786001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>adjc.</PartOfSpeech>
+      </PartsOfSpeech>
+      <Inflections>
+        <Inflection Lemma="ἔννομος" BaseFormIndex="1">
+          <Form/>
+          <Realizations>
+            <Realization>-ον</Realization>
+          </Realizations>
+          <Comments/>
+        </Inflection>
+      </Inflections>
+      <RelatedLemmas>
+        <RelatedLemma>
+          <Word>νόμος</Word>
+        </RelatedLemma>
+      </RelatedLemmas>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="001786001001000" IsBiblicalTerm="M" EntryCode="33.336" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Communication</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Law, Regulation, Ordinance</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-06-01 10:17:50" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>(derivative of {L:νόμος&lt;SDBG:νόμος:000000&gt;}[a] ‘law, rule,’ {D:33.333}) pertaining to being in accordance with law</DefinitionShort>
+              <Glosses>
+                <Gloss>legal</Gloss>
+                <Gloss>in accordance with law</Gloss>
+              </Glosses>
+              <Comments>In some languages the equivalent of ‘legal meeting’ would be ‘regular meeting’ or ‘a meeting called by an official’ or ‘a meeting authorized by an official.’</Comments>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04401903900016</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+        <LEXMeaning Id="001786001002000" IsBiblicalTerm="Y" EntryCode="33.342" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Communication</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Law, Regulation, Ordinance</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-06-01 10:17:50" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>pertaining to being under obligation imposed by law</DefinitionShort>
+              <Glosses>
+                <Gloss>subject to law</Gloss>
+                <Gloss>under law</Gloss>
+              </Glosses>
+              <Comments>In some languages there is a difficulty involved in rendering ἔννομος by a phrase such as ‘under law,’ since this may be understood in a sense of ‘beneath the law’ or ‘illegal.’ A more common expression would be ‘tied to the law’ or ‘obligated by the law.’</Comments>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04600902100020</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

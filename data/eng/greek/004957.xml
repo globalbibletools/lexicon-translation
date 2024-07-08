@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="004957000000000" Lemma="τελώνιον" Version="0" HasAramaic="false" InLXX="false" AlphaPos="τ">
+  <StrongCodes>
+    <Strong>G5058</Strong>
+  </StrongCodes>
+  <Authors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes/>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="004957001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>noun, n.</PartOfSpeech>
+      </PartsOfSpeech>
+      <Inflections>
+        <Inflection Lemma="τελώνιον" BaseFormIndex="1">
+          <Form/>
+          <Realizations>
+            <Realization>-ου</Realization>
+          </Realizations>
+          <Comments/>
+        </Inflection>
+      </Inflections>
+      <Constructs>
+        <Construct Lemma="τελώνιον" BaseFormIndex="1">
+          <WordMeaningSet>
+            <Word>τελέω</Word>
+          </WordMeaningSet>
+          <WordMeaningSet>
+            <Word>ὠνέομαι</Word>
+          </WordMeaningSet>
+        </Construct>
+      </Constructs>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="004957001001000" IsBiblicalTerm="Y" EntryCode="57.183" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Possess, Transfer, Exchange</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Tax, Tribute</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2022-04-05 14:15:25" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>(derivative of {L:τελέω&lt;SDBG:τελέω:000004&gt;}[e] ‘to pay taxes,’ {D:57.178}) a place where taxes or revenue was collected from those entering a town to sell produce</DefinitionShort>
+              <Glosses>
+                <Gloss>revenue office</Gloss>
+                <Gloss>tax office</Gloss>
+              </Glosses>
+              <Comments>In the ancient world taxes were primarily of two types: (1) a head tax on each individual (which was relatively small) and (2) revenue or tribute paid for goods and produce brought into an area for sale. The latter was essentially a kind of ‘sales tax,’ but paid by the seller who obviously increased the prices of goods accordingly.</Comments>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04000900900022</LEXReference>
+            <LEXReference>04100201400022</LEXReference>
+            <LEXReference>04200502700026</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

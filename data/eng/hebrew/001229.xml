@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="001229000000000" Lemma="בְּתוּלִים" Version="5" HasAramaic="false" InLXX="false" AlphaPos="ב">
+  <StrongCodes>
+    <Strong>H1331</Strong>
+  </StrongCodes>
+  <Authors>
+    <Author>Reinier de Blois</Author>
+  </Authors>
+  <Contributors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes/>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="001229001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>nsf</PartOfSpeech>
+      </PartsOfSpeech>
+      <RelatedLemmas>
+        <RelatedLemma>
+          <Word>בְּתוּלָה</Word>
+        </RelatedLemma>
+      </RelatedLemmas>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="001229001001000" IsBiblicalTerm="M" EntryCode="" Indent="0">
+          <LEXDomains>
+            <LEXDomain Code="001001002003">People</LEXDomain>
+          </LEXDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2017-11-24 14:38:05" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>= state of being a young unmarried woman, who has never been married before, and has never slept with a man</DefinitionShort>
+              <Glosses>
+                <Gloss>virginity</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>00302101300010</LEXReference>
+            <LEXReference>00701103700050</LEXReference>
+            <LEXReference>00701103800034</LEXReference>
+            <LEXReference>02602300300030</LEXReference>
+            <LEXReference>02602300800034</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+          <LEXCoreDomains>
+            <LEXCoreDomain Code="082">Human</LEXCoreDomain>
+            <LEXCoreDomain Code="105">Marriage</LEXCoreDomain>
+          </LEXCoreDomains>
+        </LEXMeaning>
+        <LEXMeaning Id="001229001002000" IsBiblicalTerm="Y" EntryCode="" Indent="0">
+          <LEXDomains>
+            <LEXDomain Code="002004002007" Source="People" SourceCode="001001002003">Know</LEXDomain>
+          </LEXDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2017-11-24 14:38:05" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>= signs that are to prove that a particular young woman never slept with a man before getting married</DefinitionShort>
+              <Glosses>
+                <Gloss>tokens of virginity</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>00502201400052</LEXReference>
+            <LEXReference>00502201500026</LEXReference>
+            <LEXReference>00502201700026</LEXReference>
+            <LEXReference>00502201700032</LEXReference>
+            <LEXReference>00502202000022</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

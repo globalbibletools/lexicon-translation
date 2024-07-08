@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="002682000000000" Lemma="טחן" Version="5" HasAramaic="false" InLXX="false" AlphaPos="ט">
+  <StrongCodes>
+    <Strong>H2912</Strong>
+  </StrongCodes>
+  <Authors>
+    <Author>Timothy L. Wilt; Enio R. Mueller</Author>
+  </Authors>
+  <Contributors/>
+  <AlternateLemmas>
+    <AlternateLemma>טֹחֲנֹות</AlternateLemma>
+  </AlternateLemmas>
+  <MainLinks/>
+  <Notes>
+    <Note Caller="1" LanguageCode="en" LastEdited="" LastEditedBy="">
+      <References>
+        <Reference>01803101000002</Reference>
+      </References>
+      <Content>This interpretation is supported by Targum, Vulgate and the parallel sentence "let others bow down upon her". Probably both the primary sense and this extension are implied: a woman grinding grain for another would be his slave or concubine and thus could be treated as he wished.</Content>
+    </Note>
+    <Note Caller="2" LanguageCode="en" LastEdited="" LastEditedBy="">
+      <References>
+        <Reference>02101200300034</Reference>
+      </References>
+      <Content>RSV NIV "grinders" | NRSV NJPS REB NJB ref. to women who grind | CEV GNT "teeth"</Content>
+    </Note>
+  </Notes>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="002682001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>vb</PartOfSpeech>
+      </PartsOfSpeech>
+      <RelatedLemmas>
+        <RelatedLemma>
+          <Word>טְחֹון</Word>
+        </RelatedLemma>
+        <RelatedLemma>
+          <Word>טַחֲנָה</Word>
+        </RelatedLemma>
+      </RelatedLemmas>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="002682001001000" IsBiblicalTerm="Y" EntryCode="" Indent="0">
+          <LEXDomains>
+            <LEXDomain Code="002001001023">Impact</LEXDomain>
+          </LEXDomains>
+          <LEXForms>
+            <LEXForm>vbqal-</LEXForm>
+          </LEXForms>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2017-04-17 10:33:25" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>= causative action by which humans reduce objects to tiny particles or powder with the help of a hand-mill or larger millstone; ≈ regarded as a menial task</DefinitionShort>
+              <Glosses>
+                <Gloss>to grind</Gloss>
+                <Gloss>to crush</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>00203202000028</LEXReference>
+            <LEXReference>00401100800014</LEXReference>
+            <LEXReference>00500902100038</LEXReference>
+            <LEXReference>00701602100038</LEXReference>
+            <LEXReference>01803101000002{N:001}</LEXReference>
+            <LEXReference>02101200300034{N:002}</LEXReference>
+            <LEXReference>02300301500018</LEXReference>
+            <LEXReference>02304700200008</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

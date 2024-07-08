@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="003884000000000" Lemma="πειθώ" Version="0" HasAramaic="false" InLXX="false" AlphaPos="π">
+  <StrongCodes/>
+  <Authors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes/>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="003884001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>adjc.</PartOfSpeech>
+      </PartsOfSpeech>
+      <Inflections>
+        <Inflection Lemma="πειθώ" BaseFormIndex="1">
+          <Form/>
+          <Realizations>
+            <Realization>-οῦς</Realization>
+          </Realizations>
+          <Comments/>
+        </Inflection>
+        <Inflection Lemma="πειθώ" BaseFormIndex="1">
+          <Form>dat.sg.</Form>
+          <Realizations>
+            <Realization>πειθοῖ</Realization>
+          </Realizations>
+          <Comments/>
+        </Inflection>
+      </Inflections>
+      <RelatedLemmas>
+        <RelatedLemma>
+          <Word>πείθω</Word>
+        </RelatedLemma>
+      </RelatedLemmas>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="003884001001000" IsBiblicalTerm="Y" EntryCode="33.306" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Communication</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Urge, Persuade</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-12-23 21:29:42" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>(derivative of {L:πείθω&lt;SDBG:πείθω:000000&gt;}[a] ‘to persuade,’ {D:33.301}) the capacity to persuade or convince</DefinitionShort>
+              <Glosses>
+                <Gloss>persuasive power</Gloss>
+                <Gloss>convincing ability</Gloss>
+              </Glosses>
+              <Comments>This word is found as a variant reading only: ἐν πειθοῖ σοφίας ‘with the persuasive power of (human) wisdom’ {S:04600200400022} (apparatus).</Comments>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04600200400022</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

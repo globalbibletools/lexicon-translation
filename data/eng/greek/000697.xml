@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="000697000000000" Lemma="ἀρετή" Version="0" HasAramaic="false" InLXX="true" AlphaPos="α">
+  <StrongCodes>
+    <Strong>G0703</Strong>
+  </StrongCodes>
+  <Authors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes/>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="000697001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>noun, f.</PartOfSpeech>
+      </PartsOfSpeech>
+      <Inflections>
+        <Inflection Lemma="ἀρετή" BaseFormIndex="1">
+          <Form/>
+          <Realizations>
+            <Realization>-ῆς</Realization>
+          </Realizations>
+          <Comments/>
+        </Inflection>
+      </Inflections>
+      <RelatedLemmas>
+        <RelatedLemma>
+          <Word>ἀρέσκω</Word>
+        </RelatedLemma>
+      </RelatedLemmas>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="000697001001000" IsBiblicalTerm="M" EntryCode="88.11" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Moral and Ethical Qualities and Related Behavior</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Goodness</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-08-16 15:56:16" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>the quality of moral excellence</DefinitionShort>
+              <Glosses>
+                <Gloss>outstanding goodness</Gloss>
+                <Gloss>virtue</Gloss>
+              </Glosses>
+              <Comments>It is possible, however, that ἀρετή in {S:06100100300046} denotes the manifestation of (divine) power (see {D:76.14}).</Comments>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>05000400800038</LEXReference>
+            <LEXReference>06000200900028</LEXReference>
+            <LEXReference>06100100300046</LEXReference>
+            <LEXReference>06100100500028</LEXReference>
+            <LEXReference>06100100500036</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+        <LEXMeaning Id="000697001002000" IsBiblicalTerm="M" EntryCode="76.14" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Power, Force</LEXDomain>
+          </LEXDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-08-16 15:56:16" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>a manifestation of power characterized by excellence</DefinitionShort>
+              <Glosses>
+                <Gloss>wonderful act</Gloss>
+                <Gloss>powerful deed</Gloss>
+                <Gloss>wonderful deed</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>06000200900028</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="003624000000000" Lemma="ὀρθός" Version="0" HasAramaic="false" InLXX="true" AlphaPos="ο">
+  <StrongCodes>
+    <Strong>G3717</Strong>
+  </StrongCodes>
+  <Authors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes>
+    <Note Caller="1" LanguageCode="en" LastEdited="" LastEditedBy="">
+      <References/>
+      <Content>In earlier Greek ὀρθός meant straight up and down while εὐθύς meant straight on the horizontal plane, but this distinction has not always been preserved in Koine Greek.</Content>
+    </Note>
+  </Notes>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="003624001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>adjc.</PartOfSpeech>
+      </PartsOfSpeech>
+      <Inflections>
+        <Inflection Lemma="ὀρθός" BaseFormIndex="1">
+          <Form/>
+          <Realizations>
+            <Realization>-ή, -όν</Realization>
+          </Realizations>
+          <Comments/>
+        </Inflection>
+      </Inflections>
+      <RelatedLemmas>
+        <RelatedLemma>
+          <Word>ἀνορθόω</Word>
+        </RelatedLemma>
+        <RelatedLemma>
+          <Word>διόρθωμα</Word>
+        </RelatedLemma>
+        <RelatedLemma>
+          <Word>διόρθωσις</Word>
+        </RelatedLemma>
+        <RelatedLemma>
+          <Word>ἐπανόρθωσις</Word>
+        </RelatedLemma>
+        <RelatedLemma>
+          <Word>ἐπιδιορθόω</Word>
+        </RelatedLemma>
+        <RelatedLemma>
+          <Word>ὀρθοποδέω</Word>
+        </RelatedLemma>
+        <RelatedLemma>
+          <Word>ὀρθοτομέω</Word>
+        </RelatedLemma>
+        <RelatedLemma>
+          <Word>ὀρθῶς</Word>
+        </RelatedLemma>
+      </RelatedLemmas>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="003624001001000" IsBiblicalTerm="M" EntryCode="79.88" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Features of Objects</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Straight, Crooked</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-12-15 19:00:31" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>pertaining to being straight in contrast to what is crooked{N:001}</DefinitionShort>
+              <Glosses>
+                <Gloss>straight</Gloss>
+                <Gloss>direct</Gloss>
+              </Glosses>
+              <Comments>The context of {S:05801201300006} is, of course, figurative.</Comments>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04401401000018</LEXReference>
+            <LEXReference>05801201300006</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+        <LEXMeaning Id="003624001002000" IsBiblicalTerm="Y" EntryCode="41.30" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Behavior and Related States</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Particular Patterns of Behavior</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXCollocations>
+            <LEXCollocation>τροχιὰς ὀρθὰς ποιέω τοῖς ποσίν</LEXCollocation>
+          </LEXCollocations>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-12-15 19:00:31" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>(an idiom, literally: to make straight wheel tracks for the feet) to live or behave in strict conformance to a predetermined model for behavior</DefinitionShort>
+              <Glosses>
+                <Gloss>to live</Gloss>
+                <Gloss>to behave</Gloss>
+                <Gloss>to conduct oneself correctly</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>05801201300006</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

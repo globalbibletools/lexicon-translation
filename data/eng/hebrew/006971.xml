@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="006971000000000" Lemma="שֹׂבַע" Version="4" HasAramaic="false" InLXX="false" AlphaPos="ש">
+  <StrongCodes>
+    <Strong>H7648</Strong>
+  </StrongCodes>
+  <Authors>
+    <Author>Reinier de Blois</Author>
+  </Authors>
+  <Contributors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes/>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="006971001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>nsm</PartOfSpeech>
+      </PartsOfSpeech>
+      <RelatedLemmas>
+        <RelatedLemma>
+          <Word>שׂבע</Word>
+        </RelatedLemma>
+      </RelatedLemmas>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="006971001001000" IsBiblicalTerm="Y" EntryCode="" Indent="0">
+          <LEXDomains>
+            <LEXDomain Code="002001001024">Ingest</LEXDomain>
+          </LEXDomains>
+          <LEXAntonyms>
+            <LEXAntonym>חסר</LEXAntonym>
+            <LEXAntonym>רָעָב</LEXAntonym>
+          </LEXAntonyms>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2017-08-10 13:28:29" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>= process by which someone's desire for food is fulfilled</DefinitionShort>
+              <Glosses>
+                <Gloss>satiated</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>00201600300050</LEXReference>
+            <LEXReference>00302501900018</LEXReference>
+            <LEXReference>00302600500032</LEXReference>
+            <LEXReference>00502302500022</LEXReference>
+            <LEXReference>00800201800044</LEXReference>
+            <LEXReference>01907802500018</LEXReference>
+            <LEXReference>02001302500008</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+          <LEXCoreDomains>
+            <LEXCoreDomain Code="069">Food</LEXCoreDomain>
+          </LEXCoreDomains>
+        </LEXMeaning>
+        <LEXMeaning Id="006971001002000" IsBiblicalTerm="Y" EntryCode="" Indent="0">
+          <LEXDomains>
+            <LEXDomain Code="002003003010" Source="Ingest" SourceCode="002001001024">Engage</LEXDomain>
+          </LEXDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2017-08-09 14:30:15" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>literally: satiated (with an event); hence: = process by which humans become more than fully engaged in a certain process or activity, which can be either good or bad</DefinitionShort>
+              <Glosses>
+                <Gloss>satisfied</Gloss>
+                <Gloss>having (one's) fill (of something)</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>01901601100008</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

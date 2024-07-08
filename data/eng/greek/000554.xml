@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="000554000000000" Lemma="ἀπελαύνω" Version="0" HasAramaic="false" InLXX="true" AlphaPos="α">
+  <StrongCodes>
+    <Strong>G0556</Strong>
+  </StrongCodes>
+  <Authors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes/>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="000554001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>verb</PartOfSpeech>
+      </PartsOfSpeech>
+      <Inflections>
+        <Inflection Lemma="ἀπελαύνω" BaseFormIndex="1">
+          <Form>aor.</Form>
+          <Realizations>
+            <Realization>ἀπήλασα</Realization>
+          </Realizations>
+          <Comments/>
+        </Inflection>
+      </Inflections>
+      <RelatedLemmas>
+        <RelatedLemma>
+          <Word>ἐλαύνω</Word>
+        </RelatedLemma>
+      </RelatedLemmas>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="000554001001000" IsBiblicalTerm="Y" EntryCode="15.56" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Linear Movement</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Leave, Depart, Flee, Escape, Send</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2022-08-22 14:45:41" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>to cause to move away from a point by threat or by force</DefinitionShort>
+              <Glosses>
+                <Gloss>to drive away</Gloss>
+                <Gloss>to force to leave</Gloss>
+              </Glosses>
+              <Comments>A strictly literal translation of {S:04401801600004} as ‘he drove them out of court’ might imply that Gallio personally and physically forced them out of the court; probably, he simply caused them to be driven out of the court by court officials. Therefore, it may be necessary in some languages to indicate this causative relationship by ‘he ordered them to leave the court’ or ‘he ordered the officials to force them out of the court.’</Comments>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04401801600004</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

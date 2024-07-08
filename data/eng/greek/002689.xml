@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="002689000000000" Lemma="κατασκευάζω" Version="0" HasAramaic="false" InLXX="true" AlphaPos="κ">
+  <StrongCodes>
+    <Strong>G2680</Strong>
+  </StrongCodes>
+  <Authors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes>
+    <Note Caller="1" LanguageCode="en" LastEdited="" LastEditedBy="">
+      <References/>
+      <Content>It is possible that in some contexts κατασκευάζω[b] differs from οἰκοδομέω[a] in implying that a construction is being readied for some special purpose.</Content>
+    </Note>
+  </Notes>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="002689001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>verb</PartOfSpeech>
+      </PartsOfSpeech>
+      <RelatedLemmas>
+        <RelatedLemma>
+          <Word>σκευάζω</Word>
+          <Meaning LanguageCode="en">
+            <Meaning>prepare</Meaning>
+          </Meaning>
+          <Meaning LanguageCode="zhT">
+            <Meaning>準備</Meaning>
+          </Meaning>
+        </RelatedLemma>
+        <RelatedLemma>
+          <Word>σκεῦος</Word>
+        </RelatedLemma>
+      </RelatedLemmas>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="002689001001000" IsBiblicalTerm="M" EntryCode="77.6" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Ready, Prepared</LEXDomain>
+          </LEXDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-09-24 10:38:42" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>to cause to be thoroughly prepared</DefinitionShort>
+              <Glosses>
+                <Gloss>to prepare</Gloss>
+                <Gloss>to make ready</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04100100200034</LEXReference>
+            <LEXReference>04200101700048</LEXReference>
+            <LEXReference>05800900200006</LEXReference>
+            <LEXReference>05800900600008</LEXReference>
+            <LEXReference>05801100700018</LEXReference>
+            <LEXReference>06000302000024</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+        <LEXMeaning Id="002689001002000" IsBiblicalTerm="M" EntryCode="45.1" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Building, Constructing</LEXDomain>
+          </LEXDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-09-24 10:38:42" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>to make or erect any kind of construction{N:001}</DefinitionShort>
+              <Glosses>
+                <Gloss>to build</Gloss>
+                <Gloss>to construct</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>05800300300032</LEXReference>
+            <LEXReference>05800300400008</LEXReference>
+            <LEXReference>05800300400020</LEXReference>
+            <LEXReference>05801100700018</LEXReference>
+            <LEXReference>06000302000024</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+        <LEXMeaning Id="002689001003000" IsBiblicalTerm="M" EntryCode="77.7" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Ready, Prepared</LEXDomain>
+          </LEXDomains>
+          <LEXCollocations>
+            <LEXCollocation>κατασκευάζω τὴν ὁδόν</LEXCollocation>
+          </LEXCollocations>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-09-24 10:38:42" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>(an idiom, literally: to prepare the road) to cause circumstances to be ready or propitious for some event</DefinitionShort>
+              <Glosses>
+                <Gloss>to make ready for</Gloss>
+                <Gloss>to prepare for</Gloss>
+                <Gloss>to prepare the way for</Gloss>
+              </Glosses>
+              <Comments>In some languages it may be better to render this expression in {S:04001101000032} as ‘who will arrange everything for you.’</Comments>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04001101000032</LEXReference>
+            <LEXReference>04200702700030</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

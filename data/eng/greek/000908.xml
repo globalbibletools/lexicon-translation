@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="000908000000000" Lemma="βαπτισμός" Version="0" HasAramaic="false" InLXX="false" AlphaPos="β">
+  <StrongCodes>
+    <Strong>G0909</Strong>
+  </StrongCodes>
+  <Authors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes>
+    <Note Caller="1" LanguageCode="en" LastEdited="" LastEditedBy="">
+      <References/>
+      <Content>βαπτίζω[b] and βαπτισμός[b] should not be confused in meaning with βαπτίζω[a] and βαπτισμός[a] to wash, to purify ({D:53.31}). Both sets of meanings involve purification, but only βαπτίζω[b] and βαπτισμός[b] involve initiation into a religious community.</Content>
+    </Note>
+  </Notes>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="000908001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>noun, m.</PartOfSpeech>
+      </PartsOfSpeech>
+      <Inflections>
+        <Inflection Lemma="βαπτισμός" BaseFormIndex="1">
+          <Form/>
+          <Realizations>
+            <Realization>-οῦ</Realization>
+          </Realizations>
+          <Comments/>
+        </Inflection>
+      </Inflections>
+      <RelatedLemmas>
+        <RelatedLemma>
+          <Word>βάπτω</Word>
+        </RelatedLemma>
+      </RelatedLemmas>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="000908001001000" IsBiblicalTerm="M" EntryCode="53.31" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Religious Activities</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Purify, Cleanse</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-02-04 22:04:30" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>to wash (in some contexts, possibly by dipping into water), with a view to making objects ritually acceptable</DefinitionShort>
+              <Glosses>
+                <Gloss>to wash</Gloss>
+                <Gloss>to purify</Gloss>
+                <Gloss>washing</Gloss>
+                <Gloss>purification</Gloss>
+              </Glosses>
+              <Comments>There is some doubt as to the precise extent to which {L:βαπτίζω&lt;SDBG:βαπτίζω:000000&gt;}[a], {L:καταβαπτίζω&lt;SDBG:καταβαπτίζω:000000&gt;}, and βαπτισμός[a] in {S:04100700400000} involve ritual cleansing, but the context would seem to imply this, particularly in view of the relationship of such washing to the rules followed by Jews in general and Pharisees in particular.</Comments>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04100700400032</LEXReference>
+            <LEXReference>05800600200002</LEXReference>
+            <LEXReference>05800901000016</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+        <LEXMeaning Id="000908001002000" IsBiblicalTerm="M" EntryCode="53.41" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Religious Activities</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Baptize</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-02-04 22:04:30" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>to employ water in a religious ceremony designed to symbolize purification and initiation on the basis of repentance{N:001}</DefinitionShort>
+              <Glosses>
+                <Gloss>to baptize</Gloss>
+                <Gloss>baptism</Gloss>
+              </Glosses>
+              <Comments>According to the Didache (early second century) different forms of baptism were practiced in the early church, but with evident preference given to immersion.|The baptism practiced by John the Baptist would seem to reflect far more the Jewish pattern of ritual washing than the type of baptism employed by Christians, which constituted a symbol of initiation into the Christian community on the basis of belief in and loyalty to Jesus Christ as Lord and Savior. There seems, however, to be no reason to employ a different expression for baptism in the case of John than in the case of the early Christians. Most translators actually employ a transliterated form of the Greek term βαπτίζω, but in some languages this is both awkward as well as inappropriate, especially if another term or expression has already been employed and is widely accepted by groups practicing various types or forms of baptism. In some languages, for example, one may employ an expression such as ‘to enter the water’ or ‘to undergo the ritual involving water.’ Such expressions do not necessarily imply the quantity of water nor the particular means by which water is applied.</Comments>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>05100201200010</LEXReference>
+            <LEXReference>05800600200002</LEXReference>
+            <LEXReference>05800901000016</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="003410000000000" Lemma="כְּפַר הָעַמֹּנָה" Version="5" HasAramaic="false" InLXX="false" AlphaPos="כ">
+  <StrongCodes>
+    <Strong>H3726</Strong>
+  </StrongCodes>
+  <Authors>
+    <Author>Reinier de Blois</Author>
+  </Authors>
+  <Contributors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes>
+    <Note Caller="1" LanguageCode="en" LastEdited="" LastEditedBy="">
+      <References>
+        <Reference>00601802400012</Reference>
+      </References>
+      <Content>MT-Q VUL "villa Emona" NJPS "Chephar-ammonah" | MT-K כפר העמני RSV GNT "Chepharammoni" NIV "Kephar-Ammoni" NJB CEV "Chephar-Ammoni" NRSV ESV "Chephar-ammoni" REB "Kephar-ammoni"</Content>
+    </Note>
+  </Notes>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="003410001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>np</PartOfSpeech>
+      </PartsOfSpeech>
+      <RelatedLemmas>
+        <RelatedLemma>
+          <Word>כָּפָר</Word>
+        </RelatedLemma>
+        <RelatedLemma>
+          <Word>כֹּפֶר</Word>
+        </RelatedLemma>
+      </RelatedLemmas>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="003410001001000" IsBiblicalTerm="Y" EntryCode="" Indent="0">
+          <LEXDomains>
+            <LEXDomain Code="003001010">Names of Locations</LEXDomain>
+          </LEXDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2017-01-23 16:32:25" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>= town; ◄ territory of {L:Benjamin&lt;SDBH:בִּנְיָמִן&gt;}</DefinitionShort>
+              <Glosses>
+                <Gloss>Chephar-Ammonah</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>00601802400012{N:001}</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

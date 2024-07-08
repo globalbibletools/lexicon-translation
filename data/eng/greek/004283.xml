@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="004283000000000" Lemma="πρόσχυσις" Version="0" HasAramaic="false" InLXX="false" AlphaPos="π">
+  <StrongCodes>
+    <Strong>G4378</Strong>
+  </StrongCodes>
+  <Authors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes/>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="004283001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>noun, f.</PartOfSpeech>
+      </PartsOfSpeech>
+      <Inflections>
+        <Inflection Lemma="πρόσχυσις" BaseFormIndex="1">
+          <Form/>
+          <Realizations>
+            <Realization>-εως</Realization>
+          </Realizations>
+          <Comments/>
+        </Inflection>
+      </Inflections>
+      <RelatedLemmas>
+        <RelatedLemma>
+          <Word>χέω</Word>
+          <Meaning LanguageCode="en">
+            <Meaning>pour</Meaning>
+          </Meaning>
+          <Meaning LanguageCode="zhT">
+            <Meaning>倒</Meaning>
+          </Meaning>
+        </RelatedLemma>
+      </RelatedLemmas>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="004283001001000" IsBiblicalTerm="Y" EntryCode="47.7" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Activities Involving Liquids or Masses</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Movement of Liquids or Masses</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2022-02-04 15:58:11" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>the act of pouring something on or against something</DefinitionShort>
+              <Glosses>
+                <Gloss>pouring (or possibly sprinkling)</Gloss>
+              </Glosses>
+              <Comments>Since in most contexts this act of πρόσχυσις τοῦ αἵματος is spoken of as ‘sprinkling,’ it may be preferable to employ ‘sprinkling’ in {S:05801102800014}, since πρόσχυσις may have acquired a generic sense which would include the specific act of sprinkling. See also {D:47.16}.</Comments>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>05801102800014</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

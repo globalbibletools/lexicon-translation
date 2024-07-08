@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="000129000000000" Lemma="אַדְמָה" Version="5" HasAramaic="false" InLXX="false" AlphaPos="א">
+  <StrongCodes>
+    <Strong>H0126</Strong>
+  </StrongCodes>
+  <Authors>
+    <Author>Reinier de Blois</Author>
+  </Authors>
+  <Contributors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes>
+    <Note Caller="1" LanguageCode="en" LastEdited="" LastEditedBy="">
+      <References>
+        <Reference>02800600700008</Reference>
+      </References>
+      <Content>{A:REB} בְּאַדְמָה "at Admah" | RSV NRSV NJB GNT CEV "at Adam" = {L:אָדָם&lt;SDBH:אָדָם&gt;} [2b] | NIV "like Adam" = {L:אָדָם&lt;SDBH:אָדָם&gt;} [2a] | NJPS "to a man" = {L:אָדָם&lt;SDBH:אָדָם&gt;} [1a]</Content>
+    </Note>
+  </Notes>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="000129001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>np</PartOfSpeech>
+      </PartsOfSpeech>
+      <RelatedLemmas>
+        <RelatedLemma>
+          <Word>אדם</Word>
+        </RelatedLemma>
+      </RelatedLemmas>
+      <MeaningsOfName>
+        <MeaningOfName LanguageCode="en">
+          <Meaning>red earth</Meaning>
+        </MeaningOfName>
+        <MeaningOfName LanguageCode="pt">
+          <Meaning>terra vermelha</Meaning>
+        </MeaningOfName>
+      </MeaningsOfName>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="000129001001000" IsBiblicalTerm="Y" EntryCode="" Indent="0">
+          <LEXDomains>
+            <LEXDomain Code="003001010">Names of Locations</LEXDomain>
+          </LEXDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2015-11-13 17:25:13" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>= town; ◄ located near {L:Dead Sea&lt;SDBH:יָם־הַמֶּלַח&gt;}; ► destroyed with {L:Sodom&lt;SDBH:סְדֹם&gt;} and {L:Gomorrah&lt;SDBH:עֲמֹרָה&gt;}</DefinitionShort>
+              <Glosses>
+                <Gloss>Admah</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>00101001900034</LEXReference>
+            <LEXReference>00101400200028</LEXReference>
+            <LEXReference>00101400800020</LEXReference>
+            <LEXReference>00502902200046</LEXReference>
+            <LEXReference>02800600700008{N:001}</LEXReference>
+            <LEXReference>02801100800018</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+          <LEXCoordinates>
+            <LEXCoordinates>31.119422,35.412530</LEXCoordinates>
+          </LEXCoordinates>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="001651000000000" Lemma="ἐλαιών" Version="0" HasAramaic="false" InLXX="true" AlphaPos="ε">
+  <StrongCodes>
+    <Strong>G1638</Strong>
+  </StrongCodes>
+  <Authors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes/>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="001651001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>noun, m.</PartOfSpeech>
+      </PartsOfSpeech>
+      <Inflections>
+        <Inflection Lemma="ἐλαιών" BaseFormIndex="1">
+          <Form/>
+          <Realizations>
+            <Realization>-ῶνος</Realization>
+          </Realizations>
+          <Comments/>
+        </Inflection>
+      </Inflections>
+      <RelatedLemmas>
+        <RelatedLemma>
+          <Word>ἐλαία</Word>
+        </RelatedLemma>
+      </RelatedLemmas>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="001651001001000" IsBiblicalTerm="M" EntryCode="3.12" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Plants</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Trees</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-05-14 10:05:56" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>(derivative of {L:ἐλαία&lt;SDBG:ἐλαία:000000&gt;}[a] ‘olive tree,’ {D:3.9}) a number of olive trees planted in a garden or grove</DefinitionShort>
+              <Glosses>
+                <Gloss>olive grove</Gloss>
+                <Gloss>olive orchard</Gloss>
+              </Glosses>
+              <Comments>In {S:04400101200018}, it may be well to employ the more common designation for ‘the hill called The Olive Grove,’ namely, ‘Hill of Olives’ or ‘Mount of Olives’ (see {D:3.9}).</Comments>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04400101200018</LEXReference>
+          </LEXReferences>
+          <LEXLinks>
+            <LEXLink>flora:2.8</LEXLink>
+          </LEXLinks>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

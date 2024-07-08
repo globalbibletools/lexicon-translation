@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="000019000000000" Lemma="ἀγαθωσύνη" Version="0" HasAramaic="false" InLXX="true" AlphaPos="α">
+  <StrongCodes>
+    <Strong>G0019</Strong>
+  </StrongCodes>
+  <Authors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes>
+    <Note Caller="1" LanguageCode="en" LastEdited="" LastEditedBy="">
+      <References>
+        <Reference>04800502200024</Reference>
+      </References>
+      <Content>ἀγαθωσύνη in this verse may also be understood as goodness (see {D:88.1}).</Content>
+    </Note>
+  </Notes>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="000019001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>noun, f.</PartOfSpeech>
+      </PartsOfSpeech>
+      <Inflections>
+        <Inflection Lemma="ἀγαθωσύνη" BaseFormIndex="1">
+          <Form/>
+          <Realizations>
+            <Realization>-ης</Realization>
+          </Realizations>
+          <Comments/>
+        </Inflection>
+      </Inflections>
+      <RelatedLemmas>
+        <RelatedLemma>
+          <Word>ἀγαθός</Word>
+        </RelatedLemma>
+      </RelatedLemmas>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="000019001001000" IsBiblicalTerm="M" EntryCode="88.1" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Moral and Ethical Qualities and Related Behavior</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Goodness</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-05-24 13:32:32" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>positive moral qualities of the most general nature</DefinitionShort>
+              <Glosses>
+                <Gloss>good</Gloss>
+                <Gloss>goodness</Gloss>
+                <Gloss>good act</Gloss>
+              </Glosses>
+              <Comments>In a number of languages there is no abstract term such as ‘goodness.’ Since goodness implies some type of activity involving others, one must frequently use a verb expression, for example, ‘to be good to’ or ‘to benefit.’ The qualification ‘full of’ in {S:04501501400030} must likewise be restructured in a number of languages so as to indicate the fact that one always engages in doing good, for example, ‘that you are always doing good to people.’</Comments>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04501501400030</LEXReference>
+            <LEXReference>04800502200024</LEXReference>
+            <LEXReference>04900500900016</LEXReference>
+            <LEXReference>05300101100040</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+        <LEXMeaning Id="000019001002000" IsBiblicalTerm="M" EntryCode="57.109" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Possess, Transfer, Exchange</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Give</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-05-24 13:32:32" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>the act of generous giving, with the implication of its relationship to goodness</DefinitionShort>
+              <Glosses>
+                <Gloss>to be generous</Gloss>
+                <Gloss>generosity</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04800502200024{N:001}</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="003283000000000" Lemma="μηδέποτε" Version="0" HasAramaic="false" InLXX="true" AlphaPos="μ">
+  <StrongCodes>
+    <Strong>G3368</Strong>
+  </StrongCodes>
+  <Authors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes/>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="003283001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>advb.</PartOfSpeech>
+      </PartsOfSpeech>
+      <Constructs>
+        <Construct Lemma="μηδέποτε" BaseFormIndex="1">
+          <WordMeaningSet>
+            <Word>μή</Word>
+          </WordMeaningSet>
+          <WordMeaningSet>
+            <Word>δέ</Word>
+          </WordMeaningSet>
+          <WordMeaningSet>
+            <Word>ποτέ</Word>
+          </WordMeaningSet>
+        </Construct>
+      </Constructs>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="003283001001000" IsBiblicalTerm="Y" EntryCode="67.10" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Time</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>A Point of Time without Reference to Other Points of Time: Time, Occasion, Ever, Often</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-12-03 20:57:11" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>an indefinite negated point of time</DefinitionShort>
+              <Glosses>
+                <Gloss>never</Gloss>
+                <Gloss>not ever</Gloss>
+                <Gloss>at no time</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>05500300700008</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

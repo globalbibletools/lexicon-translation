@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="001023000000000" Lemma="βοῦς" Version="0" HasAramaic="false" InLXX="true" AlphaPos="β">
+  <StrongCodes>
+    <Strong>G1016</Strong>
+  </StrongCodes>
+  <Authors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes/>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="001023001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>noun, m./f.</PartOfSpeech>
+      </PartsOfSpeech>
+      <Inflections>
+        <Inflection Lemma="βοῦς" BaseFormIndex="1">
+          <Form/>
+          <Realizations>
+            <Realization>βοός</Realization>
+          </Realizations>
+          <Comments/>
+        </Inflection>
+      </Inflections>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="001023001001000" IsBiblicalTerm="M" EntryCode="4.15" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Animals</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Animals</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-02-12 11:48:08" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>general word for individual cattle; may be male (bull or ox) or female (cow); plural: cattle</DefinitionShort>
+              <Glosses>
+                <Gloss>bull</Gloss>
+                <Gloss>ox</Gloss>
+                <Gloss>cow</Gloss>
+                <Gloss>cattle</Gloss>
+              </Glosses>
+              <Comments>In most contexts βοῦς (masc. gender) would seem to refer to an ox (in contrast with {L:ταῦρος&lt;SDBG:ταῦρος:000000&gt;} ‘bull,’ {D:4.16}). In the plural form βοῦς may be translated simply as a collective ‘cattle.’|Though in a number of languages a very special distinction is made between ‘bulls’ and ‘oxen’ (or ‘steers’), no such marked difference occurs in NT usage, and there appears to be no need of introducing any artificial distinction in particular passages.</Comments>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04201301500032</LEXReference>
+            <LEXReference>04201400500018</LEXReference>
+            <LEXReference>04201401900010</LEXReference>
+            <LEXReference>04300201400016</LEXReference>
+            <LEXReference>04300201500032</LEXReference>
+            <LEXReference>04600900900018</LEXReference>
+            <LEXReference>04600900900026</LEXReference>
+            <LEXReference>05400501800010</LEXReference>
+          </LEXReferences>
+          <LEXLinks>
+            <LEXLink>fauna:2.10</LEXLink>
+          </LEXLinks>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

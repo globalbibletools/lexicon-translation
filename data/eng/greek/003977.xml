@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="003977000000000" Lemma="πέτρα" Version="0" HasAramaic="false" InLXX="true" AlphaPos="π">
+  <StrongCodes>
+    <Strong>G4073</Strong>
+  </StrongCodes>
+  <Authors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes>
+    <Note Caller="1" LanguageCode="en" LastEdited="" LastEditedBy="">
+      <References>
+        <Reference>04500903300020</Reference>
+        <Reference>06000200800010</Reference>
+      </References>
+      <Content>In {S:04500903300020} and {S:06000200800010} πέτρα occurs in parallelism with λίθος stone, as a quotation from {S:02300801400000}. On the basis of this usage one might argue that λίθος and πέτρα are completely synonymous, at least in this context. One would then have to describe πέτρα as having two different meanings, one rock and another stone. Parallelism, however, does not mean identity of meaning. In fact, parallelism (in contrast with tautology) normally implies slight differences of meaning in corresponding lexical items.</Content>
+    </Note>
+  </Notes>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="003977001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>noun, f.</PartOfSpeech>
+      </PartsOfSpeech>
+      <Inflections>
+        <Inflection Lemma="πέτρα" BaseFormIndex="1">
+          <Form/>
+          <Realizations>
+            <Realization>-ας</Realization>
+          </Realizations>
+          <Comments/>
+        </Inflection>
+      </Inflections>
+      <RelatedLemmas>
+        <RelatedLemma>
+          <Word>πετρῶδες</Word>
+        </RelatedLemma>
+      </RelatedLemmas>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="003977001001000" IsBiblicalTerm="M" EntryCode="2.21" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Natural Substances</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Earth, Mud, Sand, Rock</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-12-27 11:15:49" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>bedrock (possibly covered with a thin layer of soil), rocky crags, or mountain ledges, in contrast with separate pieces of rock normally referred to as {L:λίθος&lt;SDBG:λίθος:000000&gt;}[a] (see {D:2.23}){N:001}</DefinitionShort>
+              <Glosses>
+                <Gloss>rock</Gloss>
+                <Gloss>bedrock</Gloss>
+              </Glosses>
+              <Comments>ὁμοιωθήσεται ἀνδρὶ φρονίμῳ, ὅστις ᾠκοδόμησεν αὐτοῦ τὴν οἰκίαν ἐπὶ τὴν πέτραν ‘he is like a wise man who built his house on bedrock’ {S:04000702400044}; ἔθηκεν αὐτὸν ἐν μνημείῳ ὅ ἦν λελατομημένον ἐκ πέτρας ‘they then put him in a grave which had been hewn from rock’ {S:04101504600036}; λέγουσιν τοῖς ὄρεσιν καὶ ταῖς πέτραις, Πέσετε ἐφ᾽ ἡμᾶς ‘they said to the mountains and to the rock cliffs, Fall on us’ {S:06600601600014}. In these three contexts πέτρα must be translated in some languages by three quite different terms. Bedrock, that is to say, the rock which lies horizontally and often just below the surface, may be referred to by one term, while rock with an exposed face into which a tomb could be hewn would be quite different. Similarly, the rocks which would be called upon to fall upon people would be rendered by a term referring to ‘cliffs’ or ‘precipices.’|In {S:04200800600012} the term πέτρα in ἕτερον κατέπεσεν ἐπὶ τὴν πέτραν ‘other (seed) fell on rocky ground’ refers to bedrock which may be covered with a thin layer of soil. One may translate such an expression as ‘thin ground over rock’ or ‘just a little soil on top of rock.’|In those passages which involve a play on words with the name Πέτρος ‘Peter,’ πέτρα refers to bedrock, that is to say, the rock on which a foundation may be placed.</Comments>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04000702400044</LEXReference>
+            <LEXReference>04000702500050</LEXReference>
+            <LEXReference>04001601800026</LEXReference>
+            <LEXReference>04002705100040</LEXReference>
+            <LEXReference>04002706000026</LEXReference>
+            <LEXReference>04101504600036</LEXReference>
+            <LEXReference>04200604800030</LEXReference>
+            <LEXReference>04200800600012</LEXReference>
+            <LEXReference>04200801300010</LEXReference>
+            <LEXReference>04500903300020</LEXReference>
+            <LEXReference>04601000400026</LEXReference>
+            <LEXReference>04601000400030</LEXReference>
+            <LEXReference>06000200800010</LEXReference>
+            <LEXReference>06600601500062</LEXReference>
+            <LEXReference>06600601600014</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

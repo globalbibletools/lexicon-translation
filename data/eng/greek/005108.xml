@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="005108000000000" Lemma="ὑπαντάω" Version="0" HasAramaic="false" InLXX="true" AlphaPos="υ">
+  <StrongCodes>
+    <Strong>G5221</Strong>
+  </StrongCodes>
+  <Authors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes/>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="005108001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>verb</PartOfSpeech>
+      </PartsOfSpeech>
+      <Constructs>
+        <Construct Lemma="ὑπαντάω" BaseFormIndex="1">
+          <WordMeaningSet>
+            <Word>ὑπό</Word>
+          </WordMeaningSet>
+          <WordMeaningSet>
+            <Word>ἀντάω</Word>
+            <Meaning LanguageCode="en">
+              <Meaning>meet</Meaning>
+            </Meaning>
+            <Meaning LanguageCode="zhT">
+              <Meaning>遇見</Meaning>
+            </Meaning>
+          </WordMeaningSet>
+        </Construct>
+      </Constructs>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="005108001001000" IsBiblicalTerm="Y" EntryCode="15.78" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Linear Movement</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Come Near, Approach</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2022-04-19 07:54:23" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>to come near to and to meet, either in a friendly or hostile sense</DefinitionShort>
+              <Glosses>
+                <Gloss>to draw near</Gloss>
+                <Gloss>to meet</Gloss>
+                <Gloss>to meet up with</Gloss>
+              </Glosses>
+              <Comments>In a number of languages it is necessary to specify clearly by the choice of terms whether the meeting is friendly or hostile.</Comments>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04000802800024</LEXReference>
+            <LEXReference>04002800900008</LEXReference>
+            <LEXReference>04100500200016</LEXReference>
+            <LEXReference>04200802700014</LEXReference>
+            <LEXReference>04301102000018</LEXReference>
+            <LEXReference>04301103000032</LEXReference>
+            <LEXReference>04301201800008</LEXReference>
+            <LEXReference>04401601600026</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+        <LEXMeaning Id="005108001002000" IsBiblicalTerm="Y" EntryCode="55.3" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Military Activities</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>To Fight</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2022-04-19 07:54:23" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>to oppose in battle</DefinitionShort>
+              <Glosses>
+                <Gloss>to meet in battle</Gloss>
+                <Gloss>to face in battle</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04201403100040</LEXReference>
+            <LEXReference>04300405100016</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

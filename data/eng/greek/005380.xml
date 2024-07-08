@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="005380000000000" Lemma="χείμαρρος" Version="0" HasAramaic="false" InLXX="true" AlphaPos="χ">
+  <StrongCodes>
+    <Strong>G5493</Strong>
+  </StrongCodes>
+  <Authors/>
+  <AlternateLemmas>
+    <AlternateLemma>χειμάρρους</AlternateLemma>
+  </AlternateLemmas>
+  <MainLinks/>
+  <Notes/>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="005380001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>noun, m.</PartOfSpeech>
+      </PartsOfSpeech>
+      <Inflections>
+        <Inflection Lemma="χείμαρρος" BaseFormIndex="1">
+          <Form/>
+          <Realizations>
+            <Realization>-ου</Realization>
+          </Realizations>
+          <Comments/>
+        </Inflection>
+      </Inflections>
+      <Constructs>
+        <Construct Lemma="χείμαρρος" BaseFormIndex="1">
+          <WordMeaningSet>
+            <Word>χειμάζομαι</Word>
+          </WordMeaningSet>
+          <WordMeaningSet>
+            <Word>ῥέω</Word>
+          </WordMeaningSet>
+        </Construct>
+      </Constructs>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="005380001001000" IsBiblicalTerm="Y" EntryCode="1.77" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Geographical Objects and Features</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Bodies of Water</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2022-05-30 19:01:14" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>a stream or river which flows only during the rainy season (in Palestine this would be during the winter months) or when melting snow from the mountains provides running water for a relatively short period of time</DefinitionShort>
+              <Glosses>
+                <Gloss>brook</Gloss>
+                <Gloss>winter stream</Gloss>
+                <Gloss>rainy-season stream</Gloss>
+              </Glosses>
+              <Comments>The reference in {S:04301800100022} is probably to the narrow valley, not to the stream itself, as noted in {D:1.52}.</Comments>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04301800100022</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+        <LEXMeaning Id="005380001002000" IsBiblicalTerm="Y" EntryCode="1.52" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Geographical Objects and Features</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Depressions and Holes</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2022-05-30 19:01:14" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>a ravine or narrow valley in which a stream flows during the rainy season, but which is normally dry during the dry season</DefinitionShort>
+              <Glosses>
+                <Gloss>ravine</Gloss>
+                <Gloss>wadi</Gloss>
+              </Glosses>
+              <Comments>In desert areas of the world designations for such ravines or valleys are common enough; in fact, there may be several different terms to describe different types of wadis, but for tropical areas and for most temperate parts of the world, it may seem incredible that rivers would regularly dry up during part of the year. What is important, however, in the biblical context in which {L:χείμαρρος&lt;SDBG:χείμαρρος:000000&gt;}[a] ‘a seasonal stream,’ {D:1.77}).</Comments>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04301800100022</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

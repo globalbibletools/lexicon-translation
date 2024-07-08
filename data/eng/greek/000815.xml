@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="000815000000000" Lemma="ἀτιμάζω" Version="0" HasAramaic="false" InLXX="true" AlphaPos="α">
+  <StrongCodes>
+    <Strong>G0818</Strong>
+  </StrongCodes>
+  <Authors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes/>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="000815001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>verb</PartOfSpeech>
+      </PartsOfSpeech>
+      <Constructs>
+        <Construct Lemma="ἀτιμάζω" BaseFormIndex="1">
+          <WordMeaningSet>
+            <Word>ἀ-</Word>
+          </WordMeaningSet>
+          <WordMeaningSet>
+            <Word>τιμάω</Word>
+          </WordMeaningSet>
+        </Construct>
+      </Constructs>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="000815001001000" IsBiblicalTerm="Y" EntryCode="88.127" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Moral and Ethical Qualities and Related Behavior</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Treat Badly</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-08-17 14:28:04" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>to treat someone in a shameful and dishonorable manner</DefinitionShort>
+              <Glosses>
+                <Gloss>to treat shamefully</Gloss>
+                <Gloss>to mistreat</Gloss>
+              </Glosses>
+              <Comments>It is often possible to translate ἀτιμάζω in {S:04101200400022} as ‘to make him suffer the way he should not.’</Comments>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04101200400022</LEXReference>
+            <LEXReference>04202001100022</LEXReference>
+            <LEXReference>04300804900028</LEXReference>
+            <LEXReference>05900200600006</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+        <LEXMeaning Id="000815001002000" IsBiblicalTerm="M" EntryCode="87.74" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Status</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Low Status or Rank [including persons of low status]</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-08-17 14:28:04" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>to cause someone to have low status involving dishonor and disrespect</DefinitionShort>
+              <Glosses>
+                <Gloss>to cause to be dishonored</Gloss>
+                <Gloss>to cause to suffer dishonor</Gloss>
+              </Glosses>
+              <Comments>In a number of languages the equivalent of ‘causing someone to be dishonored’ is expressed idiomatically, for example, ‘to cause someone to be laughed at’ or ‘to cause people to wag their heads at someone’ or ‘to cause people to turn away from someone.’</Comments>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04400504100030</LEXReference>
+            <LEXReference>04500102400030</LEXReference>
+            <LEXReference>04500202300024</LEXReference>
+            <LEXReference>05900200600006</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

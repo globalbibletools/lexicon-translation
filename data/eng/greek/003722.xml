@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="003722000000000" Lemma="πάλαι" Version="0" HasAramaic="false" InLXX="true" AlphaPos="π">
+  <StrongCodes>
+    <Strong>G3819</Strong>
+  </StrongCodes>
+  <Authors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes>
+    <Note Caller="1" LanguageCode="en" LastEdited="" LastEditedBy="">
+      <References/>
+      <Content>It is possible that ἔκπαλαι[a] is somewhat more emphatic than πάλαι[a], but this cannot be determined from existing contexts.</Content>
+    </Note>
+  </Notes>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="003722001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>advb.</PartOfSpeech>
+      </PartsOfSpeech>
+      <RelatedLemmas>
+        <RelatedLemma>
+          <Word>παλαιόω</Word>
+        </RelatedLemma>
+      </RelatedLemmas>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="003722001001000" IsBiblicalTerm="Y" EntryCode="67.24" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Time</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>A Point of Time with Reference to Other Points of Time: Before, Long Ago, Now, At the Same Time, When, About, After</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-12-16 12:34:06" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>pertaining to a point of time preceding another point of time, with an interval of considerable length{N:001}</DefinitionShort>
+              <Glosses>
+                <Gloss>long ago</Gloss>
+                <Gloss>of long ago</Gloss>
+              </Glosses>
+              <Comments>References to a point of time preceding another point of time may express a relationship to an event in the discourse or to the time of the discourse itself. In {S:05800100100008} πάλαι[a] marks a point of time long before the actual writing of this Letter to the Hebrews. The same is true of ἔκπαλαι in {S:06100300500018}. In some languages it is necessary to indicate clearly whether the interval is (1) between a prior time and the event mentioned in the discourse or (2) between a prior time and the discourse itself. For example, in {S:05800100100008} it may be necessary to translate ‘long ago before now God spoke to our ancestors through the prophets’ or ‘long ago before now that I am writing …’</Comments>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04001102100040</LEXReference>
+            <LEXReference>04201001300040</LEXReference>
+            <LEXReference>05800100100008</LEXReference>
+            <LEXReference>06100100900028</LEXReference>
+            <LEXReference>06500100400012</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+        <LEXMeaning Id="003722001002000" IsBiblicalTerm="Y" EntryCode="67.141" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Time</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Duration of Time with Reference to Some Unit of Time: During, In, While, Throughout</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-12-16 12:34:06" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>a considerable and continuous extent of time in the past</DefinitionShort>
+              <Glosses>
+                <Gloss>all this time</Gloss>
+                <Gloss>all that time</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04701201900002</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+        <LEXMeaning Id="003722001003000" IsBiblicalTerm="Y" EntryCode="67.22" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Time</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>A Point of Time with Reference to Other Points of Time: Before, Long Ago, Now, At the Same Time, When, About, After</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-12-16 12:34:06" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>a point of time preceding another point of time and implying completion, but with a longer interval of time than in the case of {L:ἤδη&lt;SDBG:ἤδη:000000&gt;} ({D:67.20})</DefinitionShort>
+              <Glosses>
+                <Gloss>already</Gloss>
+                <Gloss>already for some time</Gloss>
+              </Glosses>
+              <Comments>The use of πάλαι in {S:04101504400030} would seem to suggest that Jesus‘ death had taken place considerably sooner than what Pilate had thought would happen. In trying to render the implication of πάλαι[c], it may be possible to translate {S:04101504400030} as ‘Pilate called the army officer and asked him if Jesus had indeed already died.’</Comments>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04101504400030</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="004655000000000" Lemma="στρατεία" Version="0" HasAramaic="false" InLXX="true" AlphaPos="σ">
+  <StrongCodes>
+    <Strong>G4752</Strong>
+  </StrongCodes>
+  <Authors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes/>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="004655001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>noun, f.</PartOfSpeech>
+      </PartsOfSpeech>
+      <Inflections>
+        <Inflection Lemma="στρατεία" BaseFormIndex="1">
+          <Form/>
+          <Realizations>
+            <Realization>-ας</Realization>
+          </Realizations>
+          <Comments/>
+        </Inflection>
+      </Inflections>
+      <RelatedLemmas>
+        <RelatedLemma>
+          <Word>στρατεύομαι</Word>
+        </RelatedLemma>
+      </RelatedLemmas>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="004655001001000" IsBiblicalTerm="Y" EntryCode="55.4" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Military Activities</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>To Fight</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2022-03-07 13:01:43" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>act of engaging in war or battle as a soldier</DefinitionShort>
+              <Glosses>
+                <Gloss>war</Gloss>
+                <Gloss>warfare</Gloss>
+              </Glosses>
+              <Comments>στρατεύω[a] and στρατεία in {S:05400101800040} and {S:04701000400010} are used figuratively, and it may be essential to mark this figurative usage as a type of simile. For example, in {S:05400101800040} στρατεύομαι may be rendered as ‘you may, so to speak, wage the good battle’ or ‘it is like you are fighting.’ Similarly, in {S:04701000400010} στρατεία may be rendered as ‘in what is like a battle for us.’</Comments>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04701000400010</LEXReference>
+            <LEXReference>05400101800040</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

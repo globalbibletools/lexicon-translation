@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="002155000000000" Lemma="חַוָּה" Version="5" HasAramaic="false" InLXX="false" AlphaPos="ח">
+  <StrongCodes>
+    <Strong>H2332</Strong>
+    <Strong>H2333</Strong>
+    <Strong>H2334</Strong>
+  </StrongCodes>
+  <Authors>
+    <Author>Reinier de Blois</Author>
+  </Authors>
+  <Contributors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes/>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="002155001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>nsf</PartOfSpeech>
+      </PartsOfSpeech>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="002155001001000" IsBiblicalTerm="Y" EntryCode="" Indent="0">
+          <LEXDomains>
+            <LEXDomain Code="001005001010">Towns</LEXDomain>
+          </LEXDomains>
+          <LEXSynonyms>
+            <LEXSynonym>עִיר</LEXSynonym>
+          </LEXSynonyms>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2015-11-12 21:35:33" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>= collection of dwellings, not surrounded by a wall; ◄ manmade; ► population center</DefinitionShort>
+              <Glosses>
+                <Gloss>settlement</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>00403204100018</LEXReference>
+            <LEXReference>00403204100026</LEXReference>
+            <LEXReference>00500301400048</LEXReference>
+            <LEXReference>00601303000034</LEXReference>
+            <LEXReference>00701000400032</LEXReference>
+            <LEXReference>01100401300014</LEXReference>
+            <LEXReference>01300202300014</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+          <LEXCoreDomains>
+            <LEXCoreDomain Code="182">Town</LEXCoreDomain>
+          </LEXCoreDomains>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+    <BaseForm Id="002155002000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>np</PartOfSpeech>
+      </PartsOfSpeech>
+      <MeaningsOfName>
+        <MeaningOfName LanguageCode="en">
+          <Meaning>life-giver</Meaning>
+        </MeaningOfName>
+        <MeaningOfName LanguageCode="pt">
+          <Meaning>a que dá a vida (?)</Meaning>
+        </MeaningOfName>
+      </MeaningsOfName>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="002155002001000" IsBiblicalTerm="M" EntryCode="" Indent="0">
+          <LEXDomains>
+            <LEXDomain Code="003001007">Names of People</LEXDomain>
+          </LEXDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2015-11-12 21:35:33" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>= woman; ◄ wife of {L:Adam&lt;SDBH:אָדָם&gt;}; ► first woman; mother of {L:Cain&lt;SDBH:קַיִן&gt;}, {L:Abel&lt;SDBH:הֶבֶל&gt;}, {L:Seth&lt;SDBH:שֵׁת&gt;}, and of all humankind</DefinitionShort>
+              <Glosses>
+                <Gloss>Eve</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>00100302000014</LEXReference>
+            <LEXReference>00100400100012</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

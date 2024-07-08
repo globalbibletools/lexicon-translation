@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="001579000000000" Lemma="ἐκζήτησις" Version="0" HasAramaic="false" InLXX="false" AlphaPos="ε">
+  <StrongCodes>
+    <Strong>G2214a</Strong>
+  </StrongCodes>
+  <Authors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes/>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="001579001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>noun, f.</PartOfSpeech>
+      </PartsOfSpeech>
+      <Inflections>
+        <Inflection Lemma="ἐκζήτησις" BaseFormIndex="1">
+          <Form/>
+          <Realizations>
+            <Realization>-εως</Realization>
+          </Realizations>
+          <Comments/>
+        </Inflection>
+      </Inflections>
+      <RelatedLemmas>
+        <RelatedLemma>
+          <Word>ζητέω</Word>
+        </RelatedLemma>
+      </RelatedLemmas>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="001579001001000" IsBiblicalTerm="Y" EntryCode="31.33" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Hold a View, Believe, Trust</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Suppose, Think Possible</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-10-27 13:22:08" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>to form ideas which are unrelated to reality, normally with a negative connotation</DefinitionShort>
+              <Glosses>
+                <Gloss>speculation</Gloss>
+                <Gloss>worthless speculation</Gloss>
+                <Gloss>imaginings</Gloss>
+              </Glosses>
+              <Comments>It is also possible to understand ἐκζήτησις in {S:05400100400016} as meaning ‘controversies’ or ‘arguments’ (see {D:33.442}).</Comments>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>05400100400016</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+        <LEXMeaning Id="001579001002000" IsBiblicalTerm="Y" EntryCode="33.442" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Communication</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Dispute, Debate</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-10-27 13:22:08" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>a dispute involving empty speculation</DefinitionShort>
+              <Glosses>
+                <Gloss>idle dispute</Gloss>
+                <Gloss>meaningless speculation</Gloss>
+              </Glosses>
+              <Comments>For another interpretation of ἐκζήτησις in {S:05400100400016}, see {D:31.33}.</Comments>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>05400100400016</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="005054000000000" Lemma="τροχός" Version="0" HasAramaic="false" InLXX="true" AlphaPos="τ">
+  <StrongCodes>
+    <Strong>G5164</Strong>
+  </StrongCodes>
+  <Authors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes>
+    <Note Caller="1" LanguageCode="en" LastEdited="" LastEditedBy="">
+      <References>
+        <Reference>05900300600048</Reference>
+      </References>
+      <Content>The expression τὸν τροχὸν τῆς γενέσεως in {S:05900300600048} is similar in meaning to the lexical items found in Domain 41 Behavior and Related States, Subdomain B Custom, Tradition.</Content>
+    </Note>
+  </Notes>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="005054001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>noun, m.</PartOfSpeech>
+      </PartsOfSpeech>
+      <Inflections>
+        <Inflection Lemma="τροχός" BaseFormIndex="1">
+          <Form/>
+          <Realizations>
+            <Realization>-οῦ</Realization>
+          </Realizations>
+          <Comments/>
+        </Inflection>
+      </Inflections>
+      <RelatedLemmas>
+        <RelatedLemma>
+          <Word>τρέχω</Word>
+        </RelatedLemma>
+      </RelatedLemmas>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="005054001001000" IsBiblicalTerm="Y" EntryCode="61.5" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Sequence</LEXDomain>
+          </LEXDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2022-04-14 08:15:01" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>(a figurative extension of meaning of τροχός ‘wheel,’ not occurring in the NT) an ordered series of events, involving repeated patterns</DefinitionShort>
+              <Glosses>
+                <Gloss>course</Gloss>
+                <Gloss>pattern</Gloss>
+              </Glosses>
+              <Comments>For another interpretation of τροχός in {S:05900300600048}, see {D:67.83}.</Comments>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>05900300600048{N:001}</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+        <LEXMeaning Id="005054001002000" IsBiblicalTerm="Y" EntryCode="67.83" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Time</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Duration of Time without Reference to Points or Units of Time: Time, Spend Time, Always, Eternal, Old, Immediately, Young</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2022-04-14 08:15:01" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>(a figurative extension of meaning of τροχός ‘wheel,’ not occurring in the NT) a period of time of indefinite length, characterized by recurring events or patterns</DefinitionShort>
+              <Glosses>
+                <Gloss>course</Gloss>
+                <Gloss>cycle</Gloss>
+              </Glosses>
+              <Comments>In some languages τὸν τροχὸν τῆς γενέσεως may be best rendered as ‘the very way in which we live’ or ‘the manner of our life.’ For another interpretation of {L:τροχός&lt;SDBG:τροχός:000000&gt;} in {S:05900300600048}, see {D:61.5}.</Comments>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>05900300600048</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

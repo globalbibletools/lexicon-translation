@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="003374000000000" Lemma="μωραίνω" Version="0" HasAramaic="false" InLXX="true" AlphaPos="μ">
+  <StrongCodes>
+    <Strong>G3471</Strong>
+  </StrongCodes>
+  <Authors/>
+  <AlternateLemmas>
+    <AlternateLemma>μωραίνομαι</AlternateLemma>
+  </AlternateLemmas>
+  <MainLinks/>
+  <Notes/>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="003374001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>verb</PartOfSpeech>
+      </PartsOfSpeech>
+      <Inflections>
+        <Inflection Lemma="μωραίνω" BaseFormIndex="1">
+          <Form>aor.</Form>
+          <Realizations>
+            <Realization>ἐμώρανα</Realization>
+          </Realizations>
+          <Comments/>
+        </Inflection>
+        <Inflection Lemma="μωραίνω" BaseFormIndex="1">
+          <Form>aor.pass.subj.</Form>
+          <Realizations>
+            <Realization>μωρανθῶ</Realization>
+          </Realizations>
+          <Comments/>
+        </Inflection>
+      </Inflections>
+      <RelatedLemmas>
+        <RelatedLemma>
+          <Word>μωρία</Word>
+        </RelatedLemma>
+        <RelatedLemma>
+          <Word>μωρολογία</Word>
+        </RelatedLemma>
+        <RelatedLemma>
+          <Word>μωρός</Word>
+        </RelatedLemma>
+      </RelatedLemmas>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="003374001001000" IsBiblicalTerm="Y" EntryCode="32.59" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Understand</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Lack of Capacity for Understanding</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-12-09 14:39:28" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>(causative derivative of {L:μωρία&lt;SDBG:μωρία:000000&gt;} ‘foolishness,’ {D:32.57}) to cause the content of certain thoughts to become devoid of meaning</DefinitionShort>
+              <Glosses>
+                <Gloss>to cause to become nonsense</Gloss>
+              </Glosses>
+              <Comments>In {S:04600102000022} the focus is upon the content of wisdom and nonsense, and it may be necessary to make this explicit, for example, ‘the people of the world thought that what they understood was wise, but God showed that their thoughts were foolish’ or ‘… their way of thinking was foolish.’</Comments>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04600102000022</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+        <LEXMeaning Id="003374001002000" IsBiblicalTerm="Y" EntryCode="32.56" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Understand</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Lack of Capacity for Understanding</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXForms>
+            <LEXForm>μωραίνομαι[a]</LEXForm>
+          </LEXForms>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-12-09 14:39:28" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>(derivative of {L:μωρός&lt;SDBG:μωρός:000000&gt;}[a] ‘unwise, foolish,’ {D:32.55}) to become one who does not employ a capacity to understand and thus acts very foolishly</DefinitionShort>
+              <Glosses>
+                <Gloss>to become foolish</Gloss>
+                <Gloss>to act more foolishly</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04500102200008</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+        <LEXMeaning Id="003374001003000" IsBiblicalTerm="Y" EntryCode="79.44" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Features of Objects</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Sweet, Bitter, Tasteless</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXForms>
+            <LEXForm>μωραίνομαι[b]</LEXForm>
+          </LEXForms>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-12-09 14:39:28" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>to become insipid or tasteless</DefinitionShort>
+              <Glosses>
+                <Gloss>to become tasteless</Gloss>
+                <Gloss>to lose taste</Gloss>
+              </Glosses>
+              <Comments>In {S:04000501300022} μωραίνομαι is equivalent to {L:ἄναλος&lt;SDBG:ἄναλος:000000&gt;} ({D:5.27}), that is to say, to be without a salt taste. Pure salt cannot actually lose its taste, but the sodium chloride of impure salt can be leached out, especially in humid weather, and the remaining substance is accordingly tasteless. See also discussion at {D:5.25}.</Comments>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04000501300022</LEXReference>
+            <LEXReference>04201403400020</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

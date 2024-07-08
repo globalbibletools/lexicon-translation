@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="004523000000000" Lemma="σιτομέτριον" Version="0" HasAramaic="false" InLXX="false" AlphaPos="σ">
+  <StrongCodes>
+    <Strong>G4620</Strong>
+  </StrongCodes>
+  <Authors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes/>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="004523001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>noun, n.</PartOfSpeech>
+      </PartsOfSpeech>
+      <Inflections>
+        <Inflection Lemma="σιτομέτριον" BaseFormIndex="1">
+          <Form/>
+          <Realizations>
+            <Realization>-ου</Realization>
+          </Realizations>
+          <Comments/>
+        </Inflection>
+      </Inflections>
+      <Constructs>
+        <Construct Lemma="σιτομέτριον" BaseFormIndex="1">
+          <WordMeaningSet>
+            <Word>σῖτος</Word>
+          </WordMeaningSet>
+          <WordMeaningSet>
+            <Word>μετρέω</Word>
+          </WordMeaningSet>
+        </Construct>
+      </Constructs>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="004523001001000" IsBiblicalTerm="Y" EntryCode="5.3" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Foods and Condiments</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Food</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2022-02-11 11:28:18" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>an appropriate portion or ration of food (a type of food allowance)</DefinitionShort>
+              <Glosses>
+                <Gloss>a due amount of food rations</Gloss>
+              </Glosses>
+              <Comments>It is possible to interpret σιτομέτριον in {S:04201204200052} as ‘the proper amount of food’ or ‘the food that was due them’ or ‘the food that should be given (to the servants).’ Since σιτομέτριον is a semantically complex term consisting of two quite distinct components, it is usually necessary to employ a phrase as a proper equivalent.</Comments>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04201204200052</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

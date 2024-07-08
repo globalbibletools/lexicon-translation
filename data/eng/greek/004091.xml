@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="004091000000000" Lemma="πόμα" Version="0" HasAramaic="false" InLXX="true" AlphaPos="π">
+  <StrongCodes>
+    <Strong>G4188</Strong>
+  </StrongCodes>
+  <Authors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes/>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="004091001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>noun, n.</PartOfSpeech>
+      </PartsOfSpeech>
+      <Inflections>
+        <Inflection Lemma="πόμα" BaseFormIndex="1">
+          <Form/>
+          <Realizations>
+            <Realization>-τος</Realization>
+          </Realizations>
+          <Comments/>
+        </Inflection>
+      </Inflections>
+      <RelatedLemmas>
+        <RelatedLemma>
+          <Word>πίνω</Word>
+        </RelatedLemma>
+      </RelatedLemmas>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="004091001001000" IsBiblicalTerm="Y" EntryCode="5.6" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Foods and Condiments</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Food</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2022-01-06 15:24:31" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>liquids used for nourishment or to satisfy thirst</DefinitionShort>
+              <Glosses>
+                <Gloss>a drink</Gloss>
+              </Glosses>
+              <Comments>Though in many languages the equivalent of πόσις and πόμα would be a verbal derivative meaning basically ‘that which is drunk,’ in other languages the equivalent may be ‘watery food’ or ‘liquid food.’|In some languages, one cannot refer to ‘blood’ ({S:04300605500020}) as being ‘drink,’ since blood is classified as food rather than as drink. On the other hand, it may be possible to translate ‘my blood is the real drink’ as ‘my blood is real nourishment.’ The expression ‘food and drink’ ({S:05800901000010}) may be better rendered in some languages as ‘all kinds of food.’</Comments>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04601000400014</LEXReference>
+            <LEXReference>05800901000010</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

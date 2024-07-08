@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="007470000000000" Lemma="שׁמן" Version="5" HasAramaic="false" InLXX="false" AlphaPos="ש">
+  <StrongCodes>
+    <Strong>H8080</Strong>
+  </StrongCodes>
+  <Authors>
+    <Author>Reinier de Blois</Author>
+  </Authors>
+  <Contributors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes/>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="007470001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>vb</PartOfSpeech>
+      </PartsOfSpeech>
+      <RelatedLemmas>
+        <RelatedLemma>
+          <Word>אַשְׁמַנִּים</Word>
+        </RelatedLemma>
+        <RelatedLemma>
+          <Word>מִשְׁמָן</Word>
+        </RelatedLemma>
+        <RelatedLemma>
+          <Word>מַשְׁמַנִּים</Word>
+        </RelatedLemma>
+        <RelatedLemma>
+          <Word>שָׁמָן</Word>
+        </RelatedLemma>
+        <RelatedLemma>
+          <Word>שָׁמֵן</Word>
+        </RelatedLemma>
+        <RelatedLemma>
+          <Word>שֶׁמֶן</Word>
+        </RelatedLemma>
+      </RelatedLemmas>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="007470001001000" IsBiblicalTerm="Y" EntryCode="" Indent="0">
+          <LEXDomains>
+            <LEXDomain Code="002001001027">Fat</LEXDomain>
+          </LEXDomains>
+          <LEXForms>
+            <LEXForm>vbqal-</LEXForm>
+            <LEXForm>vbhif-</LEXForm>
+          </LEXForms>
+          <LEXSynonyms>
+            <LEXSynonym>כשׂה</LEXSynonym>
+            <LEXSynonym>עבה</LEXSynonym>
+            <LEXSynonym>עשׁת</LEXSynonym>
+          </LEXSynonyms>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2017-04-05 15:55:38" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>literally: to be fat; hence: = state in which humans or animals look healthy and strong ◄ as a result of an abundance of food; ≈ it is important to note that fatness is usually regarded as a good quality in the OT, even though the causes and consequences are not necessarily considered positive; sometimes, however, fatness is associated with dullness and unresponsiveness</DefinitionShort>
+              <Glosses>
+                <Gloss>to be well-fed</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>00503201500004</LEXReference>
+            <LEXReference>00503201500012</LEXReference>
+            <LEXReference>01600902500058</LEXReference>
+            <LEXReference>02400502800002</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+          <LEXCoreDomains>
+            <LEXCoreDomain Code="019">Body</LEXCoreDomain>
+            <LEXCoreDomain Code="196">Well-Being</LEXCoreDomain>
+          </LEXCoreDomains>
+        </LEXMeaning>
+        <LEXMeaning Id="007470001002000" IsBiblicalTerm="Y" EntryCode="" Indent="0">
+          <LEXDomains>
+            <LEXDomain Code="002001002010" Source="Fat" SourceCode="002001001027">Foolish</LEXDomain>
+          </LEXDomains>
+          <LEXForms>
+            <LEXForm>vbhif-</LEXForm>
+          </LEXForms>
+          <LEXCollocations>
+            <LEXCollocation>שׁמן לֵב</LEXCollocation>
+          </LEXCollocations>
+          <LEXSynonyms>
+            <LEXSynonym>כבד</LEXSynonym>
+            <LEXSynonym>שׁעע</LEXSynonym>
+          </LEXSynonyms>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2017-04-05 15:55:38" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>literally: to cause (someone else's) heart to be fat; hence: = causative action by which humans cause the mind of other humans to be dull and unresponsive</DefinitionShort>
+              <Glosses>
+                <Gloss>to make (someone's) heart fat &gt; to make (someone's) mind dull and unresponsive</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>02300601000002</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+          <LEXCoreDomains>
+            <LEXCoreDomain Code="106">Mind</LEXCoreDomain>
+            <LEXCoreDomain Code="199">Wisdom</LEXCoreDomain>
+          </LEXCoreDomains>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

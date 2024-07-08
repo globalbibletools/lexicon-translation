@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="003224000000000" Lemma="μέριμνα" Version="0" HasAramaic="false" InLXX="true" AlphaPos="μ">
+  <StrongCodes>
+    <Strong>G3308</Strong>
+  </StrongCodes>
+  <Authors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes>
+    <Note Caller="1" LanguageCode="en" LastEdited="" LastEditedBy="">
+      <References>
+        <Reference>06000500700006</Reference>
+      </References>
+      <Content>It is possible to interpret μέριμνα in {S:06000500700006} as being the context of what one worries about.</Content>
+    </Note>
+  </Notes>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="003224001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>noun, f.</PartOfSpeech>
+      </PartsOfSpeech>
+      <Inflections>
+        <Inflection Lemma="μέριμνα" BaseFormIndex="1">
+          <Form/>
+          <Realizations>
+            <Realization>-ης</Realization>
+          </Realizations>
+          <Comments/>
+        </Inflection>
+      </Inflections>
+      <RelatedLemmas>
+        <RelatedLemma>
+          <Word>μεριμνάω</Word>
+        </RelatedLemma>
+      </RelatedLemmas>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="003224001001000" IsBiblicalTerm="M" EntryCode="25.224" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Attitudes and Emotions</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Worry, Anxiety, Distress, Peace</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-11-26 11:50:38" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>a feeling of apprehension or distress in view of possible danger or misfortune</DefinitionShort>
+              <Glosses>
+                <Gloss>anxiety</Gloss>
+                <Gloss>worry</Gloss>
+                <Gloss>anxious concern</Gloss>
+              </Glosses>
+              <Comments>For μέριμνα as part of an idiom in {S:06000500700006}, see {D:25.250}.|The term μέριμνα may refer to either unnecessary worry or legitimate concern. The equivalent of ‘worry’ may be expressed in some languages in an idiomatic manner, for example, ‘to be killed by one’s mind’ or ‘to be pained by thinking.’</Comments>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04001302200030</LEXReference>
+            <LEXReference>04100401900006</LEXReference>
+            <LEXReference>04200801400026</LEXReference>
+            <LEXReference>04202103400028</LEXReference>
+            <LEXReference>04701102800022</LEXReference>
+            <LEXReference>06000500700006{N:001}</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+        <LEXMeaning Id="003224001002000" IsBiblicalTerm="M" EntryCode="25.250" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Attitudes and Emotions</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Worry, Anxiety, Distress, Peace</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXCollocations>
+            <LEXCollocation>τὴν μέριμναν ἐπιρίπτω ἐπί</LEXCollocation>
+          </LEXCollocations>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-11-26 11:50:38" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>(an idiom, literally: to cast cares upon) to stop worrying and to put one’s trust in someone</DefinitionShort>
+              <Glosses>
+                <Gloss>to put one’s cares upon</Gloss>
+                <Gloss>to leave one’s worries to</Gloss>
+              </Glosses>
+              <Comments>For another explanation of this expression in {S:06000500700006}, taking only ἐπιρίπτω ἐπί as an idiom, see {D:90.18}.</Comments>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>06000500700006</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

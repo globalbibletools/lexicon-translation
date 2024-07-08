@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="001446000000000" Lemma="δυσφημέω" Version="0" HasAramaic="false" InLXX="true" AlphaPos="δ">
+  <StrongCodes>
+    <Strong>G0987a</Strong>
+  </StrongCodes>
+  <Authors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes>
+    <Note Caller="1" LanguageCode="en" LastEdited="" LastEditedBy="">
+      <References/>
+      <Content>δυσφημέω and δυσφημία are evidently not as pejorative as λοιδορέω and λοιδορία ({D:33.393}).</Content>
+    </Note>
+  </Notes>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="001446001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>verb</PartOfSpeech>
+      </PartsOfSpeech>
+      <Constructs>
+        <Construct Lemma="δυσφημέω" BaseFormIndex="1">
+          <WordMeaningSet>
+            <Word>δῦσ-</Word>
+            <Meaning LanguageCode="en">
+              <Meaning>hard, difficult</Meaning>
+            </Meaning>
+            <Meaning LanguageCode="zhT">
+              <Meaning>艱難的，困難的</Meaning>
+            </Meaning>
+          </WordMeaningSet>
+          <WordMeaningSet>
+            <Word>φημί</Word>
+          </WordMeaningSet>
+        </Construct>
+      </Constructs>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="001446001001000" IsBiblicalTerm="M" EntryCode="33.398" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Communication</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Insult, Slander</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-10-26 15:30:36" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>to attribute ill repute or bad reputation to{N:001}</DefinitionShort>
+              <Glosses>
+                <Gloss>to defame</Gloss>
+                <Gloss>to slander</Gloss>
+                <Gloss>slander</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04600401300002</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

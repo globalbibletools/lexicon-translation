@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="001692000000000" Lemma="ἐλλογέω" Version="0" HasAramaic="false" InLXX="false" AlphaPos="ε">
+  <StrongCodes>
+    <Strong>G1677</Strong>
+  </StrongCodes>
+  <Authors/>
+  <AlternateLemmas>
+    <AlternateLemma>ἐλλογάω</AlternateLemma>
+  </AlternateLemmas>
+  <MainLinks/>
+  <Notes/>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="001692001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>verb</PartOfSpeech>
+      </PartsOfSpeech>
+      <Constructs>
+        <Construct Lemma="ἐλλογέω" BaseFormIndex="1">
+          <WordMeaningSet>
+            <Word>ἐν</Word>
+          </WordMeaningSet>
+          <WordMeaningSet>
+            <Word>λέγω</Word>
+          </WordMeaningSet>
+        </Construct>
+      </Constructs>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="001692001001000" IsBiblicalTerm="Y" EntryCode="33.45" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Communication</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Written Language</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-05-19 10:23:52" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>to keep a record of something</DefinitionShort>
+              <Glosses>
+                <Gloss>to record</Gloss>
+                <Gloss>to list</Gloss>
+              </Glosses>
+              <Comments>There may be difficulties involved in changing the passive expression ‘no account is kept of sins’ in {S:04500501300022} to ‘God doesn’t keep an account of sins,’ for this might imply that God was unconcerned about sin. It is sometimes possible to avoid this difficulty by rendering ‘no account is kept of sins’ as ‘a sin is not listed as a sin.’</Comments>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04500501300022</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+        <LEXMeaning Id="001692001002000" IsBiblicalTerm="Y" EntryCode="57.226" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Possess, Transfer, Exchange</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Keep Records</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-05-19 10:23:52" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>to charge to an account</DefinitionShort>
+              <Glosses>
+                <Gloss>to charge</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>05700101800020</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

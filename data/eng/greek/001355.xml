@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="001355000000000" Lemma="διΐστημι" Version="0" HasAramaic="false" InLXX="false" AlphaPos="δ">
+  <StrongCodes>
+    <Strong>G1339</Strong>
+  </StrongCodes>
+  <Authors/>
+  <AlternateLemmas>
+    <AlternateLemma>διΐσταμαι</AlternateLemma>
+  </AlternateLemmas>
+  <MainLinks/>
+  <Notes/>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="001355001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>verb</PartOfSpeech>
+      </PartsOfSpeech>
+      <Inflections>
+        <Inflection Lemma="διΐστημι" BaseFormIndex="1">
+          <Form>aor.</Form>
+          <Realizations>
+            <Realization>διέστην</Realization>
+          </Realizations>
+          <Comments/>
+        </Inflection>
+        <Inflection Lemma="διΐστημι" BaseFormIndex="1">
+          <Form>ptc.</Form>
+          <Realizations>
+            <Realization>διαστάς</Realization>
+            <Realization>διαστήσας</Realization>
+          </Realizations>
+          <Comments/>
+        </Inflection>
+      </Inflections>
+      <RelatedLemmas>
+        <RelatedLemma>
+          <Word>ἵστημι</Word>
+        </RelatedLemma>
+      </RelatedLemmas>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="001355001001000" IsBiblicalTerm="Y" EntryCode="15.12" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Linear Movement</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Move, Come/Go</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-06-08 21:09:13" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>to continue to move on</DefinitionShort>
+              <Glosses>
+                <Gloss>to move on</Gloss>
+                <Gloss>to go on</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04402702800016</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+        <LEXMeaning Id="001355001002000" IsBiblicalTerm="Y" EntryCode="15.50" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Linear Movement</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Leave, Depart, Flee, Escape, Send</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-06-08 21:09:13" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>to move away from, with the possible implication of definitiveness of separation (particularly in contexts relating to persons)</DefinitionShort>
+              <Glosses>
+                <Gloss>to depart from</Gloss>
+                <Gloss>to leave</Gloss>
+              </Glosses>
+              <Comments>Since the movement in {S:04402702800016} is by boat, it may be necessary to specify this, for example, ‘going a little way further in a boat’ or ‘sailing a little further.’</Comments>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04202405100016</LEXReference>
+            <LEXReference>04402702800016</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+        <LEXMeaning Id="001355001003000" IsBiblicalTerm="Y" EntryCode="67.84" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Time</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Duration of Time without Reference to Points or Units of Time: Time, Spend Time, Always, Eternal, Old, Immediately, Young</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-06-08 21:09:13" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>to mark the passage of time</DefinitionShort>
+              <Glosses>
+                <Gloss>to pass</Gloss>
+                <Gloss>passage</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04202205900004</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

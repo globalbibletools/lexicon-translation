@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="001379000000000" Lemma="διπλοῦς" Version="0" HasAramaic="false" InLXX="true" AlphaPos="δ">
+  <StrongCodes>
+    <Strong>G1362</Strong>
+  </StrongCodes>
+  <Authors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes/>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="001379001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>adjc.</PartOfSpeech>
+      </PartsOfSpeech>
+      <Inflections>
+        <Inflection Lemma="διπλοῦς" BaseFormIndex="1">
+          <Form/>
+          <Realizations>
+            <Realization>-ῆ, -οῦν</Realization>
+          </Realizations>
+          <Comments/>
+        </Inflection>
+      </Inflections>
+      <RelatedLemmas>
+        <RelatedLemma>
+          <Word>δύο</Word>
+        </RelatedLemma>
+        <RelatedLemma>
+          <Word>διπλόω</Word>
+        </RelatedLemma>
+      </RelatedLemmas>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="001379001001000" IsBiblicalTerm="Y" EntryCode="60.75" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Number</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Double, Four Times As Much, Etc. [Multiples]</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-07-07 22:15:46" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>twice the quantity</DefinitionShort>
+              <Glosses>
+                <Gloss>twice as much</Gloss>
+                <Gloss>double</Gloss>
+              </Glosses>
+              <Comments>It is possible that in some contexts διπλοῦς does not mean precisely ‘twice as much’ but simply ‘much more.’ For example, in {S:06601800600044} it may be appropriate to translate ‘pay her back much more for what she has done.’</Comments>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04002301500048</LEXReference>
+            <LEXReference>05400501700010</LEXReference>
+            <LEXReference>06601800600020</LEXReference>
+            <LEXReference>06601800600044</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="000862000000000" Lemma="ἀφικνέομαι" Version="0" HasAramaic="false" InLXX="true" AlphaPos="α">
+  <StrongCodes>
+    <Strong>G0864</Strong>
+  </StrongCodes>
+  <Authors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes>
+    <Note Caller="1" LanguageCode="en" LastEdited="" LastEditedBy="">
+      <References>
+        <Reference>04501601900014</Reference>
+      </References>
+      <Content>It would be possible to treat ἀφικνέομαι in {S:04501601900014} as simply a matter of the movement of information. It would also be possible to handle ἀφικνέομαι in the domain of Communication (33), involving the reception of information or messages. This is a typical instance of semantic overlapping, depending upon the degree to which one wishes to recognize figurative extensions of meaning.</Content>
+    </Note>
+  </Notes>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="000862001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>verb</PartOfSpeech>
+      </PartsOfSpeech>
+      <Inflections>
+        <Inflection Lemma="ἀφικνέομαι" BaseFormIndex="1">
+          <Form>aor.</Form>
+          <Realizations>
+            <Realization>ἀφικόμην</Realization>
+          </Realizations>
+          <Comments/>
+        </Inflection>
+      </Inflections>
+      <RelatedLemmas>
+        <RelatedLemma>
+          <Word>ἱκνέομαι</Word>
+          <Meaning LanguageCode="en">
+            <Meaning>come to</Meaning>
+          </Meaning>
+          <Meaning LanguageCode="zhT">
+            <Meaning>來到</Meaning>
+          </Meaning>
+        </RelatedLemma>
+        <RelatedLemma>
+          <Word>ἱκανόω</Word>
+        </RelatedLemma>
+      </RelatedLemmas>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="000862001001000" IsBiblicalTerm="Y" EntryCode="28.23" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Know</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Known [the content of knowledge]</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-08-18 15:17:20" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>(a figurative extension of meaning of ἀφικνέομαι ‘to move up to a point,’ not occurring in the NT) to become known as the result of information reaching its destination</DefinitionShort>
+              <Glosses>
+                <Gloss>to become known</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04501601900014{N:001}</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="002014000000000" Lemma="זְנוּנִים" Version="4" HasAramaic="false" InLXX="false" AlphaPos="ז">
+  <StrongCodes>
+    <Strong>H2183</Strong>
+  </StrongCodes>
+  <Authors>
+    <Author>Enio R. Mueller</Author>
+  </Authors>
+  <Contributors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes/>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="002014001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>nsm</PartOfSpeech>
+      </PartsOfSpeech>
+      <RelatedLemmas>
+        <RelatedLemma>
+          <Word>זנה</Word>
+        </RelatedLemma>
+      </RelatedLemmas>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="002014001001000" IsBiblicalTerm="M" EntryCode="" Indent="0">
+          <LEXDomains>
+            <LEXDomain Code="002001002027">Unfaithful</LEXDomain>
+          </LEXDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2016-12-30 13:36:42" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>= action by which humans engage in prostitution; ≈ associated with unfaithfulness</DefinitionShort>
+              <Glosses>
+                <Gloss>prostitution</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>00103802400042</LEXReference>
+            <LEXReference>02800100200030</LEXReference>
+            <LEXReference>02800100200036</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+          <LEXCoreDomains>
+            <LEXCoreDomain Code="155">Sex</LEXCoreDomain>
+            <LEXCoreDomain Code="061">Faithfulness</LEXCoreDomain>
+          </LEXCoreDomains>
+        </LEXMeaning>
+        <LEXMeaning Id="002014001002000" IsBiblicalTerm="M" EntryCode="" Indent="0">
+          <LEXDomains>
+            <LEXDomain Code="002001002027">Unfaithful</LEXDomain>
+          </LEXDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2016-12-30 13:36:42" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>= action by which humans engage in non-sanctioned worship, ◄ described in terms of prostitution</DefinitionShort>
+              <Glosses>
+                <Gloss>prostitution</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>01200902200038</LEXReference>
+            <LEXReference>02602301100026</LEXReference>
+            <LEXReference>02602302900036</LEXReference>
+            <LEXReference>02800200400030</LEXReference>
+            <LEXReference>02800200600016</LEXReference>
+            <LEXReference>02800401200022</LEXReference>
+            <LEXReference>02800500400020</LEXReference>
+            <LEXReference>03400300400006</LEXReference>
+            <LEXReference>03400300400026</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+          <LEXCoreDomains>
+            <LEXCoreDomain Code="085" Source="Sex" SourceCode="155">Idolatry</LEXCoreDomain>
+          </LEXCoreDomains>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

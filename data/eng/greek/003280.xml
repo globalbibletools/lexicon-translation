@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="003280000000000" Lemma="μηδαμῶς" Version="0" HasAramaic="false" InLXX="true" AlphaPos="μ">
+  <StrongCodes>
+    <Strong>G3365</Strong>
+  </StrongCodes>
+  <Authors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes>
+    <Note Caller="1" LanguageCode="en" LastEdited="" LastEditedBy="">
+      <References>
+        <Reference>04401001400010</Reference>
+      </References>
+      <Content>μηδαμῶς rather than οὐδαμῶς occurs in {S:04401001400010} since this would be a correct response to a previous imperative form.</Content>
+    </Note>
+  </Notes>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="003280001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>advb.</PartOfSpeech>
+      </PartsOfSpeech>
+      <Constructs>
+        <Construct Lemma="μηδαμῶς" BaseFormIndex="1">
+          <WordMeaningSet>
+            <Word>μή</Word>
+          </WordMeaningSet>
+          <WordMeaningSet>
+            <Word>δέ</Word>
+          </WordMeaningSet>
+          <WordMeaningSet>
+            <Word>ἐγώ</Word>
+          </WordMeaningSet>
+        </Construct>
+      </Constructs>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="003280001001000" IsBiblicalTerm="Y" EntryCode="69.6" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Affirmation, Negation</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Negation</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-12-03 20:54:33" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>a marker of strongly emphatic negation</DefinitionShort>
+              <Glosses>
+                <Gloss>no indeed</Gloss>
+                <Gloss>by no means</Gloss>
+                <Gloss>most certainly not</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04401001400010{N:001}</LEXReference>
+            <LEXReference>04401100800006</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

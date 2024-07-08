@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="001003000000000" Lemma="Βόες" Version="0" HasAramaic="false" InLXX="false" AlphaPos="β">
+  <StrongCodes>
+    <Strong>G1003b</Strong>
+  </StrongCodes>
+  <Authors/>
+  <AlternateLemmas>
+    <AlternateLemma/>
+    <AlternateLemma>Βόος</AlternateLemma>
+  </AlternateLemmas>
+  <MainLinks/>
+  <Notes/>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="001003001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>noun-name, m.</PartOfSpeech>
+      </PartsOfSpeech>
+      <Inflections>
+        <Inflection Lemma="Βόες" BaseFormIndex="1">
+          <Form/>
+          <Realizations/>
+          <Comments>
+            <Comment LanguageCode="en">
+              <Meaning>indeclinable</Meaning>
+            </Comment>
+            <Comment LanguageCode="zhT">
+              <Meaning>無語尾變化</Meaning>
+            </Comment>
+          </Comments>
+        </Inflection>
+      </Inflections>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="001003001001000" IsBiblicalTerm="M" EntryCode="93.78" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Names of Persons and Places</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Persons</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-02-08 23:48:10" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>a person in the genealogy of Jesus</DefinitionShort>
+              <Glosses>
+                <Gloss>Boaz</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04000100500010</LEXReference>
+            <LEXReference>04000100500018</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+        <LEXMeaning Id="001003001002000" IsBiblicalTerm="M" EntryCode="93.79" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Names of Persons and Places</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Persons</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXForms>
+            <LEXForm>Βόος</LEXForm>
+          </LEXForms>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-02-08 23:48:10" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>an alternative form of {L:Βόες&lt;SDBG:Βόες:000000&gt;}[a] ({D:93.78})</DefinitionShort>
+              <Glosses>
+                <Gloss>Boaz</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04200303200012</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

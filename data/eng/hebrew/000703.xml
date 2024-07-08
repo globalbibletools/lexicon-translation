@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="000703000000000" Lemma="אֲרָמִית" Version="5" HasAramaic="true" InLXX="false" AlphaPos="א">
+  <StrongCodes>
+    <Strong>H0762</Strong>
+  </StrongCodes>
+  <Authors>
+    <Author>Reinier de Blois</Author>
+  </Authors>
+  <Contributors/>
+  <AlternateLemmas>
+    <AlternateLemma>אֲרָמִי</AlternateLemma>
+  </AlternateLemmas>
+  <MainLinks/>
+  <Notes/>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="000703001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>aj</PartOfSpeech>
+      </PartsOfSpeech>
+      <RelatedLemmas>
+        <RelatedLemma>
+          <Word>אֲרָם</Word>
+        </RelatedLemma>
+      </RelatedLemmas>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="000703001001000" IsBiblicalTerm="M" EntryCode="" Indent="0">
+          <LEXDomains>
+            <LEXDomain Code="003001009">Names of Languages</LEXDomain>
+          </LEXDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2015-11-13 17:20:30" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>= language used throughout the Near East as the primary international language of literature and communication from ca. 600 B.C.E. to ca. 700 C.E. ({A:ABD})</DefinitionShort>
+              <Glosses>
+                <Gloss>Aramaic</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>01201802600032</LEXReference>
+            <LEXReference>01500400700046</LEXReference>
+            <LEXReference>01500400700052</LEXReference>
+            <LEXReference>02303601100028</LEXReference>
+            <LEXReference>02700200400016</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

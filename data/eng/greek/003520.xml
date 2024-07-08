@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="003520000000000" Lemma="οἰκοδεσποτέω" Version="0" HasAramaic="false" InLXX="false" AlphaPos="ο">
+  <StrongCodes>
+    <Strong>G3616</Strong>
+  </StrongCodes>
+  <Authors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes>
+    <Note Caller="1" LanguageCode="en" LastEdited="" LastEditedBy="">
+      <References/>
+      <Content>It is possible that in some contexts οἰκονομέωοἰκονομία[c] ({D:46.1}), and οἰκοδεσποτέω are essentially equivalent in meaning, though οἰκοδεσποτέω probably differs connotatively in emphasizing commanding or being the head of a household.</Content>
+    </Note>
+  </Notes>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="003520001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>verb</PartOfSpeech>
+      </PartsOfSpeech>
+      <Constructs>
+        <Construct Lemma="οἰκοδεσποτέω" BaseFormIndex="1">
+          <WordMeaningSet>
+            <Word>οἰκέω</Word>
+          </WordMeaningSet>
+          <WordMeaningSet>
+            <Word>δέω</Word>
+          </WordMeaningSet>
+        </Construct>
+      </Constructs>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="003520001001000" IsBiblicalTerm="Y" EntryCode="46.2" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Household Activities</LEXDomain>
+          </LEXDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-12-11 15:08:51" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>to command and give leadership to a household{N:001}</DefinitionShort>
+              <Glosses>
+                <Gloss>to direct a household</Gloss>
+                <Gloss>to manage a home</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>05400501400012</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

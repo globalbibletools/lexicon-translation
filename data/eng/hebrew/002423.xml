@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="002423000000000" Lemma="חסן" Version="5" HasAramaic="true" InLXX="false" AlphaPos="ח">
+  <StrongCodes>
+    <Strong>H2630</Strong>
+    <Strong>A2631</Strong>
+  </StrongCodes>
+  <Authors>
+    <Author>Reinier de Blois</Author>
+  </Authors>
+  <Contributors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes/>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="002423001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>vb</PartOfSpeech>
+      </PartsOfSpeech>
+      <RelatedLemmas>
+        <RelatedLemma>
+          <Word>חֲסִין</Word>
+        </RelatedLemma>
+        <RelatedLemma>
+          <Word>חָסֹן</Word>
+        </RelatedLemma>
+        <RelatedLemma>
+          <Word>חֹסֶן</Word>
+        </RelatedLemma>
+        <RelatedLemma>
+          <Word>חֱסֵן</Word>
+        </RelatedLemma>
+      </RelatedLemmas>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="002423001001000" IsBiblicalTerm="Y" EntryCode="" Indent="0">
+          <LEXDomains>
+            <LEXDomain Code="002003002020">Possess</LEXDomain>
+          </LEXDomains>
+          <LEXForms>
+            <LEXForm>vbnif- (passive)</LEXForm>
+          </LEXForms>
+          <LEXSynonyms>
+            <LEXSynonym>אצר</LEXSynonym>
+          </LEXSynonyms>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2016-12-11 22:53:48" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>= pattern of actions by which humans accumulate wealth for themselves and store it up in a designated place</DefinitionShort>
+              <Glosses>
+                <Gloss>to accumulate</Gloss>
+                <Gloss>to store up</Gloss>
+                <Gloss>to hoard</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>02302301800026</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+          <LEXCoreDomains>
+            <LEXCoreDomain Code="128">Possession</LEXCoreDomain>
+          </LEXCoreDomains>
+        </LEXMeaning>
+        <LEXMeaning Id="002423001002000" IsBiblicalTerm="Y" EntryCode="" Indent="0">
+          <LEXDomains>
+            <LEXDomain Code="002003002008" Source="Possess" SourceCode="002003002020">Control</LEXDomain>
+          </LEXDomains>
+          <LEXForms>
+            <LEXForm>vbhaf-</LEXForm>
+          </LEXForms>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2020-08-19 19:53:05" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>= state in which humans gain control of a position</DefinitionShort>
+              <Glosses>
+                <Gloss>to gain control</Gloss>
+                <Gloss>to gain possession</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>02700701800014</LEXReference>
+            <LEXReference>02700702200034</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

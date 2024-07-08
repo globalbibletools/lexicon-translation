@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="001342000000000" Lemma="גֵּוָה" Version="5" HasAramaic="true" InLXX="false" AlphaPos="ג">
+  <StrongCodes>
+    <Strong>H1465</Strong>
+    <Strong>H1466</Strong>
+    <Strong>A1467</Strong>
+  </StrongCodes>
+  <Authors>
+    <Author>Enio R. Mueller</Author>
+  </Authors>
+  <Contributors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes/>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="001342001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>nsf</PartOfSpeech>
+      </PartsOfSpeech>
+      <RelatedLemmas>
+        <RelatedLemma>
+          <Word>גאה</Word>
+        </RelatedLemma>
+      </RelatedLemmas>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="001342001001000" IsBiblicalTerm="M" EntryCode="" Indent="0">
+          <LEXDomains>
+            <LEXDomain Code="002001002012">Great</LEXDomain>
+          </LEXDomains>
+          <LEXAntonyms>
+            <LEXAntonym>שַׁח עֵינַיִם</LEXAntonym>
+          </LEXAntonyms>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2016-03-26 09:48:27" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>= state in which humans have an elevated status in their own eyes, ≈ which is seen as a negative and undesirable attitude for humans</DefinitionShort>
+              <Glosses>
+                <Gloss>pride</Gloss>
+                <Gloss>proud</Gloss>
+                <Gloss>arrogant</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>01802202900010</LEXReference>
+            <LEXReference>01803301700012</LEXReference>
+            <LEXReference>02401301700022</LEXReference>
+            <LEXReference>02700403400046</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+          <LEXCoreDomains>
+            <LEXCoreDomain Code="170">Status</LEXCoreDomain>
+            <LEXCoreDomain Code="083">Humility and Pride</LEXCoreDomain>
+            <LEXCoreDomain Code="082">Human</LEXCoreDomain>
+          </LEXCoreDomains>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+    <BaseForm Id="001342002000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>nsf</PartOfSpeech>
+      </PartsOfSpeech>
+      <RelatedLemmas>
+        <RelatedLemma>
+          <Word>גַּו</Word>
+        </RelatedLemma>
+        <RelatedLemma>
+          <Word>גֵּו</Word>
+        </RelatedLemma>
+      </RelatedLemmas>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="001342002001000" IsBiblicalTerm="Y" EntryCode="" Indent="0">
+          <LEXDomains>
+            <LEXDomain Code="001001002003">People</LEXDomain>
+          </LEXDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2016-03-26 09:48:27" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>= the rear part of the human body, especially from the neck to the bottom</DefinitionShort>
+              <Glosses>
+                <Gloss>back</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>01802002500010</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+          <LEXCoreDomains>
+            <LEXCoreDomain Code="019">Body</LEXCoreDomain>
+          </LEXCoreDomains>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

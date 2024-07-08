@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="002983000000000" Lemma="יְעוּאֵל" Version="5" HasAramaic="false" InLXX="false" AlphaPos="י">
+  <StrongCodes>
+    <Strong>H3262</Strong>
+  </StrongCodes>
+  <Authors>
+    <Author>Reinier de Blois</Author>
+  </Authors>
+  <Contributors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes>
+    <Note Caller="1" LanguageCode="en" LastEdited="" LastEditedBy="">
+      <References>
+        <Reference>01300903500014</Reference>
+        <Reference>01402601100034</Reference>
+      </References>
+      <Content>MT-K יעואל | MT-Q {L:יְעִיאֵל&lt;SDBH:יְעִיאֵל&gt;}</Content>
+    </Note>
+    <Note Caller="2" LanguageCode="en" LastEdited="" LastEditedBy="">
+      <References>
+        <Reference>01301104400012</Reference>
+        <Reference>01402901300014</Reference>
+      </References>
+      <Content>MT-K ויעואל | MT-Q וִיעִיאֵל = {L:יְעִיאֵל&lt;SDBH:יְעִיאֵל&gt;}</Content>
+    </Note>
+  </Notes>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="002983001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>np</PartOfSpeech>
+      </PartsOfSpeech>
+      <RelatedLemmas>
+        <RelatedLemma>
+          <Word>יעה</Word>
+        </RelatedLemma>
+        <RelatedLemma>
+          <Word>אֵל</Word>
+        </RelatedLemma>
+      </RelatedLemmas>
+      <MeaningsOfName>
+        <MeaningOfName LanguageCode="en">
+          <Meaning>God sweeps away</Meaning>
+        </MeaningOfName>
+        <MeaningOfName LanguageCode="pt">
+          <Meaning>Deus varre para longe</Meaning>
+        </MeaningOfName>
+      </MeaningsOfName>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="002983001001000" IsBiblicalTerm="Y" EntryCode="" Indent="0">
+          <LEXDomains>
+            <LEXDomain Code="003001007">Names of People</LEXDomain>
+          </LEXDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2015-10-29 18:09:48" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>= man; ◄ descendant of {L:Zerah&lt;SDBH:זֶרַח&gt;}; tribe of {L:Judah&lt;SDBH:יְהוּדָה&gt;}</DefinitionShort>
+              <Glosses>
+                <Gloss>Jeiel</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>01300900600010</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+        <LEXMeaning Id="002983001002000" IsBiblicalTerm="Y" EntryCode="" Indent="0">
+          <LEXDomains>
+            <LEXDomain Code="003001007">Names of People</LEXDomain>
+          </LEXDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2015-10-29 18:09:48" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>read {L:יְעִיאֵל&lt;SDBH:יְעִיאֵל&gt;} with MT-Q</DefinitionShort>
+              <Glosses>
+                <Gloss>Jeiel</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>01300903500014{N:001}</LEXReference>
+            <LEXReference>01301104400012{N:002}</LEXReference>
+            <LEXReference>01402601100034{N:001}</LEXReference>
+            <LEXReference>01402901300014{N:002}</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

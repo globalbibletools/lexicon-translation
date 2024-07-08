@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="000728000000000" Lemma="ἀρσενοκοίτης" Version="0" HasAramaic="false" InLXX="false" AlphaPos="α">
+  <StrongCodes>
+    <Strong>G0733</Strong>
+  </StrongCodes>
+  <Authors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes/>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="000728001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>noun, m.</PartOfSpeech>
+      </PartsOfSpeech>
+      <Inflections>
+        <Inflection Lemma="ἀρσενοκοίτης" BaseFormIndex="1">
+          <Form/>
+          <Realizations>
+            <Realization>-ου</Realization>
+          </Realizations>
+          <Comments/>
+        </Inflection>
+      </Inflections>
+      <Constructs>
+        <Construct Lemma="ἀρσενοκοίτης" BaseFormIndex="1">
+          <WordMeaningSet>
+            <Word>ἄρσην</Word>
+          </WordMeaningSet>
+          <WordMeaningSet>
+            <Word>κοίτη</Word>
+            <Meaning LanguageCode="en">
+              <Meaning>bed</Meaning>
+            </Meaning>
+            <Meaning LanguageCode="zhT">
+              <Meaning>床</Meaning>
+            </Meaning>
+          </WordMeaningSet>
+        </Construct>
+      </Constructs>
+      <RelatedLemmas>
+        <RelatedLemma>
+          <Word>κεῖμαι</Word>
+        </RelatedLemma>
+      </RelatedLemmas>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="000728001001000" IsBiblicalTerm="Y" EntryCode="88.280" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Moral and Ethical Qualities and Related Behavior</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Sexual Misbehavior</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-08-16 16:46:53" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>a male partner in homosexual intercourse</DefinitionShort>
+              <Glosses>
+                <Gloss>homosexual</Gloss>
+              </Glosses>
+              <Comments>It is possible that ἀρσενοκοίτης in certain contexts refers to the active male partner in homosexual intercourse in contrast with {L:μαλακός&lt;SDBG:μαλακός:000001&gt;}[b], the passive male partner ({D:88.281}).</Comments>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04600600900042</LEXReference>
+            <LEXReference>05400101000004</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

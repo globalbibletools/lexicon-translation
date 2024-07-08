@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="000015000000000" Lemma="אֵבוּס" Version="5" HasAramaic="false" InLXX="false" AlphaPos="א">
+  <StrongCodes>
+    <Strong>H0018</Strong>
+  </StrongCodes>
+  <Authors>
+    <Author>Reinier de Blois</Author>
+  </Authors>
+  <Contributors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes>
+    <Note Caller="1" LanguageCode="en" LastEdited="" LastEditedBy="">
+      <References>
+        <Reference>01803900900016</Reference>
+      </References>
+      <Content>{A:RSV} {A:NJPS} {A:NRSV} "crib" {A:NIV} {A:NJB} "manger" | {A:REB} "stall" {A:GNT} "stable" | {A:CEV} "barn"</Content>
+    </Note>
+    <Note Caller="2" LanguageCode="en" LastEdited="" LastEditedBy="">
+      <References>
+        <Reference>02300100300012</Reference>
+      </References>
+      <Content>{A:RSV} {A:NIV} {A:NJPS} {A:NJB} {A:NRSV} "crib" {A:NIV} "manger" | {A:REB} "stall"</Content>
+    </Note>
+    <Note Caller="3" LanguageCode="en" LastEdited="" LastEditedBy="">
+      <References>
+        <Reference>02001400400008</Reference>
+      </References>
+      <Content>{A:NIV} {A:NJB} "manger" {A:NJPS} "crib" | {A:REB} {A:GNT} "barn"</Content>
+    </Note>
+  </Notes>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="000015001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>nsm</PartOfSpeech>
+      </PartsOfSpeech>
+      <RelatedLemmas>
+        <RelatedLemma>
+          <Word>אבס</Word>
+        </RelatedLemma>
+      </RelatedLemmas>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="000015001001000" IsBiblicalTerm="M" EntryCode="" Indent="0">
+          <LEXDomains>
+            <LEXDomain Code="001004001003">Containers</LEXDomain>
+          </LEXDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2015-12-19 10:16:00" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>exact meaning unsure; possibly: = long container, ◄ made of wood or stone; ► used for putting food for one's domestic animals</DefinitionShort>
+              <Glosses>
+                <Gloss>crib</Gloss>
+                <Gloss>manger</Gloss>
+                <Gloss>feed trough</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>01803900900016{N:001}</LEXReference>
+            <LEXReference>02001400400008{N:003}</LEXReference>
+            <LEXReference>02300100300012{N:002}</LEXReference>
+          </LEXReferences>
+          <LEXLinks>
+            <LEXLink>Realia:1.2.3</LEXLink>
+          </LEXLinks>
+          <LEXVideos/>
+          <LEXCoreDomains>
+            <LEXCoreDomain Code="027">Crafts</LEXCoreDomain>
+            <LEXCoreDomain Code="171">Storage</LEXCoreDomain>
+            <LEXCoreDomain Code="069">Food</LEXCoreDomain>
+            <LEXCoreDomain Code="010">Animal</LEXCoreDomain>
+          </LEXCoreDomains>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

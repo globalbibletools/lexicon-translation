@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="003799000000000" Lemma="παραπορεύομαι" Version="0" HasAramaic="false" InLXX="true" AlphaPos="π">
+  <StrongCodes>
+    <Strong>G3899</Strong>
+  </StrongCodes>
+  <Authors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes>
+    <Note Caller="1" LanguageCode="en" LastEdited="" LastEditedBy="">
+      <References/>
+      <Content>It is possible that there are slight distinctions in meaning between παρέρχομαι[a], παραπορεύομαι, and παράγω[b] in view of certain distinctions of meaning in ἔρχομαι, πορεύομαι, and ἄγω (especially in the sense of ὑπάγω). παρέρχομαι[a] may therefore be judged to be more generic in meaning, while παραπορεύομαι may refer specifically to walking along, and παράγω[b] may involve primarily the act of passing beyond a particular point.</Content>
+    </Note>
+  </Notes>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="003799001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>verb</PartOfSpeech>
+      </PartsOfSpeech>
+      <RelatedLemmas>
+        <RelatedLemma>
+          <Word>πορεύομαι</Word>
+        </RelatedLemma>
+      </RelatedLemmas>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="003799001001000" IsBiblicalTerm="Y" EntryCode="15.28" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Linear Movement</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Pass, Cross Over, Go Through, Go Around</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-12-20 15:57:09" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>to move past a reference point{N:001}</DefinitionShort>
+              <Glosses>
+                <Gloss>to pass by</Gloss>
+                <Gloss>to go by</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04002703900006</LEXReference>
+            <LEXReference>04100202300014</LEXReference>
+            <LEXReference>04100903000006</LEXReference>
+            <LEXReference>04101102000004</LEXReference>
+            <LEXReference>04101502900006</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

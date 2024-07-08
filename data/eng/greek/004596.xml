@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="004596000000000" Lemma="σπιλάς" Version="0" HasAramaic="false" InLXX="false" AlphaPos="σ">
+  <StrongCodes>
+    <Strong>G4694</Strong>
+  </StrongCodes>
+  <Authors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes/>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="004596001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>noun, f.</PartOfSpeech>
+      </PartsOfSpeech>
+      <Inflections>
+        <Inflection Lemma="σπιλάς" BaseFormIndex="1">
+          <Form/>
+          <Realizations>
+            <Realization>-άδος</Realization>
+          </Realizations>
+          <Comments/>
+        </Inflection>
+      </Inflections>
+      <RelatedLemmas>
+        <RelatedLemma>
+          <Word>σπιλόω</Word>
+        </RelatedLemma>
+      </RelatedLemmas>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="004596001001000" IsBiblicalTerm="M" EntryCode="21.5" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Danger, Risk, Safe, Save</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Danger</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2022-02-14 22:43:03" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>(a figurative extension of meaning of σπιλάς ‘a rock or reef washed by the sea,’ not occurring in the NT) an unrecognized source of danger or peril</DefinitionShort>
+              <Glosses>
+                <Gloss>unseen danger</Gloss>
+                <Gloss>hidden danger</Gloss>
+              </Glosses>
+              <Comments>σπιλάς in {S:06500101200016} may also be understood as meaning ‘spot’ or ‘stain’ (see {D:79.57}).</Comments>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>06500101200016</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+        <LEXMeaning Id="004596001002000" IsBiblicalTerm="Y" EntryCode="79.57" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Features of Objects</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Spotted, Spotless</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2022-02-14 22:43:03" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>that which constitutes an unwanted spot or stain upon something</DefinitionShort>
+              <Glosses>
+                <Gloss>spot</Gloss>
+                <Gloss>stain</Gloss>
+              </Glosses>
+              <Comments>It is also possible that in {S:06500101200016} σπιλάς means an ‘unseen danger,’ in that it may refer to a rock which is mostly or completely covered by the sea (see {D:21.5}).</Comments>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>06500101200016</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

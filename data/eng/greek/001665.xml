@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="001665000000000" Lemma="ἐλέγχω" Version="0" HasAramaic="false" InLXX="true" AlphaPos="ε">
+  <StrongCodes>
+    <Strong>G1651</Strong>
+  </StrongCodes>
+  <Authors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes>
+    <Note Caller="1" LanguageCode="en" LastEdited="" LastEditedBy="">
+      <References>
+        <Reference>04900501100026</Reference>
+      </References>
+      <Content>If the direct object of the verb ἐλέγχω in {S:04900501100026} is understood as ‘those who have done the fruitless deeds of darkness,’ then the meaning is ‘rebuke.’ However, it is also possible to construe the direct object as being ‘the fruitless deeds of darkness,’ in which case the meaning of ἐλέγχω would presumably be ‘to expose by words.’</Content>
+    </Note>
+  </Notes>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="001665001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>verb</PartOfSpeech>
+      </PartsOfSpeech>
+      <Inflections>
+        <Inflection Lemma="ἐλέγχω" BaseFormIndex="1">
+          <Form>aor.pass.</Form>
+          <Realizations>
+            <Realization>ἠλέγχθην</Realization>
+          </Realizations>
+          <Comments/>
+        </Inflection>
+      </Inflections>
+      <RelatedLemmas>
+        <RelatedLemma>
+          <Word>ἀπελεγμός</Word>
+        </RelatedLemma>
+        <RelatedLemma>
+          <Word>διακατελέγχομαι</Word>
+        </RelatedLemma>
+        <RelatedLemma>
+          <Word>ἔλεγξις</Word>
+        </RelatedLemma>
+        <RelatedLemma>
+          <Word>ἔλεγχος</Word>
+        </RelatedLemma>
+      </RelatedLemmas>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="001665001001000" IsBiblicalTerm="Y" EntryCode="33.417" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Communication</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Rebuke</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-05-14 20:44:00" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>to state that someone has done wrong, with the implication that there is adequate proof of such wrongdoing</DefinitionShort>
+              <Glosses>
+                <Gloss>to rebuke</Gloss>
+                <Gloss>to reproach</Gloss>
+                <Gloss>rebuke</Gloss>
+                <Gloss>reproach</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04001801500020</LEXReference>
+            <LEXReference>04200301900012</LEXReference>
+            <LEXReference>04300302000034</LEXReference>
+            <LEXReference>04300804600008</LEXReference>
+            <LEXReference>04301600800008</LEXReference>
+            <LEXReference>04601402400022</LEXReference>
+            <LEXReference>04900501100026{N:001}</LEXReference>
+            <LEXReference>04900501300008</LEXReference>
+            <LEXReference>05400502000010</LEXReference>
+            <LEXReference>05500400200014</LEXReference>
+            <LEXReference>05600100900042</LEXReference>
+            <LEXReference>05600101300018</LEXReference>
+            <LEXReference>05600201500012</LEXReference>
+            <LEXReference>05801200500040</LEXReference>
+            <LEXReference>05900200900012</LEXReference>
+            <LEXReference>06500101500012</LEXReference>
+            <LEXReference>06600301900010</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

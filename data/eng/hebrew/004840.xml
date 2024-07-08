@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="004840000000000" Lemma="נֹעַם" Version="5" HasAramaic="false" InLXX="false" AlphaPos="נ">
+  <StrongCodes>
+    <Strong>H5278</Strong>
+  </StrongCodes>
+  <Authors>
+    <Author>Reinier de Blois</Author>
+  </Authors>
+  <Contributors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes/>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="004840001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>nsm</PartOfSpeech>
+      </PartsOfSpeech>
+      <RelatedLemmas>
+        <RelatedLemma>
+          <Word>נעם</Word>
+        </RelatedLemma>
+      </RelatedLemmas>
+      <RelatedNames>
+        <RelatedName>
+          <Word>אֲבִינֹעַם</Word>
+        </RelatedName>
+      </RelatedNames>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="004840001001000" IsBiblicalTerm="Y" EntryCode="" Indent="0">
+          <LEXDomains>
+            <LEXDomain Code="002001001028">Good</LEXDomain>
+            <LEXDomain Code="002001002018">Love</LEXDomain>
+          </LEXDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2017-10-01 12:31:43" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>= state in which a deity has qualities that inspire love and appreciation</DefinitionShort>
+              <Glosses>
+                <Gloss>loveliness</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>01902700400036</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+          <LEXCoreDomains>
+            <LEXCoreDomain Code="137">Quality</LEXCoreDomain>
+            <LEXCoreDomain Code="004">Affection</LEXCoreDomain>
+          </LEXCoreDomains>
+        </LEXMeaning>
+        <LEXMeaning Id="004840001002000" IsBiblicalTerm="Y" EntryCode="" Indent="0">
+          <LEXDomains>
+            <LEXDomain Code="002001003019" Source="Good" SourceCode="002001001028">Well</LEXDomain>
+          </LEXDomains>
+          <LEXSynonyms>
+            <LEXSynonym>שָׁלֹום</LEXSynonym>
+          </LEXSynonyms>
+          <LEXAntonyms>
+            <LEXAntonym>תֹּועֵבָה</LEXAntonym>
+          </LEXAntonyms>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-07-20 18:19:56" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>= state in which conditions and circumstances have qualities that inspire appreciation</DefinitionShort>
+              <Glosses>
+                <Gloss>pleasantness</Gloss>
+                <Gloss>delight</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>02000301700006</LEXReference>
+            <LEXReference>02001502600016</LEXReference>
+            <LEXReference>02001602400008</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+          <LEXCoreDomains>
+            <LEXCoreDomain Code="137">Quality</LEXCoreDomain>
+          </LEXCoreDomains>
+        </LEXMeaning>
+        <LEXMeaning Id="004840001003000" IsBiblicalTerm="Y" EntryCode="" Indent="0">
+          <LEXDomains>
+            <LEXDomain Code="002001002028" Source="Good" SourceCode="002001001028">Willing</LEXDomain>
+          </LEXDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-07-20 18:19:56" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>= state in which deities are well disposed towards humans</DefinitionShort>
+              <Glosses>
+                <Gloss>favor</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>01909001700006</LEXReference>
+            <LEXReference>03801100700038</LEXReference>
+            <LEXReference>03801101000012</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+          <LEXCoreDomains>
+            <LEXCoreDomain Code="197">Willingness</LEXCoreDomain>
+          </LEXCoreDomains>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

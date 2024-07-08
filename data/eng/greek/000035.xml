@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="000035000000000" Lemma="ἀγέλη" Version="0" HasAramaic="false" InLXX="true" AlphaPos="α">
+  <StrongCodes>
+    <Strong>G0034</Strong>
+  </StrongCodes>
+  <Authors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes/>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="000035001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>noun, f.</PartOfSpeech>
+      </PartsOfSpeech>
+      <Inflections>
+        <Inflection Lemma="ἀγέλη" BaseFormIndex="1">
+          <Form/>
+          <Realizations>
+            <Realization>-ης</Realization>
+          </Realizations>
+          <Comments/>
+        </Inflection>
+      </Inflections>
+      <RelatedLemmas>
+        <RelatedLemma>
+          <Word>ἄγω</Word>
+        </RelatedLemma>
+      </RelatedLemmas>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="000035001001000" IsBiblicalTerm="M" EntryCode="4.8" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Animals</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Animals</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-05-24 13:50:55" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>collective for a group of animals</DefinitionShort>
+              <Glosses>
+                <Gloss>herd</Gloss>
+              </Glosses>
+              <Comments>In a number of languages a ‘herd’ must be translated merely as ‘many,’ since there is frequently no corresponding collective term which would be applicable only or even primarily to pigs. In some languages, however, there are highly specific terms for various types of groups of animals, so that a distinctive collective expression may be used for pigs, sheep, horses, camels, etc.</Comments>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04000803000012</LEXReference>
+            <LEXReference>04000803100028</LEXReference>
+            <LEXReference>04000803200034</LEXReference>
+            <LEXReference>04100501100014</LEXReference>
+            <LEXReference>04100501300034</LEXReference>
+            <LEXReference>04200803200008</LEXReference>
+            <LEXReference>04200803300030</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

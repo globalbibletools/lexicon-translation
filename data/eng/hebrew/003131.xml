@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="003131000000000" Lemma="יְרַקְרַק" Version="5" HasAramaic="false" InLXX="false" AlphaPos="י">
+  <StrongCodes>
+    <Strong>H3422</Strong>
+  </StrongCodes>
+  <Authors>
+    <Author>Reinier de Blois</Author>
+  </Authors>
+  <Contributors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes>
+    <Note Caller="1" LanguageCode="en" LastEdited="" LastEditedBy="">
+      <References>
+        <Reference>01906801400028</Reference>
+      </References>
+      <Content>RSV NJB NRSV "green gold" | NIV "shining gold" | NJPS GNT "fine gold" | REB "yellow gold" | CEV "shiny gold" | ESV "shimmering gold" | DCH perh. "leaf"</Content>
+    </Note>
+  </Notes>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="003131001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>aj</PartOfSpeech>
+      </PartsOfSpeech>
+      <RelatedLemmas>
+        <RelatedLemma>
+          <Word>יָרֹוק</Word>
+        </RelatedLemma>
+        <RelatedLemma>
+          <Word>יָרָק</Word>
+        </RelatedLemma>
+        <RelatedLemma>
+          <Word>יֶרֶק</Word>
+        </RelatedLemma>
+        <RelatedLemma>
+          <Word>יֵרָקֹון</Word>
+        </RelatedLemma>
+      </RelatedLemmas>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="003131001001000" IsBiblicalTerm="Y" EntryCode="" Indent="0">
+          <LEXDomains>
+            <LEXDomain Code="002001001015">Color</LEXDomain>
+          </LEXDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2015-08-22 17:11:45" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>= state in which cloth, leather, or stone has the pale green color of mildew</DefinitionShort>
+              <Glosses>
+                <Gloss>greenish</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>00301304900010</LEXReference>
+            <LEXReference>00301403700030</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+        <LEXMeaning Id="003131001002000" IsBiblicalTerm="Y" EntryCode="" Indent="0">
+          <LEXDomains>
+            <LEXDomain Code="001006008" Source="Color" SourceCode="002001001015">Metals</LEXDomain>
+          </LEXDomains>
+          <LEXCollocations>
+            <LEXCollocation>יְרַקְרַק חָרוּץ</LEXCollocation>
+          </LEXCollocations>
+          <LEXSynonyms>
+            <LEXSynonym>כֶּסֶף</LEXSynonym>
+          </LEXSynonyms>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-02-15 15:09:07" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>meaning unsure; possibly: = a type of gold alloy that is greenish in color as a result of being alloyed with silver </DefinitionShort>
+              <Glosses>
+                <Gloss>green gold</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>01906801400028{N:001}</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="005223000000000" Lemma="עגב" Version="5" HasAramaic="false" InLXX="false" AlphaPos="ע">
+  <StrongCodes>
+    <Strong>H5689</Strong>
+  </StrongCodes>
+  <Authors>
+    <Author>Reinier de Blois</Author>
+  </Authors>
+  <Contributors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes>
+    <Note Caller="1" LanguageCode="en" LastEdited="" LastEditedBy="">
+      <References>
+        <Reference>02602301600004</Reference>
+      </References>
+      <Content>MT-K ותעגב | MT-Q תַּעגְּבָה</Content>
+    </Note>
+  </Notes>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="005223001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>vb</PartOfSpeech>
+      </PartsOfSpeech>
+      <RelatedLemmas>
+        <RelatedLemma>
+          <Word>עוּגָב</Word>
+        </RelatedLemma>
+      </RelatedLemmas>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="005223001001000" IsBiblicalTerm="Y" EntryCode="" Indent="0">
+          <LEXDomains>
+            <LEXDomain Code="002004001001001">Desire</LEXDomain>
+          </LEXDomains>
+          <LEXForms>
+            <LEXForm>vbqal-</LEXForm>
+          </LEXForms>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2016-12-19 08:34:35" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>= state in which humans experience the physical desire to have sex with someone else; ≈ used in the metaphoric sense of associating with foreign nations, including their idols</DefinitionShort>
+              <Glosses>
+                <Gloss>to lust after</Gloss>
+                <Gloss>lusting after</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>02602300500012</LEXReference>
+            <LEXReference>02602300700026</LEXReference>
+            <LEXReference>02602300900022</LEXReference>
+            <LEXReference>02602301200008</LEXReference>
+            <LEXReference>02602301600004{N:001}</LEXReference>
+            <LEXReference>02602301600006</LEXReference>
+            <LEXReference>02602302000004</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+          <LEXCoreDomains>
+            <LEXCoreDomain Code="019">Body</LEXCoreDomain>
+            <LEXCoreDomain Code="155">Sex</LEXCoreDomain>
+          </LEXCoreDomains>
+        </LEXMeaning>
+        <LEXMeaning Id="005223001002000" IsBiblicalTerm="Y" EntryCode="" Indent="0">
+          <LEXDomains>
+            <LEXDomain Code="001001002003" Source="Desire" SourceCode="002004001001001">People</LEXDomain>
+          </LEXDomains>
+          <LEXForms>
+            <LEXForm>vbqal-Pxxp</LEXForm>
+          </LEXForms>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2016-12-19 08:34:35" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>= person who is the object of one's physical desire to have sex with someone else</DefinitionShort>
+              <Glosses>
+                <Gloss>lover</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>02400403000052</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+          <LEXCoreDomains>
+            <LEXCoreDomain Code="019">Body</LEXCoreDomain>
+            <LEXCoreDomain Code="155">Sex</LEXCoreDomain>
+          </LEXCoreDomains>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

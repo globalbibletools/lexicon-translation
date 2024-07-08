@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="007256000000000" Lemma="שֹׁועַ" Version="5" HasAramaic="false" InLXX="false" AlphaPos="ש">
+  <StrongCodes>
+    <Strong>H7771</Strong>
+    <Strong>H7772</Strong>
+  </StrongCodes>
+  <Authors>
+    <Author>Reinier de Blois</Author>
+    <Author>G.I. Davies</Author>
+  </Authors>
+  <Contributors/>
+  <AlternateLemmas/>
+  <MainLinks>
+    <MainLink>SAHD@http://www.sahd.div.ed.ac.uk/_media/lexeme:pdf:mnl-soaʿ-davies-cam-2016.pdf</MainLink>
+  </MainLinks>
+  <Notes/>
+  <ContributorNote>associated with: 7. Conclusion, p. 3. </ContributorNote>
+  <BaseForms>
+    <BaseForm Id="007256001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>np</PartOfSpeech>
+      </PartsOfSpeech>
+      <RelatedLemmas>
+        <RelatedLemma>
+          <Word>שׁוע</Word>
+        </RelatedLemma>
+      </RelatedLemmas>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="007256001001000" IsBiblicalTerm="Y" EntryCode="" Indent="0">
+          <LEXDomains>
+            <LEXDomain Code="002004001009005">Shout</LEXDomain>
+          </LEXDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2017-04-16 13:32:24" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>= action by which humans raise their voice ◄ in times of hardship ► hoping to receive help from God or someone else</DefinitionShort>
+              <Glosses>
+                <Gloss>cry for help</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>02302200500036</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+          <LEXCoreDomains>
+            <LEXCoreDomain Code="041">Communication</LEXCoreDomain>
+            <LEXCoreDomain Code="196">Well-Being</LEXCoreDomain>
+          </LEXCoreDomains>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+    <BaseForm Id="007256002000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>nsm</PartOfSpeech>
+      </PartsOfSpeech>
+      <RelatedLemmas>
+        <RelatedLemma>
+          <Word>שׁוּעַ</Word>
+        </RelatedLemma>
+      </RelatedLemmas>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="007256002001000" IsBiblicalTerm="M" EntryCode="" Indent="0">
+          <LEXDomains>
+            <LEXDomain Code="002001001046">Rich</LEXDomain>
+            <LEXDomain Code="002001002012">Great</LEXDomain>
+          </LEXDomains>
+          <LEXSynonyms>
+            <LEXSynonym>נָדִיב</LEXSynonym>
+            <LEXSynonym>שַׂר</LEXSynonym>
+          </LEXSynonyms>
+          <LEXAntonyms>
+            <LEXAntonym>דַּל</LEXAntonym>
+            <LEXAntonym>כִּילַי</LEXAntonym>
+            <LEXAntonym>נָבָל</LEXAntonym>
+          </LEXAntonyms>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2017-04-16 13:32:24" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>= person who is wealthy ► and therefore belongs to the upper class of the society; ≈ associated with respectability and moral character</DefinitionShort>
+              <Glosses>
+                <Gloss>rich</Gloss>
+                <Gloss>noble</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>01803401900018</LEXReference>
+            <LEXReference>02303200500024</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+          <LEXCoreDomains>
+            <LEXCoreDomain Code="192">Wealth and Poverty</LEXCoreDomain>
+            <LEXCoreDomain Code="170">Status</LEXCoreDomain>
+          </LEXCoreDomains>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+    <BaseForm Id="007256003000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>np</PartOfSpeech>
+      </PartsOfSpeech>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="007256003001000" IsBiblicalTerm="Y" EntryCode="" Indent="0">
+          <LEXDomains>
+            <LEXDomain Code="003001006">Names of Groups</LEXDomain>
+          </LEXDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2017-04-16 13:32:24" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>= ethnic group</DefinitionShort>
+              <Glosses>
+                <Gloss>Shoa</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>02602302300016</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

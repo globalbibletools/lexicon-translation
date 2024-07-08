@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="001710000000000" Lemma="ἐμμένω" Version="0" HasAramaic="false" InLXX="true" AlphaPos="ε">
+  <StrongCodes>
+    <Strong>G1696</Strong>
+  </StrongCodes>
+  <Authors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes>
+    <Note Caller="1" LanguageCode="en" LastEdited="" LastEditedBy="">
+      <References/>
+      <Content>There may be slight nuances of meaning in the various terms in this series, but such distinctions cannot be clearly determined from existing contexts, especially since the prefixes are redundant with other expressions of space.</Content>
+    </Note>
+  </Notes>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="001710001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>verb</PartOfSpeech>
+      </PartsOfSpeech>
+      <Inflections>
+        <Inflection Lemma="ἐμμένω" BaseFormIndex="1">
+          <Form>aor.</Form>
+          <Realizations>
+            <Realization>ἐνέμεινα</Realization>
+          </Realizations>
+          <Comments/>
+        </Inflection>
+      </Inflections>
+      <RelatedLemmas>
+        <RelatedLemma>
+          <Word>μένω</Word>
+        </RelatedLemma>
+      </RelatedLemmas>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="001710001001000" IsBiblicalTerm="Y" EntryCode="85.55" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Existence in Space</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Remain, Stay</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-05-21 09:13:09" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>to remain in the same place over a period of time{N:001}</DefinitionShort>
+              <Glosses>
+                <Gloss>to remain</Gloss>
+                <Gloss>to stay</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04402803000002</LEXReference>
+            <LEXReference>05800800900050</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+        <LEXMeaning Id="001710001002000" IsBiblicalTerm="Y" EntryCode="68.11" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Aspect</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Continue</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-05-21 09:13:09" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>to continue in an activity or state</DefinitionShort>
+              <Glosses>
+                <Gloss>to continue</Gloss>
+                <Gloss>to remain in</Gloss>
+                <Gloss>to keep on</Gloss>
+              </Glosses>
+              <Comments>In {S:05800800900050} the implication of ‘to continue in a covenant’ is to adhere to the articles or stipulations of a covenant. Accordingly, one may render {S:05800800900050} as ‘because they did not remain faithful to my covenant.’ In {S:04401402200014} (παρακαλοῦντες ἐμμένειν τῇ πίστει ‘encourage them to remain true to the faith’), it is also possible to translate the expression ‘to remain true to the faith’ as ‘to continue to believe.’</Comments>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04401402200014</LEXReference>
+            <LEXReference>04800301000034</LEXReference>
+            <LEXReference>05800800900050</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="000201000000000" Lemma="ἀκροθίνιον" Version="0" HasAramaic="false" InLXX="false" AlphaPos="α">
+  <StrongCodes>
+    <Strong>G0205</Strong>
+  </StrongCodes>
+  <Authors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes/>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="000201001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>noun, n.</PartOfSpeech>
+      </PartsOfSpeech>
+      <Inflections>
+        <Inflection Lemma="ἀκροθίνιον" BaseFormIndex="1">
+          <Form/>
+          <Realizations>
+            <Realization>-ου</Realization>
+          </Realizations>
+          <Comments/>
+        </Inflection>
+      </Inflections>
+      <Constructs>
+        <Construct Lemma="ἀκροθίνιον" BaseFormIndex="1">
+          <WordMeaningSet>
+            <Word>ἄκρον</Word>
+          </WordMeaningSet>
+          <WordMeaningSet>
+            <Word>θίς</Word>
+            <Meaning LanguageCode="en">
+              <Meaning>a pile [of something]</Meaning>
+            </Meaning>
+            <Meaning LanguageCode="zhT">
+              <Meaning>一堆［東西］</Meaning>
+            </Meaning>
+          </WordMeaningSet>
+        </Construct>
+      </Constructs>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="000201001001000" IsBiblicalTerm="Y" EntryCode="57.244" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Possess, Transfer, Exchange</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Steal, Rob</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-07-30 23:07:17" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>the best part of the booty, particularly that which is offered to deity</DefinitionShort>
+              <Glosses>
+                <Gloss>the best of the booty</Gloss>
+                <Gloss>the finest spoils</Gloss>
+                <Gloss>the most valuable plunder</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>05800700400024</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="000416000000000" Lemma="ἀνεκτός" Version="0" HasAramaic="false" InLXX="false" AlphaPos="α">
+  <StrongCodes>
+    <Strong>G0414</Strong>
+  </StrongCodes>
+  <Authors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes/>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="000416001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>adjc.</PartOfSpeech>
+      </PartsOfSpeech>
+      <Inflections>
+        <Inflection Lemma="ἀνεκτός" BaseFormIndex="1">
+          <Form/>
+          <Realizations>
+            <Realization>-όν</Realization>
+          </Realizations>
+          <Comments/>
+        </Inflection>
+      </Inflections>
+      <RelatedLemmas>
+        <RelatedLemma>
+          <Word>ἔχω</Word>
+        </RelatedLemma>
+      </RelatedLemmas>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="000416001001000" IsBiblicalTerm="Y" EntryCode="25.172" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Attitudes and Emotions</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Patience, Endurance, Perseverance</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-08-05 16:06:13" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>pertaining to what can be borne or endured</DefinitionShort>
+              <Glosses>
+                <Gloss>bearable</Gloss>
+                <Gloss>endurable</Gloss>
+                <Gloss>tolerable</Gloss>
+              </Glosses>
+              <Comments>In some languages ‘it will be more tolerable’ in {S:04001102200014} may be satisfactorily expressed as ‘it will be easier to bear’ or ‘the suffering will be less.’</Comments>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04001001500008</LEXReference>
+            <LEXReference>04001102200014</LEXReference>
+            <LEXReference>04001102400014</LEXReference>
+            <LEXReference>04201001200018</LEXReference>
+            <LEXReference>04201001400010</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

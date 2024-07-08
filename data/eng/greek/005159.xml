@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="005159000000000" Lemma="ὑποκάτω" Version="0" HasAramaic="false" InLXX="true" AlphaPos="υ">
+  <StrongCodes>
+    <Strong>G5270</Strong>
+  </StrongCodes>
+  <Authors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes/>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="005159001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>prep. (with gen.)</PartOfSpeech>
+      </PartsOfSpeech>
+      <Constructs>
+        <Construct Lemma="ὑποκάτω" BaseFormIndex="1">
+          <WordMeaningSet>
+            <Word>ὑπό</Word>
+          </WordMeaningSet>
+          <WordMeaningSet>
+            <Word>κατά</Word>
+          </WordMeaningSet>
+        </Construct>
+      </Constructs>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="005159001001000" IsBiblicalTerm="Y" EntryCode="83.51" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Spacial Positions</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Above, Below</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2022-05-04 08:57:18" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>a position below another position or object</DefinitionShort>
+              <Glosses>
+                <Gloss>under</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04100702800022</LEXReference>
+            <LEXReference>04200801600018</LEXReference>
+            <LEXReference>04300105000024</LEXReference>
+            <LEXReference>05800200800006</LEXReference>
+            <LEXReference>06600500300024</LEXReference>
+            <LEXReference>06600501300026</LEXReference>
+            <LEXReference>06600600900016</LEXReference>
+            <LEXReference>06601200100030</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+        <LEXMeaning Id="005159001002000" IsBiblicalTerm="Y" EntryCode="83.52" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Spacial Positions</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Above, Below</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2022-05-04 08:57:18" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>a position on the undersurface of an object</DefinitionShort>
+              <Glosses>
+                <Gloss>under</Gloss>
+                <Gloss>on</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04100601100034</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+        <LEXMeaning Id="005159001003000" IsBiblicalTerm="Y" EntryCode="37.8" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Control, Rule</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Control, Restrain</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXCollocations>
+            <LEXCollocation>ὑποκάτω τῶν ποδῶν</LEXCollocation>
+          </LEXCollocations>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2022-05-04 08:57:18" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>to be under the complete control of someone</DefinitionShort>
+              <Glosses>
+                <Gloss>under the complete control of</Gloss>
+              </Glosses>
+              <Comments>In a number of languages it is simply not possible to preserve the idiom ‘under the feet of,’ though in some instances one may use a parallel idiom, for example, ‘to stand on,’ so that {S:04601502500026} might be rendered ‘until he stands on all his enemies,’ but it is more likely that the idiom in this context is better rendered as ‘until he defeats all his enemies.’</Comments>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04002204400032</LEXReference>
+            <LEXReference>04101203600048</LEXReference>
+            <LEXReference>05800200800006</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

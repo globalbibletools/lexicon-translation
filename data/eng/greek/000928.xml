@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="000928000000000" Lemma="βασανιστής" Version="0" HasAramaic="false" InLXX="false" AlphaPos="β">
+  <StrongCodes>
+    <Strong>G0930</Strong>
+  </StrongCodes>
+  <Authors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes/>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="000928001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>noun, m.</PartOfSpeech>
+      </PartsOfSpeech>
+      <Inflections>
+        <Inflection Lemma="βασανιστής" BaseFormIndex="1">
+          <Form/>
+          <Realizations>
+            <Realization>-οῦ</Realization>
+          </Realizations>
+          <Comments/>
+        </Inflection>
+      </Inflections>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="000928001001000" IsBiblicalTerm="Y" EntryCode="37.126" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Control, Rule</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Guard, Watch Over</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-02-04 22:23:19" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>(derivative of {L:βασανίζω&lt;SDBG:βασανίζω:000000&gt;} ‘to torture,’ {D:38.13}) a person serving as a guard in a prison, whose function was to torture prisoners as a phase of judicial examination</DefinitionShort>
+              <Glosses>
+                <Gloss>prison guard</Gloss>
+                <Gloss>torturer</Gloss>
+              </Glosses>
+              <Comments>It is difficult to know in the case of {S:04001803400018} if βασανιστής is to be understood in the specific sense of ‘torturer’ (in which case it could be classified after {D:38.13}) or only in terms of ‘prison guard.’ The use of βασανιστής in {S:04001803400018} may simply be an instance of literary hyperbole. As such it may be possible to translate the expression in {S:04001803400018} as ‘his master was very angry and handed him over to prison guards to torture him until he should pay back the whole amount.’</Comments>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04001803400018</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

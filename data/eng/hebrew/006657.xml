@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="006657000000000" Lemma="רְבָבָה" Version="5" HasAramaic="false" InLXX="false" AlphaPos="ר">
+  <StrongCodes>
+    <Strong>H7233</Strong>
+  </StrongCodes>
+  <Authors>
+    <Author>Reinier de Blois</Author>
+  </Authors>
+  <Contributors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes>
+    <Note Caller="1" LanguageCode="en" LastEdited="" LastEditedBy="">
+      <References>
+        <Reference>00902101200062</Reference>
+        <Reference>00902900500040</Reference>
+      </References>
+      <Content>MT-K רבבתו | MT-Q רִבְבֹתָיו</Content>
+    </Note>
+    <Note Caller="2" LanguageCode="en" LastEdited="" LastEditedBy="">
+      <References>
+        <Reference>02601600700002</Reference>
+      </References>
+      <Content>MT HOTTP-B "(I made you into) a multitude)" ESV "I made you flourish" | LXX "πληθύνου" RSV NRSV "and grow up" NIV NJB GNT "I made you grow" NJPS "I let you grow" = {L:רבה&lt;SDBH:רבה&gt;}</Content>
+    </Note>
+  </Notes>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="006657001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>nsf</PartOfSpeech>
+        <PartOfSpeech>pr (1)</PartOfSpeech>
+      </PartsOfSpeech>
+      <RelatedLemmas>
+        <RelatedLemma>
+          <Word>רבב</Word>
+        </RelatedLemma>
+      </RelatedLemmas>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="006657001001000" IsBiblicalTerm="Y" EntryCode="" Indent="0">
+          <LEXDomains>
+            <LEXDomain Code="002001001042">Quantity</LEXDomain>
+            <LEXDomain Code="002001003009">Frequency</LEXDomain>
+          </LEXDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2017-10-05 16:09:00" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>= state in which a countable entity is ten thousand in number; ≈ associated with excessively high numbers by which the exact number is relatively unimportant</DefinitionShort>
+              <Glosses>
+                <Gloss>ten thousand</Gloss>
+                <Gloss>myriad</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>00102406000026</LEXReference>
+            <LEXReference>00302600800018</LEXReference>
+            <LEXReference>00401003600014</LEXReference>
+            <LEXReference>00503203000016</LEXReference>
+            <LEXReference>00503300200038</LEXReference>
+            <LEXReference>00503301700034</LEXReference>
+            <LEXReference>00702001000042</LEXReference>
+            <LEXReference>00901800700034</LEXReference>
+            <LEXReference>00901800800038</LEXReference>
+            <LEXReference>00902101200062{N:001}</LEXReference>
+            <LEXReference>00902101200064</LEXReference>
+            <LEXReference>00902900500040</LEXReference>
+            <LEXReference>00902900500042</LEXReference>
+            <LEXReference>01900300700008</LEXReference>
+            <LEXReference>01909100700012</LEXReference>
+            <LEXReference>02200501000014</LEXReference>
+            <LEXReference>02601600700002{N:002}</LEXReference>
+            <LEXReference>03300600700016</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

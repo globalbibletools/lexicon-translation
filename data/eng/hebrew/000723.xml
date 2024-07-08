@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="000723000000000" Lemma="אִשׁ" Version="5" HasAramaic="false" InLXX="false" AlphaPos="א">
+  <StrongCodes>
+    <Strong>H0786</Strong>
+  </StrongCodes>
+  <Authors>
+    <Author>Reinier de Blois</Author>
+  </Authors>
+  <Contributors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes>
+    <Note Caller="1" LanguageCode="en" LastEdited="" LastEditedBy="">
+      <References>
+        <Reference>02001802400002</Reference>
+      </References>
+      <Content>{A:RSV} {A:NIV} {A:NJPS} {A:NJB} "there are" {A:ESV} {A:NIV} "A man" = אִישׁ</Content>
+    </Note>
+    <Note Caller="2" LanguageCode="en" LastEdited="" LastEditedBy="">
+      <References>
+        <Reference>03300601000006</Reference>
+      </References>
+      <Content>{A:MT} {A:HOTTP}-B {A:GNT} | {A:RSV} {A:NIV} {A:NRSV} "forget" {A:NJPS} {A:NJB} "overlook" = {L:נשׁה&lt;SDBH:נשׁה&gt;} | {A:REB} "forgive" = {L:נשׂא&lt;SDBH:נשׂא&gt;}</Content>
+    </Note>
+  </Notes>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="000723001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>nsc</PartOfSpeech>
+      </PartsOfSpeech>
+      <RelatedLemmas>
+        <RelatedLemma>
+          <Word>יֵשׁ</Word>
+        </RelatedLemma>
+      </RelatedLemmas>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="000723001001000" IsBiblicalTerm="Y" EntryCode="" Indent="0">
+          <LEXDomains>
+            <LEXDomain Code="002002003003">Happen</LEXDomain>
+            <LEXDomain Code="002002002005">Exist</LEXDomain>
+          </LEXDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2014-08-25 08:45:06" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>= state in which an object or event is present or possible</DefinitionShort>
+              <Glosses>
+                <Gloss>there is</Gloss>
+                <Gloss>there are</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>01001401900048</LEXReference>
+            <LEXReference>02001802400002{N:002}</LEXReference>
+            <LEXReference>03300601000006{N:001}</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

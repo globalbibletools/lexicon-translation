@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="002329000000000" Lemma="θεράπων" Version="0" HasAramaic="false" InLXX="true" AlphaPos="θ">
+  <StrongCodes>
+    <Strong>G2324</Strong>
+  </StrongCodes>
+  <Authors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes/>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="002329001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>noun, m.</PartOfSpeech>
+      </PartsOfSpeech>
+      <Inflections>
+        <Inflection Lemma="θεράπων" BaseFormIndex="1">
+          <Form/>
+          <Realizations>
+            <Realization>-οντος</Realization>
+          </Realizations>
+          <Comments/>
+        </Inflection>
+      </Inflections>
+      <RelatedLemmas>
+        <RelatedLemma>
+          <Word>θεραπεύω</Word>
+        </RelatedLemma>
+      </RelatedLemmas>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="002329001001000" IsBiblicalTerm="M" EntryCode="35.20" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Help, Care For</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Serve</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-08-13 18:47:17" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>(derivative of {L:θεραπεύω&lt;SDBG:θεραπεύω:000001&gt;}[b] ‘to serve,’ {D:35.19}) a person who renders service</DefinitionShort>
+              <Glosses>
+                <Gloss>servant</Gloss>
+              </Glosses>
+              <Comments>In rendering θεράπων, ὑπηρέτης, and διάκονος[a] in the sense of ‘servant,’ it is important to avoid a term which would be too specific, for example, ‘one who serves meals’ or ‘one who works around the house.’ It may, in fact, be necessary to use an expression which means essentially ‘helper.’</Comments>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>05800300500022</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

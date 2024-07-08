@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="001639000000000" Lemma="ἔκτρωμα" Version="0" HasAramaic="false" InLXX="true" AlphaPos="ε">
+  <StrongCodes>
+    <Strong>G1626</Strong>
+  </StrongCodes>
+  <Authors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes/>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="001639001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>noun, n.</PartOfSpeech>
+      </PartsOfSpeech>
+      <Inflections>
+        <Inflection Lemma="ἔκτρωμα" BaseFormIndex="1">
+          <Form/>
+          <Realizations>
+            <Realization>-τος</Realization>
+          </Realizations>
+          <Comments/>
+        </Inflection>
+      </Inflections>
+      <RelatedLemmas>
+        <RelatedLemma>
+          <Word>τιτρώσκω</Word>
+          <Meaning LanguageCode="en">
+            <Meaning>wound, hurt</Meaning>
+          </Meaning>
+          <Meaning LanguageCode="zhT">
+            <Meaning>傷口，傷害</Meaning>
+          </Meaning>
+        </RelatedLemma>
+        <RelatedLemma>
+          <Word>τραυματίζω</Word>
+        </RelatedLemma>
+      </RelatedLemmas>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="001639001001000" IsBiblicalTerm="Y" EntryCode="23.55" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Physiological Processes and States</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Birth, Procreation</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-10-28 15:13:02" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>an untimely or premature birth</DefinitionShort>
+              <Glosses>
+                <Gloss>untimely birth</Gloss>
+              </Glosses>
+              <Comments>There is a certain fundamental problem involved in the rendering of ἔκτρωμα in {S:04601500800012}. Here Paul refers to himself, but the event in question is the appearance of Jesus to Paul, evidently on the road to Damascus. The reference, therefore, would seem to be his being born as a Christian. This spiritual birth, however, would appear to be rather late in the process rather than premature. It is for this reason that it may be wise to translate ἔκτρωμα in some instances as ‘untimely birth’ or ‘born at the wrong time,’ rather than indicating that he was ‘born too soon.’</Comments>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04601500800012</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

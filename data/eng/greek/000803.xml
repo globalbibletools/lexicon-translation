@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="000803000000000" Lemma="ἀσφαλῶς" Version="0" HasAramaic="false" InLXX="true" AlphaPos="α">
+  <StrongCodes>
+    <Strong>G0806</Strong>
+  </StrongCodes>
+  <Authors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes/>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="000803001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>advb.</PartOfSpeech>
+      </PartsOfSpeech>
+      <Constructs>
+        <Construct Lemma="ἀσφαλῶς" BaseFormIndex="1">
+          <WordMeaningSet>
+            <Word>ἀ-</Word>
+          </WordMeaningSet>
+          <WordMeaningSet>
+            <Word>ἀσφαλίζω</Word>
+          </WordMeaningSet>
+        </Construct>
+      </Constructs>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="000803001001000" IsBiblicalTerm="M" EntryCode="21.10" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Danger, Risk, Safe, Save</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Safe, Free from Danger</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2022-10-20 15:31:20" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>pertaining to a state of safety and security, and hence free from danger</DefinitionShort>
+              <Glosses>
+                <Gloss>safe</Gloss>
+                <Gloss>safely</Gloss>
+                <Gloss>secure</Gloss>
+                <Gloss>securely</Gloss>
+              </Glosses>
+              <Comments>In {S:04401602300024} ἀσφαλῶς does not refer to the safety of the prisoners but to the security with which they were guarded, hence eliminating any danger of their escaping.</Comments>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04101404400036</LEXReference>
+            <LEXReference>04401602300024</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+        <LEXMeaning Id="000803001002000" IsBiblicalTerm="M" EntryCode="31.42" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Hold a View, Believe, Trust</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Believe To Be True</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2022-10-20 15:31:20" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>pertaining to being certain and thus completely believable</DefinitionShort>
+              <Glosses>
+                <Gloss>worthy of being believed</Gloss>
+                <Gloss>certainly true</Gloss>
+                <Gloss>completely believable</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04400203600002</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

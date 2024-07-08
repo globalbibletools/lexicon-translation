@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="000257000000000" Lemma="ἅλωσις" Version="0" HasAramaic="false" InLXX="true" AlphaPos="α">
+  <StrongCodes>
+    <Strong>G0259</Strong>
+  </StrongCodes>
+  <Authors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes/>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="000257001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>noun, f.</PartOfSpeech>
+      </PartsOfSpeech>
+      <Inflections>
+        <Inflection Lemma="ἅλωσις" BaseFormIndex="1">
+          <Form/>
+          <Realizations>
+            <Realization>-εως</Realization>
+          </Realizations>
+          <Comments/>
+        </Inflection>
+      </Inflections>
+      <RelatedLemmas>
+        <RelatedLemma>
+          <Word>ἁλῶναι</Word>
+          <Meaning LanguageCode="en">
+            <Meaning>be caught, captured</Meaning>
+          </Meaning>
+          <Meaning LanguageCode="zhT">
+            <Meaning>被抓住，被俘虜</Meaning>
+          </Meaning>
+        </RelatedLemma>
+        <RelatedLemma>
+          <Word>αἰχμαλωσία</Word>
+        </RelatedLemma>
+        <RelatedLemma>
+          <Word>αἰχμαλωτεύω</Word>
+        </RelatedLemma>
+        <RelatedLemma>
+          <Word>αἰχμαλωτίζω</Word>
+        </RelatedLemma>
+        <RelatedLemma>
+          <Word>αἰχμάλωτος</Word>
+        </RelatedLemma>
+        <RelatedLemma>
+          <Word>καταναλίσκω</Word>
+        </RelatedLemma>
+        <RelatedLemma>
+          <Word>συναιχμάλωτος</Word>
+        </RelatedLemma>
+      </RelatedLemmas>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="000257001001000" IsBiblicalTerm="Y" EntryCode="44.11" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Animal Husbandry, Fishing</LEXDomain>
+          </LEXDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-05-26 16:48:40" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>the capture or catching of animals</DefinitionShort>
+              <Glosses>
+                <Gloss>capture</Gloss>
+                <Gloss>to be caught</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>06100201200018</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

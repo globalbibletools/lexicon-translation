@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="003573000000000" Lemma="לַחַשׁ" Version="4" HasAramaic="false" InLXX="false" AlphaPos="ל">
+  <StrongCodes>
+    <Strong>H3908</Strong>
+  </StrongCodes>
+  <Authors>
+    <Author>Reinier de Blois</Author>
+  </Authors>
+  <Contributors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes/>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="003573001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>nsm</PartOfSpeech>
+      </PartsOfSpeech>
+      <RelatedLemmas>
+        <RelatedLemma>
+          <Word>לחשׁ</Word>
+        </RelatedLemma>
+      </RelatedLemmas>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="003573001001000" IsBiblicalTerm="Y" EntryCode="" Indent="0">
+          <LEXDomains>
+            <LEXDomain Code="002004001009008">Speak</LEXDomain>
+          </LEXDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2022-04-28 19:18:31" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>= action by which people talk softly among themselves to keep others from overhearing</DefinitionShort>
+              <Glosses>
+                <Gloss>whispering</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>02302601600014</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+          <LEXCoreDomains>
+            <LEXCoreDomain Code="041">Communication</LEXCoreDomain>
+          </LEXCoreDomains>
+        </LEXMeaning>
+        <LEXMeaning Id="003573001002000" IsBiblicalTerm="M" EntryCode="" Indent="0">
+          <LEXDomains>
+            <LEXDomain Code="002003002008" Source="Speak" SourceCode="002004001009008">Control</LEXDomain>
+          </LEXDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2022-04-28 19:18:31" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>literally: whispering; hence: = action by which humans (appear to) control a snake by means of sounds</DefinitionShort>
+              <Glosses>
+                <Gloss>charming</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>02101001100014</LEXReference>
+            <LEXReference>02400801700020</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+        <LEXMeaning Id="003573001003000" IsBiblicalTerm="M" EntryCode="" Indent="1">
+          <LEXDomains>
+            <LEXDomain Code="001004001" Source="Control" SourceCode="002003002008">Artifacts</LEXDomain>
+          </LEXDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2022-04-28 19:18:31" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>= an object that is thought to offer protection against evil</DefinitionShort>
+              <Glosses>
+                <Gloss>charm</Gloss>
+                <Gloss>amulet</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>02300300300026</LEXReference>
+            <LEXReference>02300302000030</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

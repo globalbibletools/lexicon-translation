@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="002050000000000" Lemma="זַרְזִיר" Version="5" HasAramaic="false" InLXX="false" AlphaPos="ז">
+  <StrongCodes>
+    <Strong>H2223</Strong>
+  </StrongCodes>
+  <Authors>
+    <Author>Reinier de Blois</Author>
+  </Authors>
+  <Contributors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes>
+    <Note Caller="1" LanguageCode="en" LastEdited="" LastEditedBy="">
+      <References>
+        <Reference>02003003100002</Reference>
+      </References>
+      <Content>LXX "ἀλέκτωρ" VUL "gallus" RSV REB "strutting cock" NIV NRSV ESV "strutting rooster" | NJB "vigorous cock" CEV "proud cock" | NJPS "greyhound"</Content>
+    </Note>
+  </Notes>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="002050001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>nsc</PartOfSpeech>
+      </PartsOfSpeech>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="002050001001000" IsBiblicalTerm="M" EntryCode="" Indent="0">
+          <LEXDomains>
+            <LEXDomain Code="001001002001005">Birds</LEXDomain>
+          </LEXDomains>
+          <LEXCollocations>
+            <LEXCollocation>זַרְזִיר מָתְנַיִם</LEXCollocation>
+          </LEXCollocations>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2015-12-28 11:34:34" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>literally: narrow waisted; exact meaning unsure; possibly: = male variant of a dark, brownish red fowl, with orange-red neck hackles, a smallish red comb on the top of their heads, and red lappets on each side under the beak; they have a white spot on their backs near the base of their long glossy black and green tails</DefinitionShort>
+              <Glosses>
+                <Gloss>rooster</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>02003003100002{N:001}</LEXReference>
+          </LEXReferences>
+          <LEXLinks>
+            <LEXLink>Fauna:3.3</LEXLink>
+          </LEXLinks>
+          <LEXVideos/>
+          <LEXCoreDomains>
+            <LEXCoreDomain Code="010">Animal</LEXCoreDomain>
+          </LEXCoreDomains>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

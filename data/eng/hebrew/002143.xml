@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="002143000000000" Lemma="חדשׁ" Version="5" HasAramaic="false" InLXX="false" AlphaPos="ח">
+  <StrongCodes>
+    <Strong>H2318</Strong>
+  </StrongCodes>
+  <Authors>
+    <Author>Reinier de Blois</Author>
+  </Authors>
+  <Contributors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes>
+    <Note Caller="1" LanguageCode="en" LastEdited="" LastEditedBy="">
+      <References>
+        <Reference>01910403000010</Reference>
+      </References>
+      <Content>One cannot tell with absolute certainty whether this verse applies to plants or to living creatures. The immediate context (verses 27-29), however suggests the latter.</Content>
+    </Note>
+  </Notes>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="002143001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>vb</PartOfSpeech>
+      </PartsOfSpeech>
+      <RelatedLemmas>
+        <RelatedLemma>
+          <Word>חָדָשׁ</Word>
+        </RelatedLemma>
+        <RelatedLemma>
+          <Word>חֹדֶשׁ</Word>
+        </RelatedLemma>
+        <RelatedLemma>
+          <Word>חֲדָשָׁה</Word>
+        </RelatedLemma>
+      </RelatedLemmas>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="002143001001000" IsBiblicalTerm="Y" EntryCode="" Indent="0">
+          <LEXDomains>
+            <LEXDomain Code="002001001033">Intact</LEXDomain>
+          </LEXDomains>
+          <LEXForms>
+            <LEXForm>vbpiel</LEXForm>
+          </LEXForms>
+          <LEXSynonyms>
+            <LEXSynonym>בנה</LEXSynonym>
+            <LEXSynonym>קום</LEXSynonym>
+          </LEXSynonyms>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2018-01-14 08:21:59" LastEditedBy="administrator">
+              <DefinitionLong/>
+              <DefinitionShort>= causative action by which humans restore an object to make it function again in the way it has functioned before</DefinitionShort>
+              <Glosses>
+                <Gloss>to repair</Gloss>
+                <Gloss>to restore</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>01401500800072</LEXReference>
+            <LEXReference>01402400400020</LEXReference>
+            <LEXReference>01402401200040</LEXReference>
+            <LEXReference>02306100400018</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+          <LEXCoreDomains>
+            <LEXCoreDomain Code="038">Completeness</LEXCoreDomain>
+            <LEXCoreDomain Code="045">Construction</LEXCoreDomain>
+          </LEXCoreDomains>
+        </LEXMeaning>
+        <LEXMeaning Id="002143001002000" IsBiblicalTerm="Y" EntryCode="" Indent="0">
+          <LEXDomains>
+            <LEXDomain Code="002002001016" Source="Intact" SourceCode="002001001033">Space</LEXDomain>
+          </LEXDomains>
+          <LEXForms>
+            <LEXForm>vbpiel</LEXForm>
+          </LEXForms>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2018-01-14 08:22:29" LastEditedBy="administrator">
+              <DefinitionLong/>
+              <DefinitionShort>= causative action by which humans replace one person by another person, involved in the same activity ◄ as if the first person was renewed</DefinitionShort>
+              <Glosses>
+                <Gloss>to replace</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>01801001700002</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+        <LEXMeaning Id="002143001003000" IsBiblicalTerm="Y" EntryCode="" Indent="0">
+          <LEXDomains>
+            <LEXDomain Code="002001003002">Change</LEXDomain>
+          </LEXDomains>
+          <LEXForms>
+            <LEXForm>vbpiel</LEXForm>
+            <LEXForm>vbhit- (passive)</LEXForm>
+          </LEXForms>
+          <LEXSynonyms>
+            <LEXSynonym>ברא</LEXSynonym>
+            <LEXSynonym>שׁוב</LEXSynonym>
+          </LEXSynonyms>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2018-01-14 08:22:49" LastEditedBy="administrator">
+              <DefinitionLong/>
+              <DefinitionShort>= causative action by which humans or deities bring an event back to its original condition</DefinitionShort>
+              <Glosses>
+                <Gloss>to renew</Gloss>
+                <Gloss>to restore</Gloss>
+                <Gloss>to reaffirm</Gloss>
+                <Gloss>to reconfirm</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>00901101400026</LEXReference>
+            <LEXReference>01905101200018</LEXReference>
+            <LEXReference>01910300500014</LEXReference>
+            <LEXReference>01910403000010</LEXReference>
+            <LEXReference>02500502100014</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

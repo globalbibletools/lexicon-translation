@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="004482000000000" Lemma="σελήνη" Version="0" HasAramaic="false" InLXX="true" AlphaPos="σ">
+  <StrongCodes>
+    <Strong>G4582</Strong>
+  </StrongCodes>
+  <Authors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes/>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="004482001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>noun, f.</PartOfSpeech>
+      </PartsOfSpeech>
+      <Inflections>
+        <Inflection Lemma="σελήνη" BaseFormIndex="1">
+          <Form/>
+          <Realizations>
+            <Realization>-ης</Realization>
+          </Realizations>
+          <Comments/>
+        </Inflection>
+      </Inflections>
+      <RelatedLemmas>
+        <RelatedLemma>
+          <Word>σεληνιάζομαι</Word>
+        </RelatedLemma>
+      </RelatedLemmas>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="004482001001000" IsBiblicalTerm="M" EntryCode="1.29" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Geographical Objects and Features</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Heavenly Bodies</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2022-02-09 20:01:16" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>a celestial body smaller than the sun that gives light to earth in the nighttime; the moon’s appearance changes over the course of each month as the angle we can see the moon’s half-illuminated surface changes.</DefinitionShort>
+              <Glosses>
+                <Gloss>moon</Gloss>
+              </Glosses>
+              <Comments>As in the case of {L:ἥλιος&lt;SDBG:ἥλιος:000000&gt;} the sun ({D:1.28}), there are relatively few difficulties involved in obtaining a satisfactory word for σελήνη ‘the moon,’ though there may also be a tendency to add some kind of honorific or title, for example, ‘mother moon.’ At the same time, certain difficulties may occur in some passages. For example, in {S:04202102500014} it may be misleading to speak of signs occurring ‘in the moon,’ for this might mean ‘inside the moon.’ TEV has resolved the problem somewhat by translating “there will be strange things happening to the sun, the moon, and the stars.” One may also translate ‘the sun, the moon, and the stars will cause signs in the heavens’ or ‘… portents in the sky.’</Comments>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04002402900028</LEXReference>
+            <LEXReference>04101302400030</LEXReference>
+            <LEXReference>04202102500014</LEXReference>
+            <LEXReference>04400202000016</LEXReference>
+            <LEXReference>04601504100014</LEXReference>
+            <LEXReference>06600601200046</LEXReference>
+            <LEXReference>06600801200032</LEXReference>
+            <LEXReference>06601200100028</LEXReference>
+            <LEXReference>06602102300022</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

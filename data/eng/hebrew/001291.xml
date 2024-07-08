@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="001291000000000" Lemma="גַּד" Version="5" HasAramaic="false" InLXX="false" AlphaPos="ג">
+  <StrongCodes>
+    <Strong>H1407</Strong>
+    <Strong>H1408</Strong>
+    <Strong>H1409</Strong>
+  </StrongCodes>
+  <Authors>
+    <Author>Enio R. Mueller</Author>
+  </Authors>
+  <Contributors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes>
+    <Note Caller="1" LanguageCode="en" LastEdited="" LastEditedBy="">
+      <References>
+        <Reference>00103001100012</Reference>
+      </References>
+      <Content>MT-K בגד | MT-Q בָּא גָד</Content>
+    </Note>
+    <Note Caller="2" LanguageCode="en" LastEdited="" LastEditedBy="">
+      <References>
+        <Reference>02306501100028</Reference>
+      </References>
+      <Content>There is disagreement as to whether the reference is to good fortune per se, or the name of a god: {A:RSV} {A:NIV} NRSV ESV "Fortune" NJPS "Luck" {A:NJB} "Gad" GNT "Gad ... the god of luck" {A:CEV} "Good Luck"</Content>
+    </Note>
+  </Notes>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="001291001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>nsm</PartOfSpeech>
+      </PartsOfSpeech>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="001291001001000" IsBiblicalTerm="M" EntryCode="" Indent="0">
+          <LEXDomains>
+            <LEXDomain Code="001003001">Plants</LEXDomain>
+          </LEXDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2016-03-15 16:56:01" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>= a plant of about 60 cm in height; its upper leaves are finely divided and its lower ones broad; it has tiny white or reddish flowers, and a strong odor; its seeds are oily, brown or gray, and about the size of small peas; ◄ Coriandrum sativum; ► its leaves and seeds used in cooking; fragrant oil from the seeds is sometimes used in making perfume and medicine; ≈ it is used to describe the appearance of manna</DefinitionShort>
+              <Glosses>
+                <Gloss>coriander</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>00201603100024</LEXReference>
+            <LEXReference>00401100700012</LEXReference>
+          </LEXReferences>
+          <LEXLinks>
+            <LEXLink>Flora:3.5.2</LEXLink>
+          </LEXLinks>
+          <LEXVideos/>
+          <LEXCoreDomains>
+            <LEXCoreDomain Code="125">Plant</LEXCoreDomain>
+          </LEXCoreDomains>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+    <BaseForm Id="001291002000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>vb</PartOfSpeech>
+        <PartOfSpeech>nsm (1)</PartOfSpeech>
+        <PartOfSpeech>np (1)</PartOfSpeech>
+      </PartsOfSpeech>
+      <RelatedNames>
+        <RelatedName>
+          <Word>גַּדִּיאֵל</Word>
+        </RelatedName>
+        <RelatedName>
+          <Word>גַּדִּי</Word>
+        </RelatedName>
+      </RelatedNames>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="001291002001000" IsBiblicalTerm="M" EntryCode="" Indent="0">
+          <LEXDomains>
+            <LEXDomain Code="003001004">Names of Deities</LEXDomain>
+          </LEXDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2016-03-15 16:56:01" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>= an unpredictable and uncontrollable force that shapes events favorably; ≈ it may have religious connotations, in that the force is attributed to a god of good fortune</DefinitionShort>
+              <Glosses>
+                <Gloss>good fortune</Gloss>
+                <Gloss>luck</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>00103001100012{N:001}</LEXReference>
+            <LEXReference>00103001100014</LEXReference>
+            <LEXReference>02306501100028{N:002}</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

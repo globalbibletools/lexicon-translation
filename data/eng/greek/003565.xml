@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="003565000000000" Lemma="ὅμιλος" Version="0" HasAramaic="false" InLXX="false" AlphaPos="ο">
+  <StrongCodes/>
+  <Authors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes>
+    <Note Caller="1" LanguageCode="en" LastEdited="" LastEditedBy="">
+      <References/>
+      <Content>In this set of terms referring to a crowd or a multitude, it is possible that πλῆθος[b] denotes a somewhat larger group of persons than the other terms and that λαός[c] suggests a crowd made up of common people, but one cannot be certain of these distinctions from existing contexts.</Content>
+    </Note>
+  </Notes>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="003565001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>verb</PartOfSpeech>
+      </PartsOfSpeech>
+      <Inflections>
+        <Inflection Lemma="ὅμιλος" BaseFormIndex="1">
+          <Form/>
+          <Realizations>
+            <Realization>-ου</Realization>
+          </Realizations>
+          <Comments/>
+        </Inflection>
+      </Inflections>
+      <RelatedLemmas>
+        <RelatedLemma>
+          <Word>ὁμιλέω</Word>
+        </RelatedLemma>
+      </RelatedLemmas>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="003565001001000" IsBiblicalTerm="Y" EntryCode="11.1" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Groups and Classes of Persons and Members of Such Groups and Classes</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>General</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-12-13 20:27:23" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>a casual non-membership group of people, fairly large in size and assembled for whatever purpose{N:001}</DefinitionShort>
+              <Glosses>
+                <Gloss>crowd</Gloss>
+                <Gloss>multitude</Gloss>
+              </Glosses>
+              <Comments>In a number of languages there is no term corresponding to ‘crowd.’ One may, however, usually speak of such a group of people as ‘many people’ or ‘many men and women.’ Depending on the context, it may besary to indicate some relative difference in size, for example, ‘very large crowd’ or ‘many, many people.’ If the crowd is relatively small, one may sometimes speak of ‘just some people.’|This word is found as a variant reading only: πᾶς ἐπὶ τῶν πλοίων ὁ ὅμιλος ‘all the crowd in ships’ {S:06601801700032} (apparatus).</Comments>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>06601801700032</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

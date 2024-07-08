@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="006844000000000" Lemma="רֶסֶן" Version="5" HasAramaic="false" InLXX="false" AlphaPos="ר">
+  <StrongCodes>
+    <Strong>H7448</Strong>
+    <Strong>H7449</Strong>
+  </StrongCodes>
+  <Authors>
+    <Author>Reinier de Blois</Author>
+  </Authors>
+  <Contributors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes>
+    <Note Caller="1" LanguageCode="en" LastEdited="" LastEditedBy="">
+      <References>
+        <Reference>01804100500014</Reference>
+      </References>
+      <Content>MT ESV "bridle" | HOTTP-C RSV NRSV "coat of mail" NJPS "jowls" GNT "armor" CEV "harness" REB "hide" = {L:סִרְיֹנֹו&lt;SDBH:סִרְיֹון&gt;}</Content>
+    </Note>
+  </Notes>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="006844001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>nsm</PartOfSpeech>
+      </PartsOfSpeech>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="006844001001000" IsBiblicalTerm="M" EntryCode="" Indent="0">
+          <LEXDomains>
+            <LEXDomain Code="001004001017">Tools</LEXDomain>
+          </LEXDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2017-03-13 15:24:31" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>= set of ropes or leather straps; ► fitted over the head of a horse and connected to the {L:bit&lt;SDBH:מֶתֶג&gt;}; used to steer the horse</DefinitionShort>
+              <Glosses>
+                <Gloss>bridle</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>01804100500014{N:001}</LEXReference>
+            <LEXReference>01903200900024</LEXReference>
+            <LEXReference>02303002800032</LEXReference>
+          </LEXReferences>
+          <LEXLinks>
+            <LEXLink>Realia:1.2.6</LEXLink>
+          </LEXLinks>
+          <LEXVideos/>
+          <LEXCoreDomains>
+            <LEXCoreDomain Code="040">Control</LEXCoreDomain>
+            <LEXCoreDomain Code="011">Animal Husbandry</LEXCoreDomain>
+          </LEXCoreDomains>
+        </LEXMeaning>
+        <LEXMeaning Id="006844001002000" IsBiblicalTerm="Y" EntryCode="" Indent="0">
+          <LEXDomains>
+            <LEXDomain Code="002003002008" Source="Tools" SourceCode="001004001017">Control</LEXDomain>
+          </LEXDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2017-03-13 15:24:31" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>= action by which humans exercise self-control of oneself</DefinitionShort>
+              <Glosses>
+                <Gloss>self-control</Gloss>
+                <Gloss>restraint</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>01803001100016</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+          <LEXCoreDomains>
+            <LEXCoreDomain Code="017">Behavior</LEXCoreDomain>
+            <LEXCoreDomain Code="040">Control</LEXCoreDomain>
+          </LEXCoreDomains>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+    <BaseForm Id="006844002000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>np</PartOfSpeech>
+      </PartsOfSpeech>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="006844002001000" IsBiblicalTerm="Y" EntryCode="" Indent="0">
+          <LEXDomains>
+            <LEXDomain Code="003001010">Names of Locations</LEXDomain>
+          </LEXDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2017-03-13 15:24:31" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>= town; ◄ in Mesopotamia; ► built by {L:Nimrod&lt;SDBH:נִמְרֹד&gt;} after the {L:flood&lt;SDBH:מַבּוּל&gt;}</DefinitionShort>
+              <Glosses>
+                <Gloss>Resen</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>00101001200006</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+          <LEXCoordinates>
+            <LEXCoordinates>36.359410,43.152887</LEXCoordinates>
+          </LEXCoordinates>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="004456000000000" Lemma="מִשְׂגָּב" Version="5" HasAramaic="false" InLXX="false" AlphaPos="מ">
+  <StrongCodes>
+    <Strong>H4869</Strong>
+  </StrongCodes>
+  <Authors>
+    <Author>Reinier de Blois</Author>
+  </Authors>
+  <Contributors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes>
+    <Note Caller="1" LanguageCode="en" LastEdited="" LastEditedBy="">
+      <References>
+        <Reference>02404800100038</Reference>
+      </References>
+      <Content>REB considers this the name of a specific location.</Content>
+    </Note>
+  </Notes>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="004456001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>nsm</PartOfSpeech>
+      </PartsOfSpeech>
+      <RelatedLemmas>
+        <RelatedLemma>
+          <Word>שׂגב</Word>
+        </RelatedLemma>
+      </RelatedLemmas>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="004456001001000" IsBiblicalTerm="Y" EntryCode="" Indent="0">
+          <LEXDomains>
+            <LEXDomain Code="001005001003">Fortifications</LEXDomain>
+          </LEXDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2016-11-28 09:45:07" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>= a high and therefore unattainable location, either because of its natural environment or as a result of human construction efforts, ≈ associated with security and protection from the enemy</DefinitionShort>
+              <Glosses>
+                <Gloss>stronghold</Gloss>
+                <Gloss>refuge</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>02302501200006</LEXReference>
+            <LEXReference>02303301600012</LEXReference>
+            <LEXReference>02404800100038{N:001}</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+          <LEXCoreDomains>
+            <LEXCoreDomain Code="152">Security</LEXCoreDomain>
+          </LEXCoreDomains>
+        </LEXMeaning>
+        <LEXMeaning Id="004456001002000" IsBiblicalTerm="Y" EntryCode="" Indent="0">
+          <LEXDomains>
+            <LEXDomain Code="003001017" Source="Fortifications" SourceCode="001005001003">Titles</LEXDomain>
+          </LEXDomains>
+          <LEXSynonyms>
+            <LEXSynonym>ישׁע</LEXSynonym>
+            <LEXSynonym>יְשׁוּעָה</LEXSynonym>
+            <LEXSynonym>מָגֵן</LEXSynonym>
+            <LEXSynonym>מָנֹוס</LEXSynonym>
+            <LEXSynonym>מְצוּדָה</LEXSynonym>
+            <LEXSynonym>סֶלַע</LEXSynonym>
+            <LEXSynonym>פלט</LEXSynonym>
+            <LEXSynonym>צוּר</LEXSynonym>
+            <LEXSynonym>קֶרֶן יֵשַׁע</LEXSynonym>
+          </LEXSynonyms>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2016-11-28 09:45:07" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>= a reference to God characterizing him as someone who provides security</DefinitionShort>
+              <Glosses>
+                <Gloss>(God as a) stronghold</Gloss>
+                <Gloss>(God as a) refuge</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>01002200300018</LEXReference>
+            <LEXReference>01900901000008</LEXReference>
+            <LEXReference>01900901000016</LEXReference>
+            <LEXReference>01901800300030</LEXReference>
+            <LEXReference>01904600800008</LEXReference>
+            <LEXReference>01904601200008</LEXReference>
+            <LEXReference>01904800400012</LEXReference>
+            <LEXReference>01905901000012</LEXReference>
+            <LEXReference>01905901700026</LEXReference>
+            <LEXReference>01905901800012</LEXReference>
+            <LEXReference>01906200300012</LEXReference>
+            <LEXReference>01906200700012</LEXReference>
+            <LEXReference>01909402200012</LEXReference>
+            <LEXReference>01914400200008</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+          <LEXCoreDomains>
+            <LEXCoreDomain Code="055">Divine</LEXCoreDomain>
+            <LEXCoreDomain Code="152">Security</LEXCoreDomain>
+          </LEXCoreDomains>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

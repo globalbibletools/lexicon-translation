@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="001045000000000" Lemma="βυρσεύς" Version="0" HasAramaic="false" InLXX="false" AlphaPos="β">
+  <StrongCodes>
+    <Strong>G1038</Strong>
+  </StrongCodes>
+  <Authors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes>
+    <Note Caller="1" LanguageCode="en" LastEdited="" LastEditedBy="">
+      <References>
+        <Reference>04400904300022</Reference>
+      </References>
+      <Content>It is possible that βυρσεύς in {S:04400904300022} should be interpreted as the surname of Simon, a Christian in Joppa, that is to say, the name of Simon would be Simon Berseus or Simon Tanner.</Content>
+    </Note>
+  </Notes>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="001045001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>noun, m.</PartOfSpeech>
+      </PartsOfSpeech>
+      <Inflections>
+        <Inflection Lemma="βυρσεύς" BaseFormIndex="1">
+          <Form/>
+          <Realizations>
+            <Realization>-έως</Realization>
+          </Realizations>
+          <Comments/>
+        </Inflection>
+      </Inflections>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="001045001001000" IsBiblicalTerm="Y" EntryCode="6.186" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Artifacts</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Cloth, Leather, and Objects Made of Such Materials</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-05-10 21:23:33" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>one who tans hides to make leather</DefinitionShort>
+              <Glosses>
+                <Gloss>tanner</Gloss>
+                <Gloss>maker of leather</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04400904300022{N:001}</LEXReference>
+            <LEXReference>04401000600012</LEXReference>
+            <LEXReference>04401003200032</LEXReference>
+          </LEXReferences>
+          <LEXLinks>
+            <LEXLink>realia:1.13</LEXLink>
+          </LEXLinks>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

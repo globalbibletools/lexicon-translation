@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="000331000000000" Lemma="ἀναζωπυρέω" Version="0" HasAramaic="false" InLXX="true" AlphaPos="α">
+  <StrongCodes>
+    <Strong>G0329</Strong>
+  </StrongCodes>
+  <Authors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes/>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="000331001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>verb</PartOfSpeech>
+      </PartsOfSpeech>
+      <Constructs>
+        <Construct Lemma="ἀναζωπυρέω" BaseFormIndex="1">
+          <WordMeaningSet>
+            <Word>ζάω</Word>
+          </WordMeaningSet>
+          <WordMeaningSet>
+            <Word>πυρόομαι</Word>
+          </WordMeaningSet>
+        </Construct>
+      </Constructs>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="000331001001000" IsBiblicalTerm="Y" EntryCode="68.8" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Aspect</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Begin, Start</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-08-03 14:11:46" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>(a figurative extension of meaning of ἀναζωπυρέω ‘to rekindle a fire,’ not occurring in the NT) to cause something to begin again</DefinitionShort>
+              <Glosses>
+                <Gloss>to reactivate</Gloss>
+                <Gloss>to cause to begin to be active again</Gloss>
+              </Glosses>
+              <Comments>It may also be possible to translate ἀναζωπυρέω in {S:05500100600012} as ‘to cause to take on new life.’ A few translators have used an expression such as ‘to keep alive the gift,’ primarily in order to avoid the impression that Timothy had in some measure departed from his earlier dedication to the gospel.</Comments>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>05500100600012</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

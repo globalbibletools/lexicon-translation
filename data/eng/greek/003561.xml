@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="003561000000000" Lemma="ὄμβρος" Version="0" HasAramaic="false" InLXX="true" AlphaPos="ο">
+  <StrongCodes>
+    <Strong>G3655</Strong>
+  </StrongCodes>
+  <Authors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes/>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="003561001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>noun, m.</PartOfSpeech>
+      </PartsOfSpeech>
+      <Inflections>
+        <Inflection Lemma="ὄμβρος" BaseFormIndex="1">
+          <Form/>
+          <Realizations>
+            <Realization>-ου</Realization>
+          </Realizations>
+          <Comments/>
+        </Inflection>
+      </Inflections>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="003561001001000" IsBiblicalTerm="Y" EntryCode="14.12" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Physical Events and States</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Rain</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-12-13 20:17:45" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>a heavy rain, either in length of occurrence or in force, as in the case of a thunderstorm (thus differing from {L:ὑετός&lt;SDBG:ὑετός:000001&gt;}[b], {L:βροχή&lt;SDBG:βροχή:000000&gt;} and {L:βρέχω&lt;SDBG:βρέχω:000000&gt;}[a] in {D:14.10})</DefinitionShort>
+              <Glosses>
+                <Gloss>rainstorm</Gloss>
+                <Gloss>thunderstorm</Gloss>
+              </Glosses>
+              <Comments>In some languages a rainstorm is simply ‘a rain with wind,’ but it may also be expressed as ‘rain that hurts’ or ‘rain that floods.’</Comments>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04201205400032</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

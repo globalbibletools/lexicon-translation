@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="003029000000000" Lemma="λειτουργός" Version="0" HasAramaic="false" InLXX="true" AlphaPos="λ">
+  <StrongCodes>
+    <Strong>G3011</Strong>
+  </StrongCodes>
+  <Authors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes>
+    <Note Caller="1" LanguageCode="en" LastEdited="" LastEditedBy="">
+      <References/>
+      <Content>The Classical Greek meaning of λειτουργός in the sense of a servant of the state assuming public office to be administered at his own expense is completely lacking from NT usage.</Content>
+    </Note>
+  </Notes>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="003029001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>noun, m.</PartOfSpeech>
+      </PartsOfSpeech>
+      <Inflections>
+        <Inflection Lemma="λειτουργός" BaseFormIndex="1">
+          <Form/>
+          <Realizations>
+            <Realization>-οῦ</Realization>
+          </Realizations>
+          <Comments/>
+        </Inflection>
+      </Inflections>
+      <Constructs>
+        <Construct Lemma="λειτουργός" BaseFormIndex="1">
+          <WordMeaningSet>
+            <Word>λαός</Word>
+          </WordMeaningSet>
+          <WordMeaningSet>
+            <Word>ἐργάζομαι</Word>
+          </WordMeaningSet>
+        </Construct>
+      </Constructs>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="003029001001000" IsBiblicalTerm="M" EntryCode="35.23" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Help, Care For</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Serve</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-11-05 09:57:03" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>(derivative of {L:λειτουργέω&lt;SDBG:λειτουργέω:000000&gt;}[a] ‘to serve,’ {D:35.22}) a person who renders special service{N:001}</DefinitionShort>
+              <Glosses>
+                <Gloss>servant</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04501300600014</LEXReference>
+            <LEXReference>04501501600010</LEXReference>
+            <LEXReference>05000202500032</LEXReference>
+            <LEXReference>05800100700030</LEXReference>
+            <LEXReference>05800800200006</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

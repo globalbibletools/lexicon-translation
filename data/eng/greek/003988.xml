@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="003988000000000" Lemma="πῆχυς" Version="0" HasAramaic="false" InLXX="true" AlphaPos="π">
+  <StrongCodes>
+    <Strong>G4083</Strong>
+  </StrongCodes>
+  <Authors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes/>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="003988001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>noun, m.</PartOfSpeech>
+      </PartsOfSpeech>
+      <Inflections>
+        <Inflection Lemma="πῆχυς" BaseFormIndex="1">
+          <Form/>
+          <Realizations>
+            <Realization>-εως</Realization>
+          </Realizations>
+          <Comments/>
+        </Inflection>
+      </Inflections>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="003988001001000" IsBiblicalTerm="M" EntryCode="81.25" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Spacial Dimensions</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Specific Measures of Length</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-12-27 11:34:35" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>traditionally the distance from the elbow to the end of the fingers, about eighteen inches or one-half meter</DefinitionShort>
+              <Glosses>
+                <Gloss>cubit</Gloss>
+                <Gloss>eighteen inches</Gloss>
+                <Gloss>half meter</Gloss>
+              </Glosses>
+              <Comments>The interpretation of πῆχυς in {S:04000602700024} as a measurement of stature rather than length of life may be justified as an instance of literary hyperbole or exaggeration. Most modern translations, however, interpret πῆχυς in this context as a reference to length of life rather than as a measurement of height (see discussion under {L:ἡλικία&lt;SDBG:ἡλικία:000000&gt;}[a] in {D:67.151}).</Comments>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04000602700024</LEXReference>
+            <LEXReference>04201202500024</LEXReference>
+            <LEXReference>04302100800036</LEXReference>
+            <LEXReference>06602101700018</LEXReference>
+          </LEXReferences>
+          <LEXLinks>
+            <LEXLink>realia:11.4.2.1</LEXLink>
+          </LEXLinks>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

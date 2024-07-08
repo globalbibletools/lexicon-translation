@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="005243000000000" Lemma="φθόγγος" Version="0" HasAramaic="false" InLXX="true" AlphaPos="φ">
+  <StrongCodes>
+    <Strong>G5353</Strong>
+  </StrongCodes>
+  <Authors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes/>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="005243001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>noun, m.</PartOfSpeech>
+      </PartsOfSpeech>
+      <Inflections>
+        <Inflection Lemma="φθόγγος" BaseFormIndex="1">
+          <Form/>
+          <Realizations>
+            <Realization>-ου</Realization>
+          </Realizations>
+          <Comments/>
+        </Inflection>
+      </Inflections>
+      <RelatedLemmas>
+        <RelatedLemma>
+          <Word>φθέγγομαι</Word>
+        </RelatedLemma>
+      </RelatedLemmas>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="005243001001000" IsBiblicalTerm="Y" EntryCode="14.74" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Physical Events and States</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Sound</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2022-05-19 13:26:09" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>any type of sound, including human speech, but normally a distinctive type of sound as opposed to confused noise</DefinitionShort>
+              <Glosses>
+                <Gloss>sound</Gloss>
+              </Glosses>
+              <Comments>In many languages an important distinction is made between verbal sounds, that is to say, the sounds of speech, and non-verbal sounds. In some languages musical sounds also require a very special type of terminology, often with distinctions made depending upon the type of instrument involved.</Comments>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04601400700026</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+        <LEXMeaning Id="005243001002000" IsBiblicalTerm="M" EntryCode="33.104" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Communication</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Speak, Talk</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2022-05-19 13:26:09" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>(derivative of {L:φθέγγομαι&lt;SDBG:φθέγγομαι:000000&gt;} ‘to utter,’ {D:33.76}) an utterance, with possible focus upon the clarity of the verbal sounds</DefinitionShort>
+              <Glosses>
+                <Gloss>utterance</Gloss>
+                <Gloss>message</Gloss>
+                <Gloss>what is uttered</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04501001800026</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

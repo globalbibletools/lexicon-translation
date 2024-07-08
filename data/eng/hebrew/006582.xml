@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="006582000000000" Lemma="קְרִיֹּות" Version="5" HasAramaic="false" InLXX="false" AlphaPos="ק">
+  <StrongCodes>
+    <Strong>H7152</Strong>
+  </StrongCodes>
+  <Authors>
+    <Author>Graham S. Ogden</Author>
+  </Authors>
+  <Contributors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes/>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="006582001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>np</PartOfSpeech>
+        <PartOfSpeech>nsf (1)</PartOfSpeech>
+      </PartsOfSpeech>
+      <RelatedLemmas>
+        <RelatedLemma>
+          <Word>קִרְיָה</Word>
+        </RelatedLemma>
+      </RelatedLemmas>
+      <MeaningsOfName>
+        <MeaningOfName LanguageCode="en">
+          <Meaning>towns</Meaning>
+        </MeaningOfName>
+      </MeaningsOfName>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="006582001001000" IsBiblicalTerm="M" EntryCode="" Indent="0">
+          <LEXDomains>
+            <LEXDomain Code="003001010">Names of Locations</LEXDomain>
+          </LEXDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2016-12-22 13:21:05" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>= fortified city ◄ located in {L:Moab&lt;SDBH:מֹואָב&gt;}</DefinitionShort>
+              <Glosses>
+                <Gloss>Kerioth</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>02404802400006</LEXReference>
+            <LEXReference>02404804100006</LEXReference>
+            <LEXReference>03000200200020</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+          <LEXCoordinates>
+            <LEXCoordinates>31.583333,35.700000</LEXCoordinates>
+          </LEXCoordinates>
+        </LEXMeaning>
+        <LEXMeaning Id="006582001002000" IsBiblicalTerm="Y" EntryCode="" Indent="0">
+          <LEXDomains>
+            <LEXDomain Code="003001010">Names of Locations</LEXDomain>
+          </LEXDomains>
+          <LEXCollocations>
+            <LEXCollocation>קְרִיֹּות חֶצְרֹון</LEXCollocation>
+          </LEXCollocations>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2016-12-22 13:21:05" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>= town, also known as {L:Hazor&lt;SDBH:חָצֹור&gt;}; ◄ located between {L:Hebron&lt;SDBH:חֶבְרֹון&gt;} and {L:Arad&lt;SDBH:עֲרָד&gt;}; territory of {L:Judah&lt;SDBH:יְהוּדָה&gt;}</DefinitionShort>
+              <Glosses>
+                <Gloss>Kerioth-Hezron</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>00601502500008</LEXReference>
+            <LEXReference>00601502500010</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+          <LEXCoordinates>
+            <LEXCoordinates>31.162327,35.057114</LEXCoordinates>
+          </LEXCoordinates>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

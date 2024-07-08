@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="001465000000000" Lemma="ἕβδομος" Version="0" HasAramaic="false" InLXX="true" AlphaPos="ε">
+  <StrongCodes>
+    <Strong>G1442</Strong>
+  </StrongCodes>
+  <Authors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes>
+    <Note Caller="1" LanguageCode="en" LastEdited="" LastEditedBy="">
+      <References>
+        <Reference>06500101400010</Reference>
+      </References>
+      <Content>In the more general manner of counting an ordinal series, ἕβδομος in {S:06500101400010} would really refer to the sixth descendant from Adam. In the Hebrew system of counting, Adam himself would be counted as part of the series, and hence the use in {S:06500101400010} of ἕβδομος rather than ἕκτος.</Content>
+    </Note>
+  </Notes>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="001465001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>adjc.</PartOfSpeech>
+      </PartsOfSpeech>
+      <Inflections>
+        <Inflection Lemma="ἕβδομος" BaseFormIndex="1">
+          <Form/>
+          <Realizations>
+            <Realization>-η, -ον</Realization>
+          </Realizations>
+          <Comments/>
+        </Inflection>
+      </Inflections>
+      <RelatedLemmas>
+        <RelatedLemma>
+          <Word>ἑπτά</Word>
+        </RelatedLemma>
+      </RelatedLemmas>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="001465001001000" IsBiblicalTerm="Y" EntryCode="60.54" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Number</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>First, Second, Third, Etc. [Ordinals]</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-10-26 16:06:46" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>seventh in a series involving either time, space, or set</DefinitionShort>
+              <Glosses>
+                <Gloss>seventh</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04300405200034</LEXReference>
+            <LEXReference>05800400400012</LEXReference>
+            <LEXReference>05800400400032</LEXReference>
+            <LEXReference>06500101400010{N:001}</LEXReference>
+            <LEXReference>06600800100014</LEXReference>
+            <LEXReference>06601000700016</LEXReference>
+            <LEXReference>06601101500006</LEXReference>
+            <LEXReference>06601601700006</LEXReference>
+            <LEXReference>06602102000016</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

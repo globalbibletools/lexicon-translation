@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="004347000000000" Lemma="מִקְרֶה" Version="5" HasAramaic="false" InLXX="false" AlphaPos="מ">
+  <StrongCodes>
+    <Strong>H4745</Strong>
+  </StrongCodes>
+  <Authors>
+    <Author>Reinier de Blois</Author>
+  </Authors>
+  <Contributors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes/>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="004347001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>nsm</PartOfSpeech>
+      </PartsOfSpeech>
+      <RelatedLemmas>
+        <RelatedLemma>
+          <Word>קרה</Word>
+        </RelatedLemma>
+      </RelatedLemmas>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="004347001001000" IsBiblicalTerm="Y" EntryCode="" Indent="0">
+          <LEXDomains>
+            <LEXDomain Code="002002003003">Happen</LEXDomain>
+          </LEXDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2009-11-27 13:09:18" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>= event that takes place without apparent cause or reason</DefinitionShort>
+              <Glosses>
+                <Gloss>accident</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>00900600900056</LEXReference>
+            <LEXReference>00902002600026</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+        <LEXMeaning Id="004347001002000" IsBiblicalTerm="M" EntryCode="" Indent="0">
+          <LEXDomains>
+            <LEXDomain Code="002002003003">Happen</LEXDomain>
+          </LEXDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2009-11-27 13:09:18" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>= things that are considered to be destined to happen to someone</DefinitionShort>
+              <Glosses>
+                <Gloss>fate</Gloss>
+                <Gloss>destiny</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>00800200300030</LEXReference>
+            <LEXReference>02100201400036</LEXReference>
+            <LEXReference>02100201500014</LEXReference>
+            <LEXReference>02100301900004</LEXReference>
+            <LEXReference>02100301900014</LEXReference>
+            <LEXReference>02100301900022</LEXReference>
+            <LEXReference>02100900200016</LEXReference>
+            <LEXReference>02100900300022</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

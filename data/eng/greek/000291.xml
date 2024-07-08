@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="000291000000000" Lemma="ἀμφιβάλλω" Version="0" HasAramaic="false" InLXX="true" AlphaPos="α">
+  <StrongCodes>
+    <Strong>G0293a</Strong>
+  </StrongCodes>
+  <Authors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes/>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="000291001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>verb</PartOfSpeech>
+      </PartsOfSpeech>
+      <Constructs>
+        <Construct Lemma="ἀμφιβάλλω" BaseFormIndex="1">
+          <WordMeaningSet>
+            <Word>ἀμφί</Word>
+            <Meaning LanguageCode="en">
+              <Meaning>on both sides, all around</Meaning>
+            </Meaning>
+            <Meaning LanguageCode="zhT">
+              <Meaning>兩邊，四周</Meaning>
+            </Meaning>
+          </WordMeaningSet>
+          <WordMeaningSet>
+            <Word>βάλλω</Word>
+          </WordMeaningSet>
+        </Construct>
+      </Constructs>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="000291001001000" IsBiblicalTerm="M" EntryCode="44.8" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Animal Husbandry, Fishing</LEXDomain>
+          </LEXDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-08-02 15:41:34" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>to cast a net in order to catch fish</DefinitionShort>
+              <Glosses>
+                <Gloss>to cast a fishnet</Gloss>
+              </Glosses>
+              <Comments>The net implied in the use of the verb ἀμφιβάλλω was probably a circular net which had small weights on its edge and which could be thrown by a single person.</Comments>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04100101600030</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

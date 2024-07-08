@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="003074000000000" Lemma="λογομαχέω" Version="0" HasAramaic="false" InLXX="false" AlphaPos="λ">
+  <StrongCodes>
+    <Strong>G3054</Strong>
+  </StrongCodes>
+  <Authors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes/>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="003074001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>verb</PartOfSpeech>
+      </PartsOfSpeech>
+      <Constructs>
+        <Construct Lemma="λογομαχέω" BaseFormIndex="1">
+          <WordMeaningSet>
+            <Word>λέγω</Word>
+          </WordMeaningSet>
+          <WordMeaningSet>
+            <Word>μάχομαι</Word>
+          </WordMeaningSet>
+        </Construct>
+      </Constructs>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="003074001001000" IsBiblicalTerm="Y" EntryCode="33.454" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Communication</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Argue, Quarrel</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-11-11 12:50:41" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>to argue or quarrel about the meaning or use of words</DefinitionShort>
+              <Glosses>
+                <Gloss>to quarrel about words</Gloss>
+                <Gloss>arguing about words</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>05500201400016</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

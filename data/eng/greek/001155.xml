@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="001155000000000" Lemma="δαιμονιώδης" Version="0" HasAramaic="false" InLXX="false" AlphaPos="δ">
+  <StrongCodes>
+    <Strong>G1141</Strong>
+  </StrongCodes>
+  <Authors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes/>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="001155001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>adjc.</PartOfSpeech>
+      </PartsOfSpeech>
+      <Inflections>
+        <Inflection Lemma="δαιμονιώδης" BaseFormIndex="1">
+          <Form/>
+          <Realizations>
+            <Realization>-ες</Realization>
+          </Realizations>
+          <Comments/>
+        </Inflection>
+      </Inflections>
+      <RelatedLemmas>
+        <RelatedLemma>
+          <Word>δαιμονίζομαι</Word>
+        </RelatedLemma>
+      </RelatedLemmas>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="001155001001000" IsBiblicalTerm="Y" EntryCode="12.40" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Supernatural Beings and Powers</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Supernatural Beings</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2022-11-15 16:02:32" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>(derivative of {L:δαιμόνιον&lt;SDBG:δαιμόνιον:000000&gt;}[a] ‘demon,’ {D:12.37}) pertaining to a demon</DefinitionShort>
+              <Glosses>
+                <Gloss>demonic</Gloss>
+                <Gloss>devilish</Gloss>
+              </Glosses>
+              <Comments>In some languages δαιμονιώδης may be rendered as ‘typical of the way a demon acts’ or ‘the way in which demons behave.’</Comments>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>05900301500022</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="000164000000000" Lemma="אֱהִי" Version="5" HasAramaic="false" InLXX="false" AlphaPos="א">
+  <StrongCodes>
+    <Strong>H0165</Strong>
+  </StrongCodes>
+  <Authors>
+    <Author>Reinier de Blois</Author>
+  </Authors>
+  <Contributors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes>
+    <Note Caller="1" LanguageCode="en" LastEdited="" LastEditedBy="">
+      <References>
+        <Reference>02801301400016</Reference>
+        <Reference>02801301400022</Reference>
+      </References>
+      <Content>{A:MT} {A:HOTTP}-B {A:CEV} {L:אֱהִי&lt;SDBH:היה&gt;} "I will be" = [1a] | {A:LXX} {A:RSV} {A:NIV} {A:NJPS} {A:NJB} {A:NRSV} {A:REB} {A:GNT} {L:אַיֵּה&lt;SDBH:אַיֵּה&gt;} "where" = [2a]</Content>
+    </Note>
+  </Notes>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="000164001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>ir</PartOfSpeech>
+      </PartsOfSpeech>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="000164001001000" IsBiblicalTerm="N" EntryCode="" Indent="0">
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2014-07-10 09:19:59" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>read as conjugated form of {L:היה&lt;SDBH:היה&gt;}</DefinitionShort>
+              <Glosses>
+                <Gloss>I will be</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>02801301400016{N:001}</LEXReference>
+            <LEXReference>02801301400022{N:001}</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+    <BaseForm Id="000164002000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>ir</PartOfSpeech>
+      </PartsOfSpeech>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="000164002001000" IsBiblicalTerm="N" EntryCode="" Indent="0">
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2014-07-10 09:19:59" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>read as variant of {L:אַיֵּה&lt;SDBH:אַיֵּה&gt;}</DefinitionShort>
+              <Glosses>
+                <Gloss>where?</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>02801301000002</LEXReference>
+            <LEXReference>02801301400016{N:001}</LEXReference>
+            <LEXReference>02801301400022{N:001}</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="002514000000000" Lemma="καθαίρω" Version="0" HasAramaic="false" InLXX="true" AlphaPos="κ">
+  <StrongCodes>
+    <Strong>G2508</Strong>
+  </StrongCodes>
+  <Authors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes/>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="002514001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>verb</PartOfSpeech>
+      </PartsOfSpeech>
+      <Constructs>
+        <Construct Lemma="καθαίρω" BaseFormIndex="1">
+          <WordMeaningSet>
+            <Word>κατά</Word>
+          </WordMeaningSet>
+          <WordMeaningSet>
+            <Word>αἴρω</Word>
+          </WordMeaningSet>
+        </Construct>
+      </Constructs>
+      <RelatedLemmas>
+        <RelatedLemma>
+          <Word>καθαρός</Word>
+        </RelatedLemma>
+      </RelatedLemmas>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="002514001001000" IsBiblicalTerm="M" EntryCode="79.49" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Features of Objects</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Clean, Dirty</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-09-02 09:55:21" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>to cause something to become clean</DefinitionShort>
+              <Glosses>
+                <Gloss>to make clean</Gloss>
+                <Gloss>to cleanse</Gloss>
+                <Gloss>to clean</Gloss>
+              </Glosses>
+              <Comments>In {S:04301500200030} the meaning of καθαίρω may also be understood as ‘to prune branches’ (see {D:43.12}), thus playing on two distinct meanings of καθαίρω.</Comments>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04301500200030</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+        <LEXMeaning Id="002514001002000" IsBiblicalTerm="M" EntryCode="43.12" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Agriculture</LEXDomain>
+          </LEXDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-09-02 09:55:21" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>to cut away or cut back unproductive branches or to cut back productive branches so they can produce better</DefinitionShort>
+              <Glosses>
+                <Gloss>to take away</Gloss>
+                <Gloss>to prune</Gloss>
+                <Gloss>to cut off</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04301500200030</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

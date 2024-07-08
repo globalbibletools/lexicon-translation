@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="002197000000000" Lemma="ἐφικνέομαι" Version="0" HasAramaic="false" InLXX="false" AlphaPos="ε">
+  <StrongCodes>
+    <Strong>G2185</Strong>
+  </StrongCodes>
+  <Authors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes>
+    <Note Caller="1" LanguageCode="en" LastEdited="" LastEditedBy="">
+      <References/>
+      <Content>There are no doubt certain subtle distinctions of meaning in ἐφικνέομαιφθάνω[a], καταντάω[a], and ἥκω[a], but it is not possible to determine what the distinctive features are on the basis of existing contexts.</Content>
+    </Note>
+  </Notes>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="002197001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>verb</PartOfSpeech>
+      </PartsOfSpeech>
+      <Inflections>
+        <Inflection Lemma="ἐφικνέομαι" BaseFormIndex="1">
+          <Form>aor.inf.</Form>
+          <Realizations>
+            <Realization>ἐφικέσθαι</Realization>
+          </Realizations>
+          <Comments/>
+        </Inflection>
+      </Inflections>
+      <RelatedLemmas>
+        <RelatedLemma>
+          <Word>ἱκνέομαι</Word>
+          <Meaning LanguageCode="en">
+            <Meaning>come to</Meaning>
+          </Meaning>
+          <Meaning LanguageCode="zhT">
+            <Meaning>來到</Meaning>
+          </Meaning>
+        </RelatedLemma>
+        <RelatedLemma>
+          <Word>ἱκανόω</Word>
+        </RelatedLemma>
+      </RelatedLemmas>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="002197001001000" IsBiblicalTerm="Y" EntryCode="15.84" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Linear Movement</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Come, Come To, Arrive</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-07-15 10:21:12" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>to move toward and to arrive at a point{N:001}</DefinitionShort>
+              <Glosses>
+                <Gloss>to come to</Gloss>
+                <Gloss>to reach</Gloss>
+                <Gloss>to arrive</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04701001300040</LEXReference>
+            <LEXReference>04701001400010</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

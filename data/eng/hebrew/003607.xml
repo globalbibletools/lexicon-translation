@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="003607000000000" Lemma="לַעֲנָה" Version="5" HasAramaic="false" InLXX="false" AlphaPos="ל">
+  <StrongCodes>
+    <Strong>H3939</Strong>
+  </StrongCodes>
+  <Authors>
+    <Author>Reinier de Blois</Author>
+  </Authors>
+  <Contributors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes/>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="003607001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>nsf</PartOfSpeech>
+      </PartsOfSpeech>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="003607001001000" IsBiblicalTerm="M" EntryCode="" Indent="0">
+          <LEXDomains>
+            <LEXDomain Code="001003001">Plants</LEXDomain>
+          </LEXDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2017-10-02 17:20:02" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>= a plant which may grow as large as a bush, with woolly green leaves, ◄ Artemisia herba-alba; ► the juice tastes bitter and can be poisonous; used as medicine; ≈ associated with injustice and suffering</DefinitionShort>
+              <Glosses>
+                <Gloss>wormwood</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>00502901700074</LEXReference>
+          </LEXReferences>
+          <LEXLinks>
+            <LEXLink>Flora:5.2.7</LEXLink>
+          </LEXLinks>
+          <LEXVideos/>
+          <LEXCoreDomains>
+            <LEXCoreDomain Code="125">Plant</LEXCoreDomain>
+          </LEXCoreDomains>
+        </LEXMeaning>
+        <LEXMeaning Id="003607001002000" IsBiblicalTerm="M" EntryCode="" Indent="0">
+          <LEXDomains>
+            <LEXDomain Code="001006007" Source="Plants" SourceCode="001003001">Liquids</LEXDomain>
+            <LEXDomain Code="002003003021" Source="Plants" SourceCode="001003001">Unsafe</LEXDomain>
+          </LEXDomains>
+          <LEXSynonyms>
+            <LEXSynonym>רֹאשׁ</LEXSynonym>
+          </LEXSynonyms>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2017-10-02 17:20:02" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>= juice from the leaves of the wormwood plant, ► which tastes bitter and can be poisonous; used as medicine; ≈ associated with injustice and suffering</DefinitionShort>
+              <Glosses>
+                <Gloss>wormwood</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>02000500400012</LEXReference>
+            <LEXReference>02400901400030</LEXReference>
+            <LEXReference>02402301500024</LEXReference>
+            <LEXReference>02500301500012</LEXReference>
+            <LEXReference>02500301900010</LEXReference>
+            <LEXReference>03000500700008</LEXReference>
+            <LEXReference>03000601200042</LEXReference>
+          </LEXReferences>
+          <LEXLinks>
+            <LEXLink>Flora:5.2.7</LEXLink>
+          </LEXLinks>
+          <LEXVideos/>
+          <LEXCoreDomains>
+            <LEXCoreDomain Code="069">Food</LEXCoreDomain>
+          </LEXCoreDomains>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

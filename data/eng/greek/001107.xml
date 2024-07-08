@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="001107000000000" Lemma="γῆρας" Version="0" HasAramaic="false" InLXX="true" AlphaPos="γ">
+  <StrongCodes>
+    <Strong>G1094</Strong>
+  </StrongCodes>
+  <Authors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes>
+    <Note Caller="1" LanguageCode="en" LastEdited="" LastEditedBy="">
+      <References/>
+      <Content>The meanings of terms in {D:67.152}-{D:67.158} could almost be treated equally well in Physiological Processes and States (Domain 23), since these could be regarded as simply derivatives of physiological states. However, the focus of meaning in the respective contexts seems to be more upon a particular period of time rather than upon a physiological state or condition.</Content>
+    </Note>
+  </Notes>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="001107001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>noun, n.</PartOfSpeech>
+      </PartsOfSpeech>
+      <Inflections>
+        <Inflection Lemma="γῆρας" BaseFormIndex="1">
+          <Form/>
+          <Realizations>
+            <Realization>-ως</Realization>
+            <Realization>-ους</Realization>
+          </Realizations>
+          <Comments/>
+        </Inflection>
+        <Inflection Lemma="γῆρας" BaseFormIndex="1">
+          <Form>dat.</Form>
+          <Realizations>
+            <Realization>γήρᾳ</Realization>
+            <Realization>γήρει</Realization>
+          </Realizations>
+          <Comments/>
+        </Inflection>
+      </Inflections>
+      <RelatedLemmas>
+        <RelatedLemma>
+          <Word>γηράσκω</Word>
+        </RelatedLemma>
+      </RelatedLemmas>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="001107001001000" IsBiblicalTerm="Y" EntryCode="67.157" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Time</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Indefinite Units of Time: Age, Lifetime, Interval, Period</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-05-13 22:02:39" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>the period of advanced age, normally of a person beyond his or her prime{N:001}</DefinitionShort>
+              <Glosses>
+                <Gloss>old age</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04200103600024</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

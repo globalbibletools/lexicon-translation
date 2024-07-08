@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="003711000000000" Lemma="παιδαγωγός" Version="0" HasAramaic="false" InLXX="false" AlphaPos="π">
+  <StrongCodes>
+    <Strong>G3807</Strong>
+  </StrongCodes>
+  <Authors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes/>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="003711001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>noun, m.</PartOfSpeech>
+      </PartsOfSpeech>
+      <Inflections>
+        <Inflection Lemma="παιδαγωγός" BaseFormIndex="1">
+          <Form/>
+          <Realizations>
+            <Realization>-οῦ</Realization>
+          </Realizations>
+          <Comments/>
+        </Inflection>
+      </Inflections>
+      <Constructs>
+        <Construct Lemma="παιδαγωγός" BaseFormIndex="1">
+          <WordMeaningSet>
+            <Word>παίζω</Word>
+          </WordMeaningSet>
+          <WordMeaningSet>
+            <Word>ἄγω</Word>
+          </WordMeaningSet>
+        </Construct>
+      </Constructs>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="003711001001000" IsBiblicalTerm="M" EntryCode="36.5" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Guide, Discipline, Follow</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Guide, Lead</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-12-16 11:41:25" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>a person who guides, directs, and shows concern for</DefinitionShort>
+              <Glosses>
+                <Gloss>guardian</Gloss>
+                <Gloss>leader</Gloss>
+                <Gloss>guide</Gloss>
+              </Glosses>
+              <Comments>It may be difficult to render appropriately {L:ἐπίτροπος&lt;SDBG:ἐπίτροπος:000001&gt;}[b] and παιδαγωγός with a combined meaning of guiding and caring for. It may, in fact, be necessary in some instances to use two verbal expressions, for example, ‘to guide and to help’ or ‘to help by leading’ or ‘to care for by leading.’|In classical times, a παιδαγωγός was a man, usually a slave, whose task it was to conduct a boy to and from school and to supervise and direct his general conduct. He was not a teacher.</Comments>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04600401500008</LEXReference>
+            <LEXReference>04800302400008</LEXReference>
+            <LEXReference>04800302500014</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

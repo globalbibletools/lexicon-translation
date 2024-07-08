@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="004605000000000" Lemma="σπόρος" Version="0" HasAramaic="false" InLXX="true" AlphaPos="σ">
+  <StrongCodes>
+    <Strong>G4703</Strong>
+  </StrongCodes>
+  <Authors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes/>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="004605001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>noun, m.</PartOfSpeech>
+      </PartsOfSpeech>
+      <Inflections>
+        <Inflection Lemma="σπόρος" BaseFormIndex="1">
+          <Form/>
+          <Realizations>
+            <Realization>-ου</Realization>
+          </Realizations>
+          <Comments/>
+        </Inflection>
+      </Inflections>
+      <RelatedLemmas>
+        <RelatedLemma>
+          <Word>σπείρω</Word>
+        </RelatedLemma>
+      </RelatedLemmas>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="004605001001000" IsBiblicalTerm="M" EntryCode="3.35" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Plants</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Fruit Parts of Plants</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2022-02-12 15:42:54" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>the kernel part of fruit, usually grain</DefinitionShort>
+              <Glosses>
+                <Gloss>seed</Gloss>
+              </Glosses>
+              <Comments>A number of languages make distinctions between two quite different types of seed: (1) those produced by grasses (that is to say, grains) and (2) those produced by other types of plants, for example, beans, squash, apples, etc. In all passages employing the Greek terms in this subdomain ({L:κόκκος&lt;SDBG:κόκκος:000000&gt;}, {L:σπέρμα&lt;SDBG:σπέρμα:000000&gt;}, σπόρος), it is best to use some expression referring to ‘grain.’|See also {D:10.23} for {L:σπορά&lt;SDBG:σπορά:000000&gt;} ‘seed’ used figuratively of descendants.</Comments>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04100402600026</LEXReference>
+            <LEXReference>04100402700020</LEXReference>
+            <LEXReference>04200800500014</LEXReference>
+            <LEXReference>04200801100014</LEXReference>
+            <LEXReference>04700901000008</LEXReference>
+            <LEXReference>04700901000030</LEXReference>
+          </LEXReferences>
+          <LEXLinks>
+            <LEXLink>flora:3.1</LEXLink>
+          </LEXLinks>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

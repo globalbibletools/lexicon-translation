@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="000070000000000" Lemma="ἀγρυπνία" Version="0" HasAramaic="false" InLXX="true" AlphaPos="α">
+  <StrongCodes>
+    <Strong>G0070</Strong>
+  </StrongCodes>
+  <Authors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes/>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="000070001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>noun, f.</PartOfSpeech>
+      </PartsOfSpeech>
+      <Inflections>
+        <Inflection Lemma="ἀγρυπνία" BaseFormIndex="1">
+          <Form/>
+          <Realizations>
+            <Realization>-ας</Realization>
+          </Realizations>
+          <Comments/>
+        </Inflection>
+      </Inflections>
+      <Constructs>
+        <Construct Lemma="ἀγρυπνία" BaseFormIndex="1">
+          <WordMeaningSet>
+            <Word>ἀγρεύω</Word>
+          </WordMeaningSet>
+          <WordMeaningSet>
+            <Word>ὕπνος</Word>
+          </WordMeaningSet>
+        </Construct>
+      </Constructs>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="000070001001000" IsBiblicalTerm="Y" EntryCode="23.73" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Physiological Processes and States</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Sleep, Waking</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-01-29 17:33:30" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>the state of remaining awake because of not being able to go to sleep, whether from anxiety or because of external circumstances</DefinitionShort>
+              <Glosses>
+                <Gloss>sleeplessness</Gloss>
+              </Glosses>
+              <Comments>In the two occurrences of ἀγρυπνία in the NT ({S:04700600500020 04701102700010}), failure to sleep was evidently the result of external circumstances which prevented normal sleep. It may therefore be possible to translate ἀγρυπνία as it was not possible to sleep or there was no way to sleep.</Comments>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04700600500020</LEXReference>
+            <LEXReference>04701102700010</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

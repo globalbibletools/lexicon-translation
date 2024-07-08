@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="004148000000000" Lemma="מַסָּה" Version="4" HasAramaic="false" InLXX="false" AlphaPos="מ">
+  <StrongCodes>
+    <Strong>H4531</Strong>
+    <Strong>H4532</Strong>
+  </StrongCodes>
+  <Authors>
+    <Author>Reinier de Blois</Author>
+  </Authors>
+  <Contributors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes/>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="004148001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>nsf</PartOfSpeech>
+      </PartsOfSpeech>
+      <RelatedLemmas>
+        <RelatedLemma>
+          <Word>נסה</Word>
+        </RelatedLemma>
+      </RelatedLemmas>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="004148001001000" IsBiblicalTerm="Y" EntryCode="" Indent="0">
+          <LEXDomains>
+            <LEXDomain Code="002001003006" Source="Test" SourceCode="002004002013">Extraordinary</LEXDomain>
+          </LEXDomains>
+          <LEXSynonyms>
+            <LEXSynonym>אֹות</LEXSynonym>
+            <LEXSynonym>זְרֹועַ נְטוּיָה</LEXSynonym>
+            <LEXSynonym>יָד חֲזָקָה</LEXSynonym>
+            <LEXSynonym>מֹופֵת</LEXSynonym>
+            <LEXSynonym>מֹורָא</LEXSynonym>
+            <LEXSynonym>מִלְחָמָה</LEXSynonym>
+          </LEXSynonyms>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2015-12-29 19:09:31" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>literally: a test; hence: = a supernatural act of a deity, ◄ performed by the deity himself or in his name; ► in order to assert his power and greatness</DefinitionShort>
+              <Glosses>
+                <Gloss>proving</Gloss>
+                <Gloss>trial</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>00500403400030</LEXReference>
+            <LEXReference>00500701900004</LEXReference>
+            <LEXReference>00502900200004</LEXReference>
+            <LEXReference>01800902300012</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+          <LEXCoreDomains>
+            <LEXCoreDomain Code="159">Significance</LEXCoreDomain>
+          </LEXCoreDomains>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+    <BaseForm Id="004148002000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>np</PartOfSpeech>
+      </PartsOfSpeech>
+      <MeaningsOfName>
+        <MeaningOfName LanguageCode="en">
+          <Meaning>test</Meaning>
+        </MeaningOfName>
+      </MeaningsOfName>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="004148002001000" IsBiblicalTerm="M" EntryCode="" Indent="0">
+          <LEXDomains>
+            <LEXDomain Code="003001010">Names of Locations</LEXDomain>
+          </LEXDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2015-12-29 19:09:31" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>= location, also called {L:Meribah&lt;SDBH:מְרִיבָה&gt;}, ► along the route of the exodus; one of the places where the {L:Israelites&lt;SDBH:יִשְׂרָאֵל&gt;} rebelled against {L:Moses&lt;SDBH:מֹשֶׁה&gt;} because of a lack of water</DefinitionShort>
+              <Glosses>
+                <Gloss>Massah</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>00201700700012</LEXReference>
+            <LEXReference>00500601600022</LEXReference>
+            <LEXReference>00500902200012</LEXReference>
+            <LEXReference>00503300800028</LEXReference>
+            <LEXReference>01909500800016</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+          <LEXCoordinates>
+            <LEXCoordinates>28.731061,33.841699</LEXCoordinates>
+          </LEXCoordinates>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

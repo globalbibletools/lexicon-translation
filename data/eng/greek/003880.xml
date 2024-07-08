@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="003880000000000" Lemma="πεζεύω" Version="0" HasAramaic="false" InLXX="false" AlphaPos="π">
+  <StrongCodes>
+    <Strong>G3978</Strong>
+  </StrongCodes>
+  <Authors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes>
+    <Note Caller="1" LanguageCode="en" LastEdited="" LastEditedBy="">
+      <References>
+        <Reference>04402001300044</Reference>
+      </References>
+      <Content>It is possible that πεζεύω in {S:04402001300044} can mean merely to travel by land and not necessarily by foot.</Content>
+    </Note>
+  </Notes>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="003880001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>verb</PartOfSpeech>
+      </PartsOfSpeech>
+      <RelatedLemmas>
+        <RelatedLemma>
+          <Word>πέδη</Word>
+        </RelatedLemma>
+        <RelatedLemma>
+          <Word>πεδινός</Word>
+        </RelatedLemma>
+        <RelatedLemma>
+          <Word>πεζῇ</Word>
+        </RelatedLemma>
+        <RelatedLemma>
+          <Word>τράπεζα</Word>
+        </RelatedLemma>
+        <RelatedLemma>
+          <Word>τραπεζίτης</Word>
+        </RelatedLemma>
+      </RelatedLemmas>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="003880001001000" IsBiblicalTerm="Y" EntryCode="15.224" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Linear Movement</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Walk, Step</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-12-23 21:26:38" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>to travel by foot</DefinitionShort>
+              <Glosses>
+                <Gloss>to go by foot</Gloss>
+                <Gloss>to go by land</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04402001300044{N:001}</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

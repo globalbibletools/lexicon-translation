@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="002580000000000" Lemma="κάμινος" Version="0" HasAramaic="false" InLXX="true" AlphaPos="κ">
+  <StrongCodes>
+    <Strong>G2575</Strong>
+  </StrongCodes>
+  <Authors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes/>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="002580001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>noun, f.</PartOfSpeech>
+      </PartsOfSpeech>
+      <Inflections>
+        <Inflection Lemma="κάμινος" BaseFormIndex="1">
+          <Form/>
+          <Realizations>
+            <Realization>-ου</Realization>
+          </Realizations>
+          <Comments/>
+        </Inflection>
+      </Inflections>
+      <RelatedLemmas>
+        <RelatedLemma>
+          <Word>καίω</Word>
+        </RelatedLemma>
+      </RelatedLemmas>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="002580001001000" IsBiblicalTerm="M" EntryCode="7.73" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Constructions</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Miscellaneous Constructions</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-09-10 18:38:24" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>a construction used for the smelting of ore and burning of ceramic ware</DefinitionShort>
+              <Glosses>
+                <Gloss>furnace</Gloss>
+                <Gloss>kiln</Gloss>
+              </Glosses>
+              <Comments>In {S:04001304200012} and {S:04001305000012} κάμινος is used figuratively of hell.|In rendering the meaning of κάμινος, the emphasis should be upon the extreme heat, rather than upon the particular type of construction.</Comments>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04001304200012</LEXReference>
+            <LEXReference>04001305000012</LEXReference>
+            <LEXReference>06600101500018</LEXReference>
+            <LEXReference>06600900200030</LEXReference>
+          </LEXReferences>
+          <LEXLinks>
+            <LEXLink>realia:1.11.1</LEXLink>
+          </LEXLinks>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

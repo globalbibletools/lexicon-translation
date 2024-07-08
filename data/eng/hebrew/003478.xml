@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="003478000000000" Lemma="כתר" Version="4" HasAramaic="false" InLXX="false" AlphaPos="כ">
+  <StrongCodes>
+    <Strong>H3803</Strong>
+  </StrongCodes>
+  <Authors>
+    <Author>Reinier de Blois</Author>
+  </Authors>
+  <Contributors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes>
+    <Note Caller="1" LanguageCode="en" LastEdited="" LastEditedBy="">
+      <References>
+        <Reference>01914200800020</Reference>
+      </References>
+      <Content>RSV NRSV ESV "surround (me)" NIV "gather about (me)" NJB "gather round (me)" | NJPS "glory (in me)" REB "place a crown (on me)"</Content>
+    </Note>
+    <Note Caller="2" LanguageCode="en" LastEdited="" LastEditedBy="">
+      <References>
+        <Reference>03500100400026</Reference>
+      </References>
+      <Content>RSV NRSV ESV "surround" NIV REB "hem in" NJPS "hedges in" NJB "outwits" GNT "get the better of" CEV "crowd out"</Content>
+    </Note>
+    <Note Caller="3" LanguageCode="en" LastEdited="" LastEditedBy="">
+      <References>
+        <Reference>02001401800012</Reference>
+      </References>
+      <Content>RSV NIV NRSV REB ESV "are crowned" | NJPS "glory"</Content>
+    </Note>
+  </Notes>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="003478001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>vb</PartOfSpeech>
+      </PartsOfSpeech>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="003478001001000" IsBiblicalTerm="Y" EntryCode="" Indent="0">
+          <LEXDomains>
+            <LEXDomain Code="002003003011">Non-Engage</LEXDomain>
+          </LEXDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2017-03-13 12:53:08" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>= process by which humans refrain from action for some time</DefinitionShort>
+              <Glosses>
+                <Gloss>to wait for</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>01803600200002</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+    <BaseForm Id="003478002000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>vb</PartOfSpeech>
+      </PartsOfSpeech>
+      <RelatedLemmas>
+        <RelatedLemma>
+          <Word>כֶּתֶר</Word>
+        </RelatedLemma>
+        <RelatedLemma>
+          <Word>כֹּתֶרֶת</Word>
+        </RelatedLemma>
+      </RelatedLemmas>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="003478002001000" IsBiblicalTerm="Y" EntryCode="" Indent="0">
+          <LEXDomains>
+            <LEXDomain Code="002002001016">Space</LEXDomain>
+          </LEXDomains>
+          <LEXForms>
+            <LEXForm>vbpiel</LEXForm>
+            <LEXForm>vbhif-</LEXForm>
+          </LEXForms>
+          <LEXSynonyms>
+            <LEXSynonym>סבב</LEXSynonym>
+          </LEXSynonyms>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2017-03-13 12:53:08" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>= action by which a group of humans takes position all around another group or an individual</DefinitionShort>
+              <Glosses>
+                <Gloss>to surround</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>00702004300002</LEXReference>
+            <LEXReference>01902201300012</LEXReference>
+            <LEXReference>01914200800020{N:001}</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+          <LEXCoreDomains>
+            <LEXCoreDomain Code="166">Space</LEXCoreDomain>
+          </LEXCoreDomains>
+        </LEXMeaning>
+        <LEXMeaning Id="003478002002000" IsBiblicalTerm="Y" EntryCode="" Indent="0">
+          <LEXDomains>
+            <LEXDomain Code="002003003021" Source="Space" SourceCode="002002001016">Unsafe</LEXDomain>
+          </LEXDomains>
+          <LEXForms>
+            <LEXForm>vbhif-</LEXForm>
+          </LEXForms>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2022-09-10 18:46:03" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>exact meaning unknown; literally: to surround; hence, possibly: = action by which a group of humans cause other groups to be ineffective in their activities</DefinitionShort>
+              <Glosses>
+                <Gloss>to hem in</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>03500100400026{N:002}</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+        <LEXMeaning Id="003478002003000" IsBiblicalTerm="Y" EntryCode="" Indent="0">
+          <LEXDomains>
+            <LEXDomain Code="002003003010" Source="Shape" SourceCode="002001001048">Engage</LEXDomain>
+          </LEXDomains>
+          <LEXForms>
+            <LEXForm>vbhif-</LEXForm>
+          </LEXForms>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2017-03-13 12:53:08" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>exact meaning unknown; literally: to surround; hence, possibly: = process by which humans acquire a certain quality</DefinitionShort>
+              <Glosses>
+                <Gloss>to gain</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>02001401800012{N:003}</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

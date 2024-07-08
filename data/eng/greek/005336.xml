@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="005336000000000" Lemma="φύσις" Version="0" HasAramaic="false" InLXX="true" AlphaPos="φ">
+  <StrongCodes>
+    <Strong>G5449</Strong>
+  </StrongCodes>
+  <Authors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes>
+    <Note Caller="1" LanguageCode="en" LastEdited="" LastEditedBy="">
+      <References>
+        <Reference>05900300700006</Reference>
+        <Reference>05900300700032</Reference>
+      </References>
+      <Content>There is clearly a play on the use of the term φύσις at the beginning and at the end of {S:05900300700006 05900300700032}.</Content>
+    </Note>
+  </Notes>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="005336001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>noun, f.</PartOfSpeech>
+      </PartsOfSpeech>
+      <Inflections>
+        <Inflection Lemma="φύσις" BaseFormIndex="1">
+          <Form/>
+          <Realizations>
+            <Realization>-εως</Realization>
+          </Realizations>
+          <Comments/>
+        </Inflection>
+      </Inflections>
+      <RelatedLemmas>
+        <RelatedLemma>
+          <Word>φύω</Word>
+        </RelatedLemma>
+      </RelatedLemmas>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="005336001001000" IsBiblicalTerm="Y" EntryCode="58.8" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Nature, Class, Example</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Nature, Character</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2023-01-04 12:37:09" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>the nature of something as the result of its natural development or condition</DefinitionShort>
+              <Glosses>
+                <Gloss>nature</Gloss>
+              </Glosses>
+              <Comments>For languages in which there is no ready equivalent to the lexical term ‘nature,’ it may be possible to render the expression in {S:04800400800018} as ‘beings who are really not gods,’ and in {S:06100100400032} one may translate ‘to share in what God is like’ or ‘to be like God in certain ways.’</Comments>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04500102600044</LEXReference>
+            <LEXReference>04500201400016</LEXReference>
+            <LEXReference>04500202700010</LEXReference>
+            <LEXReference>04501102100014</LEXReference>
+            <LEXReference>04501102400014</LEXReference>
+            <LEXReference>04501102400024</LEXReference>
+            <LEXReference>04501102400042</LEXReference>
+            <LEXReference>04601101400006</LEXReference>
+            <LEXReference>04800201500004</LEXReference>
+            <LEXReference>04800400800018</LEXReference>
+            <LEXReference>04900200300050</LEXReference>
+            <LEXReference>05900300700032</LEXReference>
+            <LEXReference>06100100400032</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+        <LEXMeaning Id="005336001002000" IsBiblicalTerm="Y" EntryCode="58.24" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Nature, Class, Example</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Class, Kind</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2023-01-04 12:37:09" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>a class of entities based on physiological and genetic similarity</DefinitionShort>
+              <Glosses>
+                <Gloss>kind</Gloss>
+                <Gloss>class</Gloss>
+                <Gloss>species</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>05900300700006{N:001}</LEXReference>
+            <LEXReference>05900300700032{N:001}</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

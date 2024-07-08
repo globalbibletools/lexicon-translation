@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="001133000000000" Lemma="γονυπετέω" Version="0" HasAramaic="false" InLXX="false" AlphaPos="γ">
+  <StrongCodes>
+    <Strong>G1120</Strong>
+  </StrongCodes>
+  <Authors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes/>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="001133001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>verb</PartOfSpeech>
+      </PartsOfSpeech>
+      <Constructs>
+        <Construct Lemma="γονυπετέω" BaseFormIndex="1">
+          <WordMeaningSet>
+            <Word>γόνυ</Word>
+          </WordMeaningSet>
+          <WordMeaningSet>
+            <Word>πίπτω</Word>
+          </WordMeaningSet>
+        </Construct>
+      </Constructs>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="001133001001000" IsBiblicalTerm="M" EntryCode="17.19" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Stances and Events Related to Stances</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Kneel</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-05-11 11:49:25" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>to kneel down before, with the implication of an act of reverence or of supplication</DefinitionShort>
+              <Glosses>
+                <Gloss>to kneel down</Gloss>
+                <Gloss>to kneel</Gloss>
+              </Glosses>
+              <Comments>In a number of cultures, kneeling does not imply either reverence or an act of supplication. In some instances translators have used a functional substitute involving a similar type of stance, namely, ‘to bow low before,’ but it may be necessary to use a more or less literal description of ‘kneeling before’ and then to place in a marginal note an indication of the implications of such an act.</Comments>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04001701400018</LEXReference>
+            <LEXReference>04002702900036</LEXReference>
+            <LEXReference>04100104000018</LEXReference>
+            <LEXReference>04101001700018</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

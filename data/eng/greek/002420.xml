@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="002420000000000" Lemma="ἱεροσυλέω" Version="0" HasAramaic="false" InLXX="true" AlphaPos="ι">
+  <StrongCodes>
+    <Strong>G2416</Strong>
+  </StrongCodes>
+  <Authors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes/>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="002420001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>verb</PartOfSpeech>
+      </PartsOfSpeech>
+      <Constructs>
+        <Construct Lemma="ἱεροσυλέω" BaseFormIndex="1">
+          <WordMeaningSet>
+            <Word>ἱερατεύω</Word>
+          </WordMeaningSet>
+          <WordMeaningSet>
+            <Word>συλάω</Word>
+          </WordMeaningSet>
+        </Construct>
+      </Constructs>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="002420001001000" IsBiblicalTerm="M" EntryCode="57.241" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Possess, Transfer, Exchange</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Steal, Rob</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-08-26 10:34:26" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>to take by force or stealth objects from a temple</DefinitionShort>
+              <Glosses>
+                <Gloss>to rob temples</Gloss>
+              </Glosses>
+              <Comments>It is also possible to interpret ἱεροσυλέω in {S:04500202200020} as meaning ‘to commit sacrilege,’ in the sense of doing harm or damage to sacred objects in temples (see {D:53.104}).</Comments>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04500202200020</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+        <LEXMeaning Id="002420001002000" IsBiblicalTerm="Y" EntryCode="53.104" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Religious Activities</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Sacrilege</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-08-26 10:34:26" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>to commit sacrilege by doing harm or damage to sacred objects in temples</DefinitionShort>
+              <Glosses>
+                <Gloss>to commit sacrilege</Gloss>
+                <Gloss>to desecrate</Gloss>
+              </Glosses>
+              <Comments>In biblical times the damaging of valuable objects in a temple was more than simply a criminal act, since it involved a serious breach of respect for supernatural beings. Accordingly, doing harm to sacred objects in a temple would be regarded as a particularly godless deed. For another interpretation of {L:ἱεροσυλέω&lt;SDBG:ἱεροσυλέω:000000&gt;} in {S:04500202200020}, see {D:57.241}.</Comments>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04500202200020</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

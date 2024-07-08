@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="000624000000000" Lemma="ἀπολύτρωσις" Version="0" HasAramaic="false" InLXX="true" AlphaPos="α">
+  <StrongCodes>
+    <Strong>G0629</Strong>
+  </StrongCodes>
+  <Authors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes>
+    <Note Caller="1" LanguageCode="en" LastEdited="" LastEditedBy="">
+      <References/>
+      <Content>It is possible that ἀπολύω[c] is somewhat more emphatic in meaning than λύω[b] in view of the prepositional prefix ἀπο, but NT contexts are not sufficient to indicate any precise degree of distinction. The same possible distinction also applies to the meanings in {D:37.128}.</Content>
+    </Note>
+  </Notes>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="000624001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>noun, f.</PartOfSpeech>
+      </PartsOfSpeech>
+      <Inflections>
+        <Inflection Lemma="ἀπολύτρωσις" BaseFormIndex="1">
+          <Form/>
+          <Realizations>
+            <Realization>-εως</Realization>
+          </Realizations>
+          <Comments/>
+        </Inflection>
+      </Inflections>
+      <RelatedLemmas>
+        <RelatedLemma>
+          <Word>λύω</Word>
+        </RelatedLemma>
+      </RelatedLemmas>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="000624001001000" IsBiblicalTerm="M" EntryCode="37.128" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Control, Rule</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Release, Set Free</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-08-13 16:23:29" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>to release or set free, with the implied analogy to the process of freeing a slave{N:001}</DefinitionShort>
+              <Glosses>
+                <Gloss>to set free</Gloss>
+                <Gloss>to liberate</Gloss>
+                <Gloss>to deliver</Gloss>
+                <Gloss>liberation</Gloss>
+                <Gloss>deliverance</Gloss>
+              </Glosses>
+              <Comments>In a number of languages one cannot speak of ‘being set free’ without specifying the particular manner or circumstances involved. In the case of {S:04202402100018}, for example, it may be necessary to translate ‘to liberate Israel’ as ‘to cause Israel to be free from foreign control’ or ‘… from the power of Rome.’ A similar type of translation may be required in {S:04200203800032}, but in the case of {S:04900100700010} it may be necessary to specify ‘we are set free from sin’ or ‘we are set free from our bad desires.’</Comments>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04202102800028</LEXReference>
+            <LEXReference>04500302400016</LEXReference>
+            <LEXReference>04500802300042</LEXReference>
+            <LEXReference>04600103000040</LEXReference>
+            <LEXReference>04900100700010</LEXReference>
+            <LEXReference>04900101400016</LEXReference>
+            <LEXReference>04900403000030</LEXReference>
+            <LEXReference>05100101400010</LEXReference>
+            <LEXReference>05800901500024</LEXReference>
+            <LEXReference>05801103500028</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

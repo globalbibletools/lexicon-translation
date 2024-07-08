@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="002184000000000" Lemma="εὐχή" Version="0" HasAramaic="false" InLXX="true" AlphaPos="ε">
+  <StrongCodes>
+    <Strong>G2171</Strong>
+  </StrongCodes>
+  <Authors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes>
+    <Note Caller="1" LanguageCode="en" LastEdited="" LastEditedBy="">
+      <References/>
+      <Content>It is possible that εὔχομαι[a] and προσεύχομαι differ somewhat in the extent to which focus is upon the person to whom the prayer is addressed, but this cannot be determined from NT usage.</Content>
+    </Note>
+  </Notes>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="002184001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>noun, f.</PartOfSpeech>
+      </PartsOfSpeech>
+      <Inflections>
+        <Inflection Lemma="εὐχή" BaseFormIndex="1">
+          <Form/>
+          <Realizations>
+            <Realization>-ῆς</Realization>
+          </Realizations>
+          <Comments/>
+        </Inflection>
+      </Inflections>
+      <RelatedLemmas>
+        <RelatedLemma>
+          <Word>εὔχομα</Word>
+        </RelatedLemma>
+      </RelatedLemmas>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="002184001001000" IsBiblicalTerm="M" EntryCode="33.178" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Communication</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Pray</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-07-14 10:01:07" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>the act of speaking to or making requests of God{N:001}</DefinitionShort>
+              <Glosses>
+                <Gloss>prayer</Gloss>
+              </Glosses>
+              <Comments>In some languages there are a number of different terms used for prayer depending upon the nature of the content, for example, requests for material blessing, pleas for spiritual help, intercession for others, thanksgiving, and praise. There may also be important distinctions on the basis of urgency and need. The most generic expression for prayer may simply be ‘to speak to God.’ It is normally best to avoid an expression which means primarily ‘to recite.’</Comments>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>05900501500006</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+        <LEXMeaning Id="002184001002000" IsBiblicalTerm="M" EntryCode="33.469" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Communication</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Swear, Put Under Oath, Vow</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-07-14 10:01:07" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>a promise to God that one will do something, with the implication that failure to act accordingly will result in divine sanctions against the person in question</DefinitionShort>
+              <Glosses>
+                <Gloss>vow</Gloss>
+              </Glosses>
+              <Comments>It may, however, be necessary in some languages to be somewhat more specific in rendering ‘vow,’ so that one may need to translate this expression in {S:04402102300022} as ‘there are four men here who have promised God that they will do something.’</Comments>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04401801800056</LEXReference>
+            <LEXReference>04402102300022</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

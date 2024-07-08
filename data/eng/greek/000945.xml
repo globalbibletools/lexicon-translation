@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="000945000000000" Lemma="βέβαιος" Version="0" HasAramaic="false" InLXX="true" AlphaPos="β">
+  <StrongCodes>
+    <Strong>G0949</Strong>
+  </StrongCodes>
+  <Authors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes>
+    <Note Caller="1" LanguageCode="en" LastEdited="" LastEditedBy="">
+      <References/>
+      <Content>The meanings of βέβαιος[c] ({D:28.43}), βεβαιόω[b] and βεβαίωσις ({D:28.44}) involve two quite distinct sets of semantic features. There is the obvious element of that which is confirmed, verified, and true (meanings which could be classified in Domain 72 True, False) as well as the process of making such information known. These meanings could therefore be treated in either domain.</Content>
+    </Note>
+  </Notes>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="000945001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>adjc.</PartOfSpeech>
+      </PartsOfSpeech>
+      <Inflections>
+        <Inflection Lemma="βέβαιος" BaseFormIndex="1">
+          <Form/>
+          <Realizations>
+            <Realization>-α, -ον</Realization>
+          </Realizations>
+          <Comments/>
+        </Inflection>
+      </Inflections>
+      <RelatedLemmas>
+        <RelatedLemma>
+          <Word>βεβαιόω</Word>
+        </RelatedLemma>
+      </RelatedLemmas>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="000945001001000" IsBiblicalTerm="Y" EntryCode="71.15" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Mode</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Certain, Uncertain</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-02-05 10:25:40" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>pertaining to being certain, on the basis of being well established</DefinitionShort>
+              <Glosses>
+                <Gloss>certain</Gloss>
+                <Gloss>sure</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04500401600022</LEXReference>
+            <LEXReference>05800301400026</LEXReference>
+            <LEXReference>05800901700010</LEXReference>
+            <LEXReference>06100101000010</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+        <LEXMeaning Id="000945001002000" IsBiblicalTerm="M" EntryCode="31.90" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Hold a View, Believe, Trust</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Trust, Rely</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-02-05 10:25:40" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>pertaining to being able to be relied on or depended on</DefinitionShort>
+              <Glosses>
+                <Gloss>dependable</Gloss>
+                <Gloss>reliable</Gloss>
+                <Gloss>trustworthy</Gloss>
+              </Glosses>
+              <Comments>For another interpretation of βέβαιος in {S:05800200200018}, see βέβαιος[c] {D:28.43}.</Comments>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04700100700010</LEXReference>
+            <LEXReference>05800200200018</LEXReference>
+            <LEXReference>05800301400026</LEXReference>
+            <LEXReference>05800601900020</LEXReference>
+            <LEXReference>06100101900006</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+        <LEXMeaning Id="000945001003000" IsBiblicalTerm="Y" EntryCode="28.43" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Know</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Well Known, Clearly Shown, Revealed</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-02-05 10:25:40" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>pertaining to that which is known with certainty{N:001}</DefinitionShort>
+              <Glosses>
+                <Gloss>known to be true</Gloss>
+                <Gloss>certain</Gloss>
+                <Gloss>verified</Gloss>
+              </Glosses>
+              <Comments>For another interpretation of βέβαιος in {S:05800200200018}, see βέβαιος[b] {D:31.90}.</Comments>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>05800200200018</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

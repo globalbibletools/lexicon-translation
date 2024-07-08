@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="002020000000000" Lemma="זְעֵיר" Version="5" HasAramaic="true" InLXX="false" AlphaPos="ז">
+  <StrongCodes>
+    <Strong>H2191</Strong>
+    <Strong>A2192</Strong>
+  </StrongCodes>
+  <Authors>
+    <Author>Reinier de Blois</Author>
+  </Authors>
+  <Contributors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes/>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="002020001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>nsm</PartOfSpeech>
+      </PartsOfSpeech>
+      <RelatedLemmas>
+        <RelatedLemma>
+          <Word>מִזְעָר</Word>
+        </RelatedLemma>
+      </RelatedLemmas>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="002020001001000" IsBiblicalTerm="Y" EntryCode="" Indent="0">
+          <LEXDomains>
+            <LEXDomain Code="002001001035">Little</LEXDomain>
+          </LEXDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2020-08-10 09:10:36" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>= state in which an object is relatively small in size</DefinitionShort>
+              <Glosses>
+                <Gloss>little</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>02700700800018</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+        <LEXMeaning Id="002020001002000" IsBiblicalTerm="Y" EntryCode="" Indent="0">
+          <LEXDomains>
+            <LEXDomain Code="002001003009">Frequency</LEXDomain>
+          </LEXDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2015-07-28 13:30:34" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>= state in which an event is limited as far as duration, quantity, and/or intensity are concerned</DefinitionShort>
+              <Glosses>
+                <Gloss>little</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>01803600200006</LEXReference>
+            <LEXReference>02302801000028</LEXReference>
+            <LEXReference>02302801000032</LEXReference>
+            <LEXReference>02302801300036</LEXReference>
+            <LEXReference>02302801300040</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

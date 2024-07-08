@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="003670000000000" Lemma="מַבְלִיגִית" Version="5" HasAramaic="false" InLXX="false" AlphaPos="מ">
+  <StrongCodes>
+    <Strong>H4010</Strong>
+  </StrongCodes>
+  <Authors>
+    <Author>Reinier de Blois</Author>
+  </Authors>
+  <Contributors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes>
+    <Note Caller="1" LanguageCode="en" LastEdited="" LastEditedBy="">
+      <References>
+        <Reference>02400801800002</Reference>
+      </References>
+      <Content>{A:MT} {A:HOTTP}-C Aq {A:NIV} {A:NJPS} |gμεδíαμα μου|g* "my smile" (= "my comfort") V {A:CEV} dolor meus "my sorrow" (following Aq but understanding "smile" as "contorted face") | {A:OG} {A:RSV} {A:NJB} {A:NRSV} {A:REB} {A:GNT} |gἀνιάτος|g* = מִבְּלִי גֵהַת "incurable" | Symm T |gχλευάζεις μέ|g* "you scoff at me" | Th |gδιὰ τὸ μὴ εἶναι ὕβριν|g* "because of the absence of pride" (De Waard 2003)</Content>
+    </Note>
+  </Notes>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="003670001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>nsf</PartOfSpeech>
+      </PartsOfSpeech>
+      <RelatedLemmas>
+        <RelatedLemma>
+          <Word>בלג</Word>
+        </RelatedLemma>
+      </RelatedLemmas>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="003670001001000" IsBiblicalTerm="Y" EntryCode="" Indent="0">
+          <LEXDomains>
+            <LEXDomain Code="002001001058">Stance</LEXDomain>
+          </LEXDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2013-11-17 20:03:34" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>= distortion of the face ► expressing pain and suffering</DefinitionShort>
+              <Glosses>
+                <Gloss>grimace</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>02400801800002{N:001}</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+          <LEXCoreDomains>
+            <LEXCoreDomain Code="019">Body</LEXCoreDomain>
+          </LEXCoreDomains>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

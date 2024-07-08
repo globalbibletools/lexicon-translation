@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="004837000000000" Lemma="συντέμνω" Version="0" HasAramaic="false" InLXX="true" AlphaPos="σ">
+  <StrongCodes>
+    <Strong>G4932</Strong>
+  </StrongCodes>
+  <Authors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes/>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="004837001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>verb</PartOfSpeech>
+      </PartsOfSpeech>
+      <Inflections>
+        <Inflection Lemma="συντέμνω" BaseFormIndex="1">
+          <Form>pf.ptc.</Form>
+          <Realizations>
+            <Realization>συντετμημένος</Realization>
+          </Realizations>
+          <Comments/>
+        </Inflection>
+      </Inflections>
+      <RelatedLemmas>
+        <RelatedLemma>
+          <Word>τομός</Word>
+        </RelatedLemma>
+      </RelatedLemmas>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="004837001001000" IsBiblicalTerm="Y" EntryCode="67.72" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Time</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>A Point of Time with Reference to Duration of Time: Beginning, End</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2022-03-15 11:17:06" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>to cause a duration to come to an abrupt end, with the implication of sooner than expected</DefinitionShort>
+              <Glosses>
+                <Gloss>to cut short</Gloss>
+                <Gloss>to shorten</Gloss>
+                <Gloss>to bring to an end</Gloss>
+              </Glosses>
+              <Comments>There are a number of different opinions with regard to the meaning of συντέμνω in {S:04500902800010}. Translators are accordingly encouraged to consult commentaries and to provide for significantly different interpretations in translations.</Comments>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04500902800010</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

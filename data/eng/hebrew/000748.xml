@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="000748000000000" Lemma="אֶשְׁכֹּול" Version="5" HasAramaic="false" InLXX="false" AlphaPos="א">
+  <StrongCodes>
+    <Strong>H0811</Strong>
+    <Strong>H0812</Strong>
+  </StrongCodes>
+  <Authors>
+    <Author>Reinier de Blois</Author>
+  </Authors>
+  <Contributors/>
+  <AlternateLemmas>
+    <AlternateLemma>אֶשְׁכֹּל</AlternateLemma>
+  </AlternateLemmas>
+  <MainLinks/>
+  <Notes/>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="000748001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>nsm</PartOfSpeech>
+      </PartsOfSpeech>
+      <RelatedLemmas>
+        <RelatedLemma>
+          <Word>שׁכל</Word>
+        </RelatedLemma>
+      </RelatedLemmas>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="000748001001000" IsBiblicalTerm="Y" EntryCode="" Indent="0">
+          <LEXDomains>
+            <LEXDomain Code="001003001">Plants</LEXDomain>
+          </LEXDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2016-02-18 16:05:31" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>= group of flowers or fruits positioned on one stem</DefinitionShort>
+              <Glosses>
+                <Gloss>cluster</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>00104001000028</LEXReference>
+            <LEXReference>00401302300024</LEXReference>
+            <LEXReference>00401302400024</LEXReference>
+            <LEXReference>00503203200026</LEXReference>
+            <LEXReference>02200101400002</LEXReference>
+            <LEXReference>02200700800018</LEXReference>
+            <LEXReference>02200700900026</LEXReference>
+            <LEXReference>02306500800022</LEXReference>
+            <LEXReference>03300700100024</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+          <LEXCoreDomains>
+            <LEXCoreDomain Code="125">Plant</LEXCoreDomain>
+          </LEXCoreDomains>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+    <BaseForm Id="000748002000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>np</PartOfSpeech>
+      </PartsOfSpeech>
+      <MeaningsOfName>
+        <MeaningOfName LanguageCode="en">
+          <Meaning>cluster</Meaning>
+        </MeaningOfName>
+        <MeaningOfName LanguageCode="pt">
+          <Meaning>cacho</Meaning>
+        </MeaningOfName>
+      </MeaningsOfName>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="000748002001000" IsBiblicalTerm="Y" EntryCode="" Indent="0">
+          <LEXDomains>
+            <LEXDomain Code="003001007">Names of People</LEXDomain>
+          </LEXDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2016-02-18 16:05:31" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>= man; ◄ {L:Amorite&lt;SDBH:אֱמֹרִי&gt;}; brother of {L:Mamre&lt;SDBH:מַמְרֵא&gt;} and {L:Aner&lt;SDBH:עָנֵר&gt;}; ► ally of {L:Abram&lt;SDBH:אַבְרָם&gt;}</DefinitionShort>
+              <Glosses>
+                <Gloss>Eshcol</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>00101401300040</LEXReference>
+            <LEXReference>00101402400030</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+        <LEXMeaning Id="000748002002000" IsBiblicalTerm="Y" EntryCode="" Indent="0">
+          <LEXDomains>
+            <LEXDomain Code="003001008">Names of Landforms</LEXDomain>
+          </LEXDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2016-02-18 16:05:31" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>= valley; ◄ located near {L:Hebron&lt;SDBH:חֶבְרֹון&gt;}; ► where Israelite spies cut off a large cluster of grapes</DefinitionShort>
+              <Glosses>
+                <Gloss>Eshcol</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>00401302300010</LEXReference>
+            <LEXReference>00401302400016</LEXReference>
+            <LEXReference>00403200900010</LEXReference>
+            <LEXReference>00500102400022</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

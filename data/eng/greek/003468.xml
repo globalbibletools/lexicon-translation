@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="003468000000000" Lemma="νύμφη" Version="0" HasAramaic="false" InLXX="true" AlphaPos="ν">
+  <StrongCodes>
+    <Strong>G3565</Strong>
+  </StrongCodes>
+  <Authors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes/>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="003468001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>noun, f.</PartOfSpeech>
+      </PartsOfSpeech>
+      <Inflections>
+        <Inflection Lemma="νύμφη" BaseFormIndex="1">
+          <Form/>
+          <Realizations>
+            <Realization>-ης</Realization>
+          </Realizations>
+          <Comments/>
+        </Inflection>
+      </Inflections>
+      <RelatedLemmas>
+        <RelatedLemma>
+          <Word>νυμφίος</Word>
+        </RelatedLemma>
+        <RelatedLemma>
+          <Word>νυμφών</Word>
+        </RelatedLemma>
+      </RelatedLemmas>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="003468001001000" IsBiblicalTerm="M" EntryCode="10.57" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Kinship Terms</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Kinship Relations Based upon Marriage</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-12-11 12:28:26" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>a woman who is about to be married or who has just been married</DefinitionShort>
+              <Glosses>
+                <Gloss>bride</Gloss>
+              </Glosses>
+              <Comments>As in the case of ‘bridegroom’ ({D:10.56}), it may be necessary in some languages to indicate with ‘bride’ whether the person has just been married or is about to be married.</Comments>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04300302900008</LEXReference>
+            <LEXReference>06601802300028</LEXReference>
+            <LEXReference>06602100200036</LEXReference>
+            <LEXReference>06602100900058</LEXReference>
+            <LEXReference>06602201700012</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+        <LEXMeaning Id="003468001002000" IsBiblicalTerm="Y" EntryCode="10.60" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Kinship Terms</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Kinship Relations Based upon Marriage</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-12-11 12:28:26" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>the wife of one’s son</DefinitionShort>
+              <Glosses>
+                <Gloss>daughter-in-law</Gloss>
+              </Glosses>
+              <Comments>For languages which do not have specific terms for ‘mother- in-law’ and ‘daughter-in-law’ it may be possible to render {S:04201205300048} by translating ‘women will be against the wives of their sons, and young women will be against the mothers of their husbands.’</Comments>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04001003500032</LEXReference>
+            <LEXReference>04201205300042</LEXReference>
+            <LEXReference>04201205300048</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="005224000000000" Lemma="φάρμακος" Version="0" HasAramaic="false" InLXX="false" AlphaPos="φ">
+  <StrongCodes>
+    <Strong>G5333</Strong>
+  </StrongCodes>
+  <Authors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes/>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="005224001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>noun, m.</PartOfSpeech>
+      </PartsOfSpeech>
+      <Inflections>
+        <Inflection Lemma="φάρμακος" BaseFormIndex="1">
+          <Form/>
+          <Realizations>
+            <Realization>-ου</Realization>
+          </Realizations>
+          <Comments/>
+        </Inflection>
+      </Inflections>
+      <RelatedLemmas>
+        <RelatedLemma>
+          <Word>φαρμακεία</Word>
+        </RelatedLemma>
+        <RelatedLemma>
+          <Word>φάρμακον</Word>
+        </RelatedLemma>
+      </RelatedLemmas>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="005224001001000" IsBiblicalTerm="M" EntryCode="53.101" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Religious Activities</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Magic</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2022-05-09 08:01:29" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>(derivative of {L:φαρμακεία&lt;SDBG:φαρμακεία:000000&gt;} ‘to practice magic, to engage in sorcery,’ {D:53.100}) one who uses magic and sorcery</DefinitionShort>
+              <Glosses>
+                <Gloss>sorcerer</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>06602100800026</LEXReference>
+            <LEXReference>06602201500012</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

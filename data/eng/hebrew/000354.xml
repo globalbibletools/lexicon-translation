@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="000354000000000" Lemma="אֵיפֹה" Version="5" HasAramaic="false" InLXX="false" AlphaPos="א">
+  <StrongCodes>
+    <Strong>H0375</Strong>
+  </StrongCodes>
+  <Authors>
+    <Author>Reinier de Blois</Author>
+  </Authors>
+  <Contributors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes>
+    <Note Caller="1" LanguageCode="en" LastEdited="" LastEditedBy="">
+      <References>
+        <Reference>00700801800016</Reference>
+      </References>
+      <Content>{A:MT} {A:HOTTP}-B {A:RSV} {A:NRSV} {A:GNT} CEV | {A:NIV} {A:NJPS} {A:NJB} {A:REB} {L:אֵיךְ&lt;SDBH:אֵיךְ&gt;}</Content>
+    </Note>
+  </Notes>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="000354001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>ir</PartOfSpeech>
+      </PartsOfSpeech>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="000354001001000" IsBiblicalTerm="Y" EntryCode="" Indent="0">
+          <LEXDomains>
+            <LEXDomain Code="003002004">Spatial Referents</LEXDomain>
+          </LEXDomains>
+          <LEXForms>
+            <LEXForm>question</LEXForm>
+            <LEXForm>word</LEXForm>
+          </LEXForms>
+          <LEXSynonyms>
+            <LEXSynonym>אָן</LEXSynonym>
+          </LEXSynonyms>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2009-02-26 09:05:36" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>= referent to an unknown location; ► normally used with the purpose of finding which location that is; sometimes used in rhetorical questions expressing one's conviction that such a location cannot be found</DefinitionShort>
+              <Glosses>
+                <Gloss>where?</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>00103701600020</LEXReference>
+            <LEXReference>00700801800016{N:001}</LEXReference>
+            <LEXReference>00800201900010</LEXReference>
+            <LEXReference>00901902200042</LEXReference>
+            <LEXReference>01000900400012</LEXReference>
+            <LEXReference>01800400700016</LEXReference>
+            <LEXReference>01803800400002</LEXReference>
+            <LEXReference>02304902100056</LEXReference>
+            <LEXReference>02400300200014</LEXReference>
+            <LEXReference>02403601900032</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

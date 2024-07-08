@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="004313000000000" Lemma="πρωτοκλισία" Version="0" HasAramaic="false" InLXX="false" AlphaPos="π">
+  <StrongCodes>
+    <Strong>G4411</Strong>
+  </StrongCodes>
+  <Authors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes/>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="004313001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>noun, f.</PartOfSpeech>
+      </PartsOfSpeech>
+      <Inflections>
+        <Inflection Lemma="πρωτοκλισία" BaseFormIndex="1">
+          <Form/>
+          <Realizations>
+            <Realization>-ας</Realization>
+          </Realizations>
+          <Comments/>
+        </Inflection>
+      </Inflections>
+      <Constructs>
+        <Construct Lemma="πρωτοκλισία" BaseFormIndex="1">
+          <WordMeaningSet>
+            <Word>πρωτεύω</Word>
+          </WordMeaningSet>
+          <WordMeaningSet>
+            <Word>κλίνω</Word>
+          </WordMeaningSet>
+        </Construct>
+      </Constructs>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="004313001001000" IsBiblicalTerm="Y" EntryCode="87.18" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Status</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Honor or Respect in Relation to Status</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2022-02-07 13:22:42" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>a position or place of particular importance, implying special status to the person occupying it</DefinitionShort>
+              <Glosses>
+                <Gloss>place of honor</Gloss>
+                <Gloss>seat of honor</Gloss>
+                <Gloss>best seat</Gloss>
+                <Gloss>best place</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04002300600008</LEXReference>
+            <LEXReference>04101203900014</LEXReference>
+            <LEXReference>04201400700020</LEXReference>
+            <LEXReference>04201400800022</LEXReference>
+            <LEXReference>04202004600044</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

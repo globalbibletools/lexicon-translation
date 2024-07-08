@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="002815000000000" Lemma="κλάσμα" Version="0" HasAramaic="false" InLXX="true" AlphaPos="κ">
+  <StrongCodes>
+    <Strong>G2801</Strong>
+  </StrongCodes>
+  <Authors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes/>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="002815001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>noun, n.</PartOfSpeech>
+      </PartsOfSpeech>
+      <Inflections>
+        <Inflection Lemma="κλάσμα" BaseFormIndex="1">
+          <Form/>
+          <Realizations>
+            <Realization>-τος</Realization>
+          </Realizations>
+          <Comments/>
+        </Inflection>
+      </Inflections>
+      <RelatedLemmas>
+        <RelatedLemma>
+          <Word>κλάω</Word>
+        </RelatedLemma>
+      </RelatedLemmas>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="002815001001000" IsBiblicalTerm="Y" EntryCode="19.40" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Physical Impact</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Break, Break Through</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-11-16 15:11:14" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>(derivative of {L:κλάω&lt;SDBG:κλάω:000000&gt;} ‘to break,’ {D:19.34}) a fragment or piece resulting from the action of breaking</DefinitionShort>
+              <Glosses>
+                <Gloss>fragment</Gloss>
+                <Gloss>piece</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04001402000022</LEXReference>
+            <LEXReference>04001503700020</LEXReference>
+            <LEXReference>04100604300006</LEXReference>
+            <LEXReference>04100800800016</LEXReference>
+            <LEXReference>04100801900022</LEXReference>
+            <LEXReference>04100802000020</LEXReference>
+            <LEXReference>04200901700022</LEXReference>
+            <LEXReference>04300601200022</LEXReference>
+            <LEXReference>04300601300014</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

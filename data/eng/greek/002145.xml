@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="002145000000000" Lemma="εὔνοια" Version="0" HasAramaic="false" InLXX="true" AlphaPos="ε">
+  <StrongCodes>
+    <Strong>G2133</Strong>
+  </StrongCodes>
+  <Authors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes/>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="002145001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>noun, f.</PartOfSpeech>
+      </PartsOfSpeech>
+      <Inflections>
+        <Inflection Lemma="εὔνοια" BaseFormIndex="1">
+          <Form/>
+          <Realizations>
+            <Realization>-ας</Realization>
+          </Realizations>
+          <Comments/>
+        </Inflection>
+      </Inflections>
+      <RelatedLemmas>
+        <RelatedLemma>
+          <Word>νόος</Word>
+          <Meaning LanguageCode="en">
+            <Meaning>mind, thought</Meaning>
+          </Meaning>
+          <Meaning LanguageCode="zhT">
+            <Meaning>心思，念頭</Meaning>
+          </Meaning>
+        </RelatedLemma>
+        <RelatedLemma>
+          <Word>νοέω</Word>
+        </RelatedLemma>
+      </RelatedLemmas>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="002145001001000" IsBiblicalTerm="M" EntryCode="25.72" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Attitudes and Emotions</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Be Eager, Be Earnest, In a Devoted Manner</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-07-09 17:46:26" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>a state of zeal based upon a desire to be involved in some activity or state</DefinitionShort>
+              <Glosses>
+                <Gloss>zeal</Gloss>
+                <Gloss>eagerness</Gloss>
+                <Gloss>wholeheartedness</Gloss>
+              </Glosses>
+              <Comments>An equivalent of ‘serve wholeheartedly’ ({S:04900600700004}) may be expressed in some languages as ‘serve because you really want to’ or ‘serve because that is what you really desire to do.’</Comments>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04900600700004</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

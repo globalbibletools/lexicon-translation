@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="005410000000000" Lemma="χορτάζω" Version="0" HasAramaic="false" InLXX="true" AlphaPos="χ">
+  <StrongCodes>
+    <Strong>G5526</Strong>
+  </StrongCodes>
+  <Authors/>
+  <AlternateLemmas>
+    <AlternateLemma>χορτάζομαι</AlternateLemma>
+  </AlternateLemmas>
+  <MainLinks/>
+  <Notes/>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="005410001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>verb</PartOfSpeech>
+      </PartsOfSpeech>
+      <RelatedLemmas>
+        <RelatedLemma>
+          <Word>χόρτασμα</Word>
+        </RelatedLemma>
+        <RelatedLemma>
+          <Word>χόρτος</Word>
+        </RelatedLemma>
+      </RelatedLemmas>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="005410001001000" IsBiblicalTerm="Y" EntryCode="23.16" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Physiological Processes and States</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Eat, Drink</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2022-06-01 17:01:13" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>to cause to eat so as to become satisfied</DefinitionShort>
+              <Glosses>
+                <Gloss>to cause to eat one’s fill</Gloss>
+                <Gloss>to satisfy with food</Gloss>
+              </Glosses>
+              <Comments>In some languages one may translate χορτάζω in {S:04001503300026} as ‘to cause to have as much as they wanted’ or ‘to give them food so that they didn’t want any more.’|In {S:04000500600020} (ὅτι αὐτοὶ χορτασθήσονται ‘because they will be satisfied’) the occurrence of χορτάζω should be interpreted as figurative, for it does not have specific reference to being satisfied with food (see {D:25.82}).</Comments>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04001402000010</LEXReference>
+            <LEXReference>04001503300026</LEXReference>
+            <LEXReference>04001503700010</LEXReference>
+            <LEXReference>04100800400026</LEXReference>
+            <LEXReference>04200901700008</LEXReference>
+            <LEXReference>05000401200028</LEXReference>
+            <LEXReference>05900201600024</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+        <LEXMeaning Id="005410001002000" IsBiblicalTerm="Y" EntryCode="23.15" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Physiological Processes and States</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Eat, Drink</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXForms>
+            <LEXForm>χορτάζομαι[a]</LEXForm>
+          </LEXForms>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2022-06-01 17:01:13" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>to eat, resulting in a state of being satisfied</DefinitionShort>
+              <Glosses>
+                <Gloss>to eat one’s fill</Gloss>
+              </Glosses>
+              <Comments>One may render ‘were satisfied’ as ‘had all you wanted to eat’ or ‘did not want to eat any more.’</Comments>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04100604200010</LEXReference>
+            <LEXReference>04100702700012</LEXReference>
+            <LEXReference>04100800800008</LEXReference>
+            <LEXReference>04201501600006</LEXReference>
+            <LEXReference>04201602100006</LEXReference>
+            <LEXReference>04300602600048</LEXReference>
+            <LEXReference>06601902100046</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+        <LEXMeaning Id="005410001003000" IsBiblicalTerm="Y" EntryCode="25.82" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Attitudes and Emotions</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Content, Satisfied</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXForms>
+            <LEXForm>χορτάζομαι[b]</LEXForm>
+          </LEXForms>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2022-06-01 17:01:13" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>(a figurative extension of meaning of χορτάζομαι[a] ‘to eat one’s fill,’ {D:23.15}) to be satisfied or content with some object or state</DefinitionShort>
+              <Glosses>
+                <Gloss>to be satisfied</Gloss>
+                <Gloss>to be content with</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04000500600020</LEXReference>
+            <LEXReference>04200602100012</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

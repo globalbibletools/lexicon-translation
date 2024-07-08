@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="004434000000000" Lemma="Σαλήμ" Version="0" HasAramaic="false" InLXX="false" AlphaPos="σ">
+  <StrongCodes>
+    <Strong>G4532</Strong>
+  </StrongCodes>
+  <Authors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes/>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="004434001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>noun-name, f.</PartOfSpeech>
+      </PartsOfSpeech>
+      <Inflections>
+        <Inflection Lemma="Σαλήμ" BaseFormIndex="1">
+          <Form/>
+          <Realizations/>
+          <Comments>
+            <Comment LanguageCode="en">
+              <Meaning>indeclinable</Meaning>
+            </Comment>
+            <Comment LanguageCode="zhT">
+              <Meaning>無語尾變化</Meaning>
+            </Comment>
+          </Comments>
+        </Inflection>
+      </Inflections>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="004434001001000" IsBiblicalTerm="Y" EntryCode="93.566" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Names of Persons and Places</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Places</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2022-02-09 12:12:40" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>a place of which Melchizedek was king; see also {D:93.321}</DefinitionShort>
+              <Glosses>
+                <Gloss>Salem</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>05800700100012</LEXReference>
+            <LEXReference>05800700200034</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+        <LEXMeaning Id="004434001002000" IsBiblicalTerm="Y" EntryCode="93.321" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Names of Persons and Places</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Persons</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXCollocations>
+            <LEXCollocation>βασιλεὺς Σαλήμ</LEXCollocation>
+          </LEXCollocations>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2022-02-09 12:12:40" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>the expression βασιλεὺς Σαλήμ ‘king of Salem’ ({S:05800700100012 05800700200034} may be interpreted as ‘king of peace,’ and as such it may be regarded as an honorific name.</DefinitionShort>
+              <Glosses>
+                <Gloss>king of Salem</Gloss>
+              </Glosses>
+              <Comments>It is also possible that {L:Σαλήμ&lt;SDBG:Σαλήμ:000000&gt;} refers to a place (see {D:93.566}).</Comments>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>05800700100012</LEXReference>
+            <LEXReference>05800700200034</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

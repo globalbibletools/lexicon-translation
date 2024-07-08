@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="001516000000000" Lemma="εἰδωλολάτρης" Version="0" HasAramaic="false" InLXX="false" AlphaPos="ε">
+  <StrongCodes>
+    <Strong>G1496</Strong>
+  </StrongCodes>
+  <Authors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes/>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="001516001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>noun, m.</PartOfSpeech>
+      </PartsOfSpeech>
+      <Inflections>
+        <Inflection Lemma="εἰδωλολάτρης" BaseFormIndex="1">
+          <Form/>
+          <Realizations>
+            <Realization>-ου</Realization>
+          </Realizations>
+          <Comments/>
+        </Inflection>
+      </Inflections>
+      <Constructs>
+        <Construct Lemma="εἰδωλολάτρης" BaseFormIndex="1">
+          <WordMeaningSet>
+            <Word>εἶδος</Word>
+          </WordMeaningSet>
+          <WordMeaningSet>
+            <Word>λατρεύω</Word>
+          </WordMeaningSet>
+        </Construct>
+      </Constructs>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="001516001001000" IsBiblicalTerm="Y" EntryCode="53.64" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Religious Activities</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Worship, Reverence</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-10-27 01:44:35" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>a person who worships idols</DefinitionShort>
+              <Glosses>
+                <Gloss>idolater</Gloss>
+                <Gloss>worshiper of idols</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04600501000028</LEXReference>
+            <LEXReference>04600501100032</LEXReference>
+            <LEXReference>04600600900030</LEXReference>
+            <LEXReference>04601000700004</LEXReference>
+            <LEXReference>04900500500028</LEXReference>
+            <LEXReference>06602100800030</LEXReference>
+            <LEXReference>06602201500030</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

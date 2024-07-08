@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="002240000000000" Lemma="ζῳοποιέω" Version="0" HasAramaic="false" InLXX="false" AlphaPos="ζ">
+  <StrongCodes>
+    <Strong>G2227</Strong>
+  </StrongCodes>
+  <Authors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes/>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="002240001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>verb</PartOfSpeech>
+      </PartsOfSpeech>
+      <Constructs>
+        <Construct Lemma="ζῳοποιέω" BaseFormIndex="1">
+          <WordMeaningSet>
+            <Word>ζάω</Word>
+          </WordMeaningSet>
+          <WordMeaningSet>
+            <Word>ποιέω</Word>
+          </WordMeaningSet>
+        </Construct>
+      </Constructs>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="002240001001000" IsBiblicalTerm="Y" EntryCode="23.92" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Physiological Processes and States</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Live, Die</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-07-22 10:25:52" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>to cause to live</DefinitionShort>
+              <Glosses>
+                <Gloss>to give life to</Gloss>
+                <Gloss>to make live</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04300502100018</LEXReference>
+            <LEXReference>04300502100032</LEXReference>
+            <LEXReference>04300606300010</LEXReference>
+            <LEXReference>04500401700028</LEXReference>
+            <LEXReference>04500801100038</LEXReference>
+            <LEXReference>04601502200028</LEXReference>
+            <LEXReference>04601503600012</LEXReference>
+            <LEXReference>04601504500034</LEXReference>
+            <LEXReference>04700300600038</LEXReference>
+            <LEXReference>04800302100034</LEXReference>
+            <LEXReference>06000301800038</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

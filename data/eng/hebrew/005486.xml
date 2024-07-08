@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="005486000000000" Lemma="עֹמֶד" Version="4" HasAramaic="false" InLXX="false" AlphaPos="ע">
+  <StrongCodes>
+    <Strong>H5977</Strong>
+  </StrongCodes>
+  <Authors>
+    <Author>Reinier de Blois</Author>
+  </Authors>
+  <Contributors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes/>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="005486001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>nsm</PartOfSpeech>
+      </PartsOfSpeech>
+      <RelatedLemmas>
+        <RelatedLemma>
+          <Word>עמד</Word>
+        </RelatedLemma>
+      </RelatedLemmas>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="005486001001000" IsBiblicalTerm="Y" EntryCode="" Indent="0">
+          <LEXDomains>
+            <LEXDomain Code="002002001016" Source="Stance" SourceCode="002001001058">Space</LEXDomain>
+          </LEXDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2022-10-18 08:10:46" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>literally: standing; hence: = a place where humans stand, either by choice or by assignment</DefinitionShort>
+              <Glosses>
+                <Gloss>place</Gloss>
+                <Gloss>position</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>01403001600008</LEXReference>
+            <LEXReference>01403403100012</LEXReference>
+            <LEXReference>01403501000020</LEXReference>
+            <LEXReference>01600800700062</LEXReference>
+            <LEXReference>01600900300008</LEXReference>
+            <LEXReference>01601301100036</LEXReference>
+            <LEXReference>02700801700008</LEXReference>
+            <LEXReference>02700801800030</LEXReference>
+            <LEXReference>02701001100036</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+          <LEXCoreDomains>
+            <LEXCoreDomain Code="145">Responsibility</LEXCoreDomain>
+            <LEXCoreDomain Code="200">Work</LEXCoreDomain>
+          </LEXCoreDomains>
+        </LEXMeaning>
+        <LEXMeaning Id="005486001002000" IsBiblicalTerm="Y" EntryCode="" Indent="0">
+          <LEXDomains>
+            <LEXDomain Code="002001001060" Source="Space" SourceCode="002002001016">Strong</LEXDomain>
+          </LEXDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2022-10-18 08:10:46" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>literally: standing; hence: = state in which supernatural beings rally and show their strength</DefinitionShort>
+              <Glosses>
+                <Gloss>(taking a) stand</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>02701100100020</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+          <LEXCoreDomains>
+            <LEXCoreDomain Code="172">Strength</LEXCoreDomain>
+          </LEXCoreDomains>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

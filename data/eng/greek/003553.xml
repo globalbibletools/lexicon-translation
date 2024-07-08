@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="003553000000000" Lemma="ὁλοκληρία" Version="0" HasAramaic="false" InLXX="false" AlphaPos="ο">
+  <StrongCodes>
+    <Strong>G3647</Strong>
+  </StrongCodes>
+  <Authors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes/>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="003553001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>noun, f.</PartOfSpeech>
+      </PartsOfSpeech>
+      <Inflections>
+        <Inflection Lemma="ὁλοκληρία" BaseFormIndex="1">
+          <Form/>
+          <Realizations>
+            <Realization>-ας</Realization>
+          </Realizations>
+          <Comments/>
+        </Inflection>
+      </Inflections>
+      <Constructs>
+        <Construct Lemma="ὁλοκληρία" BaseFormIndex="1">
+          <WordMeaningSet>
+            <Word>ὅλος</Word>
+          </WordMeaningSet>
+          <WordMeaningSet>
+            <Word>κληρόω</Word>
+          </WordMeaningSet>
+        </Construct>
+      </Constructs>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="003553001001000" IsBiblicalTerm="Y" EntryCode="23.131" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Physiological Processes and States</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Health, Vigor, Strength</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-12-13 20:08:15" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>a state of complete health or soundness in all parts of the body</DefinitionShort>
+              <Glosses>
+                <Gloss>complete health</Gloss>
+                <Gloss>perfect health</Gloss>
+              </Glosses>
+              <Comments>In some languages it may be possible to translate ὁλοκληρίαν as ‘very healthy’ or ‘all parts of his body are healthy’ or ‘… strong.’</Comments>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04400301600052</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

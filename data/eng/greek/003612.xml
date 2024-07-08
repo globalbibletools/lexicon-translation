@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="003612000000000" Lemma="ὅραμα" Version="0" HasAramaic="false" InLXX="true" AlphaPos="ο">
+  <StrongCodes>
+    <Strong>G3705</Strong>
+  </StrongCodes>
+  <Authors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes>
+    <Note Caller="1" LanguageCode="en" LastEdited="" LastEditedBy="">
+      <References/>
+      <Content>ὅραμα may also occur in the meaning of ‘vision,’ a type of non-verbal communication in {D:33.488}, Communication.</Content>
+    </Note>
+    <Note Caller="2" LanguageCode="en" LastEdited="" LastEditedBy="">
+      <References>
+        <Reference>04400703100014</Reference>
+      </References>
+      <Content>It may seem strange to have in the same expression ἰδών and τὸ ὅραμα, for these would seem to be redundant. However, this expression in {S:04400703100014} may be rendered as ‘as Moses looked, he was amazed by what he saw.’</Content>
+    </Note>
+  </Notes>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="003612001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>noun, n.</PartOfSpeech>
+      </PartsOfSpeech>
+      <Inflections>
+        <Inflection Lemma="ὅραμα" BaseFormIndex="1">
+          <Form/>
+          <Realizations>
+            <Realization>-τος</Realization>
+          </Realizations>
+          <Comments/>
+        </Inflection>
+      </Inflections>
+      <RelatedLemmas>
+        <RelatedLemma>
+          <Word>ὁράω</Word>
+        </RelatedLemma>
+      </RelatedLemmas>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="003612001001000" IsBiblicalTerm="Y" EntryCode="24.2" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Sensory Events and States</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>See</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-12-15 18:39:44" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>(derivative of {L:ὁράω&lt;SDBG:ὁράω:000000&gt;}[a] ‘to see,’ {D:24.1}) that which is seen{N:001}</DefinitionShort>
+              <Glosses>
+                <Gloss>something seen</Gloss>
+                <Gloss>sight</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04400703100014{N:002}</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+        <LEXMeaning Id="003612001002000" IsBiblicalTerm="M" EntryCode="33.488" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Communication</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Non-Verbal Communication</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-12-15 18:39:44" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>an event in which something appears vividly and credibly to the mind, although not actually present, but implying the influence of some divine or supernatural power or agency</DefinitionShort>
+              <Glosses>
+                <Gloss>vision</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04001700900030</LEXReference>
+            <LEXReference>04400901000028</LEXReference>
+            <LEXReference>04400901200010</LEXReference>
+            <LEXReference>04401000300006</LEXReference>
+            <LEXReference>04401001700024</LEXReference>
+            <LEXReference>04401001900014</LEXReference>
+            <LEXReference>04401100500022</LEXReference>
+            <LEXReference>04401200900034</LEXReference>
+            <LEXReference>04401600900004</LEXReference>
+            <LEXReference>04401601000008</LEXReference>
+            <LEXReference>04401800900016</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

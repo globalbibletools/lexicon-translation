@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="002808000000000" Lemma="κίνησις" Version="0" HasAramaic="false" InLXX="true" AlphaPos="κ">
+  <StrongCodes/>
+  <Authors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes/>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="002808001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>adjc.</PartOfSpeech>
+      </PartsOfSpeech>
+      <Inflections>
+        <Inflection Lemma="κίνησις" BaseFormIndex="1">
+          <Form/>
+          <Realizations>
+            <Realization>-εως</Realization>
+          </Realizations>
+          <Comments/>
+        </Inflection>
+      </Inflections>
+      <RelatedLemmas>
+        <RelatedLemma>
+          <Word>κινέω</Word>
+        </RelatedLemma>
+      </RelatedLemmas>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="002808001001000" IsBiblicalTerm="Y" EntryCode="16.1" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Non-Linear Movement</LEXDomain>
+          </LEXDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-10-08 11:33:37" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>the motion of a solid or mass, without indication of movement in space</DefinitionShort>
+              <Glosses>
+                <Gloss>to be in motion</Gloss>
+                <Gloss>to move</Gloss>
+                <Gloss>movement</Gloss>
+              </Glosses>
+              <Comments>This word is found as a variant reading only: ἐκδεχομένων τὴν τοῦ ὕδατος κίνησιν ‘waiting for the water to move’ {S:04300500300018} (apparatus).|In a number of languages it may be necessary to indicate clearly the kind of motion which would be implied in {S:04300500300018}. Perhaps the most satisfactory rendering would involve the kind of motion resulting from the bubbling up of water, but not with the implication of being caused by heat. It would be inappropriate to use a term meaning merely ‘to shake,’ since this might suggest an earthquake.</Comments>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04300500300018</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

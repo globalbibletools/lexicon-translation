@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="002782000000000" Lemma="κερδαίνω" Version="0" HasAramaic="false" InLXX="false" AlphaPos="κ">
+  <StrongCodes>
+    <Strong>G2770</Strong>
+  </StrongCodes>
+  <Authors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes>
+    <Note Caller="1" LanguageCode="en" LastEdited="" LastEditedBy="">
+      <References/>
+      <Content>κερδαίνω normally has the meaning of to gain or to make a profit (see κερδαίνω[a], {D:57.189}); however, the avoidance of a loss may also be regarded as a gain.</Content>
+    </Note>
+  </Notes>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="002782001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>verb</PartOfSpeech>
+      </PartsOfSpeech>
+      <Inflections>
+        <Inflection Lemma="κερδαίνω" BaseFormIndex="1">
+          <Form>fut.</Form>
+          <Realizations>
+            <Realization>κερδήσω</Realization>
+          </Realizations>
+          <Comments/>
+        </Inflection>
+        <Inflection Lemma="κερδαίνω" BaseFormIndex="1">
+          <Form>aor.</Form>
+          <Realizations>
+            <Realization>ἐκέρδησα</Realization>
+          </Realizations>
+          <Comments/>
+        </Inflection>
+        <Inflection Lemma="κερδαίνω" BaseFormIndex="1">
+          <Form>subj.</Form>
+          <Realizations>
+            <Realization>κερδήσω</Realization>
+            <Realization>κερδάνω</Realization>
+          </Realizations>
+          <Comments/>
+        </Inflection>
+        <Inflection Lemma="κερδαίνω" BaseFormIndex="1">
+          <Form>inf.</Form>
+          <Realizations>
+            <Realization>κερδῆσαι</Realization>
+          </Realizations>
+          <Comments/>
+        </Inflection>
+      </Inflections>
+      <RelatedLemmas>
+        <RelatedLemma>
+          <Word>αἰσχροκερδής</Word>
+        </RelatedLemma>
+        <RelatedLemma>
+          <Word>αἰσχροκερδῶς</Word>
+        </RelatedLemma>
+        <RelatedLemma>
+          <Word>κέρδος</Word>
+        </RelatedLemma>
+      </RelatedLemmas>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="002782001001000" IsBiblicalTerm="Y" EntryCode="57.189" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Possess, Transfer, Exchange</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Earn, Gain, Do Business</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-10-06 12:36:17" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>to gain by means of one’s activity or investment</DefinitionShort>
+              <Glosses>
+                <Gloss>to earn</Gloss>
+                <Gloss>to gain</Gloss>
+                <Gloss>to make a profit</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04001602600018</LEXReference>
+            <LEXReference>04001801500040</LEXReference>
+            <LEXReference>04002501600022</LEXReference>
+            <LEXReference>04002501700010</LEXReference>
+            <LEXReference>04002502000044</LEXReference>
+            <LEXReference>04002502200036</LEXReference>
+            <LEXReference>04100803600010</LEXReference>
+            <LEXReference>04200902500010</LEXReference>
+            <LEXReference>04600901900024</LEXReference>
+            <LEXReference>04600902000018</LEXReference>
+            <LEXReference>04600902000050</LEXReference>
+            <LEXReference>04600902100026</LEXReference>
+            <LEXReference>04600902200016</LEXReference>
+            <LEXReference>05000300800056</LEXReference>
+            <LEXReference>05900401300040</LEXReference>
+            <LEXReference>06000300100044</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+        <LEXMeaning Id="002782001002000" IsBiblicalTerm="Y" EntryCode="13.137" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Be, Become, Exist, Happen</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Happen</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-10-06 12:36:17" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>to cause a loss not to happen{N:001}</DefinitionShort>
+              <Glosses>
+                <Gloss>to avoid</Gloss>
+                <Gloss>to cause not to occur</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04402702100048</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

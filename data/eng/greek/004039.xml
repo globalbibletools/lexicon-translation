@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="004039000000000" Lemma="πληροφορία" Version="0" HasAramaic="false" InLXX="false" AlphaPos="π">
+  <StrongCodes>
+    <Strong>G4136</Strong>
+  </StrongCodes>
+  <Authors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes/>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="004039001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>noun, f.</PartOfSpeech>
+      </PartsOfSpeech>
+      <Inflections>
+        <Inflection Lemma="πληροφορία" BaseFormIndex="1">
+          <Form/>
+          <Realizations>
+            <Realization>-ας</Realization>
+          </Realizations>
+          <Comments/>
+        </Inflection>
+      </Inflections>
+      <Constructs>
+        <Construct Lemma="πληροφορία" BaseFormIndex="1">
+          <WordMeaningSet>
+            <Word>πληρόω</Word>
+          </WordMeaningSet>
+          <WordMeaningSet>
+            <Word>φέρω</Word>
+          </WordMeaningSet>
+        </Construct>
+      </Constructs>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="004039001001000" IsBiblicalTerm="Y" EntryCode="31.45" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Hold a View, Believe, Trust</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Believe To Be True</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2023-04-11 19:08:27" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>to be completely certain of the truth of something</DefinitionShort>
+              <Glosses>
+                <Gloss>to be absolutely sure</Gloss>
+                <Gloss>to be certain</Gloss>
+                <Gloss>complete certainty</Gloss>
+              </Glosses>
+              <Comments>The phrase ‘with complete certainty’ may be expressed in some languages as ‘you may surely believe it’ or ‘there is no reason at all for you to doubt.’</Comments>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>05100200200028</LEXReference>
+            <LEXReference>05200100500044</LEXReference>
+            <LEXReference>05800601100022</LEXReference>
+            <LEXReference>05801002200012</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

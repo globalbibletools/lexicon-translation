@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="000245000000000" Lemma="אָחוּ" Version="5" HasAramaic="false" InLXX="false" AlphaPos="א">
+  <StrongCodes>
+    <Strong>H0260</Strong>
+  </StrongCodes>
+  <Authors>
+    <Author>Reinier de Blois</Author>
+  </Authors>
+  <Contributors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes>
+    <Note Caller="1" LanguageCode="en" LastEdited="" LastEditedBy="">
+      <References>
+        <Reference>02801301500008</Reference>
+      </References>
+      <Content>{A:RSV} {A:NJPS} {A:NRSV} {A:GNT} | {A:MT} {A:HOTTP}-B {A:NIV} {A:NJB} {A:REB} {A:CEV} "brothers" = {L:אָח&lt;SDBH:אָח&gt;}</Content>
+    </Note>
+  </Notes>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="000245001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>nsm</PartOfSpeech>
+      </PartsOfSpeech>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="000245001001000" IsBiblicalTerm="M" EntryCode="" Indent="0">
+          <LEXDomains>
+            <LEXDomain Code="001003001">Plants</LEXDomain>
+          </LEXDomains>
+          <LEXSynonyms>
+            <LEXSynonym>גֹּמֶא</LEXSynonym>
+          </LEXSynonyms>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2016-02-27 11:00:28" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>= type of grass; ◄ found on the borders of the {L:Nile&lt;SDBH:יְאֹר&gt;}; ► eaten by cattle</DefinitionShort>
+              <Glosses>
+                <Gloss>reed grass</Gloss>
+                <Gloss>reeds</Gloss>
+                <Gloss>rushes</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>00104100200036</LEXReference>
+            <LEXReference>00104101800036</LEXReference>
+            <LEXReference>01800801100016</LEXReference>
+            <LEXReference>02801301500008{N:001}</LEXReference>
+          </LEXReferences>
+          <LEXLinks>
+            <LEXLink>Flora:5.1.2</LEXLink>
+          </LEXLinks>
+          <LEXVideos/>
+          <LEXCoreDomains>
+            <LEXCoreDomain Code="125">Plant</LEXCoreDomain>
+            <LEXCoreDomain Code="189">Water</LEXCoreDomain>
+          </LEXCoreDomains>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

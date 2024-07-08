@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="003957000000000" Lemma="περίσσευμα" Version="0" HasAramaic="false" InLXX="true" AlphaPos="π">
+  <StrongCodes>
+    <Strong>G4051</Strong>
+  </StrongCodes>
+  <Authors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes/>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="003957001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>noun, n.</PartOfSpeech>
+      </PartsOfSpeech>
+      <Inflections>
+        <Inflection Lemma="περίσσευμα" BaseFormIndex="1">
+          <Form/>
+          <Realizations>
+            <Realization>-τος</Realization>
+          </Realizations>
+          <Comments/>
+        </Inflection>
+      </Inflections>
+      <RelatedLemmas>
+        <RelatedLemma>
+          <Word>περισσεύω</Word>
+        </RelatedLemma>
+      </RelatedLemmas>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="003957001001000" IsBiblicalTerm="Y" EntryCode="59.53" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Quantity</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Abundance, Excess, Sparing</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-12-24 14:10:17" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>(derivative of {L:περισσεύω&lt;SDBG:περισσεύω:000000&gt;}[a] ‘to abound,’ {D:59.52}) that which exists in an abundance</DefinitionShort>
+              <Glosses>
+                <Gloss>abundance</Gloss>
+                <Gloss>a great deal of</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04001203400024</LEXReference>
+            <LEXReference>04100800800014</LEXReference>
+            <LEXReference>04200604500048</LEXReference>
+            <LEXReference>04700801400014</LEXReference>
+            <LEXReference>04700801400032</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

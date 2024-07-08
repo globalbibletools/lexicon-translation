@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="003979000000000" Lemma="πετρώδης" Version="0" HasAramaic="false" InLXX="false" AlphaPos="π">
+  <StrongCodes>
+    <Strong>G4075</Strong>
+  </StrongCodes>
+  <Authors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes/>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="003979001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>adjc.</PartOfSpeech>
+      </PartsOfSpeech>
+      <Inflections>
+        <Inflection Lemma="πετρώδης" BaseFormIndex="1">
+          <Form/>
+          <Realizations>
+            <Realization>-ες</Realization>
+          </Realizations>
+          <Comments/>
+        </Inflection>
+      </Inflections>
+      <RelatedLemmas>
+        <RelatedLemma>
+          <Word>πέτρα</Word>
+        </RelatedLemma>
+      </RelatedLemmas>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="003979001001000" IsBiblicalTerm="Y" EntryCode="2.22" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Natural Substances</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Earth, Mud, Sand, Rock</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-12-27 11:20:48" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>(derivative of {L:πέτρα&lt;SDBG:πέτρα:000000&gt;} ‘bedrock,’ {D:2.21}) a rocky substance or bedrock covered by a thin layer of earth</DefinitionShort>
+              <Glosses>
+                <Gloss>rocky ground</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04001300500012</LEXReference>
+            <LEXReference>04001302000010</LEXReference>
+            <LEXReference>04100400500012</LEXReference>
+            <LEXReference>04100401600014</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

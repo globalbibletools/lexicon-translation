@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="000840000000000" Lemma="αὐτόματος" Version="0" HasAramaic="false" InLXX="true" AlphaPos="α">
+  <StrongCodes>
+    <Strong>G0844</Strong>
+  </StrongCodes>
+  <Authors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes>
+    <Note Caller="1" LanguageCode="en" LastEdited="" LastEditedBy="">
+      <References/>
+      <Content>It is difficult to determine whether αὐτόματος focuses primarily upon an event taking place because of the action of an object itself or whether the implication is that there is no evident cause.</Content>
+    </Note>
+  </Notes>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="000840001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>adjc.</PartOfSpeech>
+      </PartsOfSpeech>
+      <Inflections>
+        <Inflection Lemma="αὐτόματος" BaseFormIndex="1">
+          <Form/>
+          <Realizations>
+            <Realization>-η, -ον</Realization>
+          </Realizations>
+          <Comments/>
+        </Inflection>
+      </Inflections>
+      <RelatedLemmas>
+        <RelatedLemma>
+          <Word>αὐτός</Word>
+        </RelatedLemma>
+      </RelatedLemmas>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="000840001001000" IsBiblicalTerm="Y" EntryCode="89.21" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Relations</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Cause and/or Reason</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-08-17 15:49:01" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>pertaining to being self-caused (or possibly, without evident cause){N:001}</DefinitionShort>
+              <Glosses>
+                <Gloss>without any cause</Gloss>
+                <Gloss>without something to cause it</Gloss>
+                <Gloss>by itself</Gloss>
+              </Glosses>
+              <Comments>In some languages one can only express ‘opened … by itself’ in {S:04401201000038} by ‘opened … nobody made it open.’</Comments>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04100402800002</LEXReference>
+            <LEXReference>04401201000038</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

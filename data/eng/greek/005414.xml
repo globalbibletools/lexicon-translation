@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="005414000000000" Lemma="χοῦς" Version="0" HasAramaic="false" InLXX="true" AlphaPos="χ">
+  <StrongCodes>
+    <Strong>G5522a</Strong>
+  </StrongCodes>
+  <Authors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes/>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="005414001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>noun, m.</PartOfSpeech>
+      </PartsOfSpeech>
+      <Inflections>
+        <Inflection Lemma="χοῦς" BaseFormIndex="1">
+          <Form/>
+          <Realizations>
+            <Realization>χοός</Realization>
+          </Realizations>
+          <Comments/>
+        </Inflection>
+        <Inflection Lemma="χοῦς" BaseFormIndex="1">
+          <Form>acc.</Form>
+          <Realizations>
+            <Realization>χοῦν</Realization>
+          </Realizations>
+          <Comments/>
+        </Inflection>
+      </Inflections>
+      <RelatedLemmas>
+        <RelatedLemma>
+          <Word>χέω</Word>
+          <Meaning LanguageCode="en">
+            <Meaning>pour</Meaning>
+          </Meaning>
+          <Meaning LanguageCode="zhT">
+            <Meaning>倒</Meaning>
+          </Meaning>
+        </RelatedLemma>
+      </RelatedLemmas>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="005414001001000" IsBiblicalTerm="M" EntryCode="2.15" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Natural Substances</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Earth, Mud, Sand, Rock</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2022-09-29 23:01:36" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>dust, soil (see also {D:2.16})</DefinitionShort>
+              <Glosses>
+                <Gloss>dust</Gloss>
+                <Gloss>soil</Gloss>
+              </Glosses>
+              <Comments>‘Shake the dust from your feet’ may be expressed as ‘kick the dust from your feet.’ In some instances, however, the more appropriate equivalent would be ‘get rid of the dust from your feet’ or even ‘remove the dust from your feet and leave it there.’</Comments>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04100601100030</LEXReference>
+            <LEXReference>06601801900006</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

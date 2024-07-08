@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="000204000000000" Lemma="ἀκυρόω" Version="0" HasAramaic="false" InLXX="true" AlphaPos="α">
+  <StrongCodes>
+    <Strong>G0208</Strong>
+  </StrongCodes>
+  <Authors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes/>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="000204001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>verb</PartOfSpeech>
+      </PartsOfSpeech>
+      <Constructs>
+        <Construct Lemma="ἀκυρόω" BaseFormIndex="1">
+          <WordMeaningSet>
+            <Word>ἀ-</Word>
+          </WordMeaningSet>
+          <WordMeaningSet>
+            <Word>κυριεύω</Word>
+          </WordMeaningSet>
+        </Construct>
+      </Constructs>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="000204001001000" IsBiblicalTerm="M" EntryCode="76.25" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Power, Force</LEXDomain>
+          </LEXDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2022-07-25 15:27:14" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>to refuse to recognize the force or power of something</DefinitionShort>
+              <Glosses>
+                <Gloss>to invalidate the authority of</Gloss>
+                <Gloss>to reject</Gloss>
+                <Gloss>to disregard</Gloss>
+              </Glosses>
+              <Comments>In both {S:04001500600016} and {S:04100701300002} the emphasis is upon the fact that people had regarded traditions as having greater authority than the word of God.</Comments>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04001500600016</LEXReference>
+            <LEXReference>04100701300002</LEXReference>
+            <LEXReference>04800301700036</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

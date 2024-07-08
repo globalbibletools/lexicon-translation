@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="003945000000000" Lemma="περιούσιος" Version="0" HasAramaic="false" InLXX="true" AlphaPos="π">
+  <StrongCodes>
+    <Strong>G4041</Strong>
+  </StrongCodes>
+  <Authors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes>
+    <Note Caller="1" LanguageCode="en" LastEdited="" LastEditedBy="">
+      <References/>
+      <Content>It is possible to classify this meaning of περιούσιος as a kind of relation (see Domain 89) rather than as possession, but the reference is typical of possessive relationships.</Content>
+    </Note>
+  </Notes>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="003945001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>adjc.</PartOfSpeech>
+      </PartsOfSpeech>
+      <Inflections>
+        <Inflection Lemma="περιούσιος" BaseFormIndex="1">
+          <Form/>
+          <Realizations>
+            <Realization>-ον</Realization>
+          </Realizations>
+          <Comments/>
+        </Inflection>
+      </Inflections>
+      <RelatedLemmas>
+        <RelatedLemma>
+          <Word>εἰμί</Word>
+        </RelatedLemma>
+      </RelatedLemmas>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="003945001001000" IsBiblicalTerm="Y" EntryCode="57.5" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Possess, Transfer, Exchange</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Have, Possess, Property, Owner</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-12-24 13:48:15" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>pertaining to being a special or a distinctive possession of someone{N:001}</DefinitionShort>
+              <Glosses>
+                <Gloss>one’s private possession</Gloss>
+                <Gloss>one’s special possession</Gloss>
+              </Glosses>
+              <Comments>For another interpretation of περιούσιος in {S:05600201400032}, see {D:58.48}.</Comments>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>05600201400032</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+        <LEXMeaning Id="003945001002000" IsBiblicalTerm="Y" EntryCode="58.48" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Nature, Class, Example</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Distinctive, Unique</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-12-24 13:48:15" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>pertaining to that which is peculiar or special about some entity</DefinitionShort>
+              <Glosses>
+                <Gloss>peculiar</Gloss>
+                <Gloss>special</Gloss>
+              </Glosses>
+              <Comments>For another interpretation of {L:περιούσιος&lt;SDBG:περιούσιος:000000&gt;} in {S:05600201400032}, see {D:57.5}.</Comments>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>05600201400032</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

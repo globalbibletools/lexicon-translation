@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="000981000000000" Lemma="בָּכָא" Version="5" HasAramaic="false" InLXX="false" AlphaPos="ב">
+  <StrongCodes>
+    <Strong>H1056</Strong>
+    <Strong>H1057</Strong>
+  </StrongCodes>
+  <Authors>
+    <Author>Enio R. Mueller</Author>
+  </Authors>
+  <Contributors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes>
+    <Note Caller="1" LanguageCode="en" LastEdited="" LastEditedBy="">
+      <References>
+        <Reference>01000502300036</Reference>
+        <Reference>01000502400026</Reference>
+        <Reference>01301401400048</Reference>
+        <Reference>01301401500024</Reference>
+      </References>
+      <Content>RSV NIV NJB GNT CEV "balsam trees" | NJPS "baca trees" | REB "aspens"</Content>
+    </Note>
+    <Note Caller="2" LanguageCode="en" LastEdited="" LastEditedBy="">
+      <References>
+        <Reference>01908400700010</Reference>
+      </References>
+      <Content>RSV NIV NJPS NRSV GNT "valley of Baca" | NJB "Valley of the Balsam" | REB "waterless valley" CEV "Dry Valley"</Content>
+    </Note>
+  </Notes>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="000981001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>nsm</PartOfSpeech>
+      </PartsOfSpeech>
+      <RelatedLemmas>
+        <RelatedLemma>
+          <Word>בכה</Word>
+        </RelatedLemma>
+      </RelatedLemmas>
+      <MeaningsOfName>
+        <MeaningOfName LanguageCode="en">
+          <Meaning>weeping (?)</Meaning>
+        </MeaningOfName>
+      </MeaningsOfName>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="000981001001000" IsBiblicalTerm="M" EntryCode="" Indent="0">
+          <LEXDomains>
+            <LEXDomain Code="001003002">Trees</LEXDomain>
+          </LEXDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2016-02-17 15:07:03" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>meaning unsure: = a kind of tree</DefinitionShort>
+              <Glosses>
+                <Gloss>balsam tree</Gloss>
+                <Gloss>aspen tree</Gloss>
+                <Gloss>poplar</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>01000502300036{N:001}</LEXReference>
+            <LEXReference>01000502400026{N:001}</LEXReference>
+            <LEXReference>01301401400048{N:001}</LEXReference>
+            <LEXReference>01301401500024{N:001}</LEXReference>
+            <LEXReference>01908400700010{N:002}</LEXReference>
+          </LEXReferences>
+          <LEXLinks>
+            <LEXLink>Flora:1</LEXLink>
+          </LEXLinks>
+          <LEXVideos/>
+        </LEXMeaning>
+        <LEXMeaning Id="000981001002000" IsBiblicalTerm="Y" EntryCode="" Indent="0">
+          <LEXDomains>
+            <LEXDomain Code="003001010">Names of Locations</LEXDomain>
+          </LEXDomains>
+          <LEXCollocations>
+            <LEXCollocation>עֵמֶק הַבָּכָא</LEXCollocation>
+          </LEXCollocations>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2016-02-17 15:07:03" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>= unknown location; ≈ the name may reflect the "weeping (= dripping)" of balsam trees</DefinitionShort>
+              <Glosses>
+                <Gloss>Valley of Baca</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>01908400700010{N:002}</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

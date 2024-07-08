@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="000199000000000" Lemma="ἀκροβυστία" Version="0" HasAramaic="false" InLXX="true" AlphaPos="α">
+  <StrongCodes>
+    <Strong>G0203</Strong>
+  </StrongCodes>
+  <Authors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes>
+    <Note Caller="1" LanguageCode="en" LastEdited="" LastEditedBy="">
+      <References/>
+      <Content>The term ἀκροβυστία as a designation of a state of being uncircumcised belongs technically to a domain of physiological states (Domain 23). Since, however, its significance for the NT text is only in connection with the socio-religious character of people, ἀκροβυστία is classified here in Domain 11 Groups and Classes of Persons and Members of Such Groups and Classes  (see also {D:11.53}).</Content>
+    </Note>
+  </Notes>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="000199001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>noun, f.</PartOfSpeech>
+      </PartsOfSpeech>
+      <Inflections>
+        <Inflection Lemma="ἀκροβυστία" BaseFormIndex="1">
+          <Form/>
+          <Realizations>
+            <Realization>-ας</Realization>
+          </Realizations>
+          <Comments/>
+        </Inflection>
+      </Inflections>
+      <Constructs>
+        <Construct Lemma="ἀκροβυστία" BaseFormIndex="1">
+          <WordMeaningSet>
+            <Word>ἄκρον</Word>
+          </WordMeaningSet>
+          <WordMeaningSet>
+            <Word>βύω</Word>
+            <Meaning LanguageCode="en">
+              <Meaning>stuff full</Meaning>
+            </Meaning>
+            <Meaning LanguageCode="zhT">
+              <Meaning>填滿</Meaning>
+            </Meaning>
+          </WordMeaningSet>
+        </Construct>
+      </Constructs>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="000199001001000" IsBiblicalTerm="M" EntryCode="11.52" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Groups and Classes of Persons and Members of Such Groups and Classes</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Socio-Religious</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-07-30 23:03:59" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>a state of being uncircumcised by not having the foreskin of the penis cut off{N:001}</DefinitionShort>
+              <Glosses>
+                <Gloss>being uncircumcised</Gloss>
+                <Gloss>the foreskin not cut off</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04401100300012</LEXReference>
+            <LEXReference>04500202500032</LEXReference>
+            <LEXReference>04500202600008</LEXReference>
+            <LEXReference>04500202600024</LEXReference>
+            <LEXReference>04500202700012</LEXReference>
+            <LEXReference>04500401000018</LEXReference>
+            <LEXReference>04500401000030</LEXReference>
+            <LEXReference>04500401100026</LEXReference>
+            <LEXReference>04500401100046</LEXReference>
+            <LEXReference>04500401200034</LEXReference>
+            <LEXReference>04600701800014</LEXReference>
+            <LEXReference>04600701900014</LEXReference>
+            <LEXReference>04800500600020</LEXReference>
+            <LEXReference>04800601500014</LEXReference>
+            <LEXReference>05100201300020</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+        <LEXMeaning Id="000199001002000" IsBiblicalTerm="M" EntryCode="11.53" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Groups and Classes of Persons and Members of Such Groups and Classes</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Socio-Religious</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-07-30 23:03:59" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>a collective for those who are uncircumcised</DefinitionShort>
+              <Glosses>
+                <Gloss>uncircumcised</Gloss>
+                <Gloss>Gentiles</Gloss>
+                <Gloss>the Gentile world</Gloss>
+              </Glosses>
+              <Comments>In translating {S:04800200700018} it is essential in some languages to avoid the impression that there are two gospels, one for the Jews and another for the Gentiles. One may, therefore, render {S:04800200700018} as ‘I had been entrusted with the good news to the uncircumcised, just as Peter had been for the circumcised’ or even ‘God had given me and Peter the task of preaching the good news; I to the Gentiles and Peter to the Jews.’</Comments>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04500303000022</LEXReference>
+            <LEXReference>04500400900024</LEXReference>
+            <LEXReference>04800200700018</LEXReference>
+            <LEXReference>04900201100024</LEXReference>
+            <LEXReference>05100301100018</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

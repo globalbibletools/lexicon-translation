@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="000876000000000" Lemma="ἄφρων" Version="0" HasAramaic="false" InLXX="true" AlphaPos="α">
+  <StrongCodes>
+    <Strong>G0878</Strong>
+  </StrongCodes>
+  <Authors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes/>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="000876001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>adjc.</PartOfSpeech>
+      </PartsOfSpeech>
+      <Inflections>
+        <Inflection Lemma="ἄφρων" BaseFormIndex="1">
+          <Form/>
+          <Realizations>
+            <Realization>-ον</Realization>
+            <Realization>-ονος</Realization>
+          </Realizations>
+          <Comments/>
+        </Inflection>
+      </Inflections>
+      <Constructs>
+        <Construct Lemma="ἄφρων" BaseFormIndex="1">
+          <WordMeaningSet>
+            <Word>ἀ-</Word>
+          </WordMeaningSet>
+          <WordMeaningSet>
+            <Word>φρονέω</Word>
+          </WordMeaningSet>
+        </Construct>
+      </Constructs>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="000876001001000" IsBiblicalTerm="M" EntryCode="32.52" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Understand</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Lack of Capacity for Understanding</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-08-18 15:36:29" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>pertaining to not employing one’s understanding, particularly in practical matters</DefinitionShort>
+              <Glosses>
+                <Gloss>foolish</Gloss>
+                <Gloss>senseless</Gloss>
+                <Gloss>unwise</Gloss>
+              </Glosses>
+              <Comments>It is possible that ἄφρων in {S:04500202000004} (παιδευτὴν ἀφρόνων ‘instructor of the foolish’) refers to people who are simply uninstructed or ignorant, since ἀφρόνων could be parallel with νηπίων, occurring in the same verse. On the other hand, there appears to be a contrast in the meanings of ἀφρόνων and νηπίων because of the distinctiveness in meanings of παιδευτήν and διδάσκαλον. Therefore, ἄφρων in {S:04500202000004} is better understood as referring to those who act foolishly because they do not use their potential for understanding.</Comments>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04201104000002</LEXReference>
+            <LEXReference>04201202000012</LEXReference>
+            <LEXReference>04500202000004</LEXReference>
+            <LEXReference>04601503600002</LEXReference>
+            <LEXReference>04701101600014</LEXReference>
+            <LEXReference>04701101600030</LEXReference>
+            <LEXReference>04701101900010</LEXReference>
+            <LEXReference>04701200600014</LEXReference>
+            <LEXReference>04701201100004</LEXReference>
+            <LEXReference>04900501700010</LEXReference>
+            <LEXReference>06000201500024</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

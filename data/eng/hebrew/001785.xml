@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="001785000000000" Lemma="הַוָּה" Version="5" HasAramaic="false" InLXX="false" AlphaPos="ה">
+  <StrongCodes>
+    <Strong>H1942</Strong>
+    <Strong>H1962</Strong>
+  </StrongCodes>
+  <Authors>
+    <Author>Enio R. Mueller</Author>
+  </Authors>
+  <Contributors/>
+  <AlternateLemmas>
+    <AlternateLemma>הַיָּה</AlternateLemma>
+  </AlternateLemmas>
+  <MainLinks/>
+  <Notes>
+    <Note Caller="1" LanguageCode="en" LastEdited="" LastEditedBy="">
+      <References>
+        <Reference>01800600200012</Reference>
+      </References>
+      <Content>MT-K היתי | MT-Q הַוָּתִי</Content>
+    </Note>
+  </Notes>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="001785001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>nsf</PartOfSpeech>
+      </PartsOfSpeech>
+      <RelatedLemmas>
+        <RelatedLemma>
+          <Word>אוה</Word>
+        </RelatedLemma>
+      </RelatedLemmas>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="001785001001000" IsBiblicalTerm="Y" EntryCode="" Indent="0">
+          <LEXDomains>
+            <LEXDomain Code="002004002001001">Wish</LEXDomain>
+          </LEXDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2017-09-13 15:52:03" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>= state of experiencing an urge to see something happen or do something oneself; ◄ usually evil</DefinitionShort>
+              <Glosses>
+                <Gloss>desire</Gloss>
+                <Gloss>interests</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>02001000300014</LEXReference>
+            <LEXReference>02001100600012</LEXReference>
+            <LEXReference>03300700300040</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+          <LEXCoreDomains>
+            <LEXCoreDomain Code="106">Mind</LEXCoreDomain>
+          </LEXCoreDomains>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+    <BaseForm Id="001785002000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>nsf</PartOfSpeech>
+      </PartsOfSpeech>
+      <RelatedLemmas>
+        <RelatedLemma>
+          <Word>הוה</Word>
+        </RelatedLemma>
+      </RelatedLemmas>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="001785002001000" IsBiblicalTerm="Y" EntryCode="" Indent="0">
+          <LEXDomains>
+            <LEXDomain Code="002003003021">Unsafe</LEXDomain>
+          </LEXDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2017-09-13 15:52:03" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>= process by which events take place that cause damage, distress, hurt, and/or loss of life</DefinitionShort>
+              <Glosses>
+                <Gloss>disaster</Gloss>
+                <Gloss>destruction</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>01800600200012{N:001}</LEXReference>
+            <LEXReference>01800600200014</LEXReference>
+            <LEXReference>01800603000020</LEXReference>
+            <LEXReference>01803001300008</LEXReference>
+            <LEXReference>01900501000014</LEXReference>
+            <LEXReference>01903801300018</LEXReference>
+            <LEXReference>01905200400002</LEXReference>
+            <LEXReference>01905200900030</LEXReference>
+            <LEXReference>01905501200002</LEXReference>
+            <LEXReference>01905700200030</LEXReference>
+            <LEXReference>01909100300018</LEXReference>
+            <LEXReference>01909402000008</LEXReference>
+            <LEXReference>02001700400020</LEXReference>
+            <LEXReference>02001901300002</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+          <LEXCoreDomains>
+            <LEXCoreDomain Code="196">Well-Being</LEXCoreDomain>
+          </LEXCoreDomains>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

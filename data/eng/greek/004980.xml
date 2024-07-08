@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="004980000000000" Lemma="τηλαυγῶς" Version="0" HasAramaic="false" InLXX="false" AlphaPos="τ">
+  <StrongCodes>
+    <Strong>G5081</Strong>
+  </StrongCodes>
+  <Authors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes/>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="004980001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>advb.</PartOfSpeech>
+      </PartsOfSpeech>
+      <Constructs>
+        <Construct Lemma="τηλαυγῶς" BaseFormIndex="1">
+          <WordMeaningSet>
+            <Word>τῆλε</Word>
+            <Meaning LanguageCode="en">
+              <Meaning>far away</Meaning>
+            </Meaning>
+            <Meaning LanguageCode="zhT">
+              <Meaning>遠離</Meaning>
+            </Meaning>
+          </WordMeaningSet>
+          <WordMeaningSet>
+            <Word>αὐγή</Word>
+          </WordMeaningSet>
+        </Construct>
+      </Constructs>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="004980001001000" IsBiblicalTerm="Y" EntryCode="24.36" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Sensory Events and States</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>See</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2022-04-05 14:39:29" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>pertaining to a particularly clear or plain visual image</DefinitionShort>
+              <Glosses>
+                <Gloss>clearly</Gloss>
+                <Gloss>distinctly</Gloss>
+                <Gloss>plainly</Gloss>
+              </Glosses>
+              <Comments>In {S:04100802500032} both διέβλεψεν ({D:24.35}) and ἐνέβλεπεν ({D:24.9}) occur. Some scholars assume that the two expressions are essentially equivalent in meaning, but others believe that διέβλεψεν is to be understood as ‘to look intently’ or ‘to focus one’s eyes upon.’</Comments>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04100802500032</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

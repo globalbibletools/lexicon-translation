@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="003214000000000" Lemma="μεμβράνα" Version="0" HasAramaic="false" InLXX="false" AlphaPos="μ">
+  <StrongCodes>
+    <Strong>G3200</Strong>
+  </StrongCodes>
+  <Authors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes/>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="003214001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>noun, f.</PartOfSpeech>
+      </PartsOfSpeech>
+      <Inflections>
+        <Inflection Lemma="μεμβράνα" BaseFormIndex="1">
+          <Form/>
+          <Realizations>
+            <Realization>-ης</Realization>
+          </Realizations>
+          <Comments/>
+        </Inflection>
+      </Inflections>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="003214001001000" IsBiblicalTerm="M" EntryCode="6.59" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Artifacts</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Instruments Used in Marking and Writing</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-11-25 12:20:48" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>a sheet of specially prepared animal skin on which one could write with pen and ink; books or scrolls made of such skin</DefinitionShort>
+              <Glosses>
+                <Gloss>parchment</Gloss>
+                <Gloss>books made of parchment</Gloss>
+              </Glosses>
+              <Comments>In {S:05500401300032} the reference may be to documents written on parchment or to blank sheets of parchment. Sheets of parchment were either sewn together in long scrolls or, in later developments, bound together into book form (see {D:6.66}).</Comments>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>05500401300032</LEXReference>
+          </LEXReferences>
+          <LEXLinks>
+            <LEXLink>realia:1.7.8</LEXLink>
+          </LEXLinks>
+          <LEXVideos/>
+        </LEXMeaning>
+        <LEXMeaning Id="003214001002000" IsBiblicalTerm="Y" EntryCode="6.66" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Artifacts</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Instruments Used in Marking and Writing</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-11-25 12:20:48" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort/>
+              <Glosses>
+                <Gloss>books (or scrolls) made of parchment</Gloss>
+              </Glosses>
+              <Comments>As noted in {D:6.59}, {L:μεμβράνα&lt;SDBG:μεμβράνα:000000&gt;}[a]) or of books written on parchment (μεμβράνα[b]).</Comments>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>05500401300032</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

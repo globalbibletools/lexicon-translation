@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="000983000000000" Lemma="βίβλος" Version="0" HasAramaic="false" InLXX="true" AlphaPos="β">
+  <StrongCodes>
+    <Strong>G0976</Strong>
+  </StrongCodes>
+  <Authors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes>
+    <Note Caller="1" LanguageCode="en" LastEdited="" LastEditedBy="">
+      <References/>
+      <Content>As noted in the case of ἐπιστολή[b] ({D:33.48}), there is an intimate semantic relationship between letter, document, and book as physical objects and the contents of such writings. For book as an object, see βίβλος[a] and βιβλίον[b] ({D:6.64}).</Content>
+    </Note>
+  </Notes>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="000983001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>noun, f.</PartOfSpeech>
+      </PartsOfSpeech>
+      <Inflections>
+        <Inflection Lemma="βίβλος" BaseFormIndex="1">
+          <Form/>
+          <Realizations>
+            <Realization>-ου</Realization>
+          </Realizations>
+          <Comments/>
+        </Inflection>
+      </Inflections>
+      <RelatedLemmas>
+        <RelatedLemma>
+          <Word>βιβλαρίδιον</Word>
+        </RelatedLemma>
+        <RelatedLemma>
+          <Word>βιβλίον</Word>
+        </RelatedLemma>
+      </RelatedLemmas>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="000983001001000" IsBiblicalTerm="M" EntryCode="6.64" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Artifacts</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Instruments Used in Marking and Writing</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-02-05 11:18:23" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>a document consisting of a scroll or book</DefinitionShort>
+              <Glosses>
+                <Gloss>scroll</Gloss>
+                <Gloss>roll</Gloss>
+                <Gloss>book</Gloss>
+              </Glosses>
+              <Comments>The books referred to in {S:04401901900018} consisted of sheets of parchment or of papyrus sewn together in the form of long scrolls or bound in the form of a book.</Comments>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04200300400008</LEXReference>
+            <LEXReference>04401901900018</LEXReference>
+            <LEXReference>05000400300054</LEXReference>
+            <LEXReference>06600300500034</LEXReference>
+            <LEXReference>06602001500016</LEXReference>
+          </LEXReferences>
+          <LEXLinks>
+            <LEXLink>realia:1.7.1</LEXLink>
+          </LEXLinks>
+          <LEXVideos/>
+        </LEXMeaning>
+        <LEXMeaning Id="000983001002000" IsBiblicalTerm="M" EntryCode="33.52" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Communication</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Written Language</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-02-05 11:18:23" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>the contents of a book{N:001}</DefinitionShort>
+              <Glosses>
+                <Gloss>book</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04101202600022</LEXReference>
+            <LEXReference>04202004200012</LEXReference>
+            <LEXReference>04400102000008</LEXReference>
+            <LEXReference>04400704200032</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+        <LEXMeaning Id="000983001003000" IsBiblicalTerm="M" EntryCode="33.38" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Communication</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Written Language</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-02-05 11:18:23" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>relatively short statements in written form</DefinitionShort>
+              <Glosses>
+                <Gloss>written statement</Gloss>
+                <Gloss>certificate</Gloss>
+                <Gloss>notice</Gloss>
+                <Gloss>record</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04000100100002</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

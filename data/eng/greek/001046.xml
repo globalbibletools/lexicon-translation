@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="001046000000000" Lemma="βύσσινος" Version="0" HasAramaic="false" InLXX="true" AlphaPos="β">
+  <StrongCodes>
+    <Strong>G1039</Strong>
+  </StrongCodes>
+  <Authors/>
+  <AlternateLemmas>
+    <AlternateLemma>βύσσινον</AlternateLemma>
+  </AlternateLemmas>
+  <MainLinks/>
+  <Notes>
+    <Note Caller="1" LanguageCode="en" LastEdited="" LastEditedBy="">
+      <References>
+        <Reference>06601801200022</Reference>
+      </References>
+      <Content>From the context of {S:06601801200022} it is impossible to determine whether the referents of βύσσινον ({D:6.167}), σιρικόν ({D:6.168}), and πορφύρα ({D:6.169}) are cloth or garments made of linen, silk, and purple cloth respectively.</Content>
+    </Note>
+  </Notes>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="001046001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>adjc.</PartOfSpeech>
+      </PartsOfSpeech>
+      <Inflections>
+        <Inflection Lemma="βύσσινος" BaseFormIndex="1">
+          <Form/>
+          <Realizations>
+            <Realization>-η, -ον</Realization>
+          </Realizations>
+          <Comments/>
+        </Inflection>
+      </Inflections>
+      <RelatedLemmas>
+        <RelatedLemma>
+          <Word>βύσσος</Word>
+        </RelatedLemma>
+      </RelatedLemmas>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="001046001001000" IsBiblicalTerm="M" EntryCode="6.167" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Artifacts</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Cloth, Leather, and Objects Made of Such Materials</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-05-10 21:25:16" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>(derivative of {L:βύσσος&lt;SDBG:βύσσος:000000&gt;} ‘fine linen,’ {D:6.166}) cloth consisting of fine linen</DefinitionShort>
+              <Glosses>
+                <Gloss>cloth of fine linen</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>06601801200022{N:001}</LEXReference>
+            <LEXReference>06601801600020</LEXReference>
+            <LEXReference>06601900800012</LEXReference>
+            <LEXReference>06601900800022</LEXReference>
+            <LEXReference>06601901400028</LEXReference>
+          </LEXReferences>
+          <LEXLinks>
+            <LEXLink>realia:1.5.3.7</LEXLink>
+          </LEXLinks>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

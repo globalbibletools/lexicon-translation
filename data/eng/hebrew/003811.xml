@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="003811000000000" Lemma="מֹורָד" Version="4" HasAramaic="false" InLXX="false" AlphaPos="מ">
+  <StrongCodes>
+    <Strong>H4174</Strong>
+  </StrongCodes>
+  <Authors/>
+  <Contributors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes/>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="003811001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>nsm</PartOfSpeech>
+      </PartsOfSpeech>
+      <RelatedLemmas>
+        <RelatedLemma>
+          <Word>ירד</Word>
+        </RelatedLemma>
+      </RelatedLemmas>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="003811001001000" IsBiblicalTerm="Y" EntryCode="" Indent="0">
+          <LEXDomains>
+            <LEXDomain Code="001005002002002" Source="Move" SourceCode="002002001011">Landforms</LEXDomain>
+          </LEXDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2017-12-17 17:35:58" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>= side of mountain or hill</DefinitionShort>
+              <Glosses>
+                <Gloss>descent</Gloss>
+                <Gloss>slope</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>00600700500050</LEXReference>
+            <LEXReference>00601001100020</LEXReference>
+            <LEXReference>02404800500024</LEXReference>
+            <LEXReference>03300100400042</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+        <LEXMeaning Id="003811001002000" IsBiblicalTerm="Y" EntryCode="" Indent="0">
+          <LEXDomains>
+            <LEXDomain Code="002001001048" Source="Move" SourceCode="002002001011">Shape</LEXDomain>
+          </LEXDomains>
+          <LEXCollocations>
+            <LEXCollocation>מַעֲשֵׂה מֹורָד</LEXCollocation>
+          </LEXCollocations>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2017-12-17 17:35:58" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>literally: sloping work; hence, possibly: = structure decorated with a design that stands out from the surface
+</DefinitionShort>
+              <Glosses>
+                <Gloss>beveled work</Gloss>
+                <Gloss>relief</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>01100702900062</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+          <LEXCoreDomains>
+            <LEXCoreDomain Code="027">Crafts</LEXCoreDomain>
+          </LEXCoreDomains>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

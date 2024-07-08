@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="007135000000000" Lemma="שׁאן" Version="4" HasAramaic="false" InLXX="false" AlphaPos="ש">
+  <StrongCodes>
+    <Strong>H7599</Strong>
+  </StrongCodes>
+  <Authors>
+    <Author>Reinier de Blois</Author>
+  </Authors>
+  <Contributors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes/>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="007135001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>vb</PartOfSpeech>
+      </PartsOfSpeech>
+      <RelatedLemmas>
+        <RelatedLemma>
+          <Word>שַׁאֲנָן</Word>
+        </RelatedLemma>
+      </RelatedLemmas>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="007135001001000" IsBiblicalTerm="Y" EntryCode="" Indent="0">
+          <LEXDomains>
+            <LEXDomain Code="002003003018">Safe</LEXDomain>
+            <LEXDomain Code="002001002003">Confident</LEXDomain>
+          </LEXDomains>
+          <LEXForms>
+            <LEXForm>vbpiel</LEXForm>
+          </LEXForms>
+          <LEXSynonyms>
+            <LEXSynonym>בֶּטַח</LEXSynonym>
+            <LEXSynonym>שׁקט</LEXSynonym>
+          </LEXSynonyms>
+          <LEXAntonyms>
+            <LEXAntonym>חרד</LEXAntonym>
+          </LEXAntonyms>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2017-08-09 12:27:17" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>= state in which humans live a peaceful life and have nothing to fear</DefinitionShort>
+              <Glosses>
+                <Gloss>to be at ease</Gloss>
+                <Gloss>to be secure</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>01800301800006</LEXReference>
+            <LEXReference>02000103300014</LEXReference>
+            <LEXReference>02403001000060</LEXReference>
+            <LEXReference>02404602700056</LEXReference>
+            <LEXReference>02404801100002</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+          <LEXCoreDomains>
+            <LEXCoreDomain Code="196">Well-Being</LEXCoreDomain>
+            <LEXCoreDomain Code="043">Confidence and Fear</LEXCoreDomain>
+          </LEXCoreDomains>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

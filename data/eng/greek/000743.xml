@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="000743000000000" Lemma="ἀρχηγός" Version="0" HasAramaic="false" InLXX="true" AlphaPos="α">
+  <StrongCodes>
+    <Strong>G0747</Strong>
+  </StrongCodes>
+  <Authors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes/>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="000743001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>noun, m.</PartOfSpeech>
+      </PartsOfSpeech>
+      <Inflections>
+        <Inflection Lemma="ἀρχηγός" BaseFormIndex="1">
+          <Form/>
+          <Realizations>
+            <Realization>-οῦ</Realization>
+          </Realizations>
+          <Comments/>
+        </Inflection>
+      </Inflections>
+      <Constructs>
+        <Construct Lemma="ἀρχηγός" BaseFormIndex="1">
+          <WordMeaningSet>
+            <Word>ἄρχω</Word>
+          </WordMeaningSet>
+          <WordMeaningSet>
+            <Word>ἄγω</Word>
+          </WordMeaningSet>
+        </Construct>
+      </Constructs>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="000743001001000" IsBiblicalTerm="Y" EntryCode="68.2" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Aspect</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Begin, Start</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-08-17 12:00:41" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>one who causes something to begin</DefinitionShort>
+              <Glosses>
+                <Gloss>initiator</Gloss>
+                <Gloss>founder</Gloss>
+                <Gloss>originator</Gloss>
+              </Glosses>
+              <Comments>For another interpretation of ἀρχηγός in {S:05800201000038}, see ἀρχηγός[b] {D:36.6}.</Comments>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04400301500006</LEXReference>
+            <LEXReference>05800201000038</LEXReference>
+            <LEXReference>05801200200012</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+        <LEXMeaning Id="000743001002000" IsBiblicalTerm="Y" EntryCode="36.6" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Guide, Discipline, Follow</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Guide, Lead</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-08-17 12:00:41" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>a person who as originator or founder of a movement continues as the leader</DefinitionShort>
+              <Glosses>
+                <Gloss>pioneer leader</Gloss>
+                <Gloss>founding leader</Gloss>
+              </Glosses>
+              <Comments>In order to indicate clearly the significance of ἀρχηγός in {S:05800201000038}, it may be important to employ a translation such as ‘who established a way of salvation and leads people to it.’ But it is also possible to understand ἀρχηγός in {S:05800201000038} as meaning only the ‘initiator’ or ‘founder’ (see {L:ἀρχηγός&lt;SDBG:ἀρχηγός:000000&gt;}[a] {D:68.2}).</Comments>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04400503100008</LEXReference>
+            <LEXReference>05800201000038</LEXReference>
+            <LEXReference>05801200200012</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

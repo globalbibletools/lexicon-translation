@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="001389000000000" Lemma="διχοτομέω" Version="0" HasAramaic="false" InLXX="true" AlphaPos="δ">
+  <StrongCodes>
+    <Strong>G1371</Strong>
+  </StrongCodes>
+  <Authors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes/>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="001389001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>verb</PartOfSpeech>
+      </PartsOfSpeech>
+      <Constructs>
+        <Construct Lemma="διχοτομέω" BaseFormIndex="1">
+          <WordMeaningSet>
+            <Word>δύο</Word>
+          </WordMeaningSet>
+          <WordMeaningSet>
+            <Word>τομός</Word>
+          </WordMeaningSet>
+        </Construct>
+      </Constructs>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="001389001001000" IsBiblicalTerm="Y" EntryCode="19.19" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Physical Impact</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Pierce, Cut</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-07-08 22:06:32" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>to cut an object into two parts</DefinitionShort>
+              <Glosses>
+                <Gloss>to cut in two</Gloss>
+              </Glosses>
+              <Comments>It is also possible to interpret διχοτομέω in {S:04201204600038} as ‘severe punishment’ (see {L:διχοτομέω&lt;SDBG:διχοτομέω:000001&gt;}[b], {D:38.12}).</Comments>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04002405100004</LEXReference>
+            <LEXReference>04201204600038</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+        <LEXMeaning Id="001389001002000" IsBiblicalTerm="M" EntryCode="38.12" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Punish, Reward</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Punish</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-07-08 22:06:32" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>(a figurative extension of meaning of {L:διχοτομέω&lt;SDBG:διχοτομέω:000000&gt;}[a] ‘to cut in two,’ {D:19.19}) to punish with great severity</DefinitionShort>
+              <Glosses>
+                <Gloss>to punish severely</Gloss>
+                <Gloss>to punish</Gloss>
+              </Glosses>
+              <Comments>It is also possible to understand διχοτομέω in {S:04002405100004} and the parallel passage in {S:04201204600038} in a strictly literal sense, namely, ‘to cut in two’ or ‘to cut into pieces’ (see {D:19.19}).</Comments>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04002405100004</LEXReference>
+            <LEXReference>04201204600038</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="007604000000000" Lemma="שׁקד" Version="4" HasAramaic="false" InLXX="false" AlphaPos="ש">
+  <StrongCodes>
+    <Strong>H8245</Strong>
+  </StrongCodes>
+  <Authors>
+    <Author>Reinier de Blois</Author>
+  </Authors>
+  <Contributors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes/>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="007604001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>vb</PartOfSpeech>
+      </PartsOfSpeech>
+      <RelatedLemmas>
+        <RelatedLemma>
+          <Word>שָׁקֵד</Word>
+        </RelatedLemma>
+      </RelatedLemmas>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="007604001001000" IsBiblicalTerm="Y" EntryCode="" Indent="0">
+          <LEXDomains>
+            <LEXDomain Code="002001001005">Awake</LEXDomain>
+          </LEXDomains>
+          <LEXForms>
+            <LEXForm>vbqal-</LEXForm>
+          </LEXForms>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2017-03-10 12:45:30" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>= state in which humans are unable to sleep</DefinitionShort>
+              <Glosses>
+                <Gloss>to lie awake</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>01910200800002</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+          <LEXCoreDomains>
+            <LEXCoreDomain Code="164">Sleeping</LEXCoreDomain>
+          </LEXCoreDomains>
+        </LEXMeaning>
+        <LEXMeaning Id="007604001002000" IsBiblicalTerm="Y" EntryCode="" Indent="0">
+          <LEXDomains>
+            <LEXDomain Code="002001002006" Source="Awake" SourceCode="002001001005">Diligent</LEXDomain>
+          </LEXDomains>
+          <LEXForms>
+            <LEXForm>vbqal-</LEXForm>
+          </LEXForms>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2017-03-10 12:45:30" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>literally: to be awake; hence: = action by which humans or deities act with alertness and care</DefinitionShort>
+              <Glosses>
+                <Gloss>to be vigilant</Gloss>
+                <Gloss>to act carefully</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>01500802900002</LEXReference>
+            <LEXReference>01912700100042</LEXReference>
+            <LEXReference>02302902000020</LEXReference>
+            <LEXReference>02400101200018</LEXReference>
+            <LEXReference>02403102800010</LEXReference>
+            <LEXReference>02403102800044</LEXReference>
+            <LEXReference>02404402700004</LEXReference>
+            <LEXReference>02700901400004</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+        <LEXMeaning Id="007604001003000" IsBiblicalTerm="M" EntryCode="" Indent="0">
+          <LEXDomains>
+            <LEXDomain Code="002004001005" Source="Awake" SourceCode="002001001005">See</LEXDomain>
+          </LEXDomains>
+          <LEXForms>
+            <LEXForm>vbqal-</LEXForm>
+          </LEXForms>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2017-11-30 18:01:45" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>literally: to be awake; hence: = action by which humans or animals carefully observe an object for a longer period of time</DefinitionShort>
+              <Glosses>
+                <Gloss>to observe</Gloss>
+                <Gloss>to watch</Gloss>
+                <Gloss>to pay attention</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>01802103200018</LEXReference>
+            <LEXReference>02000803400012</LEXReference>
+            <LEXReference>02400500600022</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+          <LEXCoreDomains>
+            <LEXCoreDomain Code="154">Senses</LEXCoreDomain>
+          </LEXCoreDomains>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

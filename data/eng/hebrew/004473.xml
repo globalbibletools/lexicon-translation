@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="004473000000000" Lemma="מִשְׁחָה" Version="5" HasAramaic="false" InLXX="false" AlphaPos="מ">
+  <StrongCodes>
+    <Strong>H4888a</Strong>
+  </StrongCodes>
+  <Authors>
+    <Author>Reinier de Blois</Author>
+  </Authors>
+  <Contributors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes/>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="004473001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>nsf</PartOfSpeech>
+      </PartsOfSpeech>
+      <RelatedLemmas>
+        <RelatedLemma>
+          <Word>משׁח</Word>
+        </RelatedLemma>
+      </RelatedLemmas>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="004473001001000" IsBiblicalTerm="M" EntryCode="" Indent="0">
+          <LEXDomains>
+            <LEXDomain Code="001006007" Source="Rub" SourceCode="002003001016">Liquids</LEXDomain>
+          </LEXDomains>
+          <LEXCollocations>
+            <LEXCollocation>שֶׁמֶן מִשְׁחָה</LEXCollocation>
+          </LEXCollocations>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2017-01-02 15:35:24" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>= oil that is used for anointing objects and people</DefinitionShort>
+              <Glosses>
+                <Gloss>anointment</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>00202500600018</LEXReference>
+            <LEXReference>00202900700012</LEXReference>
+            <LEXReference>00202902100028</LEXReference>
+            <LEXReference>00203002500010</LEXReference>
+            <LEXReference>00203002500024</LEXReference>
+            <LEXReference>00203003100018</LEXReference>
+            <LEXReference>00203101100010</LEXReference>
+            <LEXReference>00203500800022</LEXReference>
+            <LEXReference>00203501500026</LEXReference>
+            <LEXReference>00203502800030</LEXReference>
+            <LEXReference>00203702900012</LEXReference>
+            <LEXReference>00203903800020</LEXReference>
+            <LEXReference>00204000900012</LEXReference>
+            <LEXReference>00300800200032</LEXReference>
+            <LEXReference>00300801000014</LEXReference>
+            <LEXReference>00300801200012</LEXReference>
+            <LEXReference>00300803000014</LEXReference>
+            <LEXReference>00301000700024</LEXReference>
+            <LEXReference>00302101000028</LEXReference>
+            <LEXReference>00302101200032</LEXReference>
+            <LEXReference>00400401600044</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+          <LEXCoreDomains>
+            <LEXCoreDomain Code="101">Liquids</LEXCoreDomain>
+          </LEXCoreDomains>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+    <BaseForm Id="004473002000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>nsf</PartOfSpeech>
+      </PartsOfSpeech>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="004473002001000" IsBiblicalTerm="Y" EntryCode="" Indent="0">
+          <LEXDomains>
+            <LEXDomain Code="002002002008" Source="Rub" SourceCode="002003001016">Role</LEXDomain>
+            <LEXDomain Code="002003002020" Source="Role" SourceCode="002002002008">Possess</LEXDomain>
+          </LEXDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-02-22 12:38:29" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>= the part of a sacrifice that is given to priests in accordance with their office, conferred on them by anointing them with oil</DefinitionShort>
+              <Glosses>
+                <Gloss>portion</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>00300703500004</LEXReference>
+            <LEXReference>00300703500010</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+          <LEXCoreDomains>
+            <LEXCoreDomain Code="128">Possession</LEXCoreDomain>
+            <LEXCoreDomain Code="149">Sacrifices and Offerings</LEXCoreDomain>
+            <LEXCoreDomain Code="132">Priesthood</LEXCoreDomain>
+            <LEXCoreDomain Code="170">Status</LEXCoreDomain>
+          </LEXCoreDomains>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

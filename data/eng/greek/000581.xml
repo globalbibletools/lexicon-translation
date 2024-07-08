@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="000581000000000" Lemma="ἀπόδειξις" Version="0" HasAramaic="false" InLXX="true" AlphaPos="α">
+  <StrongCodes>
+    <Strong>G0585</Strong>
+  </StrongCodes>
+  <Authors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes>
+    <Note Caller="1" LanguageCode="en" LastEdited="" LastEditedBy="">
+      <References/>
+      <Content>It is possible that ἀπόδειξις should be classified as having a meaning somewhat distinct from ἔνδειξις and ἔνδειγμα and thus be more closely related to ἀποδείκνυμι[a] ({D:28.50}), but there is no clear evidence of this in existing contexts.</Content>
+    </Note>
+    <Note Caller="2" LanguageCode="en" LastEdited="" LastEditedBy="">
+      <References/>
+      <Content>As in the case of βέβαιος[c] ({D:28.43}), βέβαιοω[b] ({D:28.43}), and βεβαίωσις ({D:28.44}), there are two distinct sets of semantic features in the series ἔνδειξις, ἔνδειγμα, and ἀπόδειξις. The element of showing or demonstrating implies clearly making something known, but that which is made known is done in a clear, convincing, and confirming manner and therefore shown to be certain or true. This double set of semantic features is contained in such terms as proof, evidence and confirmation.</Content>
+    </Note>
+  </Notes>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="000581001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>noun, f.</PartOfSpeech>
+      </PartsOfSpeech>
+      <Inflections>
+        <Inflection Lemma="ἀπόδειξις" BaseFormIndex="1">
+          <Form/>
+          <Realizations>
+            <Realization>-εως</Realization>
+          </Realizations>
+          <Comments/>
+        </Inflection>
+      </Inflections>
+      <RelatedLemmas>
+        <RelatedLemma>
+          <Word>δείκνυμι</Word>
+        </RelatedLemma>
+      </RelatedLemmas>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="000581001001000" IsBiblicalTerm="M" EntryCode="28.52" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Know</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Well Known, Clearly Shown, Revealed</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-08-12 14:34:16" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>(derivative of {L:ἀποδείκνυμι&lt;SDBG:ἀποδείκνυμι:000000&gt;}[a] to demonstrate, to show, {D:28.50}) the means by which one knows that something is a fact.{N:001}{N:002}</DefinitionShort>
+              <Glosses>
+                <Gloss>proof</Gloss>
+                <Gloss>evidence</Gloss>
+                <Gloss>verification</Gloss>
+                <Gloss>indication</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04600200400032</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

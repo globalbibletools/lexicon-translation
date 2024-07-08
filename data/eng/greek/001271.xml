@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="001271000000000" Lemma="διαλέγομαι" Version="0" HasAramaic="false" InLXX="true" AlphaPos="δ">
+  <StrongCodes>
+    <Strong>G1256</Strong>
+  </StrongCodes>
+  <Authors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes>
+    <Note Caller="1" LanguageCode="en" LastEdited="" LastEditedBy="">
+      <References/>
+      <Content>It is possible that δημηγορέω implies somewhat greater formality than διαλέγομαι[b], but it is impossible to determine this on the basis of NT usage.</Content>
+    </Note>
+  </Notes>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="001271001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>verb</PartOfSpeech>
+      </PartsOfSpeech>
+      <Inflections>
+        <Inflection Lemma="διαλέγομαι" BaseFormIndex="1">
+          <Form>aor.pass.</Form>
+          <Realizations>
+            <Realization>διελέχθην</Realization>
+          </Realizations>
+          <Comments/>
+        </Inflection>
+      </Inflections>
+      <RelatedLemmas>
+        <RelatedLemma>
+          <Word>λέγω</Word>
+        </RelatedLemma>
+      </RelatedLemmas>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="001271001001000" IsBiblicalTerm="Y" EntryCode="33.446" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Communication</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Argue, Quarrel</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-10-12 16:27:28" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>to argue about differences of opinion</DefinitionShort>
+              <Glosses>
+                <Gloss>to argue</Gloss>
+                <Gloss>to dispute</Gloss>
+                <Gloss>argument</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04100903400014</LEXReference>
+            <LEXReference>04401700200028</LEXReference>
+            <LEXReference>04401701700002</LEXReference>
+            <LEXReference>04401800400002</LEXReference>
+            <LEXReference>04401801900028</LEXReference>
+            <LEXReference>04401900800020</LEXReference>
+            <LEXReference>04401900900042</LEXReference>
+            <LEXReference>04402401200020</LEXReference>
+            <LEXReference>06500100900020</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+        <LEXMeaning Id="001271001002000" IsBiblicalTerm="Y" EntryCode="33.26" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Communication</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Language Levels</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-10-12 16:27:28" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>to speak in a somewhat formal setting and probably implying a more formal use of language{N:001}</DefinitionShort>
+              <Glosses>
+                <Gloss>to address</Gloss>
+                <Gloss>to make a speech</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04402000700026</LEXReference>
+            <LEXReference>04402000900026</LEXReference>
+            <LEXReference>04402402500002</LEXReference>
+            <LEXReference>05801200500018</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

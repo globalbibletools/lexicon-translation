@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="002710000000000" Lemma="καταφέρω" Version="0" HasAramaic="false" InLXX="true" AlphaPos="κ">
+  <StrongCodes>
+    <Strong>G2702</Strong>
+  </StrongCodes>
+  <Authors/>
+  <AlternateLemmas>
+    <AlternateLemma>καταφέρομαι</AlternateLemma>
+  </AlternateLemmas>
+  <MainLinks/>
+  <Notes>
+    <Note Caller="1" LanguageCode="en" LastEdited="" LastEditedBy="">
+      <References>
+        <Reference>04402000900020</Reference>
+        <Reference>04402000900036</Reference>
+      </References>
+      <Content>The differences in meaning between καταφερόμενος ὕπνῳ ({D:23.68}) and κατενεχθεὶς ἀπὸ τοῦ ὕπνου ({D:23.71}) in {S:04402000900020} depend upon aspectual distinctions. The first phrase marks a process, while the second indicates a final state.</Content>
+    </Note>
+  </Notes>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="002710001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>verb</PartOfSpeech>
+      </PartsOfSpeech>
+      <Inflections>
+        <Inflection Lemma="καταφέρω" BaseFormIndex="1">
+          <Form>aor.</Form>
+          <Realizations>
+            <Realization>κατήνεγκα</Realization>
+          </Realizations>
+          <Comments/>
+        </Inflection>
+        <Inflection Lemma="καταφέρω" BaseFormIndex="1">
+          <Form>aor.pass.ptc.</Form>
+          <Realizations>
+            <Realization>κατενεχθείς</Realization>
+          </Realizations>
+          <Comments/>
+        </Inflection>
+      </Inflections>
+      <RelatedLemmas>
+        <RelatedLemma>
+          <Word>φέρω</Word>
+        </RelatedLemma>
+      </RelatedLemmas>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="002710001001000" IsBiblicalTerm="Y" EntryCode="13.133" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Be, Become, Exist, Happen</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Happen</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-09-24 18:59:38" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>to cause something adverse to happen to someone, usually in connection with accusations or condemnations</DefinitionShort>
+              <Glosses>
+                <Gloss>to bring against</Gloss>
+                <Gloss>to cause to happen to</Gloss>
+                <Gloss>to bring about</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04402500700030</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+        <LEXMeaning Id="002710001002000" IsBiblicalTerm="Y" EntryCode="30.103" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Think</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>To Choose, To Select, To Prefer</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXCollocations>
+            <LEXCollocation>καταφέρω ψῆφον</LEXCollocation>
+          </LEXCollocations>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-09-24 18:59:38" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>(an idiom, literally: to bring a pebble against someone, a reference to a white or black pebble used in voting for or against someone) to make known one’s choice against someone</DefinitionShort>
+              <Glosses>
+                <Gloss>to vote against</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04402601000048</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+        <LEXMeaning Id="002710001003000" IsBiblicalTerm="Y" EntryCode="23.71" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Physiological Processes and States</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Sleep, Waking</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXForms>
+            <LEXForm>καταφέρομαι[a]</LEXForm>
+          </LEXForms>
+          <LEXCollocations>
+            <LEXCollocation>καταφέρομαι ἀπὸ τοῦ ὕπνου</LEXCollocation>
+          </LEXCollocations>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-09-24 18:59:38" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>(an idiom, literally: to be carried away from sleep) to be in a state of deep sleep</DefinitionShort>
+              <Glosses>
+                <Gloss>to be sound asleep</Gloss>
+                <Gloss>to be completely asleep</Gloss>
+              </Glosses>
+              <Comments>See {L:καταφέρω&lt;SDBG:καταφέρω:000003&gt;}[d] {D:23.68} and its footnote.</Comments>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04402000900036{N:001}</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+        <LEXMeaning Id="002710001004000" IsBiblicalTerm="Y" EntryCode="23.68" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Physiological Processes and States</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Sleep, Waking</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXForms>
+            <LEXForm>καταφέρομαι[b]</LEXForm>
+          </LEXForms>
+          <LEXCollocations>
+            <LEXCollocation>καταφέρομαι ὕπνῳ</LEXCollocation>
+          </LEXCollocations>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-09-24 18:59:38" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>(an idiom, literally: to be carried away by sleep) to become increasingly more sleepy</DefinitionShort>
+              <Glosses>
+                <Gloss>to get sleepier</Gloss>
+                <Gloss>to become more and more sleepy</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04402000900020{N:001}</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="003328000000000" Lemma="μνημόσυνον" Version="0" HasAramaic="false" InLXX="true" AlphaPos="μ">
+  <StrongCodes>
+    <Strong>G3422</Strong>
+  </StrongCodes>
+  <Authors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes/>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="003328001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>noun, n.</PartOfSpeech>
+      </PartsOfSpeech>
+      <Inflections>
+        <Inflection Lemma="μνημόσυνον" BaseFormIndex="1">
+          <Form/>
+          <Realizations>
+            <Realization>-ου</Realization>
+          </Realizations>
+          <Comments/>
+        </Inflection>
+      </Inflections>
+      <RelatedLemmas>
+        <RelatedLemma>
+          <Word>μιμνῄσκομαι</Word>
+        </RelatedLemma>
+      </RelatedLemmas>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="003328001001000" IsBiblicalTerm="M" EntryCode="29.12" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Memory and Recall</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Recalling from Memory</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-12-09 13:19:22" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>(derivative of {L:μνημονεύω&lt;SDBG:μνημονεύω:000000&gt;}[a] ‘to think about again, to remember,’ {D:29.7}) an instrument or means designed to cause to remember</DefinitionShort>
+              <Glosses>
+                <Gloss>memorial</Gloss>
+                <Gloss>in memory of</Gloss>
+                <Gloss>something to cause people to remember</Gloss>
+              </Glosses>
+              <Comments>In translating {S:04401000400048} it is important to avoid implying that God had forgotten; the implication is simply that prayers and acts of charity are means by which God becomes aware and thus responds to such events.|It is also possible to restructure the meaningful components of this statement as in the case of TEV, “God is pleased with your prayers and works of charity.”</Comments>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04002601300040</LEXReference>
+            <LEXReference>04101400900040</LEXReference>
+            <LEXReference>04401000400048</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

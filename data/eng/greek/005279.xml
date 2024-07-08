@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="005279000000000" Lemma="φιλοτιμέομαι" Version="0" HasAramaic="false" InLXX="false" AlphaPos="φ">
+  <StrongCodes>
+    <Strong>G5389</Strong>
+  </StrongCodes>
+  <Authors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes/>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="005279001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>verb</PartOfSpeech>
+      </PartsOfSpeech>
+      <Constructs>
+        <Construct Lemma="φιλοτιμέομαι" BaseFormIndex="1">
+          <WordMeaningSet>
+            <Word>φιλέω</Word>
+          </WordMeaningSet>
+          <WordMeaningSet>
+            <Word>τιμάω</Word>
+          </WordMeaningSet>
+        </Construct>
+      </Constructs>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="005279001001000" IsBiblicalTerm="Y" EntryCode="25.78" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Attitudes and Emotions</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Be Eager, Be Earnest, In a Devoted Manner</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2022-05-19 14:23:27" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>to earnestly aspire to something, implying strong ambition for some goal</DefinitionShort>
+              <Glosses>
+                <Gloss>to aspire to</Gloss>
+                <Gloss>to make something one’s ambition to</Gloss>
+              </Glosses>
+              <Comments>An equivalent of φιλοτιμεῖσθαι ἡσυχάζειν in {S:05200401100004} may be in some languages ‘do everything you can to live the quiet life.’</Comments>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04501502000006</LEXReference>
+            <LEXReference>04700500900006</LEXReference>
+            <LEXReference>05200401100004</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

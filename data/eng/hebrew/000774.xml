@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="000774000000000" Lemma="אָשֻׁר" Version="5" HasAramaic="false" InLXX="false" AlphaPos="א">
+  <StrongCodes>
+    <Strong>H0838</Strong>
+  </StrongCodes>
+  <Authors>
+    <Author>Reinier de Blois</Author>
+  </Authors>
+  <Contributors/>
+  <AlternateLemmas>
+    <AlternateLemma>אָשׁוּר</AlternateLemma>
+  </AlternateLemmas>
+  <MainLinks/>
+  <Notes>
+    <Note Caller="1" LanguageCode="en" LastEdited="" LastEditedBy="">
+      <References>
+        <Reference>01901701100002</Reference>
+      </References>
+      <Content>{A:MT} {A:GNT} "wherever I turn" | {A:HOTTP}-C {A:RSV} {A:NIV} {A:NJPS} {A:NJB} {A:NRSV} "they track me down" = {L:אִשְּׁרוּנִי&lt;SDBH:אשׁר&gt;} | {A:NJB} "they are advancing against me" {A:REB} "they press me hard"</Content>
+    </Note>
+  </Notes>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="000774001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>nsf</PartOfSpeech>
+      </PartsOfSpeech>
+      <RelatedLemmas>
+        <RelatedLemma>
+          <Word>אשׁר</Word>
+        </RelatedLemma>
+      </RelatedLemmas>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="000774001001000" IsBiblicalTerm="Y" EntryCode="" Indent="0">
+          <LEXDomains>
+            <LEXDomain Code="002002002001" Source="Move" SourceCode="002002001011">Act</LEXDomain>
+          </LEXDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2014-08-25 09:33:46" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>literally: the act or movement of putting one leg in front of the other in walking, used exclusively in a figurative way to denote part of one's journey through life; hence: = something that is being done and, when God is the agent, something that other people ought to do as well; at the same time one can easily slip and fall, which is a metaphor for failure</DefinitionShort>
+              <Glosses>
+                <Gloss>step</Gloss>
+                <Gloss>track</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>01802301100004</LEXReference>
+            <LEXReference>01803100700006</LEXReference>
+            <LEXReference>01901700500004</LEXReference>
+            <LEXReference>01901701100002{N:001}</LEXReference>
+            <LEXReference>01903703100014</LEXReference>
+            <LEXReference>01904000300032</LEXReference>
+            <LEXReference>01904401900014</LEXReference>
+            <LEXReference>01907300200024</LEXReference>
+            <LEXReference>02001401500020</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+          <LEXCoreDomains>
+            <LEXCoreDomain Code="017">Behavior</LEXCoreDomain>
+          </LEXCoreDomains>
+        </LEXMeaning>
+        <LEXMeaning Id="000774001002000" IsBiblicalTerm="N" EntryCode="" Indent="0">
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2020-07-17 14:18:16" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>read בתאשׁרים = {L:תְּאְַשּׁוּר&lt;SDBH:תְּאַשּׁוּר&gt;}</DefinitionShort>
+              <Glosses>
+                <Gloss>cypress</Gloss>
+                <Gloss>fir</Gloss>
+                <Gloss>juniper</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>02602700600020</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

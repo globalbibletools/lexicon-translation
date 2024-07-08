@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="005456000000000" Lemma="ψευδοδιδάσκαλος" Version="0" HasAramaic="false" InLXX="false" AlphaPos="ψ">
+  <StrongCodes>
+    <Strong>G5572</Strong>
+  </StrongCodes>
+  <Authors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes/>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="005456001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>noun, m.</PartOfSpeech>
+      </PartsOfSpeech>
+      <Inflections>
+        <Inflection Lemma="ψευδοδιδάσκαλος" BaseFormIndex="1">
+          <Form/>
+          <Realizations>
+            <Realization>-ου</Realization>
+          </Realizations>
+          <Comments/>
+        </Inflection>
+      </Inflections>
+      <Constructs>
+        <Construct Lemma="ψευδοδιδάσκαλος" BaseFormIndex="1">
+          <WordMeaningSet>
+            <Word>ψεύδομαι</Word>
+          </WordMeaningSet>
+          <WordMeaningSet>
+            <Word>διδάσκω</Word>
+          </WordMeaningSet>
+        </Construct>
+      </Constructs>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="005456001001000" IsBiblicalTerm="M" EntryCode="33.250" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Communication</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Teach</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2022-06-04 20:16:59" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>one who teaches falsehoods</DefinitionShort>
+              <Glosses>
+                <Gloss>false teacher</Gloss>
+                <Gloss>teacher of what is a lie</Gloss>
+              </Glosses>
+              <Comments>In rendering ψευδοδιδάσκαλος, it is important to avoid an expression which will simply mean that a person pretends to be a teacher and is not. What is important here is that the individual teaches what is not true.</Comments>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>06100200100026</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="004291000000000" Lemma="προτίθημι" Version="0" HasAramaic="false" InLXX="true" AlphaPos="π">
+  <StrongCodes>
+    <Strong>G4388</Strong>
+  </StrongCodes>
+  <Authors/>
+  <AlternateLemmas>
+    <AlternateLemma>προτίθεμαι</AlternateLemma>
+  </AlternateLemmas>
+  <MainLinks/>
+  <Notes>
+    <Note Caller="1" LanguageCode="en" LastEdited="" LastEditedBy="">
+      <References/>
+      <Content>προτίθεμαι[a] is similar in meaning to βούλομαι[b] and βουλεύομαι[a] ({D:30.56}) with perhaps, however, some additional emphasis upon prior planning. βούλομαι[b] and βουλεύομαι[a] also imply some prior thought by virtue of their meaning to plan.</Content>
+    </Note>
+  </Notes>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="004291001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>verb</PartOfSpeech>
+      </PartsOfSpeech>
+      <RelatedLemmas>
+        <RelatedLemma>
+          <Word>τίθημι</Word>
+        </RelatedLemma>
+      </RelatedLemmas>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="004291001001000" IsBiblicalTerm="Y" EntryCode="30.62" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Think</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>To Intend, To Purpose, To Plan</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXForms>
+            <LEXForm>προτίθεμαι[a]</LEXForm>
+          </LEXForms>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2022-02-07 12:30:39" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>to formulate a future course of action{N:001}</DefinitionShort>
+              <Glosses>
+                <Gloss>to plan beforehand</Gloss>
+                <Gloss>to purpose</Gloss>
+                <Gloss>to intend</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04500101300018</LEXReference>
+            <LEXReference>04900100900026</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+        <LEXMeaning Id="004291001002000" IsBiblicalTerm="Y" EntryCode="13.15" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Be, Become, Exist, Happen</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>State</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXForms>
+            <LEXForm>προτίθεμαι[b]</LEXForm>
+          </LEXForms>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2022-02-07 12:30:39" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>to cause a manifest state or condition of someone or something</DefinitionShort>
+              <Glosses>
+                <Gloss>to cause to be</Gloss>
+                <Gloss>to bring forth</Gloss>
+                <Gloss>to offer</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04500302500004</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="000151000000000" Lemma="אֲדֹרָם" Version="5" HasAramaic="false" InLXX="false" AlphaPos="א">
+  <StrongCodes>
+    <Strong>H0151</Strong>
+  </StrongCodes>
+  <Authors>
+    <Author>Reinier de Blois</Author>
+  </Authors>
+  <Contributors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes>
+    <Note Caller="1" LanguageCode="en" LastEdited="" LastEditedBy="">
+      <References>
+        <Reference>01002002400004</Reference>
+        <Reference>01101201800014</Reference>
+      </References>
+      <Content>{A:RSV} {A:NJPS} {A:NJB} {A:NRSV} {A:REB} {L:Adoram&lt;SDBH:אֲדֹרָם&gt;} | {A:NIV} {A:GNT} {L:Adoniram&lt;SDBH:אֲדֹנִירָם&gt;} | {A:CEV} is inconsistent</Content>
+    </Note>
+  </Notes>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="000151001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>np</PartOfSpeech>
+      </PartsOfSpeech>
+      <MeaningsOfName>
+        <MeaningOfName LanguageCode="pt">
+          <Meaning>grande e majestoso</Meaning>
+        </MeaningOfName>
+      </MeaningsOfName>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="000151001001000" IsBiblicalTerm="Y" EntryCode="" Indent="0">
+          <LEXDomains>
+            <LEXDomain Code="003001007">Names of People</LEXDomain>
+          </LEXDomains>
+          <LEXSynonyms>
+            <LEXSynonym>אֲדֹנִירָם</LEXSynonym>
+            <LEXSynonym>הֲדֹרָם</LEXSynonym>
+          </LEXSynonyms>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2017-08-09 15:00:15" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>= man, also called {L:Adoniram&lt;SDBH:אֲדֹנִירָם&gt;} and {L:Hadoram&lt;SDBH:הֲדֹורָם&gt;}; ◄ son of {L:Abda&lt;SDBH:עַבְדָּא&gt;}; ► official; time of kings {L:David&lt;SDBH:דָּוִד&gt;}, {L:Solomon&lt;SDBH:שְׁלֹמֹה&gt;}, and {L:Rehoboam&lt;SDBH:רְחַבְעָם&gt;}; stoned by people when they rebelled against Rehoboam</DefinitionShort>
+              <Glosses>
+                <Gloss>Adoram</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>01002002400004{N:001}</LEXReference>
+            <LEXReference>01101201800014{N:001}</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

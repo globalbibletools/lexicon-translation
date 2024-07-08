@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="000234000000000" Lemma="ἀλληγορέω" Version="0" HasAramaic="false" InLXX="false" AlphaPos="α">
+  <StrongCodes>
+    <Strong>G0238</Strong>
+  </StrongCodes>
+  <Authors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes/>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="000234001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>verb</PartOfSpeech>
+      </PartsOfSpeech>
+      <Constructs>
+        <Construct Lemma="ἀλληγορέω" BaseFormIndex="1">
+          <WordMeaningSet>
+            <Word>ἀλλάσσω</Word>
+          </WordMeaningSet>
+          <WordMeaningSet>
+            <Word>ἀγορεύω</Word>
+            <Meaning LanguageCode="en">
+              <Meaning>speak</Meaning>
+            </Meaning>
+            <Meaning LanguageCode="zhT">
+              <Meaning>說話</Meaning>
+            </Meaning>
+          </WordMeaningSet>
+        </Construct>
+      </Constructs>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="000234001001000" IsBiblicalTerm="Y" EntryCode="33.18" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Communication</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Discourse Types</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-05-24 16:42:49" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>to employ an analogy or likeness in communicating</DefinitionShort>
+              <Glosses>
+                <Gloss>to speak allegorically</Gloss>
+                <Gloss>to employ an analogy</Gloss>
+                <Gloss>to use a likeness</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04800402400006</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

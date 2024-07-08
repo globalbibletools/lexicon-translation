@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="005384000000000" Lemma="χειραγωγός" Version="0" HasAramaic="false" InLXX="false" AlphaPos="χ">
+  <StrongCodes>
+    <Strong>G5497</Strong>
+  </StrongCodes>
+  <Authors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes/>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="005384001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>noun, m.</PartOfSpeech>
+      </PartsOfSpeech>
+      <Inflections>
+        <Inflection Lemma="χειραγωγός" BaseFormIndex="1">
+          <Form/>
+          <Realizations>
+            <Realization>-οῦ</Realization>
+          </Realizations>
+          <Comments/>
+        </Inflection>
+      </Inflections>
+      <Constructs>
+        <Construct Lemma="χειραγωγός" BaseFormIndex="1">
+          <WordMeaningSet>
+            <Word>χείρ</Word>
+          </WordMeaningSet>
+          <WordMeaningSet>
+            <Word>ἄγω</Word>
+          </WordMeaningSet>
+        </Construct>
+      </Constructs>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="005384001001000" IsBiblicalTerm="Y" EntryCode="15.185" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Linear Movement</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Lead, Bring, Take</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2022-05-30 19:22:52" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>(derivative of {L:χειραγωγέω&lt;SDBG:χειραγωγέω:000000&gt;} ‘to lead by the hand,’ {D:15.184}) a person who leads another by the hand</DefinitionShort>
+              <Glosses>
+                <Gloss>a guide</Gloss>
+                <Gloss>one who leads by the hand</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04401301100056</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

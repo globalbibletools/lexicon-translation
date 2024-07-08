@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="004077000000000" Lemma="πολιτεία" Version="0" HasAramaic="false" InLXX="true" AlphaPos="π">
+  <StrongCodes>
+    <Strong>G4174</Strong>
+  </StrongCodes>
+  <Authors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes/>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="004077001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>noun, f.</PartOfSpeech>
+      </PartsOfSpeech>
+      <Inflections>
+        <Inflection Lemma="πολιτεία" BaseFormIndex="1">
+          <Form/>
+          <Realizations>
+            <Realization>-ας</Realization>
+          </Realizations>
+          <Comments/>
+        </Inflection>
+      </Inflections>
+      <RelatedLemmas>
+        <RelatedLemma>
+          <Word>πολιτεύομαι</Word>
+        </RelatedLemma>
+      </RelatedLemmas>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="004077001001000" IsBiblicalTerm="Y" EntryCode="11.70" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Groups and Classes of Persons and Members of Such Groups and Classes</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Socio-Political</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2022-01-06 15:06:07" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>the right to be a citizen of a particular socio-political entity (see {D:11.67} and {D:11.68})</DefinitionShort>
+              <Glosses>
+                <Gloss>citizenship</Gloss>
+              </Glosses>
+              <Comments>In some languages {S:04402202800018} may be rendered as ‘I obtained the right to be counted as a citizen’ or ‘I became a person who belongs to that nation.’</Comments>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04402202800018</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+        <LEXMeaning Id="004077001002000" IsBiblicalTerm="Y" EntryCode="11.67" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Groups and Classes of Persons and Members of Such Groups and Classes</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Socio-Political</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2022-01-06 15:06:07" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>a group of people constituting a socio-political unit</DefinitionShort>
+              <Glosses>
+                <Gloss>state</Gloss>
+                <Gloss>people</Gloss>
+              </Glosses>
+              <Comments>It is possible that in {S:04900201200020} the use of πολιτεία suggests not merely a socio-political but also a socio-religious grouping. Such a conclusion would, in a sense, be true of any and all designations of a Jewish constituency, since religion and ethnic identification were so inextricably bound together.</Comments>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04900201200020</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

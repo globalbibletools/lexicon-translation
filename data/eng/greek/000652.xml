@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="000652000000000" Lemma="ἀποτελέω" Version="0" HasAramaic="false" InLXX="true" AlphaPos="α">
+  <StrongCodes>
+    <Strong>G0658</Strong>
+  </StrongCodes>
+  <Authors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes>
+    <Note Caller="1" LanguageCode="en" LastEdited="" LastEditedBy="">
+      <References/>
+      <Content>There are no doubt certain subtle distinctions, particularly of emphasis, in the series τελέω, ἐκτελέω[a], ἀποτελέω, ἐπιτελέω[a], συντελέω[a], and τελειόω[c], but it is not possible to determine with precision the particular distinctions on the basis of existing contexts, though possibly ἐκτελέω and ἀποτελέω emphasize more finality, while ἐπιτελέω[a] may focus upon the resulting purpose.</Content>
+    </Note>
+  </Notes>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="000652001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>verb</PartOfSpeech>
+      </PartsOfSpeech>
+      <RelatedLemmas>
+        <RelatedLemma>
+          <Word>τελέω</Word>
+        </RelatedLemma>
+      </RelatedLemmas>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="000652001001000" IsBiblicalTerm="M" EntryCode="68.22" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Aspect</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Complete, Finish, Succeed</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-08-13 17:39:39" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>to bring an activity to a successful finish{N:001}</DefinitionShort>
+              <Glosses>
+                <Gloss>to complete</Gloss>
+                <Gloss>to finish</Gloss>
+                <Gloss>to end</Gloss>
+                <Gloss>to accomplish</Gloss>
+              </Glosses>
+              <Comments>It is also possible to translate ἀποτελέω in {S:04201303200028} as ‘am performing,’ but the focus evidently is upon the completion of a series of such healings. The final phrase of {S:04201303200028}, καὶ τῇ τρίτω τελειοῦμαι ‘and on the third day I will be finished,’ points to a possible distinction between ἀποτελέω and τελειόω, in which the first apparently serves to mark the end of a particular series, while the second points to the completion of anything and everything involved.</Comments>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04201303200028</LEXReference>
+            <LEXReference>05900101500020</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

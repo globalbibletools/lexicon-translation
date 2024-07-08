@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="000309000000000" Lemma="אָטָד" Version="5" HasAramaic="false" InLXX="false" AlphaPos="א">
+  <StrongCodes>
+    <Strong>H0329</Strong>
+  </StrongCodes>
+  <Authors>
+    <Author>Enio R. Mueller</Author>
+  </Authors>
+  <Contributors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes>
+    <Note Caller="1" LanguageCode="en" LastEdited="" LastEditedBy="">
+      <References>
+        <Reference>01905801000010</Reference>
+      </References>
+      <Content>This verse is difficult to translate (see Dahood's comment). {A:NJPS} "Before the thorns grow into a bramble" | {A:REB} "may they be rooted up like a thorn bush" count with different contextual images than Fire.</Content>
+    </Note>
+  </Notes>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="000309001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>nsm</PartOfSpeech>
+      </PartsOfSpeech>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="000309001001000" IsBiblicalTerm="M" EntryCode="" Indent="0">
+          <LEXDomains>
+            <LEXDomain Code="001003001">Plants</LEXDomain>
+          </LEXDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2017-12-31 13:42:09" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>= a tree that grows to 5 meters (17 feet), has small leaves forming an oval crown, and very sharp thorns; Lycaeum europaeum ({A:HALOT}, {A:DCH}, {A:NIDB} 1:496); or possibly a thorny bush of the Rubus genus, which includes several hundred species ({A:ABD} 2:80)</DefinitionShort>
+              <Glosses>
+                <Gloss>boxthorn</Gloss>
+                <Gloss>bramble</Gloss>
+                <Gloss>thorn</Gloss>
+                <Gloss>thornbush</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>00700901400016</LEXReference>
+            <LEXReference>00700901500008</LEXReference>
+            <LEXReference>00700901500056</LEXReference>
+            <LEXReference>01905801000010{N:001}</LEXReference>
+          </LEXReferences>
+          <LEXLinks>
+            <LEXLink>Flora:1.2</LEXLink>
+          </LEXLinks>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+    <BaseForm Id="000309002000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>nsm</PartOfSpeech>
+      </PartsOfSpeech>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="000309002001000" IsBiblicalTerm="N" EntryCode="" Indent="0">
+          <LEXDomains>
+            <LEXDomain Code="003001010">Names of Locations</LEXDomain>
+          </LEXDomains>
+          <LEXCollocations>
+            <LEXCollocation>גֹּרֶן הָאָטָד</LEXCollocation>
+          </LEXCollocations>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2017-12-31 13:42:09" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>= {L:threshing-floor&lt;SDBH:גֹּרֶן&gt;}, ◄ near river {L:Jordan&lt;SDBH:יַרְדֵּן&gt;}; ► where {L:Jacob&lt;SDBH:יַעֲקֹב&gt;}'s descendants mourned their father's death</DefinitionShort>
+              <Glosses>
+                <Gloss>threshing floor of Atad</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>00105001000012</LEXReference>
+            <LEXReference>00105001100028</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

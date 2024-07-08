@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="005501000000000" Lemma="ὡσπερεί" Version="0" HasAramaic="false" InLXX="false" AlphaPos="ω">
+  <StrongCodes>
+    <Strong>G5619</Strong>
+  </StrongCodes>
+  <Authors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes>
+    <Note Caller="1" LanguageCode="en" LastEdited="" LastEditedBy="">
+      <References/>
+      <Content>In general it seems that forms which include the enclitic περ are somewhat more emphatic, but this is not always possible to establish on the basis of evidently contrastive contexts.</Content>
+    </Note>
+  </Notes>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="005501001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>conj.</PartOfSpeech>
+      </PartsOfSpeech>
+      <Constructs>
+        <Construct Lemma="ὡσπερεί" BaseFormIndex="1">
+          <WordMeaningSet>
+            <Word>ὡς</Word>
+          </WordMeaningSet>
+          <WordMeaningSet>
+            <Word>-πέρ</Word>
+          </WordMeaningSet>
+          <WordMeaningSet>
+            <Word>εἰ</Word>
+          </WordMeaningSet>
+        </Construct>
+      </Constructs>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="005501001001000" IsBiblicalTerm="Y" EntryCode="64.13" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Comparison</LEXDomain>
+          </LEXDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2022-06-13 14:07:17" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>a somewhat more emphatic marker of similarity between events and states{N:001}</DefinitionShort>
+              <Glosses>
+                <Gloss>as</Gloss>
+                <Gloss>just as</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04601500800008</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

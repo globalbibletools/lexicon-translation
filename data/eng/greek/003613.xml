@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="003613000000000" Lemma="ὅρασις" Version="0" HasAramaic="false" InLXX="true" AlphaPos="ο">
+  <StrongCodes>
+    <Strong>G3706</Strong>
+  </StrongCodes>
+  <Authors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes/>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="003613001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>noun, f.</PartOfSpeech>
+      </PartsOfSpeech>
+      <Inflections>
+        <Inflection Lemma="ὅρασις" BaseFormIndex="1">
+          <Form/>
+          <Realizations>
+            <Realization>-εως</Realization>
+          </Realizations>
+          <Comments/>
+        </Inflection>
+      </Inflections>
+      <RelatedLemmas>
+        <RelatedLemma>
+          <Word>ὁράω</Word>
+        </RelatedLemma>
+      </RelatedLemmas>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="003613001001000" IsBiblicalTerm="M" EntryCode="33.488" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Communication</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Non-Verbal Communication</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-12-15 18:45:01" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>an event in which something appears vividly and credibly to the mind, although not actually present, but implying the influence of some divine or supernatural power or agency</DefinitionShort>
+              <Glosses>
+                <Gloss>vision</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04400201700062</LEXReference>
+            <LEXReference>06600901700016</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+        <LEXMeaning Id="003613001002000" IsBiblicalTerm="Y" EntryCode="24.31" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Sensory Events and States</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>See</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-12-15 18:45:01" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>that which appears or is seen</DefinitionShort>
+              <Glosses>
+                <Gloss>appearance</Gloss>
+              </Glosses>
+              <Comments>ὅρασις[b] in {S:06600400300010} may be rendered in some languages as ‘as seen’ or ‘to the eyes’ or ‘to look at,’ for example, ‘and he who sat upon it was similar to a jasper stone to look at’ or ‘to look at the one who sat on it was like looking at a jasper stone.’</Comments>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>06600400300010</LEXReference>
+            <LEXReference>06600400300032</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

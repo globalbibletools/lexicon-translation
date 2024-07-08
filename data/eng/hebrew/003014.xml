@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="003014000000000" Lemma="יַעְרֵי אֹרְגִים" Version="5" HasAramaic="false" InLXX="false" AlphaPos="י">
+  <StrongCodes>
+    <Strong>H3296</Strong>
+  </StrongCodes>
+  <Authors>
+    <Author>Reinier de Blois</Author>
+  </Authors>
+  <Contributors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes>
+    <Note Caller="1" LanguageCode="en" LastEdited="" LastEditedBy="">
+      <References>
+        <Reference>01002101900028</Reference>
+        <Reference>01302000500060200</Reference>
+      </References>
+      <Content>RSV NJPS NRSV ESV "Jaare-oregim" NIV "Jaare-Oregim" | NJB REB GNT "Jair" | CEV "Jari" | see</Content>
+    </Note>
+  </Notes>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="003014001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>np</PartOfSpeech>
+      </PartsOfSpeech>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="003014001001000" IsBiblicalTerm="Y" EntryCode="" Indent="0">
+          <LEXDomains>
+            <LEXDomain Code="003001007">Names of People</LEXDomain>
+          </LEXDomains>
+          <LEXSynonyms>
+            <LEXSynonym>יַעִיר</LEXSynonym>
+          </LEXSynonyms>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2015-07-04 21:44:58" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>= man, also known as {L:Jair&lt;SDBH:יָעִיר&gt;}; ► father of {L:Elhanan&lt;SDBH:אֶלְחָנָן&gt;}, warrior, time of king {L:David&lt;SDBH:דָּוִד&gt;}</DefinitionShort>
+              <Glosses>
+                <Gloss>Jaare-Oregim</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>01002101900028-01002101900030{N:001}</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

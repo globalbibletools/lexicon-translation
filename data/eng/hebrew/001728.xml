@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="001728000000000" Lemma="דֶּשֶׁן" Version="5" HasAramaic="false" InLXX="false" AlphaPos="ד">
+  <StrongCodes>
+    <Strong>H1880</Strong>
+  </StrongCodes>
+  <Authors>
+    <Author>Enio R. Mueller</Author>
+  </Authors>
+  <Contributors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes/>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="001728001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>nsm</PartOfSpeech>
+      </PartsOfSpeech>
+      <RelatedLemmas>
+        <RelatedLemma>
+          <Word>דשׁן</Word>
+        </RelatedLemma>
+      </RelatedLemmas>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="001728001001000" IsBiblicalTerm="Y" EntryCode="" Indent="0">
+          <LEXDomains>
+            <LEXDomain Code="001001002">Creatures</LEXDomain>
+          </LEXDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2016-04-23 12:26:49" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>= state in which the body of humans or animals contains a significant quantity of fat, ≈ which used to be regarded as the best part and associated with health and well-being</DefinitionShort>
+              <Glosses>
+                <Gloss>fatness</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>00700900900018</LEXReference>
+            <LEXReference>01803601600030</LEXReference>
+            <LEXReference>01903600900006</LEXReference>
+            <LEXReference>01906300600008</LEXReference>
+            <LEXReference>01906501200014</LEXReference>
+            <LEXReference>02305500200046</LEXReference>
+            <LEXReference>02403101400012</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+          <LEXCoreDomains>
+            <LEXCoreDomain Code="019">Body</LEXCoreDomain>
+            <LEXCoreDomain Code="137">Quality</LEXCoreDomain>
+          </LEXCoreDomains>
+        </LEXMeaning>
+        <LEXMeaning Id="001728001002000" IsBiblicalTerm="M" EntryCode="" Indent="0">
+          <LEXDomains>
+            <LEXDomain Code="001006005">Dust</LEXDomain>
+          </LEXDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2016-04-23 12:26:49" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>= remainders of the fat of animals after it has been burned</DefinitionShort>
+              <Glosses>
+                <Gloss>fat ashes</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>00300101600034</LEXReference>
+            <LEXReference>00300401200038</LEXReference>
+            <LEXReference>00300401200062</LEXReference>
+            <LEXReference>00300600300034</LEXReference>
+            <LEXReference>00300600400026</LEXReference>
+            <LEXReference>01101300300048</LEXReference>
+            <LEXReference>01101300500016</LEXReference>
+            <LEXReference>02403104000018</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+          <LEXCoreDomains>
+            <LEXCoreDomain Code="019">Body</LEXCoreDomain>
+            <LEXCoreDomain Code="067">Fire</LEXCoreDomain>
+          </LEXCoreDomains>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="001544000000000" Lemma="דְּבֹורָה" Version="5" HasAramaic="false" InLXX="false" AlphaPos="ד">
+  <StrongCodes>
+    <Strong>H1682</Strong>
+    <Strong>H1683</Strong>
+  </StrongCodes>
+  <Authors>
+    <Author>Enio R. Mueller</Author>
+  </Authors>
+  <Contributors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes/>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="001544001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>nsf</PartOfSpeech>
+      </PartsOfSpeech>
+      <RelatedLemmas>
+        <RelatedLemma>
+          <Word>דבר</Word>
+        </RelatedLemma>
+      </RelatedLemmas>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="001544001001000" IsBiblicalTerm="M" EntryCode="" Indent="0">
+          <LEXDomains>
+            <LEXDomain Code="001001002001006">Swarming Creatures</LEXDomain>
+          </LEXDomains>
+          <LEXSynonyms>
+            <LEXSynonym>זְבוּב</LEXSynonym>
+          </LEXSynonyms>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2015-11-12 14:47:00" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>= flying insect that collects nectar from flowers and converts it into honey; lives in swarms made up of many thousands of insects; stings only when threatened; ≈ with connotations ranging from positive (food producing) to negative (as a metaphor for an army of well-organized enemies</DefinitionShort>
+              <Glosses>
+                <Gloss>bee</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>00500104400042</LEXReference>
+            <LEXReference>00701400800036</LEXReference>
+            <LEXReference>01911801200006</LEXReference>
+            <LEXReference>02300701800042</LEXReference>
+          </LEXReferences>
+          <LEXLinks>
+            <LEXLink>Fauna:6.2</LEXLink>
+          </LEXLinks>
+          <LEXVideos/>
+          <LEXCoreDomains>
+            <LEXCoreDomain Code="010">Animal</LEXCoreDomain>
+          </LEXCoreDomains>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+    <BaseForm Id="001544002000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>np</PartOfSpeech>
+      </PartsOfSpeech>
+      <RelatedLemmas>
+        <RelatedLemma>
+          <Word>דבר</Word>
+        </RelatedLemma>
+      </RelatedLemmas>
+      <MeaningsOfName>
+        <MeaningOfName LanguageCode="en">
+          <Meaning>bee</Meaning>
+        </MeaningOfName>
+      </MeaningsOfName>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="001544002001000" IsBiblicalTerm="Y" EntryCode="" Indent="0">
+          <LEXDomains>
+            <LEXDomain Code="003001007">Names of People</LEXDomain>
+          </LEXDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2015-11-12 14:47:00" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>= woman; ► nurse of {L:Rebekah&lt;SDBH:רִבְקָה&gt;}</DefinitionShort>
+              <Glosses>
+                <Gloss>Deborah</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>00103500800006</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+        <LEXMeaning Id="001544002002000" IsBiblicalTerm="M" EntryCode="" Indent="0">
+          <LEXDomains>
+            <LEXDomain Code="003001007">Names of People</LEXDomain>
+          </LEXDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2015-11-12 14:47:00" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>= woman; ► wife of {L:Lappidoth&lt;SDBH:לַפִּידֹות&gt;}; {L:prophetess&lt;SDBH:נְבִיאָה&gt;}, warrior and judge of {L:Israel&lt;SDBH:יִשְׂרָאֵל&gt;} in the pre-monarchical period</DefinitionShort>
+              <Glosses>
+                <Gloss>Deborah</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>00700400400004</LEXReference>
+            <LEXReference>00700400500012</LEXReference>
+            <LEXReference>00700400900054</LEXReference>
+            <LEXReference>00700401000040</LEXReference>
+            <LEXReference>00700401400006</LEXReference>
+            <LEXReference>00700500100006</LEXReference>
+            <LEXReference>00700500700018</LEXReference>
+            <LEXReference>00700501200006</LEXReference>
+            <LEXReference>00700501500012</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

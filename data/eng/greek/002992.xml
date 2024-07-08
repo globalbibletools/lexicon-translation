@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="002992000000000" Lemma="λαγχάνω" Version="0" HasAramaic="false" InLXX="true" AlphaPos="λ">
+  <StrongCodes>
+    <Strong>G2975</Strong>
+  </StrongCodes>
+  <Authors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes/>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="002992001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>verb</PartOfSpeech>
+      </PartsOfSpeech>
+      <Inflections>
+        <Inflection Lemma="λαγχάνω" BaseFormIndex="1">
+          <Form>aor.</Form>
+          <Realizations>
+            <Realization>ἔλαχον</Realization>
+          </Realizations>
+          <Comments/>
+        </Inflection>
+        <Inflection Lemma="λαγχάνω" BaseFormIndex="1">
+          <Form>subj.</Form>
+          <Realizations>
+            <Realization>λάχω</Realization>
+          </Realizations>
+          <Comments/>
+        </Inflection>
+        <Inflection Lemma="λαγχάνω" BaseFormIndex="1">
+          <Form>ptc.</Form>
+          <Realizations>
+            <Realization>λαχών</Realization>
+          </Realizations>
+          <Comments/>
+        </Inflection>
+      </Inflections>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="002992001001000" IsBiblicalTerm="Y" EntryCode="57.127" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Possess, Transfer, Exchange</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Receive</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-11-02 13:58:22" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>to receive, with the implication that the process is related somehow to divine will or favor</DefinitionShort>
+              <Glosses>
+                <Gloss>to receive</Gloss>
+              </Glosses>
+              <Comments>It is, however, possible to interpret λαγχάνω in {S:04400101700014} and in {S:06100100100022} as referring to the process of divine choice and thus translate as ‘be chosen to have.’</Comments>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04400101700014</LEXReference>
+            <LEXReference>06100100100022</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+        <LEXMeaning Id="002992001002000" IsBiblicalTerm="M" EntryCode="30.104" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Think</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>To Choose, To Select, To Prefer</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-11-02 13:58:22" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>to choose by lot, probably by the use of marked pebbles or pieces of pottery</DefinitionShort>
+              <Glosses>
+                <Gloss>to choose by lot</Gloss>
+                <Gloss>to decide by gambling</Gloss>
+              </Glosses>
+              <Comments>In a number of languages the closest equivalent to ‘casting lots,’ particularly for this type of context, is ‘to gamble.’</Comments>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04301902400018</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+        <LEXMeaning Id="002992001003000" IsBiblicalTerm="M" EntryCode="30.106" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Think</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>To Choose, To Select, To Prefer</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-11-02 13:58:22" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>to be selected by a decision based on the casting of lots, with the possible implication of reflecting divine choice</DefinitionShort>
+              <Glosses>
+                <Gloss>to be chosen by lot</Gloss>
+                <Gloss>to be selected by lot</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04200100900012</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

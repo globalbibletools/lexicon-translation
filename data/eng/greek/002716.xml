@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="002716000000000" Lemma="καταχέω" Version="0" HasAramaic="false" InLXX="true" AlphaPos="κ">
+  <StrongCodes>
+    <Strong>G2708</Strong>
+  </StrongCodes>
+  <Authors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes/>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="002716001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>verb</PartOfSpeech>
+      </PartsOfSpeech>
+      <Inflections>
+        <Inflection Lemma="καταχέω" BaseFormIndex="1">
+          <Form>aor.3sg.</Form>
+          <Realizations>
+            <Realization>κατέχεεν</Realization>
+          </Realizations>
+          <Comments/>
+        </Inflection>
+      </Inflections>
+      <RelatedLemmas>
+        <RelatedLemma>
+          <Word>χέω</Word>
+          <Meaning LanguageCode="en">
+            <Meaning>pour</Meaning>
+          </Meaning>
+          <Meaning LanguageCode="zhT">
+            <Meaning>倒</Meaning>
+          </Meaning>
+        </RelatedLemma>
+      </RelatedLemmas>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="002716001001000" IsBiblicalTerm="Y" EntryCode="47.5" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Activities Involving Liquids or Masses</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Movement of Liquids or Masses</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-09-28 10:25:02" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>to cause to pour down on</DefinitionShort>
+              <Glosses>
+                <Gloss>to pour on</Gloss>
+                <Gloss>to pour over</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04002600700018</LEXReference>
+            <LEXReference>04101400300050</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

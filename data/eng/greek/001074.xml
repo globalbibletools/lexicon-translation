@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="001074000000000" Lemma="γαστήρ" Version="0" HasAramaic="false" InLXX="true" AlphaPos="γ">
+  <StrongCodes>
+    <Strong>G1064</Strong>
+  </StrongCodes>
+  <Authors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes/>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="001074001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>noun, f.</PartOfSpeech>
+      </PartsOfSpeech>
+      <Inflections>
+        <Inflection Lemma="γαστήρ" BaseFormIndex="1">
+          <Form/>
+          <Realizations>
+            <Realization>-τρός</Realization>
+          </Realizations>
+          <Comments/>
+        </Inflection>
+      </Inflections>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="001074001001000" IsBiblicalTerm="Y" EntryCode="8.68" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Body, Body Parts, and Body Products</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Parts of the Body</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-05-25 11:04:07" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>the inward parts of the body, either the digestive system (as in γαστέρες ἀργαί, literally ‘lazy bellies,’ but meaning ‘gluttons’ {S:05600101200026}) or the womb (in set phrases such as συλλαμβάνω ἐν γαστρί ‘to conceive’ {S:04200103100010}; ἐν γαστρὶ ἔχω ‘be pregnant’ {S:04000101800044} and elsewhere)</DefinitionShort>
+              <Glosses>
+                <Gloss>belly</Gloss>
+                <Gloss>stomach</Gloss>
+                <Gloss>womb</Gloss>
+              </Glosses>
+              <Comments>See also {D:23.19}, {D:23.49}, and {D:23.50}.</Comments>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04200103100010</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+        <LEXMeaning Id="001074001002000" IsBiblicalTerm="M" EntryCode="23.19" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Physiological Processes and States</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Eat, Drink</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-05-25 11:04:07" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>(a figurative extension of meaning of {L:γαστήρ&lt;SDBG:γαστήρ:000000&gt;}[a] ‘belly,’ {D:8.68}) a person who habitually eats excessively</DefinitionShort>
+              <Glosses>
+                <Gloss>glutton</Gloss>
+              </Glosses>
+              <Comments>A glutton is often spoken of idiomatically, for example, ‘a large belly’ or ‘a person who is only a stomach’ or ‘a professional eater.’</Comments>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>05600101200026</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+        <LEXMeaning Id="001074001003000" IsBiblicalTerm="Y" EntryCode="23.50" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Physiological Processes and States</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Birth, Procreation</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXCollocations>
+            <LEXCollocation>ἐν γαστρὶ ἔχω</LEXCollocation>
+          </LEXCollocations>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-05-25 11:04:07" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>(an idiom, literally: to have in the womb) to be in a state of pregnancy.</DefinitionShort>
+              <Glosses>
+                <Gloss>pregnant</Gloss>
+                <Gloss>to be pregnant</Gloss>
+              </Glosses>
+              <Comments>This expression contrasts with the meaning of {L:συλλαμβάνω&lt;SDBG:συλλαμβάνω:000001&gt;}[b], {D:23.49}, in that it seems to focus more upon the state of pregnancy rather than the event of conception.|It is impossible to determine whether in {S:04000102300010} (ἐν γαστρὶ ἕξει καὶ τέξεται υἱόν ‘she will be pregnant and bear a son’) the focus is upon the state of pregnancy or the fact of conception (see {D:23.49}).</Comments>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04000101800044</LEXReference>
+            <LEXReference>04000102300010</LEXReference>
+            <LEXReference>04002401900010</LEXReference>
+            <LEXReference>04101301700010</LEXReference>
+            <LEXReference>04202102300008</LEXReference>
+            <LEXReference>05200500300032</LEXReference>
+            <LEXReference>06601200200006</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

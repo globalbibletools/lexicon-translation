@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="005435000000000" Lemma="χρονοτριβέω" Version="0" HasAramaic="false" InLXX="false" AlphaPos="χ">
+  <StrongCodes>
+    <Strong>G5551</Strong>
+  </StrongCodes>
+  <Authors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes/>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="005435001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>verb</PartOfSpeech>
+      </PartsOfSpeech>
+      <Constructs>
+        <Construct Lemma="χρονοτριβέω" BaseFormIndex="1">
+          <WordMeaningSet>
+            <Word>χρονίζω</Word>
+          </WordMeaningSet>
+          <WordMeaningSet>
+            <Word>τρίβω</Word>
+            <Meaning LanguageCode="en">
+              <Meaning>rub, spend [time]</Meaning>
+            </Meaning>
+            <Meaning LanguageCode="zhT">
+              <Meaning>擦，花［時間］</Meaning>
+            </Meaning>
+          </WordMeaningSet>
+        </Construct>
+      </Constructs>
+      <RelatedLemmas>
+        <RelatedLemma>
+          <Word>τρίβος</Word>
+        </RelatedLemma>
+      </RelatedLemmas>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="005435001001000" IsBiblicalTerm="Y" EntryCode="67.79" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Time</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Duration of Time without Reference to Points or Units of Time: Time, Spend Time, Always, Eternal, Old, Immediately, Young</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2022-06-04 19:09:39" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>to experience a duration of time</DefinitionShort>
+              <Glosses>
+                <Gloss>to spend time</Gloss>
+              </Glosses>
+              <Comments>In a number of languages χρονοτριβέω may be best rendered as ‘to remain for a time’ or idiomatically as ‘to sit for a time.’</Comments>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04402001600024</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="004622000000000" Lemma="στέγη" Version="0" HasAramaic="false" InLXX="true" AlphaPos="σ">
+  <StrongCodes>
+    <Strong>G4721</Strong>
+  </StrongCodes>
+  <Authors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes/>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="004622001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>noun, f.</PartOfSpeech>
+      </PartsOfSpeech>
+      <Inflections>
+        <Inflection Lemma="στέγη" BaseFormIndex="1">
+          <Form/>
+          <Realizations>
+            <Realization>-ης</Realization>
+          </Realizations>
+          <Comments/>
+        </Inflection>
+      </Inflections>
+      <RelatedLemmas>
+        <RelatedLemma>
+          <Word>στέγω</Word>
+        </RelatedLemma>
+      </RelatedLemmas>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="004622001001000" IsBiblicalTerm="M" EntryCode="7.50" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Constructions</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Parts and Areas of Buildings</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2022-02-18 11:47:03" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>the area on the top of a flat-roof house</DefinitionShort>
+              <Glosses>
+                <Gloss>housetop</Gloss>
+              </Glosses>
+              <Comments>In general, the types of roofs referred to in the NT are flat-top, made of pounded dirt, sometimes mixed with lime or stone, and supported by heavy beams. In view of the various types of activities described as taking place on the housetop, it may be important in some languages to indicate either in the text or in a marginal note the fact that such housetops were flat and that there was usually easy access to such roofs.</Comments>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04000800800028</LEXReference>
+            <LEXReference>04100200400022</LEXReference>
+            <LEXReference>04200700600064</LEXReference>
+          </LEXReferences>
+          <LEXLinks>
+            <LEXLink>realia:3.1.5</LEXLink>
+          </LEXLinks>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

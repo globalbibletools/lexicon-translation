@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="002260000000000" Lemma="ἡμέτερος" Version="0" HasAramaic="false" InLXX="true" AlphaPos="η">
+  <StrongCodes>
+    <Strong>G2251</Strong>
+  </StrongCodes>
+  <Authors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes/>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="002260001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>ppos.</PartOfSpeech>
+      </PartsOfSpeech>
+      <Inflections>
+        <Inflection Lemma="ἡμέτερος" BaseFormIndex="1">
+          <Form/>
+          <Realizations>
+            <Realization>-α, -ον</Realization>
+          </Realizations>
+          <Comments/>
+        </Inflection>
+      </Inflections>
+      <RelatedLemmas>
+        <RelatedLemma>
+          <Word>ἐγώ</Word>
+        </RelatedLemma>
+      </RelatedLemmas>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="002260001001000" IsBiblicalTerm="Y" EntryCode="92.5" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Discourse Referentials</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Speaker and Those Associated with the Speaker [exclusive and inclusive]</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-07-23 17:38:59" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>pertaining to the speaker or writer and those associated with him or her, either including or excluding the audience</DefinitionShort>
+              <Glosses>
+                <Gloss>our</Gloss>
+                <Gloss>of us</Gloss>
+                <Gloss>ours</Gloss>
+              </Glosses>
+              <Comments>This meaning is also found as a variant reading: κατὰ τὸν ἡμέτερον νόμον ἐβουλήθημεν ἀνελεῖν ‘we wished to judge him according to our law’ {S:04402400600018} (apparatus).</Comments>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04400201100024</LEXReference>
+            <LEXReference>04402400600018</LEXReference>
+            <LEXReference>04402600500026</LEXReference>
+            <LEXReference>04501500400012</LEXReference>
+            <LEXReference>05500401500018</LEXReference>
+            <LEXReference>05600301400010</LEXReference>
+            <LEXReference>06200100300040</LEXReference>
+            <LEXReference>06200200200024</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

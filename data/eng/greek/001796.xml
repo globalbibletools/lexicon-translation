@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="001796000000000" Lemma="ἐντέλλομαι" Version="0" HasAramaic="false" InLXX="false" AlphaPos="ε">
+  <StrongCodes>
+    <Strong>G1781</Strong>
+  </StrongCodes>
+  <Authors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes/>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="001796001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>verb</PartOfSpeech>
+      </PartsOfSpeech>
+      <Inflections>
+        <Inflection Lemma="ἐντέλλομαι" BaseFormIndex="1">
+          <Form>fut.</Form>
+          <Realizations>
+            <Realization>ἐντελοῦμαι</Realization>
+          </Realizations>
+          <Comments/>
+        </Inflection>
+        <Inflection Lemma="ἐντέλλομαι" BaseFormIndex="1">
+          <Form>aor.</Form>
+          <Realizations>
+            <Realization>ἐνετειλάμην</Realization>
+          </Realizations>
+          <Comments/>
+        </Inflection>
+        <Inflection Lemma="ἐντέλλομαι" BaseFormIndex="1">
+          <Form>ptc.</Form>
+          <Realizations>
+            <Realization>ἐντειλάμενος</Realization>
+          </Realizations>
+          <Comments/>
+        </Inflection>
+        <Inflection Lemma="ἐντέλλομαι" BaseFormIndex="1">
+          <Form>pf.</Form>
+          <Realizations>
+            <Realization>ἐντέταλμαι</Realization>
+          </Realizations>
+          <Comments/>
+        </Inflection>
+      </Inflections>
+      <RelatedLemmas>
+        <RelatedLemma>
+          <Word>τέλλομαι</Word>
+          <Meaning LanguageCode="en">
+            <Meaning>arise</Meaning>
+          </Meaning>
+          <Meaning LanguageCode="zhT">
+            <Meaning>起來</Meaning>
+          </Meaning>
+        </RelatedLemma>
+        <RelatedLemma>
+          <Word>ἔνταλμα</Word>
+        </RelatedLemma>
+        <RelatedLemma>
+          <Word>ἐντολή</Word>
+        </RelatedLemma>
+      </RelatedLemmas>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="001796001001000" IsBiblicalTerm="Y" EntryCode="33.329" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Communication</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Command, Order</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-06-02 09:56:35" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>to give definite orders, implying authority or official sanction</DefinitionShort>
+              <Glosses>
+                <Gloss>to command</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04000400600036</LEXReference>
+            <LEXReference>04001700900014</LEXReference>
+            <LEXReference>04001900700012</LEXReference>
+            <LEXReference>04002802000012</LEXReference>
+            <LEXReference>04101000300016</LEXReference>
+            <LEXReference>04101303400044</LEXReference>
+            <LEXReference>04200401000014</LEXReference>
+            <LEXReference>04300800500014</LEXReference>
+            <LEXReference>04301403100024</LEXReference>
+            <LEXReference>04301501400018</LEXReference>
+            <LEXReference>04301501700004</LEXReference>
+            <LEXReference>04400100200008</LEXReference>
+            <LEXReference>04401304700006</LEXReference>
+            <LEXReference>05800902000016</LEXReference>
+            <LEXReference>05801102200032</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

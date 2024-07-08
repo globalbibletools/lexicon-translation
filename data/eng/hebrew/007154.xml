@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="007154000000000" Lemma="שְׁבוּעָה" Version="4" HasAramaic="false" InLXX="false" AlphaPos="ש">
+  <StrongCodes>
+    <Strong>H7621</Strong>
+  </StrongCodes>
+  <Authors>
+    <Author>Reinier de Blois</Author>
+  </Authors>
+  <Contributors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes>
+    <Note Caller="1" LanguageCode="en" LastEdited="" LastEditedBy="">
+      <References>
+        <Reference>03500300900008</Reference>
+      </References>
+      <Content>MT HOTTP-C NJPS | NIV "many" NJB "give its fill" NRSV "sated" = {L:שׂבע&lt;SDBH:שׂבע&gt;}</Content>
+    </Note>
+  </Notes>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="007154001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>nsf</PartOfSpeech>
+      </PartsOfSpeech>
+      <RelatedLemmas>
+        <RelatedLemma>
+          <Word>שׁבע</Word>
+        </RelatedLemma>
+      </RelatedLemmas>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="007154001001000" IsBiblicalTerm="M" EntryCode="" Indent="0">
+          <LEXDomains>
+            <LEXDomain Code="002004001009013">Vow</LEXDomain>
+          </LEXDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2017-11-15 08:55:38" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>= action by which humans or deities make a solemn statement often calling on a higher power to confirm that what is said is true or to punish the speaker if it turns out not to be true</DefinitionShort>
+              <Glosses>
+                <Gloss>oath</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>00102400800026</LEXReference>
+            <LEXReference>00102600300056</LEXReference>
+            <LEXReference>00202201000002</LEXReference>
+            <LEXReference>00300500400042</LEXReference>
+            <LEXReference>00400502100018</LEXReference>
+            <LEXReference>00400502100052</LEXReference>
+            <LEXReference>00403000300018</LEXReference>
+            <LEXReference>00403001100024</LEXReference>
+            <LEXReference>00403001400010</LEXReference>
+            <LEXReference>00500700800022</LEXReference>
+            <LEXReference>00600201700018</LEXReference>
+            <LEXReference>00600202000022</LEXReference>
+            <LEXReference>00600902000028</LEXReference>
+            <LEXReference>00702100500040</LEXReference>
+            <LEXReference>00901402600048</LEXReference>
+            <LEXReference>01002100700024</LEXReference>
+            <LEXReference>01100204300012</LEXReference>
+            <LEXReference>01301601600012</LEXReference>
+            <LEXReference>01401501500014</LEXReference>
+            <LEXReference>01600601800012</LEXReference>
+            <LEXReference>01601003000022</LEXReference>
+            <LEXReference>01910500900012</LEXReference>
+            <LEXReference>02100800200016</LEXReference>
+            <LEXReference>02100900200094</LEXReference>
+            <LEXReference>02401100500010</LEXReference>
+            <LEXReference>02700901100042</LEXReference>
+            <LEXReference>03500300900008{N:001}</LEXReference>
+            <LEXReference>03800801700022</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+          <LEXCoreDomains>
+            <LEXCoreDomain Code="041">Communication</LEXCoreDomain>
+            <LEXCoreDomain Code="118">Oath</LEXCoreDomain>
+          </LEXCoreDomains>
+        </LEXMeaning>
+        <LEXMeaning Id="007154001002000" IsBiblicalTerm="Y" EntryCode="" Indent="0">
+          <LEXDomains>
+            <LEXDomain Code="002003002009" Source="Vow" SourceCode="002004001009013">Curse</LEXDomain>
+          </LEXDomains>
+          <LEXSynonyms>
+            <LEXSynonym>אָלָה</LEXSynonym>
+          </LEXSynonyms>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-06-28 13:58:10" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>literally: swearing (by someone); hence: = action by which humans mention someone's name in a curse</DefinitionShort>
+              <Glosses>
+                <Gloss>curse</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>02306501500010</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+          <LEXCoreDomains>
+            <LEXCoreDomain Code="041">Communication</LEXCoreDomain>
+            <LEXCoreDomain Code="018">Blessing and Cursing</LEXCoreDomain>
+          </LEXCoreDomains>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

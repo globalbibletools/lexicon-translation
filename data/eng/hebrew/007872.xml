@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="007872000000000" Lemma="תִּנְשֶׁמֶת" Version="5" HasAramaic="false" InLXX="false" AlphaPos="ת">
+  <StrongCodes>
+    <Strong>H8580</Strong>
+  </StrongCodes>
+  <Authors>
+    <Author>Reinier de Blois</Author>
+  </Authors>
+  <Contributors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes>
+    <Note Caller="1" LanguageCode="en" LastEdited="" LastEditedBy="">
+      <References>
+        <Reference>00301101800008</Reference>
+        <Reference>00501401600020</Reference>
+      </References>
+      <Content>RSV NRSV "water hen" | NIV NJPS "white owl" | NJB "ibis" | REB "little owl"</Content>
+    </Note>
+    <Note Caller="2" LanguageCode="en" LastEdited="" LastEditedBy="">
+      <References>
+        <Reference>00301103000030</Reference>
+      </References>
+      <Content>RSV NIV NJPS NRSV REB "chameleon" | NJB "tinshamet"</Content>
+    </Note>
+  </Notes>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="007872001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>nsf</PartOfSpeech>
+      </PartsOfSpeech>
+      <RelatedLemmas>
+        <RelatedLemma>
+          <Word>נשׁם</Word>
+        </RelatedLemma>
+      </RelatedLemmas>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="007872001001000" IsBiblicalTerm="M" EntryCode="" Indent="0">
+          <LEXDomains>
+            <LEXDomain Code="001001002001005">Birds</LEXDomain>
+          </LEXDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2015-12-28 11:37:33" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>exact meaning unknown; probably: = type of owl with a very pale color, light fawn or gray on the wings and back, and almost white on the chest and under the wings; it has small eyes, a large head for its size, and a very striking heart-shaped white facial disk outlined in brown; it often roosts in barns, deserted houses, caves, and tombs; it lives mainly on rats, mice, and other small nocturnal creatures; ◄ Tyto alba; ► unclean and therefore not to be eaten</DefinitionShort>
+              <Glosses>
+                <Gloss>barn owl</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>00301101800008{N:001}</LEXReference>
+            <LEXReference>00501401600020{N:001}</LEXReference>
+          </LEXReferences>
+          <LEXLinks>
+            <LEXLink>Fauna:3.17.8</LEXLink>
+          </LEXLinks>
+          <LEXVideos/>
+          <LEXCoreDomains>
+            <LEXCoreDomain Code="010">Animal</LEXCoreDomain>
+          </LEXCoreDomains>
+        </LEXMeaning>
+        <LEXMeaning Id="007872001002000" IsBiblicalTerm="M" EntryCode="" Indent="0">
+          <LEXDomains>
+            <LEXDomain Code="001001002001003">Small Animals</LEXDomain>
+          </LEXDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2015-12-28 11:37:33" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>= type of lizard with a basically green color, but which can change color to match its environment; it is slow moving; it feeds on insects by catching them with its long, sticky, elastic tongue, which it flicks at the prey; it is also able to use its tail to wrap around twigs and other things to support itself when the wind blows or when climbing at a steep angle; ◄ Chamaeleo chamaeleon; ► unclean and therefore not to be eaten</DefinitionShort>
+              <Glosses>
+                <Gloss>chameleon</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>00301103000030{N:002}</LEXReference>
+          </LEXReferences>
+          <LEXLinks>
+            <LEXLink>Fauna:4.3</LEXLink>
+          </LEXLinks>
+          <LEXVideos/>
+          <LEXCoreDomains>
+            <LEXCoreDomain Code="010">Animal</LEXCoreDomain>
+          </LEXCoreDomains>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

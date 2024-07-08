@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="006263000000000" Lemma="צעד" Version="4" HasAramaic="false" InLXX="false" AlphaPos="צ">
+  <StrongCodes>
+    <Strong>H6805</Strong>
+  </StrongCodes>
+  <Authors>
+    <Author>Graham S. Ogden</Author>
+  </Authors>
+  <Contributors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes>
+    <Note Caller="1" LanguageCode="en" LastEdited="" LastEditedBy="">
+      <References>
+        <Reference>00104902200018</Reference>
+      </References>
+      <Content>RSV NIV NJB NRSV REB GNT ESV | NJPS "wild colts" GNT "wild colt"</Content>
+    </Note>
+  </Notes>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="006263001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>vb</PartOfSpeech>
+      </PartsOfSpeech>
+      <RelatedLemmas>
+        <RelatedLemma>
+          <Word>אֶצְעָדָה</Word>
+        </RelatedLemma>
+        <RelatedLemma>
+          <Word>מִצְעָד</Word>
+        </RelatedLemma>
+        <RelatedLemma>
+          <Word>צַעַד</Word>
+        </RelatedLemma>
+        <RelatedLemma>
+          <Word>צְעָדָה</Word>
+        </RelatedLemma>
+      </RelatedLemmas>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="006263001001000" IsBiblicalTerm="Y" EntryCode="" Indent="0">
+          <LEXDomains>
+            <LEXDomain Code="002002001011">Move</LEXDomain>
+          </LEXDomains>
+          <LEXForms>
+            <LEXForm>vbqal-</LEXForm>
+          </LEXForms>
+          <LEXCollocations>
+            <LEXCollocation>צעד צַעַד</LEXCollocation>
+          </LEXCollocations>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2020-11-28 14:40:13" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>= action by which humans put one foot before the other in order to move forward</DefinitionShort>
+              <Glosses>
+                <Gloss>to take a step</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>01000601300008</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+          <LEXCoreDomains>
+            <LEXCoreDomain Code="110">Motion</LEXCoreDomain>
+          </LEXCoreDomains>
+        </LEXMeaning>
+        <LEXMeaning Id="006263001002000" IsBiblicalTerm="Y" EntryCode="" Indent="0">
+          <LEXDomains>
+            <LEXDomain Code="002002001011">Move</LEXDomain>
+          </LEXDomains>
+          <LEXForms>
+            <LEXForm>vbqal-</LEXForm>
+          </LEXForms>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2005-03-01 13:14:50" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>= action by which humans or deities move purposefully in a certain direction</DefinitionShort>
+              <Glosses>
+                <Gloss>to tread</Gloss>
+                <Gloss>to march</Gloss>
+                <Gloss>to walk</Gloss>
+                <Gloss>to move</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>00104902200018</LEXReference>
+            <LEXReference>00700500400014</LEXReference>
+            <LEXReference>01906800800016</LEXReference>
+            <LEXReference>02000700800020</LEXReference>
+            <LEXReference>02401000500024</LEXReference>
+            <LEXReference>03500301200006</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+          <LEXCoreDomains>
+            <LEXCoreDomain Code="110">Motion</LEXCoreDomain>
+          </LEXCoreDomains>
+        </LEXMeaning>
+        <LEXMeaning Id="006263001003000" IsBiblicalTerm="Y" EntryCode="" Indent="0">
+          <LEXDomains>
+            <LEXDomain Code="002002001011">Move</LEXDomain>
+          </LEXDomains>
+          <LEXForms>
+            <LEXForm>vbhif-</LEXForm>
+          </LEXForms>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2005-03-01 13:14:50" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>= causative action by which humans cause other humans to move purposefully in a direction</DefinitionShort>
+              <Glosses>
+                <Gloss>to march (someone) off</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>01801801400012</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+          <LEXCoreDomains>
+            <LEXCoreDomain Code="110">Motion</LEXCoreDomain>
+          </LEXCoreDomains>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="001779000000000" Lemma="הֹוד" Version="5" HasAramaic="false" InLXX="false" AlphaPos="ה">
+  <StrongCodes>
+    <Strong>H1935</Strong>
+    <Strong>H1936</Strong>
+  </StrongCodes>
+  <Authors>
+    <Author>Enio R. Mueller</Author>
+  </Authors>
+  <Contributors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes>
+    <Note Caller="1" LanguageCode="en" LastEdited="" LastEditedBy="">
+      <References>
+        <Reference>02402201800052</Reference>
+      </References>
+      <Content>MT-K הדה | MT-Q הֹדֹו</Content>
+    </Note>
+  </Notes>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="001779001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>nsm</PartOfSpeech>
+      </PartsOfSpeech>
+      <RelatedLemmas>
+        <RelatedLemma>
+          <Word>ידה</Word>
+        </RelatedLemma>
+      </RelatedLemmas>
+      <RelatedNames>
+        <RelatedName>
+          <Word>אֲבִיהוּד</Word>
+        </RelatedName>
+      </RelatedNames>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="001779001001000" IsBiblicalTerm="M" EntryCode="" Indent="0">
+          <LEXDomains>
+            <LEXDomain Code="002001002024">Respect</LEXDomain>
+          </LEXDomains>
+          <LEXSynonyms>
+            <LEXSynonym>הָדָר</LEXSynonym>
+          </LEXSynonyms>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2017-09-04 14:12:12" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>= state in which humans, deities, animals and plants are respected by others, implying beauty, vigor and authority</DefinitionShort>
+              <Glosses>
+                <Gloss>glory</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>00402702000008</LEXReference>
+            <LEXReference>01301602700002</LEXReference>
+            <LEXReference>01302901100032</LEXReference>
+            <LEXReference>01302902500030</LEXReference>
+            <LEXReference>01803702200016</LEXReference>
+            <LEXReference>01803902000012</LEXReference>
+            <LEXReference>01804001000014</LEXReference>
+            <LEXReference>01900800200024</LEXReference>
+            <LEXReference>01902100600010</LEXReference>
+            <LEXReference>01904500400012</LEXReference>
+            <LEXReference>01909600600002</LEXReference>
+            <LEXReference>01910400100018</LEXReference>
+            <LEXReference>01911100300002</LEXReference>
+            <LEXReference>01914500500006</LEXReference>
+            <LEXReference>01914801300020</LEXReference>
+            <LEXReference>02000500900010</LEXReference>
+            <LEXReference>02303003000010</LEXReference>
+            <LEXReference>02402201800052{N:001}</LEXReference>
+            <LEXReference>02402201800054</LEXReference>
+            <LEXReference>02701000800042</LEXReference>
+            <LEXReference>02701102100020</LEXReference>
+            <LEXReference>02801400700016</LEXReference>
+            <LEXReference>03500300300026</LEXReference>
+            <LEXReference>03800601300020</LEXReference>
+            <LEXReference>03801000300050</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+          <LEXCoreDomains>
+            <LEXCoreDomain Code="170">Status</LEXCoreDomain>
+          </LEXCoreDomains>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+    <BaseForm Id="001779002000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>np</PartOfSpeech>
+      </PartsOfSpeech>
+      <MeaningsOfName>
+        <MeaningOfName LanguageCode="en">
+          <Meaning>glory</Meaning>
+        </MeaningOfName>
+      </MeaningsOfName>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="001779002001000" IsBiblicalTerm="Y" EntryCode="" Indent="0">
+          <LEXDomains>
+            <LEXDomain Code="003001007">Names of People</LEXDomain>
+          </LEXDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2017-09-04 14:12:12" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>= man; ◄ son of {L:Zophah&lt;SDBH:צֹופַח&gt;}; tribe of {L:Asher&lt;SDBH:אָשֵׁר&gt;}</DefinitionShort>
+              <Glosses>
+                <Gloss>Hod</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>01300703700006</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

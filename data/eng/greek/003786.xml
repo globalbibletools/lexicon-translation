@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="003786000000000" Lemma="παραλύω" Version="0" HasAramaic="false" InLXX="true" AlphaPos="π">
+  <StrongCodes>
+    <Strong>G3886</Strong>
+  </StrongCodes>
+  <Authors/>
+  <AlternateLemmas>
+    <AlternateLemma>παραλύομαι</AlternateLemma>
+  </AlternateLemmas>
+  <MainLinks/>
+  <Notes/>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="003786001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>verb</PartOfSpeech>
+      </PartsOfSpeech>
+      <RelatedLemmas>
+        <RelatedLemma>
+          <Word>λύω</Word>
+        </RelatedLemma>
+      </RelatedLemmas>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="003786001001000" IsBiblicalTerm="M" EntryCode="23.170" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Physiological Processes and States</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Sickness, Disease, Weakness</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXForms>
+            <LEXForm>παραλύομαι[a]</LEXForm>
+          </LEXForms>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-12-20 15:47:32" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>to suffer paralysis in one or more limbs, especially in the leg or foot</DefinitionShort>
+              <Glosses>
+                <Gloss>to be paralyzed</Gloss>
+                <Gloss>to be lame</Gloss>
+              </Glosses>
+              <Comments>In {S:05801201200014} παραλύομαι occurs in a highly figurative context: τὰ παραλελυμένα γόνατα ἀνορθώσατε ‘straighten up the paralyzed knees.’ It is often better in this context to speak of ‘strengthening the weak knees,’ but in any event, the reference to the physical situation of the individual is merely a way of speaking about a psychological state (see {D:25.152}).</Comments>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04200501800020</LEXReference>
+            <LEXReference>04200502400036</LEXReference>
+            <LEXReference>04400800700026</LEXReference>
+            <LEXReference>04400903300032</LEXReference>
+            <LEXReference>05801201200014</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+        <LEXMeaning Id="003786001002000" IsBiblicalTerm="Y" EntryCode="25.152" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Attitudes and Emotions</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Encouragement, Consolation</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXForms>
+            <LEXForm>παραλύομαι[b]</LEXForm>
+          </LEXForms>
+          <LEXCollocations>
+            <LEXCollocation>τὰ παραλελυμένα γόνατα ἀνορθόω</LEXCollocation>
+          </LEXCollocations>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-12-20 15:47:32" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>(an idiom, literally: straighten paralyzed knees) to gain encouragement by a strong resolve</DefinitionShort>
+              <Glosses>
+                <Gloss>to become encouraged</Gloss>
+                <Gloss>to encourage oneself by determination</Gloss>
+              </Glosses>
+              <Comments>See discussion at {D:23.170}.</Comments>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>05801201200014</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

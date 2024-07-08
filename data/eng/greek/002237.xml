@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="002237000000000" Lemma="ζωννύω" Version="0" HasAramaic="false" InLXX="false" AlphaPos="ζ">
+  <StrongCodes>
+    <Strong>G2224</Strong>
+  </StrongCodes>
+  <Authors/>
+  <AlternateLemmas>
+    <AlternateLemma>ζώννυμι</AlternateLemma>
+  </AlternateLemmas>
+  <MainLinks/>
+  <Notes>
+    <Note Caller="1" LanguageCode="en" LastEdited="" LastEditedBy="">
+      <References/>
+      <Content>It is possible that διαζώννυμι is somewhat more forceful in meaning than ζώννυμι[a], but this cannot be determined from existing contexts.</Content>
+    </Note>
+    <Note Caller="2" LanguageCode="en" LastEdited="" LastEditedBy="">
+      <References>
+        <Reference>04302101800016</Reference>
+        <Reference>04302101800048</Reference>
+      </References>
+      <Content>In {S:04302101800016} ζώννυμι involves more than the fastening of one’s belt or putting a sash around the waist. Accordingly, it differs in meaning from ζώννυμι[a] ({D:49.14}).</Content>
+    </Note>
+  </Notes>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="002237001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>verb</PartOfSpeech>
+      </PartsOfSpeech>
+      <RelatedLemmas>
+        <RelatedLemma>
+          <Word>διαζώννυμι</Word>
+        </RelatedLemma>
+        <RelatedLemma>
+          <Word>ζώνη</Word>
+        </RelatedLemma>
+        <RelatedLemma>
+          <Word>περιζώννυμι</Word>
+        </RelatedLemma>
+        <RelatedLemma>
+          <Word>περιζωννύω</Word>
+        </RelatedLemma>
+        <RelatedLemma>
+          <Word>ὑποζώννυμι</Word>
+        </RelatedLemma>
+      </RelatedLemmas>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="002237001001000" IsBiblicalTerm="M" EntryCode="49.14" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Activities Involving Clothing and Adorning</LEXDomain>
+          </LEXDomains>
+          <LEXForms>
+            <LEXForm>ζώννυμι[a]</LEXForm>
+          </LEXForms>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-07-21 10:51:52" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>to tuck up or hold a garment firmly in place by wrapping a belt, girdle, or piece of cloth around it{N:001}</DefinitionShort>
+              <Glosses>
+                <Gloss>to gird</Gloss>
+                <Gloss>to fasten one’s belt</Gloss>
+                <Gloss>to wear a narrow band of cloth around the waist (compare ζώνη belt</Gloss>
+                <Gloss>girdle</Gloss>
+                <Gloss>6.178)</Gloss>
+                <Gloss>to tie around the waist.</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04401200800014</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+        <LEXMeaning Id="002237001002000" IsBiblicalTerm="Y" EntryCode="49.8" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Activities Involving Clothing and Adorning</LEXDomain>
+          </LEXDomains>
+          <LEXForms>
+            <LEXForm>ζώννυμι[b]</LEXForm>
+          </LEXForms>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-07-21 10:51:52" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>to dress oneself, including the fastening of one’s belt as the final act in dressing</DefinitionShort>
+              <Glosses>
+                <Gloss>to dress</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04302101800016{N:002}</LEXReference>
+            <LEXReference>04302101800048</LEXReference>
+            <LEXReference>04401200800014</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

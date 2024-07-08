@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="003554000000000" Lemma="לושׁ" Version="5" HasAramaic="false" InLXX="false" AlphaPos="ל">
+  <StrongCodes>
+    <Strong>H3888</Strong>
+  </StrongCodes>
+  <Authors>
+    <Author>Reinier de Blois</Author>
+  </Authors>
+  <Contributors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes>
+    <Note Caller="1" LanguageCode="en" LastEdited="" LastEditedBy="">
+      <References>
+        <Reference>01001300800032</Reference>
+        <Reference>01001300800034</Reference>
+      </References>
+      <Content>MT-Q וַתָּלָשׁ | MT-K ותלושׁ</Content>
+    </Note>
+  </Notes>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="003554001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>vb</PartOfSpeech>
+      </PartsOfSpeech>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="003554001001000" IsBiblicalTerm="Y" EntryCode="" Indent="0">
+          <LEXDomains>
+            <LEXDomain Code="002003001012">Mixed</LEXDomain>
+          </LEXDomains>
+          <LEXForms>
+            <LEXForm>vbqal-</LEXForm>
+          </LEXForms>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2016-12-22 10:55:31" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>= causative action by which humans mix flour with water and work it into dough ► in order to bake bread or cakes</DefinitionShort>
+              <Glosses>
+                <Gloss>to knead</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>00101800600030</LEXReference>
+            <LEXReference>00902802400036</LEXReference>
+            <LEXReference>01001300800032{N:001}</LEXReference>
+            <LEXReference>01001300800034</LEXReference>
+            <LEXReference>02400701800030</LEXReference>
+            <LEXReference>02800700400022</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+          <LEXCoreDomains>
+            <LEXCoreDomain Code="069">Food</LEXCoreDomain>
+          </LEXCoreDomains>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

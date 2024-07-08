@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="007133000000000" Lemma="שְׁאֵלָה" Version="4" HasAramaic="true" InLXX="false" AlphaPos="ש">
+  <StrongCodes>
+    <Strong>A7595</Strong>
+    <Strong>H7596</Strong>
+  </StrongCodes>
+  <Authors>
+    <Author>Reinier de Blois</Author>
+  </Authors>
+  <Contributors/>
+  <AlternateLemmas>
+    <AlternateLemma>שְׁאֵלָא</AlternateLemma>
+  </AlternateLemmas>
+  <MainLinks/>
+  <Notes/>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="007133001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>nsf</PartOfSpeech>
+      </PartsOfSpeech>
+      <RelatedLemmas>
+        <RelatedLemma>
+          <Word>שׁאל</Word>
+        </RelatedLemma>
+      </RelatedLemmas>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="007133001001000" IsBiblicalTerm="Y" EntryCode="" Indent="0">
+          <LEXDomains>
+            <LEXDomain Code="002004002001001">Wish</LEXDomain>
+            <LEXDomain Code="002004001009008">Speak</LEXDomain>
+          </LEXDomains>
+          <LEXSynonyms>
+            <LEXSynonym>בַּקָּשָׁה</LEXSynonym>
+          </LEXSynonyms>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2022-04-06 15:51:46" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>= action by which humans experience a desire for something to happen and communicate this to (other) humans or deities in the hope that they will intenvene on their behalf</DefinitionShort>
+              <Glosses>
+                <Gloss>request</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>00700802400014</LEXReference>
+            <LEXReference>00900101700028</LEXReference>
+            <LEXReference>00900102700024</LEXReference>
+            <LEXReference>00900202000044</LEXReference>
+            <LEXReference>01100201600006</LEXReference>
+            <LEXReference>01100202000006</LEXReference>
+            <LEXReference>01700500600024</LEXReference>
+            <LEXReference>01700500700012</LEXReference>
+            <LEXReference>01700500800034</LEXReference>
+            <LEXReference>01700700200036</LEXReference>
+            <LEXReference>01700700300050</LEXReference>
+            <LEXReference>01700901200070</LEXReference>
+            <LEXReference>01800600800008</LEXReference>
+            <LEXReference>01910601500008</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+        <LEXMeaning Id="007133001002000" IsBiblicalTerm="Y" EntryCode="" Indent="0">
+          <LEXDomains>
+            <LEXDomain Code="002004002014">Think</LEXDomain>
+          </LEXDomains>
+          <LEXSynonyms>
+            <LEXSynonym>פִּתְגָם</LEXSynonym>
+          </LEXSynonyms>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2022-04-06 15:51:46" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>= a decision by someone in authority on a certain issue</DefinitionShort>
+              <Glosses>
+                <Gloss>decision</Gloss>
+                <Gloss>verdict</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>02700401400016</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="006493000000000" Lemma="קָמָה" Version="5" HasAramaic="false" InLXX="false" AlphaPos="ק">
+  <StrongCodes>
+    <Strong>H7054</Strong>
+  </StrongCodes>
+  <Authors>
+    <Author>Graham S. Ogden</Author>
+  </Authors>
+  <Contributors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes>
+    <Note Caller="1" LanguageCode="en" LastEdited="" LastEditedBy="">
+      <References>
+        <Reference>01201902600040</Reference>
+        <Reference>02303702700040</Reference>
+      </References>
+      <Content>MT | {A:HOTTP}-C {A:RSV} {A:NIV} {A:NRSV} {A:CEV} קום "to rise, grow" | {A:NJPS} {A:NJB} {A:REB} {A:GNT} {L:"east&lt;SDBH:קָדִים&gt;} wind"</Content>
+    </Note>
+  </Notes>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="006493001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>nsf</PartOfSpeech>
+      </PartsOfSpeech>
+      <RelatedLemmas>
+        <RelatedLemma>
+          <Word>קום</Word>
+        </RelatedLemma>
+      </RelatedLemmas>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="006493001001000" IsBiblicalTerm="Y" EntryCode="" Indent="0">
+          <LEXDomains>
+            <LEXDomain Code="001004003002">Crops</LEXDomain>
+          </LEXDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2015-12-18 15:04:05" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>= grain as it is growing on the field and awaiting harvesting; it burns easily; people can pluck the ears and eat the grains</DefinitionShort>
+              <Glosses>
+                <Gloss>standing grain</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>00202200500024</LEXReference>
+            <LEXReference>00501600900020</LEXReference>
+            <LEXReference>00502302600008</LEXReference>
+            <LEXReference>00502302600032</LEXReference>
+            <LEXReference>00701500500020</LEXReference>
+            <LEXReference>00701500500036</LEXReference>
+            <LEXReference>02301700500012</LEXReference>
+            <LEXReference>02800800700014</LEXReference>
+          </LEXReferences>
+          <LEXLinks>
+            <LEXLink>Flora:3.1</LEXLink>
+          </LEXLinks>
+          <LEXVideos/>
+          <LEXCoreDomains>
+            <LEXCoreDomain Code="125">Plant</LEXCoreDomain>
+            <LEXCoreDomain Code="007">Agriculture</LEXCoreDomain>
+          </LEXCoreDomains>
+        </LEXMeaning>
+        <LEXMeaning Id="006493001002000" IsBiblicalTerm="N" EntryCode="" Indent="0">
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2015-12-18 15:04:05" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>read {L:קום&lt;SDBH:קום&gt;} "to rise, grow" or {L:קָדִים&lt;SDBH:קָדִים&gt;} "east wind"</DefinitionShort>
+              <Glosses>
+                <Gloss>to rise</Gloss>
+                <Gloss>to grow</Gloss>
+                <Gloss>east wind</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>01201902600040{N:001}</LEXReference>
+            <LEXReference>02303702700040{N:001}</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

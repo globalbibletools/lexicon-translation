@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="000845000000000" Lemma="αὐτόχειρ" Version="0" HasAramaic="false" InLXX="false" AlphaPos="α">
+  <StrongCodes>
+    <Strong>G0849</Strong>
+  </StrongCodes>
+  <Authors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes/>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="000845001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>adjc.</PartOfSpeech>
+      </PartsOfSpeech>
+      <Inflections>
+        <Inflection Lemma="αὐτόχειρ" BaseFormIndex="1">
+          <Form/>
+          <Realizations>
+            <Realization>-ος</Realization>
+          </Realizations>
+          <Comments/>
+        </Inflection>
+      </Inflections>
+      <Constructs>
+        <Construct Lemma="αὐτόχειρ" BaseFormIndex="1">
+          <WordMeaningSet>
+            <Word>αὐτός</Word>
+          </WordMeaningSet>
+          <WordMeaningSet>
+            <Word>χείρ</Word>
+          </WordMeaningSet>
+        </Construct>
+      </Constructs>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="000845001001000" IsBiblicalTerm="Y" EntryCode="8.31" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Body, Body Parts, and Body Products</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Parts of the Body</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-08-17 15:58:19" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>of a person’s own hands</DefinitionShort>
+              <Glosses>
+                <Gloss>one’s own hands</Gloss>
+              </Glosses>
+              <Comments>But in rendering {S:04402701900008}, it may be somewhat superfluous or even misleading to speak about throwing over the ships tackle ‘with their own hands.’ The emphasis is not upon the hands so much as the activity of the people aboard the ship. Therefore, one may better translate {S:04402701900008} as ‘they themselves threw the ships tackle overboard.’ Obviously, more than the hands were employed in this activity.</Comments>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04402701900008</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

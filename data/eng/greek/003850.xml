@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="003850000000000" Lemma="παροξυσμός" Version="0" HasAramaic="false" InLXX="true" AlphaPos="π">
+  <StrongCodes>
+    <Strong>G3948</Strong>
+  </StrongCodes>
+  <Authors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes>
+    <Note Caller="1" LanguageCode="en" LastEdited="" LastEditedBy="">
+      <References>
+        <Reference>05801002400010</Reference>
+      </References>
+      <Content>In the case of {S:04700900200040} it is difficult to know precisely how much meaning to attach to ἐρεθίζω in the sense of ‘to encourage’ or ‘to motivate.’ It is possible that ἐρεθίζω retains in this context a considerable amount of its more common meaning (see {D:88.168}). But in {S:04700900200040} it may also represent an instance in which the original meaning of a term has been largely lost or at least reduced to primarily a marker of causative relation. It appears likely that παροξυσμός in {S:05801002400010} has also been largely reduced to a marker of a causative relation, in other words, ‘to cause people to love and to do good,’ but since in this instance there seems to be some focus upon the psychological factors involved, one may translate παροξυσμός as ‘to encourage.’</Content>
+    </Note>
+  </Notes>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="003850001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>noun, m.</PartOfSpeech>
+      </PartsOfSpeech>
+      <Inflections>
+        <Inflection Lemma="παροξυσμός" BaseFormIndex="1">
+          <Form/>
+          <Realizations>
+            <Realization>-οῦ</Realization>
+          </Realizations>
+          <Comments/>
+        </Inflection>
+      </Inflections>
+      <RelatedLemmas>
+        <RelatedLemma>
+          <Word>ὀξύς</Word>
+        </RelatedLemma>
+      </RelatedLemmas>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="003850001001000" IsBiblicalTerm="Y" EntryCode="90.55" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Case</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Agent in a Causative Role Marked by Verbs</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-12-23 11:48:42" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>a marker of a causative relation, with the implication of stimulating a change in motivation or attitude</DefinitionShort>
+              <Glosses>
+                <Gloss>to cause</Gloss>
+                <Gloss>encouragement</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>05801002400010{N:001}</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+        <LEXMeaning Id="003850001002000" IsBiblicalTerm="Y" EntryCode="33.451" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Communication</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Argue, Quarrel</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-12-23 11:48:42" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>a severe argument based on intense difference of opinion</DefinitionShort>
+              <Glosses>
+                <Gloss>sharp argument</Gloss>
+                <Gloss>sharp difference of opinion</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04401503900006</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

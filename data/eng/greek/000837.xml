@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="000837000000000" Lemma="αὐτάρκεια" Version="0" HasAramaic="false" InLXX="true" AlphaPos="α">
+  <StrongCodes>
+    <Strong>G0841</Strong>
+  </StrongCodes>
+  <Authors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes/>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="000837001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>noun, f.</PartOfSpeech>
+      </PartsOfSpeech>
+      <Inflections>
+        <Inflection Lemma="αὐτάρκεια" BaseFormIndex="1">
+          <Form/>
+          <Realizations>
+            <Realization>-ας</Realization>
+          </Realizations>
+          <Comments/>
+        </Inflection>
+      </Inflections>
+      <Constructs>
+        <Construct Lemma="αὐτάρκεια" BaseFormIndex="1">
+          <WordMeaningSet>
+            <Word>αὐτός</Word>
+          </WordMeaningSet>
+          <WordMeaningSet>
+            <Word>ἀρκέω</Word>
+          </WordMeaningSet>
+        </Construct>
+      </Constructs>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="000837001001000" IsBiblicalTerm="Y" EntryCode="25.83" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Attitudes and Emotions</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Content, Satisfied</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-08-18 14:46:49" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>the state of being content with one’s circumstances or lot in life</DefinitionShort>
+              <Glosses>
+                <Gloss>self-content</Gloss>
+                <Gloss>contentment</Gloss>
+                <Gloss>contentment with what one has</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>05400600600016</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+        <LEXMeaning Id="000837001002000" IsBiblicalTerm="Y" EntryCode="75.6" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Adequate, Qualified</LEXDomain>
+          </LEXDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-08-18 14:46:49" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>a state of adequacy or sufficiency</DefinitionShort>
+              <Glosses>
+                <Gloss>what is adequate</Gloss>
+                <Gloss>what is sufficient</Gloss>
+                <Gloss>what is needed</Gloss>
+                <Gloss>adequacy</Gloss>
+              </Glosses>
+              <Comments>In a number of languages the equivalent of this expression in {S:04700900800030} may be ‘always having all that you need’ or, stated negatively, ‘not lacking in anything.’</Comments>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04700900800030</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

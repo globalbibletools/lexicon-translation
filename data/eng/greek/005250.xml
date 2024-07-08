@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="005250000000000" Lemma="φιλαδελφία" Version="0" HasAramaic="false" InLXX="true" AlphaPos="φ">
+  <StrongCodes>
+    <Strong>G5360</Strong>
+  </StrongCodes>
+  <Authors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes/>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="005250001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>noun, f.</PartOfSpeech>
+      </PartsOfSpeech>
+      <Inflections>
+        <Inflection Lemma="φιλαδελφία" BaseFormIndex="1">
+          <Form/>
+          <Realizations>
+            <Realization>-ας</Realization>
+          </Realizations>
+          <Comments/>
+        </Inflection>
+      </Inflections>
+      <Constructs>
+        <Construct Lemma="φιλαδελφία" BaseFormIndex="1">
+          <WordMeaningSet>
+            <Word>φιλέω</Word>
+          </WordMeaningSet>
+          <WordMeaningSet>
+            <Word>ἀδελφός</Word>
+          </WordMeaningSet>
+        </Construct>
+      </Constructs>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="005250001001000" IsBiblicalTerm="M" EntryCode="25.34" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Attitudes and Emotions</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Love, Affection, Compassion</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2022-05-19 13:36:53" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>affection for one’s fellow believer in Christ</DefinitionShort>
+              <Glosses>
+                <Gloss>love for one’s fellow believer</Gloss>
+                <Gloss>affection for a fellow believer</Gloss>
+              </Glosses>
+              <Comments>In the NT the terms φιλαδελφία and {L:φιλάδελφος&lt;SDBG:φιλάδελφος:000000&gt;} ({D:25.35}) have acquired highly specialized meanings which restrict the range of reference to fellow believers. In nonbiblical contexts these terms would refer to affection or love for persons belonging to a so-called ‘in-group,’ but in the NT this in-group is defined in terms of Christian faith.</Comments>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04501201000004</LEXReference>
+            <LEXReference>05200400900008</LEXReference>
+            <LEXReference>05801300100004</LEXReference>
+            <LEXReference>06000102200022</LEXReference>
+            <LEXReference>06100100700012</LEXReference>
+            <LEXReference>06100100700020</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

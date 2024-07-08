@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="003487000000000" Lemma="לֹא דְבָר" Version="5" HasAramaic="false" InLXX="false" AlphaPos="ל">
+  <StrongCodes>
+    <Strong>H1688b</Strong>
+    <Strong>H3810</Strong>
+  </StrongCodes>
+  <Authors>
+    <Author>Reinier de Blois</Author>
+  </Authors>
+  <Contributors/>
+  <AlternateLemmas>
+    <AlternateLemma>לִדְבִר</AlternateLemma>
+    <AlternateLemma>לֹו דְבָר</AlternateLemma>
+  </AlternateLemmas>
+  <MainLinks/>
+  <Notes>
+    <Note Caller="1" LanguageCode="en" LastEdited="" LastEditedBy="">
+      <References>
+        <Reference>00601302600030</Reference>
+      </References>
+      <Content>{A:MT} לִדְבִר {A:LXX} Δαβιρ | {A:RSV} {A:NIV} {A:NRSV} "Debir" {A:NJPS} "Lidbir" | {A:HOTTP}-C לִדְבֹר (though agreeing that the text actually refers to Lodebar) {A:CEV} "Lidebor" | {A:NJB} {A:REB} {A:GNT} "Lodebar"</Content>
+    </Note>
+    <Note Caller="2" LanguageCode="en" LastEdited="" LastEditedBy="">
+      <References>
+        <Reference>03000601300008</Reference>
+      </References>
+      <Content>{A:RSV} {A:NIV} {A:NJPS} {A:NJB} {A:NRSV} {A:GNT} {A:CEV} | {A:HOTTP}-A {A:REB} "nothing"</Content>
+    </Note>
+  </Notes>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="003487001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>np</PartOfSpeech>
+      </PartsOfSpeech>
+      <RelatedLemmas>
+        <RelatedLemma>
+          <Word>לֹא</Word>
+        </RelatedLemma>
+        <RelatedLemma>
+          <Word>דָּבָר</Word>
+        </RelatedLemma>
+      </RelatedLemmas>
+      <MeaningsOfName>
+        <MeaningOfName LanguageCode="en">
+          <Meaning>not a thing</Meaning>
+        </MeaningOfName>
+        <MeaningOfName LanguageCode="pt">
+          <Meaning>coisa alguma</Meaning>
+        </MeaningOfName>
+      </MeaningsOfName>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="003487001001000" IsBiblicalTerm="Y" EntryCode="" Indent="0">
+          <LEXDomains>
+            <LEXDomain Code="003001010">Names of Locations</LEXDomain>
+          </LEXDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2017-02-18 19:08:27" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>= town; ► located east of the {L:Jordan&lt;SDBH:יַרְדֵּן&gt;} river in {L:Gilead&lt;SDBH:גִּלְעָד&gt;}; assigned to tribe of {L:Gad&lt;SDBH:גָּד&gt;}</DefinitionShort>
+              <Glosses>
+                <Gloss>Lodebar</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>00601302600030{N:001}</LEXReference>
+            <LEXReference>01000900400042</LEXReference>
+            <LEXReference>01000900500028</LEXReference>
+            <LEXReference>01001702700040</LEXReference>
+            <LEXReference>03000601300008{N:002}</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

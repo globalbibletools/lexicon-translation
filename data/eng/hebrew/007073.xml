@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="007073000000000" Lemma="שַׂעֲרָה" Version="5" HasAramaic="false" InLXX="false" AlphaPos="ש">
+  <StrongCodes>
+    <Strong>H8185</Strong>
+  </StrongCodes>
+  <Authors>
+    <Author>Reinier de Blois</Author>
+  </Authors>
+  <Contributors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes>
+    <Note Caller="1" LanguageCode="en" LastEdited="" LastEditedBy="">
+      <References>
+        <Reference>01800901700006</Reference>
+      </References>
+      <Content>NJPS NJB "hair" REB "trifle" | MT RSV NRSV ESV "tempest" NIV GNT CEV "storm(s)" = {L:שְׂעָרָה&lt;SDBH:שְׂעָרָה&gt;}</Content>
+    </Note>
+  </Notes>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="007073001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>nsf</PartOfSpeech>
+      </PartsOfSpeech>
+      <RelatedLemmas>
+        <RelatedLemma>
+          <Word>שָׂעִיר</Word>
+        </RelatedLemma>
+        <RelatedLemma>
+          <Word>שְׂעִירָה</Word>
+        </RelatedLemma>
+        <RelatedLemma>
+          <Word>שֵׂעָר</Word>
+        </RelatedLemma>
+        <RelatedLemma>
+          <Word>שְׂעֹרָה</Word>
+        </RelatedLemma>
+      </RelatedLemmas>
+      <RelatedNames>
+        <RelatedName>
+          <Word>שֵׂעִיר</Word>
+        </RelatedName>
+      </RelatedNames>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="007073001001000" IsBiblicalTerm="M" EntryCode="" Indent="0">
+          <LEXDomains>
+            <LEXDomain Code="001001002">Creatures</LEXDomain>
+          </LEXDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2017-09-24 12:31:38" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>= the fine thread-like strands growing from the skin of humans and certain animals; ≈ one single strand can be used as a symbol for a very small distance or quantity, whereas the collective of strands often symbolizes a great quantity</DefinitionShort>
+              <Glosses>
+                <Gloss>hair</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>00702001600044</LEXReference>
+            <LEXReference>00901404500052</LEXReference>
+            <LEXReference>01001401100062</LEXReference>
+            <LEXReference>01100105200024</LEXReference>
+            <LEXReference>01800401500014</LEXReference>
+            <LEXReference>01800901700006{N:001}</LEXReference>
+            <LEXReference>01904001300034</LEXReference>
+            <LEXReference>01906900500006</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+          <LEXCoreDomains>
+            <LEXCoreDomain Code="019">Body</LEXCoreDomain>
+          </LEXCoreDomains>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

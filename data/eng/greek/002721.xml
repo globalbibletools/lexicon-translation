@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="002721000000000" Lemma="κατέναντι" Version="0" HasAramaic="false" InLXX="true" AlphaPos="κ">
+  <StrongCodes>
+    <Strong>G2713</Strong>
+  </StrongCodes>
+  <Authors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes>
+    <Note Caller="1" LanguageCode="en" LastEdited="" LastEditedBy="">
+      <References>
+        <Reference>04700201700040</Reference>
+      </References>
+      <Content>It is possible, as in the case of {S:04700201700040}, for the implication of contrast to be somewhat neutralized in particular contexts.</Content>
+    </Note>
+    <Note Caller="2" LanguageCode="en" LastEdited="" LastEditedBy="">
+      <References/>
+      <Content>There are undoubtedly certain subtle distinctions of meaning associated with the various markers in {D:90.20}, but it is impossible to determine those differences on the basis of existing contexts.</Content>
+    </Note>
+  </Notes>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="002721001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>prep. (with gen.), advb.</PartOfSpeech>
+      </PartsOfSpeech>
+      <Constructs>
+        <Construct Lemma="κατέναντι" BaseFormIndex="1">
+          <WordMeaningSet>
+            <Word>κατά</Word>
+          </WordMeaningSet>
+          <WordMeaningSet>
+            <Word>ἐν</Word>
+          </WordMeaningSet>
+          <WordMeaningSet>
+            <Word>ἀντί</Word>
+          </WordMeaningSet>
+        </Construct>
+      </Constructs>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="002721001001000" IsBiblicalTerm="Y" EntryCode="83.42" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Spacial Positions</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Opposite, Over Against, Across From, Offshore From</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2022-12-06 21:30:54" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>a position over against an object or other position</DefinitionShort>
+              <Glosses>
+                <Gloss>opposite</Gloss>
+                <Gloss>in front of</Gloss>
+                <Gloss>before</Gloss>
+                <Gloss>across from</Gloss>
+                <Gloss>in the presence of</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04002100200016</LEXReference>
+            <LEXReference>04101100200018</LEXReference>
+            <LEXReference>04101204100006</LEXReference>
+            <LEXReference>04101300300018</LEXReference>
+            <LEXReference>04201903000010</LEXReference>
+            <LEXReference>04700201700040{N:001}</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+        <LEXMeaning Id="002721001002000" IsBiblicalTerm="Y" EntryCode="90.20" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Case</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Viewpoint Participant</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2022-12-06 21:30:54" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>(with the genitive) marking a participant whose viewpoint is relevant to an event{N:002}</DefinitionShort>
+              <Glosses>
+                <Gloss>in the sight of</Gloss>
+                <Gloss>in the opinion of</Gloss>
+                <Gloss>in the judgment of</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04500401700018</LEXReference>
+            <LEXReference>04701201900012</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

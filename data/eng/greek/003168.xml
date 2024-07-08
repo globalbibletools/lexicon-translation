@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="003168000000000" Lemma="μαρτύρομαι" Version="0" HasAramaic="false" InLXX="true" AlphaPos="μ">
+  <StrongCodes>
+    <Strong>G3143</Strong>
+  </StrongCodes>
+  <Authors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes>
+    <Note Caller="1" LanguageCode="en" LastEdited="" LastEditedBy="">
+      <References/>
+      <Content>It is possible that διαμαρτύρομαι[a] is somewhat stronger and more emphatic than μαρτύρομαι[a], but this cannot be shown from NT contexts.</Content>
+    </Note>
+    <Note Caller="2" LanguageCode="en" LastEdited="" LastEditedBy="">
+      <References/>
+      <Content>It is possible that διαμαρτύρομαι[b] is somewhat more emphatic in connotation than μαρτύρομαι[b], but this cannot be determined from existing contexts.</Content>
+    </Note>
+  </Notes>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="003168001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>verb</PartOfSpeech>
+      </PartsOfSpeech>
+      <RelatedLemmas>
+        <RelatedLemma>
+          <Word>μαρτυρέω</Word>
+        </RelatedLemma>
+      </RelatedLemmas>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="003168001001000" IsBiblicalTerm="M" EntryCode="33.223" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Communication</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Assert, Declare</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-11-19 12:22:47" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>to make a serious declaration on the basis of presumed personal knowledge{N:001}</DefinitionShort>
+              <Glosses>
+                <Gloss>to declare</Gloss>
+                <Gloss>to assert</Gloss>
+                <Gloss>to testify</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04402002600004</LEXReference>
+            <LEXReference>04402602200026</LEXReference>
+            <LEXReference>04800500300002</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+        <LEXMeaning Id="003168001002000" IsBiblicalTerm="Y" EntryCode="33.319" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Communication</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Insist</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-11-19 12:22:47" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>to be emphatic in stating an opinion or desire{N:002}</DefinitionShort>
+              <Glosses>
+                <Gloss>to insist</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04900401700010</LEXReference>
+            <LEXReference>05200201200012</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

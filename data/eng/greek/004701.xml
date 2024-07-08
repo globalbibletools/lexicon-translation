@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="004701000000000" Lemma="συγχέω" Version="0" HasAramaic="false" InLXX="true" AlphaPos="σ">
+  <StrongCodes>
+    <Strong>G4797</Strong>
+  </StrongCodes>
+  <Authors/>
+  <AlternateLemmas>
+    <AlternateLemma>συγχύννω</AlternateLemma>
+  </AlternateLemmas>
+  <MainLinks/>
+  <Notes/>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="004701001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>verb</PartOfSpeech>
+      </PartsOfSpeech>
+      <Inflections>
+        <Inflection Lemma="συγχέω" BaseFormIndex="1">
+          <Form>impf.</Form>
+          <Realizations>
+            <Realization>συνέχεον</Realization>
+            <Realization>συνέχυννον</Realization>
+          </Realizations>
+          <Comments/>
+        </Inflection>
+        <Inflection Lemma="συγχέω" BaseFormIndex="1">
+          <Form>aor.pass.</Form>
+          <Realizations>
+            <Realization>συνεχύθην</Realization>
+          </Realizations>
+          <Comments/>
+        </Inflection>
+        <Inflection Lemma="συγχέω" BaseFormIndex="1">
+          <Form>pf.pass.</Form>
+          <Realizations>
+            <Realization>συγκέχυμαι</Realization>
+          </Realizations>
+          <Comments/>
+        </Inflection>
+      </Inflections>
+      <RelatedLemmas>
+        <RelatedLemma>
+          <Word>χέω</Word>
+          <Meaning LanguageCode="en">
+            <Meaning>pour</Meaning>
+          </Meaning>
+          <Meaning LanguageCode="zhT">
+            <Meaning>倒</Meaning>
+          </Meaning>
+        </RelatedLemma>
+      </RelatedLemmas>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="004701001001000" IsBiblicalTerm="Y" EntryCode="25.221" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Attitudes and Emotions</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Surprise, Astonish</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2022-03-09 11:45:10" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>(figurative extension of meaning of συγχέω or συγχύννω ‘to pour together, to mix,’ not occurring in the NT) to cause such astonishment as to bewilder and dismay</DefinitionShort>
+              <Glosses>
+                <Gloss>to cause consternation</Gloss>
+                <Gloss>to confound</Gloss>
+              </Glosses>
+              <Comments>It is also possible to render this expression in {S:04402102700036} as ‘they stirred up the whole crowd.’</Comments>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04400200600020</LEXReference>
+            <LEXReference>04400902200012</LEXReference>
+            <LEXReference>04401903200022</LEXReference>
+            <LEXReference>04402102700036</LEXReference>
+            <LEXReference>04402103100026</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

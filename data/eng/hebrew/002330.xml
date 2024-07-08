@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="002330000000000" Lemma="חֶמֶד" Version="5" HasAramaic="false" InLXX="false" AlphaPos="ח">
+  <StrongCodes>
+    <Strong>H2531</Strong>
+  </StrongCodes>
+  <Authors>
+    <Author>Reinier de Blois</Author>
+  </Authors>
+  <Contributors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes>
+    <Note Caller="1" LanguageCode="en" LastEdited="" LastEditedBy="">
+      <References>
+        <Reference>02302700200014</Reference>
+      </References>
+      <Content>{A:HOTTP}-C {A:RSV} {A:NIV} {A:NJB} {A:NJPS} {A:NRSV} {A:REB} {A:GNT} {A:CEV} | {A:MT} {L:חֶמֶר&lt;SDBH:חֶמֶר&gt;} "wine"</Content>
+    </Note>
+  </Notes>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="002330001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>nsm</PartOfSpeech>
+      </PartsOfSpeech>
+      <RelatedLemmas>
+        <RelatedLemma>
+          <Word>חמד</Word>
+        </RelatedLemma>
+      </RelatedLemmas>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="002330001001000" IsBiblicalTerm="Y" EntryCode="" Indent="0">
+          <LEXDomains>
+            <LEXDomain Code="002001001028" Source="Wish" SourceCode="002004002001001">Good</LEXDomain>
+          </LEXDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2018-01-12 15:21:36" LastEditedBy="administrator">
+              <DefinitionLong/>
+              <DefinitionShort>= state in which objects have such a high quality ► that they provoke in others the desire to possess them</DefinitionShort>
+              <Glosses>
+                <Gloss>desirability</Gloss>
+                <Gloss>fruitfulness</Gloss>
+                <Gloss>fertility</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>02302700200014</LEXReference>
+            <LEXReference>02303201200012</LEXReference>
+            <LEXReference>03000501100038</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+          <LEXCoreDomains>
+            <LEXCoreDomain Code="137">Quality</LEXCoreDomain>
+          </LEXCoreDomains>
+        </LEXMeaning>
+        <LEXMeaning Id="002330001002000" IsBiblicalTerm="M" EntryCode="" Indent="0">
+          <LEXDomains>
+            <LEXDomain Code="002001001028" Source="Wish" SourceCode="002004002001001">Good</LEXDomain>
+          </LEXDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2018-01-12 15:20:40" LastEditedBy="administrator">
+              <DefinitionLong/>
+              <DefinitionShort>= state in which humans are so attractive ► that they provoke in others the desire to have a (sexual) relationship with them</DefinitionShort>
+              <Glosses>
+                <Gloss>attractiveness</Gloss>
+                <Gloss>beauty</Gloss>
+                <Gloss>charm</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>02602300600014</LEXReference>
+            <LEXReference>02602301200030</LEXReference>
+            <LEXReference>02602302300032</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+          <LEXCoreDomains>
+            <LEXCoreDomain Code="016">Beauty</LEXCoreDomain>
+            <LEXCoreDomain Code="019">Body</LEXCoreDomain>
+            <LEXCoreDomain Code="155">Sex</LEXCoreDomain>
+          </LEXCoreDomains>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

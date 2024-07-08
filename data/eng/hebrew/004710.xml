@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="004710000000000" Lemma="נָזִיר" Version="4" HasAramaic="false" InLXX="false" AlphaPos="נ">
+  <StrongCodes>
+    <Strong>H5139</Strong>
+  </StrongCodes>
+  <Authors>
+    <Author>Reinier de Blois</Author>
+  </Authors>
+  <Contributors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes/>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="004710001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>nsm</PartOfSpeech>
+      </PartsOfSpeech>
+      <RelatedLemmas>
+        <RelatedLemma>
+          <Word>נזר</Word>
+        </RelatedLemma>
+      </RelatedLemmas>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="004710001001000" IsBiblicalTerm="M" EntryCode="" Indent="0">
+          <LEXDomains>
+            <LEXDomain Code="001001002003005" Source="Apart" SourceCode="002003002002">Leaders</LEXDomain>
+          </LEXDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2017-11-08 07:21:10" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>= a person who has been singled out for a position of leadership</DefinitionShort>
+              <Glosses>
+                <Gloss>elect</Gloss>
+                <Gloss>prince</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>00104902600036</LEXReference>
+            <LEXReference>00503301600036</LEXReference>
+            <LEXReference>02500400700004</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+          <LEXCoreDomains>
+            <LEXCoreDomain Code="015">Authority</LEXCoreDomain>
+          </LEXCoreDomains>
+        </LEXMeaning>
+        <LEXMeaning Id="004710001002000" IsBiblicalTerm="M" EntryCode="" Indent="0">
+          <LEXDomains>
+            <LEXDomain Code="002004001009013" Source="Apart" SourceCode="002003002002">Vow</LEXDomain>
+            <LEXDomain Code="001001002003" Source="Vow" SourceCode="002004001009013">People</LEXDomain>
+          </LEXDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2017-11-08 07:20:31" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>= a person who has set themselves apart for the service of a deity, and by doing so devote themselves to certain practices, such as avoiding intoxicating drinks, corpses, and cutting their hair</DefinitionShort>
+              <Glosses>
+                <Gloss>to separate oneself</Gloss>
+                <Gloss>to consecrate oneself</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>00400600200032</LEXReference>
+            <LEXReference>00400601300010</LEXReference>
+            <LEXReference>00400601800008</LEXReference>
+            <LEXReference>00400601900056</LEXReference>
+            <LEXReference>00400602000056</LEXReference>
+            <LEXReference>00400602100008</LEXReference>
+            <LEXReference>00701300500028</LEXReference>
+            <LEXReference>00701300700044</LEXReference>
+            <LEXReference>00701601700032</LEXReference>
+            <LEXReference>03000201100022</LEXReference>
+            <LEXReference>03000201200010</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+          <LEXCoreDomains>
+            <LEXCoreDomain Code="118">Oath</LEXCoreDomain>
+            <LEXCoreDomain Code="079">Holy and Common</LEXCoreDomain>
+            <LEXCoreDomain Code="112">Nazirite</LEXCoreDomain>
+          </LEXCoreDomains>
+        </LEXMeaning>
+        <LEXMeaning Id="004710001003000" IsBiblicalTerm="M" EntryCode="" Indent="0">
+          <LEXDomains>
+            <LEXDomain Code="001003001">Plants</LEXDomain>
+          </LEXDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2017-11-08 07:21:10" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>= a {L:vine&lt;SDBH:גֶּפֶן&gt;} that has not been {L:pruned&lt;SDBH:זמר&gt;}</DefinitionShort>
+              <Glosses>
+                <Gloss>untended vine</Gloss>
+                <Gloss>undressed vine</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>00302500500018</LEXReference>
+            <LEXReference>00302501100040</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+          <LEXCoreDomains>
+            <LEXCoreDomain Code="125">Plant</LEXCoreDomain>
+            <LEXCoreDomain Code="007">Agriculture</LEXCoreDomain>
+          </LEXCoreDomains>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

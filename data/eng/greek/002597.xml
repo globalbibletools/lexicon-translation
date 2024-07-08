@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="002597000000000" Lemma="καρποφόρος" Version="0" HasAramaic="false" InLXX="true" AlphaPos="κ">
+  <StrongCodes>
+    <Strong>G2593</Strong>
+  </StrongCodes>
+  <Authors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes/>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="002597001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>adjc.</PartOfSpeech>
+      </PartsOfSpeech>
+      <Inflections>
+        <Inflection Lemma="καρποφόρος" BaseFormIndex="1">
+          <Form/>
+          <Realizations>
+            <Realization>-ον</Realization>
+          </Realizations>
+          <Comments/>
+        </Inflection>
+      </Inflections>
+      <Constructs>
+        <Construct Lemma="καρποφόρος" BaseFormIndex="1">
+          <WordMeaningSet>
+            <Word>καρπός</Word>
+          </WordMeaningSet>
+          <WordMeaningSet>
+            <Word>φέρω</Word>
+          </WordMeaningSet>
+        </Construct>
+      </Constructs>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="002597001001000" IsBiblicalTerm="Y" EntryCode="23.201" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Physiological Processes and States</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Ripen, Produce Fruit, Bear Seed</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-09-14 10:33:01" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>(derivative of {L:καρποφορέω&lt;SDBG:καρποφορέω:000000&gt;}[a] ‘to produce seed,’ {D:23.199}) pertaining to producing seed or harvest</DefinitionShort>
+              <Glosses>
+                <Gloss>fruitful</Gloss>
+                <Gloss>to be fruitful</Gloss>
+              </Glosses>
+              <Comments>In some instances it may be useful to translate ‘fruitful seasons’ as ‘seasons when crops become ripe’ or even ‘the time of the year when there is always plenty to eat.’</Comments>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04401401700026</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

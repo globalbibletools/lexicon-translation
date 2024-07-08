@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="003866000000000" Lemma="מָחֹול" Version="5" HasAramaic="false" InLXX="false" AlphaPos="מ">
+  <StrongCodes>
+    <Strong>H4234</Strong>
+    <Strong>H4235</Strong>
+  </StrongCodes>
+  <Authors>
+    <Author>Reinier de Blois</Author>
+  </Authors>
+  <Contributors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes/>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="003866001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>nsm</PartOfSpeech>
+      </PartsOfSpeech>
+      <RelatedLemmas>
+        <RelatedLemma>
+          <Word>חול</Word>
+        </RelatedLemma>
+      </RelatedLemmas>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="003866001001000" IsBiblicalTerm="M" EntryCode="" Indent="0">
+          <LEXDomains>
+            <LEXDomain Code="002002001019">Turn</LEXDomain>
+          </LEXDomains>
+          <LEXSynonyms>
+            <LEXSynonym>זמר</LEXSynonym>
+            <LEXSynonym>כִּנֹּור</LEXSynonym>
+            <LEXSynonym>מֵן</LEXSynonym>
+            <LEXSynonym>מָשֹׂושׂ</LEXSynonym>
+            <LEXSynonym>עוּגָב</LEXSynonym>
+            <LEXSynonym>שׁחק</LEXSynonym>
+            <LEXSynonym>שׂמח</LEXSynonym>
+            <LEXSynonym>שִׂמְחָה</LEXSynonym>
+            <LEXSynonym>תֹּף</LEXSynonym>
+          </LEXSynonyms>
+          <LEXAntonyms>
+            <LEXAntonym>אֵבֶל</LEXAntonym>
+            <LEXAntonym>מִסְפֵּד</LEXAntonym>
+            <LEXAntonym>שַׂק</LEXAntonym>
+          </LEXAntonyms>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2016-11-14 12:46:45" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>= action by which humans dance a round dance; ≈ associated with joy</DefinitionShort>
+              <Glosses>
+                <Gloss>to dance</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>01903001200008</LEXReference>
+            <LEXReference>01914900300008</LEXReference>
+            <LEXReference>01915000400010</LEXReference>
+            <LEXReference>02403100400026</LEXReference>
+            <LEXReference>02403101300010</LEXReference>
+            <LEXReference>02500501500014</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+          <LEXCoreDomains>
+            <LEXCoreDomain Code="111">Music and Dance</LEXCoreDomain>
+            <LEXCoreDomain Code="093">Joy and Grief</LEXCoreDomain>
+          </LEXCoreDomains>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+    <BaseForm Id="003866002000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>np</PartOfSpeech>
+      </PartsOfSpeech>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="003866002001000" IsBiblicalTerm="Y" EntryCode="" Indent="0">
+          <LEXDomains>
+            <LEXDomain Code="003001007">Names of People</LEXDomain>
+          </LEXDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2016-11-14 12:46:45" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>= man; ► father of {L:Calcol&lt;SDBH:כַּלְכֹּל&gt;} and {L:Darda&lt;SDBH:דַּרְדַּע&gt;}, wise men, time of king {L:David&lt;SDBH:דָּוִד&gt;}</DefinitionShort>
+              <Glosses>
+                <Gloss>Mahol</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>01100501100036</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

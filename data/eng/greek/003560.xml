@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="003560000000000" Lemma="ὅλως" Version="0" HasAramaic="false" InLXX="false" AlphaPos="ο">
+  <StrongCodes>
+    <Strong>G3654</Strong>
+  </StrongCodes>
+  <Authors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes>
+    <Note Caller="1" LanguageCode="en" LastEdited="" LastEditedBy="">
+      <References/>
+      <Content>There may very well be certain significant differences of meaning in this series of degree expressions, but this is difficult, if not impossible, to determine from existing contexts.</Content>
+    </Note>
+    <Note Caller="2" LanguageCode="en" LastEdited="" LastEditedBy="">
+      <References/>
+      <Content>It would seem that the meanings of items {D:70.1}-{D:70.4} do reflect certain subtle differences, but it is not at all easy to determine precisely how they differ.</Content>
+    </Note>
+  </Notes>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="003560001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>advb.</PartOfSpeech>
+      </PartsOfSpeech>
+      <RelatedLemmas>
+        <RelatedLemma>
+          <Word>ὅλος</Word>
+        </RelatedLemma>
+      </RelatedLemmas>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="003560001001000" IsBiblicalTerm="Y" EntryCode="78.44" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Degree</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Completely, Enough [Completive Degree]</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-12-13 20:14:57" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>a degree of totality or completeness{N:001}</DefinitionShort>
+              <Glosses>
+                <Gloss>complete</Gloss>
+                <Gloss>completely</Gloss>
+                <Gloss>totally</Gloss>
+                <Gloss>totality</Gloss>
+              </Glosses>
+              <Comments>In {S:04000503400014} ὅλως should not be interpreted as a qualifier of ὀμόσαι ‘to swear,’ for this is not a matter of ‘not swearing completely,’ but ὅλως is a degree attributive of the proposition ‘do not swear.’ In a number of languages the closest equivalent is ‘do not ever swear’ or ‘under no circumstances whatsoever make an oath.’</Comments>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04000503400014</LEXReference>
+            <LEXReference>04600600700008</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+        <LEXMeaning Id="003560001002000" IsBiblicalTerm="Y" EntryCode="70.1" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Real, Unreal</LEXDomain>
+          </LEXDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-12-13 20:14:57" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>pertaining to reality, with the implication of being generally known{N:002}</DefinitionShort>
+              <Glosses>
+                <Gloss>actually</Gloss>
+                <Gloss>really</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04000503400014</LEXReference>
+            <LEXReference>04600500100002</LEXReference>
+            <LEXReference>04601502900020</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

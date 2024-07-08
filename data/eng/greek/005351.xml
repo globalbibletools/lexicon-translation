@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="005351000000000" Lemma="χάλαζα" Version="0" HasAramaic="false" InLXX="true" AlphaPos="χ">
+  <StrongCodes>
+    <Strong>G5464</Strong>
+  </StrongCodes>
+  <Authors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes/>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="005351001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>noun, f.</PartOfSpeech>
+      </PartsOfSpeech>
+      <Inflections>
+        <Inflection Lemma="χάλαζα" BaseFormIndex="1">
+          <Form/>
+          <Realizations>
+            <Realization>-ης</Realization>
+          </Realizations>
+          <Comments/>
+        </Inflection>
+      </Inflections>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="005351001001000" IsBiblicalTerm="M" EntryCode="2.13" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Natural Substances</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Water</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2022-05-30 15:49:19" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>frozen rain</DefinitionShort>
+              <Glosses>
+                <Gloss>hail</Gloss>
+              </Glosses>
+              <Comments>In {S:06600800700014} and {S:06601602100004} it is possible that χάλαζα is better interpreted as referring to a ‘hailstorm.’|In a number of languages hail is described as ‘frozen rain,’ but it may be referred to by more idiomatic expressions such as ‘cloud stones’ or ‘ice stones.’</Comments>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>06600800700014</LEXReference>
+            <LEXReference>06601101900064</LEXReference>
+            <LEXReference>06601602100004</LEXReference>
+            <LEXReference>06601602100046</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

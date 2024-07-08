@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="002359000000000" Lemma="θρέμμα" Version="0" HasAramaic="false" InLXX="false" AlphaPos="θ">
+  <StrongCodes>
+    <Strong>G2353</Strong>
+  </StrongCodes>
+  <Authors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes/>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="002359001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>noun, n.</PartOfSpeech>
+      </PartsOfSpeech>
+      <Inflections>
+        <Inflection Lemma="θρέμμα" BaseFormIndex="1">
+          <Form/>
+          <Realizations>
+            <Realization>-τος</Realization>
+          </Realizations>
+          <Comments/>
+        </Inflection>
+      </Inflections>
+      <RelatedLemmas>
+        <RelatedLemma>
+          <Word>τρέφω</Word>
+        </RelatedLemma>
+      </RelatedLemmas>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="002359001001000" IsBiblicalTerm="M" EntryCode="4.5" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Animals</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Animals</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-08-19 09:50:47" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>domesticated four-footed animals, primarily livestock</DefinitionShort>
+              <Glosses>
+                <Gloss>livestock</Gloss>
+                <Gloss>cattle</Gloss>
+              </Glosses>
+              <Comments>τὰ θρέμματα in {S:04300401200050} would include cattle (bulls, cows, oxen), sheep, goats, donkeys, and possibly camels. It is difficult, however, to obtain in certain languages an expression which is sufficiently generic as to include all such domesticated animals. Sometimes, however, one can use a phrase such as ‘animals that people take care of’ or ‘animals that are herded’ or even ‘animals that are owned.’</Comments>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04300401200050</LEXReference>
+          </LEXReferences>
+          <LEXLinks>
+            <LEXLink>fauna:1.1</LEXLink>
+          </LEXLinks>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

@@ -1,0 +1,244 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="004291000000000" Lemma="מָצֹוד" Version="5" HasAramaic="false" InLXX="false" AlphaPos="מ">
+  <StrongCodes>
+    <Strong>H4679</Strong>
+    <Strong>H4685a</Strong>
+    <Strong>H4685b</Strong>
+    <Strong>H4685c</Strong>
+    <Strong>H4685d</Strong>
+    <Strong>H4686a</Strong>
+    <Strong>H4686b</Strong>
+  </StrongCodes>
+  <Authors>
+    <Author>Reinier de Blois</Author>
+  </Authors>
+  <Contributors/>
+  <AlternateLemmas>
+    <AlternateLemma>מְצָד</AlternateLemma>
+    <AlternateLemma>מְצוּדָה</AlternateLemma>
+    <AlternateLemma>מְצֹודָה</AlternateLemma>
+  </AlternateLemmas>
+  <MainLinks/>
+  <Notes>
+    <Note Caller="1" LanguageCode="en" LastEdited="" LastEditedBy="">
+      <References>
+        <Reference>01801900600014</Reference>
+      </References>
+      <Content>{A:RSV} {A:NIV} {A:NJB} {A:NRSV} {A:REB} {A:GNT} [1b] | {A:NJPS} [3]</Content>
+    </Note>
+    <Note Caller="2" LanguageCode="en" LastEdited="" LastEditedBy="">
+      <References>
+        <Reference>02001201200006</Reference>
+      </References>
+      <Content>{A:NIV} {A:NJPS} {A:NRSV} [1a] | {A:NJB} {A:GNT} [1b] | {A:RSV} {A:REB} {A:CEV} [2]</Content>
+    </Note>
+    <Note Caller="3" LanguageCode="en" LastEdited="" LastEditedBy="">
+      <References>
+        <Reference>02100901400036</Reference>
+      </References>
+      <Content>{A:MT} {A:HOTTP}-C | most translations, however, translate "siege-works" = מָצֹור  | according to {A:HOTTP} מָצֹוד can also be translated "siege-works" as well</Content>
+    </Note>
+  </Notes>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="004291001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>nsc</PartOfSpeech>
+      </PartsOfSpeech>
+      <RelatedLemmas>
+        <RelatedLemma>
+          <Word>צוד</Word>
+        </RelatedLemma>
+      </RelatedLemmas>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="004291001001000" IsBiblicalTerm="Y" EntryCode="" Indent="0">
+          <LEXDomains>
+            <LEXDomain Code="002003002008">Control</LEXDomain>
+          </LEXDomains>
+          <LEXCollocations>
+            <LEXCollocation>מְצוּדָה</LEXCollocation>
+          </LEXCollocations>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2015-12-22 14:55:05" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>= animal hunted by humans or other animals ► for food; ≈ often extended metaphorically to people</DefinitionShort>
+              <Glosses>
+                <Gloss>prey</Gloss>
+                <Gloss>victim</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>02601302100036</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+          <LEXCoreDomains>
+            <LEXCoreDomain Code="084">Hunting and Fishing</LEXCoreDomain>
+            <LEXCoreDomain Code="010">Animal</LEXCoreDomain>
+          </LEXCoreDomains>
+        </LEXMeaning>
+        <LEXMeaning Id="004291001002000" IsBiblicalTerm="M" EntryCode="" Indent="0">
+          <LEXDomains>
+            <LEXDomain Code="001004001018">Traps</LEXDomain>
+          </LEXDomains>
+          <LEXCollocations>
+            <LEXCollocation>מָצֹוד</LEXCollocation>
+            <LEXCollocation>מְצֹודָה</LEXCollocation>
+            <LEXCollocation>מְצוּדָה</LEXCollocation>
+          </LEXCollocations>
+          <LEXSynonyms>
+            <LEXSynonym>אֵסוּר</LEXSynonym>
+            <LEXSynonym>חֵרֶם</LEXSynonym>
+            <LEXSynonym>רֶשֶׁת</LEXSynonym>
+          </LEXSynonyms>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2018-03-21 18:18:59" LastEditedBy="administrator">
+              <DefinitionLong/>
+              <DefinitionShort>= combination of two or three nets in layers, usually a small-mesh inner net sandwiched between two nets of looser mesh; ► set out vertically in the water, held in place by floats on the surface of the water and weighted down by a single weighted rope at the bottom; left in place for several hours to give time for fish to accumulate in it; ≈ associated with aggression and control</DefinitionShort>
+              <Glosses>
+                <Gloss>(trammel) net</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>01801900600014{N:001}</LEXReference>
+            <LEXReference>01906601100008</LEXReference>
+            <LEXReference>02100702600024</LEXReference>
+            <LEXReference>02100901200030</LEXReference>
+            <LEXReference>02601201300018</LEXReference>
+            <LEXReference>02601702000016</LEXReference>
+          </LEXReferences>
+          <LEXLinks>
+            <LEXLink>Realia:1.3.1.3</LEXLink>
+            <LEXLink>Realia:1.4.2</LEXLink>
+          </LEXLinks>
+          <LEXVideos/>
+          <LEXCoreDomains>
+            <LEXCoreDomain Code="027">Crafts</LEXCoreDomain>
+            <LEXCoreDomain Code="084">Hunting and Fishing</LEXCoreDomain>
+            <LEXCoreDomain Code="010">Animal</LEXCoreDomain>
+          </LEXCoreDomains>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+    <BaseForm Id="004291002000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>nsf</PartOfSpeech>
+      </PartsOfSpeech>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="004291002001000" IsBiblicalTerm="M" EntryCode="" Indent="0">
+          <LEXDomains>
+            <LEXDomain Code="001005001003">Fortifications</LEXDomain>
+          </LEXDomains>
+          <LEXCollocations>
+            <LEXCollocation>מְצָד</LEXCollocation>
+            <LEXCollocation>מָצֹוד</LEXCollocation>
+            <LEXCollocation>מְצוּדָה</LEXCollocation>
+            <LEXCollocation>מְצֹודָה</LEXCollocation>
+          </LEXCollocations>
+          <LEXSynonyms>
+            <LEXSynonym>מָגֵן</LEXSynonym>
+            <LEXSynonym>מַחְסֶה</LEXSynonym>
+            <LEXSynonym>מִנְהָרָה</LEXSynonym>
+            <LEXSynonym>מָעֹוז</LEXSynonym>
+            <LEXSynonym>מְעָרָה</LEXSynonym>
+            <LEXSynonym>מִשְׂגָּב</LEXSynonym>
+            <LEXSynonym>סֶלַע</LEXSynonym>
+            <LEXSynonym>פלט</LEXSynonym>
+            <LEXSynonym>צוּר</LEXSynonym>
+          </LEXSynonyms>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2015-12-22 14:55:05" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>= area shaped and located in such a way that it is hard to access and can be easily defended against enemies; ◄ this can be a natural stronghold in the mountains (e.g. caves) or a construction erected by humans in populated areas; ≈ often associated with security and sometimes used as an epithet for leaders or deities that are considered providers of security</DefinitionShort>
+              <Glosses>
+                <Gloss>stronghold</Gloss>
+                <Gloss>fortress</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>00700600200056</LEXReference>
+            <LEXReference>00902200400032</LEXReference>
+            <LEXReference>00902200500024</LEXReference>
+            <LEXReference>00902301400018</LEXReference>
+            <LEXReference>00902301900034</LEXReference>
+            <LEXReference>00902400100018</LEXReference>
+            <LEXReference>00902402300036</LEXReference>
+            <LEXReference>01000500700010</LEXReference>
+            <LEXReference>01000500900012</LEXReference>
+            <LEXReference>01000501700054</LEXReference>
+            <LEXReference>01002200200012</LEXReference>
+            <LEXReference>01002301400012</LEXReference>
+            <LEXReference>01301100500028</LEXReference>
+            <LEXReference>01301100700012</LEXReference>
+            <LEXReference>01301101600012</LEXReference>
+            <LEXReference>01301200900020</LEXReference>
+            <LEXReference>01301201700022</LEXReference>
+            <LEXReference>01803902800018</LEXReference>
+            <LEXReference>01901800300008</LEXReference>
+            <LEXReference>01903100300026</LEXReference>
+            <LEXReference>01903100400008</LEXReference>
+            <LEXReference>01907100300030</LEXReference>
+            <LEXReference>01909100200012</LEXReference>
+            <LEXReference>01914400200006</LEXReference>
+            <LEXReference>02001201200006</LEXReference>
+            <LEXReference>02303301600008</LEXReference>
+            <LEXReference>02404804100012</LEXReference>
+            <LEXReference>02405103000018</LEXReference>
+            <LEXReference>02601900900034</LEXReference>
+            <LEXReference>02603302700072</LEXReference>
+          </LEXReferences>
+          <LEXLinks>
+            <LEXLink>Realia:3.13.3.2</LEXLink>
+          </LEXLinks>
+          <LEXVideos/>
+          <LEXCoreDomains>
+            <LEXCoreDomain Code="152">Security</LEXCoreDomain>
+          </LEXCoreDomains>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+    <BaseForm Id="004291003000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>nsm</PartOfSpeech>
+      </PartsOfSpeech>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="004291003001000" IsBiblicalTerm="M" EntryCode="" Indent="0">
+          <LEXDomains>
+            <LEXDomain Code="001004001020">Weapons</LEXDomain>
+          </LEXDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2015-12-22 14:55:05" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>= construction of which the exact form is unknown, ► built in order to gain access to a city during a siege</DefinitionShort>
+              <Glosses>
+                <Gloss>siege-works</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>01801900600014{N:001}</LEXReference>
+            <LEXReference>02100901400036{N:003}</LEXReference>
+          </LEXReferences>
+          <LEXLinks>
+            <LEXLink>Realia:2.19.1</LEXLink>
+          </LEXLinks>
+          <LEXVideos/>
+          <LEXCoreDomains>
+            <LEXCoreDomain Code="027">Crafts</LEXCoreDomain>
+            <LEXCoreDomain Code="158">Siege</LEXCoreDomain>
+            <LEXCoreDomain Code="188">Warfare</LEXCoreDomain>
+          </LEXCoreDomains>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="005451000000000" Lemma="ψάλλω" Version="0" HasAramaic="false" InLXX="true" AlphaPos="ψ">
+  <StrongCodes>
+    <Strong>G5567</Strong>
+  </StrongCodes>
+  <Authors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes/>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="005451001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>verb</PartOfSpeech>
+      </PartsOfSpeech>
+      <Inflections>
+        <Inflection Lemma="ψάλλω" BaseFormIndex="1">
+          <Form>fut.</Form>
+          <Realizations>
+            <Realization>ψαλῶ</Realization>
+          </Realizations>
+          <Comments/>
+        </Inflection>
+      </Inflections>
+      <RelatedLemmas>
+        <RelatedLemma>
+          <Word>ψαλμός</Word>
+        </RelatedLemma>
+      </RelatedLemmas>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="005451001001000" IsBiblicalTerm="Y" EntryCode="33.111" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Communication</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Sing, Lament</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2022-06-04 20:09:43" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>to sing songs of praise, with the possible implication of instrumental accompaniment (in the NT often related to the singing of OT psalms)</DefinitionShort>
+              <Glosses>
+                <Gloss>to sing</Gloss>
+                <Gloss>to sing a psalm</Gloss>
+                <Gloss>to sing a song of praise</Gloss>
+                <Gloss>to sing praises</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04501500900042</LEXReference>
+            <LEXReference>04601401500024</LEXReference>
+            <LEXReference>04601401500030</LEXReference>
+            <LEXReference>04900501900024</LEXReference>
+            <LEXReference>05900501300016</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

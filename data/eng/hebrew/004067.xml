@@ -1,0 +1,215 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="004067000000000" Lemma="מלל" Version="4" HasAramaic="true" InLXX="false" AlphaPos="מ">
+  <StrongCodes>
+    <Strong>H4448</Strong>
+    <Strong>H4449</Strong>
+    <Strong>H5243a</Strong>
+  </StrongCodes>
+  <Authors>
+    <Author>Reinier de Blois</Author>
+  </Authors>
+  <Contributors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes>
+    <Note Caller="1" LanguageCode="en" LastEdited="" LastEditedBy="">
+      <References>
+        <Reference>01802402400030</Reference>
+      </References>
+      <Content>NJPS "wither" | RSV NIV NRSV GNT ESV "be cut off" = [3a] | REB "droop"</Content>
+    </Note>
+    <Note Caller="2" LanguageCode="en" LastEdited="" LastEditedBy="">
+      <References>
+        <Reference>01905800800020</Reference>
+      </References>
+      <Content>RSV NJB NRSV "wither" | NIV ESV "be blunted" NJPS "be cut down" = [3a]</Content>
+    </Note>
+  </Notes>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="004067001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>vb</PartOfSpeech>
+      </PartsOfSpeech>
+      <RelatedLemmas>
+        <RelatedLemma>
+          <Word>מִלָּה</Word>
+        </RelatedLemma>
+        <RelatedLemma>
+          <Word>מְלִילָה</Word>
+        </RelatedLemma>
+      </RelatedLemmas>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="004067001001000" IsBiblicalTerm="Y" EntryCode="" Indent="0">
+          <LEXDomains>
+            <LEXDomain Code="002001001022">Dry</LEXDomain>
+          </LEXDomains>
+          <LEXForms>
+            <LEXForm>vbnif-</LEXForm>
+            <LEXForm>vbqal-</LEXForm>
+            <LEXForm>vbpiel</LEXForm>
+          </LEXForms>
+          <LEXSynonyms>
+            <LEXSynonym>יבשׁ</LEXSynonym>
+          </LEXSynonyms>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2017-01-04 15:14:45" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>= process by which plants and their products become devoid of moisture, and therefore lose color and bend over ◄ as if in mourning, ► which may ultimately result in death if circumstances do not change; ≈ associated with drought and destruction, often as punishment from God</DefinitionShort>
+              <Glosses>
+                <Gloss>to wither</Gloss>
+                <Gloss>to fade</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>01801400200010</LEXReference>
+            <LEXReference>01801801600016</LEXReference>
+            <LEXReference>01909000600020</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+        <LEXMeaning Id="004067001002000" IsBiblicalTerm="Y" EntryCode="" Indent="0">
+          <LEXDomains>
+            <LEXDomain Code="002001002015" Source="Dry" SourceCode="002001001022">Insignificant</LEXDomain>
+          </LEXDomains>
+          <LEXForms>
+            <LEXForm>vbnif-</LEXForm>
+            <LEXForm>vbqal-</LEXForm>
+            <LEXForm>vbhit-</LEXForm>
+          </LEXForms>
+          <LEXSynonyms>
+            <LEXSynonym>מאס</LEXSynonym>
+            <LEXSynonym>מכך</LEXSynonym>
+            <LEXSynonym>נבל</LEXSynonym>
+          </LEXSynonyms>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2022-09-19 16:52:03" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>literally: to wither; hence: = process by which humans gradually lose their power and social status</DefinitionShort>
+              <Glosses>
+                <Gloss>to wither</Gloss>
+                <Gloss>to fade</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>01802402400030{N:001}</LEXReference>
+            <LEXReference>01903700200012</LEXReference>
+            <LEXReference>01905800800020{N:002}</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+    <BaseForm Id="004067002000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>vb</PartOfSpeech>
+      </PartsOfSpeech>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="004067002001000" IsBiblicalTerm="Y" EntryCode="" Indent="0">
+          <LEXDomains>
+            <LEXDomain Code="002001001058">Stance</LEXDomain>
+          </LEXDomains>
+          <LEXForms>
+            <LEXForm>vbqal-</LEXForm>
+          </LEXForms>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2017-01-04 15:14:45" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>= action by which humans move parts of their bodies in order to pass on information without other people noticing</DefinitionShort>
+              <Glosses>
+                <Gloss>to make signs</Gloss>
+                <Gloss>to signal</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>02000601300012</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+          <LEXCoreDomains>
+            <LEXCoreDomain Code="041">Communication</LEXCoreDomain>
+          </LEXCoreDomains>
+        </LEXMeaning>
+        <LEXMeaning Id="004067002002000" IsBiblicalTerm="Y" EntryCode="" Indent="0">
+          <LEXDomains>
+            <LEXDomain Code="002004001009008">Speak</LEXDomain>
+          </LEXDomains>
+          <LEXForms>
+            <LEXForm>vbpiel</LEXForm>
+            <LEXForm>vbpael</LEXForm>
+          </LEXForms>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2017-03-08 15:47:59" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>= action by which humans, and personified objects utter words; usually not directly followed by the actual words that are spoken</DefinitionShort>
+              <Glosses>
+                <Gloss>to speak</Gloss>
+                <Gloss>to say</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>00102100700008</LEXReference>
+            <LEXReference>01800800200006</LEXReference>
+            <LEXReference>01803300300016</LEXReference>
+            <LEXReference>01910600200004</LEXReference>
+            <LEXReference>02700602200010</LEXReference>
+            <LEXReference>02700700800068</LEXReference>
+            <LEXReference>02700701100022</LEXReference>
+            <LEXReference>02700702000056</LEXReference>
+            <LEXReference>02700702500014</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+          <LEXCoreDomains>
+            <LEXCoreDomain Code="041">Communication</LEXCoreDomain>
+          </LEXCoreDomains>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+    <BaseForm Id="004067003000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>vb</PartOfSpeech>
+      </PartsOfSpeech>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="004067003001000" IsBiblicalTerm="M" EntryCode="" Indent="0">
+          <LEXDomains>
+            <LEXDomain Code="002003001008">Detach</LEXDomain>
+          </LEXDomains>
+          <LEXForms>
+            <LEXForm>vbqal-</LEXForm>
+            <LEXForm>vbnif- (passive)</LEXForm>
+          </LEXForms>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2017-11-24 14:10:19" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>= action by which someone removes the foreskin of the penis, + preferably with a {L:flint&lt;SDBH:צֹר&gt;} knife, as a sign of the covenant between YHWH and Abraham's descendants; ≈ considered an outward change for the good that should be accompanied by an inward change in attitude as well</DefinitionShort>
+              <Glosses>
+                <Gloss>to circumcise</Gloss>
+                <Gloss>circumcision</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>00101701100004</LEXReference>
+            <LEXReference>00600500200032</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+          <LEXCoreDomains>
+            <LEXCoreDomain Code="031">Circumcision</LEXCoreDomain>
+            <LEXCoreDomain Code="046">Covenant</LEXCoreDomain>
+          </LEXCoreDomains>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

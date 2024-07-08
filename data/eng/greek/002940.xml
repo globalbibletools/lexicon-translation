@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="002940000000000" Lemma="κρούω" Version="0" HasAramaic="false" InLXX="true" AlphaPos="κ">
+  <StrongCodes>
+    <Strong>G2925</Strong>
+  </StrongCodes>
+  <Authors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes>
+    <Note Caller="1" LanguageCode="en" LastEdited="" LastEditedBy="">
+      <References>
+        <Reference>04000700700016</Reference>
+      </References>
+      <Content>In view of the fact that κρούω in {S:04000700700016} involves an act of communication, it would be possible to classify this meaning of κρούω in Domain 33 Communication, but since the action of κρούω involves physical impact, it is listed here in Domain 19.</Content>
+    </Note>
+  </Notes>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="002940001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>verb</PartOfSpeech>
+      </PartsOfSpeech>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="002940001001000" IsBiblicalTerm="Y" EntryCode="19.12" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Physical Impact</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Hit, Strike</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-10-26 11:03:40" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>to knock on a door, as a means of signaling one’s presence to those inside</DefinitionShort>
+              <Glosses>
+                <Gloss>to knock</Gloss>
+              </Glosses>
+              <Comments>A literal rendering of κρούω in {S:04000700700016} may be misleading in a number of languages, since in some areas only thieves knock on doors. This is done in order to determine whether anyone is at home, in which case, of course, the thief runs off. The more general practice for signaling one’s presence may be to cough, to clap the hands, or to call out one’s name.</Comments>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04000700700016{N:001}</LEXReference>
+            <LEXReference>04000700800024</LEXReference>
+            <LEXReference>04201100900022</LEXReference>
+            <LEXReference>04201101000024</LEXReference>
+            <LEXReference>04201203600034</LEXReference>
+            <LEXReference>04201302500032</LEXReference>
+            <LEXReference>04401201300002</LEXReference>
+            <LEXReference>04401201600010</LEXReference>
+            <LEXReference>06600302000014</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="003251000000000" Lemma="כהן" Version="5" HasAramaic="false" InLXX="false" AlphaPos="כ">
+  <StrongCodes>
+    <Strong>H3547</Strong>
+  </StrongCodes>
+  <Authors>
+    <Author>Enio R. Mueller</Author>
+  </Authors>
+  <Contributors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes>
+    <Note Caller="1" LanguageCode="en" LastEdited="" LastEditedBy="">
+      <References>
+        <Reference>02306101000038</Reference>
+      </References>
+      <Content>NIV ESV | BHS {L:יכין&lt;SDBH:כון&gt;} RSV NRSV "decks himself" NJPS "adorned" GNT "dressed" | REB omit</Content>
+    </Note>
+  </Notes>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="003251001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>vb</PartOfSpeech>
+      </PartsOfSpeech>
+      <RelatedLemmas>
+        <RelatedLemma>
+          <Word>כֹּהֵן</Word>
+        </RelatedLemma>
+        <RelatedLemma>
+          <Word>כְּהֻנָּה</Word>
+        </RelatedLemma>
+      </RelatedLemmas>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="003251001001000" IsBiblicalTerm="M" EntryCode="" Indent="0">
+          <LEXDomains>
+            <LEXDomain Code="002002002008" Source="Priests" SourceCode="001001002003008">Role</LEXDomain>
+          </LEXDomains>
+          <LEXForms>
+            <LEXForm>vbpiel</LEXForm>
+          </LEXForms>
+          <LEXSynonyms>
+            <LEXSynonym>מלא</LEXSynonym>
+            <LEXSynonym>קדשׁ</LEXSynonym>
+          </LEXSynonyms>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2017-06-22 10:57:38" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>= state in which humans have been {L:ordained&lt;SDBH:מלא&gt;} and {L:consecrated&lt;SDBH:קדשׁ&gt;} to function as a {L:priest&lt;SDBH:כֹּהֵן&gt;}</DefinitionShort>
+              <Glosses>
+                <Gloss>to act as priest</Gloss>
+                <Gloss>to serve as priest</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>00202800100034</LEXReference>
+            <LEXReference>00202800300040</LEXReference>
+            <LEXReference>00202800400058</LEXReference>
+            <LEXReference>00202804100044</LEXReference>
+            <LEXReference>00202900100024</LEXReference>
+            <LEXReference>00202904400036</LEXReference>
+            <LEXReference>00203003000024</LEXReference>
+            <LEXReference>00203101000040</LEXReference>
+            <LEXReference>00203501900046</LEXReference>
+            <LEXReference>00203904100046</LEXReference>
+            <LEXReference>00204001300032</LEXReference>
+            <LEXReference>00204001500020</LEXReference>
+            <LEXReference>00300703500030</LEXReference>
+            <LEXReference>00301603200028</LEXReference>
+            <LEXReference>00400300300026</LEXReference>
+            <LEXReference>00400300400050</LEXReference>
+            <LEXReference>00501000600030</LEXReference>
+            <LEXReference>01300503600016</LEXReference>
+            <LEXReference>01302400200030</LEXReference>
+            <LEXReference>01401101400044</LEXReference>
+            <LEXReference>02604401300012</LEXReference>
+            <LEXReference>02800400600030</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+          <LEXCoreDomains>
+            <LEXCoreDomain Code="132">Priesthood</LEXCoreDomain>
+          </LEXCoreDomains>
+        </LEXMeaning>
+        <LEXMeaning Id="003251001002000" IsBiblicalTerm="M" EntryCode="" Indent="0">
+          <LEXDomains>
+            <LEXDomain Code="001001002003008">Priests</LEXDomain>
+          </LEXDomains>
+          <LEXForms>
+            <LEXForm>vbpiel</LEXForm>
+          </LEXForms>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2017-06-22 10:57:38" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>meaning unsure; possibly: = action by which humans mimick a priest by dressing up in a certain way</DefinitionShort>
+              <Glosses>
+                <Gloss>to act like a priest</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>02306101000038{N:001}</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+          <LEXCoreDomains>
+            <LEXCoreDomain Code="132">Priesthood</LEXCoreDomain>
+          </LEXCoreDomains>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

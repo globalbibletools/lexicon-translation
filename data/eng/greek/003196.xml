@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="003196000000000" Lemma="μεθερμηνεύω" Version="0" HasAramaic="false" InLXX="true" AlphaPos="μ">
+  <StrongCodes>
+    <Strong>G3177</Strong>
+  </StrongCodes>
+  <Authors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes/>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="003196001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>verb</PartOfSpeech>
+      </PartsOfSpeech>
+      <Constructs>
+        <Construct Lemma="μεθερμηνεύω" BaseFormIndex="1">
+          <WordMeaningSet>
+            <Word>μετά</Word>
+          </WordMeaningSet>
+          <WordMeaningSet>
+            <Word>ἑρμηνεύω</Word>
+          </WordMeaningSet>
+        </Construct>
+      </Constructs>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="003196001001000" IsBiblicalTerm="Y" EntryCode="33.145" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Communication</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Interpret, Mean, Explain</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-11-23 11:38:07" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>to translate from one language to another</DefinitionShort>
+              <Glosses>
+                <Gloss>to translate</Gloss>
+                <Gloss>to interpret</Gloss>
+              </Glosses>
+              <Comments>In a number of languages the equivalent of ‘to translate’ or ‘to interpret’ is an idiomatic expression, for example, ‘it comes out in our language as’ or ‘in our words it means’ or ‘in our mouths it says.’</Comments>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04000102300036</LEXReference>
+            <LEXReference>04100504100026</LEXReference>
+            <LEXReference>04101502200020</LEXReference>
+            <LEXReference>04101503400032</LEXReference>
+            <LEXReference>04300103800040</LEXReference>
+            <LEXReference>04300104100034</LEXReference>
+            <LEXReference>04400403600022</LEXReference>
+            <LEXReference>04401300800018</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

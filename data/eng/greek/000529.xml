@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="000529000000000" Lemma="ἀπάντησις" Version="0" HasAramaic="false" InLXX="true" AlphaPos="α">
+  <StrongCodes>
+    <Strong>G0529</Strong>
+  </StrongCodes>
+  <Authors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes/>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="000529001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>noun, f.</PartOfSpeech>
+      </PartsOfSpeech>
+      <Inflections>
+        <Inflection Lemma="ἀπάντησις" BaseFormIndex="1">
+          <Form/>
+          <Realizations>
+            <Realization>-εως</Realization>
+          </Realizations>
+          <Comments/>
+        </Inflection>
+      </Inflections>
+      <RelatedLemmas>
+        <RelatedLemma>
+          <Word>ἀντάω</Word>
+          <Meaning LanguageCode="en">
+            <Meaning>meet</Meaning>
+          </Meaning>
+          <Meaning LanguageCode="zhT">
+            <Meaning>遇見</Meaning>
+          </Meaning>
+        </RelatedLemma>
+      </RelatedLemmas>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="000529001001000" IsBiblicalTerm="Y" EntryCode="15.78" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Linear Movement</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Come Near, Approach</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-08-10 18:09:03" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>to come near to and to meet, either in a friendly or hostile sense</DefinitionShort>
+              <Glosses>
+                <Gloss>to draw near</Gloss>
+                <Gloss>to meet</Gloss>
+                <Gloss>to meet up with</Gloss>
+              </Glosses>
+              <Comments>In a number of languages it is necessary to specify clearly by the choice of terms whether the meeting is friendly or hostile.</Comments>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04002500600022</LEXReference>
+            <LEXReference>04402801500020</LEXReference>
+            <LEXReference>05200401700028</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="000012000000000" Lemma="ἄβυσσος" Version="0" HasAramaic="false" InLXX="true" AlphaPos="α">
+  <StrongCodes>
+    <Strong>G0012</Strong>
+  </StrongCodes>
+  <Authors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes/>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="000012001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>noun, f.</PartOfSpeech>
+      </PartsOfSpeech>
+      <Inflections>
+        <Inflection Lemma="ἄβυσσος" BaseFormIndex="1">
+          <Form/>
+          <Realizations>
+            <Realization>-ου</Realization>
+          </Realizations>
+          <Comments/>
+        </Inflection>
+      </Inflections>
+      <Constructs>
+        <Construct Lemma="ἄβυσσος" BaseFormIndex="1">
+          <WordMeaningSet>
+            <Word>ἀ-</Word>
+          </WordMeaningSet>
+          <WordMeaningSet>
+            <Word>βυθίζω</Word>
+          </WordMeaningSet>
+        </Construct>
+      </Constructs>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="000012001001000" IsBiblicalTerm="M" EntryCode="1.20" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Geographical Objects and Features</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Regions Below the Surface of the Earth</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-05-24 13:26:41" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>(a figurative extension of meaning of ἄβυσσος ‘pit,’ not occurring in the NT) a location of the dead and a place where the Devil is kept ({S:06602000300012}), the abode of the beast as the antichrist ({S:06601100700026}), and of Abaddon, as the angel of the underworld ({S:06600901100016})</DefinitionShort>
+              <Glosses>
+                <Gloss>abyss</Gloss>
+                <Gloss>abode of evil spirits</Gloss>
+                <Gloss>very deep place</Gloss>
+              </Glosses>
+              <Comments>ἄβυσσος is sometimes rendered as ‘a very deep hole’; in other instances, ‘a hole without a bottom’ or ‘the deepest hole in the earth.’</Comments>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04200803100020</LEXReference>
+            <LEXReference>04501000700012</LEXReference>
+            <LEXReference>06600900100048</LEXReference>
+            <LEXReference>06600900200012</LEXReference>
+            <LEXReference>06600901100016</LEXReference>
+            <LEXReference>06601100700026</LEXReference>
+            <LEXReference>06601700800028</LEXReference>
+            <LEXReference>06602000100024</LEXReference>
+            <LEXReference>06602000300012</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="001255000000000" Lemma="διαζώννυμι" Version="0" HasAramaic="false" InLXX="false" AlphaPos="δ">
+  <StrongCodes>
+    <Strong>G1241</Strong>
+  </StrongCodes>
+  <Authors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes>
+    <Note Caller="1" LanguageCode="en" LastEdited="" LastEditedBy="">
+      <References/>
+      <Content>It is possible that διαζώννυμι is somewhat more forceful in meaning than ζώννυμι[a], but this cannot be determined from existing contexts.</Content>
+    </Note>
+  </Notes>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="001255001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>verb</PartOfSpeech>
+      </PartsOfSpeech>
+      <Inflections>
+        <Inflection Lemma="διαζώννυμι" BaseFormIndex="1">
+          <Form>aor.</Form>
+          <Realizations>
+            <Realization>διέζωσα</Realization>
+          </Realizations>
+          <Comments/>
+        </Inflection>
+        <Inflection Lemma="διαζώννυμι" BaseFormIndex="1">
+          <Form>aor.midd.</Form>
+          <Realizations>
+            <Realization>διεζωσάμην</Realization>
+          </Realizations>
+          <Comments/>
+        </Inflection>
+        <Inflection Lemma="διαζώννυμι" BaseFormIndex="1">
+          <Form>pf.pass.ptc.</Form>
+          <Realizations>
+            <Realization>διεζωσμένος</Realization>
+          </Realizations>
+          <Comments/>
+        </Inflection>
+      </Inflections>
+      <RelatedLemmas>
+        <RelatedLemma>
+          <Word>ζώννυμι</Word>
+        </RelatedLemma>
+      </RelatedLemmas>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="001255001001000" IsBiblicalTerm="M" EntryCode="49.14" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Activities Involving Clothing and Adorning</LEXDomain>
+          </LEXDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-06-01 21:19:30" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>to tuck up or hold a garment firmly in place by wrapping a belt, girdle, or piece of cloth around it (compare {L:ζώνη&lt;SDBG:ζώνη:000000&gt;} belt; girdle; {D:6.178}){N:001}</DefinitionShort>
+              <Glosses>
+                <Gloss>to gird</Gloss>
+                <Gloss>to fasten one’s belt</Gloss>
+                <Gloss>to wear a narrow band of cloth around the waist</Gloss>
+                <Gloss>to tie around the waist.</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04301300400024</LEXReference>
+            <LEXReference>04301300500040</LEXReference>
+            <LEXReference>04302100700050</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="001927000000000" Lemma="ἐπιβαίνω" Version="0" HasAramaic="false" InLXX="true" AlphaPos="ε">
+  <StrongCodes>
+    <Strong>G1910</Strong>
+  </StrongCodes>
+  <Authors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes/>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="001927001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>verb</PartOfSpeech>
+      </PartsOfSpeech>
+      <Inflections>
+        <Inflection Lemma="ἐπιβαίνω" BaseFormIndex="1">
+          <Form>aor.</Form>
+          <Realizations>
+            <Realization>ἐπέβην</Realization>
+          </Realizations>
+          <Comments/>
+        </Inflection>
+        <Inflection Lemma="ἐπιβαίνω" BaseFormIndex="1">
+          <Form>ptc.</Form>
+          <Realizations>
+            <Realization>ἐπιβάς</Realization>
+          </Realizations>
+          <Comments/>
+        </Inflection>
+        <Inflection Lemma="ἐπιβαίνω" BaseFormIndex="1">
+          <Form>pf.</Form>
+          <Realizations>
+            <Realization>ἐπιβέβηκα</Realization>
+          </Realizations>
+          <Comments/>
+        </Inflection>
+      </Inflections>
+      <RelatedLemmas>
+        <RelatedLemma>
+          <Word>βαίνω</Word>
+          <Meaning LanguageCode="en">
+            <Meaning>go, walk</Meaning>
+          </Meaning>
+          <Meaning LanguageCode="zhT">
+            <Meaning>走，走路</Meaning>
+          </Meaning>
+        </RelatedLemma>
+      </RelatedLemmas>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="001927001001000" IsBiblicalTerm="Y" EntryCode="15.83" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Linear Movement</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Come, Come To, Arrive</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-06-17 09:21:08" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>to move to or on to, generally with the implication of having arrived</DefinitionShort>
+              <Glosses>
+                <Gloss>to come to</Gloss>
+                <Gloss>to arrive</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04402001800030</LEXReference>
+            <LEXReference>04402500100006</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+        <LEXMeaning Id="001927001002000" IsBiblicalTerm="Y" EntryCode="15.97" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Linear Movement</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Come/Go Onto</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-06-17 09:21:08" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>to move up onto some object</DefinitionShort>
+              <Glosses>
+                <Gloss>to embark</Gloss>
+                <Gloss>to go onto</Gloss>
+                <Gloss>to mount</Gloss>
+              </Glosses>
+              <Comments>In a high percentage of languages it is necessary to use quite distinct terms in speaking of boarding a ship in contrast with mounting a donkey. A wrong choice in such a context can be seriously misleading.</Comments>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04002100500026</LEXReference>
+            <LEXReference>04402100200014</LEXReference>
+            <LEXReference>04402100400034</LEXReference>
+            <LEXReference>04402700200002</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

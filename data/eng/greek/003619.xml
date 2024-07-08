@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="003619000000000" Lemma="ὀργυιά" Version="0" HasAramaic="false" InLXX="false" AlphaPos="ο">
+  <StrongCodes>
+    <Strong>G3712</Strong>
+  </StrongCodes>
+  <Authors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes/>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="003619001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>noun, f.</PartOfSpeech>
+      </PartsOfSpeech>
+      <Inflections>
+        <Inflection Lemma="ὀργυιά" BaseFormIndex="1">
+          <Form/>
+          <Realizations>
+            <Realization>-ᾶς</Realization>
+          </Realizations>
+          <Comments/>
+        </Inflection>
+      </Inflections>
+      <RelatedLemmas>
+        <RelatedLemma>
+          <Word>ὀρέγομαι</Word>
+        </RelatedLemma>
+      </RelatedLemmas>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="003619001001000" IsBiblicalTerm="Y" EntryCode="81.26" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Spacial Dimensions</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Specific Measures of Length</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-12-15 18:56:48" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>traditionally the measurement of a man’s arms stretched out horizontally, reckoned at approximately six feet or almost two meters and used as a technical, nautical term to measure the depth of water</DefinitionShort>
+              <Glosses>
+                <Gloss>fathom</Gloss>
+              </Glosses>
+              <Comments>If one adopts a metric system, the later expression in {S:04402702800026}, namely, ὀργυιὰς δεκαπέντε ‘fifteen fathoms,’ may be rendered as ‘about thirty meters.’</Comments>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04402702800008</LEXReference>
+            <LEXReference>04402702800026</LEXReference>
+          </LEXReferences>
+          <LEXLinks>
+            <LEXLink>realia:11.4.2.2</LEXLink>
+          </LEXLinks>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

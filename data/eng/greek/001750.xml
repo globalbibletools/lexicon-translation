@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="001750000000000" Lemma="ἐνδέχομαι" Version="0" HasAramaic="false" InLXX="true" AlphaPos="ε">
+  <StrongCodes>
+    <Strong>G1735</Strong>
+  </StrongCodes>
+  <Authors/>
+  <AlternateLemmas>
+    <AlternateLemma>ἐνδέχεται</AlternateLemma>
+  </AlternateLemmas>
+  <MainLinks/>
+  <Notes>
+    <Note Caller="1" LanguageCode="en" LastEdited="" LastEditedBy="">
+      <References>
+        <Reference>04201303300026</Reference>
+      </References>
+      <Content>Even though one may translate {S:04201303300026} as ‘it is unthinkable,’ it does not necessarily follow that one should classify this in Domain 30 Think. The meaning of ‘unthinkable’ is simply a derivative from the concept of impossibility.</Content>
+    </Note>
+  </Notes>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="001750001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>verb</PartOfSpeech>
+      </PartsOfSpeech>
+      <RelatedLemmas>
+        <RelatedLemma>
+          <Word>δέχομαι</Word>
+        </RelatedLemma>
+      </RelatedLemmas>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="001750001001000" IsBiblicalTerm="Y" EntryCode="71.4" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Mode</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Possible, Impossible</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXForms>
+            <LEXForm>ἐνδέχεται</LEXForm>
+          </LEXForms>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-05-27 09:49:16" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>to be possible, in the sense of being fully in accord with human experience</DefinitionShort>
+              <Glosses>
+                <Gloss>to be possible</Gloss>
+                <Gloss>to be thinkable</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04201303300026{N:001}</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

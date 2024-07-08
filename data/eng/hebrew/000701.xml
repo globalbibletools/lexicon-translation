@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="000701000000000" Lemma="אַרְמֹון" Version="5" HasAramaic="false" InLXX="false" AlphaPos="א">
+  <StrongCodes>
+    <Strong>H0759</Strong>
+  </StrongCodes>
+  <Authors>
+    <Author>Reinier de Blois</Author>
+  </Authors>
+  <Contributors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes>
+    <Note Caller="1" LanguageCode="en" LastEdited="" LastEditedBy="">
+      <References>
+        <Reference>03300500400028</Reference>
+      </References>
+      <Content>{A:MT} {A:HOTTP}-B {A:NIV} {A:NJPS} {A:REB} {A:GNT} CEV | {A:LXX} χωρα = {L:אֲדָמַה&lt;SDBH:אֲדָמָה&gt;} {A:RSV} {A:NRSV} "soil" {A:NJB} "frontier"</Content>
+    </Note>
+  </Notes>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="000701001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>nsm</PartOfSpeech>
+      </PartsOfSpeech>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="000701001001000" IsBiblicalTerm="M" EntryCode="" Indent="0">
+          <LEXDomains>
+            <LEXDomain Code="001005001003">Fortifications</LEXDomain>
+          </LEXDomains>
+          <LEXSynonyms>
+            <LEXSynonym>הֵיכָל</LEXSynonym>
+            <LEXSynonym>חֵיל</LEXSynonym>
+            <LEXSynonym>מִבְצָר</LEXSynonym>
+            <LEXSynonym>מִשְׂגָּב</LEXSynonym>
+          </LEXSynonyms>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2011-01-17 12:05:01" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>= building or part of a building that has been fortified to provide additional security; often connected to the palace</DefinitionShort>
+              <Glosses>
+                <Gloss>citadel</Gloss>
+                <Gloss>fortress</Gloss>
+                <Gloss>stronghold</Gloss>
+                <Gloss>palace</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>01101601800026</LEXReference>
+            <LEXReference>01201502500026</LEXReference>
+            <LEXReference>01403601900028</LEXReference>
+            <LEXReference>01904800400006</LEXReference>
+            <LEXReference>01904801400012</LEXReference>
+            <LEXReference>01912200700014</LEXReference>
+            <LEXReference>02001801900024</LEXReference>
+            <LEXReference>02302301300034</LEXReference>
+            <LEXReference>02302500200024</LEXReference>
+            <LEXReference>02303201400004</LEXReference>
+            <LEXReference>02303401300006</LEXReference>
+            <LEXReference>02400600500018</LEXReference>
+            <LEXReference>02400902000016</LEXReference>
+            <LEXReference>02401702700066</LEXReference>
+            <LEXReference>02403001800036</LEXReference>
+            <LEXReference>02404902700018</LEXReference>
+            <LEXReference>02500200500018</LEXReference>
+            <LEXReference>02500200700022</LEXReference>
+            <LEXReference>02800801400042</LEXReference>
+            <LEXReference>03000100400018</LEXReference>
+            <LEXReference>03000100700018</LEXReference>
+            <LEXReference>03000101000018</LEXReference>
+            <LEXReference>03000101200016</LEXReference>
+            <LEXReference>03000101400018</LEXReference>
+            <LEXReference>03000200200016</LEXReference>
+            <LEXReference>03000200500016</LEXReference>
+            <LEXReference>03000300900006</LEXReference>
+            <LEXReference>03000300900016</LEXReference>
+            <LEXReference>03000301000028</LEXReference>
+            <LEXReference>03000301100034</LEXReference>
+            <LEXReference>03000600800032</LEXReference>
+            <LEXReference>03300500400028{N:001}</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+          <LEXCoreDomains>
+            <LEXCoreDomain Code="020">Building</LEXCoreDomain>
+            <LEXCoreDomain Code="152">Security</LEXCoreDomain>
+          </LEXCoreDomains>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="001377000000000" Lemma="διότι" Version="0" HasAramaic="false" InLXX="true" AlphaPos="δ">
+  <StrongCodes>
+    <Strong>G1360</Strong>
+  </StrongCodes>
+  <Authors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes/>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="001377001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>conj.</PartOfSpeech>
+      </PartsOfSpeech>
+      <Constructs>
+        <Construct Lemma="διότι" BaseFormIndex="1">
+          <WordMeaningSet>
+            <Word>διά τοῦτο</Word>
+          </WordMeaningSet>
+          <WordMeaningSet>
+            <Word>ὅτι</Word>
+            <Meaning LanguageCode="en">
+              <Meaning>for the reason that</Meaning>
+            </Meaning>
+            <Meaning LanguageCode="zhT">
+              <Meaning>由於</Meaning>
+            </Meaning>
+          </WordMeaningSet>
+        </Construct>
+      </Constructs>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="001377001001000" IsBiblicalTerm="Y" EntryCode="89.26" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Relations</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Cause and/or Reason</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-07-07 22:14:41" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>marker of cause or reason, with focus upon instrumentality, either of objects or events</DefinitionShort>
+              <Glosses>
+                <Gloss>because of</Gloss>
+                <Gloss>on account of</Gloss>
+                <Gloss>by reason of</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04200101300020</LEXReference>
+            <LEXReference>04200200700032</LEXReference>
+            <LEXReference>04202102800022</LEXReference>
+            <LEXReference>04401303500002</LEXReference>
+            <LEXReference>04401801000002</LEXReference>
+            <LEXReference>04401801000026</LEXReference>
+            <LEXReference>04402002600002</LEXReference>
+            <LEXReference>04402201800026</LEXReference>
+            <LEXReference>04500101900002</LEXReference>
+            <LEXReference>04500102100002</LEXReference>
+            <LEXReference>04500302000002</LEXReference>
+            <LEXReference>04500800700002</LEXReference>
+            <LEXReference>04601500900028</LEXReference>
+            <LEXReference>05000202600016</LEXReference>
+            <LEXReference>05200200800036</LEXReference>
+            <LEXReference>05200201800002</LEXReference>
+            <LEXReference>05200400600024</LEXReference>
+            <LEXReference>05801100500022</LEXReference>
+            <LEXReference>05801102300020</LEXReference>
+            <LEXReference>05900400300010</LEXReference>
+            <LEXReference>06000101600002</LEXReference>
+            <LEXReference>06000102400002</LEXReference>
+            <LEXReference>06000200600002</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+        <LEXMeaning Id="001377001002000" IsBiblicalTerm="Y" EntryCode="90.21" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Case</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Content</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-07-07 22:14:41" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>a marker of discourse content, whether direct or indirect</DefinitionShort>
+              <Glosses>
+                <Gloss>that</Gloss>
+                <Gloss>the fact that</Gloss>
+              </Glosses>
+              <Comments>The marking of direct and indirect discourse varies greatly from language to language. In some instances there is no marker at all; in other cases one marker precedes and another follows. In still other instances a repetition of an expression of speaking occurs at the end of a quotation, whether direct or indirect. In a number of languages written usage differs appreciably from spoken usage, because intonation so often marks introduced discourse in the spoken form of a language.|In {S:04500802100000} διότι appears to be simply a variant of {L:ὅτι&lt;SDBG:ὅτι:000000&gt;}[a], {D:89.26})</Comments>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04500802000002</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="003903000000000" Lemma="πεντακισχίλιοι" Version="0" HasAramaic="false" InLXX="true" AlphaPos="π">
+  <StrongCodes>
+    <Strong>G4000</Strong>
+  </StrongCodes>
+  <Authors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes/>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="003903001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>adjc.</PartOfSpeech>
+      </PartsOfSpeech>
+      <Inflections>
+        <Inflection Lemma="πεντακισχίλιοι" BaseFormIndex="1">
+          <Form/>
+          <Realizations>
+            <Realization>-αι, -α</Realization>
+          </Realizations>
+          <Comments/>
+        </Inflection>
+      </Inflections>
+      <Constructs>
+        <Construct Lemma="πεντακισχίλιοι" BaseFormIndex="1">
+          <WordMeaningSet>
+            <Word>πέντε</Word>
+          </WordMeaningSet>
+          <WordMeaningSet>
+            <Word>χίλιοι</Word>
+          </WordMeaningSet>
+        </Construct>
+      </Constructs>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="003903001001000" IsBiblicalTerm="Y" EntryCode="60.43" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Number</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>One, Two, Three, Etc. [Cardinals]</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-12-24 12:28:00" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>cardinal number, where there are five thousand instances of a countable entity</DefinitionShort>
+              <Glosses>
+                <Gloss>five thousand</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04001402100014</LEXReference>
+            <LEXReference>04001600900018</LEXReference>
+            <LEXReference>04100604400014</LEXReference>
+            <LEXReference>04100801900016</LEXReference>
+            <LEXReference>04200901400010</LEXReference>
+            <LEXReference>04300601000044</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

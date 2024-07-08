@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="005500000000000" Lemma="ὥσπερ" Version="0" HasAramaic="false" InLXX="true" AlphaPos="ω">
+  <StrongCodes>
+    <Strong>G5618</Strong>
+  </StrongCodes>
+  <Authors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes>
+    <Note Caller="1" LanguageCode="en" LastEdited="" LastEditedBy="">
+      <References/>
+      <Content>In general it seems that forms which include the enclitic περ are somewhat more emphatic, but this is not always possible to establish on the basis of evidently contrastive contexts.</Content>
+    </Note>
+  </Notes>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="005500001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>conj.</PartOfSpeech>
+      </PartsOfSpeech>
+      <Constructs>
+        <Construct Lemma="ὥσπερ" BaseFormIndex="1">
+          <WordMeaningSet>
+            <Word>ὡς</Word>
+          </WordMeaningSet>
+          <WordMeaningSet>
+            <Word>-πέρ</Word>
+          </WordMeaningSet>
+        </Construct>
+      </Constructs>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="005500001001000" IsBiblicalTerm="Y" EntryCode="64.13" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Comparison</LEXDomain>
+          </LEXDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2022-06-13 14:04:50" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>a somewhat more emphatic marker of similarity between events and states{N:001}</DefinitionShort>
+              <Glosses>
+                <Gloss>as</Gloss>
+                <Gloss>just as</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04000600200018</LEXReference>
+            <LEXReference>04000600700010</LEXReference>
+            <LEXReference>04001204000002</LEXReference>
+            <LEXReference>04001304000002</LEXReference>
+            <LEXReference>04001801700032</LEXReference>
+            <LEXReference>04002002800002</LEXReference>
+            <LEXReference>04002402700002</LEXReference>
+            <LEXReference>04002403700002</LEXReference>
+            <LEXReference>04002501400002</LEXReference>
+            <LEXReference>04002503200026</LEXReference>
+            <LEXReference>04201702400002</LEXReference>
+            <LEXReference>04201801100030</LEXReference>
+            <LEXReference>04300502100002</LEXReference>
+            <LEXReference>04300502600002</LEXReference>
+            <LEXReference>04400200200016</LEXReference>
+            <LEXReference>04400301700018</LEXReference>
+            <LEXReference>04401101500028</LEXReference>
+            <LEXReference>04500501200006</LEXReference>
+            <LEXReference>04500501900002</LEXReference>
+            <LEXReference>04500502100004</LEXReference>
+            <LEXReference>04500600400022</LEXReference>
+            <LEXReference>04500601900018</LEXReference>
+            <LEXReference>04501103000002</LEXReference>
+            <LEXReference>04600800500026</LEXReference>
+            <LEXReference>04601000700014</LEXReference>
+            <LEXReference>04601101200002</LEXReference>
+            <LEXReference>04601502200002</LEXReference>
+            <LEXReference>04601600100018</LEXReference>
+            <LEXReference>04700800700004</LEXReference>
+            <LEXReference>04800402900004</LEXReference>
+            <LEXReference>05200500300022</LEXReference>
+            <LEXReference>05800401000030</LEXReference>
+            <LEXReference>05800702700014</LEXReference>
+            <LEXReference>05800902500012</LEXReference>
+            <LEXReference>05900202600002</LEXReference>
+            <LEXReference>06601000300010</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

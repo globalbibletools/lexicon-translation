@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="003805000000000" Lemma="παρατείνω" Version="0" HasAramaic="false" InLXX="true" AlphaPos="π">
+  <StrongCodes>
+    <Strong>G3905</Strong>
+  </StrongCodes>
+  <Authors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes>
+    <Note Caller="1" LanguageCode="en" LastEdited="" LastEditedBy="">
+      <References>
+        <Reference>04402000700038</Reference>
+      </References>
+      <Content>παρατείνω in {S:04402000700038} is a typical instance in which a meaning may be interpreted either as an aspect of an event or as a marker of temporal extension.</Content>
+    </Note>
+  </Notes>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="003805001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>verb</PartOfSpeech>
+      </PartsOfSpeech>
+      <Inflections>
+        <Inflection Lemma="παρατείνω" BaseFormIndex="1">
+          <Form>aor.</Form>
+          <Realizations>
+            <Realization>παρέτεινα</Realization>
+          </Realizations>
+          <Comments/>
+        </Inflection>
+      </Inflections>
+      <RelatedLemmas>
+        <RelatedLemma>
+          <Word>τείνω</Word>
+          <Meaning LanguageCode="en">
+            <Meaning>stretch, reach</Meaning>
+          </Meaning>
+          <Meaning LanguageCode="zhT">
+            <Meaning>伸長，達到</Meaning>
+          </Meaning>
+        </RelatedLemma>
+      </RelatedLemmas>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="003805001001000" IsBiblicalTerm="Y" EntryCode="67.120" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Time</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Duration of Time with Reference to Some Point of Time: Until, Delay, Still, From</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-12-20 16:04:57" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>to extend a period of time</DefinitionShort>
+              <Glosses>
+                <Gloss>to prolong</Gloss>
+              </Glosses>
+              <Comments>For another interpretation of παρατείνω in {S:04402000700038}, see {D:68.21}.</Comments>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04402000700038</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+        <LEXMeaning Id="003805001002000" IsBiblicalTerm="Y" EntryCode="68.21" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Aspect</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Continue</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-12-20 16:04:57" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>to cause an event to continue beyond an expected period of time</DefinitionShort>
+              <Glosses>
+                <Gloss>to prolong</Gloss>
+                <Gloss>to stretch out</Gloss>
+                <Gloss>to keep on</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04402000700038{N:001}</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>
