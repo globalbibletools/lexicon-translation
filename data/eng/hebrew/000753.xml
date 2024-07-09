@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="000753000000000" Lemma="אָשֵׁם" Version="5" HasAramaic="false" InLXX="false" AlphaPos="א">
+  <StrongCodes>
+    <Strong>H0818</Strong>
+  </StrongCodes>
+  <Authors>
+    <Author>Reinier de Blois</Author>
+  </Authors>
+  <Contributors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes/>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="000753001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>aj</PartOfSpeech>
+      </PartsOfSpeech>
+      <RelatedLemmas>
+        <RelatedLemma>
+          <Word>אשׁם</Word>
+        </RelatedLemma>
+      </RelatedLemmas>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="000753001001000" IsBiblicalTerm="Y" EntryCode="" Indent="0">
+          <LEXDomains>
+            <LEXDomain Code="002003003013">Guilty</LEXDomain>
+          </LEXDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2014-08-25 10:04:37" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>= pertaining to being responsible for an unlawful deed, that was committed either knowingly or unknowingly</DefinitionShort>
+              <Glosses>
+                <Gloss>guilty</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>00104202100014</LEXReference>
+            <LEXReference>01001401300046</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+          <LEXCoreDomains>
+            <LEXCoreDomain Code="145">Responsibility</LEXCoreDomain>
+            <LEXCoreDomain Code="017">Behavior</LEXCoreDomain>
+          </LEXCoreDomains>
+        </LEXMeaning>
+        <LEXMeaning Id="000753001002000" IsBiblicalTerm="M" EntryCode="" Indent="0">
+          <LEXDomains>
+            <LEXDomain Code="002003002022">Sacrifice</LEXDomain>
+          </LEXDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2014-08-25 10:03:46" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>= sacrifice brought to compensate for what the deity should have received, but what was not given</DefinitionShort>
+              <Glosses>
+                <Gloss>guilt offering</Gloss>
+                <Gloss>reparation offering</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>01501001900016</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+          <LEXCoreDomains>
+            <LEXCoreDomain Code="149">Sacrifices and Offerings</LEXCoreDomain>
+            <LEXCoreDomain Code="145">Responsibility</LEXCoreDomain>
+          </LEXCoreDomains>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

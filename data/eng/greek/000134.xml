@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="000134000000000" Lemma="αἴνεσις" Version="0" HasAramaic="false" InLXX="true" AlphaPos="α">
+  <StrongCodes>
+    <Strong>G0133</Strong>
+  </StrongCodes>
+  <Authors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes>
+    <Note Caller="1" LanguageCode="en" LastEdited="" LastEditedBy="">
+      <References>
+        <Reference>04201804300030</Reference>
+        <Reference>05801301500008</Reference>
+      </References>
+      <Content>The verbs δίδωμι and ἀναφέρω in {S:04201804300030} and {S:05801301500008}, respectively, serve as what might be called empty verbs, since the semantic content exists in the nouns αἶνος and αἴνεσις. The primary function of δίδωμι and ἀναφέρω in such contexts is to serve as a vehicle for marking case relations (see Domain 90 Case). The same applies to δίδωμι in {S:04201701800008} (see {D:33.357}).</Content>
+    </Note>
+  </Notes>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="000134001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>noun, f.</PartOfSpeech>
+      </PartsOfSpeech>
+      <Inflections>
+        <Inflection Lemma="αἴνεσις" BaseFormIndex="1">
+          <Form/>
+          <Realizations>
+            <Realization>-εως</Realization>
+          </Realizations>
+          <Comments/>
+        </Inflection>
+      </Inflections>
+      <RelatedLemmas>
+        <RelatedLemma>
+          <Word>αἰνέω</Word>
+        </RelatedLemma>
+      </RelatedLemmas>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="000134001001000" IsBiblicalTerm="M" EntryCode="33.354" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Communication</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Praise</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-03-07 11:17:35" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>to speak of the excellence of a person, object, or event</DefinitionShort>
+              <Glosses>
+                <Gloss>to praise</Gloss>
+                <Gloss>praise</Gloss>
+              </Glosses>
+              <Comments>In a number of languages praise can only be expressed by direct discourse, and this requires some content which provides the basis for praise. For example, in {S:04200201300020} instead of a literal rendering of ‘praising God,’ it may be necessary to have ‘they said, God is wonderful,’ and in {S:04201600800004} it may be necessary to translate ‘the master of this dishonest manager said, You are remarkable for having done such a clever thing.’</Comments>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>05801301500012{N:001}</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

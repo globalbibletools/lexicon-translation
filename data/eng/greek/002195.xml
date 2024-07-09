@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="002195000000000" Lemma="ἐφημερία" Version="0" HasAramaic="false" InLXX="true" AlphaPos="ε">
+  <StrongCodes>
+    <Strong>G2183</Strong>
+  </StrongCodes>
+  <Authors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes/>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="002195001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>noun, f.</PartOfSpeech>
+      </PartsOfSpeech>
+      <Inflections>
+        <Inflection Lemma="ἐφημερία" BaseFormIndex="1">
+          <Form/>
+          <Realizations>
+            <Realization>-ας</Realization>
+          </Realizations>
+          <Comments/>
+        </Inflection>
+      </Inflections>
+      <RelatedLemmas>
+        <RelatedLemma>
+          <Word>ἡμέρα</Word>
+        </RelatedLemma>
+      </RelatedLemmas>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="002195001001000" IsBiblicalTerm="Y" EntryCode="11.47" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Groups and Classes of Persons and Members of Such Groups and Classes</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Socio-Religious</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-07-15 10:19:51" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>a class or division of persons who perform certain daily duties (in the one NT occurrence, a reference to a group of priests performing certain functions in the Temple at Jerusalem)</DefinitionShort>
+              <Glosses>
+                <Gloss>work group</Gloss>
+                <Gloss>division</Gloss>
+              </Glosses>
+              <Comments>It may be necessary to expand somewhat the expression ‘the work group of Abijah’ ({S:04200100500028}) to read ‘a work group known as the division of Abijah.’ Otherwise, one might get the impression that this was a work group under the command of Abijah or a group of persons who belonged specifically to the person named Abijah. If it is difficult to obtain a satisfactory expression for ‘work group,’ one can of course translate the final clause of {S:04200100500028} as simply ‘who belonged to a group of priests known as the group of Abijah.’</Comments>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04200100500028</LEXReference>
+            <LEXReference>04200100800022</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

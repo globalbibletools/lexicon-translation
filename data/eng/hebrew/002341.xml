@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="002341000000000" Lemma="חַמֹּון" Version="5" HasAramaic="false" InLXX="false" AlphaPos="ח">
+  <StrongCodes>
+    <Strong>H2540</Strong>
+  </StrongCodes>
+  <Authors>
+    <Author>Reinier de Blois</Author>
+  </Authors>
+  <Contributors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes/>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="002341001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>np</PartOfSpeech>
+      </PartsOfSpeech>
+      <RelatedLemmas>
+        <RelatedLemma>
+          <Word>חמם</Word>
+        </RelatedLemma>
+      </RelatedLemmas>
+      <MeaningsOfName>
+        <MeaningOfName LanguageCode="en">
+          <Meaning>warm</Meaning>
+        </MeaningOfName>
+        <MeaningOfName LanguageCode="pt">
+          <Meaning>quente</Meaning>
+        </MeaningOfName>
+      </MeaningsOfName>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="002341001001000" IsBiblicalTerm="Y" EntryCode="" Indent="0">
+          <LEXDomains>
+            <LEXDomain Code="003001010">Names of Locations</LEXDomain>
+          </LEXDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2015-11-16 15:34:16" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>= town; ◄ territory of {L:Asher&lt;SDBH:אָשֵׁר&gt;}</DefinitionShort>
+              <Glosses>
+                <Gloss>Hammon</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>00601902800012</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+          <LEXCoordinates>
+            <LEXCoordinates>33.125828,35.165000</LEXCoordinates>
+          </LEXCoordinates>
+        </LEXMeaning>
+        <LEXMeaning Id="002341001002000" IsBiblicalTerm="Y" EntryCode="" Indent="0">
+          <LEXDomains>
+            <LEXDomain Code="003001010">Names of Locations</LEXDomain>
+          </LEXDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2015-11-16 15:34:16" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>= town; ◄ territory of {L:Naphtali&lt;SDBH:נַפְתָּלִי&gt;}; ► given to Levites</DefinitionShort>
+              <Glosses>
+                <Gloss>Hammon</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>01300606100030</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+          <LEXCoordinates>
+            <LEXCoordinates>33.125828,35.165000</LEXCoordinates>
+          </LEXCoordinates>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

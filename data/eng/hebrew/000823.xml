@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="000823000000000" Lemma="בְּאֵרֹת בְּנֵי־יַעֲקָן" Version="5" HasAramaic="false" InLXX="false" AlphaPos="ב">
+  <StrongCodes>
+    <Strong>H0885</Strong>
+  </StrongCodes>
+  <Authors>
+    <Author>Sarah Lind</Author>
+  </Authors>
+  <Contributors/>
+  <AlternateLemmas>
+    <AlternateLemma>בְּאֵרֹת בְּנֵי יַעֲקָן</AlternateLemma>
+  </AlternateLemmas>
+  <MainLinks/>
+  <Notes>
+    <Note Caller="1" LanguageCode="en" LastEdited="" LastEditedBy="">
+      <References>
+        <Reference>00501000600012</Reference>
+      </References>
+      <Content>GNT, CEV, and {A:NIV} translate the components of the name instead of a place name: the wells belonging to the people/descendants of Jaakan. Since בְּנֵי־יַעֲקָן seems to be used as a place name in Num 33:31,32, "wells of Bene-jaakan" is also a possibility.</Content>
+    </Note>
+  </Notes>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="000823001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>np</PartOfSpeech>
+      </PartsOfSpeech>
+      <RelatedLemmas>
+        <RelatedLemma>
+          <Word>בְּאֵר</Word>
+        </RelatedLemma>
+        <RelatedLemma>
+          <Word>בֵּן</Word>
+        </RelatedLemma>
+      </RelatedLemmas>
+      <RelatedNames>
+        <RelatedName>
+          <Word>יַעֲקָן</Word>
+        </RelatedName>
+      </RelatedNames>
+      <MeaningsOfName>
+        <MeaningOfName LanguageCode="en">
+          <Meaning>wells belonging to the Jaakanites</Meaning>
+        </MeaningOfName>
+        <MeaningOfName LanguageCode="pt">
+          <Meaning>poços dos jaacanitas</Meaning>
+        </MeaningOfName>
+      </MeaningsOfName>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="000823001001000" IsBiblicalTerm="Y" EntryCode="" Indent="0">
+          <LEXDomains>
+            <LEXDomain Code="003001010">Names of Locations</LEXDomain>
+          </LEXDomains>
+          <LEXSynonyms>
+            <LEXSynonym>בְּנֵי יַעֲקָן</LEXSynonym>
+          </LEXSynonyms>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2016-11-28 16:20:19" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>= location, also known as {L:Bene-Jaakan&lt;SDBH:בְּנֵי יַעֲקָן&gt;}; ◄ in {L:Sinai&lt;SDBH:סִינַי&gt;} peninsula, between {L:Moserah&lt;SDBH:מֹוסֵרָה&gt;} and {L:Hor-Haggidgad&lt;SDBH:חֹר הַגִּדְגָּד&gt;}; ► the {L:Israelites&lt;SDBH:יִשְׂרָאֵל&gt;} encamped there on their way from {L:Egypt&lt;SDBH:מִצְרַיִם&gt;} to {L:Canaan&lt;SDBH:כְּנַעַן&gt;}</DefinitionShort>
+              <Glosses>
+                <Gloss>Beeroth-bene-jaakan</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>00501000600012{N:001}</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+          <LEXCoordinates>
+            <LEXCoordinates>30.317396,35.407152</LEXCoordinates>
+          </LEXCoordinates>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

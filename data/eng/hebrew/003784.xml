@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="003784000000000" Lemma="מוּסָדָה" Version="5" HasAramaic="false" InLXX="false" AlphaPos="מ">
+  <StrongCodes>
+    <Strong>H4145</Strong>
+    <Strong>H4328</Strong>
+  </StrongCodes>
+  <Authors>
+    <Author>Enio R. Mueller</Author>
+  </Authors>
+  <Contributors/>
+  <AlternateLemmas>
+    <AlternateLemma>מיסדות</AlternateLemma>
+  </AlternateLemmas>
+  <MainLinks/>
+  <Notes>
+    <Note Caller="1" LanguageCode="en" LastEdited="" LastEditedBy="">
+      <References>
+        <Reference>02604100800018</Reference>
+      </References>
+      <Content>MT-K מיסדות | MT-Q מוּסְדֹות</Content>
+    </Note>
+  </Notes>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="003784001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>nsf</PartOfSpeech>
+      </PartsOfSpeech>
+      <RelatedLemmas>
+        <RelatedLemma>
+          <Word>יסד</Word>
+        </RelatedLemma>
+      </RelatedLemmas>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="003784001001000" IsBiblicalTerm="Y" EntryCode="" Indent="0">
+          <LEXDomains>
+            <LEXDomain Code="001005001">Constructions</LEXDomain>
+          </LEXDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2017-12-17 13:05:25" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>= the bottom part of a construction, which bears everything built on top of it</DefinitionShort>
+              <Glosses>
+                <Gloss>foundation</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>02604100800018</LEXReference>
+            <LEXReference>02604100800018{N:001}</LEXReference>
+            <LEXReference>02604100800020</LEXReference>
+          </LEXReferences>
+          <LEXLinks>
+            <LEXLink>Realia:3.1.1</LEXLink>
+          </LEXLinks>
+          <LEXVideos/>
+          <LEXCoreDomains>
+            <LEXCoreDomain Code="027">Crafts</LEXCoreDomain>
+          </LEXCoreDomains>
+        </LEXMeaning>
+        <LEXMeaning Id="003784001002000" IsBiblicalTerm="Y" EntryCode="" Indent="0">
+          <LEXDomains>
+            <LEXDomain Code="002004002014" Source="Constructions" SourceCode="001005001">Think</LEXDomain>
+          </LEXDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2017-12-17 13:05:25" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>literally: foundation; hence: = state of having been determined by God</DefinitionShort>
+              <Glosses>
+                <Gloss>appointed</Gloss>
+                <Gloss>decreed</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>02303003200012</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

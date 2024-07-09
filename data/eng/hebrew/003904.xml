@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="003904000000000" Lemma="מֶחֱצָה" Version="4" HasAramaic="false" InLXX="false" AlphaPos="מ">
+  <StrongCodes>
+    <Strong>H4275</Strong>
+  </StrongCodes>
+  <Authors>
+    <Author>Reinier de Blois</Author>
+  </Authors>
+  <Contributors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes/>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="003904001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>nsf</PartOfSpeech>
+      </PartsOfSpeech>
+      <RelatedLemmas>
+        <RelatedLemma>
+          <Word>חצה</Word>
+        </RelatedLemma>
+      </RelatedLemmas>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="003904001001000" IsBiblicalTerm="Y" EntryCode="" Indent="0">
+          <LEXDomains>
+            <LEXDomain Code="002001001042" Source="Divide" SourceCode="002003001006">Quantity</LEXDomain>
+          </LEXDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2017-12-19 13:01:46" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>= one part of a countable entity that has been divided into two parts</DefinitionShort>
+              <Glosses>
+                <Gloss>half</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>00403103600008</LEXReference>
+            <LEXReference>00403104300006</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+          <LEXCoreDomains>
+            <LEXCoreDomain Code="138">Quantity</LEXCoreDomain>
+          </LEXCoreDomains>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="007803000000000" Lemma="תָּכְנִית" Version="4" HasAramaic="false" InLXX="false" AlphaPos="ת">
+  <StrongCodes>
+    <Strong>H8508</Strong>
+  </StrongCodes>
+  <Authors>
+    <Author>Reinier de Blois</Author>
+  </Authors>
+  <Contributors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes/>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="007803001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>nsf</PartOfSpeech>
+      </PartsOfSpeech>
+      <RelatedLemmas>
+        <RelatedLemma>
+          <Word>תכן</Word>
+        </RelatedLemma>
+      </RelatedLemmas>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="007803001001000" IsBiblicalTerm="Y" EntryCode="" Indent="0">
+          <LEXDomains>
+            <LEXDomain Code="002001001042">Quantity</LEXDomain>
+          </LEXDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2022-12-19 13:20:43" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>= a complete set of measures, quantities and sizes for something to be built or prepared</DefinitionShort>
+              <Glosses>
+                <Gloss>plan</Gloss>
+                <Gloss>structure</Gloss>
+                <Gloss>composition</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>02604301000036</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+          <LEXCoreDomains>
+            <LEXCoreDomain Code="138">Quantity</LEXCoreDomain>
+          </LEXCoreDomains>
+        </LEXMeaning>
+        <LEXMeaning Id="007803001002000" IsBiblicalTerm="Y" EntryCode="" Indent="0">
+          <LEXDomains>
+            <LEXDomain Code="002001001028" Source="Quantity" SourceCode="002001001042">Good</LEXDomain>
+          </LEXDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2016-12-13 23:08:07" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>= state in which a person has all required qualities</DefinitionShort>
+              <Glosses>
+                <Gloss>perfection</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>02602801200034</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+          <LEXCoreDomains>
+            <LEXCoreDomain Code="137">Quality</LEXCoreDomain>
+          </LEXCoreDomains>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

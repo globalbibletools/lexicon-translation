@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="001584000000000" Lemma="ἐκκαθαίρω" Version="0" HasAramaic="false" InLXX="true" AlphaPos="ε">
+  <StrongCodes>
+    <Strong>G1571</Strong>
+  </StrongCodes>
+  <Authors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes/>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="001584001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>verb</PartOfSpeech>
+      </PartsOfSpeech>
+      <Inflections>
+        <Inflection Lemma="ἐκκαθαίρω" BaseFormIndex="1">
+          <Form>aor.impv.</Form>
+          <Realizations>
+            <Realization>ἐκκαθάρατε</Realization>
+          </Realizations>
+          <Comments/>
+        </Inflection>
+      </Inflections>
+      <RelatedLemmas>
+        <RelatedLemma>
+          <Word>καθαίρω</Word>
+          <Meaning LanguageCode="en">
+            <Meaning>clean, cleanse</Meaning>
+          </Meaning>
+          <Meaning LanguageCode="zhT">
+            <Meaning>清除，潔淨</Meaning>
+          </Meaning>
+        </RelatedLemma>
+        <RelatedLemma>
+          <Word>καθαρίζω</Word>
+        </RelatedLemma>
+      </RelatedLemmas>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="001584001001000" IsBiblicalTerm="Y" EntryCode="79.50" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Features of Objects</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Clean, Dirty</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2022-11-29 16:50:41" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>to make clean by removing that which is unclean</DefinitionShort>
+              <Glosses>
+                <Gloss>to clean out</Gloss>
+                <Gloss>to clean away</Gloss>
+              </Glosses>
+              <Comments>In {S:04600500700002} ἐκκαθαίρω is used in a complex figurative expression and may often be better rendered as ‘to get rid of’ or ‘to remove.’</Comments>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04600500700002</LEXReference>
+            <LEXReference>05500202100008</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

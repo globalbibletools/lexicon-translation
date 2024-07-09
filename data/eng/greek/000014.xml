@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="000014000000000" Lemma="ἀγαθοεργέω" Version="0" HasAramaic="false" InLXX="false" AlphaPos="α">
+  <StrongCodes>
+    <Strong>G0014</Strong>
+  </StrongCodes>
+  <Authors/>
+  <AlternateLemmas>
+    <AlternateLemma>ἀγαθουργέω</AlternateLemma>
+  </AlternateLemmas>
+  <MainLinks/>
+  <Notes/>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="000014001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>verb</PartOfSpeech>
+      </PartsOfSpeech>
+      <Constructs>
+        <Construct Lemma="ἀγαθοεργέω" BaseFormIndex="1">
+          <WordMeaningSet>
+            <Word>ἀγαθός</Word>
+          </WordMeaningSet>
+          <WordMeaningSet>
+            <Word>ἐργάζομαι</Word>
+          </WordMeaningSet>
+        </Construct>
+      </Constructs>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="000014001001000" IsBiblicalTerm="M" EntryCode="88.3" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Moral and Ethical Qualities and Related Behavior</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Goodness</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>to engage in doing what is good</DefinitionShort>
+              <Glosses>
+                <Gloss>to do good</Gloss>
+                <Gloss>to perform good deeds</Gloss>
+                <Gloss>good works</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04401401700012</LEXReference>
+            <LEXReference>05400601800002</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

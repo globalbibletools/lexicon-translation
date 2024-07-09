@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="004100000000000" Lemma="πορεία" Version="0" HasAramaic="false" InLXX="true" AlphaPos="π">
+  <StrongCodes>
+    <Strong>G4197</Strong>
+  </StrongCodes>
+  <Authors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes/>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="004100001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>noun, f.</PartOfSpeech>
+      </PartsOfSpeech>
+      <Inflections>
+        <Inflection Lemma="πορεία" BaseFormIndex="1">
+          <Form/>
+          <Realizations>
+            <Realization>-ας</Realization>
+          </Realizations>
+          <Comments/>
+        </Inflection>
+      </Inflections>
+      <RelatedLemmas>
+        <RelatedLemma>
+          <Word>πορεύομαι</Word>
+        </RelatedLemma>
+      </RelatedLemmas>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="004100001001000" IsBiblicalTerm="M" EntryCode="15.18" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Linear Movement</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Travel, Journey</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2022-01-06 15:45:53" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>to move a considerable distance, either with a single destination or from one destination to another in a series</DefinitionShort>
+              <Glosses>
+                <Gloss>to travel</Gloss>
+                <Gloss>to journey</Gloss>
+                <Gloss>to be on one’s way</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04201302200018</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+        <LEXMeaning Id="004100001002000" IsBiblicalTerm="Y" EntryCode="57.200" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Possess, Transfer, Exchange</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Earn, Gain, Do Business</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2022-01-06 15:45:53" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>business pursuits, with the implication of extensive activity and journeys required</DefinitionShort>
+              <Glosses>
+                <Gloss>pursuit of business</Gloss>
+                <Gloss>business endeavors</Gloss>
+                <Gloss>business activity</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>05900101100060</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="002241000000000" Lemma="חֵיל" Version="5" HasAramaic="false" InLXX="false" AlphaPos="ח">
+  <StrongCodes>
+    <Strong>H2426</Strong>
+    <Strong>H2430</Strong>
+  </StrongCodes>
+  <Authors>
+    <Author>Reinier de Blois</Author>
+  </Authors>
+  <Contributors/>
+  <AlternateLemmas>
+    <AlternateLemma>חֵילָה</AlternateLemma>
+  </AlternateLemmas>
+  <MainLinks/>
+  <Notes>
+    <Note Caller="1" LanguageCode="en" LastEdited="" LastEditedBy="">
+      <References>
+        <Reference>03100102000008</Reference>
+      </References>
+      <Content>{A:MT} הַחֵל־הַזֶּה {A:HOTTP}-B הַחֵיל־הַזֶּה "this bulwark, rampart | {A:NIV} {A:GNT} הַחַיִל־הַזֶּה "this army" = {L:חַיִל&lt;SDBH:חַיִל&gt;} | {A:RSV} {A:NJB} {A:NRSV} {L:חֲלַח&lt;SDBH:חֲלַח&gt;} "Halah" | {A:REB} omission</Content>
+    </Note>
+  </Notes>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="002241001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>nsm</PartOfSpeech>
+      </PartsOfSpeech>
+      <RelatedLemmas>
+        <RelatedLemma>
+          <Word>חול</Word>
+        </RelatedLemma>
+      </RelatedLemmas>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="002241001001000" IsBiblicalTerm="M" EntryCode="" Indent="0">
+          <LEXDomains>
+            <LEXDomain Code="001005001003">Fortifications</LEXDomain>
+          </LEXDomains>
+          <LEXSynonyms>
+            <LEXSynonym>אַרְמֹון</LEXSynonym>
+            <LEXSynonym>חֹומָה</LEXSynonym>
+          </LEXSynonyms>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2016-03-21 08:42:41" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>meaning unsure; probably: = a structure surrounding a town, outside the main wall; ◄ made out of of stones or bricks; ► provides strength and security to the town; ≈ sometimes used metaphorically to denote someone who offers protection</DefinitionShort>
+              <Glosses>
+                <Gloss>outer wall</Gloss>
+                <Gloss>outer fortification</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>01002001500042</LEXReference>
+            <LEXReference>01904801400008</LEXReference>
+            <LEXReference>02302600100042</LEXReference>
+            <LEXReference>02500200800034</LEXReference>
+            <LEXReference>03400300800028</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+          <LEXCoreDomains>
+            <LEXCoreDomain Code="182">Town</LEXCoreDomain>
+          </LEXCoreDomains>
+        </LEXMeaning>
+        <LEXMeaning Id="002241001002000" IsBiblicalTerm="Y" EntryCode="" Indent="0">
+          <LEXDomains>
+            <LEXDomain Code="001005001010">Towns</LEXDomain>
+          </LEXDomains>
+          <LEXSynonyms>
+            <LEXSynonym>אַרְמֹון</LEXSynonym>
+          </LEXSynonyms>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2016-03-21 08:42:41" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>= a collection of dwellings, surrounded by an outer fortification, ► functioning as a population center</DefinitionShort>
+              <Glosses>
+                <Gloss>within wall &gt; town</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>01102102300030</LEXReference>
+            <LEXReference>01912200700008</LEXReference>
+            <LEXReference>03100102000008{N:001}</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+          <LEXCoreDomains>
+            <LEXCoreDomain Code="182">Town</LEXCoreDomain>
+          </LEXCoreDomains>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

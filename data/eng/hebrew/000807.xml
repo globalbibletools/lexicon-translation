@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="000807000000000" Lemma="אֶתְנַן" Version="5" HasAramaic="false" InLXX="false" AlphaPos="א">
+  <StrongCodes>
+    <Strong>H0868</Strong>
+    <Strong>H0869</Strong>
+  </StrongCodes>
+  <Authors>
+    <Author>Reinier de Blois</Author>
+  </Authors>
+  <Contributors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes/>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="000807001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>nsm</PartOfSpeech>
+      </PartsOfSpeech>
+      <RelatedLemmas>
+        <RelatedLemma>
+          <Word>נתן</Word>
+        </RelatedLemma>
+      </RelatedLemmas>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="000807001001000" IsBiblicalTerm="M" EntryCode="" Indent="0">
+          <LEXDomains>
+            <LEXDomain Code="001" Source="Non-Possess" SourceCode="002003002019">Objects</LEXDomain>
+          </LEXDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2015-11-11 10:12:35" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>= object given in possession to somebody else</DefinitionShort>
+              <Glosses>
+                <Gloss>gift</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>00502301900006</LEXReference>
+            <LEXReference>02302301700028</LEXReference>
+            <LEXReference>02302301800010</LEXReference>
+            <LEXReference>02601603100048</LEXReference>
+            <LEXReference>02601603400034</LEXReference>
+            <LEXReference>02601603400038</LEXReference>
+            <LEXReference>02601604100042</LEXReference>
+            <LEXReference>02800900100030</LEXReference>
+            <LEXReference>03300100700014</LEXReference>
+            <LEXReference>03300100700038</LEXReference>
+            <LEXReference>03300100700048</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+          <LEXCoreDomains>
+            <LEXCoreDomain Code="128">Possession</LEXCoreDomain>
+          </LEXCoreDomains>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+    <BaseForm Id="000807002000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>np</PartOfSpeech>
+      </PartsOfSpeech>
+      <RelatedLemmas>
+        <RelatedLemma>
+          <Word>נתן</Word>
+        </RelatedLemma>
+      </RelatedLemmas>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="000807002001000" IsBiblicalTerm="Y" EntryCode="" Indent="0">
+          <LEXDomains>
+            <LEXDomain Code="003001007">Names of People</LEXDomain>
+          </LEXDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2015-11-11 10:12:35" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>= man; ◄ son of {L:Ashhur&lt;SDBH:אַשְׁחוּר&gt;} and his wife {L:Helah&lt;SDBH:חֶלְאָה&gt;}; tribe of {L:Judah&lt;SDBH:יְהוּדָה&gt;}</DefinitionShort>
+              <Glosses>
+                <Gloss>Ethnan</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>01300400700020</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

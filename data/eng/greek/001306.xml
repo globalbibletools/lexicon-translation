@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="001306000000000" Lemma="διαστέλλω" Version="0" HasAramaic="false" InLXX="true" AlphaPos="δ">
+  <StrongCodes>
+    <Strong>G1291</Strong>
+  </StrongCodes>
+  <Authors/>
+  <AlternateLemmas>
+    <AlternateLemma>διαστέλλομαι</AlternateLemma>
+  </AlternateLemmas>
+  <MainLinks/>
+  <Notes/>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="001306001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>verb</PartOfSpeech>
+      </PartsOfSpeech>
+      <Constructs>
+        <Construct Lemma="διαστέλλω" BaseFormIndex="1">
+          <WordMeaningSet>
+            <Word>δια</Word>
+          </WordMeaningSet>
+          <WordMeaningSet>
+            <Word>στέλλομαι</Word>
+          </WordMeaningSet>
+        </Construct>
+      </Constructs>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="001306001001000" IsBiblicalTerm="Y" EntryCode="33.323" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Communication</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Command, Order</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXForms>
+            <LEXForm>διαστέλλομαι</LEXForm>
+          </LEXForms>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-06-07 20:38:00" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>to state with force and/or authority what others must do</DefinitionShort>
+              <Glosses>
+                <Gloss>to order</Gloss>
+                <Gloss>to command</Gloss>
+              </Glosses>
+              <Comments>In a number of languages the equivalent of ‘to order’ or ‘to command’ is ‘to speak with strength’ or ‘to speak strong words’ or, in the form of direct discourse, ‘to tell others, You must …’</Comments>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04001602000004</LEXReference>
+            <LEXReference>04100504300004</LEXReference>
+            <LEXReference>04100703600004</LEXReference>
+            <LEXReference>04100703600020</LEXReference>
+            <LEXReference>04100801500004</LEXReference>
+            <LEXReference>04100900900014</LEXReference>
+            <LEXReference>04401502400034</LEXReference>
+            <LEXReference>05801202000010</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

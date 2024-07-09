@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="002538000000000" Lemma="καθώσπερ" Version="0" HasAramaic="false" InLXX="false" AlphaPos="κ">
+  <StrongCodes>
+    <Strong>G2509a</Strong>
+  </StrongCodes>
+  <Authors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes>
+    <Note Caller="1" LanguageCode="en" LastEdited="" LastEditedBy="">
+      <References/>
+      <Content>It may be of interest to note that in Greek NT manuscripts καθάπερ and καθώσπερ are often alternative forms. As in the case of ὥσπερ and ὡσπερεί ({D:64.13}) in contrast with ὡς[a] and ὡσεί[a] ({D:64.12}), so καθάπερ and καθώσπερ appear to be somewhat more emphatic than καθά and καθώς[c] ({D:64.14}).</Content>
+    </Note>
+  </Notes>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="002538001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>conj.</PartOfSpeech>
+      </PartsOfSpeech>
+      <Constructs>
+        <Construct Lemma="καθώσπερ" BaseFormIndex="1">
+          <WordMeaningSet>
+            <Word>ὡς</Word>
+          </WordMeaningSet>
+          <WordMeaningSet>
+            <Word>-πέρ</Word>
+          </WordMeaningSet>
+        </Construct>
+      </Constructs>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="002538001001000" IsBiblicalTerm="Y" EntryCode="64.15" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Comparison</LEXDomain>
+          </LEXDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-09-03 19:33:20" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>an emphatic marker of comparison between events and states{N:001}</DefinitionShort>
+              <Glosses>
+                <Gloss>just as</Gloss>
+                <Gloss>precisely as</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>05800500400026</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

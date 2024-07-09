@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="003524000000000" Lemma="οἰκοδόμος" Version="0" HasAramaic="false" InLXX="true" AlphaPos="ο">
+  <StrongCodes>
+    <Strong>G3618a</Strong>
+  </StrongCodes>
+  <Authors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes/>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="003524001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>noun, m.</PartOfSpeech>
+      </PartsOfSpeech>
+      <Inflections>
+        <Inflection Lemma="οἰκοδόμος" BaseFormIndex="1">
+          <Form/>
+          <Realizations>
+            <Realization>-ου</Realization>
+          </Realizations>
+          <Comments/>
+        </Inflection>
+      </Inflections>
+      <Constructs>
+        <Construct Lemma="οἰκοδόμος" BaseFormIndex="1">
+          <WordMeaningSet>
+            <Word>οἰκέω</Word>
+          </WordMeaningSet>
+          <WordMeaningSet>
+            <Word>δῶμα</Word>
+          </WordMeaningSet>
+        </Construct>
+      </Constructs>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="003524001001000" IsBiblicalTerm="Y" EntryCode="45.7" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Building, Constructing</LEXDomain>
+          </LEXDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-12-13 13:21:33" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>(derivative of {L:οἰκοδομέω&lt;SDBG:οἰκοδομέω:000000&gt;}[a] ‘to build,’ {D:45.1}) one who builds</DefinitionShort>
+              <Glosses>
+                <Gloss>builder</Gloss>
+              </Glosses>
+              <Comments>Normally refers to builders of houses and other types of relatively large constructions.</Comments>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04400401100020</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

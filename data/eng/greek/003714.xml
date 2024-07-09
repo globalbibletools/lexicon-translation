@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="003714000000000" Lemma="παιδευτής" Version="0" HasAramaic="false" InLXX="true" AlphaPos="π">
+  <StrongCodes>
+    <Strong>G3810</Strong>
+  </StrongCodes>
+  <Authors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes/>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="003714001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>noun, m.</PartOfSpeech>
+      </PartsOfSpeech>
+      <Inflections>
+        <Inflection Lemma="παιδευτής" BaseFormIndex="1">
+          <Form/>
+          <Realizations>
+            <Realization>-οῦ</Realization>
+          </Realizations>
+          <Comments/>
+        </Inflection>
+      </Inflections>
+      <RelatedLemmas>
+        <RelatedLemma>
+          <Word>παίζω</Word>
+        </RelatedLemma>
+      </RelatedLemmas>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="003714001001000" IsBiblicalTerm="M" EntryCode="33.244" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Communication</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Teach</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-12-16 12:20:24" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>(derivative of {L:παιδεύω&lt;SDBG:παιδεύω:000000&gt;}[a] ‘to train,’ {D:33.226}) one who provides instruction for the purpose of proper behavior</DefinitionShort>
+              <Glosses>
+                <Gloss>instructor</Gloss>
+                <Gloss>trainer</Gloss>
+                <Gloss>teacher</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04500202000002</LEXReference>
+            <LEXReference>05801200900018</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+        <LEXMeaning Id="003714001002000" IsBiblicalTerm="Y" EntryCode="38.5" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Punish, Reward</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Punish</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-12-16 12:20:24" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>(derivative of {L:παιδεύω&lt;SDBG:παιδεύω:000002&gt;}[c] ‘to punish,’ {D:38.4}) a person who punishes for constructive purposes</DefinitionShort>
+              <Glosses>
+                <Gloss>punisher</Gloss>
+                <Gloss>one who punishes</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>05801200900018</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

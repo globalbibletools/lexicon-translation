@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="000294000000000" Lemma="ἀμφιέννυμι" Version="0" HasAramaic="false" InLXX="true" AlphaPos="α">
+  <StrongCodes>
+    <Strong>G0294</Strong>
+  </StrongCodes>
+  <Authors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes>
+    <Note Caller="1" LanguageCode="en" LastEdited="" LastEditedBy="">
+      <References>
+        <Reference>04000603000034</Reference>
+      </References>
+      <Content>Manuscripts alternate frequently between ἀμφιάζω and ἀμφιέννυμι, which appear to be closely related synonyms.</Content>
+    </Note>
+    <Note Caller="2" LanguageCode="en" LastEdited="" LastEditedBy="">
+      <References/>
+      <Content>As is evident from the contexts cited in {D:49.3}, ἀμφιέζω, ἀμφιέννυμι, and περιβάλλω occur not only in the sense of putting on clothes but in the more generic sense of adorning the outward appearance of something, for these verbs may occur not only with persons who are literally clothed but also with plants which are made attractive.</Content>
+    </Note>
+  </Notes>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="000294001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>verb</PartOfSpeech>
+      </PartsOfSpeech>
+      <Inflections>
+        <Inflection Lemma="ἀμφιέννυμι" BaseFormIndex="1">
+          <Form>pf.pass.</Form>
+          <Realizations>
+            <Realization>ἠμφίεσμαι</Realization>
+          </Realizations>
+          <Comments/>
+        </Inflection>
+      </Inflections>
+      <Constructs>
+        <Construct Lemma="ἀμφιέννυμι" BaseFormIndex="1">
+          <WordMeaningSet>
+            <Word>ἀμφί</Word>
+            <Meaning LanguageCode="en">
+              <Meaning>on both sides, all around</Meaning>
+            </Meaning>
+            <Meaning LanguageCode="zhT">
+              <Meaning>兩邊，四周</Meaning>
+            </Meaning>
+          </WordMeaningSet>
+          <WordMeaningSet>
+            <Word>ἕννυμι</Word>
+            <Meaning LanguageCode="en">
+              <Meaning>put on</Meaning>
+            </Meaning>
+            <Meaning LanguageCode="zhT">
+              <Meaning>穿上</Meaning>
+            </Meaning>
+          </WordMeaningSet>
+        </Construct>
+      </Constructs>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="000294001001000" IsBiblicalTerm="Y" EntryCode="49.3" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Activities Involving Clothing and Adorning</LEXDomain>
+          </LEXDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-08-02 15:45:25" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>to put on clothes, implying the clothing being completely around</DefinitionShort>
+              <Glosses>
+                <Gloss>to clothe. See also {D:49.5}</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04000603000034{N:001}</LEXReference>
+            <LEXReference>04001100800016</LEXReference>
+            <LEXReference>04200702500018</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+        <LEXMeaning Id="000294001002000" IsBiblicalTerm="Y" EntryCode="49.5" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Activities Involving Clothing and Adorning</LEXDomain>
+          </LEXDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-08-02 15:45:25" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>to put on clothing to adorn the outward form of something{N:002}</DefinitionShort>
+              <Glosses>
+                <Gloss>to clothe</Gloss>
+                <Gloss>to adorn</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04000603000034{N:001}</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

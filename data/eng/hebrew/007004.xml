@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="007004000000000" Lemma="שׂחה" Version="5" HasAramaic="false" InLXX="false" AlphaPos="ש">
+  <StrongCodes>
+    <Strong>H7811</Strong>
+  </StrongCodes>
+  <Authors>
+    <Author>Reinier de Blois</Author>
+  </Authors>
+  <Contributors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes/>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="007004001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>vb</PartOfSpeech>
+      </PartsOfSpeech>
+      <RelatedLemmas>
+        <RelatedLemma>
+          <Word>שָׂחוּ</Word>
+        </RelatedLemma>
+      </RelatedLemmas>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="007004001001000" IsBiblicalTerm="Y" EntryCode="" Indent="0">
+          <LEXDomains>
+            <LEXDomain Code="002002001011">Move</LEXDomain>
+          </LEXDomains>
+          <LEXForms>
+            <LEXForm>vbqal-</LEXForm>
+          </LEXForms>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2017-05-10 12:03:59" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>= action by which humans move forward through water with the help of their arms and legs</DefinitionShort>
+              <Glosses>
+                <Gloss>to swim</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>02302501100020</LEXReference>
+            <LEXReference>02302501100024</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+          <LEXCoreDomains>
+            <LEXCoreDomain Code="110">Motion</LEXCoreDomain>
+            <LEXCoreDomain Code="101">Liquids</LEXCoreDomain>
+          </LEXCoreDomains>
+        </LEXMeaning>
+        <LEXMeaning Id="007004001002000" IsBiblicalTerm="Y" EntryCode="" Indent="0">
+          <LEXDomains>
+            <LEXDomain Code="002001001067" Source="Move" SourceCode="002002001011">Wet</LEXDomain>
+          </LEXDomains>
+          <LEXForms>
+            <LEXForm>vbhif-</LEXForm>
+          </LEXForms>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2017-05-10 12:03:59" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>= causative action by which humans cause an object to be thoroughly wet, ◄ as if it has to swim</DefinitionShort>
+              <Glosses>
+                <Gloss>to drench</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>01900600700008</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+          <LEXCoreDomains>
+            <LEXCoreDomain Code="101">Liquids</LEXCoreDomain>
+          </LEXCoreDomains>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

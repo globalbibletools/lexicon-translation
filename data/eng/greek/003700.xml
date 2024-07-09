@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="003700000000000" Lemma="ὀψάριον" Version="0" HasAramaic="false" InLXX="true" AlphaPos="ο">
+  <StrongCodes>
+    <Strong>G3795</Strong>
+  </StrongCodes>
+  <Authors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes/>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="003700001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>noun, n.</PartOfSpeech>
+      </PartsOfSpeech>
+      <Inflections>
+        <Inflection Lemma="ὀψάριον" BaseFormIndex="1">
+          <Form/>
+          <Realizations>
+            <Realization>-ου</Realization>
+          </Realizations>
+          <Comments/>
+        </Inflection>
+      </Inflections>
+      <RelatedLemmas>
+        <RelatedLemma>
+          <Word>ὀψώνιον</Word>
+        </RelatedLemma>
+        <RelatedLemma>
+          <Word>παροψίς</Word>
+        </RelatedLemma>
+      </RelatedLemmas>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="003700001001000" IsBiblicalTerm="M" EntryCode="5.16" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Foods and Condiments</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Food</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-12-16 11:20:32" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>fish intended for food or the flesh of fish as food</DefinitionShort>
+              <Glosses>
+                <Gloss>fish</Gloss>
+              </Glosses>
+              <Comments>In Greek the usual meaning of ὀψάριον is a tidbit of food eaten with bread, but it occurs in later Greek in the meaning of fish, and in the NT this meaning occurs only in the fourth Gospel (compare the usage in {S:04300600900022} with {L:ἰχθύς&lt;SDBG:ἰχθύς:000000&gt;} in parallel passages).|Many languages distinguish clearly between terms for fish while still living in the water and fish which have been caught and presumably are to be used for food.</Comments>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04300600900022</LEXReference>
+            <LEXReference>04300601100032</LEXReference>
+            <LEXReference>04302100900022</LEXReference>
+            <LEXReference>04302101000016</LEXReference>
+            <LEXReference>04302101300024</LEXReference>
+          </LEXReferences>
+          <LEXLinks>
+            <LEXLink>fauna:5.1</LEXLink>
+          </LEXLinks>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

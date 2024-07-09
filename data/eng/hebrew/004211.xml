@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="004211000000000" Lemma="מַעְיָן" Version="5" HasAramaic="false" InLXX="false" AlphaPos="מ">
+  <StrongCodes>
+    <Strong>H4599</Strong>
+  </StrongCodes>
+  <Authors>
+    <Author>Reinier de Blois</Author>
+  </Authors>
+  <Contributors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes>
+    <Note Caller="1" LanguageCode="en" LastEdited="" LastEditedBy="">
+      <References>
+        <Reference>01908700700012</Reference>
+      </References>
+      <Content>{A:RSV} {A:NIV} {A:NJB} {A:REB} {A:NRSV} {A:GNT} {A:CEV} | {A:NJPS} {A:HOTTP} "roots, origins" but this may be based on the western concept of "source" | {A:NJB} reads מָעֹון "dwelling"</Content>
+    </Note>
+  </Notes>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="004211001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>nsm</PartOfSpeech>
+      </PartsOfSpeech>
+      <RelatedLemmas>
+        <RelatedLemma>
+          <Word>עין</Word>
+        </RelatedLemma>
+      </RelatedLemmas>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="004211001001000" IsBiblicalTerm="Y" EntryCode="" Indent="0">
+          <LEXDomains>
+            <LEXDomain Code="001005002002005">Waterbodies</LEXDomain>
+          </LEXDomains>
+          <LEXSynonyms>
+            <LEXSynonym>בְּאֵר</LEXSynonym>
+            <LEXSynonym>גַּל</LEXSynonym>
+            <LEXSynonym>מָקֹור</LEXSynonym>
+            <LEXSynonym>נָהָר</LEXSynonym>
+          </LEXSynonyms>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2016-02-18 12:07:01" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>= an opening in the earth that gives access to the subterranean water which either comes to the surface or can be drawn from it; ≈ its water is regarded as a source of blessing</DefinitionShort>
+              <Glosses>
+                <Gloss>spring</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>00100701100056</LEXReference>
+            <LEXReference>00100800200006</LEXReference>
+            <LEXReference>00301103600004</LEXReference>
+            <LEXReference>00601500900020</LEXReference>
+            <LEXReference>01101800500024</LEXReference>
+            <LEXReference>01200301900034</LEXReference>
+            <LEXReference>01200302500032</LEXReference>
+            <LEXReference>01403200400020</LEXReference>
+            <LEXReference>01907401500006{N:001}</LEXReference>
+            <LEXReference>01908400700012</LEXReference>
+            <LEXReference>01908700700012</LEXReference>
+            <LEXReference>01910401000006</LEXReference>
+            <LEXReference>01911400800018</LEXReference>
+            <LEXReference>02000802400014</LEXReference>
+            <LEXReference>02002502600002</LEXReference>
+            <LEXReference>02200401200014</LEXReference>
+            <LEXReference>02200401500002</LEXReference>
+            <LEXReference>02301200300014</LEXReference>
+            <LEXReference>02304101800018</LEXReference>
+            <LEXReference>02801301500036</LEXReference>
+            <LEXReference>02900401800048</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+          <LEXCoreDomains>
+            <LEXCoreDomain Code="101">Liquids</LEXCoreDomain>
+          </LEXCoreDomains>
+        </LEXMeaning>
+        <LEXMeaning Id="004211001002000" IsBiblicalTerm="Y" EntryCode="" Indent="0">
+          <LEXDomains>
+            <LEXDomain Code="002002001007" Source="Waterbodies" SourceCode="001005002002005">Flow</LEXDomain>
+          </LEXDomains>
+          <LEXSynonyms>
+            <LEXSynonym>פֶּלֶג</LEXSynonym>
+          </LEXSynonyms>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2016-02-18 12:07:01" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>= process by which water flows from a spring; ≈ only used figuratively to refer to human semen flowing from the body</DefinitionShort>
+              <Glosses>
+                <Gloss>spring (symbolizing semen)</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>02000501600004</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+          <LEXCoreDomains>
+            <LEXCoreDomain Code="101">Liquids</LEXCoreDomain>
+          </LEXCoreDomains>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

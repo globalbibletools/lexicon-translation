@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="006917000000000" Lemma="רֶצֶף" Version="5" HasAramaic="false" InLXX="false" AlphaPos="ר">
+  <StrongCodes>
+    <Strong>H7529</Strong>
+    <Strong>H7530</Strong>
+  </StrongCodes>
+  <Authors>
+    <Author>Reinier de Blois</Author>
+  </Authors>
+  <Contributors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes/>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="006917001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>nsm</PartOfSpeech>
+      </PartsOfSpeech>
+      <RelatedLemmas>
+        <RelatedLemma>
+          <Word>רִצְפָּה</Word>
+        </RelatedLemma>
+      </RelatedLemmas>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="006917001001000" IsBiblicalTerm="Y" EntryCode="" Indent="0">
+          <LEXDomains>
+            <LEXDomain Code="001004001007" Source="Hot" SourceCode="002001001031">Furnaces</LEXDomain>
+          </LEXDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2015-12-15 09:42:23" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>= a set of hot stones used for baking</DefinitionShort>
+              <Glosses>
+                <Gloss>hot stones</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>01101900600014</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+          <LEXCoreDomains>
+            <LEXCoreDomain Code="069">Food</LEXCoreDomain>
+          </LEXCoreDomains>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+    <BaseForm Id="006917002000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>np</PartOfSpeech>
+      </PartsOfSpeech>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="006917002001000" IsBiblicalTerm="Y" EntryCode="" Indent="0">
+          <LEXDomains>
+            <LEXDomain Code="003001010">Names of Locations</LEXDomain>
+          </LEXDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2015-12-15 09:42:23" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>= town; conquered by king of {L:Assyria&lt;SDBH:אַשּׁוּר&gt;}</DefinitionShort>
+              <Glosses>
+                <Gloss>Rezeph</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>01201901200032</LEXReference>
+            <LEXReference>02303701200032</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+          <LEXCoordinates>
+            <LEXCoordinates>35.950000,39.016667</LEXCoordinates>
+          </LEXCoordinates>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

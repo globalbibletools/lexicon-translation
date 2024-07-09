@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="007182000000000" Lemma="שׁבץ" Version="4" HasAramaic="false" InLXX="false" AlphaPos="ש">
+  <StrongCodes>
+    <Strong>H7660</Strong>
+  </StrongCodes>
+  <Authors>
+    <Author>Reinier de Blois</Author>
+  </Authors>
+  <Contributors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes/>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="007182001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>vb</PartOfSpeech>
+      </PartsOfSpeech>
+      <RelatedLemmas>
+        <RelatedLemma>
+          <Word>מִשְׁבְּצֹות</Word>
+        </RelatedLemma>
+        <RelatedLemma>
+          <Word>שָׁבָץ</Word>
+        </RelatedLemma>
+        <RelatedLemma>
+          <Word>תַּשְׁבֵּץ</Word>
+        </RelatedLemma>
+      </RelatedLemmas>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="007182001001000" IsBiblicalTerm="Y" EntryCode="" Indent="0">
+          <LEXDomains>
+            <LEXDomain Code="002003001020">Weave</LEXDomain>
+          </LEXDomains>
+          <LEXForms>
+            <LEXForm>vbpiel</LEXForm>
+          </LEXForms>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2017-03-12 18:07:04" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>exact meaning unsure; possibly: = causative action by which human produce fabric by weaving different colors of yarn into a single cloth</DefinitionShort>
+              <Glosses>
+                <Gloss>to weave in patterns</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>00202803900004</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+          <LEXCoreDomains>
+            <LEXCoreDomain Code="027">Crafts</LEXCoreDomain>
+          </LEXCoreDomains>
+        </LEXMeaning>
+        <LEXMeaning Id="007182001002000" IsBiblicalTerm="Y" EntryCode="" Indent="0">
+          <LEXDomains>
+            <LEXDomain Code="002003001001" Source="Weave" SourceCode="002003001020">Attach</LEXDomain>
+          </LEXDomains>
+          <LEXForms>
+            <LEXForm>vbpual (passive)</LEXForm>
+          </LEXForms>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2017-03-12 18:07:04" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>literally: woven in patterns; hence, possibly: = causative action by which humans attach gems to cloth in a web of gold yarn</DefinitionShort>
+              <Glosses>
+                <Gloss>set</Gloss>
+                <Gloss>mounted</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>00202802000022</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+          <LEXCoreDomains>
+            <LEXCoreDomain Code="027">Crafts</LEXCoreDomain>
+          </LEXCoreDomains>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

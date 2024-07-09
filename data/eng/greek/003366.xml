@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="003366000000000" Lemma="μύριοι" Version="0" HasAramaic="false" InLXX="true" AlphaPos="μ">
+  <StrongCodes>
+    <Strong>G3463</Strong>
+  </StrongCodes>
+  <Authors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes/>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="003366001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>adjc.</PartOfSpeech>
+      </PartsOfSpeech>
+      <Inflections>
+        <Inflection Lemma="μύριοι" BaseFormIndex="1">
+          <Form/>
+          <Realizations>
+            <Realization>-αι, -α</Realization>
+          </Realizations>
+          <Comments/>
+        </Inflection>
+      </Inflections>
+      <RelatedLemmas>
+        <RelatedLemma>
+          <Word>μυρίος</Word>
+        </RelatedLemma>
+      </RelatedLemmas>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="003366001001000" IsBiblicalTerm="Y" EntryCode="60.45" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Number</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>One, Two, Three, Etc. [Cardinals]</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-12-09 14:25:38" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>cardinal number, where there are ten thousand instances of a countable entity</DefinitionShort>
+              <Glosses>
+                <Gloss>ten thousand</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04001802400018</LEXReference>
+            <LEXReference>04601401900032</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+        <LEXMeaning Id="003366001002000" IsBiblicalTerm="Y" EntryCode="60.7" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Number</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Number, Countless</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-12-09 14:25:38" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>pertaining to what is extremely numerous</DefinitionShort>
+              <Glosses>
+                <Gloss>very very many</Gloss>
+                <Gloss>innumerable</Gloss>
+                <Gloss>countless</Gloss>
+              </Glosses>
+              <Comments>It would be possible to interpret μυρίους in {S:04600401500006} as meaning literally ‘ten thousand’ (see {D:60.45}), but the evident intent in this context is to emphasize the indefinitely large number rather than any specific quantity.</Comments>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04600401500006</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

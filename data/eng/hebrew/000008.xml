@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="000008000000000" Lemma="אֲבַדֹּה" Version="5" HasAramaic="false" InLXX="false" AlphaPos="א">
+  <StrongCodes>
+    <Strong/>
+  </StrongCodes>
+  <Authors>
+    <Author>Reinier de Blois</Author>
+  </Authors>
+  <Contributors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes>
+    <Note Caller="1" LanguageCode="en" LastEdited="" LastEditedBy="">
+      <References>
+        <Reference>02002702000006</Reference>
+      </References>
+      <Content>{A:MT-K} וַאֲבדֹּה | {A:MT-Q} וַאֲבַדֹּו = אֲבַדֹּון</Content>
+    </Note>
+  </Notes>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="000008001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>nsf</PartOfSpeech>
+      </PartsOfSpeech>
+      <RelatedLemmas>
+        <RelatedLemma>
+          <Word>אבד</Word>
+        </RelatedLemma>
+      </RelatedLemmas>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="000008001001000" IsBiblicalTerm="N" EntryCode="" Indent="0">
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2016-11-24 08:55:48" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>read {L:אֲבַדֹּון&lt;SDBH:אֲבַדֹּון&gt;} with {A:MT-Q}</DefinitionShort>
+              <Glosses>
+                <Gloss>Abbadon</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>02002702000006{N:001}</LEXReference>
+            <LEXReference>02002702000010</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

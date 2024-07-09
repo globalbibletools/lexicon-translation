@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="001803000000000" Lemma="ἐντρέπω" Version="0" HasAramaic="false" InLXX="false" AlphaPos="ε">
+  <StrongCodes>
+    <Strong>G1788</Strong>
+  </StrongCodes>
+  <Authors/>
+  <AlternateLemmas>
+    <AlternateLemma>ἐντρέπομαι</AlternateLemma>
+  </AlternateLemmas>
+  <MainLinks/>
+  <Notes/>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="001803001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>verb</PartOfSpeech>
+      </PartsOfSpeech>
+      <Inflections>
+        <Inflection Lemma="ἐντρέπω" BaseFormIndex="1">
+          <Form>aor.pass.</Form>
+          <Realizations>
+            <Realization>ἐνετράπην</Realization>
+          </Realizations>
+          <Comments/>
+        </Inflection>
+        <Inflection Lemma="ἐντρέπω" BaseFormIndex="1">
+          <Form>fut.pass.</Form>
+          <Realizations>
+            <Realization>ἐντραπήσομαι</Realization>
+          </Realizations>
+          <Comments/>
+        </Inflection>
+      </Inflections>
+      <RelatedLemmas>
+        <RelatedLemma>
+          <Word>τροπή</Word>
+        </RelatedLemma>
+      </RelatedLemmas>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="001803001001000" IsBiblicalTerm="Y" EntryCode="25.196" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Attitudes and Emotions</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Shame, Disgrace, Humiliation</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-06-02 10:02:45" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>to cause someone to be embarrassed or ashamed</DefinitionShort>
+              <Glosses>
+                <Gloss>to shame</Gloss>
+                <Gloss>to embarrass</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04600401400004</LEXReference>
+            <LEXReference>05300301400036</LEXReference>
+            <LEXReference>05600200800016</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+        <LEXMeaning Id="001803001002000" IsBiblicalTerm="M" EntryCode="87.11" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Status</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Honor or Respect in Relation to Status</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXForms>
+            <LEXForm>ἐντρέπομαι</LEXForm>
+          </LEXForms>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-06-02 10:02:45" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>to show respect to a person on the basis of his high status</DefinitionShort>
+              <Glosses>
+                <Gloss>to respect</Gloss>
+                <Gloss>to show respect</Gloss>
+              </Glosses>
+              <Comments>In a number of languages the showing of respect is referred to by a number of figurative expressions, for example, ‘to bow before,’ ‘to kneel before,’ ‘to crouch before,’ or ‘to stand appalled in the presence of.’</Comments>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04002103700020</LEXReference>
+            <LEXReference>04101200600026</LEXReference>
+            <LEXReference>04201800200030</LEXReference>
+            <LEXReference>04201800400040</LEXReference>
+            <LEXReference>04202001300034</LEXReference>
+            <LEXReference>05801200900022</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

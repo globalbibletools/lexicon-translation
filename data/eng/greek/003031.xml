@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="003031000000000" Lemma="λεπίς" Version="0" HasAramaic="false" InLXX="true" AlphaPos="λ">
+  <StrongCodes>
+    <Strong>G3013</Strong>
+  </StrongCodes>
+  <Authors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes>
+    <Note Caller="1" LanguageCode="en" LastEdited="" LastEditedBy="">
+      <References/>
+      <Content>On the basis of the extrabiblical usage of λεπλις, one could classify its meaning in Domain 79 Features of Objects.</Content>
+    </Note>
+  </Notes>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="003031001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>noun, f.</PartOfSpeech>
+      </PartsOfSpeech>
+      <Inflections>
+        <Inflection Lemma="λεπίς" BaseFormIndex="1">
+          <Form/>
+          <Realizations>
+            <Realization>-ίδος</Realization>
+          </Realizations>
+          <Comments/>
+        </Inflection>
+      </Inflections>
+      <RelatedLemmas>
+        <RelatedLemma>
+          <Word>λέπρα</Word>
+        </RelatedLemma>
+        <RelatedLemma>
+          <Word>λεπρός</Word>
+        </RelatedLemma>
+        <RelatedLemma>
+          <Word>λεπτόν</Word>
+        </RelatedLemma>
+      </RelatedLemmas>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="003031001001000" IsBiblicalTerm="Y" EntryCode="8.57" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Body, Body Parts, and Body Products</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Parts of the Body</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-11-05 09:57:51" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>a thin layer or peel, especially of skin{N:001}</DefinitionShort>
+              <Glosses>
+                <Gloss>flake</Gloss>
+                <Gloss>scale</Gloss>
+              </Glosses>
+              <Comments>In rendering {S:04400901800018} it is possible to say ‘there fell from his eyes something which looked like a fish scale’ or ‘… a small flake of skin.’</Comments>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04400901800018</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

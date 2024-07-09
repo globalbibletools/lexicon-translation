@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="006923000000000" Lemma="רקב" Version="5" HasAramaic="false" InLXX="false" AlphaPos="ר">
+  <StrongCodes>
+    <Strong>H7537</Strong>
+  </StrongCodes>
+  <Authors>
+    <Author>Reinier de Blois</Author>
+  </Authors>
+  <Contributors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes/>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="006923001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>vb</PartOfSpeech>
+      </PartsOfSpeech>
+      <RelatedLemmas>
+        <RelatedLemma>
+          <Word>רָקָב</Word>
+        </RelatedLemma>
+        <RelatedLemma>
+          <Word>רִקָּבֹון</Word>
+        </RelatedLemma>
+      </RelatedLemmas>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="006923001001000" IsBiblicalTerm="Y" EntryCode="" Indent="0">
+          <LEXDomains>
+            <LEXDomain Code="002002002006" Source="Stage" SourceCode="002001001057">Non-Exist</LEXDomain>
+          </LEXDomains>
+          <LEXForms>
+            <LEXForm>vbqal-</LEXForm>
+          </LEXForms>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2017-03-09 11:55:40" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>= a natural process by which certain objects slowly degenerate until they disappear</DefinitionShort>
+              <Glosses>
+                <Gloss>to rot</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>02304002000012</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+          <LEXCoreDomains>
+            <LEXCoreDomain Code="137">Quality</LEXCoreDomain>
+          </LEXCoreDomains>
+        </LEXMeaning>
+        <LEXMeaning Id="006923001002000" IsBiblicalTerm="Y" EntryCode="" Indent="1">
+          <LEXDomains>
+            <LEXDomain Code="002004002008" Source="Non-Exist" SourceCode="002002002006">Non-Know</LEXDomain>
+          </LEXDomains>
+          <LEXForms>
+            <LEXForm>vbqal-</LEXForm>
+          </LEXForms>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2017-03-09 11:55:40" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>literally: to rot; hence: = process by which certain information gradually disappears from people's minds until it is completely gone</DefinitionShort>
+              <Glosses>
+                <Gloss>to be forgotten</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>02001000700016</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+          <LEXCoreDomains>
+            <LEXCoreDomain Code="106">Mind</LEXCoreDomain>
+            <LEXCoreDomain Code="143">Remembrance</LEXCoreDomain>
+          </LEXCoreDomains>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

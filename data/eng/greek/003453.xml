@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="003453000000000" Lemma="νομοθέτης" Version="0" HasAramaic="false" InLXX="true" AlphaPos="ν">
+  <StrongCodes>
+    <Strong>G3550</Strong>
+  </StrongCodes>
+  <Authors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes/>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="003453001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>noun, m.</PartOfSpeech>
+      </PartsOfSpeech>
+      <Inflections>
+        <Inflection Lemma="νομοθέτης" BaseFormIndex="1">
+          <Form/>
+          <Realizations>
+            <Realization>-ου</Realization>
+          </Realizations>
+          <Comments/>
+        </Inflection>
+      </Inflections>
+      <Constructs>
+        <Construct Lemma="νομοθέτης" BaseFormIndex="1">
+          <WordMeaningSet>
+            <Word>νομίζω</Word>
+          </WordMeaningSet>
+          <WordMeaningSet>
+            <Word>τίθημι</Word>
+          </WordMeaningSet>
+        </Construct>
+      </Constructs>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="003453001001000" IsBiblicalTerm="Y" EntryCode="33.340" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Communication</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Law, Regulation, Ordinance</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-12-10 21:13:30" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>(derivative of {L:νομοθετέω&lt;SDBG:νομοθετέω:000000&gt;} ‘to give a law,’ {D:33.339}) one who gives or enacts laws</DefinitionShort>
+              <Glosses>
+                <Gloss>lawgiver</Gloss>
+              </Glosses>
+              <Comments>In a number of languages it is not possible to speak literally of a ‘lawgiver’ as ‘one who gives laws,’ for laws seem to be quite distinct from gifts. However, the same meaning is often communicated by somewhat different expressions, for example, ‘one who decides what people must do’ or ‘one who makes a law stand’ or ‘one who gives strength to a law.’</Comments>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>05900401200008</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

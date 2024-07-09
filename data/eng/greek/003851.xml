@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="003851000000000" Lemma="παροργίζω" Version="0" HasAramaic="false" InLXX="true" AlphaPos="π">
+  <StrongCodes>
+    <Strong>G3949</Strong>
+  </StrongCodes>
+  <Authors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes/>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="003851001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>verb</PartOfSpeech>
+      </PartsOfSpeech>
+      <Inflections>
+        <Inflection Lemma="παροργίζω" BaseFormIndex="1">
+          <Form>fut.</Form>
+          <Realizations>
+            <Realization>παροργιῶ</Realization>
+          </Realizations>
+          <Comments/>
+        </Inflection>
+      </Inflections>
+      <RelatedLemmas>
+        <RelatedLemma>
+          <Word>ὀργίζομαι</Word>
+        </RelatedLemma>
+      </RelatedLemmas>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="003851001001000" IsBiblicalTerm="Y" EntryCode="88.177" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Moral and Ethical Qualities and Related Behavior</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Anger, Be Indignant With</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-12-23 11:50:20" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>(derivative of {L:παροργισμός&lt;SDBG:παροργισμός:000000&gt;} ‘anger,’ {D:88.176}) to cause someone to become provoked or quite angry</DefinitionShort>
+              <Glosses>
+                <Gloss>to cause to be provoked</Gloss>
+                <Gloss>to make angry</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04501001900038</LEXReference>
+            <LEXReference>04900600400010</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

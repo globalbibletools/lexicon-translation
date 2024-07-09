@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="000173000000000" Lemma="ἄκαρπος" Version="0" HasAramaic="false" InLXX="true" AlphaPos="α">
+  <StrongCodes>
+    <Strong>G0175</Strong>
+  </StrongCodes>
+  <Authors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes/>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="000173001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>adjc.</PartOfSpeech>
+      </PartsOfSpeech>
+      <Inflections>
+        <Inflection Lemma="ἄκαρπος" BaseFormIndex="1">
+          <Form/>
+          <Realizations>
+            <Realization>-ον</Realization>
+          </Realizations>
+          <Comments/>
+        </Inflection>
+      </Inflections>
+      <Constructs>
+        <Construct Lemma="ἄκαρπος" BaseFormIndex="1">
+          <WordMeaningSet>
+            <Word>ἀ-</Word>
+          </WordMeaningSet>
+          <WordMeaningSet>
+            <Word>καρπός</Word>
+          </WordMeaningSet>
+        </Construct>
+      </Constructs>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="000173001001000" IsBiblicalTerm="M" EntryCode="23.202" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Physiological Processes and States</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Ripen, Produce Fruit, Bear Seed</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-04-14 00:30:46" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>pertaining to not producing seed, fruit, or harvest</DefinitionShort>
+              <Glosses>
+                <Gloss>without fruit</Gloss>
+                <Gloss>bearing no fruit</Gloss>
+                <Gloss>producing no harvest</Gloss>
+              </Glosses>
+              <Comments>In {S:06500101200040} a literal rendering of ‘even in autumn’ might be misleading in some areas in which autumn as a calendrical term might not be the period for bearing fruit. Therefore, it might be better to translate {S:06500101200040} as ‘trees that bear no fruit even in the season when they should.’</Comments>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04001302200054</LEXReference>
+            <LEXReference>06500101200040</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+        <LEXMeaning Id="000173001002000" IsBiblicalTerm="M" EntryCode="65.34" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Value</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Useful, Useless</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-04-14 00:30:46" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>pertaining to being useless, in the sense of being unproductive</DefinitionShort>
+              <Glosses>
+                <Gloss>useless</Gloss>
+                <Gloss>unproductive</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04100401900044</LEXReference>
+            <LEXReference>04601401400026</LEXReference>
+            <LEXReference>04900501100014</LEXReference>
+            <LEXReference>05600301400032</LEXReference>
+            <LEXReference>06100100800020</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

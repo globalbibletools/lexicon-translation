@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="000125000000000" Lemma="Αἰγύπτιος" Version="0" HasAramaic="false" InLXX="false" AlphaPos="α">
+  <StrongCodes>
+    <Strong>G0124</Strong>
+  </StrongCodes>
+  <Authors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes/>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="000125001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>adjc.</PartOfSpeech>
+      </PartsOfSpeech>
+      <Inflections>
+        <Inflection Lemma="Αἰγύπτιος" BaseFormIndex="1">
+          <Form/>
+          <Realizations>
+            <Realization>-α, -ον</Realization>
+          </Realizations>
+          <Comments/>
+        </Inflection>
+      </Inflections>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="000125001001000" IsBiblicalTerm="M" EntryCode="93.396" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Names of Persons and Places</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Places</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-03-18 16:33:57" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>(derivative of {L:Αἴγυπτος&lt;SDBG:Αἴγυπτος:000000&gt;} ‘Egypt,’ {D:93.398}) pertaining to Egypt</DefinitionShort>
+              <Glosses>
+                <Gloss>Egyptian</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04400702200014</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+    <BaseForm Id="000125002000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>noun, m.</PartOfSpeech>
+      </PartsOfSpeech>
+      <Inflections>
+        <Inflection Lemma="Αἰγύπτιος" BaseFormIndex="2">
+          <Form/>
+          <Realizations>
+            <Realization>-ου</Realization>
+          </Realizations>
+          <Comments/>
+        </Inflection>
+      </Inflections>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="000125002001000" IsBiblicalTerm="M" EntryCode="93.397" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Names of Persons and Places</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Places</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-03-18 16:33:57" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>(derivative of {L:Αἴγυπτος&lt;SDBG:Αἴγυπτος:000000&gt;} ‘Egypt,’ {D:93.398}) a person who is a native of Egypt</DefinitionShort>
+              <Glosses>
+                <Gloss>an Egyptian</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04400702400026</LEXReference>
+            <LEXReference>04400702800022</LEXReference>
+            <LEXReference>04402103800012</LEXReference>
+            <LEXReference>05801102900028</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="003464000000000" Lemma="νουθετέω" Version="0" HasAramaic="false" InLXX="true" AlphaPos="ν">
+  <StrongCodes>
+    <Strong>G3560</Strong>
+  </StrongCodes>
+  <Authors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes>
+    <Note Caller="1" LanguageCode="en" LastEdited="" LastEditedBy="">
+      <References/>
+      <Content>παιδεύω[a] and παιδεία[a] ({D:33.226}) differ in meaning from νουθετέω[a] and νουθεσία[a] ({D:33.231}) and from ἐντρέφω ({D:33.242}). παιδεύω[a] and παιδεία[a] focus upon the forming of proper habits of behavior, while νουθετέω[a] and νουθεσία[a] focus upon instruction in correct behavior. ἐντρέφω appears to focus more on continuous instruction and training in the areas of skill and practical knowledge.</Content>
+    </Note>
+  </Notes>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="003464001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>verb</PartOfSpeech>
+      </PartsOfSpeech>
+      <Constructs>
+        <Construct Lemma="νουθετέω" BaseFormIndex="1">
+          <WordMeaningSet>
+            <Word>νοῦς</Word>
+          </WordMeaningSet>
+          <WordMeaningSet>
+            <Word>τίθημι</Word>
+          </WordMeaningSet>
+        </Construct>
+      </Constructs>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="003464001001000" IsBiblicalTerm="Y" EntryCode="33.231" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Communication</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Teach</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-12-11 12:12:49" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>to provide instruction as to correct behavior and belief{N:001}</DefinitionShort>
+              <Glosses>
+                <Gloss>to instruct</Gloss>
+                <Gloss>to teach</Gloss>
+                <Gloss>instruction</Gloss>
+                <Gloss>teaching</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04501501400046</LEXReference>
+            <LEXReference>04600401400022</LEXReference>
+            <LEXReference>05200501200032</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+        <LEXMeaning Id="003464001002000" IsBiblicalTerm="Y" EntryCode="33.418" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Communication</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Rebuke</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-12-11 12:12:49" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>to admonish someone for having done something wrong</DefinitionShort>
+              <Glosses>
+                <Gloss>to admonish</Gloss>
+                <Gloss>to rebuke</Gloss>
+              </Glosses>
+              <Comments>νουθετέω in {S:05200501400010} may also be understood in the sense of ‘to warn’ (see {D:33.424}).</Comments>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04600401400022</LEXReference>
+            <LEXReference>05100102800008</LEXReference>
+            <LEXReference>05100301600028</LEXReference>
+            <LEXReference>05200501200032</LEXReference>
+            <LEXReference>05200501400010</LEXReference>
+            <LEXReference>05300301500014</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+        <LEXMeaning Id="003464001003000" IsBiblicalTerm="Y" EntryCode="33.424" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Communication</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Warn</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-12-11 12:12:49" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>to advise someone concerning the dangerous consequences of some happening or action</DefinitionShort>
+              <Glosses>
+                <Gloss>to warn</Gloss>
+                <Gloss>warning</Gloss>
+              </Glosses>
+              <Comments>νουθετέω in {S:05200501400010} may also be understood in the sense of ‘to admonish’ (see {D:33.418}).</Comments>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04402003100026</LEXReference>
+            <LEXReference>05200501200032</LEXReference>
+            <LEXReference>05200501400010</LEXReference>
+            <LEXReference>05300301500014</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

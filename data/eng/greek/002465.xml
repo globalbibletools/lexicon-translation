@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="002465000000000" Lemma="ἶρις" Version="0" HasAramaic="false" InLXX="true" AlphaPos="ι">
+  <StrongCodes>
+    <Strong>G2463</Strong>
+  </StrongCodes>
+  <Authors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes>
+    <Note Caller="1" LanguageCode="en" LastEdited="" LastEditedBy="">
+      <References/>
+      <Content>It would also be possible to classify ἶρις rainbow or halo as being an event rather than an object, but in view of the relatively fixed Gestalt of this phenomenon, it is probably more satisfactory from the standpoint of an emic classification to regard ἶρις as an object.</Content>
+    </Note>
+  </Notes>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="002465001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>noun, f.</PartOfSpeech>
+      </PartsOfSpeech>
+      <Inflections>
+        <Inflection Lemma="ἶρις" BaseFormIndex="1">
+          <Form/>
+          <Realizations>
+            <Realization>-ιδος</Realization>
+          </Realizations>
+          <Comments/>
+        </Inflection>
+      </Inflections>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="002465001001000" IsBiblicalTerm="Y" EntryCode="1.38" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Geographical Objects and Features</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Atmospheric Objects</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-08-27 18:19:44" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>a circular or semicircular band of light, whether colored or not{N:001}</DefinitionShort>
+              <Glosses>
+                <Gloss>rainbow or halo</Gloss>
+              </Glosses>
+              <Comments>In {S:06600400300022} and {S:06601000100028} (the only occurrences of ἶρις in the NT) the reference may be either to a rainbow or to a halo. The meaning of ‘rainbow’ may be expressed in some languages as ‘a bow of light’ or ‘a curve of light’ or even ‘a ribbon of light.’ The meaning of ‘halo’ is usually expressed as ‘a circle of light’ or ‘a wreath of light’ or ‘a band of light encircling,’ followed by the object which the band of light encircles.</Comments>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>06600400300022</LEXReference>
+            <LEXReference>06601000100028</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

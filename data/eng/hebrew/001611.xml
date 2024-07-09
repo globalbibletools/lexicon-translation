@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="001611000000000" Lemma="דור" Version="5" HasAramaic="true" InLXX="false" AlphaPos="ד">
+  <StrongCodes>
+    <Strong>H1752</Strong>
+    <Strong>A1753</Strong>
+  </StrongCodes>
+  <Authors>
+    <Author>Enio R. Mueller</Author>
+  </Authors>
+  <Contributors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes>
+    <Note Caller="1" LanguageCode="en" LastEdited="" LastEditedBy="">
+      <References>
+        <Reference>02602400500014</Reference>
+      </References>
+      <Content>MT NJPS דּוּר הָעְַצָמִים "pile the cuts" | RSV NIV NJB REB GNT CEV דּוּר הָעֵצִים "pile the logs"</Content>
+    </Note>
+    <Note Caller="2" LanguageCode="en" LastEdited="" LastEditedBy="">
+      <References>
+        <Reference>02700203800010</Reference>
+        <Reference>02700303100020</Reference>
+        <Reference>02700602600026</Reference>
+      </References>
+      <Content>MT-K דארין | MT-Q דָיְרִין</Content>
+    </Note>
+    <Note Caller="3" LanguageCode="en" LastEdited="" LastEditedBy="">
+      <References>
+        <Reference>02700400900036</Reference>
+      </References>
+      <Content>MT-K ידרון | MT-Q יְדוּרָן</Content>
+    </Note>
+    <Note Caller="4" LanguageCode="en" LastEdited="" LastEditedBy="">
+      <References>
+        <Reference>02700403200006</Reference>
+      </References>
+      <Content>MT-K דארי | MT-Q דָּיְרֵי</Content>
+    </Note>
+    <Note Caller="5" LanguageCode="en" LastEdited="" LastEditedBy="">
+      <References>
+        <Reference>02700403200034</Reference>
+      </References>
+      <Content>MT-K ודארי | MT-Q וְדָיְרֵי</Content>
+    </Note>
+  </Notes>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="001611001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>vb</PartOfSpeech>
+      </PartsOfSpeech>
+      <RelatedLemmas>
+        <RelatedLemma>
+          <Word>דּוּר</Word>
+        </RelatedLemma>
+        <RelatedLemma>
+          <Word>דֹּור</Word>
+        </RelatedLemma>
+        <RelatedLemma>
+          <Word>מְדוּרָה</Word>
+        </RelatedLemma>
+      </RelatedLemmas>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="001611001001000" IsBiblicalTerm="Y" EntryCode="" Indent="0">
+          <LEXDomains>
+            <LEXDomain Code="002002001016">Space</LEXDomain>
+          </LEXDomains>
+          <LEXForms>
+            <LEXForm>vbqal-</LEXForm>
+          </LEXForms>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2015-10-01 09:28:52" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>= causative action by which someone arranges objects in a heap</DefinitionShort>
+              <Glosses>
+                <Gloss>to pile up</Gloss>
+                <Gloss>to heap up</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>02602400500014{N:001}</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+    <BaseForm Id="001611002000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>vb</PartOfSpeech>
+      </PartsOfSpeech>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="001611002001000" IsBiblicalTerm="Y" EntryCode="" Indent="0">
+          <LEXDomains>
+            <LEXDomain Code="002002001005">Dwell</LEXDomain>
+          </LEXDomains>
+          <LEXForms>
+            <LEXForm>vbpeal</LEXForm>
+            <LEXForm>vbqal-</LEXForm>
+          </LEXForms>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2015-10-01 09:28:52" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>= state in which someone resides in a certain place</DefinitionShort>
+              <Glosses>
+                <Gloss>to dwell</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>01908401100028</LEXReference>
+            <LEXReference>02700203800010{N:002}</LEXReference>
+            <LEXReference>02700203800012</LEXReference>
+            <LEXReference>02700303100020{N:002}</LEXReference>
+            <LEXReference>02700303100022</LEXReference>
+            <LEXReference>02700400900036{N:003}</LEXReference>
+            <LEXReference>02700400900038</LEXReference>
+            <LEXReference>02700401800026</LEXReference>
+            <LEXReference>02700403200006{N:004}</LEXReference>
+            <LEXReference>02700403200008</LEXReference>
+            <LEXReference>02700403200034{N:005}</LEXReference>
+            <LEXReference>02700403200038</LEXReference>
+            <LEXReference>02700602600026{N:002}</LEXReference>
+            <LEXReference>02700602600028</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+          <LEXCoreDomains>
+            <LEXCoreDomain Code="166">Space</LEXCoreDomain>
+            <LEXCoreDomain Code="081">Household</LEXCoreDomain>
+          </LEXCoreDomains>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

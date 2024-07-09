@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="001443000000000" Lemma="δυσκόλως" Version="0" HasAramaic="false" InLXX="false" AlphaPos="δ">
+  <StrongCodes>
+    <Strong>G1423</Strong>
+  </StrongCodes>
+  <Authors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes/>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="001443001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>advb.</PartOfSpeech>
+      </PartsOfSpeech>
+      <Constructs>
+        <Construct Lemma="δυσκόλως" BaseFormIndex="1">
+          <WordMeaningSet>
+            <Word>δῦσ-</Word>
+            <Meaning LanguageCode="en">
+              <Meaning>hard, difficult</Meaning>
+            </Meaning>
+            <Meaning LanguageCode="zhT">
+              <Meaning>艱難的，困難的</Meaning>
+            </Meaning>
+          </WordMeaningSet>
+          <WordMeaningSet>
+            <Word>κωλύω</Word>
+          </WordMeaningSet>
+        </Construct>
+      </Constructs>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="001443001001000" IsBiblicalTerm="Y" EntryCode="22.32" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Trouble, Hardship, Relief, Favorable Circumstances</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Difficult, Hard</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-07-14 17:41:32" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>pertaining to that which is difficult to accomplish or do</DefinitionShort>
+              <Glosses>
+                <Gloss>difficult</Gloss>
+                <Gloss>hard</Gloss>
+                <Gloss>with difficulty</Gloss>
+              </Glosses>
+              <Comments>In some languages it may be difficult to render concisely the expression ‘only with difficulty.’ To express this contrastive element in connection with entering the kingdom of heaven, one must often translate as ‘a rich person will be able to enter into the kingdom of heaven, but it will be very difficult for him to do so.’</Comments>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04001902300026</LEXReference>
+            <LEXReference>04101002300020</LEXReference>
+            <LEXReference>04201802400020</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

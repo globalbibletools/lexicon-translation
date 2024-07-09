@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="001603000000000" Lemma="ἐκμάσσω" Version="0" HasAramaic="false" InLXX="true" AlphaPos="ε">
+  <StrongCodes>
+    <Strong>G1591</Strong>
+  </StrongCodes>
+  <Authors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes/>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="001603001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>verb</PartOfSpeech>
+      </PartsOfSpeech>
+      <Inflections>
+        <Inflection Lemma="ἐκμάσσω" BaseFormIndex="1">
+          <Form>aor.</Form>
+          <Realizations>
+            <Realization>ἐξέμαξα</Realization>
+          </Realizations>
+          <Comments/>
+        </Inflection>
+      </Inflections>
+      <RelatedLemmas>
+        <RelatedLemma>
+          <Word>μάσσω</Word>
+          <Meaning LanguageCode="en">
+            <Meaning>touch, rub</Meaning>
+          </Meaning>
+          <Meaning LanguageCode="zhT">
+            <Meaning>接觸，摩擦</Meaning>
+          </Meaning>
+        </RelatedLemma>
+      </RelatedLemmas>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="001603001001000" IsBiblicalTerm="Y" EntryCode="79.83" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Features of Objects</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Wet, Dry</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-10-28 11:48:44" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>to cause something to become dry by wiping with a dry substance</DefinitionShort>
+              <Glosses>
+                <Gloss>to wipe dry</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04200703800044</LEXReference>
+            <LEXReference>04200704400072</LEXReference>
+            <LEXReference>04301100200020</LEXReference>
+            <LEXReference>04301200300032</LEXReference>
+            <LEXReference>04301300500030</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

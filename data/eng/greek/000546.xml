@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="000546000000000" Lemma="ἀπειλή" Version="0" HasAramaic="false" InLXX="true" AlphaPos="α">
+  <StrongCodes>
+    <Strong>G0547</Strong>
+  </StrongCodes>
+  <Authors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes/>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="000546001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>noun, f.</PartOfSpeech>
+      </PartsOfSpeech>
+      <Inflections>
+        <Inflection Lemma="ἀπειλή" BaseFormIndex="1">
+          <Form/>
+          <Realizations>
+            <Realization>-ῆς</Realization>
+          </Realizations>
+          <Comments/>
+        </Inflection>
+      </Inflections>
+      <RelatedLemmas>
+        <RelatedLemma>
+          <Word>ἀπειλέω</Word>
+        </RelatedLemma>
+      </RelatedLemmas>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="000546001001000" IsBiblicalTerm="Y" EntryCode="33.291" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Communication</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Threaten</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2022-08-22 14:34:11" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>to declare that one will cause harm to someone, particularly if certain conditions are not met</DefinitionShort>
+              <Glosses>
+                <Gloss>to threaten</Gloss>
+                <Gloss>threat</Gloss>
+              </Glosses>
+              <Comments>Because of the implied reciprocity in ἀπειλέω and ἀπειλή, one may translate {S:06000202300014} as ‘when he suffered, he did not say he would make them suffer.’</Comments>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04400402900016</LEXReference>
+            <LEXReference>04400900100012</LEXReference>
+            <LEXReference>04900600900022</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

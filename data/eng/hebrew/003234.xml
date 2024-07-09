@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="003234000000000" Lemma="כְּבָר" Version="5" HasAramaic="false" InLXX="false" AlphaPos="כ">
+  <StrongCodes>
+    <Strong>H3528</Strong>
+    <Strong>H3529</Strong>
+  </StrongCodes>
+  <Authors>
+    <Author>Enio R. Mueller</Author>
+  </Authors>
+  <Contributors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes/>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="003234001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>nsm</PartOfSpeech>
+      </PartsOfSpeech>
+      <RelatedLemmas>
+        <RelatedLemma>
+          <Word>כבר</Word>
+        </RelatedLemma>
+      </RelatedLemmas>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="003234001001000" IsBiblicalTerm="N" EntryCode="" Indent="0">
+          <LEXDomains>
+            <LEXDomain Code="004009">Timers</LEXDomain>
+          </LEXDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2017-06-03 16:39:42" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>= a marker pointing to the time preceding a particular point in time, sometimes including an element of surprise</DefinitionShort>
+              <Glosses>
+                <Gloss>already</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>02100101000018</LEXReference>
+            <LEXReference>02100201200044</LEXReference>
+            <LEXReference>02100201600028</LEXReference>
+            <LEXReference>02100301500008</LEXReference>
+            <LEXReference>02100301500020</LEXReference>
+            <LEXReference>02100400200016</LEXReference>
+            <LEXReference>02100601000008</LEXReference>
+            <LEXReference>02100900600014</LEXReference>
+            <LEXReference>02100900700026</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+    <BaseForm Id="003234002000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>np</PartOfSpeech>
+      </PartsOfSpeech>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="003234002001000" IsBiblicalTerm="Y" EntryCode="" Indent="0">
+          <LEXDomains>
+            <LEXDomain Code="003001015">Names of Waterbodies</LEXDomain>
+          </LEXDomains>
+          <LEXCollocations>
+            <LEXCollocation>נְהַר־כְּבָר</LEXCollocation>
+          </LEXCollocations>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2017-06-03 16:39:42" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>= river; ◄ in {L:Babylonia&lt;SDBH:בָּבֶל&gt;}</DefinitionShort>
+              <Glosses>
+                <Gloss>Chebar</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>02600100100044</LEXReference>
+            <LEXReference>02600100300032</LEXReference>
+            <LEXReference>02600301500022</LEXReference>
+            <LEXReference>02600302300042</LEXReference>
+            <LEXReference>02601001500024</LEXReference>
+            <LEXReference>02601002000022</LEXReference>
+            <LEXReference>02601002200022</LEXReference>
+            <LEXReference>02604300300058</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="000163000000000" Lemma="αἰχμάλωτος" Version="0" HasAramaic="false" InLXX="true" AlphaPos="α">
+  <StrongCodes>
+    <Strong>G0164</Strong>
+  </StrongCodes>
+  <Authors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes/>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="000163001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>noun, m.</PartOfSpeech>
+      </PartsOfSpeech>
+      <Inflections>
+        <Inflection Lemma="αἰχμάλωτος" BaseFormIndex="1">
+          <Form/>
+          <Realizations>
+            <Realization>-ου</Realization>
+          </Realizations>
+          <Comments/>
+        </Inflection>
+      </Inflections>
+      <Constructs>
+        <Construct Lemma="αἰχμάλωτος" BaseFormIndex="1">
+          <WordMeaningSet>
+            <Word>αἰχμή</Word>
+            <Meaning LanguageCode="en">
+              <Meaning>spear</Meaning>
+            </Meaning>
+            <Meaning LanguageCode="zhT">
+              <Meaning>矛槍</Meaning>
+            </Meaning>
+          </WordMeaningSet>
+          <WordMeaningSet>
+            <Word>ἅλωσις</Word>
+          </WordMeaningSet>
+        </Construct>
+      </Constructs>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="000163001001000" IsBiblicalTerm="Y" EntryCode="55.25" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Military Activities</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Prisoners of War</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-03-08 19:59:50" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>one who has been taken captive in war</DefinitionShort>
+              <Glosses>
+                <Gloss>captive</Gloss>
+                <Gloss>prisoner of war</Gloss>
+              </Glosses>
+              <Comments>In {S:04200401800028} αἰχμάλωτος occurs on two levels: (1) in the literal sense of ‘being a captive of war’ and (2) in the broader sense of referring to all those who are oppressed by foreign domination.</Comments>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04200401800028</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

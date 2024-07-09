@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="001561000000000" Lemma="דַּבְּרָה" Version="3" HasAramaic="false" InLXX="false" AlphaPos="ד">
+  <StrongCodes>
+    <Strong>H1703</Strong>
+  </StrongCodes>
+  <Authors>
+    <Author>Enio R. Mueller</Author>
+  </Authors>
+  <Contributors/>
+  <AlternateLemmas>
+    <AlternateLemma>דַּבֶּרֶת</AlternateLemma>
+  </AlternateLemmas>
+  <MainLinks/>
+  <Notes/>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="001561001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>nsf</PartOfSpeech>
+      </PartsOfSpeech>
+      <RelatedLemmas>
+        <RelatedLemma>
+          <Word>דבר</Word>
+        </RelatedLemma>
+      </RelatedLemmas>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="001561001001000" IsBiblicalTerm="Y" EntryCode="" Indent="0">
+          <LEXDomains>
+            <LEXDomain Code="002004002007" Source="Speak" SourceCode="002004001009008">Know</LEXDomain>
+          </LEXDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2013-01-02 10:39:26" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>= the act of instructing, as well as the knowledge and/or information imparted</DefinitionShort>
+              <Glosses>
+                <Gloss>instruction</Gloss>
+                <Gloss>direction</Gloss>
+                <Gloss>guidance</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>00503300300030</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+          <LEXCoreDomains>
+            <LEXCoreDomain Code="041">Communication</LEXCoreDomain>
+            <LEXCoreDomain Code="106">Mind</LEXCoreDomain>
+          </LEXCoreDomains>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

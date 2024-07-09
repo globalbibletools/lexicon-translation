@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="001420000000000" Lemma="δούλη" Version="0" HasAramaic="false" InLXX="true" AlphaPos="δ">
+  <StrongCodes>
+    <Strong>G1399</Strong>
+  </StrongCodes>
+  <Authors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes>
+    <Note Caller="1" LanguageCode="en" LastEdited="" LastEditedBy="">
+      <References/>
+      <Content>παιδίσκη probably refers to someone younger than would be the case for δούλη.</Content>
+    </Note>
+  </Notes>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="001420001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>noun, f.</PartOfSpeech>
+      </PartsOfSpeech>
+      <Inflections>
+        <Inflection Lemma="δούλη" BaseFormIndex="1">
+          <Form/>
+          <Realizations>
+            <Realization>-ης</Realization>
+          </Realizations>
+          <Comments/>
+        </Inflection>
+      </Inflections>
+      <RelatedLemmas>
+        <RelatedLemma>
+          <Word>δουλόω</Word>
+        </RelatedLemma>
+      </RelatedLemmas>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="001420001001000" IsBiblicalTerm="M" EntryCode="87.83" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Status</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Slave, Free</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-10-26 12:40:55" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>a female slave{N:001}</DefinitionShort>
+              <Glosses>
+                <Gloss>slave girl</Gloss>
+                <Gloss>slave woman</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04200103800012</LEXReference>
+            <LEXReference>04200104800014</LEXReference>
+            <LEXReference>04400201800020</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

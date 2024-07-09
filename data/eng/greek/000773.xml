@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="000773000000000" Lemma="ἄσιτος" Version="0" HasAramaic="false" InLXX="false" AlphaPos="α">
+  <StrongCodes>
+    <Strong>G0777</Strong>
+  </StrongCodes>
+  <Authors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes/>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="000773001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>adjc.</PartOfSpeech>
+      </PartsOfSpeech>
+      <Inflections>
+        <Inflection Lemma="ἄσιτος" BaseFormIndex="1">
+          <Form/>
+          <Realizations>
+            <Realization>-ον</Realization>
+          </Realizations>
+          <Comments/>
+        </Inflection>
+      </Inflections>
+      <Constructs>
+        <Construct Lemma="ἄσιτος" BaseFormIndex="1">
+          <WordMeaningSet>
+            <Word>ἀ-</Word>
+          </WordMeaningSet>
+          <WordMeaningSet>
+            <Word>σῖτος</Word>
+          </WordMeaningSet>
+        </Construct>
+      </Constructs>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="000773001001000" IsBiblicalTerm="Y" EntryCode="23.32" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Physiological Processes and States</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Eat, Drink</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2022-09-13 16:58:40" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>a state of having been without food, frequently with the implication of being caused by a lack of appetite</DefinitionShort>
+              <Glosses>
+                <Gloss>without food</Gloss>
+                <Gloss>without desiring food</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04402703300036</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

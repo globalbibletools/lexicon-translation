@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="006514000000000" Lemma="קנן" Version="5" HasAramaic="false" InLXX="false" AlphaPos="ק">
+  <StrongCodes>
+    <Strong>H7077</Strong>
+  </StrongCodes>
+  <Authors>
+    <Author>Graham S. Ogden</Author>
+  </Authors>
+  <Contributors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes>
+    <Note Caller="1" LanguageCode="en" LastEdited="" LastEditedBy="">
+      <References>
+        <Reference>02402202300012</Reference>
+      </References>
+      <Content>MT-K מקננתי</Content>
+    </Note>
+  </Notes>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="006514001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>vb</PartOfSpeech>
+      </PartsOfSpeech>
+      <RelatedLemmas>
+        <RelatedLemma>
+          <Word>קֵן</Word>
+        </RelatedLemma>
+      </RelatedLemmas>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="006514001001000" IsBiblicalTerm="Y" EntryCode="" Indent="0">
+          <LEXDomains>
+            <LEXDomain Code="002002002005">Exist</LEXDomain>
+          </LEXDomains>
+          <LEXForms>
+            <LEXForm>vbpiel</LEXForm>
+            <LEXForm>vPP (passive)</LEXForm>
+          </LEXForms>
+          <LEXValencies>
+            <LEXValency>v</LEXValency>
+          </LEXValencies>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2007-02-27 17:16:40" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>= causative action by which birds build a {L:nest&lt;SDBH:קֵן&gt;}; ◄ with the help of twigs, straw, grass and other materials, ► as a place where they can lay their eggs and shelter their young; ≈ associated with security</DefinitionShort>
+              <Glosses>
+                <Gloss>to build a nest</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>01910401700008</LEXReference>
+            <LEXReference>02303401500004</LEXReference>
+            <LEXReference>02402202300012{N:001}</LEXReference>
+            <LEXReference>02402202300014</LEXReference>
+            <LEXReference>02404802800028</LEXReference>
+            <LEXReference>02603100600006</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+          <LEXCoreDomains>
+            <LEXCoreDomain Code="010">Animal</LEXCoreDomain>
+            <LEXCoreDomain Code="045">Construction</LEXCoreDomain>
+          </LEXCoreDomains>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

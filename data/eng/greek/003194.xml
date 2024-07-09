@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="003194000000000" Lemma="μέγεθος" Version="0" HasAramaic="false" InLXX="true" AlphaPos="μ">
+  <StrongCodes>
+    <Strong>G3174</Strong>
+  </StrongCodes>
+  <Authors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes/>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="003194001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>noun, n.</PartOfSpeech>
+      </PartsOfSpeech>
+      <Inflections>
+        <Inflection Lemma="μέγεθος" BaseFormIndex="1">
+          <Form/>
+          <Realizations>
+            <Realization>-ους</Realization>
+          </Realizations>
+          <Comments/>
+        </Inflection>
+      </Inflections>
+      <RelatedLemmas>
+        <RelatedLemma>
+          <Word>μεγαλύνω</Word>
+        </RelatedLemma>
+      </RelatedLemmas>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="003194001001000" IsBiblicalTerm="Y" EntryCode="78.2" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Degree</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Much, Little [Positive-Negative Degree]</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-11-23 11:37:17" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>the upper range of a scale of extent, with the possible implication of importance in relevant contexts</DefinitionShort>
+              <Glosses>
+                <Gloss>great</Gloss>
+                <Gloss>greatly</Gloss>
+                <Gloss>greatness</Gloss>
+                <Gloss>to a great degree</Gloss>
+                <Gloss>intense</Gloss>
+                <Gloss>terrible</Gloss>
+              </Glosses>
+              <Comments>In {S:04900101900010} there are two expressions of degree, ὑπερβάλλον (treated in {D:78.33}) and μέγεθος, which, though syntactically the head of the phrase, is semantically an expression of degree with {L:δύναμις&lt;SDBG:δύναμις:000001&gt;}[b] ‘power’ ({D:76.1}).</Comments>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04900101900010</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

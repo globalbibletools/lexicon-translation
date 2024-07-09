@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="004775000000000" Lemma="נִיד" Version="3" HasAramaic="false" InLXX="false" AlphaPos="נ">
+  <StrongCodes>
+    <Strong>H5205</Strong>
+  </StrongCodes>
+  <Authors>
+    <Author>Reinier de Blois</Author>
+  </Authors>
+  <Contributors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes>
+    <Note Caller="1" LanguageCode="en" LastEdited="" LastEditedBy="">
+      <References>
+        <Reference>01801600500010</Reference>
+      </References>
+      <Content>NJPS "moving" = [1a] | RSV ESV "solace" NIV "comfort" NJB REB "encouragement" NRSV "encourage" = [1b]</Content>
+    </Note>
+  </Notes>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="004775001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>nsm</PartOfSpeech>
+      </PartsOfSpeech>
+      <RelatedLemmas>
+        <RelatedLemma>
+          <Word>נוד</Word>
+        </RelatedLemma>
+      </RelatedLemmas>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="004775001001000" IsBiblicalTerm="Y" EntryCode="" Indent="0">
+          <LEXDomains>
+            <LEXDomain Code="002004001009008" Source="Unsteady" SourceCode="002001001064">Speak</LEXDomain>
+          </LEXDomains>
+          <LEXCollocations>
+            <LEXCollocation>נִיד שְׂפָתַיִם</LEXCollocation>
+          </LEXCollocations>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2017-12-11 17:32:32" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>literally: movement of lips; hence: = action by which humans utter words</DefinitionShort>
+              <Glosses>
+                <Gloss>movement of lips</Gloss>
+                <Gloss>words</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>01801600500010{N:001}</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+          <LEXCoreDomains>
+            <LEXCoreDomain Code="041">Communication</LEXCoreDomain>
+          </LEXCoreDomains>
+        </LEXMeaning>
+        <LEXMeaning Id="004775001002000" IsBiblicalTerm="Y" EntryCode="" Indent="0">
+          <LEXDomains>
+            <LEXDomain Code="002004001009008" Source="Relief" SourceCode="002001002023">Speak</LEXDomain>
+          </LEXDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2023-01-22 16:22:51" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>= action with which a humans express their sympathy, such as by using words, sounds, and/or actions</DefinitionShort>
+              <Glosses>
+                <Gloss>consolation</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>01801600500010{N:001}</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+          <LEXCoreDomains>
+            <LEXCoreDomain Code="041">Communication</LEXCoreDomain>
+            <LEXCoreDomain Code="093">Joy and Grief</LEXCoreDomain>
+          </LEXCoreDomains>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

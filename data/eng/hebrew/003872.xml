@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="003872000000000" Lemma="מִחְיָה" Version="5" HasAramaic="false" InLXX="false" AlphaPos="מ">
+  <StrongCodes>
+    <Strong>H4241</Strong>
+  </StrongCodes>
+  <Authors>
+    <Author>Reinier de Blois</Author>
+  </Authors>
+  <Contributors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes/>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="003872001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>nsf</PartOfSpeech>
+      </PartsOfSpeech>
+      <RelatedLemmas>
+        <RelatedLemma>
+          <Word>חיה</Word>
+        </RelatedLemma>
+      </RelatedLemmas>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="003872001001000" IsBiblicalTerm="Y" EntryCode="" Indent="0">
+          <LEXDomains>
+            <LEXDomain Code="002001001003">Alive</LEXDomain>
+          </LEXDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2017-12-19 10:41:18" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>= action by which people who were at risk of dying are enabled to stay alive</DefinitionShort>
+              <Glosses>
+                <Gloss>staying alive</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>00104500500032</LEXReference>
+            <LEXReference>01401401200038</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+          <LEXCoreDomains>
+            <LEXCoreDomain Code="099">Life and Death</LEXCoreDomain>
+          </LEXCoreDomains>
+        </LEXMeaning>
+        <LEXMeaning Id="003872001002000" IsBiblicalTerm="Y" EntryCode="" Indent="0">
+          <LEXDomains>
+            <LEXDomain Code="001004003" Source="Alive" SourceCode="002001001003">Food</LEXDomain>
+          </LEXDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2017-12-19 10:41:18" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>= food given to people on a regular basis to enable them to live on</DefinitionShort>
+              <Glosses>
+                <Gloss>sustenance</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>00700600400032</LEXReference>
+            <LEXReference>00701701000056</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+          <LEXCoreDomains>
+            <LEXCoreDomain Code="069">Food</LEXCoreDomain>
+          </LEXCoreDomains>
+        </LEXMeaning>
+        <LEXMeaning Id="003872001003000" IsBiblicalTerm="Y" EntryCode="" Indent="0">
+          <LEXDomains>
+            <LEXDomain Code="002001001057" Source="Alive" SourceCode="002001001003">Stage</LEXDomain>
+          </LEXDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2017-12-19 10:41:18" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>= state in which objects have recently attained a particular state</DefinitionShort>
+              <Glosses>
+                <Gloss>rawness</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>00301301000036</LEXReference>
+            <LEXReference>00301302400022</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+        <LEXMeaning Id="003872001004000" IsBiblicalTerm="Y" EntryCode="" Indent="0">
+          <LEXDomains>
+            <LEXDomain Code="002001002003" Source="Alive" SourceCode="002001001003">Confident</LEXDomain>
+          </LEXDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2017-12-19 10:41:18" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>= process by which humans become more confident and hopeful than they were before, ◄ as if their courage comes back to life</DefinitionShort>
+              <Glosses>
+                <Gloss>reviving</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>01500900800062</LEXReference>
+            <LEXReference>01500900900042</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+          <LEXCoreDomains>
+            <LEXCoreDomain Code="043">Confidence and Fear</LEXCoreDomain>
+          </LEXCoreDomains>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

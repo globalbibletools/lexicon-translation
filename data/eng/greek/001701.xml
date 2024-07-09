@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="001701000000000" Lemma="ἐμβάπτω" Version="0" HasAramaic="false" InLXX="false" AlphaPos="ε">
+  <StrongCodes>
+    <Strong>G1686</Strong>
+  </StrongCodes>
+  <Authors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes>
+    <Note Caller="1" LanguageCode="en" LastEdited="" LastEditedBy="">
+      <References/>
+      <Content>It is possible that ἐμβάπτω differs in meaning from βάπτω in specifying somewhat more clearly the factor of something being in something else.</Content>
+    </Note>
+  </Notes>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="001701001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>verb</PartOfSpeech>
+      </PartsOfSpeech>
+      <Inflections>
+        <Inflection Lemma="ἐμβάπτω" BaseFormIndex="1">
+          <Form>aor.ptc.</Form>
+          <Realizations>
+            <Realization>ἐμβάψας</Realization>
+          </Realizations>
+          <Comments/>
+        </Inflection>
+      </Inflections>
+      <RelatedLemmas>
+        <RelatedLemma>
+          <Word>βάπτω</Word>
+        </RelatedLemma>
+      </RelatedLemmas>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="001701001001000" IsBiblicalTerm="M" EntryCode="47.11" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Activities Involving Liquids or Masses</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Use of Liquids</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-05-20 10:16:48" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>to dip an object in a liquid{N:001}</DefinitionShort>
+              <Glosses>
+                <Gloss>to dip in</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04002602300012</LEXReference>
+            <LEXReference>04101402000018</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

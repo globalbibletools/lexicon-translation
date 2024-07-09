@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="001818000000000" Lemma="הִלּוּלִים" Version="5" HasAramaic="false" InLXX="false" AlphaPos="ה">
+  <StrongCodes>
+    <Strong>H1974</Strong>
+  </StrongCodes>
+  <Authors>
+    <Author>Reinier de Blois</Author>
+  </Authors>
+  <Contributors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes/>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="001818001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>nsm</PartOfSpeech>
+      </PartsOfSpeech>
+      <RelatedLemmas>
+        <RelatedLemma>
+          <Word>הלל</Word>
+        </RelatedLemma>
+      </RelatedLemmas>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="001818001001000" IsBiblicalTerm="M" EntryCode="" Indent="0">
+          <LEXDomains>
+            <LEXDomain Code="002004001009009">Praise</LEXDomain>
+          </LEXDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2017-10-11 15:18:37" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>= action by which humans express their appreciation, admiration, respect, and/or gratitude to deities about who they are and what they do</DefinitionShort>
+              <Glosses>
+                <Gloss>praise</Gloss>
+                <Gloss>thanksgiving</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>00301902400022</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+        <LEXMeaning Id="001818001002000" IsBiblicalTerm="Y" EntryCode="" Indent="0">
+          <LEXDomains>
+            <LEXDomain Code="002002002011" Source="Praise" SourceCode="002004001009009">Festivals</LEXDomain>
+          </LEXDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2017-10-11 15:18:37" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>= celebration by which deities receive public thanksgiving</DefinitionShort>
+              <Glosses>
+                <Gloss>thanksgiving festival</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>00700902700026</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+          <LEXCoreDomains>
+            <LEXCoreDomain Code="066">Festival</LEXCoreDomain>
+          </LEXCoreDomains>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

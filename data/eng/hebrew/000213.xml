@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="000213000000000" Lemma="אות" Version="5" HasAramaic="false" InLXX="false" AlphaPos="א">
+  <StrongCodes>
+    <Strong>H0225</Strong>
+  </StrongCodes>
+  <Authors>
+    <Author>Reinier de Blois</Author>
+  </Authors>
+  <Contributors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes/>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="000213001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>vb</PartOfSpeech>
+      </PartsOfSpeech>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="000213001001000" IsBiblicalTerm="Y" EntryCode="" Indent="0">
+          <LEXDomains>
+            <LEXDomain Code="002001002028">Willing</LEXDomain>
+          </LEXDomains>
+          <LEXForms>
+            <LEXForm>vbnif-</LEXForm>
+          </LEXForms>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2015-08-09 15:22:23" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>= to agree to a proposal</DefinitionShort>
+              <Glosses>
+                <Gloss>to consent</Gloss>
+                <Gloss>to agree</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>00103401500008</LEXReference>
+            <LEXReference>00103402200008</LEXReference>
+            <LEXReference>00103402300024</LEXReference>
+            <LEXReference>01201200900004</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+          <LEXCoreDomains>
+            <LEXCoreDomain Code="197">Willingness</LEXCoreDomain>
+          </LEXCoreDomains>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

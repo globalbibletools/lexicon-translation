@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="004521000000000" Lemma="σιτίον" Version="0" HasAramaic="false" InLXX="true" AlphaPos="σ">
+  <StrongCodes>
+    <Strong>G4621a</Strong>
+  </StrongCodes>
+  <Authors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes/>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="004521001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>noun, n.</PartOfSpeech>
+      </PartsOfSpeech>
+      <Inflections>
+        <Inflection Lemma="σιτίον" BaseFormIndex="1">
+          <Form/>
+          <Realizations>
+            <Realization>-ου</Realization>
+          </Realizations>
+          <Comments/>
+        </Inflection>
+      </Inflections>
+      <RelatedLemmas>
+        <RelatedLemma>
+          <Word>σῖτος</Word>
+        </RelatedLemma>
+      </RelatedLemmas>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="004521001001000" IsBiblicalTerm="M" EntryCode="3.42" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Plants</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Fruit Parts of Plants</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2022-02-11 11:19:45" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>(a diminutive form of {L:σῖτος&lt;SDBG:σῖτος:000000&gt;} ‘grain,’ {D:3.41}, but not diminutive in meaning) any grain, but with the evident implication of its relevance as food.</DefinitionShort>
+              <Glosses>
+                <Gloss>grain</Gloss>
+                <Gloss>food</Gloss>
+              </Glosses>
+              <Comments>(See also {D:5.2}.) On the basis of this one NT occurrence it is impossible to know whether the meaning of σιτία is ‘grain’ or ‘food,’ since in the phrase σιτία καὶ ποτά ‘food and drink’ (an expression occurring in a number of extrabiblical contexts), the term σιτίον contrasts solid with liquid nourishment.</Comments>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04400701200010</LEXReference>
+          </LEXReferences>
+          <LEXLinks>
+            <LEXLink>flora:3.1.4</LEXLink>
+          </LEXLinks>
+          <LEXVideos/>
+        </LEXMeaning>
+        <LEXMeaning Id="004521001002000" IsBiblicalTerm="Y" EntryCode="5.2" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Foods and Condiments</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Food</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2022-02-11 11:19:45" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>(diminutive of {L:σῖτος&lt;SDBG:σῖτος:000000&gt;}[a] ‘wheat, grain,’ {D:3.41}, but without diminutive meaning and occurring primarily in the plural) food consisting principally of grain products</DefinitionShort>
+              <Glosses>
+                <Gloss>food</Gloss>
+                <Gloss>grain</Gloss>
+              </Glosses>
+              <Comments>It is, of course, possible in {S:04400701200010} to understand the plural form as ‘grain’ (see {D:3.42}), but the reference is probably to food made from grain, a common meaning of this term in Classical Greek.</Comments>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04400701200010</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

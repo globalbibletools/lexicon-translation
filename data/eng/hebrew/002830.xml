@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="002830000000000" Lemma="יְהוּכַל" Version="5" HasAramaic="false" InLXX="false" AlphaPos="י">
+  <StrongCodes>
+    <Strong>H3081</Strong>
+    <Strong>H3116</Strong>
+  </StrongCodes>
+  <Authors>
+    <Author>Reinier de Blois</Author>
+  </Authors>
+  <Contributors/>
+  <AlternateLemmas>
+    <AlternateLemma>יוּכַל</AlternateLemma>
+  </AlternateLemmas>
+  <MainLinks/>
+  <Notes>
+    <Note Caller="1" LanguageCode="en" LastEdited="" LastEditedBy="">
+      <References>
+        <Reference>02403800100022</Reference>
+      </References>
+      <Content>{A:MT} יוּכַל</Content>
+    </Note>
+  </Notes>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="002830001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>np</PartOfSpeech>
+      </PartsOfSpeech>
+      <MeaningsOfName>
+        <MeaningOfName LanguageCode="pt">
+          <Meaning>IHVH se mostrou forte</Meaning>
+        </MeaningOfName>
+      </MeaningsOfName>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="002830001001000" IsBiblicalTerm="Y" EntryCode="" Indent="0">
+          <LEXDomains>
+            <LEXDomain Code="003001007">Names of People</LEXDomain>
+          </LEXDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2011-01-12 16:34:40" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>= man; ◄ son of {L:Shelemiah&lt;SDBH:שֶׁלֶמְיָה&gt;}; ► official; time of {L:Zedekiah&lt;SDBH:צִדְקִיָּהוּ&gt;}</DefinitionShort>
+              <Glosses>
+                <Gloss>Jehucal</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>02403700300014</LEXReference>
+            <LEXReference>02403800100022{N:001}</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

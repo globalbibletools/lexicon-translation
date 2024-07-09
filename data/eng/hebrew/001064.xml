@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="001064000000000" Lemma="בִּנְיָן" Version="5" HasAramaic="true" InLXX="false" AlphaPos="ב">
+  <StrongCodes>
+    <Strong>H1146</Strong>
+    <Strong>A1147</Strong>
+  </StrongCodes>
+  <Authors>
+    <Author>Enio R. Mueller</Author>
+  </Authors>
+  <Contributors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes>
+    <Note Caller="1" LanguageCode="en" LastEdited="" LastEditedBy="">
+      <References>
+        <Reference/>
+      </References>
+      <Content>This word seems to refer to anything “built,” that is, a “structure of any sort” (Hummel) | in it refers to a wall.</Content>
+    </Note>
+  </Notes>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="001064001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>nsm</PartOfSpeech>
+      </PartsOfSpeech>
+      <RelatedLemmas>
+        <RelatedLemma>
+          <Word>בנה</Word>
+        </RelatedLemma>
+      </RelatedLemmas>
+      <RelatedNames>
+        <RelatedName>
+          <Word>בִּנְיָה</Word>
+        </RelatedName>
+      </RelatedNames>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="001064001001000" IsBiblicalTerm="M" EntryCode="" Indent="0">
+          <LEXDomains>
+            <LEXDomain Code="001005001001">Buildings</LEXDomain>
+          </LEXDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2017-06-25 12:28:08" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>= type of construction{N:001}</DefinitionShort>
+              <Glosses>
+                <Gloss>building</Gloss>
+                <Gloss>structure</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>01500500400022</LEXReference>
+            <LEXReference>02604000500062</LEXReference>
+            <LEXReference>02604101200006</LEXReference>
+            <LEXReference>02604101200038</LEXReference>
+            <LEXReference>02604101500010</LEXReference>
+            <LEXReference>02604200100052</LEXReference>
+            <LEXReference>02604200500038</LEXReference>
+            <LEXReference>02604201000034</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+          <LEXCoreDomains>
+            <LEXCoreDomain Code="020">Building</LEXCoreDomain>
+          </LEXCoreDomains>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

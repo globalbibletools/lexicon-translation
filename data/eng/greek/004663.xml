@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="004663000000000" Lemma="στρατόπεδον" Version="0" HasAramaic="false" InLXX="true" AlphaPos="σ">
+  <StrongCodes>
+    <Strong>G4760</Strong>
+  </StrongCodes>
+  <Authors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes>
+    <Note Caller="1" LanguageCode="en" LastEdited="" LastEditedBy="">
+      <References>
+        <Reference>04202102000012</Reference>
+      </References>
+      <Content>It is possible that στρατόπεδον in {S:04202102000012} refers specifically to Roman legions.</Content>
+    </Note>
+  </Notes>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="004663001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>noun, n.</PartOfSpeech>
+      </PartsOfSpeech>
+      <Inflections>
+        <Inflection Lemma="στρατόπεδον" BaseFormIndex="1">
+          <Form/>
+          <Realizations>
+            <Realization>-ου</Realization>
+          </Realizations>
+          <Comments/>
+        </Inflection>
+      </Inflections>
+      <Constructs>
+        <Construct Lemma="στρατόπεδον" BaseFormIndex="1">
+          <WordMeaningSet>
+            <Word>στρατεύομαι</Word>
+          </WordMeaningSet>
+          <WordMeaningSet>
+            <Word>πούς</Word>
+          </WordMeaningSet>
+        </Construct>
+      </Constructs>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="004663001001000" IsBiblicalTerm="M" EntryCode="55.7" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Military Activities</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Army</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2022-03-08 20:49:31" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>a large organized group of soldiers</DefinitionShort>
+              <Glosses>
+                <Gloss>army</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04202102000012{N:001}</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

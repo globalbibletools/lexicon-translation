@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="003599000000000" Lemma="ὀπή" Version="0" HasAramaic="false" InLXX="true" AlphaPos="ο">
+  <StrongCodes>
+    <Strong>G3692</Strong>
+  </StrongCodes>
+  <Authors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes/>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="003599001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>noun, f.</PartOfSpeech>
+      </PartsOfSpeech>
+      <Inflections>
+        <Inflection Lemma="ὀπή" BaseFormIndex="1">
+          <Form/>
+          <Realizations>
+            <Realization>-ῆς</Realization>
+          </Realizations>
+          <Comments/>
+        </Inflection>
+      </Inflections>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="003599001001000" IsBiblicalTerm="Y" EntryCode="1.53" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Geographical Objects and Features</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Depressions and Holes</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-12-15 16:51:36" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>an opening or hole in the ground, either large as in {S:05801103800032} or relatively small as in {S:05900301100014}</DefinitionShort>
+              <Glosses>
+                <Gloss>hole</Gloss>
+                <Gloss>opening</Gloss>
+              </Glosses>
+              <Comments>Holes would differ from caves ({S:05801103800032}) in that holes would be vertical openings into the ground, while caves would be more or less horizontal openings into cliffs or sides of hills. In {S:05900301100014} it may be quite unnecessary, and in fact confusing, to try to translate ὀπῆς, since ἐκ τῆς αὐτῆς ὀπῆς ‘from the same opening’ would seem to be redundant with ἡ πηγή ‘spring,’ since a spring would presumably only flow from a hole or opening in the ground.</Comments>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>05801103800032</LEXReference>
+            <LEXReference>05900301100014</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

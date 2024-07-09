@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="006572000000000" Lemma="קֶרַח" Version="4" HasAramaic="false" InLXX="false" AlphaPos="ק">
+  <StrongCodes>
+    <Strong>H7140</Strong>
+  </StrongCodes>
+  <Authors>
+    <Author>Graham S. Ogden</Author>
+  </Authors>
+  <Contributors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes/>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="006572001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>nsm</PartOfSpeech>
+      </PartsOfSpeech>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="006572001001000" IsBiblicalTerm="Y" EntryCode="" Indent="0">
+          <LEXDomains>
+            <LEXDomain Code="002001001014">Cold</LEXDomain>
+          </LEXDomains>
+          <LEXAntonyms>
+            <LEXAntonym>חֹרֶב</LEXAntonym>
+          </LEXAntonyms>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2017-03-27 17:18:37" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>= cold weather that develops overnight due to the drop in temperature</DefinitionShort>
+              <Glosses>
+                <Gloss>cold weather</Gloss>
+                <Gloss>frost</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>00103104000016</LEXReference>
+            <LEXReference>02403603000058</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+        <LEXMeaning Id="006572001002000" IsBiblicalTerm="Y" EntryCode="" Indent="0">
+          <LEXDomains>
+            <LEXDomain Code="001006011" Source="Cold" SourceCode="002001001014">Rain</LEXDomain>
+          </LEXDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2017-03-27 17:18:37" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>= pellets of ice that fall from the sky as precipitation</DefinitionShort>
+              <Glosses>
+                <Gloss>hail</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>01914701700004</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+        <LEXMeaning Id="006572001003000" IsBiblicalTerm="Y" EntryCode="" Indent="0">
+          <LEXDomains>
+            <LEXDomain Code="001006007" Source="Cold" SourceCode="002001001014">Liquids</LEXDomain>
+          </LEXDomains>
+          <LEXAntonyms>
+            <LEXAntonym>חֹרֶב</LEXAntonym>
+          </LEXAntonyms>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2017-03-27 17:18:37" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>= water that has frozen to ice or snow and gleams like crystal</DefinitionShort>
+              <Glosses>
+                <Gloss>ice</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>01800601600008</LEXReference>
+            <LEXReference>01803701000010</LEXReference>
+            <LEXReference>01803802900012</LEXReference>
+            <LEXReference>02600102200022</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

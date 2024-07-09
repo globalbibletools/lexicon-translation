@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="006357000000000" Lemma="קבע" Version="5" HasAramaic="false" InLXX="false" AlphaPos="ק">
+  <StrongCodes>
+    <Strong>H6906</Strong>
+  </StrongCodes>
+  <Authors>
+    <Author>Graham S. Ogden</Author>
+  </Authors>
+  <Contributors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes>
+    <Note Caller="1" LanguageCode="en" LastEdited="" LastEditedBy="">
+      <References>
+        <Reference>03900300800004</Reference>
+        <Reference>03900300800014</Reference>
+        <Reference>03900300800026</Reference>
+        <Reference>03900300900018</Reference>
+      </References>
+      <Content>MT {A:HOTTP}-B {A:RSV} {A:NIV} {A:NRSV} {A:CEV} | {A:NJPS} {A:NJB} {A:REB} {A:GNT} {L:"to&lt;SDBH:יקב&gt;} cheat, defraud"</Content>
+    </Note>
+  </Notes>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="006357001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>vb</PartOfSpeech>
+      </PartsOfSpeech>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="006357001001000" IsBiblicalTerm="M" EntryCode="" Indent="0">
+          <LEXDomains>
+            <LEXDomain Code="002003002020">Possess</LEXDomain>
+          </LEXDomains>
+          <LEXForms>
+            <LEXForm>vbqal-</LEXForm>
+          </LEXForms>
+          <LEXValencies>
+            <LEXValency>v X</LEXValency>
+          </LEXValencies>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2008-03-04 21:25:40" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>= to take or keep for one's own the possessions that belong to someone else; ≈ agent: human; goal: human, divine</DefinitionShort>
+              <Glosses>
+                <Gloss>to rob</Gloss>
+                <Gloss>to steal</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>02002202300012</LEXReference>
+            <LEXReference>02002202300016</LEXReference>
+            <LEXReference>03900300800004{N:001}</LEXReference>
+            <LEXReference>03900300800014{N:001}</LEXReference>
+            <LEXReference>03900300800026{N:001}</LEXReference>
+            <LEXReference>03900300900018{N:001}</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+          <LEXCoreDomains>
+            <LEXCoreDomain Code="128">Possession</LEXCoreDomain>
+          </LEXCoreDomains>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

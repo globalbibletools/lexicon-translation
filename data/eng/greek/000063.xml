@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="000063000000000" Lemma="ἀγραυλέω" Version="0" HasAramaic="false" InLXX="false" AlphaPos="α">
+  <StrongCodes>
+    <Strong>G0063</Strong>
+  </StrongCodes>
+  <Authors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes/>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="000063001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>verb</PartOfSpeech>
+      </PartsOfSpeech>
+      <Constructs>
+        <Construct Lemma="ἀγραυλέω" BaseFormIndex="1">
+          <WordMeaningSet>
+            <Word>ἀγρός</Word>
+          </WordMeaningSet>
+          <WordMeaningSet>
+            <Word>αὐλίζομαι</Word>
+          </WordMeaningSet>
+        </Construct>
+      </Constructs>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="000063001001000" IsBiblicalTerm="Y" EntryCode="85.64" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Existence in Space</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Remain, Stay</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-03-19 17:18:39" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>to spend time outdoors, with the possible implication of living outdoors</DefinitionShort>
+              <Glosses>
+                <Gloss>to remain outdoors</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04200200800018</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

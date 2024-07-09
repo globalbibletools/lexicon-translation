@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="004610000000000" Lemma="נְבִיא" Version="4" HasAramaic="true" InLXX="false" AlphaPos="נ">
+  <StrongCodes>
+    <Strong>A5029</Strong>
+  </StrongCodes>
+  <Authors/>
+  <Contributors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes>
+    <Note Caller="1" LanguageCode="en" LastEdited="" LastEditedBy="">
+      <References>
+        <Reference>01500500100008</Reference>
+        <Reference>01500601400020</Reference>
+      </References>
+      <Content>MT-K נביאה | MT-Q נְבִיָּא</Content>
+    </Note>
+    <Note Caller="2" LanguageCode="en" LastEdited="" LastEditedBy="">
+      <References>
+        <Reference>01500500100020</Reference>
+        <Reference>01500500200044</Reference>
+      </References>
+      <Content>MT-K נביאיא | MT-Q נְבִיַּיָּא</Content>
+    </Note>
+  </Notes>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="004610001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>nsm</PartOfSpeech>
+      </PartsOfSpeech>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="004610001001000" IsBiblicalTerm="M" EntryCode="" Indent="0">
+          <LEXDomains>
+            <LEXDomain Code="001001002003010">Prophets</LEXDomain>
+          </LEXDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2020-09-02 14:32:53" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>= male person speaking on behalf of a deity</DefinitionShort>
+              <Glosses>
+                <Gloss>prophet</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>01500500100008{N:001}</LEXReference>
+            <LEXReference>01500500100010</LEXReference>
+            <LEXReference>01500500100020{N:002}</LEXReference>
+            <LEXReference>01500500100022</LEXReference>
+            <LEXReference>01500500200044{N:002}</LEXReference>
+            <LEXReference>01500500200046</LEXReference>
+            <LEXReference>01500601400020{N:001}</LEXReference>
+            <LEXReference>01500601400022</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

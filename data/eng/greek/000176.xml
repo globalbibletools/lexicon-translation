@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="000176000000000" Lemma="ἀκατάκριτος" Version="0" HasAramaic="false" InLXX="false" AlphaPos="α">
+  <StrongCodes>
+    <Strong>G0178</Strong>
+  </StrongCodes>
+  <Authors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes/>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="000176001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>adjc.</PartOfSpeech>
+      </PartsOfSpeech>
+      <Inflections>
+        <Inflection Lemma="ἀκατάκριτος" BaseFormIndex="1">
+          <Form/>
+          <Realizations>
+            <Realization>-ον</Realization>
+          </Realizations>
+          <Comments/>
+        </Inflection>
+      </Inflections>
+      <Constructs>
+        <Construct Lemma="ἀκατάκριτος" BaseFormIndex="1">
+          <WordMeaningSet>
+            <Word>ἀ-</Word>
+          </WordMeaningSet>
+          <WordMeaningSet>
+            <Word>κρίνω</Word>
+          </WordMeaningSet>
+        </Construct>
+      </Constructs>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="000176001001000" IsBiblicalTerm="Y" EntryCode="56.19" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Courts and Legal Procedures</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Judicial Hearing, Inquiry</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-05-20 11:08:13" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>pertaining to not having gone through a judicial hearing, with the implication of not having been condemned</DefinitionShort>
+              <Glosses>
+                <Gloss>without trial</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04401603700020</LEXReference>
+            <LEXReference>04402202500036</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

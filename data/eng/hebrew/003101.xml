@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="003101000000000" Lemma="יֶרַח" Version="4" HasAramaic="false" InLXX="false" AlphaPos="י">
+  <StrongCodes>
+    <Strong>H3391</Strong>
+    <Strong>H3392</Strong>
+  </StrongCodes>
+  <Authors>
+    <Author>Enio R. Mueller</Author>
+  </Authors>
+  <Contributors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes>
+    <Note Caller="1" LanguageCode="en" LastEdited="" LastEditedBy="">
+      <References>
+        <Reference>00503301400020</Reference>
+      </References>
+      <Content>NJPS "moons" NIV "moon" = {L:יָרֵחַ&lt;SDBH:יָרֵחַ&gt;}</Content>
+    </Note>
+  </Notes>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="003101001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>nsm</PartOfSpeech>
+      </PartsOfSpeech>
+      <RelatedLemmas>
+        <RelatedLemma>
+          <Word>יָרֵחַ</Word>
+        </RelatedLemma>
+      </RelatedLemmas>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="003101001001000" IsBiblicalTerm="M" EntryCode="" Indent="0">
+          <LEXDomains>
+            <LEXDomain Code="002002002010">Time</LEXDomain>
+          </LEXDomains>
+          <LEXSynonyms>
+            <LEXSynonym>עֵת</LEXSynonym>
+          </LEXSynonyms>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2017-03-17 10:04:53" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>= period of time, measured by a complete cycle in the phases of the moon</DefinitionShort>
+              <Glosses>
+                <Gloss>month</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>00200200200034</LEXReference>
+            <LEXReference>00502101300038</LEXReference>
+            <LEXReference>00503301400020{N:001}</LEXReference>
+            <LEXReference>01100603700020</LEXReference>
+            <LEXReference>01100603800018</LEXReference>
+            <LEXReference>01100800200022</LEXReference>
+            <LEXReference>01201501300034</LEXReference>
+            <LEXReference>01800300600028</LEXReference>
+            <LEXReference>01800700300008</LEXReference>
+            <LEXReference>01802900200008</LEXReference>
+            <LEXReference>01803900200004</LEXReference>
+            <LEXReference>03801100800016</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+          <LEXCoreDomains>
+            <LEXCoreDomain Code="180">Time</LEXCoreDomain>
+          </LEXCoreDomains>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+    <BaseForm Id="003101002000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>np</PartOfSpeech>
+      </PartsOfSpeech>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="003101002001000" IsBiblicalTerm="Y" EntryCode="" Indent="0">
+          <LEXDomains>
+            <LEXDomain Code="003001007">Names of People</LEXDomain>
+          </LEXDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2017-03-17 10:04:53" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>= man; ◄ son of {L:Joktan&lt;SDBH:יָקְטָן&gt;}; descendant of {L:Shem&lt;SDBH:שֵׁם&gt;}; ► regarded as founder of ethnic group with the same name</DefinitionShort>
+              <Glosses>
+                <Gloss>Jerah</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>00101002600028</LEXReference>
+            <LEXReference>01300102000028</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

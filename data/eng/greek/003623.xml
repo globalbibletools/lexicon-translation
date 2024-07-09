@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="003623000000000" Lemma="ὀρθοποδέω" Version="0" HasAramaic="false" InLXX="false" AlphaPos="ο">
+  <StrongCodes>
+    <Strong>G3716</Strong>
+  </StrongCodes>
+  <Authors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes/>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="003623001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>verb</PartOfSpeech>
+      </PartsOfSpeech>
+      <Constructs>
+        <Construct Lemma="ὀρθοποδέω" BaseFormIndex="1">
+          <WordMeaningSet>
+            <Word>ὀρθός</Word>
+          </WordMeaningSet>
+          <WordMeaningSet>
+            <Word>πούς</Word>
+          </WordMeaningSet>
+        </Construct>
+      </Constructs>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="003623001001000" IsBiblicalTerm="Y" EntryCode="41.36" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Behavior and Related States</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Particular Patterns of Behavior</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-12-15 19:00:00" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>to live a life of moral correctness</DefinitionShort>
+              <Glosses>
+                <Gloss>to live right</Gloss>
+                <Gloss>to live as one ought to</Gloss>
+              </Glosses>
+              <Comments>ὀρθοποδέω may be translated in a number of languages as ‘to live as one should.’</Comments>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04800201400012</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

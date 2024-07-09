@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="005522000000000" Lemma="עֹמֶר" Version="5" HasAramaic="false" InLXX="false" AlphaPos="ע">
+  <StrongCodes>
+    <Strong>H6016</Strong>
+  </StrongCodes>
+  <Authors>
+    <Author>Reinier de Blois</Author>
+  </Authors>
+  <Contributors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes/>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="005522001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>nsm</PartOfSpeech>
+      </PartsOfSpeech>
+      <RelatedLemmas>
+        <RelatedLemma>
+          <Word>עמר</Word>
+        </RelatedLemma>
+      </RelatedLemmas>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="005522001001000" IsBiblicalTerm="M" EntryCode="" Indent="0">
+          <LEXDomains>
+            <LEXDomain Code="002003001002">Bind</LEXDomain>
+          </LEXDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2017-06-27 12:36:47" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>= bundle of harvested ears of grain</DefinitionShort>
+              <Glosses>
+                <Gloss>sheaf</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>00302301000048</LEXReference>
+            <LEXReference>00302301100010</LEXReference>
+            <LEXReference>00302301200016</LEXReference>
+            <LEXReference>00302301500024</LEXReference>
+            <LEXReference>00502401900016</LEXReference>
+            <LEXReference>00800200700018</LEXReference>
+            <LEXReference>00800201500030</LEXReference>
+            <LEXReference>01802401000016</LEXReference>
+          </LEXReferences>
+          <LEXLinks>
+            <LEXLink>Realia:1.1.6</LEXLink>
+          </LEXLinks>
+          <LEXVideos/>
+          <LEXCoreDomains>
+            <LEXCoreDomain Code="125">Plant</LEXCoreDomain>
+            <LEXCoreDomain Code="007">Agriculture</LEXCoreDomain>
+          </LEXCoreDomains>
+        </LEXMeaning>
+        <LEXMeaning Id="005522001002000" IsBiblicalTerm="M" EntryCode="" Indent="0">
+          <LEXDomains>
+            <LEXDomain Code="002001001011">Capacity</LEXDomain>
+          </LEXDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2017-06-27 12:36:47" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>= unit of dry measure of 2.2 liters or 2 quarts; 10 omers make up 1 {L:ephah&lt;SDBH:אֵיפָה&gt;}</DefinitionShort>
+              <Glosses>
+                <Gloss>omer</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>00201601600026</LEXReference>
+            <LEXReference>00201601800010</LEXReference>
+            <LEXReference>00201602200026</LEXReference>
+            <LEXReference>00201603200024</LEXReference>
+            <LEXReference>00201603300028</LEXReference>
+            <LEXReference>00201603600006</LEXReference>
+          </LEXReferences>
+          <LEXLinks>
+            <LEXLink>Realia:11.3.1.6</LEXLink>
+          </LEXLinks>
+          <LEXVideos/>
+          <LEXCoreDomains>
+            <LEXCoreDomain Code="138">Quantity</LEXCoreDomain>
+          </LEXCoreDomains>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

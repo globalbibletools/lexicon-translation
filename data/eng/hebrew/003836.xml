@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="003836000000000" Lemma="מֵזַח" Version="5" HasAramaic="false" InLXX="false" AlphaPos="מ">
+  <StrongCodes>
+    <Strong>H4206a</Strong>
+  </StrongCodes>
+  <Authors>
+    <Author>Reinier de Blois</Author>
+  </Authors>
+  <Contributors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes>
+    <Note Caller="1" LanguageCode="en" LastEdited="" LastEditedBy="">
+      <References>
+        <Reference>02302301000018</Reference>
+      </References>
+      <Content>RSV ESV "restraint" GNT "one to protect" = [1b] | NIV NJPS NRSV CEV "harbor" NJB "marine docks" DCH "shipyard" = [1c] | REB "market"</Content>
+    </Note>
+  </Notes>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="003836001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>nsm</PartOfSpeech>
+      </PartsOfSpeech>
+      <RelatedLemmas>
+        <RelatedLemma>
+          <Word>מְזִיחַ</Word>
+        </RelatedLemma>
+      </RelatedLemmas>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="003836001001000" IsBiblicalTerm="Y" EntryCode="" Indent="0">
+          <LEXDomains>
+            <LEXDomain Code="001004001002">Clothing</LEXDomain>
+          </LEXDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2016-11-28 12:41:29" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>= strip ◄ of leather ► worn around the waist and part of one's daily attire; ≈ associated with one's daily activities</DefinitionShort>
+              <Glosses>
+                <Gloss>belt</Gloss>
+                <Gloss>girdle</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>01910901900016</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+          <LEXCoreDomains>
+            <LEXCoreDomain Code="033">Clothing</LEXCoreDomain>
+          </LEXCoreDomains>
+        </LEXMeaning>
+        <LEXMeaning Id="003836001002000" IsBiblicalTerm="" EntryCode="" Indent="0">
+          <LEXDomains>
+            <LEXDomain Code="002003002008" Source="Clothing" SourceCode="001004001002">Control</LEXDomain>
+          </LEXDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2022-03-14 20:28:27" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>meaning unsure; possibly: = something that exerts control over people and keeps them from doing everything they would want to do</DefinitionShort>
+              <Glosses>
+                <Gloss>restraint</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>02302301000018{N:001}</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+    <BaseForm Id="003836002000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>nsm</PartOfSpeech>
+      </PartsOfSpeech>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="003836002001000" IsBiblicalTerm="Y" EntryCode="" Indent="0">
+          <LEXDomains>
+            <LEXDomain Code="001005001005">Ports</LEXDomain>
+          </LEXDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2016-11-28 12:41:29" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>meaning unsure; possibly: = a sheltered place where ships moor or a place where ships are built or repaired</DefinitionShort>
+              <Glosses>
+                <Gloss>harbor</Gloss>
+                <Gloss>shipyard</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>02302301000018{N:001}</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

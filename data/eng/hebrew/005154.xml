@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="005154000000000" Lemma="סִפְרָה" Version="3" HasAramaic="false" InLXX="false" AlphaPos="ס">
+  <StrongCodes>
+    <Strong>H5612b</Strong>
+  </StrongCodes>
+  <Authors>
+    <Author>Reinier de Blois</Author>
+  </Authors>
+  <Contributors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes/>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="005154001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>nsf</PartOfSpeech>
+      </PartsOfSpeech>
+      <RelatedLemmas>
+        <RelatedLemma>
+          <Word>ספר</Word>
+        </RelatedLemma>
+      </RelatedLemmas>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="005154001001000" IsBiblicalTerm="M" EntryCode="" Indent="0">
+          <LEXDomains>
+            <LEXDomain Code="001004001014">Scrolls</LEXDomain>
+          </LEXDomains>
+          <LEXSynonyms>
+            <LEXSynonym>לוּחַ</LEXSynonym>
+          </LEXSynonyms>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2017-11-29 14:12:23" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>= written document; made of papyrus or parchment; either as a single sheet or several sheets sewn together and rolled for storage</DefinitionShort>
+              <Glosses>
+                <Gloss>scroll</Gloss>
+                <Gloss>book</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>01905600900022</LEXReference>
+          </LEXReferences>
+          <LEXLinks>
+            <LEXLink>Realia:1.7.1</LEXLink>
+          </LEXLinks>
+          <LEXVideos/>
+          <LEXCoreDomains>
+            <LEXCoreDomain Code="041">Communication</LEXCoreDomain>
+            <LEXCoreDomain Code="191">Writing</LEXCoreDomain>
+          </LEXCoreDomains>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

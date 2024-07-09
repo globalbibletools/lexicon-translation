@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="000500000000000" Lemma="אֲמָנָה" Version="5" HasAramaic="false" InLXX="false" AlphaPos="א">
+  <StrongCodes>
+    <Strong>H0548</Strong>
+    <Strong>H0549</Strong>
+  </StrongCodes>
+  <Authors>
+    <Author>Reinier de Blois</Author>
+  </Authors>
+  <Contributors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes>
+    <Note Caller="1" LanguageCode="en" LastEdited="" LastEditedBy="">
+      <References>
+        <Reference>01200501200010</Reference>
+      </References>
+      <Content>{A:MT-Q} {A:NJPS} | {A:MT-K} {A:RSV} {A:NJB} {A:NIV} {A:NRSV} {A:REB} {A:GNT} {A:CEV} {L:אֲבָנָה&lt;SDBH:אֲבָנָה&gt;}</Content>
+    </Note>
+  </Notes>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="000500001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>nsf</PartOfSpeech>
+      </PartsOfSpeech>
+      <RelatedLemmas>
+        <RelatedLemma>
+          <Word>אמן</Word>
+        </RelatedLemma>
+      </RelatedLemmas>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="000500001001000" IsBiblicalTerm="Y" EntryCode="" Indent="0">
+          <LEXDomains>
+            <LEXDomain Code="002003002003">Associate</LEXDomain>
+          </LEXDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2016-02-18 16:04:22" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>= arrangement depending upon mutual agreement</DefinitionShort>
+              <Glosses>
+                <Gloss>agreement</Gloss>
+                <Gloss>contract</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>01601000100014</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+          <LEXCoreDomains>
+            <LEXCoreDomain Code="142">Relationship</LEXCoreDomain>
+            <LEXCoreDomain Code="046">Covenant</LEXCoreDomain>
+          </LEXCoreDomains>
+        </LEXMeaning>
+        <LEXMeaning Id="000500001002000" IsBiblicalTerm="Y" EntryCode="" Indent="0">
+          <LEXDomains>
+            <LEXDomain Code="002003003015">Laws</LEXDomain>
+          </LEXDomains>
+          <LEXSynonyms>
+            <LEXSynonym>מִצְוָה</LEXSynonym>
+          </LEXSynonyms>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2016-02-18 16:04:22" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>= directive made by someone in authority</DefinitionShort>
+              <Glosses>
+                <Gloss>stipulation</Gloss>
+                <Gloss>regulation</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>01601102300014</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+          <LEXCoreDomains>
+            <LEXCoreDomain Code="015">Authority</LEXCoreDomain>
+          </LEXCoreDomains>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+    <BaseForm Id="000500002000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>np</PartOfSpeech>
+      </PartsOfSpeech>
+      <RelatedLemmas>
+        <RelatedLemma>
+          <Word>אמן</Word>
+        </RelatedLemma>
+      </RelatedLemmas>
+      <MeaningsOfName>
+        <MeaningOfName LanguageCode="en">
+          <Meaning>support</Meaning>
+        </MeaningOfName>
+        <MeaningOfName LanguageCode="pt">
+          <Meaning>Confiável</Meaning>
+        </MeaningOfName>
+      </MeaningsOfName>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="000500002001000" IsBiblicalTerm="Y" EntryCode="" Indent="0">
+          <LEXDomains>
+            <LEXDomain Code="003001015">Names of Waterbodies</LEXDomain>
+          </LEXDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2016-02-18 16:04:22" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>= river; ◄ located in {L:Syria&lt;SDBH:אֲרָם&gt;}</DefinitionShort>
+              <Glosses>
+                <Gloss>Amanah</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>01200501200010{N:001}</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+        <LEXMeaning Id="000500002002000" IsBiblicalTerm="Y" EntryCode="" Indent="0">
+          <LEXDomains>
+            <LEXDomain Code="003001008">Names of Landforms</LEXDomain>
+          </LEXDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2016-02-18 16:04:22" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>= mountain; ◄ located in {L:Lebanon&lt;SDBH:לְבָנֹון&gt;}</DefinitionShort>
+              <Glosses>
+                <Gloss>Amanah</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>02200400800024</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="002146000000000" Lemma="εὐνουχίζω" Version="0" HasAramaic="false" InLXX="false" AlphaPos="ε">
+  <StrongCodes>
+    <Strong>G2134</Strong>
+  </StrongCodes>
+  <Authors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes/>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="002146001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>verb</PartOfSpeech>
+      </PartsOfSpeech>
+      <Constructs>
+        <Construct Lemma="εὐνουχίζω" BaseFormIndex="1">
+          <WordMeaningSet>
+            <Word>εὐνή</Word>
+            <Meaning LanguageCode="en">
+              <Meaning>bed</Meaning>
+            </Meaning>
+            <Meaning LanguageCode="zhT">
+              <Meaning>床</Meaning>
+            </Meaning>
+          </WordMeaningSet>
+          <WordMeaningSet>
+            <Word>ἔχω</Word>
+          </WordMeaningSet>
+        </Construct>
+      </Constructs>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="002146001001000" IsBiblicalTerm="Y" EntryCode="9.26" Indent="0">
+          <LEXDomains>
+            <LEXDomain>People</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Males</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-07-09 17:46:20" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>(derivative of {L:εὐνοῦχος&lt;SDBG:εὐνοῦχος:000000&gt;}[a] ‘eunuch,’ {D:9.25}) to cause a person to be a eunuch</DefinitionShort>
+              <Glosses>
+                <Gloss>to make a eunuch</Gloss>
+                <Gloss>to castrate</Gloss>
+              </Glosses>
+              <Comments>Sometimes one may render εὐνουχίζω as ‘to cause a person not to be able to have marital relations.’|In a number of languages the castration of a man is referred to by a term very different from what is employed in the case of the castration of an animal.</Comments>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04001901200028</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+        <LEXMeaning Id="002146001002000" IsBiblicalTerm="Y" EntryCode="9.27" Indent="0">
+          <LEXDomains>
+            <LEXDomain>People</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Males</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-07-09 17:46:20" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>(used with a reflexive pronoun) to live without engaging in sexual relations</DefinitionShort>
+              <Glosses>
+                <Gloss>to be celibate</Gloss>
+                <Gloss>to live without marrying</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04001901200044</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

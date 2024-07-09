@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="001952000000000" Lemma="זְוָעָה" Version="5" HasAramaic="false" InLXX="false" AlphaPos="ז">
+  <StrongCodes>
+    <Strong>H2113</Strong>
+  </StrongCodes>
+  <Authors>
+    <Author>Enio R. Mueller</Author>
+  </Authors>
+  <Contributors/>
+  <AlternateLemmas>
+    <AlternateLemma>זַעֲוָה</AlternateLemma>
+  </AlternateLemmas>
+  <MainLinks/>
+  <Notes>
+    <Note Caller="1" LanguageCode="en" LastEdited="" LastEditedBy="">
+      <References>
+        <Reference>01402900800024</Reference>
+        <Reference>02401500400008</Reference>
+        <Reference>02402400900008</Reference>
+        <Reference>02402901800034</Reference>
+        <Reference>02403401700078</Reference>
+      </References>
+      <Content>MT-K לזועה | MT-Q לְזַעֲוָה</Content>
+    </Note>
+  </Notes>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="001952001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>nsf</PartOfSpeech>
+      </PartsOfSpeech>
+      <RelatedLemmas>
+        <RelatedLemma>
+          <Word>זוע</Word>
+        </RelatedLemma>
+      </RelatedLemmas>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="001952001001000" IsBiblicalTerm="Y" EntryCode="" Indent="0">
+          <LEXDomains>
+            <LEXDomain Code="002001001064">Unsteady</LEXDomain>
+            <LEXDomain Code="002001002001">Afraid</LEXDomain>
+          </LEXDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2017-03-02 14:23:06" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>= causative process by which an event causes people to shake with fear</DefinitionShort>
+              <Glosses>
+                <Gloss>horror</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>00502802500044</LEXReference>
+            <LEXReference>01402900800024{N:001}</LEXReference>
+            <LEXReference>01402900800028</LEXReference>
+            <LEXReference>02302801900048</LEXReference>
+            <LEXReference>02401500400008{N:001}</LEXReference>
+            <LEXReference>02401500400012</LEXReference>
+            <LEXReference>02402400900008{N:001}</LEXReference>
+            <LEXReference>02402400900012</LEXReference>
+            <LEXReference>02402901800034{N:001}</LEXReference>
+            <LEXReference>02402901800038</LEXReference>
+            <LEXReference>02403401700078{N:001}</LEXReference>
+            <LEXReference>02403401700082</LEXReference>
+            <LEXReference>02602304600026</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+          <LEXCoreDomains>
+            <LEXCoreDomain Code="019">Body</LEXCoreDomain>
+            <LEXCoreDomain Code="043">Confidence and Fear</LEXCoreDomain>
+          </LEXCoreDomains>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

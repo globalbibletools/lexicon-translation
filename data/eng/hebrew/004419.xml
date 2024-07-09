@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="004419000000000" Lemma="מַרְעִית" Version="4" HasAramaic="false" InLXX="false" AlphaPos="מ">
+  <StrongCodes>
+    <Strong>H4830</Strong>
+  </StrongCodes>
+  <Authors>
+    <Author>Reinier de Blois</Author>
+  </Authors>
+  <Contributors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes/>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="004419001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>nsf</PartOfSpeech>
+      </PartsOfSpeech>
+      <RelatedLemmas>
+        <RelatedLemma>
+          <Word>רעה</Word>
+        </RelatedLemma>
+      </RelatedLemmas>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="004419001001000" IsBiblicalTerm="M" EntryCode="" Indent="0">
+          <LEXDomains>
+            <LEXDomain Code="001005002002003">Landscapes</LEXDomain>
+          </LEXDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2016-07-13 14:53:10" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>= open land with enough grass and plants to graze cattle or flocks of sheep and goats</DefinitionShort>
+              <Glosses>
+                <Gloss>pasture land</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>02304900900038</LEXReference>
+            <LEXReference>02402503600028</LEXReference>
+          </LEXReferences>
+          <LEXLinks>
+            <LEXLink>Flora:5.1.2</LEXLink>
+          </LEXLinks>
+          <LEXVideos/>
+          <LEXCoreDomains>
+            <LEXCoreDomain Code="097">Land</LEXCoreDomain>
+            <LEXCoreDomain Code="125">Plant</LEXCoreDomain>
+            <LEXCoreDomain Code="115">Nature</LEXCoreDomain>
+            <LEXCoreDomain Code="157">Shepherding</LEXCoreDomain>
+          </LEXCoreDomains>
+        </LEXMeaning>
+        <LEXMeaning Id="004419001002000" IsBiblicalTerm="M" EntryCode="" Indent="0">
+          <LEXDomains>
+            <LEXDomain Code="001001002001002" Source="Landscapes" SourceCode="001005002002003">Domestic Animals</LEXDomain>
+          </LEXDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2020-09-01 14:33:12" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>= group of small domestic animals traveling and feeding together</DefinitionShort>
+              <Glosses>
+                <Gloss>flock</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>02401002100032</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+          <LEXCoreDomains>
+            <LEXCoreDomain Code="010">Animal</LEXCoreDomain>
+            <LEXCoreDomain Code="157">Shepherding</LEXCoreDomain>
+          </LEXCoreDomains>
+        </LEXMeaning>
+        <LEXMeaning Id="004419001003000" IsBiblicalTerm="M" EntryCode="" Indent="0">
+          <LEXDomains>
+            <LEXDomain Code="002003002020" Source="Landscapes" SourceCode="001005002002003">Possess</LEXDomain>
+          </LEXDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2020-09-01 14:33:12" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>literally: (flock or people) of (someone's) pasture; = state of being owned and cared for someone else, ◄ like a shepherd owns and cares for his sheep</DefinitionShort>
+              <Glosses>
+                <Gloss>of (God's) pasture &gt; belonging to (God)</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>01907400100026</LEXReference>
+            <LEXReference>01907901300012</LEXReference>
+            <LEXReference>01909500700014</LEXReference>
+            <LEXReference>01910000300032</LEXReference>
+            <LEXReference>02402300100016</LEXReference>
+            <LEXReference>02603403100010</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+        <LEXMeaning Id="004419001004000" IsBiblicalTerm="N" EntryCode="" Indent="0">
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2022-03-03 10:28:07" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>see {L:רעה&lt;SDBH:רעה&gt;}</DefinitionShort>
+              <Glosses>
+                <Gloss>to feed</Gloss>
+                <Gloss>to pasture</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>02801300600004</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

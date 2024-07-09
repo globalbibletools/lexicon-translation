@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="001030000000000" Lemma="βραχίων" Version="0" HasAramaic="false" InLXX="true" AlphaPos="β">
+  <StrongCodes>
+    <Strong>G1023</Strong>
+  </StrongCodes>
+  <Authors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes>
+    <Note Caller="1" LanguageCode="en" LastEdited="" LastEditedBy="">
+      <References/>
+      <Content>It is possible that χείρ[c], βραχίων[a], and δάκτυλος[b] in the figurative sense of power of an individual differ somewhat in meaning one from the other, but it is impossible to determine this on the basis of existing contexts.</Content>
+    </Note>
+  </Notes>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="001030001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>noun, m.</PartOfSpeech>
+      </PartsOfSpeech>
+      <Inflections>
+        <Inflection Lemma="βραχίων" BaseFormIndex="1">
+          <Form/>
+          <Realizations>
+            <Realization>-ονος</Realization>
+          </Realizations>
+          <Comments/>
+        </Inflection>
+      </Inflections>
+      <RelatedLemmas>
+        <RelatedLemma>
+          <Word>βραχύς</Word>
+        </RelatedLemma>
+      </RelatedLemmas>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="001030001001000" IsBiblicalTerm="M" EntryCode="76.3" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Power, Force</LEXDomain>
+          </LEXDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-02-12 13:38:28" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>(a figurative extension of meaning of βραχίων ‘arm,’ not occurring in the NT) power as an expression of the activity of a person or supernatural being{N:001}</DefinitionShort>
+              <Glosses>
+                <Gloss>power</Gloss>
+              </Glosses>
+              <Comments>In some languages there is no abstract term for ‘power.’ The equivalent of doing something by the power of someone is ‘someone makes it possible to do’ or, in a figurative sense, ‘someone gives strength to do.’</Comments>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04200105100008</LEXReference>
+            <LEXReference>04301203800036</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+        <LEXMeaning Id="001030001002000" IsBiblicalTerm="M" EntryCode="76.5" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Power, Force</LEXDomain>
+          </LEXDomains>
+          <LEXCollocations>
+            <LEXCollocation>βραχίων ὑψηλός</LEXCollocation>
+          </LEXCollocations>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-02-12 13:38:28" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>(an idiom, literally: exalted arm, or: lifted up arm) great power, with the implication of an exalted quality</DefinitionShort>
+              <Glosses>
+                <Gloss>great power</Gloss>
+                <Gloss>exalted power</Gloss>
+                <Gloss>marvelous power</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04401301700046</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

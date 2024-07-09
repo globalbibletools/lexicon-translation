@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="003303000000000" Lemma="μίγμα" Version="0" HasAramaic="false" InLXX="false" AlphaPos="μ">
+  <StrongCodes>
+    <Strong>G3395</Strong>
+  </StrongCodes>
+  <Authors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes/>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="003303001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>noun, n.</PartOfSpeech>
+      </PartsOfSpeech>
+      <Inflections>
+        <Inflection Lemma="μίγμα" BaseFormIndex="1">
+          <Form/>
+          <Realizations>
+            <Realization>-τος</Realization>
+          </Realizations>
+          <Comments/>
+        </Inflection>
+      </Inflections>
+      <RelatedLemmas>
+        <RelatedLemma>
+          <Word>μίγνυμι</Word>
+        </RelatedLemma>
+      </RelatedLemmas>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="003303001001000" IsBiblicalTerm="Y" EntryCode="63.11" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Whole, Unite, Part, Divide</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Mix</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-12-08 14:47:26" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>(derivative of {L:μίγνυμι&lt;SDBG:μίγνυμι:000000&gt;} ‘to mix, to mingle,’ {D:63.10}) that which has been mixed</DefinitionShort>
+              <Glosses>
+                <Gloss>mixture</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04301903900026</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

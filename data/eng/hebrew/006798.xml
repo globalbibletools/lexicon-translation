@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="006798000000000" Lemma="רַכָּב" Version="5" HasAramaic="false" InLXX="false" AlphaPos="ר">
+  <StrongCodes>
+    <Strong>H7395</Strong>
+  </StrongCodes>
+  <Authors>
+    <Author>Reinier de Blois</Author>
+  </Authors>
+  <Contributors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes/>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="006798001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>nsm</PartOfSpeech>
+      </PartsOfSpeech>
+      <RelatedLemmas>
+        <RelatedLemma>
+          <Word>רכב</Word>
+        </RelatedLemma>
+      </RelatedLemmas>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="006798001001000" IsBiblicalTerm="Y" EntryCode="" Indent="0">
+          <LEXDomains>
+            <LEXDomain Code="001001002003009" Source="Vehicles" SourceCode="001004001019">Professions</LEXDomain>
+          </LEXDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2015-12-22 14:21:54" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>= person riding on a {L:horse&lt;SDBH:סוּס&gt;} or driving a {L:chariot&lt;SDBH:מֶרְכָּבָה&gt;}</DefinitionShort>
+              <Glosses>
+                <Gloss>charioteer</Gloss>
+                <Gloss>horseman</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>01102203400048</LEXReference>
+            <LEXReference>01200901700052</LEXReference>
+            <LEXReference>01401803300050</LEXReference>
+          </LEXReferences>
+          <LEXLinks>
+            <LEXLink>Realia:2.15</LEXLink>
+          </LEXLinks>
+          <LEXVideos/>
+          <LEXCoreDomains>
+            <LEXCoreDomain Code="200">Work</LEXCoreDomain>
+            <LEXCoreDomain Code="187">Vehicle</LEXCoreDomain>
+            <LEXCoreDomain Code="092">Journey</LEXCoreDomain>
+          </LEXCoreDomains>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

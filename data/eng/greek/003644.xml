@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="003644000000000" Lemma="ὀρφανός" Version="0" HasAramaic="false" InLXX="true" AlphaPos="ο">
+  <StrongCodes>
+    <Strong>G3737</Strong>
+  </StrongCodes>
+  <Authors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes/>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="003644001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>adjc.</PartOfSpeech>
+      </PartsOfSpeech>
+      <Inflections>
+        <Inflection Lemma="ὀρφανός" BaseFormIndex="1">
+          <Form/>
+          <Realizations>
+            <Realization>-ή, -όν</Realization>
+          </Realizations>
+          <Comments/>
+        </Inflection>
+      </Inflections>
+      <RelatedLemmas>
+        <RelatedLemma>
+          <Word>ἀπορφανίζω</Word>
+        </RelatedLemma>
+      </RelatedLemmas>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="003644001001000" IsBiblicalTerm="M" EntryCode="10.40" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Kinship Terms</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Kinship Relations Involving Successive Generations</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2022-01-21 20:28:03" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>an offspring whose parents either are no longer alive or no longer function as parents (as the result of having abandoned their offspring)</DefinitionShort>
+              <Glosses>
+                <Gloss>orphan</Gloss>
+              </Glosses>
+              <Comments>Some languages make a distinction in terms for ‘orphan’ by indicating whether the child has been abandoned or whether one or both of the parents are dead. In languages where some indication of relative age must be introduced in speaking of ‘orphans,’ it is preferable in {S:05900102700026} to use a term which pertains to young children.</Comments>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>05900102700026</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+        <LEXMeaning Id="003644001002000" IsBiblicalTerm="M" EntryCode="34.21" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Association</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Associate</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2022-01-21 20:28:03" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>(a figurative extension of meaning of {L:ὀρφανός&lt;SDBG:ὀρφανός:000000&gt;}[a] ‘orphan,’ {D:10.40}) one who is without associates who may be of sustaining help</DefinitionShort>
+              <Glosses>
+                <Gloss>friendless person</Gloss>
+                <Gloss>helpless</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04301401800008</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

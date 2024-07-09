@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="006123000000000" Lemma="צדה" Version="5" HasAramaic="false" InLXX="false" AlphaPos="צ">
+  <StrongCodes>
+    <Strong>H6658</Strong>
+  </StrongCodes>
+  <Authors>
+    <Author>Graham S. Ogden</Author>
+  </Authors>
+  <Contributors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes/>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="006123001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>vb</PartOfSpeech>
+      </PartsOfSpeech>
+      <RelatedLemmas>
+        <RelatedLemma>
+          <Word>צְדִיָּה</Word>
+        </RelatedLemma>
+      </RelatedLemmas>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="006123001001000" IsBiblicalTerm="Y" EntryCode="" Indent="0">
+          <LEXDomains>
+            <LEXDomain Code="002002001009">Hide</LEXDomain>
+          </LEXDomains>
+          <LEXForms>
+            <LEXForm>vbqal-</LEXForm>
+          </LEXForms>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2008-06-05 12:30:54" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>= action by which humans keep themselves hidden somewhere ► in order to attack other humans</DefinitionShort>
+              <Glosses>
+                <Gloss>to lie in wait</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>00202101300008</LEXReference>
+            <LEXReference>00902401200072</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+          <LEXCoreDomains>
+            <LEXCoreDomain Code="078">Hiding and Searching</LEXCoreDomain>
+            <LEXCoreDomain Code="006">Aggression</LEXCoreDomain>
+          </LEXCoreDomains>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+    <BaseForm Id="006123002000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>vb</PartOfSpeech>
+      </PartsOfSpeech>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="006123002001000" IsBiblicalTerm="Y" EntryCode="" Indent="0">
+          <LEXDomains>
+            <LEXDomain Code="002002002006">Non-Exist</LEXDomain>
+          </LEXDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2008-06-05 12:30:54" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>= causative action by which towns are removed from existence</DefinitionShort>
+              <Glosses>
+                <Gloss>to destroy</Gloss>
+                <Gloss>to lay waste</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>03600300600020</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+          <LEXCoreDomains>
+            <LEXCoreDomain Code="052">Destruction</LEXCoreDomain>
+          </LEXCoreDomains>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="005221000000000" Lemma="עבת" Version="3" HasAramaic="false" InLXX="false" AlphaPos="ע">
+  <StrongCodes>
+    <Strong>H5686</Strong>
+  </StrongCodes>
+  <Authors/>
+  <Contributors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes>
+    <Note Caller="1" LanguageCode="en" LastEdited="" LastEditedBy="">
+      <References>
+        <Reference>03300700300048</Reference>
+      </References>
+      <Content>RSV ESV "weave it together" NIV "conspire together" GNT "scheme together" | NJPS "they grant it" | NRSV "they pervert justice"</Content>
+    </Note>
+  </Notes>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="005221001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>vb</PartOfSpeech>
+      </PartsOfSpeech>
+      <RelatedLemmas>
+        <RelatedLemma>
+          <Word>עָבֹות</Word>
+        </RelatedLemma>
+        <RelatedLemma>
+          <Word>עֲבֹת</Word>
+        </RelatedLemma>
+      </RelatedLemmas>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="005221001001000" IsBiblicalTerm="Y" EntryCode="" Indent="0">
+          <LEXDomains>
+            <LEXDomain Code="002004002014" Source="Attach" SourceCode="002003001001">Think</LEXDomain>
+          </LEXDomains>
+          <LEXForms>
+            <LEXForm>vbpiel</LEXForm>
+          </LEXForms>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2020-11-05 11:30:31" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>exact meaning unsure; literally: to weave; possibly: = action by which humans create an elaborate scheme by integrating different components into a single master plan</DefinitionShort>
+              <Glosses>
+                <Gloss>to weave together (a scheme)</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>03300700300048{N:001}</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

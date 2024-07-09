@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="003516000000000" Lemma="οἴκημα" Version="0" HasAramaic="false" InLXX="true" AlphaPos="ο">
+  <StrongCodes>
+    <Strong>G3612</Strong>
+  </StrongCodes>
+  <Authors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes/>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="003516001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>noun, n.</PartOfSpeech>
+      </PartsOfSpeech>
+      <Inflections>
+        <Inflection Lemma="οἴκημα" BaseFormIndex="1">
+          <Form/>
+          <Realizations>
+            <Realization>-τος</Realization>
+          </Realizations>
+          <Comments/>
+        </Inflection>
+      </Inflections>
+      <RelatedLemmas>
+        <RelatedLemma>
+          <Word>οἰκέω</Word>
+        </RelatedLemma>
+      </RelatedLemmas>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="003516001001000" IsBiblicalTerm="Y" EntryCode="7.26" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Constructions</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Parts and Areas of Buildings</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-12-11 15:00:59" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>a room or quarters where one may stay (normally a part of a house)</DefinitionShort>
+              <Glosses>
+                <Gloss>room</Gloss>
+                <Gloss>quarters</Gloss>
+              </Glosses>
+              <Comments>In {S:04401200700022} οἴκημα is used to refer to a prison cell, and in this context it is best translated as ‘room’ or ‘room in the prison.’</Comments>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04401200700022</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

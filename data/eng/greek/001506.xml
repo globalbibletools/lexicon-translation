@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="001506000000000" Lemma="ἐθνάρχης" Version="0" HasAramaic="false" InLXX="true" AlphaPos="ε">
+  <StrongCodes>
+    <Strong>G1481</Strong>
+  </StrongCodes>
+  <Authors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes/>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="001506001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>noun, m.</PartOfSpeech>
+      </PartsOfSpeech>
+      <Inflections>
+        <Inflection Lemma="ἐθνάρχης" BaseFormIndex="1">
+          <Form/>
+          <Realizations>
+            <Realization>-ου</Realization>
+          </Realizations>
+          <Comments/>
+        </Inflection>
+      </Inflections>
+      <Constructs>
+        <Construct Lemma="ἐθνάρχης" BaseFormIndex="1">
+          <WordMeaningSet>
+            <Word>ἔθνος</Word>
+          </WordMeaningSet>
+          <WordMeaningSet>
+            <Word>ἄρχω</Word>
+          </WordMeaningSet>
+        </Construct>
+      </Constructs>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="001506001001000" IsBiblicalTerm="M" EntryCode="37.80" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Control, Rule</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Rule, Govern</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-10-26 20:50:24" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>a person appointed to rule over a particular area or constituency on behalf of a king</DefinitionShort>
+              <Glosses>
+                <Gloss>ethnarch</Gloss>
+                <Gloss>official</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04701103200008</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

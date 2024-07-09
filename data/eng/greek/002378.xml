@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="002378000000000" Lemma="θυμομαχέω" Version="0" HasAramaic="false" InLXX="false" AlphaPos="θ">
+  <StrongCodes>
+    <Strong>G2371</Strong>
+  </StrongCodes>
+  <Authors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes/>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="002378001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>verb</PartOfSpeech>
+      </PartsOfSpeech>
+      <Constructs>
+        <Construct Lemma="θυμομαχέω" BaseFormIndex="1">
+          <WordMeaningSet>
+            <Word>θυμόομαι</Word>
+          </WordMeaningSet>
+          <WordMeaningSet>
+            <Word>μάχομαι</Word>
+          </WordMeaningSet>
+        </Construct>
+      </Constructs>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="002378001001000" IsBiblicalTerm="Y" EntryCode="88.180" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Moral and Ethical Qualities and Related Behavior</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Anger, Be Indignant With</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-08-20 17:28:23" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>to be extremely angry, with the implication of violence</DefinitionShort>
+              <Glosses>
+                <Gloss>to be violently angry</Gloss>
+                <Gloss>to be furious</Gloss>
+              </Glosses>
+              <Comments>For another interpretation of θυμομαχέω in {S:04401202000006}, see {D:33.453}.</Comments>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04401202000006</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+        <LEXMeaning Id="002378001002000" IsBiblicalTerm="Y" EntryCode="33.453" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Communication</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Argue, Quarrel</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-08-20 17:28:23" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>to engage in an angry quarrel with someone</DefinitionShort>
+              <Glosses>
+                <Gloss>to be angry and quarrel</Gloss>
+                <Gloss>to quarrel angrily</Gloss>
+              </Glosses>
+              <Comments>For another interpretation of {L:θυμομαχέω&lt;SDBG:θυμομαχέω:000000&gt;} in {S:04401202000006}, see {D:88.180}.</Comments>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04401202000006</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="002115000000000" Lemma="εὐγενής" Version="0" HasAramaic="false" InLXX="true" AlphaPos="ε">
+  <StrongCodes>
+    <Strong>G2104</Strong>
+  </StrongCodes>
+  <Authors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes/>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="002115001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>adjc.</PartOfSpeech>
+      </PartsOfSpeech>
+      <Inflections>
+        <Inflection Lemma="εὐγενής" BaseFormIndex="1">
+          <Form/>
+          <Realizations>
+            <Realization>-ές</Realization>
+          </Realizations>
+          <Comments/>
+        </Inflection>
+      </Inflections>
+      <RelatedLemmas>
+        <RelatedLemma>
+          <Word>γίνομαι</Word>
+        </RelatedLemma>
+      </RelatedLemmas>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="002115001001000" IsBiblicalTerm="Y" EntryCode="87.27" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Status</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>High Status or Rank [including persons of high status]</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-07-08 09:49:54" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>pertaining to having high status, with the possible implication of special family relations contributing to such status</DefinitionShort>
+              <Glosses>
+                <Gloss>high status</Gloss>
+                <Gloss>important</Gloss>
+              </Glosses>
+              <Comments>In {S:04600102600036}, it is somewhat unlikely, though not impossible, that hereditary status is involved.</Comments>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04201901200010</LEXReference>
+            <LEXReference>04600102600036</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+        <LEXMeaning Id="002115001002000" IsBiblicalTerm="M" EntryCode="27.48" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Learn</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Be Willing To Learn</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-07-08 09:49:54" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>a willingness to learn and evaluate something fairly</DefinitionShort>
+              <Glosses>
+                <Gloss>willingness to learn</Gloss>
+                <Gloss>to be open-minded</Gloss>
+                <Gloss>to be noble-minded</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04401701100008</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

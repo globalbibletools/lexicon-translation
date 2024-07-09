@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="005080000000000" Lemma="τυφωνικός" Version="0" HasAramaic="false" InLXX="false" AlphaPos="τ">
+  <StrongCodes>
+    <Strong>G5189</Strong>
+  </StrongCodes>
+  <Authors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes/>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="005080001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>adjc.</PartOfSpeech>
+      </PartsOfSpeech>
+      <Inflections>
+        <Inflection Lemma="τυφωνικός" BaseFormIndex="1">
+          <Form/>
+          <Realizations>
+            <Realization>-ή</Realization>
+            <Realization>-όν</Realization>
+          </Realizations>
+          <Comments/>
+        </Inflection>
+      </Inflections>
+      <RelatedLemmas>
+        <RelatedLemma>
+          <Word>Τυφῶν</Word>
+        </RelatedLemma>
+      </RelatedLemmas>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="005080001001000" IsBiblicalTerm="Y" EntryCode="14.7" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Physical Events and States</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Wind</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2022-04-14 09:07:50" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>(derivative of τυφῶν ‘Typhon,’ the legendary father of the winds, not occurring in the NT) pertaining to a very strong wind</DefinitionShort>
+              <Glosses>
+                <Gloss>of a violent</Gloss>
+                <Gloss>strong wind</Gloss>
+              </Glosses>
+              <Comments>Expressions for strong winds often differ on the basis of two important features: (1) the strength or violence of the wind and (2) the duration of the wind. For example, in English terms such as squall and tornado indicate violent but short periods of blowing, while hurricane or typhoon indicates a storm which takes a much longer period of time to pass. In {S:04402701400018} the reference is obviously to the latter type of storm, called typhoon, hurricane, or monsoon, depending upon the region in which such violent and protracted storms occur.</Comments>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04402701400018</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

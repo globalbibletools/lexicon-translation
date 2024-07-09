@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="000889000000000" Lemma="בזא" Version="5" HasAramaic="false" InLXX="false" AlphaPos="ב">
+  <StrongCodes>
+    <Strong>H0958</Strong>
+  </StrongCodes>
+  <Authors>
+    <Author>Enio R. Mueller</Author>
+  </Authors>
+  <Contributors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes>
+    <Note Caller="1" LanguageCode="en" LastEdited="" LastEditedBy="">
+      <References>
+        <Reference>02301800200070</Reference>
+        <Reference>02301800700058</Reference>
+      </References>
+      <Content>Most modern versions = [1] | HALOT DCH Watts = [2]</Content>
+    </Note>
+  </Notes>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="000889001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>vb</PartOfSpeech>
+      </PartsOfSpeech>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="000889001001000" IsBiblicalTerm="Y" EntryCode="" Indent="0">
+          <LEXDomains>
+            <LEXDomain Code="002003001006">Divide</LEXDomain>
+          </LEXDomains>
+          <LEXForms>
+            <LEXForm>vbqal-</LEXForm>
+          </LEXForms>
+          <LEXCollocations>
+            <LEXCollocation>בָּזְאוּ נְהָרִים ארץ</LEXCollocation>
+          </LEXCollocations>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2016-02-17 14:45:16" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>exact meaning unsure; probably: = to keep apart or be a boundary between</DefinitionShort>
+              <Glosses>
+                <Gloss>divide</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>02301800200070{N:001}</LEXReference>
+            <LEXReference>02301800700058{N:001}</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+          <LEXCoreDomains>
+            <LEXCoreDomain Code="038">Completeness</LEXCoreDomain>
+          </LEXCoreDomains>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+    <BaseForm Id="000889002000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>vb</PartOfSpeech>
+      </PartsOfSpeech>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="000889002001000" IsBiblicalTerm="Y" EntryCode="" Indent="0">
+          <LEXDomains>
+            <LEXDomain Code="002002001011">Move</LEXDomain>
+          </LEXDomains>
+          <LEXForms>
+            <LEXForm>vbqal-</LEXForm>
+          </LEXForms>
+          <LEXCollocations>
+            <LEXCollocation>בָּזְאוּ נְהָרִים ארץ</LEXCollocation>
+          </LEXCollocations>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2016-02-17 14:45:16" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>exact meaning unsure; possibly: = the process and result of the overflowing of a river on the land at its margins</DefinitionShort>
+              <Glosses>
+                <Gloss>to wash away</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>02301800200070{N:001}</LEXReference>
+            <LEXReference>02301800700058{N:001}</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+          <LEXCoreDomains>
+            <LEXCoreDomain Code="110">Motion</LEXCoreDomain>
+            <LEXCoreDomain Code="115">Nature</LEXCoreDomain>
+            <LEXCoreDomain Code="189">Water</LEXCoreDomain>
+          </LEXCoreDomains>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

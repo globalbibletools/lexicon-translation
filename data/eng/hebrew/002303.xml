@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="002303000000000" Lemma="חַלָּמוּת" Version="5" HasAramaic="false" InLXX="false" AlphaPos="ח">
+  <StrongCodes>
+    <Strong>H2495</Strong>
+  </StrongCodes>
+  <Authors>
+    <Author>Reinier de Blois</Author>
+  </Authors>
+  <Contributors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes>
+    <Note Caller="1" LanguageCode="en" LastEdited="" LastEditedBy="">
+      <References>
+        <Reference>01800600600024</Reference>
+      </References>
+      <Content>{A:RSV} [1] "(slime of) purslane | {A:NJPS} {A:NRSV} {A:REB} [1] "(juice of) mallows | {A:NIV} {A:NJB} {A:GNT} {A:CEV} [2] "(white of an) egg</Content>
+    </Note>
+  </Notes>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="002303001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>nsf</PartOfSpeech>
+      </PartsOfSpeech>
+      <RelatedLemmas>
+        <RelatedLemma>
+          <Word>חלם</Word>
+        </RelatedLemma>
+      </RelatedLemmas>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="002303001001000" IsBiblicalTerm="Y" EntryCode="" Indent="0">
+          <LEXDomains>
+            <LEXDomain Code="001003001">Plants</LEXDomain>
+          </LEXDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2015-12-17 09:15:16" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>= either: purslane, a plant with a thick slimy juice, or: mallow, a bushy shrub with oval leaves, of which the buds and the young leaves are edible; ◄ |iSuaeda asphaltica |i*or |iAtriplex halimus|i*; ► may serve as food; ≈ regarded as not very tasty</DefinitionShort>
+              <Glosses>
+                <Gloss>juice of purslane / mallows</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>01800600600024{N:001}</LEXReference>
+          </LEXReferences>
+          <LEXLinks>
+            <LEXLink>Flora:3.5.6</LEXLink>
+          </LEXLinks>
+          <LEXVideos/>
+          <LEXCoreDomains>
+            <LEXCoreDomain Code="125">Plant</LEXCoreDomain>
+          </LEXCoreDomains>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+    <BaseForm Id="002303002000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>nsf</PartOfSpeech>
+      </PartsOfSpeech>
+      <RelatedLemmas>
+        <RelatedLemma>
+          <Word>חלם</Word>
+        </RelatedLemma>
+      </RelatedLemmas>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="002303002001000" IsBiblicalTerm="Y" EntryCode="" Indent="0">
+          <LEXDomains>
+            <LEXDomain Code="001004003">Food</LEXDomain>
+          </LEXDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2015-12-17 09:15:16" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>= the yellow internal part of a bird’s egg, which is rich in protein and fat</DefinitionShort>
+              <Glosses>
+                <Gloss>egg-yolk</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>01800600600024{N:001}</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+          <LEXCoreDomains>
+            <LEXCoreDomain Code="010">Animal</LEXCoreDomain>
+          </LEXCoreDomains>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

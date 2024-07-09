@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="002357000000000" Lemma="θόρυβος" Version="0" HasAramaic="false" InLXX="true" AlphaPos="θ">
+  <StrongCodes>
+    <Strong>G2351</Strong>
+  </StrongCodes>
+  <Authors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes/>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="002357001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>noun, m.</PartOfSpeech>
+      </PartsOfSpeech>
+      <Inflections>
+        <Inflection Lemma="θόρυβος" BaseFormIndex="1">
+          <Form/>
+          <Realizations>
+            <Realization>-ου</Realization>
+          </Realizations>
+          <Comments/>
+        </Inflection>
+      </Inflections>
+      <RelatedLemmas>
+        <RelatedLemma>
+          <Word>θορυβάζω</Word>
+        </RelatedLemma>
+      </RelatedLemmas>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="002357001001000" IsBiblicalTerm="Y" EntryCode="14.79" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Physical Events and States</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Sound</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-08-19 09:49:30" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>noise or clamor marked by confusion</DefinitionShort>
+              <Glosses>
+                <Gloss>clamor</Gloss>
+                <Gloss>noise</Gloss>
+              </Glosses>
+              <Comments>In some languages it may be legitimate to translate θόρυβος in {S:04402103400036} as ‘so much noise from so many people shouting’ or ‘because so many people were shouting different things.’</Comments>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04100503800020</LEXReference>
+            <LEXReference>04402000100012</LEXReference>
+            <LEXReference>04402103400036</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+        <LEXMeaning Id="002357001002000" IsBiblicalTerm="Y" EntryCode="39.42" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Hostility, Strife</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Riot</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-08-19 09:49:30" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>disorderly behavior of people in violent opposition to authority</DefinitionShort>
+              <Glosses>
+                <Gloss>riot</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04002600500018</LEXReference>
+            <LEXReference>04002702400020</LEXReference>
+            <LEXReference>04101400200018</LEXReference>
+            <LEXReference>04402401800028</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

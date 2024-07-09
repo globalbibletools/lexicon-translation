@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="000802000000000" Lemma="ἀσφαλίζω" Version="0" HasAramaic="false" InLXX="false" AlphaPos="α">
+  <StrongCodes>
+    <Strong>G0805</Strong>
+  </StrongCodes>
+  <Authors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes/>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="000802001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>verb</PartOfSpeech>
+      </PartsOfSpeech>
+      <RelatedLemmas>
+        <RelatedLemma>
+          <Word>σφάλλω</Word>
+          <Meaning LanguageCode="en">
+            <Meaning>cause to fall</Meaning>
+          </Meaning>
+          <Meaning LanguageCode="zhT">
+            <Meaning>使……跌倒</Meaning>
+          </Meaning>
+        </RelatedLemma>
+        <RelatedLemma>
+          <Word>ἀσφάλεια</Word>
+        </RelatedLemma>
+        <RelatedLemma>
+          <Word>ἀσφαλής</Word>
+        </RelatedLemma>
+        <RelatedLemma>
+          <Word>ἀσφαλῶς</Word>
+        </RelatedLemma>
+      </RelatedLemmas>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="000802001001000" IsBiblicalTerm="Y" EntryCode="21.11" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Danger, Risk, Safe, Save</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Safe, Free from Danger</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2022-10-20 15:30:49" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>to cause something to be secure in the sense of something which could not be tampered with or opened</DefinitionShort>
+              <Glosses>
+                <Gloss>to make secure</Gloss>
+                <Gloss>to be guarded</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04002706400006</LEXReference>
+            <LEXReference>04002706500016</LEXReference>
+            <LEXReference>04002706600008</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+        <LEXMeaning Id="000802001002000" IsBiblicalTerm="Y" EntryCode="18.12" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Attachment</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Fasten, Stick To</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2022-10-20 15:30:49" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>to fasten something securely</DefinitionShort>
+              <Glosses>
+                <Gloss>to fasten</Gloss>
+                <Gloss>to tie</Gloss>
+              </Glosses>
+              <Comments>It is possible that in {S:04401602400028} τὸ ξύλον designates ‘stocks,’ namely, two pieces of wood through which the feet could be placed so as to make a prisoner immobile (see {D:6.21}).</Comments>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04401602400028</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

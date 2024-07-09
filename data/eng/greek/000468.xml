@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="000468000000000" Lemma="ἀνταποδίδωμι" Version="0" HasAramaic="false" InLXX="true" AlphaPos="α">
+  <StrongCodes>
+    <Strong>G0467</Strong>
+  </StrongCodes>
+  <Authors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes>
+    <Note Caller="1" LanguageCode="en" LastEdited="" LastEditedBy="">
+      <References/>
+      <Content>The implication of a return payment is somewhat more emphatic in ἀνταποδίδωμι[a] than in ἀποδίδωμι[a] ({D:57.153}).</Content>
+    </Note>
+  </Notes>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="000468001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>verb</PartOfSpeech>
+      </PartsOfSpeech>
+      <Inflections>
+        <Inflection Lemma="ἀνταποδίδωμι" BaseFormIndex="1">
+          <Form>fut.</Form>
+          <Realizations>
+            <Realization>ἀνταποδώσω</Realization>
+          </Realizations>
+          <Comments/>
+        </Inflection>
+        <Inflection Lemma="ἀνταποδίδωμι" BaseFormIndex="1">
+          <Form>aor.inf.</Form>
+          <Realizations>
+            <Realization>ἀνταποδοῦναι</Realization>
+          </Realizations>
+          <Comments/>
+        </Inflection>
+        <Inflection Lemma="ἀνταποδίδωμι" BaseFormIndex="1">
+          <Form>fut.pass.</Form>
+          <Realizations>
+            <Realization>ἀνταποδοθήσομαι</Realization>
+          </Realizations>
+          <Comments/>
+        </Inflection>
+      </Inflections>
+      <RelatedLemmas>
+        <RelatedLemma>
+          <Word>δίδωμι</Word>
+        </RelatedLemma>
+      </RelatedLemmas>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="000468001001000" IsBiblicalTerm="Y" EntryCode="57.154" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Possess, Transfer, Exchange</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Pay, Price, Cost</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-08-09 15:31:25" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>to pay something back to someone as the result of an incurred obligation{N:001}</DefinitionShort>
+              <Glosses>
+                <Gloss>to repay</Gloss>
+                <Gloss>to pay back</Gloss>
+                <Gloss>to give back</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04201401400014</LEXReference>
+            <LEXReference>04201401400018</LEXReference>
+            <LEXReference>04501103500012</LEXReference>
+            <LEXReference>05200300900014</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+        <LEXMeaning Id="000468001002000" IsBiblicalTerm="Y" EntryCode="38.19" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Punish, Reward</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Reward, Recompense</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-08-09 15:31:25" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>to cause someone to suffer in turn because of actions which merit such retribution</DefinitionShort>
+              <Glosses>
+                <Gloss>to pay back</Gloss>
+                <Gloss>to pay in return</Gloss>
+                <Gloss>to repay</Gloss>
+                <Gloss>to cause retribution</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04201401400014</LEXReference>
+            <LEXReference>04201401400018</LEXReference>
+            <LEXReference>04501201900030</LEXReference>
+            <LEXReference>05300100600010</LEXReference>
+            <LEXReference>05801003000016</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

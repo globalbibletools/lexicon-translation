@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="004774000000000" Lemma="συναιχμάλωτος" Version="0" HasAramaic="false" InLXX="false" AlphaPos="σ">
+  <StrongCodes>
+    <Strong>G4869</Strong>
+  </StrongCodes>
+  <Authors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes/>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="004774001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>noun, m.</PartOfSpeech>
+      </PartsOfSpeech>
+      <Inflections>
+        <Inflection Lemma="συναιχμάλωτος" BaseFormIndex="1">
+          <Form/>
+          <Realizations>
+            <Realization>-ου</Realization>
+          </Realizations>
+          <Comments/>
+        </Inflection>
+      </Inflections>
+      <Constructs>
+        <Construct Lemma="συναιχμάλωτος" BaseFormIndex="1">
+          <WordMeaningSet>
+            <Word>αἰχμή</Word>
+            <Meaning LanguageCode="en">
+              <Meaning>spear</Meaning>
+            </Meaning>
+            <Meaning LanguageCode="zhT">
+              <Meaning>矛槍</Meaning>
+            </Meaning>
+          </WordMeaningSet>
+          <WordMeaningSet>
+            <Word>ἅλωσις</Word>
+          </WordMeaningSet>
+        </Construct>
+      </Constructs>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="004774001001000" IsBiblicalTerm="Y" EntryCode="37.118" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Control, Rule</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Imprison</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2022-03-10 12:22:06" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>one who has been arrested and imprisoned along with someone else</DefinitionShort>
+              <Glosses>
+                <Gloss>fellow prisoner</Gloss>
+              </Glosses>
+              <Comments>A strictly literal rendering of συναιχμάλωτος in the sense of ‘fellow captive’ could be misleading, since it might imply that Paul himself had been a soldier or civilian captured in a war.</Comments>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04501600700018</LEXReference>
+            <LEXReference>05100401000010</LEXReference>
+            <LEXReference>05700102300010</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

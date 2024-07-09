@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="007242000000000" Lemma="שׁוט" Version="5" HasAramaic="false" InLXX="false" AlphaPos="ש">
+  <StrongCodes>
+    <Strong>H7590</Strong>
+    <Strong>H7751a</Strong>
+    <Strong>H7751b</Strong>
+  </StrongCodes>
+  <Authors>
+    <Author>Reinier de Blois</Author>
+  </Authors>
+  <Contributors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes/>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="007242001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>vb</PartOfSpeech>
+      </PartsOfSpeech>
+      <RelatedLemmas>
+        <RelatedLemma>
+          <Word>מָשֹׁוט</Word>
+        </RelatedLemma>
+        <RelatedLemma>
+          <Word>שֹׁוט</Word>
+        </RelatedLemma>
+        <RelatedLemma>
+          <Word>שֹׁטֵט</Word>
+        </RelatedLemma>
+        <RelatedLemma>
+          <Word>שַׁיִט</Word>
+        </RelatedLemma>
+      </RelatedLemmas>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="007242001001000" IsBiblicalTerm="Y" EntryCode="" Indent="0">
+          <LEXDomains>
+            <LEXDomain Code="002002001011">Move</LEXDomain>
+          </LEXDomains>
+          <LEXForms>
+            <LEXForm>vbqal-</LEXForm>
+            <LEXForm>vbpiel</LEXForm>
+            <LEXForm>vbhit-</LEXForm>
+          </LEXForms>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2008-05-05 11:13:16" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>= action by which humans move through a certain area, usually in a controlled and systematic way ► in order to look for something or obtain information about it</DefinitionShort>
+              <Glosses>
+                <Gloss>to go about</Gloss>
+                <Gloss>to rove about</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>00401100800002</LEXReference>
+            <LEXReference>01002400200024</LEXReference>
+            <LEXReference>01002400800004</LEXReference>
+            <LEXReference>01401600900008</LEXReference>
+            <LEXReference>01800100700038</LEXReference>
+            <LEXReference>01800200200040</LEXReference>
+            <LEXReference>02400500100002</LEXReference>
+            <LEXReference>02404900300026</LEXReference>
+            <LEXReference>02701200400028</LEXReference>
+            <LEXReference>03000801200026</LEXReference>
+            <LEXReference>03800401000048</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+          <LEXCoreDomains>
+            <LEXCoreDomain Code="110">Motion</LEXCoreDomain>
+          </LEXCoreDomains>
+        </LEXMeaning>
+        <LEXMeaning Id="007242001002000" IsBiblicalTerm="Y" EntryCode="" Indent="0">
+          <LEXDomains>
+            <LEXDomain Code="002002001011">Move</LEXDomain>
+          </LEXDomains>
+          <LEXForms>
+            <LEXForm>vbqal-</LEXForm>
+          </LEXForms>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2008-05-05 11:13:16" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>= causative action by which humans move the oars of a ship through a body of water; ► in order to make it move forward</DefinitionShort>
+              <Glosses>
+                <Gloss>to row</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>02602700800012</LEXReference>
+            <LEXReference>02602702600012</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+          <LEXCoreDomains>
+            <LEXCoreDomain Code="116">Navigation</LEXCoreDomain>
+          </LEXCoreDomains>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+    <BaseForm Id="007242002000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>vb</PartOfSpeech>
+      </PartsOfSpeech>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="007242002001000" IsBiblicalTerm="Y" EntryCode="" Indent="0">
+          <LEXDomains>
+            <LEXDomain Code="002001002005">Despise</LEXDomain>
+          </LEXDomains>
+          <LEXForms>
+            <LEXForm>vbqal-</LEXForm>
+          </LEXForms>
+          <LEXSynonyms>
+            <LEXSynonym>חֶרְפָּה</LEXSynonym>
+          </LEXSynonyms>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2008-05-05 11:13:16" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>= state in which humans have contempt for others</DefinitionShort>
+              <Glosses>
+                <Gloss>to despise</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>02601605700032</LEXReference>
+            <LEXReference>02602802400034</LEXReference>
+            <LEXReference>02602802600044</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+          <LEXCoreDomains>
+            <LEXCoreDomain Code="170">Status</LEXCoreDomain>
+          </LEXCoreDomains>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

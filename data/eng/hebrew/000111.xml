@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="000111000000000" Lemma="אַדְבְּאֵל" Version="5" HasAramaic="false" InLXX="false" AlphaPos="א">
+  <StrongCodes>
+    <Strong>H0110</Strong>
+  </StrongCodes>
+  <Authors>
+    <Author>Reinier de Blois</Author>
+  </Authors>
+  <Contributors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes/>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="000111001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>np</PartOfSpeech>
+      </PartsOfSpeech>
+      <RelatedLemmas>
+        <RelatedLemma>
+          <Word>אדב</Word>
+        </RelatedLemma>
+        <RelatedLemma>
+          <Word>אֵל</Word>
+        </RelatedLemma>
+      </RelatedLemmas>
+      <MeaningsOfName>
+        <MeaningOfName LanguageCode="en">
+          <Meaning>God invites</Meaning>
+        </MeaningOfName>
+        <MeaningOfName LanguageCode="pt">
+          <Meaning>Deus convida</Meaning>
+        </MeaningOfName>
+      </MeaningsOfName>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="000111001001000" IsBiblicalTerm="Y" EntryCode="" Indent="0">
+          <LEXDomains>
+            <LEXDomain Code="003001007">Names of People</LEXDomain>
+          </LEXDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2010-07-28 12:31:20" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>= man; ◄ son of {L:Ishmael&lt;SDBH:יִשְׁמָעֵאל&gt;}</DefinitionShort>
+              <Glosses>
+                <Gloss>Adbeel</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>00102501300032</LEXReference>
+            <LEXReference>01300102900018</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

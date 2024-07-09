@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="000250000000000" Lemma="ἄλυπος" Version="0" HasAramaic="false" InLXX="false" AlphaPos="α">
+  <StrongCodes>
+    <Strong>G0253</Strong>
+  </StrongCodes>
+  <Authors/>
+  <AlternateLemmas>
+    <AlternateLemma>ἀλυπότερος</AlternateLemma>
+  </AlternateLemmas>
+  <MainLinks/>
+  <Notes/>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="000250001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>adjc.</PartOfSpeech>
+      </PartsOfSpeech>
+      <Inflections>
+        <Inflection Lemma="ἄλυπος" BaseFormIndex="1">
+          <Form/>
+          <Realizations>
+            <Realization>-ον</Realization>
+          </Realizations>
+          <Comments/>
+        </Inflection>
+      </Inflections>
+      <Constructs>
+        <Construct Lemma="ἄλυπος" BaseFormIndex="1">
+          <WordMeaningSet>
+            <Word>ἀ-</Word>
+          </WordMeaningSet>
+          <WordMeaningSet>
+            <Word>λυπέω</Word>
+          </WordMeaningSet>
+        </Construct>
+      </Constructs>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="000250001001000" IsBiblicalTerm="Y" EntryCode="25.278" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Attitudes and Emotions</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Sorrow, Regret</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-05-25 19:20:53" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>pertaining to no longer experiencing sorrow or anxiety</DefinitionShort>
+              <Glosses>
+                <Gloss>relieved of anxiety</Gloss>
+                <Gloss>no longer sorrowful</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>05000202800022</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

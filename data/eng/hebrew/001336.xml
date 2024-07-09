@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="001336000000000" Lemma="גֵּו" Version="5" HasAramaic="false" InLXX="false" AlphaPos="ג">
+  <StrongCodes>
+    <Strong>H1460</Strong>
+  </StrongCodes>
+  <Authors>
+    <Author>Enio R. Mueller</Author>
+  </Authors>
+  <Contributors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes>
+    <Note Caller="1" LanguageCode="en" LastEdited="" LastEditedBy="">
+      <References>
+        <Reference>01803000500004</Reference>
+      </References>
+      <Content>RSV "men" NIV "fellow men" NJPS "society" NJB ESV "human company" NRSV "our society" REB "human society"</Content>
+    </Note>
+  </Notes>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="001336001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>nsm</PartOfSpeech>
+      </PartsOfSpeech>
+      <RelatedLemmas>
+        <RelatedLemma>
+          <Word>גַּו</Word>
+        </RelatedLemma>
+        <RelatedLemma>
+          <Word>גֵּוָה</Word>
+        </RelatedLemma>
+      </RelatedLemmas>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="001336001001000" IsBiblicalTerm="Y" EntryCode="" Indent="0">
+          <LEXDomains>
+            <LEXDomain Code="001001002003">People</LEXDomain>
+          </LEXDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2016-03-26 09:37:40" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>= the rear part of the human body, especially from the neck to the bottom</DefinitionShort>
+              <Glosses>
+                <Gloss>back</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>02001001300018</LEXReference>
+            <LEXReference>02001902900018</LEXReference>
+            <LEXReference>02002600300024</LEXReference>
+            <LEXReference>02305000600002</LEXReference>
+            <LEXReference>02305102300036</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+          <LEXCoreDomains>
+            <LEXCoreDomain Code="019">Body</LEXCoreDomain>
+          </LEXCoreDomains>
+        </LEXMeaning>
+        <LEXMeaning Id="001336001002000" IsBiblicalTerm="Y" EntryCode="" Indent="0">
+          <LEXDomains>
+            <LEXDomain Code="002003003014" Source="People" SourceCode="001001002003">Innocent</LEXDomain>
+          </LEXDomains>
+          <LEXForms>
+            <LEXForm>vbhif-</LEXForm>
+          </LEXForms>
+          <LEXCollocations>
+            <LEXCollocation>שׁלך אַחֲרֵי גֵּו</LEXCollocation>
+          </LEXCollocations>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2016-03-26 09:37:40" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>literally: to throw behind (one's) back; hence: = action by which someone decides not to hold somebody else's bad behavior against them, as if throwing that behavior carelessly behind one's back</DefinitionShort>
+              <Glosses>
+                <Gloss>to cast behind (one's) back</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>02303801700034</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+          <LEXCoreDomains>
+            <LEXCoreDomain Code="145">Responsibility</LEXCoreDomain>
+            <LEXCoreDomain Code="017">Behavior</LEXCoreDomain>
+          </LEXCoreDomains>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+    <BaseForm Id="001336002000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>nsm</PartOfSpeech>
+      </PartsOfSpeech>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="001336002001000" IsBiblicalTerm="Y" EntryCode="" Indent="0">
+          <LEXDomains>
+            <LEXDomain Code="001001002003004">Groups</LEXDomain>
+          </LEXDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2016-03-26 09:37:40" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>= a group of people living together in a more or less ordered community</DefinitionShort>
+              <Glosses>
+                <Gloss>society</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>01803000500004{N:001}</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+          <LEXCoreDomains>
+            <LEXCoreDomain Code="074">Group</LEXCoreDomain>
+            <LEXCoreDomain Code="142">Relationship</LEXCoreDomain>
+          </LEXCoreDomains>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

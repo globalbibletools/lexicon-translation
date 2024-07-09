@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="001363000000000" Lemma="גֵּז" Version="5" HasAramaic="false" InLXX="false" AlphaPos="ג">
+  <StrongCodes>
+    <Strong>H1488</Strong>
+  </StrongCodes>
+  <Authors>
+    <Author>Enio R. Mueller</Author>
+  </Authors>
+  <Contributors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes/>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="001363001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>nsm</PartOfSpeech>
+      </PartsOfSpeech>
+      <RelatedLemmas>
+        <RelatedLemma>
+          <Word>גזז</Word>
+        </RelatedLemma>
+      </RelatedLemmas>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="001363001001000" IsBiblicalTerm="M" EntryCode="" Indent="0">
+          <LEXDomains>
+            <LEXDomain Code="002003001008">Detach</LEXDomain>
+          </LEXDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2016-03-30 14:20:20" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>= causative action by which humans cut off the wool of a sheep or other animal</DefinitionShort>
+              <Glosses>
+                <Gloss>shearing</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>00501800400016</LEXReference>
+            <LEXReference>01803102000016</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+          <LEXCoreDomains>
+            <LEXCoreDomain Code="019">Body</LEXCoreDomain>
+            <LEXCoreDomain Code="010">Animal</LEXCoreDomain>
+            <LEXCoreDomain Code="157">Shepherding</LEXCoreDomain>
+          </LEXCoreDomains>
+        </LEXMeaning>
+        <LEXMeaning Id="001363001002000" IsBiblicalTerm="Y" EntryCode="" Indent="0">
+          <LEXDomains>
+            <LEXDomain Code="002003001008">Detach</LEXDomain>
+          </LEXDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2016-03-30 14:20:20" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>= causative action by which humans cut off the grass from a field</DefinitionShort>
+              <Glosses>
+                <Gloss>mowing</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>03000700100036</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+          <LEXCoreDomains>
+            <LEXCoreDomain Code="097">Land</LEXCoreDomain>
+            <LEXCoreDomain Code="007">Agriculture</LEXCoreDomain>
+          </LEXCoreDomains>
+        </LEXMeaning>
+        <LEXMeaning Id="001363001003000" IsBiblicalTerm="Y" EntryCode="" Indent="0">
+          <LEXDomains>
+            <LEXDomain Code="001005002002001" Source="Detach" SourceCode="002003001008">Land</LEXDomain>
+          </LEXDomains>
+          <LEXSynonyms>
+            <LEXSynonym>אֶרֶץ</LEXSynonym>
+          </LEXSynonyms>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2016-03-30 14:20:20" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>= land from which the grass has been recently cut off</DefinitionShort>
+              <Glosses>
+                <Gloss>mown land</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>01907200600010</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+          <LEXCoreDomains>
+            <LEXCoreDomain Code="097">Land</LEXCoreDomain>
+            <LEXCoreDomain Code="007">Agriculture</LEXCoreDomain>
+          </LEXCoreDomains>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

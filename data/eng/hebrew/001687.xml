@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="001687000000000" Lemma="דְּמֶשֶׁק" Version="5" HasAramaic="false" InLXX="false" AlphaPos="ד">
+  <StrongCodes>
+    <Strong>H1833</Strong>
+  </StrongCodes>
+  <Authors>
+    <Author>Enio R. Mueller</Author>
+  </Authors>
+  <Contributors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes>
+    <Note Caller="1" LanguageCode="en" LastEdited="" LastEditedBy="">
+      <References>
+        <Reference>03000301200062</Reference>
+      </References>
+      <Content>RSV NRSV "part (of a bed)" | NJPS "head (of a couch)" | NIV "in Damascus (on their couches)" | NJB "(on their divans of) Damscus" | REB "(on divans) from Damascus" | CEV "pieces (of their beds and couches)"</Content>
+    </Note>
+  </Notes>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="001687001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>nsc</PartOfSpeech>
+      </PartsOfSpeech>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="001687001001000" IsBiblicalTerm="Y" EntryCode="" Indent="0">
+          <LEXDomains>
+            <LEXDomain Code="001004001008">Furnishings</LEXDomain>
+          </LEXDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2013-01-10 15:04:57" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>meaning unsure; possibly: = part of a bed, possibly the head-rest ({A:HALOT})</DefinitionShort>
+              <Glosses>
+                <Gloss>head-rest</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>03000301200062{N:001}</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+          <LEXCoreDomains>
+            <LEXCoreDomain Code="081">Household</LEXCoreDomain>
+          </LEXCoreDomains>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

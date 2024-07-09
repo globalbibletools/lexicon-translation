@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="004143000000000" Lemma="πρεσβεία" Version="0" HasAramaic="false" InLXX="true" AlphaPos="π">
+  <StrongCodes>
+    <Strong>G4242</Strong>
+  </StrongCodes>
+  <Authors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes>
+    <Note Caller="1" LanguageCode="en" LastEdited="" LastEditedBy="">
+      <References/>
+      <Content>It is possible to assign the meanings of πρεσβεία ({D:37.87}) and πρεσβεύω ({D:37.88}) to the domain of Communication (33), since communication is an important factor in the function of being a representative. However, the delegated authority and responsibility seem to be more in focus.</Content>
+    </Note>
+  </Notes>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="004143001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>noun, f.</PartOfSpeech>
+      </PartsOfSpeech>
+      <Inflections>
+        <Inflection Lemma="πρεσβεία" BaseFormIndex="1">
+          <Form/>
+          <Realizations>
+            <Realization>-ας</Realization>
+          </Realizations>
+          <Comments/>
+        </Inflection>
+      </Inflections>
+      <RelatedLemmas>
+        <RelatedLemma>
+          <Word>πρεσβεύω</Word>
+        </RelatedLemma>
+      </RelatedLemmas>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="004143001001000" IsBiblicalTerm="Y" EntryCode="37.87" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Control, Rule</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Rule, Govern</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2022-02-02 16:20:40" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>a person who has been given authority to communicate or to act on behalf of a ruler{N:001}</DefinitionShort>
+              <Glosses>
+                <Gloss>representative</Gloss>
+                <Gloss>ambassador</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04201403200018</LEXReference>
+            <LEXReference>04201901400018</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

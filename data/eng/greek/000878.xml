@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="000878000000000" Lemma="ἄφωνος" Version="0" HasAramaic="false" InLXX="true" AlphaPos="α">
+  <StrongCodes>
+    <Strong>G0880</Strong>
+  </StrongCodes>
+  <Authors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes/>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="000878001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>adjc.</PartOfSpeech>
+      </PartsOfSpeech>
+      <Inflections>
+        <Inflection Lemma="ἄφωνος" BaseFormIndex="1">
+          <Form/>
+          <Realizations>
+            <Realization>-ον</Realization>
+          </Realizations>
+          <Comments/>
+        </Inflection>
+      </Inflections>
+      <Constructs>
+        <Construct Lemma="ἄφωνος" BaseFormIndex="1">
+          <WordMeaningSet>
+            <Word>ἀ-</Word>
+          </WordMeaningSet>
+          <WordMeaningSet>
+            <Word>φωνέω</Word>
+          </WordMeaningSet>
+        </Construct>
+      </Constructs>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="000878001001000" IsBiblicalTerm="Y" EntryCode="33.106" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Communication</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Speak, Talk</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-08-18 16:57:54" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>pertaining to not being able to speak or talk</DefinitionShort>
+              <Glosses>
+                <Gloss>dumb</Gloss>
+                <Gloss>mute</Gloss>
+                <Gloss>unable to speak</Gloss>
+                <Gloss>incapable of talking</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04400803200044</LEXReference>
+            <LEXReference>04601200200020</LEXReference>
+            <LEXReference>06100201600014</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+        <LEXMeaning Id="000878001002000" IsBiblicalTerm="Y" EntryCode="33.135" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Communication</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Interpret, Mean, Explain</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-08-18 16:57:54" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>pertaining to being without meaning</DefinitionShort>
+              <Glosses>
+                <Gloss>without meaning</Gloss>
+                <Gloss>meaningless</Gloss>
+              </Glosses>
+              <Comments>Rather than use a double negative expression in rendering this phrase in {S:04601401000022}, it may be better in many languages to use a positive expression, for example, ‘yet all can be understood’ or ‘yet all have meaning.’</Comments>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04601401000022</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

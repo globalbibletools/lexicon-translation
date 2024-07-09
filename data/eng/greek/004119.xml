@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="004119000000000" Lemma="ποταπός" Version="0" HasAramaic="false" InLXX="true" AlphaPos="π">
+  <StrongCodes>
+    <Strong>G4217</Strong>
+  </StrongCodes>
+  <Authors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes/>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="004119001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>pirg.</PartOfSpeech>
+      </PartsOfSpeech>
+      <Inflections>
+        <Inflection Lemma="ποταπός" BaseFormIndex="1">
+          <Form/>
+          <Realizations>
+            <Realization>-ή, -όν</Realization>
+          </Realizations>
+          <Comments/>
+        </Inflection>
+      </Inflections>
+      <Constructs>
+        <Construct Lemma="ποταπός" BaseFormIndex="1">
+          <WordMeaningSet>
+            <Word>ποῦ</Word>
+          </WordMeaningSet>
+          <WordMeaningSet>
+            <Word>ἀπό</Word>
+          </WordMeaningSet>
+        </Construct>
+      </Constructs>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="004119001001000" IsBiblicalTerm="Y" EntryCode="58.30" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Nature, Class, Example</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Class, Kind</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2023-05-15 10:00:54" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>interrogative references to class or kind</DefinitionShort>
+              <Glosses>
+                <Gloss>what sort of</Gloss>
+                <Gloss>what kind of</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04000802700012</LEXReference>
+            <LEXReference>04101300100030</LEXReference>
+            <LEXReference>04101300100036</LEXReference>
+            <LEXReference>04200102900018</LEXReference>
+            <LEXReference>04200703900040</LEXReference>
+            <LEXReference>06100301100010</LEXReference>
+            <LEXReference>06200300100004</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="000706000000000" Lemma="אֹרֶן" Version="5" HasAramaic="false" InLXX="false" AlphaPos="א">
+  <StrongCodes>
+    <Strong>H0766</Strong>
+    <Strong>H0767</Strong>
+  </StrongCodes>
+  <Authors>
+    <Author>Reinier de Blois</Author>
+  </Authors>
+  <Contributors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes>
+    <Note Caller="1" LanguageCode="en" LastEdited="" LastEditedBy="">
+      <References>
+        <Reference>02304401400034</Reference>
+      </References>
+      <Content>{A:RSV} {A:NRSV} {A:REB} "cedar" | {A:NIV} {A:NJB} {A:CEV} "pine" | {A:NJPS} "fir" | {A:GNT} "laurel"</Content>
+    </Note>
+  </Notes>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="000706001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>nsm</PartOfSpeech>
+      </PartsOfSpeech>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="000706001001000" IsBiblicalTerm="M" EntryCode="" Indent="0">
+          <LEXDomains>
+            <LEXDomain Code="001003002">Trees</LEXDomain>
+          </LEXDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2015-12-16 20:21:46" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>exact meaning unknown: = tree ► of which the wood can be used for wood carving</DefinitionShort>
+              <Glosses>
+                <Gloss>pine tree</Gloss>
+                <Gloss>fir tree</Gloss>
+                <Gloss>cedar</Gloss>
+                <Gloss>laurel</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>02304401400034{N:001}</LEXReference>
+          </LEXReferences>
+          <LEXLinks>
+            <LEXLink>Flora:1.12</LEXLink>
+          </LEXLinks>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+    <BaseForm Id="000706002000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>np</PartOfSpeech>
+      </PartsOfSpeech>
+      <MeaningsOfName>
+        <MeaningOfName LanguageCode="pt">
+          <Meaning>pinheiro</Meaning>
+        </MeaningOfName>
+      </MeaningsOfName>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="000706002001000" IsBiblicalTerm="Y" EntryCode="" Indent="0">
+          <LEXDomains>
+            <LEXDomain Code="003001007">Names of People</LEXDomain>
+          </LEXDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2015-12-16 20:21:46" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>= man; ◄ son of {L:Jerahmeel&lt;SDBH:יְרַחְמְאֵל&gt;}; tribe of {L:Judah&lt;SDBH:יְהוּדָה&gt;}</DefinitionShort>
+              <Glosses>
+                <Gloss>Oren</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>01300202500026</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

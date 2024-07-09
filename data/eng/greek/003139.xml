@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="003139000000000" Lemma="μακροθυμέω" Version="0" HasAramaic="false" InLXX="true" AlphaPos="μ">
+  <StrongCodes>
+    <Strong>G3114</Strong>
+  </StrongCodes>
+  <Authors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes/>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="003139001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>verb</PartOfSpeech>
+      </PartsOfSpeech>
+      <Constructs>
+        <Construct Lemma="μακροθυμέω" BaseFormIndex="1">
+          <WordMeaningSet>
+            <Word>μηκύνομαι</Word>
+          </WordMeaningSet>
+          <WordMeaningSet>
+            <Word>θυμός</Word>
+            <Meaning LanguageCode="en">
+              <Meaning>soul, heart</Meaning>
+            </Meaning>
+            <Meaning LanguageCode="zhT">
+              <Meaning>靈魂，心</Meaning>
+            </Meaning>
+          </WordMeaningSet>
+        </Construct>
+      </Constructs>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="003139001001000" IsBiblicalTerm="Y" EntryCode="25.168" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Attitudes and Emotions</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Patience, Endurance, Perseverance</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-11-19 14:27:34" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>(derivative of {L:μακροθυμία&lt;SDBG:μακροθυμία:000000&gt;} ‘patience,’ {D:25.167}) to demonstrate patience despite difficulties</DefinitionShort>
+              <Glosses>
+                <Gloss>to be patient</Gloss>
+                <Gloss>to remain patient</Gloss>
+                <Gloss>to wait patiently</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04001802600016</LEXReference>
+            <LEXReference>04001802900018</LEXReference>
+            <LEXReference>04201800700038</LEXReference>
+            <LEXReference>04601300400006</LEXReference>
+            <LEXReference>05200501400028</LEXReference>
+            <LEXReference>05800601500006</LEXReference>
+            <LEXReference>05900500700002</LEXReference>
+            <LEXReference>05900500700036</LEXReference>
+            <LEXReference>05900500800002</LEXReference>
+            <LEXReference>06100300900022</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+        <LEXMeaning Id="003139001002000" IsBiblicalTerm="Y" EntryCode="67.126" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Time</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Duration of Time with Reference to Some Point of Time: Until, Delay, Still, From</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-11-19 14:27:34" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>to extend a period of time on the basis of a particular mental attitude</DefinitionShort>
+              <Glosses>
+                <Gloss>to be slow to</Gloss>
+                <Gloss>to delay in</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04201800700038</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

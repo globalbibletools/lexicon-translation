@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="005642000000000" Lemma="עָר" Version="5" HasAramaic="true" InLXX="false" AlphaPos="ע">
+  <StrongCodes>
+    <Strong>H6144</Strong>
+    <Strong>H6145</Strong>
+    <Strong>A6146</Strong>
+  </StrongCodes>
+  <Authors>
+    <Author>Reinier de Blois</Author>
+  </Authors>
+  <Contributors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes>
+    <Note Caller="1" LanguageCode="en" LastEdited="" LastEditedBy="">
+      <References>
+        <Reference>02700401600074</Reference>
+      </References>
+      <Content>MT-K לעריך | MT-Q לְעָרָךְ</Content>
+    </Note>
+  </Notes>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="005642001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>nsm</PartOfSpeech>
+      </PartsOfSpeech>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="005642001001000" IsBiblicalTerm="M" EntryCode="" Indent="0">
+          <LEXDomains>
+            <LEXDomain Code="001001002003002">Enemies</LEXDomain>
+          </LEXDomains>
+          <LEXSynonyms>
+            <LEXSynonym>צַר</LEXSynonym>
+          </LEXSynonyms>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2015-12-26 09:37:53" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>possibly Israelite Hebrew and Aramaic; = person that is one's opponent in daily life or in battle; ≈ associated with causing people anguish and distress</DefinitionShort>
+              <Glosses>
+                <Gloss>enemy</Gloss>
+                <Gloss>adversary</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>00902801600028</LEXReference>
+            <LEXReference>01913902000018</LEXReference>
+            <LEXReference>02700401600074{N:001}</LEXReference>
+            <LEXReference>02700401600078</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+          <LEXCoreDomains>
+            <LEXCoreDomain Code="044">Conflict</LEXCoreDomain>
+          </LEXCoreDomains>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+    <BaseForm Id="005642002000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>np</PartOfSpeech>
+      </PartsOfSpeech>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="005642002001000" IsBiblicalTerm="Y" EntryCode="" Indent="0">
+          <LEXDomains>
+            <LEXDomain Code="003001010">Names of Locations</LEXDomain>
+          </LEXDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2015-12-26 09:37:53" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>= town; ◄ in {L:Moab&lt;SDBH:מֹואָב&gt;}</DefinitionShort>
+              <Glosses>
+                <Gloss>Ar</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>00402101500018</LEXReference>
+            <LEXReference>00402102800022</LEXReference>
+            <LEXReference>00500200900054</LEXReference>
+            <LEXReference>00500201800018</LEXReference>
+            <LEXReference>00500202900034</LEXReference>
+            <LEXReference>02301500100014</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+          <LEXCoordinates>
+            <LEXCoordinates>31.449809,35.593958</LEXCoordinates>
+          </LEXCoordinates>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

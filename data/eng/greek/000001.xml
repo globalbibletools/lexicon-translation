@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="000001000000000" Lemma="α" Version="0" HasAramaic="false" InLXX="false" AlphaPos="α">
+  <StrongCodes/>
+  <Authors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes/>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="000001001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>noun-name, n.</PartOfSpeech>
+      </PartsOfSpeech>
+      <Inflections>
+        <Inflection Lemma="α" BaseFormIndex="1">
+          <Form/>
+          <Realizations/>
+          <Comments>
+            <Comment LanguageCode="en">
+              <Meaning>indeclinable</Meaning>
+            </Comment>
+            <Comment LanguageCode="zhT">
+              <Meaning>無語尾變化</Meaning>
+            </Comment>
+          </Comments>
+        </Inflection>
+      </Inflections>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="000001001001000" IsBiblicalTerm="Y" EntryCode="60.46" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Number</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>First, Second, Third, Etc. [Ordinals]</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-05-24 13:06:09" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>first in a series involving time, space, or set</DefinitionShort>
+              <Glosses>
+                <Gloss>first</Gloss>
+              </Glosses>
+              <Comments>Occurring only in titles of NT writings: πρὸς Κορινθίους α ‘First Letter to the Corinthians’; Ἰωάννου α ‘First Epistle of John.’</Comments>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04600100000000</LEXReference>
+            <LEXReference>05200100000000</LEXReference>
+            <LEXReference>05400100000000</LEXReference>
+            <LEXReference>06000100000000</LEXReference>
+            <LEXReference>06200100000000</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

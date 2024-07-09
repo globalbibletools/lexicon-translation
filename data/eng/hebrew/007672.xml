@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="007672000000000" Lemma="שׁתל" Version="5" HasAramaic="false" InLXX="false" AlphaPos="ש">
+  <StrongCodes>
+    <Strong>H8362</Strong>
+  </StrongCodes>
+  <Authors>
+    <Author>Reinier de Blois</Author>
+  </Authors>
+  <Contributors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes>
+    <Note Caller="1" LanguageCode="en" LastEdited="" LastEditedBy="">
+      <References>
+        <Reference>02800901300014</Reference>
+      </References>
+      <Content>MT HOTTP-B NIV NJPS NJB NRSV "planted" CEV "growing" | RSV "destined"</Content>
+    </Note>
+  </Notes>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="007672001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>vb</PartOfSpeech>
+      </PartsOfSpeech>
+      <RelatedLemmas>
+        <RelatedLemma>
+          <Word>שָׁתִיל</Word>
+        </RelatedLemma>
+      </RelatedLemmas>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="007672001001000" IsBiblicalTerm="Y" EntryCode="" Indent="0">
+          <LEXDomains>
+            <LEXDomain Code="002002001014">Plant</LEXDomain>
+          </LEXDomains>
+          <LEXForms>
+            <LEXForm>vbqal-</LEXForm>
+          </LEXForms>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2017-04-03 17:28:55" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>= causative action by which a tree is planted after having been uprooted from another place, either as a young sapling or as a mature tree, ≈ often used as a metaphor for a nation being made to dwell in a certain place</DefinitionShort>
+              <Glosses>
+                <Gloss>to plant</Gloss>
+                <Gloss>to transplant</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>01900100300010</LEXReference>
+            <LEXReference>01909201400002</LEXReference>
+            <LEXReference>02401700800010</LEXReference>
+            <LEXReference>02601700800016</LEXReference>
+            <LEXReference>02601701000006</LEXReference>
+            <LEXReference>02601702200044</LEXReference>
+            <LEXReference>02601702300010</LEXReference>
+            <LEXReference>02601901000018</LEXReference>
+            <LEXReference>02601901300006</LEXReference>
+            <LEXReference>02800901300014{N:001}</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+          <LEXCoreDomains>
+            <LEXCoreDomain Code="125">Plant</LEXCoreDomain>
+          </LEXCoreDomains>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

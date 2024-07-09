@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="002657000000000" Lemma="κατάλυμα" Version="0" HasAramaic="false" InLXX="true" AlphaPos="κ">
+  <StrongCodes>
+    <Strong>G2646</Strong>
+  </StrongCodes>
+  <Authors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes/>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="002657001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>noun, n.</PartOfSpeech>
+      </PartsOfSpeech>
+      <Inflections>
+        <Inflection Lemma="κατάλυμα" BaseFormIndex="1">
+          <Form/>
+          <Realizations>
+            <Realization>-τος</Realization>
+          </Realizations>
+          <Comments/>
+        </Inflection>
+      </Inflections>
+      <RelatedLemmas>
+        <RelatedLemma>
+          <Word>λύω</Word>
+        </RelatedLemma>
+      </RelatedLemmas>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="002657001001000" IsBiblicalTerm="M" EntryCode="7.11" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Constructions</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Buildings</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-09-22 11:21:23" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>a place for the lodging of travellers</DefinitionShort>
+              <Glosses>
+                <Gloss>inn</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04200200700046</LEXReference>
+          </LEXReferences>
+          <LEXLinks>
+            <LEXLink>realia:3.3</LEXLink>
+          </LEXLinks>
+          <LEXVideos/>
+        </LEXMeaning>
+        <LEXMeaning Id="002657001002000" IsBiblicalTerm="M" EntryCode="7.30" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Constructions</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Parts and Areas of Buildings</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-09-22 11:21:23" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>a room in a relatively large structure (possibly an inn; see {D:7.11}), which could serve as a dining room</DefinitionShort>
+              <Glosses>
+                <Gloss>room</Gloss>
+                <Gloss>quarters</Gloss>
+                <Gloss>dining room</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04101401400030</LEXReference>
+            <LEXReference>04202201100028</LEXReference>
+          </LEXReferences>
+          <LEXLinks>
+            <LEXLink>realia:3.1.6.9</LEXLink>
+          </LEXLinks>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

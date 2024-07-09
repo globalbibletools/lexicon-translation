@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="000665000000000" Lemma="אֻרְוָה" Version="5" HasAramaic="false" InLXX="false" AlphaPos="א">
+  <StrongCodes>
+    <Strong>H0723</Strong>
+  </StrongCodes>
+  <Authors>
+    <Author>Reinier de Blois</Author>
+  </Authors>
+  <Contributors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes/>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="000665001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>nsf</PartOfSpeech>
+      </PartsOfSpeech>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="000665001001000" IsBiblicalTerm="Y" EntryCode="" Indent="0">
+          <LEXDomains>
+            <LEXDomain Code="001005001007">Stalls</LEXDomain>
+          </LEXDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2015-12-20 15:32:47" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>= building ► for keeping horses and storing related objects such as chariots</DefinitionShort>
+              <Glosses>
+                <Gloss>stall</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>01100500600014</LEXReference>
+            <LEXReference>01400902500014</LEXReference>
+          </LEXReferences>
+          <LEXLinks>
+            <LEXLink>Realia:1.2.2</LEXLink>
+          </LEXLinks>
+          <LEXVideos/>
+          <LEXCoreDomains>
+            <LEXCoreDomain Code="020">Building</LEXCoreDomain>
+            <LEXCoreDomain Code="010">Animal</LEXCoreDomain>
+            <LEXCoreDomain Code="171">Storage</LEXCoreDomain>
+          </LEXCoreDomains>
+        </LEXMeaning>
+        <LEXMeaning Id="000665001002000" IsBiblicalTerm="M" EntryCode="" Indent="0">
+          <LEXDomains>
+            <LEXDomain Code="001005001007">Stalls</LEXDomain>
+          </LEXDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2015-12-20 15:32:47" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>= construction, probably in the shape of a semi-circular enclosure ► where domestic animals are fed</DefinitionShort>
+              <Glosses>
+                <Gloss>animal pen</Gloss>
+                <Gloss>cattle pen</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>01403202800022</LEXReference>
+          </LEXReferences>
+          <LEXLinks>
+            <LEXLink>Realia:1.2.2</LEXLink>
+          </LEXLinks>
+          <LEXVideos/>
+          <LEXCoreDomains>
+            <LEXCoreDomain Code="020">Building</LEXCoreDomain>
+            <LEXCoreDomain Code="010">Animal</LEXCoreDomain>
+          </LEXCoreDomains>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

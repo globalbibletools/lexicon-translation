@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="005827000000000" Lemma="פַּחְדָּה" Version="5" HasAramaic="false" InLXX="false" AlphaPos="פ">
+  <StrongCodes>
+    <Strong>H6345</Strong>
+  </StrongCodes>
+  <Authors>
+    <Author>Reinier de Blois</Author>
+  </Authors>
+  <Contributors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes/>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="005827001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>nsf</PartOfSpeech>
+      </PartsOfSpeech>
+      <RelatedLemmas>
+        <RelatedLemma>
+          <Word>פחד</Word>
+        </RelatedLemma>
+      </RelatedLemmas>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="005827001001000" IsBiblicalTerm="M" EntryCode="" Indent="0">
+          <LEXDomains>
+            <LEXDomain Code="002001002001" Source="Unsteady" SourceCode="002001001064">Afraid</LEXDomain>
+          </LEXDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2016-12-19 09:13:12" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>literally: trembling; hence: = state in which humans experience a strong fear and a concern for their safety, usually accompanied by trembling</DefinitionShort>
+              <Glosses>
+                <Gloss>terror</Gloss>
+                <Gloss>awe</Gloss>
+                <Gloss>dread</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>02400201900040</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+          <LEXCoreDomains>
+            <LEXCoreDomain Code="019">Body</LEXCoreDomain>
+            <LEXCoreDomain Code="043">Confidence and Fear</LEXCoreDomain>
+            <LEXCoreDomain Code="152">Security</LEXCoreDomain>
+          </LEXCoreDomains>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

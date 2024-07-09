@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="003447000000000" Lemma="νομικός" Version="0" HasAramaic="false" InLXX="true" AlphaPos="ν">
+  <StrongCodes>
+    <Strong>G3544</Strong>
+  </StrongCodes>
+  <Authors/>
+  <AlternateLemmas>
+    <AlternateLemma/>
+  </AlternateLemmas>
+  <MainLinks/>
+  <Notes/>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="003447001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>adjc.</PartOfSpeech>
+      </PartsOfSpeech>
+      <Inflections>
+        <Inflection Lemma="νομικός" BaseFormIndex="1">
+          <Form/>
+          <Realizations>
+            <Realization>-ή, όν</Realization>
+          </Realizations>
+          <Comments/>
+        </Inflection>
+      </Inflections>
+      <RelatedLemmas>
+        <RelatedLemma>
+          <Word>νομίζω</Word>
+        </RelatedLemma>
+      </RelatedLemmas>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="003447001001000" IsBiblicalTerm="Y" EntryCode="33.337" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Communication</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Law, Regulation, Ordinance</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-12-10 21:08:18" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>(derivative of {L:νόμος&lt;SDBG:νόμος:000000&gt;}[a] ‘law, rule,’ {D:33.333}) pertaining to law</DefinitionShort>
+              <Glosses>
+                <Gloss>about the law</Gloss>
+                <Gloss>about laws</Gloss>
+              </Glosses>
+              <Comments>It is also possible to understand νομικός in {S:05600300900020} as specifically the Jewish Law (see {L:νόμος&lt;SDBG:νόμος:000001&gt;}[b], {D:33.55}).</Comments>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>05600300900020</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+    <BaseForm Id="003447002000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>adjc.</PartOfSpeech>
+      </PartsOfSpeech>
+      <Inflections>
+        <Inflection Lemma="νομικός" BaseFormIndex="2">
+          <Form/>
+          <Realizations>
+            <Realization>-οῦ</Realization>
+          </Realizations>
+          <Comments/>
+        </Inflection>
+      </Inflections>
+      <RelatedLemmas>
+        <RelatedLemma>
+          <Word>νομίζω</Word>
+        </RelatedLemma>
+      </RelatedLemmas>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="003447002001000" IsBiblicalTerm="Y" EntryCode="33.338" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Communication</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Law, Regulation, Ordinance</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXForms>
+            <LEXForm>(οῦ m)</LEXForm>
+          </LEXForms>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-12-10 21:08:18" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>one who is an expert in interpreting religious law (with a probable exception of {S:05600301300006} (see {D:56.37}), always in reference to the Jewish Law)</DefinitionShort>
+              <Glosses>
+                <Gloss>interpreter of the Law</Gloss>
+                <Gloss>expert in the Law</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04002203500012</LEXReference>
+            <LEXReference>04200703000012</LEXReference>
+            <LEXReference>04201002500006</LEXReference>
+            <LEXReference>04201104500010</LEXReference>
+            <LEXReference>04201104600014</LEXReference>
+            <LEXReference>04201105200008</LEXReference>
+            <LEXReference>04201400300016</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+        <LEXMeaning Id="003447002002000" IsBiblicalTerm="M" EntryCode="56.37" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Courts and Legal Procedures</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Attorney, Lawyer</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXForms>
+            <LEXForm>(οῦ m)</LEXForm>
+          </LEXForms>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-12-10 21:08:18" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>a specialist in civil law</DefinitionShort>
+              <Glosses>
+                <Gloss>lawyer</Gloss>
+              </Glosses>
+              <Comments>It is possible that νομικός in {S:05600301300006} may have designated an expert in interpreting religious law (see {D:33.338}) rather than a general legal practitioner.</Comments>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>05600301300006</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

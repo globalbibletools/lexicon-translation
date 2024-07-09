@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="001146000000000" Lemma="γυμνότης" Version="0" HasAramaic="false" InLXX="true" AlphaPos="γ">
+  <StrongCodes>
+    <Strong>G1132</Strong>
+  </StrongCodes>
+  <Authors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes/>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="001146001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>noun, f.</PartOfSpeech>
+      </PartsOfSpeech>
+      <Inflections>
+        <Inflection Lemma="γυμνότης" BaseFormIndex="1">
+          <Form/>
+          <Realizations>
+            <Realization>-ητος</Realization>
+          </Realizations>
+          <Comments/>
+        </Inflection>
+      </Inflections>
+      <RelatedLemmas>
+        <RelatedLemma>
+          <Word>γυμνάζω</Word>
+        </RelatedLemma>
+      </RelatedLemmas>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="001146001001000" IsBiblicalTerm="Y" EntryCode="49.23" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Activities Involving Clothing and Adorning</LEXDomain>
+          </LEXDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-12-29 20:19:52" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>the state of being naked or only scantily clothed</DefinitionShort>
+              <Glosses>
+                <Gloss>nakedness</Gloss>
+              </Glosses>
+              <Comments>In the context of {S:04500803500034} ‘nakedness’ refers to poverty.</Comments>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04500803500034</LEXReference>
+            <LEXReference>04701102700034</LEXReference>
+            <LEXReference>06600301800046</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

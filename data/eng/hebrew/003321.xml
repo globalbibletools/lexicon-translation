@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="003321000000000" Lemma="כֶּלַח" Version="5" HasAramaic="false" InLXX="false" AlphaPos="כ">
+  <StrongCodes>
+    <Strong>H3624</Strong>
+    <Strong>H3625</Strong>
+  </StrongCodes>
+  <Authors>
+    <Author>Reinier de Blois</Author>
+  </Authors>
+  <Contributors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes/>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="003321001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>nsm</PartOfSpeech>
+      </PartsOfSpeech>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="003321001001000" IsBiblicalTerm="Y" EntryCode="" Indent="0">
+          <LEXDomains>
+            <LEXDomain Code="002001001060">Strong</LEXDomain>
+          </LEXDomains>
+          <LEXSynonyms>
+            <LEXSynonym>כֹּחַ</LEXSynonym>
+          </LEXSynonyms>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2018-01-15 05:12:35" LastEditedBy="administrator">
+              <DefinitionLong/>
+              <DefinitionShort>= state in which humans are healthy and strong</DefinitionShort>
+              <Glosses>
+                <Gloss>strength</Gloss>
+                <Gloss>vigor</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>01800502600006</LEXReference>
+            <LEXReference>01803000200016</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+          <LEXCoreDomains>
+            <LEXCoreDomain Code="019">Body</LEXCoreDomain>
+            <LEXCoreDomain Code="172">Strength</LEXCoreDomain>
+            <LEXCoreDomain Code="076">Health and Sickness</LEXCoreDomain>
+          </LEXCoreDomains>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+    <BaseForm Id="003321002000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>np</PartOfSpeech>
+      </PartsOfSpeech>
+      <MeaningsOfName>
+        <MeaningOfName LanguageCode="en">
+          <Meaning>strength, vigor</Meaning>
+        </MeaningOfName>
+        <MeaningOfName LanguageCode="pt">
+          <Meaning>vigor maduro</Meaning>
+        </MeaningOfName>
+      </MeaningsOfName>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="003321002001000" IsBiblicalTerm="Y" EntryCode="" Indent="0">
+          <LEXDomains>
+            <LEXDomain Code="003001010">Names of Locations</LEXDomain>
+          </LEXDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2015-12-14 20:34:34" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>= town; ◄ in Mesopotamia; ► built by {L:Nimrod&lt;SDBH:נִמְרֹד&gt;} after the {L:flood&lt;SDBH:מַבּוּל&gt;}</DefinitionShort>
+              <Glosses>
+                <Gloss>Calah</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>00101001100034</LEXReference>
+            <LEXReference>00101001200016</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

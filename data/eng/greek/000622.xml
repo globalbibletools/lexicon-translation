@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="000622000000000" Lemma="ἀπολογία" Version="0" HasAramaic="false" InLXX="true" AlphaPos="α">
+  <StrongCodes>
+    <Strong>G0627</Strong>
+  </StrongCodes>
+  <Authors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes/>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="000622001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>noun, f.</PartOfSpeech>
+      </PartsOfSpeech>
+      <Inflections>
+        <Inflection Lemma="ἀπολογία" BaseFormIndex="1">
+          <Form/>
+          <Realizations>
+            <Realization>-ας</Realization>
+          </Realizations>
+          <Comments/>
+        </Inflection>
+      </Inflections>
+      <RelatedLemmas>
+        <RelatedLemma>
+          <Word>λέγω</Word>
+        </RelatedLemma>
+      </RelatedLemmas>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="000622001001000" IsBiblicalTerm="Y" EntryCode="33.435" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Communication</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Defend, Excuse</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-08-13 16:20:17" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>to speak on behalf of oneself or of others against accusations presumed to be false</DefinitionShort>
+              <Glosses>
+                <Gloss>to defend oneself</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04402501600046</LEXReference>
+            <LEXReference>05500401600010</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+        <LEXMeaning Id="000622001002000" IsBiblicalTerm="Y" EntryCode="33.436" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Communication</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Defend, Excuse</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-08-13 16:20:17" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>(derivative of {L:ἀπολογέομαι&lt;SDBG:ἀπολογέομαι:000000&gt;} ‘to defend oneself,’ {D:33.435}) the content of what is said in defense</DefinitionShort>
+              <Glosses>
+                <Gloss>defense</Gloss>
+                <Gloss>what is said in defense</Gloss>
+                <Gloss>how one defends oneself</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04402200100022</LEXReference>
+            <LEXReference>04600900300006</LEXReference>
+            <LEXReference>04700701100028</LEXReference>
+            <LEXReference>05000100700052</LEXReference>
+            <LEXReference>05000101600016</LEXReference>
+            <LEXReference>06000301500026</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

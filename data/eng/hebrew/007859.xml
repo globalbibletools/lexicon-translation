@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="007859000000000" Lemma="תַּן" Version="5" HasAramaic="false" InLXX="false" AlphaPos="ת">
+  <StrongCodes>
+    <Strong>H8568</Strong>
+  </StrongCodes>
+  <Authors>
+    <Author>Reinier de Blois</Author>
+  </Authors>
+  <Contributors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes>
+    <Note Caller="1" LanguageCode="en" LastEdited="" LastEditedBy="">
+      <References>
+        <Reference>02500400300004</Reference>
+        <Reference>02500400300006</Reference>
+      </References>
+      <Content>{A:MT-K} {L:תַּנִּין&lt;SDBH:תַּנִּין&gt;} | {A:MT-Q} תַּנִּים = תַּן</Content>
+    </Note>
+  </Notes>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="007859001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>nsm</PartOfSpeech>
+      </PartsOfSpeech>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="007859001001000" IsBiblicalTerm="M" EntryCode="" Indent="0">
+          <LEXDomains>
+            <LEXDomain Code="001001002001001">Wild Animals</LEXDomain>
+          </LEXDomains>
+          <LEXSynonyms>
+            <LEXSynonym>אֹחַ</LEXSynonym>
+            <LEXSynonym>אִי</LEXSynonym>
+            <LEXSynonym>שׁוּעָל</LEXSynonym>
+          </LEXSynonyms>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2006-11-29 12:04:47" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>= animal looking like a longhaired dog with a pointed nose; yellowish brown in color with red tips to the fur on the back and a bushy tail; produces mournful sounds; ≈ used mainly in poetry and associated with death, destruction, and devastation, but also with mourning and weeping</DefinitionShort>
+              <Glosses>
+                <Gloss>jackal</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>01803002900008</LEXReference>
+            <LEXReference>01904402000010</LEXReference>
+            <LEXReference>02301302200014</LEXReference>
+            <LEXReference>02303401300026</LEXReference>
+            <LEXReference>02303500700028</LEXReference>
+            <LEXReference>02304302000010</LEXReference>
+            <LEXReference>02400901000016</LEXReference>
+            <LEXReference>02401002200036</LEXReference>
+            <LEXReference>02401400600020</LEXReference>
+            <LEXReference>02404903300012</LEXReference>
+            <LEXReference>02405103700014</LEXReference>
+            <LEXReference>02500400300004{N:001}</LEXReference>
+            <LEXReference>02500400300006{N:001}</LEXReference>
+            <LEXReference>03300100800030</LEXReference>
+            <LEXReference>03900100300028</LEXReference>
+          </LEXReferences>
+          <LEXLinks>
+            <LEXLink>Fauna:2.22</LEXLink>
+          </LEXLinks>
+          <LEXVideos/>
+          <LEXCoreDomains>
+            <LEXCoreDomain Code="010">Animal</LEXCoreDomain>
+          </LEXCoreDomains>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

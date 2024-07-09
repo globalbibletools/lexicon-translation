@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="002354000000000" Lemma="θνητός" Version="0" HasAramaic="false" InLXX="true" AlphaPos="θ">
+  <StrongCodes>
+    <Strong>G2349</Strong>
+  </StrongCodes>
+  <Authors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes/>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="002354001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>adjc.</PartOfSpeech>
+      </PartsOfSpeech>
+      <Inflections>
+        <Inflection Lemma="θνητός" BaseFormIndex="1">
+          <Form/>
+          <Realizations>
+            <Realization>-ή, -όν</Realization>
+          </Realizations>
+          <Comments/>
+        </Inflection>
+      </Inflections>
+      <RelatedLemmas>
+        <RelatedLemma>
+          <Word>θνῄσκω</Word>
+        </RelatedLemma>
+      </RelatedLemmas>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="002354001001000" IsBiblicalTerm="Y" EntryCode="23.124" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Physiological Processes and States</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Live, Die</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-08-19 09:44:27" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>pertaining to being liable to death (that which will eventually die)</DefinitionShort>
+              <Glosses>
+                <Gloss>mortal</Gloss>
+              </Glosses>
+              <Comments>The phrase ‘mortal bodies’ ({S:04500601200016}) may be rendered as ‘bodies which will die.’</Comments>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04500601200016</LEXReference>
+            <LEXReference>04500801100044</LEXReference>
+            <LEXReference>04601505300020</LEXReference>
+            <LEXReference>04601505400020</LEXReference>
+            <LEXReference>04700401100040</LEXReference>
+            <LEXReference>04700500400040</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

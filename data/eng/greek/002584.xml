@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="002584000000000" Lemma="κἄν" Version="0" HasAramaic="false" InLXX="true" AlphaPos="κ">
+  <StrongCodes>
+    <Strong>G2579</Strong>
+  </StrongCodes>
+  <Authors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes/>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="002584001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>conj.</PartOfSpeech>
+      </PartsOfSpeech>
+      <Constructs>
+        <Construct Lemma="κἄν" BaseFormIndex="1">
+          <WordMeaningSet>
+            <Word>καὶ</Word>
+          </WordMeaningSet>
+          <WordMeaningSet>
+            <Word>εἰ</Word>
+          </WordMeaningSet>
+          <WordMeaningSet>
+            <Word>ἄν</Word>
+          </WordMeaningSet>
+        </Construct>
+      </Constructs>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="002584001001000" IsBiblicalTerm="Y" EntryCode="89.73" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Relations</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Concession</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-09-10 18:41:57" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>an emphatic marker of concession</DefinitionShort>
+              <Glosses>
+                <Gloss>even if</Gloss>
+                <Gloss>even though</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04002102100046</LEXReference>
+            <LEXReference>04002603500010</LEXReference>
+            <LEXReference>04100502800012</LEXReference>
+            <LEXReference>04100605600046</LEXReference>
+            <LEXReference>04101601800014</LEXReference>
+            <LEXReference>04201203800002</LEXReference>
+            <LEXReference>04201203800010</LEXReference>
+            <LEXReference>04201300900002</LEXReference>
+            <LEXReference>04300801400012</LEXReference>
+            <LEXReference>04300805500018</LEXReference>
+            <LEXReference>04301003800008</LEXReference>
+            <LEXReference>04301102500032</LEXReference>
+            <LEXReference>04400501500036</LEXReference>
+            <LEXReference>04601300300002</LEXReference>
+            <LEXReference>04701101600026</LEXReference>
+            <LEXReference>05801202000012</LEXReference>
+            <LEXReference>05900501500028</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="001538000000000" Lemma="εἴσειμι" Version="0" HasAramaic="false" InLXX="true" AlphaPos="ε">
+  <StrongCodes>
+    <Strong>G1524</Strong>
+  </StrongCodes>
+  <Authors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes/>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="001538001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>verb</PartOfSpeech>
+      </PartsOfSpeech>
+      <Inflections>
+        <Inflection Lemma="εἴσειμι" BaseFormIndex="1">
+          <Form>‏inf.</Form>
+          <Realizations>
+            <Realization>εἰσιέναι</Realization>
+          </Realizations>
+          <Comments/>
+        </Inflection>
+        <Inflection Lemma="εἴσειμι" BaseFormIndex="1">
+          <Form>pres.3pl.</Form>
+          <Realizations>
+            <Realization>εἰσίασιν</Realization>
+          </Realizations>
+          <Comments/>
+        </Inflection>
+        <Inflection Lemma="εἴσειμι" BaseFormIndex="1">
+          <Form>impf.3sg.</Form>
+          <Realizations>
+            <Realization>εἰσῄει</Realization>
+          </Realizations>
+          <Comments/>
+        </Inflection>
+      </Inflections>
+      <RelatedLemmas>
+        <RelatedLemma>
+          <Word>εἶμι</Word>
+          <Meaning LanguageCode="en">
+            <Meaning>go, come</Meaning>
+          </Meaning>
+          <Meaning LanguageCode="zhT">
+            <Meaning>來，去</Meaning>
+          </Meaning>
+        </RelatedLemma>
+      </RelatedLemmas>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="001538001001000" IsBiblicalTerm="Y" EntryCode="15.93" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Linear Movement</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Come/Go Into</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-10-27 02:55:04" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>to move into a space, either two-dimensional or three-dimensional</DefinitionShort>
+              <Glosses>
+                <Gloss>to move into</Gloss>
+                <Gloss>to come into</Gloss>
+                <Gloss>to go into</Gloss>
+                <Gloss>to enter</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04400300300014</LEXReference>
+            <LEXReference>04402101800008</LEXReference>
+            <LEXReference>04402102600026</LEXReference>
+            <LEXReference>05800900600024</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

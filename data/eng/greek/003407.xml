@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="003407000000000" Lemma="νεότης" Version="0" HasAramaic="false" InLXX="true" AlphaPos="ν">
+  <StrongCodes>
+    <Strong>G3503</Strong>
+  </StrongCodes>
+  <Authors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes>
+    <Note Caller="1" LanguageCode="en" LastEdited="" LastEditedBy="">
+      <References/>
+      <Content>The meanings of terms in {D:67.152}-{D:67.158} could almost be treated equally well in Domain 23 Physiological Processes and States, since these could be regarded as simply derivatives of physiological states. However, the focus of meaning in the respective contexts seems to be more upon a particular period of time rather than upon a physiological state or condition.</Content>
+    </Note>
+  </Notes>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="003407001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>noun, f.</PartOfSpeech>
+      </PartsOfSpeech>
+      <Inflections>
+        <Inflection Lemma="νεότης" BaseFormIndex="1">
+          <Form/>
+          <Realizations>
+            <Realization>-ητος</Realization>
+          </Realizations>
+          <Comments/>
+        </Inflection>
+      </Inflections>
+      <RelatedLemmas>
+        <RelatedLemma>
+          <Word>νέος</Word>
+        </RelatedLemma>
+      </RelatedLemmas>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="003407001001000" IsBiblicalTerm="Y" EntryCode="67.154" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Time</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Indefinite Units of Time: Age, Lifetime, Interval, Period</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-12-10 15:38:54" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>a period of time when one is young{N:001}</DefinitionShort>
+              <Glosses>
+                <Gloss>youth</Gloss>
+                <Gloss>being young</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04101002000020</LEXReference>
+            <LEXReference>04201802100016</LEXReference>
+            <LEXReference>04402600400016</LEXReference>
+            <LEXReference>05400401200008</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

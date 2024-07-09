@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="000545000000000" Lemma="ἀπειλέω" Version="0" HasAramaic="false" InLXX="true" AlphaPos="α">
+  <StrongCodes>
+    <Strong>G0546</Strong>
+  </StrongCodes>
+  <Authors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes/>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="000545001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>verb</PartOfSpeech>
+      </PartsOfSpeech>
+      <RelatedLemmas>
+        <RelatedLemma>
+          <Word>εἴλω</Word>
+          <Meaning LanguageCode="en">
+            <Meaning>press hard, coop up, strike</Meaning>
+          </Meaning>
+          <Meaning LanguageCode="zhT">
+            <Meaning>用力按壓，困住，撞擊</Meaning>
+          </Meaning>
+        </RelatedLemma>
+        <RelatedLemma>
+          <Word>ἀπειλή</Word>
+        </RelatedLemma>
+        <RelatedLemma>
+          <Word>προσαπειλέομαι</Word>
+        </RelatedLemma>
+      </RelatedLemmas>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="000545001001000" IsBiblicalTerm="Y" EntryCode="33.291" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Communication</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Threaten</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2022-08-22 14:32:59" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>to declare that one will cause harm to someone, particularly if certain conditions are not met</DefinitionShort>
+              <Glosses>
+                <Gloss>to threaten</Gloss>
+                <Gloss>threat</Gloss>
+              </Glosses>
+              <Comments>Because of the implied reciprocity in ἀπειλέω and ἀπειλή, one may translate {S:06000202300014} as ‘when he suffered, he did not say he would make them suffer.’</Comments>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04400401700020</LEXReference>
+            <LEXReference>06000202300014</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

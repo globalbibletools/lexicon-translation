@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="004900000000000" Lemma="σωφρόνως" Version="0" HasAramaic="false" InLXX="true" AlphaPos="σ">
+  <StrongCodes>
+    <Strong>G4996</Strong>
+  </StrongCodes>
+  <Authors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes/>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="004900001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>advb.</PartOfSpeech>
+      </PartsOfSpeech>
+      <Constructs>
+        <Construct Lemma="σωφρόνως" BaseFormIndex="1">
+          <WordMeaningSet>
+            <Word>σῴζω</Word>
+          </WordMeaningSet>
+          <WordMeaningSet>
+            <Word>φρονέω</Word>
+          </WordMeaningSet>
+        </Construct>
+      </Constructs>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="004900001001000" IsBiblicalTerm="M" EntryCode="88.94" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Moral and Ethical Qualities and Related Behavior</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Sensible Behavior, Senseless Behavior</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2022-03-17 16:24:24" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>(derivative of the stem σωφρο ‘to behave in a sensible manner,’ {D:88.93}) pertaining to being sensible and moderate in one’s behavior</DefinitionShort>
+              <Glosses>
+                <Gloss>sensible</Gloss>
+                <Gloss>sensibly</Gloss>
+                <Gloss>moderate</Gloss>
+                <Gloss>moderately</Gloss>
+              </Glosses>
+              <Comments>In a number of languages terms such as {L:σωφρονισμός&lt;SDBG:σωφρονισμός:000001&gt;}[b] ({D:88.93}), {L:σωφροσύνη&lt;SDBG:σωφροσύνη:000001&gt;}[b] ({D:88.93}), {L:σώφρων&lt;SDBG:σώφρων:000000&gt;}, and σωφρόνως may be rendered as ‘to have right thoughts about what one should do’ or ‘to let one’s mind guide one’s body.’</Comments>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>05600201200022</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

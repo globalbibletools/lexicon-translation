@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="004045000000000" Lemma="מְלִיצָה" Version="4" HasAramaic="false" InLXX="false" AlphaPos="מ">
+  <StrongCodes>
+    <Strong>H4426</Strong>
+  </StrongCodes>
+  <Authors>
+    <Author>Reinier de Blois</Author>
+  </Authors>
+  <Contributors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes>
+    <Note Caller="1" LanguageCode="en" LastEdited="" LastEditedBy="">
+      <References>
+        <Reference>02000100600010</Reference>
+      </References>
+      <Content>RSV "figure" NIV REB "parables" NJPS "epigram" NJB "obscure sayings" CEV "sayings" ESV "saying"</Content>
+    </Note>
+  </Notes>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="004045001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>nsf</PartOfSpeech>
+      </PartsOfSpeech>
+      <RelatedLemmas>
+        <RelatedLemma>
+          <Word>ליץ</Word>
+        </RelatedLemma>
+      </RelatedLemmas>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="004045001001000" IsBiblicalTerm="Y" EntryCode="" Indent="0">
+          <LEXDomains>
+            <LEXDomain Code="002004001009012">Revile</LEXDomain>
+          </LEXDomains>
+          <LEXSynonyms>
+            <LEXSynonym>חִידָה</LEXSynonym>
+            <LEXSynonym>מָשָׁל</LEXSynonym>
+          </LEXSynonyms>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2017-12-17 16:37:06" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>= words that express insolence and contempt for someone else</DefinitionShort>
+              <Glosses>
+                <Gloss>mocking</Gloss>
+                <Gloss>scoffing</Gloss>
+                <Gloss>ridicule</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>03500200600018</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+          <LEXCoreDomains>
+            <LEXCoreDomain Code="041">Communication</LEXCoreDomain>
+            <LEXCoreDomain Code="170">Status</LEXCoreDomain>
+          </LEXCoreDomains>
+        </LEXMeaning>
+        <LEXMeaning Id="004045001002000" IsBiblicalTerm="Y" EntryCode="" Indent="0">
+          <LEXDomains>
+            <LEXDomain Code="002001003004">Complicated</LEXDomain>
+          </LEXDomains>
+          <LEXSynonyms>
+            <LEXSynonym>חִידָה</LEXSynonym>
+            <LEXSynonym>מָשָׁל</LEXSynonym>
+          </LEXSynonyms>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2017-12-17 16:37:06" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>meaning unsure; possibly: = words that are difficult to understand and need interpretation</DefinitionShort>
+              <Glosses>
+                <Gloss>enigma</Gloss>
+                <Gloss>obscure saying</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>02000100600010{N:001}</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

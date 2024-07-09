@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="007619000000000" Lemma="שׁקץ" Version="5" HasAramaic="false" InLXX="false" AlphaPos="ש">
+  <StrongCodes>
+    <Strong>H8262</Strong>
+  </StrongCodes>
+  <Authors>
+    <Author>Reinier de Blois</Author>
+  </Authors>
+  <Contributors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes/>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="007619001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>vb</PartOfSpeech>
+      </PartsOfSpeech>
+      <RelatedLemmas>
+        <RelatedLemma>
+          <Word>שִׁקּוּץ</Word>
+        </RelatedLemma>
+        <RelatedLemma>
+          <Word>שֶׁקֶץ</Word>
+        </RelatedLemma>
+      </RelatedLemmas>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="007619001001000" IsBiblicalTerm="M" EntryCode="" Indent="0">
+          <LEXDomains>
+            <LEXDomain Code="002001001063">Unclean</LEXDomain>
+          </LEXDomains>
+          <LEXForms>
+            <LEXForm>vbpiel</LEXForm>
+          </LEXForms>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2016-12-28 16:40:37" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>= causative action by which humans make themselves unclean by engaging with unclean things</DefinitionShort>
+              <Glosses>
+                <Gloss>to contaminate oneself</Gloss>
+                <Gloss>to make oneself abominable</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>00301104300004</LEXReference>
+            <LEXReference>00302002500044</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+          <LEXCoreDomains>
+            <LEXCoreDomain Code="147">Ritual Contamination</LEXCoreDomain>
+          </LEXCoreDomains>
+        </LEXMeaning>
+        <LEXMeaning Id="007619001002000" IsBiblicalTerm="M" EntryCode="" Indent="0">
+          <LEXDomains>
+            <LEXDomain Code="002001002005" Source="Unclean" SourceCode="002001001063">Despise</LEXDomain>
+          </LEXDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2016-12-28 16:40:37" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>= state in which humans or deities regard an object or person as utterly detestable, as associating with it would make them unclean</DefinitionShort>
+              <Glosses>
+                <Gloss>to regard as detestable</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>00301101100024</LEXReference>
+            <LEXReference>00301101300008</LEXReference>
+            <LEXReference>00500702600022</LEXReference>
+            <LEXReference>00500702600024</LEXReference>
+            <LEXReference>01902202500012</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+          <LEXCoreDomains>
+            <LEXCoreDomain Code="106">Mind</LEXCoreDomain>
+            <LEXCoreDomain Code="147">Ritual Contamination</LEXCoreDomain>
+          </LEXCoreDomains>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="004881000000000" Lemma="נצא" Version="5" HasAramaic="false" InLXX="false" AlphaPos="נ">
+  <StrongCodes>
+    <Strong>H5323</Strong>
+  </StrongCodes>
+  <Authors>
+    <Author>Reinier de Blois</Author>
+  </Authors>
+  <Contributors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes>
+    <Note Caller="1" LanguageCode="en" LastEdited="" LastEditedBy="">
+      <References>
+        <Reference>02404800900012</Reference>
+      </References>
+      <Content>{A:MT} {A:HOTTP}-C {A:RSV} {A:NJB} | NIV REB GNT CEV {L:נצה&lt;SDBH:נצה&gt;} "to be ruined" | NJPS {L:יצא&lt;SDBH:יצא&gt;} "to leave"</Content>
+    </Note>
+  </Notes>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="004881001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>vb</PartOfSpeech>
+      </PartsOfSpeech>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="004881001001000" IsBiblicalTerm="Y" EntryCode="" Indent="0">
+          <LEXDomains>
+            <LEXDomain Code="002002001011">Move</LEXDomain>
+          </LEXDomains>
+          <LEXForms>
+            <LEXForm>vbqal-</LEXForm>
+          </LEXForms>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2018-01-15 08:24:54" LastEditedBy="administrator">
+              <DefinitionLong/>
+              <DefinitionShort>= action by which birds move away from a location by flying</DefinitionShort>
+              <Glosses>
+                <Gloss>to fly away</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>02404800900012{N:001}</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

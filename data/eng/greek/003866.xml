@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="003866000000000" Lemma="πατριά" Version="0" HasAramaic="false" InLXX="true" AlphaPos="π">
+  <StrongCodes>
+    <Strong>G3965</Strong>
+  </StrongCodes>
+  <Authors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes>
+    <Note Caller="1" LanguageCode="en" LastEdited="" LastEditedBy="">
+      <References/>
+      <Content>πατριά[a] and φυλή[b] nation, people ({D:11.56}) focus attention upon a particular people as a socially functioning unit, while the feature of biological descent is largely secondary. But in the case of γένος[b] and σάρξ[e], the feature of biological descent is focal, while group functioning is largely secondary.</Content>
+    </Note>
+  </Notes>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="003866001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>noun, f.</PartOfSpeech>
+      </PartsOfSpeech>
+      <Inflections>
+        <Inflection Lemma="πατριά" BaseFormIndex="1">
+          <Form/>
+          <Realizations>
+            <Realization>-ᾶς</Realization>
+          </Realizations>
+          <Comments/>
+        </Inflection>
+      </Inflections>
+      <RelatedLemmas>
+        <RelatedLemma>
+          <Word>πατήρ</Word>
+        </RelatedLemma>
+      </RelatedLemmas>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="003866001001000" IsBiblicalTerm="Y" EntryCode="10.24" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Kinship Terms</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Kinship Relations Involving Successive Generations</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-12-23 21:10:50" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>persons of successive generations who are related by birth{N:001}</DefinitionShort>
+              <Glosses>
+                <Gloss>lineage</Gloss>
+                <Gloss>family line</Gloss>
+              </Glosses>
+              <Comments>In biblical times the reckoning of a lineage was somewhat complex in view of certain distinctions between legal and biological relations. The focus of meaning in {L:γένεσις&lt;SDBG:γένεσις:000001&gt;}[b], {L:οἶκος&lt;SDBG:οἶκος:000002&gt;}[c], and πατριά[a] is not, however, the list of ancestors, but the lineage of successively related persons to which the reference person belongs. Some scholars, however, interpret {L:γένεσις&lt;SDBG:γένεσις:000002&gt;}[c] history, {D:33.19}).|In some languages a successive series of ancestors is called ‘the forefathers’ or ‘those to whom one looks back’ or ‘those who have gone ahead.’ In other languages a lineage is referred to as ‘a person’s root’ or ‘a man’s trunk’ (referring to the trunk of a tree).|In {S:04200200400054} there appears to be no significant difference in meaning between {L:οἶκος&lt;SDBG:οἶκος:000002&gt;} and πατριά, and in some receptor languages it would be sufficient to use a single term essentially equivalent to ‘lineage.’ The two terms appear to simply reinforce their shared meaning.</Comments>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04200200400054</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+        <LEXMeaning Id="003866001002000" IsBiblicalTerm="Y" EntryCode="11.56" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Groups and Classes of Persons and Members of Such Groups and Classes</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Socio-Political</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-12-23 21:10:50" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>a relatively large unit of people who constitute a sociopolitical group, sharing a presumed biological descent (in many contexts πατριά[b] and {L:φυλή&lt;SDBG:φυλή:000001&gt;}[b] are very similar in meaning to {L:ἔθνος&lt;SDBG:ἔθνος:000000&gt;} and {L:λαός&lt;SDBG:λαός:000000&gt;}[a], {D:11.55})</DefinitionShort>
+              <Glosses>
+                <Gloss>nation</Gloss>
+                <Gloss>people</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04400302500058</LEXReference>
+            <LEXReference>04900301500008</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

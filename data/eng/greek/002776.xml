@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="002776000000000" Lemma="κεραμικός" Version="0" HasAramaic="false" InLXX="true" AlphaPos="κ">
+  <StrongCodes>
+    <Strong>G2764</Strong>
+  </StrongCodes>
+  <Authors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes/>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="002776001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>adjc.</PartOfSpeech>
+      </PartsOfSpeech>
+      <Inflections>
+        <Inflection Lemma="κεραμικός" BaseFormIndex="1">
+          <Form/>
+          <Realizations>
+            <Realization>-ή, -όν</Realization>
+          </Realizations>
+          <Comments/>
+        </Inflection>
+      </Inflections>
+      <RelatedLemmas>
+        <RelatedLemma>
+          <Word>κεραμεύς</Word>
+        </RelatedLemma>
+      </RelatedLemmas>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="002776001001000" IsBiblicalTerm="M" EntryCode="2.19" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Natural Substances</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Earth, Mud, Sand, Rock</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-10-05 12:43:03" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>(derivative of {L:κέραμος&lt;SDBG:κέραμος:000000&gt;} ‘potter’s clay,’ not occurring in the NT) pertaining to being made of potter’s clay</DefinitionShort>
+              <Glosses>
+                <Gloss>made of clay</Gloss>
+                <Gloss>clay</Gloss>
+              </Glosses>
+              <Comments>In some languages it may seem unduly repetitious to speak of ‘clay pots’ in {S:06600202700022} since a term for pot may refer only to objects made of clay. In biblical times, however, some σκεύη were of metal and others were of stone and wood. It may be possible to translate this expression in {S:06600202700022} as ‘they shall be broken like pots’ or ‘… like dishes.’</Comments>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>06600202700022</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

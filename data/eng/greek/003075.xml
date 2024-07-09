@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="003075000000000" Lemma="λογομαχία" Version="0" HasAramaic="false" InLXX="false" AlphaPos="λ">
+  <StrongCodes>
+    <Strong>G3055</Strong>
+  </StrongCodes>
+  <Authors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes/>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="003075001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>noun, f.</PartOfSpeech>
+      </PartsOfSpeech>
+      <Inflections>
+        <Inflection Lemma="λογομαχία" BaseFormIndex="1">
+          <Form/>
+          <Realizations>
+            <Realization>-ας</Realization>
+          </Realizations>
+          <Comments/>
+        </Inflection>
+      </Inflections>
+      <Constructs>
+        <Construct Lemma="λογομαχία" BaseFormIndex="1">
+          <WordMeaningSet>
+            <Word>λέγω</Word>
+          </WordMeaningSet>
+          <WordMeaningSet>
+            <Word>μάχομαι</Word>
+          </WordMeaningSet>
+        </Construct>
+      </Constructs>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="003075001001000" IsBiblicalTerm="Y" EntryCode="33.454" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Communication</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Argue, Quarrel</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-11-11 12:50:51" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>arguing or quarreling about the meaning or use of words</DefinitionShort>
+              <Glosses>
+                <Gloss>quarreling about words</Gloss>
+                <Gloss>arguing about words</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>05400600400018</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

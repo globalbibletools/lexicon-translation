@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="000407000000000" Lemma="ἀνδραποδιστής" Version="0" HasAramaic="false" InLXX="false" AlphaPos="α">
+  <StrongCodes>
+    <Strong>G0405</Strong>
+  </StrongCodes>
+  <Authors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes/>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="000407001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>noun, m.</PartOfSpeech>
+      </PartsOfSpeech>
+      <Inflections>
+        <Inflection Lemma="ἀνδραποδιστής" BaseFormIndex="1">
+          <Form/>
+          <Realizations>
+            <Realization>-οῦ</Realization>
+          </Realizations>
+          <Comments/>
+        </Inflection>
+      </Inflections>
+      <Constructs>
+        <Construct Lemma="ἀνδραποδιστής" BaseFormIndex="1">
+          <WordMeaningSet>
+            <Word>ἀνδρίζομαι</Word>
+          </WordMeaningSet>
+          <WordMeaningSet>
+            <Word>πούς</Word>
+          </WordMeaningSet>
+        </Construct>
+      </Constructs>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="000407001001000" IsBiblicalTerm="M" EntryCode="57.187" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Possess, Transfer, Exchange</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Sell, Buy, Price</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-08-05 16:00:38" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>one who sells persons as slaves, including one who kidnaps persons and sells them</DefinitionShort>
+              <Glosses>
+                <Gloss>slave dealer</Gloss>
+                <Gloss>kidnapper</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>05400101000006</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

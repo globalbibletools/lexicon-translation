@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="001300000000000" Lemma="גְּדוּלָּה" Version="5" HasAramaic="false" InLXX="false" AlphaPos="ג">
+  <StrongCodes>
+    <Strong>H1420</Strong>
+  </StrongCodes>
+  <Authors>
+    <Author>Enio R. Mueller</Author>
+  </Authors>
+  <Contributors/>
+  <AlternateLemmas>
+    <AlternateLemma>גְּדוּלָה</AlternateLemma>
+  </AlternateLemmas>
+  <MainLinks/>
+  <Notes>
+    <Note Caller="1" LanguageCode="en" LastEdited="" LastEditedBy="">
+      <References>
+        <Reference>01914500600012</Reference>
+      </References>
+      <Content>MT-K וגדולתיךְ | MT-Q וּגְדוּלָּתְךָ</Content>
+    </Note>
+  </Notes>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="001300001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>nsf</PartOfSpeech>
+      </PartsOfSpeech>
+      <RelatedLemmas>
+        <RelatedLemma>
+          <Word>גדל</Word>
+        </RelatedLemma>
+      </RelatedLemmas>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="001300001001000" IsBiblicalTerm="Y" EntryCode="" Indent="0">
+          <LEXDomains>
+            <LEXDomain Code="002001002012" Source="Large" SourceCode="002001001034">Great</LEXDomain>
+          </LEXDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2016-03-24 19:07:56" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>= state in which a human being or deity has an elevated status, as a result of their authority, rank, wealth, or wisdom</DefinitionShort>
+              <Glosses>
+                <Gloss>greatness</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>01302901100008</LEXReference>
+            <LEXReference>01700100400022</LEXReference>
+            <LEXReference>01700600300018</LEXReference>
+            <LEXReference>01701000200018</LEXReference>
+            <LEXReference>01907102100004</LEXReference>
+            <LEXReference>01914500300016</LEXReference>
+            <LEXReference>01914500600012{N:001}</LEXReference>
+            <LEXReference>01914500600016</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+          <LEXCoreDomains>
+            <LEXCoreDomain Code="170">Status</LEXCoreDomain>
+          </LEXCoreDomains>
+        </LEXMeaning>
+        <LEXMeaning Id="001300001002000" IsBiblicalTerm="Y" EntryCode="" Indent="0">
+          <LEXDomains>
+            <LEXDomain Code="002001003012" Source="Large" SourceCode="002001001034">Intense</LEXDomain>
+          </LEXDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2016-03-24 19:07:56" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>= state in which an event has a high intensity</DefinitionShort>
+              <Glosses>
+                <Gloss>great thing</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>01000702100022</LEXReference>
+            <LEXReference>01000702300060</LEXReference>
+            <LEXReference>01301701900024</LEXReference>
+            <LEXReference>01301701900040</LEXReference>
+            <LEXReference>01301702100046</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+          <LEXCoreDomains>
+            <LEXCoreDomain Code="090">Intensity</LEXCoreDomain>
+          </LEXCoreDomains>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

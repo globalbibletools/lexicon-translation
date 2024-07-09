@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="001445000000000" Lemma="δυσνόητος" Version="0" HasAramaic="false" InLXX="false" AlphaPos="δ">
+  <StrongCodes>
+    <Strong>G1425</Strong>
+  </StrongCodes>
+  <Authors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes/>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="001445001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>pidf.</PartOfSpeech>
+      </PartsOfSpeech>
+      <Inflections>
+        <Inflection Lemma="δυσνόητος" BaseFormIndex="1">
+          <Form/>
+          <Realizations>
+            <Realization>-ον</Realization>
+          </Realizations>
+          <Comments/>
+        </Inflection>
+      </Inflections>
+      <Constructs>
+        <Construct Lemma="δυσνόητος" BaseFormIndex="1">
+          <WordMeaningSet>
+            <Word>δῦσ-</Word>
+            <Meaning LanguageCode="en">
+              <Meaning>hard, difficult</Meaning>
+            </Meaning>
+            <Meaning LanguageCode="zhT">
+              <Meaning>艱難的，困難的</Meaning>
+            </Meaning>
+          </WordMeaningSet>
+          <WordMeaningSet>
+            <Word>νοέω</Word>
+          </WordMeaningSet>
+        </Construct>
+      </Constructs>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="001445001001000" IsBiblicalTerm="Y" EntryCode="32.22" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Understand</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Ease or Difficulty in Understanding</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-10-26 15:29:58" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>pertaining to being understandable, but only with great effort</DefinitionShort>
+              <Glosses>
+                <Gloss>difficult to understand</Gloss>
+                <Gloss>not easily understood</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>06100301600030</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

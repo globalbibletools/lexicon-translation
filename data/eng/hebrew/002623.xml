@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="002623000000000" Lemma="חִתִּית" Version="5" HasAramaic="false" InLXX="false" AlphaPos="ח">
+  <StrongCodes>
+    <Strong>H2851</Strong>
+  </StrongCodes>
+  <Authors>
+    <Author>Reinier de Blois</Author>
+  </Authors>
+  <Contributors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes>
+    <Note Caller="1" LanguageCode="en" LastEdited="" LastEditedBy="">
+      <References>
+        <Reference>02603203200008</Reference>
+      </References>
+      <Content>MT-K חתיתו = suffix 3ms | MT-Q חִתִּיתִי = suffix 1s</Content>
+    </Note>
+  </Notes>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="002623001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>nsf</PartOfSpeech>
+      </PartsOfSpeech>
+      <RelatedLemmas>
+        <RelatedLemma>
+          <Word>חתת</Word>
+        </RelatedLemma>
+      </RelatedLemmas>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="002623001001000" IsBiblicalTerm="Y" EntryCode="" Indent="0">
+          <LEXDomains>
+            <LEXDomain Code="002001002001">Afraid</LEXDomain>
+          </LEXDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2018-01-14 07:52:43" LastEditedBy="administrator">
+              <DefinitionLong/>
+              <DefinitionShort>= causative action by which humans cause other humans to lack inner strength and courage, ◄ by acts of aggression</DefinitionShort>
+              <Glosses>
+                <Gloss>terror</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>02602601700056</LEXReference>
+            <LEXReference>02603202300040</LEXReference>
+            <LEXReference>02603202400046</LEXReference>
+            <LEXReference>02603202500036</LEXReference>
+            <LEXReference>02603202600030</LEXReference>
+            <LEXReference>02603202700054</LEXReference>
+            <LEXReference>02603203000026</LEXReference>
+            <LEXReference>02603203200008{N:001}</LEXReference>
+            <LEXReference>02603203200010</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+          <LEXCoreDomains>
+            <LEXCoreDomain Code="043">Confidence and Fear</LEXCoreDomain>
+            <LEXCoreDomain Code="006">Aggression</LEXCoreDomain>
+          </LEXCoreDomains>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

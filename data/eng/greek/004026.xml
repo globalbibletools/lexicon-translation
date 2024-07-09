@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="004026000000000" Lemma="πλεονεκτέω" Version="0" HasAramaic="false" InLXX="true" AlphaPos="π">
+  <StrongCodes>
+    <Strong>G4122</Strong>
+  </StrongCodes>
+  <Authors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes/>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="004026001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>verb</PartOfSpeech>
+      </PartsOfSpeech>
+      <Constructs>
+        <Construct Lemma="πλεονεκτέω" BaseFormIndex="1">
+          <WordMeaningSet>
+            <Word>πλεονάζω</Word>
+          </WordMeaningSet>
+          <WordMeaningSet>
+            <Word>ἔχω</Word>
+          </WordMeaningSet>
+        </Construct>
+      </Constructs>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="004026001001000" IsBiblicalTerm="M" EntryCode="88.144" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Moral and Ethical Qualities and Related Behavior</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Exploit</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-12-27 14:52:15" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>to take advantage of someone, usually as the result of a motivation of greed</DefinitionShort>
+              <Glosses>
+                <Gloss>to take advantage of</Gloss>
+                <Gloss>to exploit</Gloss>
+                <Gloss>exploitation</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04700201100006</LEXReference>
+            <LEXReference>04700700200016</LEXReference>
+            <LEXReference>04701201700018</LEXReference>
+            <LEXReference>04701201800016</LEXReference>
+            <LEXReference>05200400600010</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

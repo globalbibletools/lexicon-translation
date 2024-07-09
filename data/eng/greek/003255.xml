@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="003255000000000" Lemma="μεταμορφόω" Version="0" HasAramaic="false" InLXX="false" AlphaPos="μ">
+  <StrongCodes>
+    <Strong>G3339</Strong>
+  </StrongCodes>
+  <Authors/>
+  <AlternateLemmas>
+    <AlternateLemma>μεταμορφόομαι</AlternateLemma>
+  </AlternateLemmas>
+  <MainLinks/>
+  <Notes/>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="003255001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>verb</PartOfSpeech>
+      </PartsOfSpeech>
+      <RelatedLemmas>
+        <RelatedLemma>
+          <Word>μορφόω</Word>
+        </RelatedLemma>
+      </RelatedLemmas>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="003255001001000" IsBiblicalTerm="Y" EntryCode="13.53" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Be, Become, Exist, Happen</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Change of State</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXForms>
+            <LEXForm>μεταμορφόομαι[a]</LEXForm>
+          </LEXForms>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-12-01 11:05:25" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>to change the essential form or nature of something</DefinitionShort>
+              <Glosses>
+                <Gloss>to become</Gloss>
+                <Gloss>to change</Gloss>
+                <Gloss>to be changed into</Gloss>
+                <Gloss>to be transformed</Gloss>
+              </Glosses>
+              <Comments>In a number of languages the equivalent of μεταμορφόομαι in {S:04501200200016} may be ‘become completely different’ or ‘become different from what you are.’</Comments>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04501200200016</LEXReference>
+            <LEXReference>04700301800026</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+        <LEXMeaning Id="003255001002000" IsBiblicalTerm="Y" EntryCode="58.16" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Nature, Class, Example</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Appearance as an Outward Manifestation of Form</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXForms>
+            <LEXForm>μεταμορφόομαι[b]</LEXForm>
+          </LEXForms>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-12-01 11:05:25" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>to take on a different physical form or appearance</DefinitionShort>
+              <Glosses>
+                <Gloss>to change in appearance</Gloss>
+              </Glosses>
+              <Comments>In some instances it may be more appropriate to render this expression in {S:04100900200052} as ‘as they watched, he appeared different.’</Comments>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04001700200004</LEXReference>
+            <LEXReference>04100900200052</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

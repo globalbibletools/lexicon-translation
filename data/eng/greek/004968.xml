@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="004968000000000" Lemma="τετραάρχης" Version="0" HasAramaic="false" InLXX="false" AlphaPos="τ">
+  <StrongCodes>
+    <Strong>G5076a</Strong>
+  </StrongCodes>
+  <Authors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes/>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="004968001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>noun, m.</PartOfSpeech>
+      </PartsOfSpeech>
+      <Inflections>
+        <Inflection Lemma="τετραάρχης" BaseFormIndex="1">
+          <Form/>
+          <Realizations>
+            <Realization>-ου</Realization>
+          </Realizations>
+          <Comments/>
+        </Inflection>
+      </Inflections>
+      <Constructs>
+        <Construct Lemma="τετραάρχης" BaseFormIndex="1">
+          <WordMeaningSet>
+            <Word>τέσσαρες</Word>
+          </WordMeaningSet>
+          <WordMeaningSet>
+            <Word>ἄρχω</Word>
+          </WordMeaningSet>
+        </Construct>
+      </Constructs>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="004968001001000" IsBiblicalTerm="M" EntryCode="37.78" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Control, Rule</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Rule, Govern</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2022-04-05 14:26:28" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>a ruler with rank and authority lower than that of a king and one who ruled only with the approval of Roman authorities</DefinitionShort>
+              <Glosses>
+                <Gloss>tetrarch</Gloss>
+                <Gloss>governor of a region</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04001400100016</LEXReference>
+            <LEXReference>04200301900010</LEXReference>
+            <LEXReference>04200900700010</LEXReference>
+            <LEXReference>04401300100056</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

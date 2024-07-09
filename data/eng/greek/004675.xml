@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="004675000000000" Lemma="συγγένεια" Version="0" HasAramaic="false" InLXX="true" AlphaPos="σ">
+  <StrongCodes>
+    <Strong>G4772</Strong>
+  </StrongCodes>
+  <Authors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes/>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="004675001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>noun, f.</PartOfSpeech>
+      </PartsOfSpeech>
+      <Inflections>
+        <Inflection Lemma="συγγένεια" BaseFormIndex="1">
+          <Form/>
+          <Realizations>
+            <Realization>-ας</Realization>
+          </Realizations>
+          <Comments/>
+        </Inflection>
+      </Inflections>
+      <RelatedLemmas>
+        <RelatedLemma>
+          <Word>γίνομαι</Word>
+        </RelatedLemma>
+      </RelatedLemmas>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="004675001001000" IsBiblicalTerm="Y" EntryCode="10.5" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Kinship Terms</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Groups and Members of Groups of Persons Regarded as Related by Blood but without Special Reference to Successive Generations</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2022-03-08 21:43:23" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>the group of persons who are members of an extended family</DefinitionShort>
+              <Glosses>
+                <Gloss>relatives</Gloss>
+                <Gloss>kinfolks</Gloss>
+              </Glosses>
+              <Comments>This clause in {S:04200106100020} may also be translated in some languages as ‘but you do not have anyone in your clan who has that name’ or ‘no one in your family has ever had that name’ or ‘none of your ancestors has ever had that name.’</Comments>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04200106100020</LEXReference>
+            <LEXReference>04400700300026</LEXReference>
+            <LEXReference>04400701400024</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

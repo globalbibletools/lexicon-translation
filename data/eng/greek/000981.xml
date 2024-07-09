@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="000981000000000" Lemma="βιβλαρίδιον" Version="0" HasAramaic="false" InLXX="false" AlphaPos="β">
+  <StrongCodes>
+    <Strong>G0974</Strong>
+  </StrongCodes>
+  <Authors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes/>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="000981001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>noun, n.</PartOfSpeech>
+      </PartsOfSpeech>
+      <Inflections>
+        <Inflection Lemma="βιβλαρίδιον" BaseFormIndex="1">
+          <Form/>
+          <Realizations>
+            <Realization>-ου</Realization>
+          </Realizations>
+          <Comments/>
+        </Inflection>
+      </Inflections>
+      <RelatedLemmas>
+        <RelatedLemma>
+          <Word>βίβλος</Word>
+        </RelatedLemma>
+      </RelatedLemmas>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="000981001001000" IsBiblicalTerm="M" EntryCode="6.65" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Artifacts</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Instruments Used in Marking and Writing</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-02-05 11:16:32" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>a diminutive derivative of βιβλίον[a], thus, a scroll of small size</DefinitionShort>
+              <Glosses>
+                <Gloss>small scroll</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>06601000200014</LEXReference>
+            <LEXReference>06601000900022</LEXReference>
+            <LEXReference>06601001000008</LEXReference>
+          </LEXReferences>
+          <LEXLinks>
+            <LEXLink>realia:1.7.1</LEXLink>
+          </LEXLinks>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

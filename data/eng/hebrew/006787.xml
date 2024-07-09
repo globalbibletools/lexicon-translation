@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="006787000000000" Lemma="רִיק" Version="4" HasAramaic="false" InLXX="false" AlphaPos="ר">
+  <StrongCodes>
+    <Strong>H7385</Strong>
+  </StrongCodes>
+  <Authors>
+    <Author>Reinier de Blois</Author>
+  </Authors>
+  <Contributors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes/>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="006787001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>nsm</PartOfSpeech>
+      </PartsOfSpeech>
+      <RelatedLemmas>
+        <RelatedLemma>
+          <Word>ריק</Word>
+        </RelatedLemma>
+      </RelatedLemmas>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="006787001001000" IsBiblicalTerm="Y" EntryCode="" Indent="0">
+          <LEXDomains>
+            <LEXDomain Code="002002001004">Non-Contain</LEXDomain>
+          </LEXDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-02-03 14:34:21" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>= state in which a container does not contain anything</DefinitionShort>
+              <Glosses>
+                <Gloss>empty</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>02405103400022</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+          <LEXCoreDomains>
+            <LEXCoreDomain Code="171">Storage</LEXCoreDomain>
+          </LEXCoreDomains>
+        </LEXMeaning>
+        <LEXMeaning Id="006787001002000" IsBiblicalTerm="Y" EntryCode="" Indent="0">
+          <LEXDomains>
+            <LEXDomain Code="002003003012" Source="Non-Contain" SourceCode="002002001004">Fail</LEXDomain>
+          </LEXDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-02-03 14:34:21" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>literally: empty; hence: = state in which an event does not serve a useful purpose and is bound to fail</DefinitionShort>
+              <Glosses>
+                <Gloss>vain</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>00302601600052</LEXReference>
+            <LEXReference>00302602000010</LEXReference>
+            <LEXReference>01803901600014</LEXReference>
+            <LEXReference>01900200100014</LEXReference>
+            <LEXReference>01900400300018</LEXReference>
+            <LEXReference>01907301300004</LEXReference>
+            <LEXReference>02303000700010</LEXReference>
+            <LEXReference>02304900400010</LEXReference>
+            <LEXReference>02306502300010</LEXReference>
+            <LEXReference>02405105800048</LEXReference>
+            <LEXReference>03500201300036</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+          <LEXCoreDomains>
+            <LEXCoreDomain Code="173">Success and Failure</LEXCoreDomain>
+          </LEXCoreDomains>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

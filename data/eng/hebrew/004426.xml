@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="004426000000000" Lemma="מרק" Version="4" HasAramaic="false" InLXX="false" AlphaPos="מ">
+  <StrongCodes>
+    <Strong>H4838</Strong>
+  </StrongCodes>
+  <Authors>
+    <Author>Reinier de Blois</Author>
+  </Authors>
+  <Contributors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes/>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="004426001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>vb</PartOfSpeech>
+      </PartsOfSpeech>
+      <RelatedLemmas>
+        <RelatedLemma>
+          <Word>מְרוּקִים</Word>
+        </RelatedLemma>
+        <RelatedLemma>
+          <Word>מָרַק</Word>
+        </RelatedLemma>
+        <RelatedLemma>
+          <Word>תַּמְרוּק</Word>
+        </RelatedLemma>
+      </RelatedLemmas>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="004426001001000" IsBiblicalTerm="Y" EntryCode="" Indent="0">
+          <LEXDomains>
+            <LEXDomain Code="002001001012" Source="Rub" SourceCode="002003001016">Clean</LEXDomain>
+          </LEXDomains>
+          <LEXForms>
+            <LEXForm>vbpual (passive)</LEXForm>
+          </LEXForms>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2014-01-21 14:59:06" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>= causative action by which someone removes dirt from an object by rubbing it vigorously with a piece of cloth or something else</DefinitionShort>
+              <Glosses>
+                <Gloss>to scour</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>00300602100030</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+          <LEXCoreDomains>
+            <LEXCoreDomain Code="122">Physical Contamination</LEXCoreDomain>
+            <LEXCoreDomain Code="147">Ritual Contamination</LEXCoreDomain>
+          </LEXCoreDomains>
+        </LEXMeaning>
+        <LEXMeaning Id="004426001002000" IsBiblicalTerm="Y" EntryCode="" Indent="0">
+          <LEXDomains>
+            <LEXDomain Code="002001001049" Source="Rub" SourceCode="002003001016">Shine</LEXDomain>
+          </LEXDomains>
+          <LEXForms>
+            <LEXForm>vbqal-</LEXForm>
+          </LEXForms>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2014-01-21 14:59:06" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>literally: to rub; hence: = causative action by which someone causes a metal object to reflect light by rubbing it vigorously</DefinitionShort>
+              <Glosses>
+                <Gloss>to polish</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>01400401600056</LEXReference>
+            <LEXReference>02404600400024</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+          <LEXCoreDomains>
+            <LEXCoreDomain Code="100">Light and Darkness</LEXCoreDomain>
+          </LEXCoreDomains>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

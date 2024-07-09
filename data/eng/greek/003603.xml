@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="003603000000000" Lemma="ὅπλον" Version="0" HasAramaic="false" InLXX="true" AlphaPos="ο">
+  <StrongCodes>
+    <Strong>G3696</Strong>
+  </StrongCodes>
+  <Authors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes>
+    <Note Caller="1" LanguageCode="en" LastEdited="" LastEditedBy="">
+      <References>
+        <Reference>04700600700018</Reference>
+      </References>
+      <Content>In {S:04700600700018} ὅπλον occurs in a highly figurative context, but it is better under such circumstances to regard ὅπλον as referring to an instrument used in fighting and then to assign the figurative meaning to the entire expression. In some languages it may be necessary to translate ὅπλων in {S:04700600700018} as means or simply instruments. For the understanding of the phrase τῶν δεξιῶν καὶ ἀριστερῶν as referring to offensive and defensive weapons, see {D:82.7}.</Content>
+    </Note>
+  </Notes>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="003603001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>noun, n.</PartOfSpeech>
+      </PartsOfSpeech>
+      <Inflections>
+        <Inflection Lemma="ὅπλον" BaseFormIndex="1">
+          <Form/>
+          <Realizations>
+            <Realization>-ου</Realization>
+          </Realizations>
+          <Comments/>
+        </Inflection>
+      </Inflections>
+      <RelatedLemmas>
+        <RelatedLemma>
+          <Word>ὁπλίζομαι</Word>
+        </RelatedLemma>
+      </RelatedLemmas>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="003603001001000" IsBiblicalTerm="Y" EntryCode="6.3" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Artifacts</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Artifacts [General Meaning]</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-12-15 18:23:05" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>any type of tool or instrument</DefinitionShort>
+              <Glosses>
+                <Gloss>tool</Gloss>
+                <Gloss>instrument</Gloss>
+                <Gloss>means</Gloss>
+              </Glosses>
+              <Comments>In {S:04500601300046} ὅπλον is generally interpreted as being used figuratively as a reference to parts of the body which may be instruments for doing evil.</Comments>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04500601300012</LEXReference>
+            <LEXReference>04500601300046</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+        <LEXMeaning Id="003603001002000" IsBiblicalTerm="M" EntryCode="6.29" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Artifacts</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Weapons and Armor</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-12-15 18:23:05" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>an instrument used in fighting, whether offensive or defensive</DefinitionShort>
+              <Glosses>
+                <Gloss>weapon</Gloss>
+              </Glosses>
+              <Comments>In the NT ὅπλον[b] also occurs in the figurative sense of non-material means of fighting, e.g. {S:04700600700018}.</Comments>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04301800300046</LEXReference>
+            <LEXReference>04501301200034</LEXReference>
+            <LEXReference>04700600700018{N:001}</LEXReference>
+            <LEXReference>04701000400006</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

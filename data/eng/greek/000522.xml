@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="000522000000000" Lemma="ἀπαίρω" Version="0" HasAramaic="false" InLXX="true" AlphaPos="α">
+  <StrongCodes>
+    <Strong>G0522</Strong>
+  </StrongCodes>
+  <Authors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes>
+    <Note Caller="1" LanguageCode="en" LastEdited="" LastEditedBy="">
+      <References/>
+      <Content>There may be an implication of force in ἀπαίρω in some contexts, but this is not a distinctive feature of ἀπαίρω.</Content>
+    </Note>
+  </Notes>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="000522001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>verb</PartOfSpeech>
+      </PartsOfSpeech>
+      <Inflections>
+        <Inflection Lemma="ἀπαίρω" BaseFormIndex="1">
+          <Form>aor.pass.3sg.</Form>
+          <Realizations>
+            <Realization>ἀπήρθη</Realization>
+          </Realizations>
+          <Comments/>
+        </Inflection>
+        <Inflection Lemma="ἀπαίρω" BaseFormIndex="1">
+          <Form>subj.</Form>
+          <Realizations>
+            <Realization>ἀπαρθῶ</Realization>
+          </Realizations>
+          <Comments/>
+        </Inflection>
+      </Inflections>
+      <RelatedLemmas>
+        <RelatedLemma>
+          <Word>αἴρω</Word>
+        </RelatedLemma>
+      </RelatedLemmas>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="000522001001000" IsBiblicalTerm="Y" EntryCode="15.177" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Linear Movement</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Lead, Bring, Take</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-08-10 18:04:51" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>to lead or take away from a particular point{N:001}</DefinitionShort>
+              <Glosses>
+                <Gloss>to lead off</Gloss>
+                <Gloss>to lead away</Gloss>
+                <Gloss>to take away</Gloss>
+                <Gloss>to take aside</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04000901500048</LEXReference>
+            <LEXReference>04100202000010</LEXReference>
+            <LEXReference>04200503500012</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

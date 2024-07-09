@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="005019000000000" Lemma="τράγος" Version="0" HasAramaic="false" InLXX="true" AlphaPos="τ">
+  <StrongCodes>
+    <Strong>G5131</Strong>
+  </StrongCodes>
+  <Authors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes/>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="005019001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>noun, m.</PartOfSpeech>
+      </PartsOfSpeech>
+      <Inflections>
+        <Inflection Lemma="τράγος" BaseFormIndex="1">
+          <Form/>
+          <Realizations>
+            <Realization>-ου</Realization>
+          </Realizations>
+          <Comments/>
+        </Inflection>
+      </Inflections>
+      <RelatedLemmas>
+        <RelatedLemma>
+          <Word>τρώγω</Word>
+        </RelatedLemma>
+      </RelatedLemmas>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="005019001001000" IsBiblicalTerm="M" EntryCode="4.21" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Animals</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Animals</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2022-04-13 08:50:09" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>male goat (smaller domesticated four-footed animal with hooves; genus Capra; source of meat, hides, hair, and horns)</DefinitionShort>
+              <Glosses>
+                <Gloss>he-goat</Gloss>
+              </Glosses>
+              <Comments>A number of languages have special terms for ‘he-goat’ and ‘she-goat,’ and frequently there is no formal relationship between the respective terms any more than there is in English between billy and nanny or between the corresponding terms for sheep, namely, ram and ewe.</Comments>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>05800901200008</LEXReference>
+            <LEXReference>05800901300010</LEXReference>
+            <LEXReference>05800901900040</LEXReference>
+            <LEXReference>05801000400012</LEXReference>
+          </LEXReferences>
+          <LEXLinks>
+            <LEXLink>fauna:2.16</LEXLink>
+          </LEXLinks>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

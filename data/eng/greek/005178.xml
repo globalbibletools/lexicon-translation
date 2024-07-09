@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="005178000000000" Lemma="ὑποστέλλω" Version="0" HasAramaic="false" InLXX="true" AlphaPos="υ">
+  <StrongCodes>
+    <Strong>G5288</Strong>
+  </StrongCodes>
+  <Authors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes/>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="005178001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>verb</PartOfSpeech>
+      </PartsOfSpeech>
+      <Inflections>
+        <Inflection Lemma="ὑποστέλλω" BaseFormIndex="1">
+          <Form>aor.midd.</Form>
+          <Realizations>
+            <Realization>ὑπεστειλάμην</Realization>
+          </Realizations>
+          <Comments/>
+        </Inflection>
+        <Inflection Lemma="ὑποστέλλω" BaseFormIndex="1">
+          <Form>subj.3sg.</Form>
+          <Realizations>
+            <Realization>ὑποστείληται</Realization>
+          </Realizations>
+          <Comments/>
+        </Inflection>
+      </Inflections>
+      <RelatedLemmas>
+        <RelatedLemma>
+          <Word>στέλλομαι</Word>
+        </RelatedLemma>
+      </RelatedLemmas>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="005178001001000" IsBiblicalTerm="Y" EntryCode="13.160" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Be, Become, Exist, Happen</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Happen</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2022-05-05 08:36:44" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>to hold oneself back from doing something, with the implication of some fearful concern</DefinitionShort>
+              <Glosses>
+                <Gloss>to hold back from</Gloss>
+                <Gloss>to shrink from</Gloss>
+                <Gloss>to avoid</Gloss>
+              </Glosses>
+              <Comments>For another interpretation of ὑποστέλλω in {S:04402002700006}, see {D:68.53}.</Comments>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04402002000006</LEXReference>
+            <LEXReference>04402002700006</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+        <LEXMeaning Id="005178001002000" IsBiblicalTerm="Y" EntryCode="68.53" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Aspect</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Cease, Stop</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2022-05-05 08:36:44" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>to cease doing something of presumed positive value because of adverse circumstances or fear</DefinitionShort>
+              <Glosses>
+                <Gloss>to cease</Gloss>
+                <Gloss>to stop</Gloss>
+                <Gloss>to give up doing</Gloss>
+              </Glosses>
+              <Comments>It is also possible to translate this clause in {S:04800201200030} as ‘he withdrew and separated himself.’ For another interpretation of {L:ὑποστέλλω&lt;SDBG:ὑποστέλλω:000000&gt;} in {S:04402002700006}, see {D:13.160}.</Comments>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04402002700006</LEXReference>
+            <LEXReference>04800201200030</LEXReference>
+            <LEXReference>05801003800020</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="001190000000000" Lemma="δεισιδαιμονία" Version="0" HasAramaic="false" InLXX="false" AlphaPos="δ">
+  <StrongCodes>
+    <Strong>G1175</Strong>
+  </StrongCodes>
+  <Authors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes/>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="001190001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>noun, f.</PartOfSpeech>
+      </PartsOfSpeech>
+      <Inflections>
+        <Inflection Lemma="δεισιδαιμονία" BaseFormIndex="1">
+          <Form/>
+          <Realizations>
+            <Realization>-ας</Realization>
+          </Realizations>
+          <Comments/>
+        </Inflection>
+      </Inflections>
+      <Constructs>
+        <Construct Lemma="δεισιδαιμονία" BaseFormIndex="1">
+          <WordMeaningSet>
+            <Word>δείδω</Word>
+            <Meaning LanguageCode="en">
+              <Meaning>be afraid, fear</Meaning>
+            </Meaning>
+            <Meaning LanguageCode="zhT">
+              <Meaning>害怕，恐懼</Meaning>
+            </Meaning>
+          </WordMeaningSet>
+          <WordMeaningSet>
+            <Word>δαιμονίζομαι</Word>
+          </WordMeaningSet>
+        </Construct>
+      </Constructs>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="001190001001000" IsBiblicalTerm="M" EntryCode="53.2" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Religious Activities</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Religious Practice</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-08-30 15:25:13" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>a set of beliefs concerning deity, with the implication of corresponding behavior</DefinitionShort>
+              <Glosses>
+                <Gloss>religion</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04402501900014</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

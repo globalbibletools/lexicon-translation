@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="003910000000000" Lemma="מַחֲרֵשָׁה" Version="5" HasAramaic="false" InLXX="false" AlphaPos="מ">
+  <StrongCodes>
+    <Strong>H4281</Strong>
+    <Strong>H4282</Strong>
+  </StrongCodes>
+  <Authors>
+    <Author>Paul Sanders</Author>
+  </Authors>
+  <Contributors/>
+  <AlternateLemmas>
+    <AlternateLemma>מַחֲרֶשֶׁת</AlternateLemma>
+  </AlternateLemmas>
+  <MainLinks>
+    <MainLink>SAHD@http://www.sahd.div.ed.ac.uk/_media/lexeme:pdf:guo-machresha_machreshet-sanders_p-ams-2017.pdf</MainLink>
+  </MainLinks>
+  <Notes>
+    <Note Caller="1" LanguageCode="en" LastEdited="" LastEditedBy="">
+      <References>
+        <Reference>00901302000040</Reference>
+      </References>
+      <Content>MT HOTTP-B NJPS מַחֲרֵשָׁתֹו | LXX RSV NIV NJB REB NRSV REB GNT CEV חרמשׂו = {L:חֶרְמֵשׂ&lt;SDBH:חֶרְמֵשׂ&gt;} "sickle, scythe". 'Ploughshare' is the traditional translation, but not adequate. Triangular blade does seem to be correct. Options to handle the (odd) repetition of 'plougpoint' in 1SAM13:20. (1) Emendation cf. versiones; (2) Follow vocalisation Masoretes, imlpying different object (3) Or part of the totality of plough.</Content>
+    </Note>
+  </Notes>
+  <ContributorNote>In relation to "bronze or iron" and "plough(-point)": 6. Exegesis 6.1 Literal use, A.2, pp. 6-7; 6.4 Archeology A.1, pp. 10-11; 7. Conclusion, p. 11. </ContributorNote>
+  <BaseForms>
+    <BaseForm Id="003910001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>nsf</PartOfSpeech>
+      </PartsOfSpeech>
+      <RelatedLemmas>
+        <RelatedLemma>
+          <Word>חרשׁ</Word>
+        </RelatedLemma>
+      </RelatedLemmas>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="003910001001000" IsBiblicalTerm="M" EntryCode="" Indent="0">
+          <LEXDomains>
+            <LEXDomain Code="001004001017">Tools</LEXDomain>
+          </LEXDomains>
+          <LEXSynonyms>
+            <LEXSynonym>אֵת</LEXSynonym>
+            <LEXSynonym>קַרְדֹּם</LEXSynonym>
+          </LEXSynonyms>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2015-12-20 15:31:32" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>= triangular blade ◄ made of metal ({L:bronze&lt;SDBH:נְחֹשֶׁת&gt;} or {L:iron&lt;SDBH:בַּרְזֶל&gt;}), and part of a larger contraption ► used for breaking the soil to make it ready for cultivation</DefinitionShort>
+              <Glosses>
+                <Gloss>plough(-point)</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>00901302000022</LEXReference>
+            <LEXReference>00901302000040{N:001}</LEXReference>
+            <LEXReference>00901302100016</LEXReference>
+          </LEXReferences>
+          <LEXLinks>
+            <LEXLink>Realia:1.1.9</LEXLink>
+          </LEXLinks>
+          <LEXVideos/>
+          <LEXCoreDomains>
+            <LEXCoreDomain Code="027">Crafts</LEXCoreDomain>
+            <LEXCoreDomain Code="007">Agriculture</LEXCoreDomain>
+          </LEXCoreDomains>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

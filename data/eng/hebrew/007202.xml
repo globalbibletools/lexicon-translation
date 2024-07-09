@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="007202000000000" Lemma="שׁגל" Version="5" HasAramaic="false" InLXX="false" AlphaPos="ש">
+  <StrongCodes>
+    <Strong>H7693</Strong>
+  </StrongCodes>
+  <Authors>
+    <Author>Reinier de Blois</Author>
+  </Authors>
+  <Contributors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes>
+    <Note Caller="1" LanguageCode="en" LastEdited="" LastEditedBy="">
+      <References>
+        <Reference>00502803000012</Reference>
+        <Reference>02400300200018</Reference>
+      </References>
+      <Content>MT-K ישׁגלנה | MT-Q יִשְׁכָּבֶנָּה</Content>
+    </Note>
+    <Note Caller="2" LanguageCode="en" LastEdited="" LastEditedBy="">
+      <References>
+        <Reference>02301301600020</Reference>
+        <Reference>03801400200046</Reference>
+      </References>
+      <Content>MT-K תשׁגלנה | MT-Q תִּשָּׁכַבְנָה</Content>
+    </Note>
+  </Notes>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="007202001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>vb</PartOfSpeech>
+      </PartsOfSpeech>
+      <RelatedLemmas>
+        <RelatedLemma>
+          <Word>שֵׁגַל</Word>
+        </RelatedLemma>
+      </RelatedLemmas>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="007202001001000" IsBiblicalTerm="M" EntryCode="" Indent="0">
+          <LEXDomains>
+            <LEXDomain Code="002003001004">Copulate</LEXDomain>
+          </LEXDomains>
+          <LEXForms>
+            <LEXForm>vbqal-</LEXForm>
+            <LEXForm>vbnif- (passive)</LEXForm>
+            <LEXForm>vbpual (passive)</LEXForm>
+          </LEXForms>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2017-03-12 20:24:38" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>= action by which a man has sexual intercourse with a woman, whether with her consent or not; ≈ this is possibly a rather explicit term which could have been considered offensive by some people</DefinitionShort>
+              <Glosses>
+                <Gloss>to have sex (with)</Gloss>
+                <Gloss>to rape</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>00502803000012{N:001}</LEXReference>
+            <LEXReference>02301301600020{N:002}</LEXReference>
+            <LEXReference>02400300200018{N:001}</LEXReference>
+            <LEXReference>03801400200046{N:002}</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+          <LEXCoreDomains>
+            <LEXCoreDomain Code="155">Sex</LEXCoreDomain>
+          </LEXCoreDomains>
+        </LEXMeaning>
+        <LEXMeaning Id="007202001002000" IsBiblicalTerm="X" EntryCode="" Indent="0">
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>NO DATA YET</DefinitionShort>
+              <Glosses>
+                <Gloss>NO DATA YET</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>00502803000012</LEXReference>
+            <LEXReference>02301301600020</LEXReference>
+            <LEXReference>02400300200018</LEXReference>
+            <LEXReference>03801400200046</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

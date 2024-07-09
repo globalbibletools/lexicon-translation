@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="003009000000000" Lemma="λαξευτός" Version="0" HasAramaic="false" InLXX="true" AlphaPos="λ">
+  <StrongCodes>
+    <Strong>G2991</Strong>
+  </StrongCodes>
+  <Authors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes/>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="003009001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>adjc.</PartOfSpeech>
+      </PartsOfSpeech>
+      <Inflections>
+        <Inflection Lemma="λαξευτός" BaseFormIndex="1">
+          <Form/>
+          <Realizations>
+            <Realization>-ή, -όν</Realization>
+          </Realizations>
+          <Comments/>
+        </Inflection>
+      </Inflections>
+      <Constructs>
+        <Construct Lemma="λαξευτός" BaseFormIndex="1">
+          <WordMeaningSet>
+            <Word>λᾶς</Word>
+            <Meaning LanguageCode="en">
+              <Meaning>a rock</Meaning>
+            </Meaning>
+            <Meaning LanguageCode="zhT">
+              <Meaning>岩石</Meaning>
+            </Meaning>
+          </WordMeaningSet>
+          <WordMeaningSet>
+            <Word>ξέω</Word>
+            <Meaning LanguageCode="en">
+              <Meaning>work [in wood or stone]</Meaning>
+            </Meaning>
+            <Meaning LanguageCode="zhT">
+              <Meaning>工作［用木頭或石頭〕</Meaning>
+            </Meaning>
+          </WordMeaningSet>
+        </Construct>
+      </Constructs>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="003009001001000" IsBiblicalTerm="Y" EntryCode="19.26" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Physical Impact</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Pierce, Cut</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-11-04 10:17:54" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>pertaining to having been hewn out of rock</DefinitionShort>
+              <Glosses>
+                <Gloss>hewn out of rock</Gloss>
+              </Glosses>
+              <Comments>In {S:04202305300022} ‘rock’ must be understood as a basic outcropping of rock, so that the grave would have been a cave-like structure cut into a rock outcropping.</Comments>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04202305300022</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="000492000000000" Lemma="ἀντιπαρέρχομαι" Version="0" HasAramaic="false" InLXX="true" AlphaPos="α">
+  <StrongCodes>
+    <Strong>G0492</Strong>
+  </StrongCodes>
+  <Authors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes/>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="000492001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>verb</PartOfSpeech>
+      </PartsOfSpeech>
+      <Inflections>
+        <Inflection Lemma="ἀντιπαρέρχομαι" BaseFormIndex="1">
+          <Form>aor.</Form>
+          <Realizations>
+            <Realization>ἀντιπαρῆλθον</Realization>
+          </Realizations>
+          <Comments/>
+        </Inflection>
+      </Inflections>
+      <RelatedLemmas>
+        <RelatedLemma>
+          <Word>ἔρχομαι</Word>
+        </RelatedLemma>
+      </RelatedLemmas>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="000492001001000" IsBiblicalTerm="Y" EntryCode="15.30" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Linear Movement</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Pass, Cross Over, Go Through, Go Around</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-08-10 12:17:48" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>to pass by a point of reference on the opposite side</DefinitionShort>
+              <Glosses>
+                <Gloss>to pass by on the opposite side</Gloss>
+              </Glosses>
+              <Comments>There may, however, be a number of problems involved in rendering ἀντιπαρέρχομαι in {S:04201003100028}, for in many languages it is difficult to conceive of a road having an ‘opposite side.’ One can often render this phrase in {S:04201003100028} as ‘having seen him he went on past, staying as far away from him as he could.’</Comments>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04201003100028</LEXReference>
+            <LEXReference>04201003200024</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="004464000000000" Lemma="מְשׁוּבָה" Version="4" HasAramaic="false" InLXX="false" AlphaPos="מ">
+  <StrongCodes>
+    <Strong>H4878</Strong>
+  </StrongCodes>
+  <Authors>
+    <Author>Sarah Lind</Author>
+  </Authors>
+  <Contributors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes/>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="004464001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>nsf</PartOfSpeech>
+      </PartsOfSpeech>
+      <RelatedLemmas>
+        <RelatedLemma>
+          <Word>שׁוב</Word>
+        </RelatedLemma>
+      </RelatedLemmas>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="004464001001000" IsBiblicalTerm="M" EntryCode="" Indent="0">
+          <LEXDomains>
+            <LEXDomain Code="002001002027">Unfaithful</LEXDomain>
+          </LEXDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2016-12-23 15:01:42" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>= process by which people turn away from someone they had pledged to serve</DefinitionShort>
+              <Glosses>
+                <Gloss>defection</Gloss>
+                <Gloss>apostasy</Gloss>
+                <Gloss>backsliding</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>02000103200004</LEXReference>
+            <LEXReference>02400201900008</LEXReference>
+            <LEXReference>02400500600048</LEXReference>
+            <LEXReference>02400800500016</LEXReference>
+            <LEXReference>02401400700022</LEXReference>
+            <LEXReference>02801100700010</LEXReference>
+            <LEXReference>02801400500004</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+        <LEXMeaning Id="004464001002000" IsBiblicalTerm="M" EntryCode="" Indent="0">
+          <LEXDomains>
+            <LEXDomain Code="001001002003004" Source="Unfaithful" SourceCode="002001002027">Groups</LEXDomain>
+          </LEXDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2022-03-03 10:05:44" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>= a nation that has turned away from someone they had pledged to serve</DefinitionShort>
+              <Glosses>
+                <Gloss>wayward one</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>02400300600028</LEXReference>
+            <LEXReference>02400300800018</LEXReference>
+            <LEXReference>02400301100014</LEXReference>
+            <LEXReference>02400301200026</LEXReference>
+            <LEXReference>02400302200010</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

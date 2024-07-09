@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="004975000000000" Lemma="τετράπους" Version="0" HasAramaic="false" InLXX="true" AlphaPos="τ">
+  <StrongCodes>
+    <Strong>G5074</Strong>
+  </StrongCodes>
+  <Authors/>
+  <AlternateLemmas>
+    <AlternateLemma>τετράπουν</AlternateLemma>
+  </AlternateLemmas>
+  <MainLinks/>
+  <Notes/>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="004975001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>adjc.</PartOfSpeech>
+      </PartsOfSpeech>
+      <Inflections>
+        <Inflection Lemma="τετράπους" BaseFormIndex="1">
+          <Form/>
+          <Realizations>
+            <Realization>-ουν</Realization>
+          </Realizations>
+          <Comments/>
+        </Inflection>
+        <Inflection Lemma="τετράπους" BaseFormIndex="1">
+          <Form>gen.</Form>
+          <Realizations>
+            <Realization>τετράποδος</Realization>
+          </Realizations>
+          <Comments/>
+        </Inflection>
+      </Inflections>
+      <Constructs>
+        <Construct Lemma="τετράπους" BaseFormIndex="1">
+          <WordMeaningSet>
+            <Word>τέσσαρες</Word>
+          </WordMeaningSet>
+          <WordMeaningSet>
+            <Word>πούς</Word>
+          </WordMeaningSet>
+        </Construct>
+      </Constructs>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="004975001001000" IsBiblicalTerm="Y" EntryCode="4.4" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Animals</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Animals</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2022-04-05 14:30:36" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>any four-footed animal, either wild or domesticated</DefinitionShort>
+              <Glosses>
+                <Gloss>animal</Gloss>
+                <Gloss>quadruped</Gloss>
+              </Glosses>
+              <Comments>A high percentage of languages appear to have no generic term to identify all kinds of quadrupeds whether wild or domesticated. Rather, they tend to make quite clear distinctions between wild and domesticated animals, and therefore it may be necessary to indicate both types in those contexts where the reference is to both wild as well as domesticated animals. For example, one may sometimes speak of ‘animals of the grass and animals of the forest’ or ‘animals of the barn and animals of the mountains.’|In {S:04401001200012} the reference is primarily to wild animals, since for the most part wild animals would be those designated as unclean. However, swine were also regarded as unclean, and they were domesticated.</Comments>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04401001200012</LEXReference>
+            <LEXReference>04401100600016</LEXReference>
+            <LEXReference>04500102300032</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

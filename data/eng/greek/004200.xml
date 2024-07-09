@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="004200000000000" Lemma="προλαμβάνω" Version="0" HasAramaic="false" InLXX="true" AlphaPos="π">
+  <StrongCodes>
+    <Strong>G4301</Strong>
+  </StrongCodes>
+  <Authors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes/>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="004200001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>verb</PartOfSpeech>
+      </PartsOfSpeech>
+      <Inflections>
+        <Inflection Lemma="προλαμβάνω" BaseFormIndex="1">
+          <Form>aor.</Form>
+          <Realizations>
+            <Realization>προέλαβον</Realization>
+          </Realizations>
+          <Comments/>
+        </Inflection>
+        <Inflection Lemma="προλαμβάνω" BaseFormIndex="1">
+          <Form>aor.pass.subj.</Form>
+          <Realizations>
+            <Realization>προλημφθῶ</Realization>
+          </Realizations>
+          <Comments/>
+        </Inflection>
+      </Inflections>
+      <RelatedLemmas>
+        <RelatedLemma>
+          <Word>λαμβάνω</Word>
+        </RelatedLemma>
+      </RelatedLemmas>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="004200001001000" IsBiblicalTerm="Y" EntryCode="27.33" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Learn</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Learn Something Against Someone</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2022-12-16 14:43:01" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>to learn something by surprise</DefinitionShort>
+              <Glosses>
+                <Gloss>to detect</Gloss>
+                <Gloss>to surprise</Gloss>
+                <Gloss>to catch</Gloss>
+                <Gloss>to be discovered</Gloss>
+              </Glosses>
+              <Comments>It is possible that προλαμβάνω in {S:04800600100008} refers to actual seizing or arresting, but it seems more likely to refer to the fact that someone becomes aware of wrongdoing, and therefore the wrongdoer is surprised by being detected or discovered. It is, of course, also possible to render προλαμβάνω in {S:04800600100008} as ‘to be involved in.’ Compare Domain 90K.</Comments>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04800600100008</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+        <LEXMeaning Id="004200001002000" IsBiblicalTerm="Y" EntryCode="90.49" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Case</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Agent of a Numerable Event</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2022-12-16 14:43:01" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>a marker of an agent relation with numerable events, with the implication of some prior or unexpected time factor</DefinitionShort>
+              <Glosses>
+                <Gloss>to do in advance</Gloss>
+                <Gloss>to make before</Gloss>
+                <Gloss>to undertake ahead of time</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04101400800008</LEXReference>
+            <LEXReference>04601102100012</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

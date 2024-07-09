@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="006173000000000" Lemma="צַחְצָחֹות" Version="5" HasAramaic="false" InLXX="false" AlphaPos="צ">
+  <StrongCodes>
+    <Strong>H6710</Strong>
+  </StrongCodes>
+  <Authors>
+    <Author>Graham S. Ogden</Author>
+  </Authors>
+  <Contributors/>
+  <AlternateLemmas>
+    <AlternateLemma>צַחְצָחָה</AlternateLemma>
+  </AlternateLemmas>
+  <MainLinks/>
+  <Notes>
+    <Note Caller="1" LanguageCode="en" LastEdited="" LastEditedBy="">
+      <References>
+        <Reference>02305801100016</Reference>
+      </References>
+      <Content>{A:NIV} {A:NJB} {A:NJPS} {A:NRSV} {A:REB} {A:CEV} | {A:RSV} {A:GNT} "good things"</Content>
+    </Note>
+  </Notes>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="006173001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>nsf</PartOfSpeech>
+      </PartsOfSpeech>
+      <RelatedLemmas>
+        <RelatedLemma>
+          <Word>צחח</Word>
+        </RelatedLemma>
+      </RelatedLemmas>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="006173001001000" IsBiblicalTerm="Y" EntryCode="" Indent="0">
+          <LEXDomains>
+            <LEXDomain Code="001005002002003">Landscapes</LEXDomain>
+          </LEXDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2017-11-09 14:29:45" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>= areas without vegetation; ≈ associated with hardship</DefinitionShort>
+              <Glosses>
+                <Gloss>parched lands</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>02305801100016</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

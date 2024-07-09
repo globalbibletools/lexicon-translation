@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="003659000000000" Lemma="ὅτε" Version="0" HasAramaic="false" InLXX="true" AlphaPos="ο">
+  <StrongCodes>
+    <Strong>G3753</Strong>
+  </StrongCodes>
+  <Authors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes/>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="003659001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>conj.</PartOfSpeech>
+      </PartsOfSpeech>
+      <Constructs>
+        <Construct Lemma="ὅτε" BaseFormIndex="1">
+          <WordMeaningSet>
+            <Word>ὅς</Word>
+          </WordMeaningSet>
+          <WordMeaningSet>
+            <Word>τέ</Word>
+          </WordMeaningSet>
+        </Construct>
+      </Constructs>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="003659001001000" IsBiblicalTerm="Y" EntryCode="67.30" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Time</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>A Point of Time with Reference to Other Points of Time: Before, Long Ago, Now, At the Same Time, When, About, After</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2022-01-26 11:16:47" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>a point of time which is roughly simultaneous to or overlaps with another point of time</DefinitionShort>
+              <Glosses>
+                <Gloss>when</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04000702800006</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+        <LEXMeaning Id="003659001002000" IsBiblicalTerm="Y" EntryCode="67.139" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Time</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Duration of Time with Reference to Some Unit of Time: During, In, While, Throughout</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2022-01-26 11:16:47" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>an extent of time of the same length as another extent or unit of time</DefinitionShort>
+              <Glosses>
+                <Gloss>as long as</Gloss>
+                <Gloss>while</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04101504100004</LEXReference>
+            <LEXReference>04301701200002</LEXReference>
+            <LEXReference>04500602000002</LEXReference>
+            <LEXReference>04500700500002</LEXReference>
+            <LEXReference>04800400300008</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

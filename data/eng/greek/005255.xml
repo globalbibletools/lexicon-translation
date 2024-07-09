@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="005255000000000" Lemma="φιλαργυρία" Version="0" HasAramaic="false" InLXX="true" AlphaPos="φ">
+  <StrongCodes>
+    <Strong>G5365</Strong>
+  </StrongCodes>
+  <Authors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes/>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="005255001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>noun, f.</PartOfSpeech>
+      </PartsOfSpeech>
+      <Inflections>
+        <Inflection Lemma="φιλαργυρία" BaseFormIndex="1">
+          <Form/>
+          <Realizations>
+            <Realization>-ας</Realization>
+          </Realizations>
+          <Comments/>
+        </Inflection>
+      </Inflections>
+      <Constructs>
+        <Construct Lemma="φιλαργυρία" BaseFormIndex="1">
+          <WordMeaningSet>
+            <Word>φιλέω</Word>
+          </WordMeaningSet>
+          <WordMeaningSet>
+            <Word>ἄργυρος</Word>
+          </WordMeaningSet>
+        </Construct>
+      </Constructs>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="005255001001000" IsBiblicalTerm="Y" EntryCode="25.107" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Attitudes and Emotions</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Enjoy, Take Pleasure In, Be Fond of Doing</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2022-05-19 14:00:00" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>the state of loving money or wealth</DefinitionShort>
+              <Glosses>
+                <Gloss>love of wealth</Gloss>
+                <Gloss>love of money</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>05400601000016</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

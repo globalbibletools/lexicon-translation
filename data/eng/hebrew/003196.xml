@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="003196000000000" Lemma="יתב" Version="4" HasAramaic="true" InLXX="false" AlphaPos="י">
+  <StrongCodes>
+    <Strong>A3488</Strong>
+  </StrongCodes>
+  <Authors>
+    <Author>Reinier de Blois</Author>
+  </Authors>
+  <Contributors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes/>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="003196001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>vb</PartOfSpeech>
+      </PartsOfSpeech>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="003196001001000" IsBiblicalTerm="Y" EntryCode="" Indent="0">
+          <LEXDomains>
+            <LEXDomain Code="002002001016">Space</LEXDomain>
+            <LEXDomain Code="002001001058">Stance</LEXDomain>
+          </LEXDomains>
+          <LEXForms>
+            <LEXForm>vbpeal</LEXForm>
+          </LEXForms>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2022-02-14 11:44:50" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>= action by which humans or deities assume a sitting position in a certain location and remain in that position for some time; ≈ sometimes associated with a certain status, role, or activity</DefinitionShort>
+              <Glosses>
+                <Gloss>to sit</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>02700700900020</LEXReference>
+            <LEXReference>02700701000040</LEXReference>
+            <LEXReference>02700702600006</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+          <LEXCoreDomains>
+            <LEXCoreDomain Code="166">Space</LEXCoreDomain>
+          </LEXCoreDomains>
+        </LEXMeaning>
+        <LEXMeaning Id="003196001002000" IsBiblicalTerm="Y" EntryCode="" Indent="0">
+          <LEXDomains>
+            <LEXDomain Code="002002001005" Source="Space" SourceCode="002002001016">Dwell</LEXDomain>
+          </LEXDomains>
+          <LEXForms>
+            <LEXForm>vbpeal</LEXForm>
+          </LEXForms>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2022-02-14 11:44:50" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>= process by which humans make a certain place or area their home</DefinitionShort>
+              <Glosses>
+                <Gloss>to settle</Gloss>
+                <Gloss>to dwell</Gloss>
+                <Gloss>to live</Gloss>
+                <Gloss>to inhabit</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>01500401700030</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+          <LEXCoreDomains>
+            <LEXCoreDomain Code="166">Space</LEXCoreDomain>
+            <LEXCoreDomain Code="081">Household</LEXCoreDomain>
+          </LEXCoreDomains>
+        </LEXMeaning>
+        <LEXMeaning Id="003196001003000" IsBiblicalTerm="Y" EntryCode="" Indent="0">
+          <LEXDomains>
+            <LEXDomain Code="002002001005" Source="Space" SourceCode="002002001016">Dwell</LEXDomain>
+          </LEXDomains>
+          <LEXForms>
+            <LEXForm>vbhaf-</LEXForm>
+          </LEXForms>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2022-02-14 11:44:50" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>= causative action by which humans cause other humans to make a certain place or area their home</DefinitionShort>
+              <Glosses>
+                <Gloss>to cause to dwell</Gloss>
+                <Gloss>to settle</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>01500401000022</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+          <LEXCoreDomains>
+            <LEXCoreDomain Code="166">Space</LEXCoreDomain>
+            <LEXCoreDomain Code="081">Household</LEXCoreDomain>
+          </LEXCoreDomains>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

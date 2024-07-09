@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="002674000000000" Lemma="καταπίμπρημι" Version="0" HasAramaic="false" InLXX="false" AlphaPos="κ">
+  <StrongCodes/>
+  <Authors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes/>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="002674001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>verb</PartOfSpeech>
+      </PartsOfSpeech>
+      <Inflections>
+        <Inflection Lemma="καταπίμπρημι" BaseFormIndex="1">
+          <Form>aor.</Form>
+          <Realizations>
+            <Realization>κατέπρησα</Realization>
+          </Realizations>
+          <Comments/>
+        </Inflection>
+      </Inflections>
+      <RelatedLemmas>
+        <RelatedLemma>
+          <Word>πίμπραμαι</Word>
+        </RelatedLemma>
+      </RelatedLemmas>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="002674001001000" IsBiblicalTerm="Y" EntryCode="14.66" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Physical Events and States</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Burning</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-09-23 10:47:31" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>to destroy something by burning</DefinitionShort>
+              <Glosses>
+                <Gloss>to burn something down</Gloss>
+                <Gloss>to burn something up</Gloss>
+                <Gloss>to reduce to ashes</Gloss>
+              </Glosses>
+              <Comments>This word is found as a variant reading only: πόλεις Σοδόμων καὶ Γομόρρας τεφρώσας κατέπρησεν ‘he burned down the cities of Sodom and Gomorrah, reducing them to ashes’ {S:06100200600016} (apparatus).|See comments on terms for burning in {D:14.63} and {D:14.65}.</Comments>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>06100200600016</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

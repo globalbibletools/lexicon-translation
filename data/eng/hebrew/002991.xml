@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="002991000000000" Lemma="יעט" Version="4" HasAramaic="true" InLXX="false" AlphaPos="י">
+  <StrongCodes>
+    <Strong>H3271</Strong>
+    <Strong>A3272</Strong>
+  </StrongCodes>
+  <Authors>
+    <Author>Reinier de Blois</Author>
+  </Authors>
+  <Contributors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes/>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="002991001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>vb</PartOfSpeech>
+      </PartsOfSpeech>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="002991001001000" IsBiblicalTerm="Y" EntryCode="" Indent="0">
+          <LEXDomains>
+            <LEXDomain Code="002003001007">Dress</LEXDomain>
+          </LEXDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2010-10-13 20:01:43" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>= causative action by which deities cover humans with clothing</DefinitionShort>
+              <Glosses>
+                <Gloss>to clothe</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>02306101000030</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+          <LEXCoreDomains>
+            <LEXCoreDomain Code="033">Clothing</LEXCoreDomain>
+          </LEXCoreDomains>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+    <BaseForm Id="002991002000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>vb</PartOfSpeech>
+      </PartsOfSpeech>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="002991002001000" IsBiblicalTerm="Y" EntryCode="" Indent="0">
+          <LEXDomains>
+            <LEXDomain Code="002004002014">Think</LEXDomain>
+          </LEXDomains>
+          <LEXForms>
+            <LEXForm>vbetpa</LEXForm>
+          </LEXForms>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2022-03-18 17:26:00" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>= process by which various parties come to a joint agreement about a certain matter</DefinitionShort>
+              <Glosses>
+                <Gloss>to be in agreement</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>02700600800002</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+        <LEXMeaning Id="002991002002000" IsBiblicalTerm="Y" EntryCode="" Indent="0">
+          <LEXDomains>
+            <LEXDomain Code="001001002003007" Source="Think" SourceCode="002004002014">Officials</LEXDomain>
+          </LEXDomains>
+          <LEXForms>
+            <LEXForm>vbpealptca</LEXForm>
+          </LEXForms>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2022-03-18 17:26:00" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>= person providing counsel to someone in authority</DefinitionShort>
+              <Glosses>
+                <Gloss>counsellor</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>01500701400020</LEXReference>
+            <LEXReference>01500701500020</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+          <LEXCoreDomains>
+            <LEXCoreDomain Code="015">Authority</LEXCoreDomain>
+            <LEXCoreDomain Code="199">Wisdom</LEXCoreDomain>
+          </LEXCoreDomains>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

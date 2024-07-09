@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="004830000000000" Lemma="συνομιλέω" Version="0" HasAramaic="false" InLXX="false" AlphaPos="σ">
+  <StrongCodes>
+    <Strong>G4926</Strong>
+  </StrongCodes>
+  <Authors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes/>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="004830001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>verb</PartOfSpeech>
+      </PartsOfSpeech>
+      <Constructs>
+        <Construct Lemma="συνομιλέω" BaseFormIndex="1">
+          <WordMeaningSet>
+            <Word>ὁμοιόω</Word>
+          </WordMeaningSet>
+          <WordMeaningSet>
+            <Word>εἴλω</Word>
+            <Meaning LanguageCode="en">
+              <Meaning>roll up</Meaning>
+            </Meaning>
+            <Meaning LanguageCode="zhT">
+              <Meaning>捲起</Meaning>
+            </Meaning>
+          </WordMeaningSet>
+        </Construct>
+      </Constructs>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="004830001001000" IsBiblicalTerm="Y" EntryCode="33.157" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Communication</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Converse, Discuss</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2022-03-14 16:40:37" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>to converse with someone, including a clear implication as to reciprocal response</DefinitionShort>
+              <Glosses>
+                <Gloss>to talk with</Gloss>
+                <Gloss>to speak with</Gloss>
+                <Gloss>to converse</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04401002700004</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

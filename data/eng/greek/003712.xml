@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="003712000000000" Lemma="παιδάριον" Version="0" HasAramaic="false" InLXX="true" AlphaPos="π">
+  <StrongCodes>
+    <Strong>G3808</Strong>
+  </StrongCodes>
+  <Authors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes/>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="003712001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>noun, n.</PartOfSpeech>
+      </PartsOfSpeech>
+      <Inflections>
+        <Inflection Lemma="παιδάριον" BaseFormIndex="1">
+          <Form/>
+          <Realizations>
+            <Realization>-ου</Realization>
+          </Realizations>
+          <Comments/>
+        </Inflection>
+      </Inflections>
+      <RelatedLemmas>
+        <RelatedLemma>
+          <Word>παίζω</Word>
+        </RelatedLemma>
+      </RelatedLemmas>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="003712001001000" IsBiblicalTerm="M" EntryCode="9.42" Indent="0">
+          <LEXDomains>
+            <LEXDomain>People</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Children</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-12-16 11:45:26" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>(diminutive of {L:παῖς&lt;SDBG:παῖς:000000&gt;}[a] ‘child,’ {D:9.41}, but in the NT παιδάριον has seemingly lost at least most of this diminutive force, but may have retained some implications of affectionate concern or interest) a child, normally below the age of puberty</DefinitionShort>
+              <Glosses>
+                <Gloss>child</Gloss>
+              </Glosses>
+              <Comments>Note that παιδάριον in {S:04300600900004} denotes merely a child; it is the referential pronoun ὅς which indicates masculine gender, and therefore one may translate ‘boy.’|It is also possible that in this context the diminutive παιδάριον carries some connotation of endearment.</Comments>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04300600900004</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

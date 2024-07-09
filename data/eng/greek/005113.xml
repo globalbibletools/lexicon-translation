@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="005113000000000" Lemma="ὑπεναντίος" Version="0" HasAramaic="false" InLXX="true" AlphaPos="υ">
+  <StrongCodes>
+    <Strong>G5227</Strong>
+  </StrongCodes>
+  <Authors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes>
+    <Note Caller="1" LanguageCode="en" LastEdited="" LastEditedBy="">
+      <References/>
+      <Content>It is possible that ὑπεναντίος is somewhat stronger in meaning than ἐναντίος[b], but this cannot be shown from NT contexts.</Content>
+    </Note>
+  </Notes>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="005113001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>adjc.</PartOfSpeech>
+      </PartsOfSpeech>
+      <Inflections>
+        <Inflection Lemma="ὑπεναντίος" BaseFormIndex="1">
+          <Form/>
+          <Realizations>
+            <Realization>-α, -ον</Realization>
+          </Realizations>
+          <Comments/>
+        </Inflection>
+      </Inflections>
+      <Constructs>
+        <Construct Lemma="ὑπεναντίος" BaseFormIndex="1">
+          <WordMeaningSet>
+            <Word>ὑπό</Word>
+          </WordMeaningSet>
+          <WordMeaningSet>
+            <Word>ἀντί</Word>
+          </WordMeaningSet>
+        </Construct>
+      </Constructs>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="005113001001000" IsBiblicalTerm="Y" EntryCode="39.6" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Hostility, Strife</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Opposition, Hostility</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2022-04-19 08:08:43" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>pertaining to being hostile toward{N:001}</DefinitionShort>
+              <Glosses>
+                <Gloss>hostile</Gloss>
+                <Gloss>one who is hostile</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>05100201400020</LEXReference>
+            <LEXReference>05801002700024</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

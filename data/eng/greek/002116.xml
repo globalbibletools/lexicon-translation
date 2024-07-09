@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="002116000000000" Lemma="εὐδία" Version="0" HasAramaic="false" InLXX="true" AlphaPos="ε">
+  <StrongCodes>
+    <Strong>G2105</Strong>
+  </StrongCodes>
+  <Authors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes/>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="002116001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>noun, f.</PartOfSpeech>
+      </PartsOfSpeech>
+      <Inflections>
+        <Inflection Lemma="εὐδία" BaseFormIndex="1">
+          <Form/>
+          <Realizations>
+            <Realization>-ας</Realization>
+          </Realizations>
+          <Comments/>
+        </Inflection>
+      </Inflections>
+      <Constructs>
+        <Construct Lemma="εὐδία" BaseFormIndex="1">
+          <WordMeaningSet>
+            <Word>εὖ</Word>
+          </WordMeaningSet>
+          <WordMeaningSet>
+            <Word>Δία [Ζεύς]</Word>
+            <Meaning LanguageCode="en">
+              <Meaning>godlike, excellent</Meaning>
+            </Meaning>
+            <Meaning LanguageCode="zhT">
+              <Meaning>上帝般的，卓越的</Meaning>
+            </Meaning>
+          </WordMeaningSet>
+        </Construct>
+      </Constructs>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="002116001001000" IsBiblicalTerm="Y" EntryCode="14.1" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Physical Events and States</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Weather</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-07-08 09:50:46" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>sunny, mild weather without strong winds</DefinitionShort>
+              <Glosses>
+                <Gloss>fair weather</Gloss>
+              </Glosses>
+              <Comments>Fair weather may be referred to by a number of different expressions, for example, ‘growing weather’ or ‘cloudless skies’ or ‘happy weather.’ The variety of expressions depends largely upon the type of activity associated with weather or the atmospheric conditions typical of what people regard as fair weather. In a number of languages fair weather is expressed as a negative of bad weather, that is to say, ‘a not stormy day’ or ‘a not windy day.’</Comments>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04001600200018</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

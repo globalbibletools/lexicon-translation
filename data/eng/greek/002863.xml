@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="002863000000000" Lemma="κόκκος" Version="0" HasAramaic="false" InLXX="true" AlphaPos="κ">
+  <StrongCodes>
+    <Strong>G2848</Strong>
+  </StrongCodes>
+  <Authors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes/>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="002863001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>noun, m.</PartOfSpeech>
+      </PartsOfSpeech>
+      <Inflections>
+        <Inflection Lemma="κόκκος" BaseFormIndex="1">
+          <Form/>
+          <Realizations>
+            <Realization>-ου</Realization>
+          </Realizations>
+          <Comments/>
+        </Inflection>
+      </Inflections>
+      <RelatedLemmas>
+        <RelatedLemma>
+          <Word>κόκκινος</Word>
+        </RelatedLemma>
+      </RelatedLemmas>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="002863001001000" IsBiblicalTerm="M" EntryCode="3.35" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Plants</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Fruit Parts of Plants</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-10-14 11:25:08" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>the kernel part of fruit, usually grain</DefinitionShort>
+              <Glosses>
+                <Gloss>seed</Gloss>
+              </Glosses>
+              <Comments>A number of languages make distinctions between two quite different types of seed: (1) those produced by grasses (that is to say, grains) and (2) those produced by other types of plants, for example, beans, squash, apples, etc. In all passages employing the Greek terms in this subdomain (κόκκος, {L:σπέρμα&lt;SDBG:σπέρμα:000000&gt;}[a], {L:σπόρος&lt;SDBG:σπόρος:000000&gt;}), it is best to use some expression referring to ‘grain.’</Comments>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04001303100024</LEXReference>
+            <LEXReference>04001702000034</LEXReference>
+            <LEXReference>04100403100004</LEXReference>
+            <LEXReference>04201301900006</LEXReference>
+            <LEXReference>04201700600018</LEXReference>
+            <LEXReference>04301202400016</LEXReference>
+            <LEXReference>04601503700024</LEXReference>
+          </LEXReferences>
+          <LEXLinks>
+            <LEXLink>flora:3.1</LEXLink>
+          </LEXLinks>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

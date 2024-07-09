@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="000112000000000" Lemma="אֲדַד" Version="5" HasAramaic="false" InLXX="false" AlphaPos="א">
+  <StrongCodes>
+    <Strong>H0111</Strong>
+  </StrongCodes>
+  <Authors>
+    <Author>Reinier de Blois</Author>
+  </Authors>
+  <Contributors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes>
+    <Note Caller="1" LanguageCode="en" LastEdited="" LastEditedBy="">
+      <References>
+        <Reference>01101101700006</Reference>
+      </References>
+      <Content>{A:MT} | {A:RSV} {A:NIV} {A:NJPS} {A:NJB} {A:NRSV} {A:REB} {A:GNT} {A:CEV} {L:הֲדַד&lt;SDBH:הֲדַד&gt;}</Content>
+    </Note>
+  </Notes>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="000112001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>np</PartOfSpeech>
+      </PartsOfSpeech>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="000112001001000" IsBiblicalTerm="Y" EntryCode="" Indent="0">
+          <LEXDomains>
+            <LEXDomain Code="003001007">Names of People</LEXDomain>
+          </LEXDomains>
+          <LEXSynonyms>
+            <LEXSynonym>הֲדַד</LEXSynonym>
+          </LEXSynonyms>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2015-11-10 13:09:56" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>= man, normally called {L:Hadad&lt;SDBH:הֲדַד&gt;}; ◄ member of royal family of {L:Edom&lt;SDBH:אֱדֹום&gt;}; ► adversary of king {L:Solomon&lt;SDBH:שְׁלֹמֹה&gt;}</DefinitionShort>
+              <Glosses>
+                <Gloss>Hadad</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>01101101700006{N:001}</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

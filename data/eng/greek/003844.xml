@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="003844000000000" Lemma="παροιμία" Version="0" HasAramaic="false" InLXX="true" AlphaPos="π">
+  <StrongCodes>
+    <Strong>G3942</Strong>
+  </StrongCodes>
+  <Authors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes/>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="003844001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>noun, f.</PartOfSpeech>
+      </PartsOfSpeech>
+      <Inflections>
+        <Inflection Lemma="παροιμία" BaseFormIndex="1">
+          <Form/>
+          <Realizations>
+            <Realization>-ας</Realization>
+          </Realizations>
+          <Comments/>
+        </Inflection>
+      </Inflections>
+      <RelatedLemmas>
+        <RelatedLemma>
+          <Word>παρομοιάζω</Word>
+        </RelatedLemma>
+      </RelatedLemmas>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="003844001001000" IsBiblicalTerm="M" EntryCode="33.14" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Communication</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Discourse Types</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-12-23 11:41:06" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>a short saying in fixed form, emphasizing some general truth</DefinitionShort>
+              <Glosses>
+                <Gloss>proverb</Gloss>
+                <Gloss>saying</Gloss>
+              </Glosses>
+              <Comments>In a context such as {S:06100202200012} one may render ‘saying’ as ‘what people so often say’ or ‘what is often said.’</Comments>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>06100202200012</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+        <LEXMeaning Id="003844001002000" IsBiblicalTerm="M" EntryCode="33.15" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Communication</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Discourse Types</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-12-23 11:41:06" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>a relatively short narrative with symbolic meaning</DefinitionShort>
+              <Glosses>
+                <Gloss>parable</Gloss>
+                <Gloss>figure</Gloss>
+                <Gloss>allegory</Gloss>
+                <Gloss>figure of speech</Gloss>
+              </Glosses>
+              <Comments>In almost all languages there is some way of speaking about parables or allegories. The equivalent in some languages may be ‘a likeness story’ or ‘a story that teaches’ or ‘a story that points the way’ or ‘words that have another meaning’ or ‘words that are saying something else important.’|Some scholars have insisted that in the NT παραβολή is used only in the sense of a story with one level of symbolic meaning, but in some contexts παραβολή is also used to identify allegories in which each element of the account has a symbolic significance. It is therefore extremely difficult to make a rigid distinction between parables and allegories.</Comments>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04301000600006</LEXReference>
+            <LEXReference>04301602500006</LEXReference>
+            <LEXReference>04301602500022</LEXReference>
+            <LEXReference>04301602900022</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

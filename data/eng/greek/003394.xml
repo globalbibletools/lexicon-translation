@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="003394000000000" Lemma="ναυαγέω" Version="0" HasAramaic="false" InLXX="false" AlphaPos="ν">
+  <StrongCodes>
+    <Strong>G3489</Strong>
+  </StrongCodes>
+  <Authors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes/>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="003394001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>verb</PartOfSpeech>
+      </PartsOfSpeech>
+      <Constructs>
+        <Construct Lemma="ναυαγέω" BaseFormIndex="1">
+          <WordMeaningSet>
+            <Word>ναῦς</Word>
+          </WordMeaningSet>
+          <WordMeaningSet>
+            <Word>ἄγνυμι</Word>
+            <Meaning LanguageCode="en">
+              <Meaning>break</Meaning>
+            </Meaning>
+            <Meaning LanguageCode="zhT">
+              <Meaning>打破</Meaning>
+            </Meaning>
+          </WordMeaningSet>
+        </Construct>
+      </Constructs>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="003394001001000" IsBiblicalTerm="Y" EntryCode="54.26" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Maritime Activities</LEXDomain>
+          </LEXDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-12-09 16:36:20" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>to experience or suffer shipwreck</DefinitionShort>
+              <Glosses>
+                <Gloss>to be shipwrecked</Gloss>
+              </Glosses>
+              <Comments>In some languages it is necessary to specify the particular cause of a shipwreck, for example, ‘the ship struck a rock or reef’ or ‘the ship sank because of a storm’ or ‘the ship collided with another ship and sank.’ In view of the context of {S:04701102500012}, it is probably best to select an expression which would refer to a ship sinking because of a storm, though obviously one cannot be certain.</Comments>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04701102500012</LEXReference>
+            <LEXReference>05400101900024</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

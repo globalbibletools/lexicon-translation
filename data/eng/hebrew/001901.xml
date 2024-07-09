@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="001901000000000" Lemma="וָזָר" Version="5" HasAramaic="false" InLXX="false" AlphaPos="ו">
+  <StrongCodes>
+    <Strong>H2054</Strong>
+  </StrongCodes>
+  <Authors>
+    <Author>Reinier de Blois; Enio R. Mueller</Author>
+  </Authors>
+  <Contributors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes>
+    <Note Caller="1" LanguageCode="en" LastEdited="" LastEditedBy="">
+      <References>
+        <Reference>02002100800008</Reference>
+      </References>
+      <Content>NJPS וְזָר = {L:זָר&lt;SDBH:זָר&gt;}</Content>
+    </Note>
+  </Notes>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="001901001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>aj</PartOfSpeech>
+      </PartsOfSpeech>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="001901001001000" IsBiblicalTerm="Y" EntryCode="" Indent="0">
+          <LEXDomains>
+            <LEXDomain Code="002001002007">Evil</LEXDomain>
+          </LEXDomains>
+          <LEXAntonyms>
+            <LEXAntonym>זַךְ</LEXAntonym>
+          </LEXAntonyms>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2017-09-03 14:46:00" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>exact meaning unknown; possibly: = state in which the behavior of humans is considered morally and ethically unacceptable</DefinitionShort>
+              <Glosses>
+                <Gloss>evil</Gloss>
+                <Gloss>guilty</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>02002100800008{N:001}</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+          <LEXCoreDomains>
+            <LEXCoreDomain Code="017">Behavior</LEXCoreDomain>
+          </LEXCoreDomains>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="000997000000000" Lemma="βλάσφημος" Version="0" HasAramaic="false" InLXX="true" AlphaPos="β">
+  <StrongCodes>
+    <Strong>G0989</Strong>
+  </StrongCodes>
+  <Authors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes/>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="000997001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>adjc.</PartOfSpeech>
+      </PartsOfSpeech>
+      <Inflections>
+        <Inflection Lemma="βλάσφημος" BaseFormIndex="1">
+          <Form/>
+          <Realizations>
+            <Realization>-ον</Realization>
+          </Realizations>
+          <Comments/>
+        </Inflection>
+      </Inflections>
+      <RelatedLemmas>
+        <RelatedLemma>
+          <Word>βλασφημέω</Word>
+        </RelatedLemma>
+      </RelatedLemmas>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="000997001001000" IsBiblicalTerm="M" EntryCode="33.402" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Communication</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Insult, Slander</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-02-06 12:09:12" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>(derivative of {L:βλασφημέω&lt;SDBG:βλασφημέω:000000&gt;} ‘to blaspheme,’ {D:33.400}) pertaining to being insulting and slanderous</DefinitionShort>
+              <Glosses>
+                <Gloss>insulting</Gloss>
+                <Gloss>slanderous</Gloss>
+                <Gloss>blasphemous</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04400601100020</LEXReference>
+            <LEXReference>05400101300008</LEXReference>
+            <LEXReference>05500300200018</LEXReference>
+            <LEXReference>06100201100028</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+    <BaseForm Id="000997002000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>adjc.</PartOfSpeech>
+      </PartsOfSpeech>
+      <Inflections>
+        <Inflection Lemma="βλάσφημος" BaseFormIndex="2">
+          <Form/>
+          <Realizations>
+            <Realization>-ον</Realization>
+          </Realizations>
+          <Comments/>
+        </Inflection>
+      </Inflections>
+      <RelatedLemmas>
+        <RelatedLemma>
+          <Word>βλασφημέω</Word>
+        </RelatedLemma>
+      </RelatedLemmas>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="000997002001000" IsBiblicalTerm="Y" EntryCode="33.403" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Communication</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Insult, Slander</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-02-06 12:09:12" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>(derivative of {L:βλασφημέω&lt;SDBG:βλασφημέω:000000&gt;} ‘to defame,’ {D:33.400}) a person who defames someone or something</DefinitionShort>
+              <Glosses>
+                <Gloss>defamer</Gloss>
+                <Gloss>blasphemer</Gloss>
+              </Glosses>
+              <Comments>In a number of languages, however, it may be much better to employ verbs as a means of indicating more precisely the object of such activities in {S:05400101300008}, for example, ‘formerly I defamed him and persecuted him.’</Comments>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>05400101300008</LEXReference>
+            <LEXReference>05500300200018</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

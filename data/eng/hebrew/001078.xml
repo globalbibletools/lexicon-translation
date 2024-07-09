@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="001078000000000" Lemma="בעט" Version="5" HasAramaic="false" InLXX="false" AlphaPos="ב">
+  <StrongCodes>
+    <Strong>H1163</Strong>
+  </StrongCodes>
+  <Authors>
+    <Author>Enio R. Mueller</Author>
+  </Authors>
+  <Contributors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes>
+    <Note Caller="1" LanguageCode="en" LastEdited="" LastEditedBy="">
+      <References>
+        <Reference>00900202900004</Reference>
+      </References>
+      <Content>NJPS "trample upon" preserves the image of the metaphor | NIV "scorn" | REB (CEV) "disrespect" give the meaning. RSV NRSV (GNT) "look with greed" follow LXX (supported by a Qumran manuscript) επεβλεψασ επι (hebr. תביט ). Cf. the note in Stoebe 116.</Content>
+    </Note>
+  </Notes>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="001078001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>vb</PartOfSpeech>
+      </PartsOfSpeech>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="001078001001000" IsBiblicalTerm="Y" EntryCode="" Indent="0">
+          <LEXDomains>
+            <LEXDomain Code="002001001058">Stance</LEXDomain>
+          </LEXDomains>
+          <LEXForms>
+            <LEXForm>vbqal-</LEXForm>
+          </LEXForms>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2015-03-19 14:13:50" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>= action by which a human or animal strikes forcibly with the foot; ≈ associated with disobedience and rebellion</DefinitionShort>
+              <Glosses>
+                <Gloss>to kick</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>00503201500010</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+          <LEXCoreDomains>
+            <LEXCoreDomain Code="019">Body</LEXCoreDomain>
+          </LEXCoreDomains>
+        </LEXMeaning>
+        <LEXMeaning Id="001078001002000" IsBiblicalTerm="Y" EntryCode="" Indent="0">
+          <LEXDomains>
+            <LEXDomain Code="002001002005" Source="Stance" SourceCode="002001001058">Despise</LEXDomain>
+          </LEXDomains>
+          <LEXForms>
+            <LEXForm>vbqal-</LEXForm>
+          </LEXForms>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2015-03-19 14:13:50" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>= action by which someone shows a blatant lack of respect to something else</DefinitionShort>
+              <Glosses>
+                <Gloss>to kick at</Gloss>
+                <Gloss>to despise</Gloss>
+                <Gloss>to treat lightly</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>00900202900004{N:001}</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+          <LEXCoreDomains>
+            <LEXCoreDomain Code="170" Source="Body" SourceCode="019">Status</LEXCoreDomain>
+          </LEXCoreDomains>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

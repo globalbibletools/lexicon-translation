@@ -1,0 +1,198 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="000206000000000" Lemma="אוּר" Version="5" HasAramaic="false" InLXX="false" AlphaPos="א">
+  <StrongCodes>
+    <Strong>H0217</Strong>
+    <Strong>H0218a</Strong>
+    <Strong>H0218b</Strong>
+    <Strong>H0224</Strong>
+  </StrongCodes>
+  <Authors>
+    <Author>Reinier de Blois</Author>
+  </Authors>
+  <Contributors/>
+  <AlternateLemmas>
+    <AlternateLemma>אוּרִים</AlternateLemma>
+  </AlternateLemmas>
+  <MainLinks/>
+  <Notes>
+    <Note Caller="1" LanguageCode="en" LastEdited="" LastEditedBy="">
+      <References>
+        <Reference>03801400600020</Reference>
+      </References>
+      <Content>REB "heat" | MT HOTTP-A NIV NJB "light" NJPS "sunlight" = {L:אֹור&lt;SDBH:אֹור&gt;} | RSV NRSV GNT omit</Content>
+    </Note>
+    <Note Caller="2" LanguageCode="en" LastEdited="" LastEditedBy="">
+      <References>
+        <Reference>02302401500010</Reference>
+      </References>
+      <Content>{A:RSV} {A:NIV} {A:NJB} {A:NRSV} {A:GNT} {A:CEV} "east" {A:REB} "eastern regions" | {A:NJPS} "with lights"</Content>
+    </Note>
+  </Notes>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="000206001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>nsm</PartOfSpeech>
+      </PartsOfSpeech>
+      <RelatedLemmas>
+        <RelatedLemma>
+          <Word>אור</Word>
+        </RelatedLemma>
+      </RelatedLemmas>
+      <RelatedNames>
+        <RelatedName>
+          <Word>אוּרִי</Word>
+        </RelatedName>
+        <RelatedName>
+          <Word>אוּרִיאֵל</Word>
+        </RelatedName>
+        <RelatedName>
+          <Word>אוּרִיָּה</Word>
+        </RelatedName>
+      </RelatedNames>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="000206001001000" IsBiblicalTerm="M" EntryCode="" Indent="0">
+          <LEXDomains>
+            <LEXDomain Code="001006006">Fire</LEXDomain>
+          </LEXDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2017-12-31 13:26:01" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>= fire; ► used for burning sacrifices and other objects, setting fire to arrows, and warming oneself; ≈ associated with light, warmth, and destruction</DefinitionShort>
+              <Glosses>
+                <Gloss>fire</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>02303100900028</LEXReference>
+            <LEXReference>02304401600040</LEXReference>
+            <LEXReference>02304701400036</LEXReference>
+            <LEXReference>02305001100018</LEXReference>
+            <LEXReference>02600500200008</LEXReference>
+            <LEXReference>03801400600020{N:001}</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+          <LEXCoreDomains>
+            <LEXCoreDomain Code="067">Fire</LEXCoreDomain>
+          </LEXCoreDomains>
+        </LEXMeaning>
+        <LEXMeaning Id="000206001002000" IsBiblicalTerm="Y" EntryCode="" Indent="0">
+          <LEXDomains>
+            <LEXDomain Code="002002001013" Source="Fire" SourceCode="001006006">Orientation</LEXDomain>
+          </LEXDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2017-12-31 13:26:01" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>= area located in the direction where the sun comes up</DefinitionShort>
+              <Glosses>
+                <Gloss>eastern country</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>02302401500010{N:002}</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+          <LEXCoreDomains>
+            <LEXCoreDomain Code="166">Space</LEXCoreDomain>
+            <LEXCoreDomain Code="073">Geography</LEXCoreDomain>
+          </LEXCoreDomains>
+        </LEXMeaning>
+        <LEXMeaning Id="000206001003000" IsBiblicalTerm="M" EntryCode="" Indent="0">
+          <LEXDomains>
+            <LEXDomain Code="001006015" Source="Fire" SourceCode="001006006">Stone</LEXDomain>
+          </LEXDomains>
+          <LEXCollocations>
+            <LEXCollocation>הָאוּרִים (וְהַתֻּמִּים)</LEXCollocation>
+          </LEXCollocations>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2017-12-31 13:26:01" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>exact meaning unsure; possibly: = set consisting of two small objects; ► located in the breast-piece on top of the ephod and used to determine God's will with regard to a certain matter</DefinitionShort>
+              <Glosses>
+                <Gloss>Urim and Thummim</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>00202803000018</LEXReference>
+            <LEXReference>00300800800028</LEXReference>
+            <LEXReference>00402702100028</LEXReference>
+            <LEXReference>00503300800014</LEXReference>
+            <LEXReference>00902800600034</LEXReference>
+            <LEXReference>01500206300034</LEXReference>
+            <LEXReference>01600706500036</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+          <LEXCoreDomains>
+            <LEXCoreDomain Code="132">Priesthood</LEXCoreDomain>
+            <LEXCoreDomain Code="033">Clothing</LEXCoreDomain>
+            <LEXCoreDomain Code="103">Lot</LEXCoreDomain>
+          </LEXCoreDomains>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+    <BaseForm Id="000206002000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>np</PartOfSpeech>
+      </PartsOfSpeech>
+      <MeaningsOfName>
+        <MeaningOfName LanguageCode="pt">
+          <Meaning>fogo</Meaning>
+        </MeaningOfName>
+      </MeaningsOfName>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="000206002001000" IsBiblicalTerm="M" EntryCode="" Indent="0">
+          <LEXDomains>
+            <LEXDomain Code="003001010">Names of Locations</LEXDomain>
+          </LEXDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2017-12-31 13:26:01" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>= town; ◄ on the river {L:Euphrates&lt;SDBH:פְּרָת&gt;} in southern {L:Mesopotamia&lt;SDBH:אֲרַם נַהֲרַיִם&gt;}; ► place where {L:Abram&lt;SDBH:אַבְרָם&gt;} and his family used to live before moving to {L:Haran&lt;SDBH:חָרָן&gt;}</DefinitionShort>
+              <Glosses>
+                <Gloss>Ur</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>00101102800024</LEXReference>
+            <LEXReference>00101103100050</LEXReference>
+            <LEXReference>00101500700018</LEXReference>
+            <LEXReference>01600900700026</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+          <LEXCoordinates>
+            <LEXCoordinates>30.962052,46.103741</LEXCoordinates>
+          </LEXCoordinates>
+        </LEXMeaning>
+        <LEXMeaning Id="000206002002000" IsBiblicalTerm="Y" EntryCode="" Indent="0">
+          <LEXDomains>
+            <LEXDomain Code="003001007">Names of People</LEXDomain>
+          </LEXDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2017-12-31 13:26:01" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>= man; ► father of {L:Eliphal&lt;SDBH:אֱלִיפַל&gt;}, warrior, time of king {L:David&lt;SDBH:דָּוִד&gt;}</DefinitionShort>
+              <Glosses>
+                <Gloss>Ur</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>01301103500016</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="004109000000000" Lemma="πόρρω" Version="0" HasAramaic="false" InLXX="true" AlphaPos="π">
+  <StrongCodes>
+    <Strong>G4206</Strong>
+  </StrongCodes>
+  <Authors/>
+  <AlternateLemmas>
+    <AlternateLemma>πορρώτερον</AlternateLemma>
+  </AlternateLemmas>
+  <MainLinks/>
+  <Notes>
+    <Note Caller="1" LanguageCode="en" LastEdited="" LastEditedBy="">
+      <References/>
+      <Content>It is possible that πόρρωθεν[b] differs in meaning from πόρρω in emphasizing the degree of separation, but this cannot be determined from existing contexts.</Content>
+    </Note>
+    <Note Caller="2" LanguageCode="en" LastEdited="" LastEditedBy="">
+      <References/>
+      <Content>πορρώτερον may be regarded simply as a comparative form of πόρρω, and hence πορρώτερον could be combined with πόρρω and πόρρωθεν[b] in {D:83.31}.</Content>
+    </Note>
+  </Notes>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="004109001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>advb.</PartOfSpeech>
+      </PartsOfSpeech>
+      <RelatedLemmas>
+        <RelatedLemma>
+          <Word>πρωτεύω</Word>
+        </RelatedLemma>
+      </RelatedLemmas>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="004109001001000" IsBiblicalTerm="Y" EntryCode="83.31" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Spacial Positions</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>At, Beside, Near, Far</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2022-01-06 16:06:39" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>a position at a relatively great distance, with the possible implication of comparison{N:001}</DefinitionShort>
+              <Glosses>
+                <Gloss>far away</Gloss>
+                <Gloss>at a distance</Gloss>
+                <Gloss>a long way off</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04001500800024</LEXReference>
+            <LEXReference>04100700600052</LEXReference>
+            <LEXReference>04201403200014</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+        <LEXMeaning Id="004109001002000" IsBiblicalTerm="Y" EntryCode="83.32" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Spacial Positions</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>At, Beside, Near, Far</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXForms>
+            <LEXForm>πορρώτερον</LEXForm>
+          </LEXForms>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2022-01-06 16:06:39" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>a position at an even greater distance than {L:πόρρω&lt;SDBG:πόρρω:000000&gt;} ‘far away’ ({D:83.31}){N:002}</DefinitionShort>
+              <Glosses>
+                <Gloss>further</Gloss>
+                <Gloss>farther</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04202402800022</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

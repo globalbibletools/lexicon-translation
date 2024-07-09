@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="002708000000000" Lemma="κατατομή" Version="0" HasAramaic="false" InLXX="false" AlphaPos="κ">
+  <StrongCodes>
+    <Strong>G2699</Strong>
+  </StrongCodes>
+  <Authors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes/>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="002708001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>noun, f.</PartOfSpeech>
+      </PartsOfSpeech>
+      <Inflections>
+        <Inflection Lemma="κατατομή" BaseFormIndex="1">
+          <Form/>
+          <Realizations>
+            <Realization>-ῆς</Realization>
+          </Realizations>
+          <Comments/>
+        </Inflection>
+      </Inflections>
+      <RelatedLemmas>
+        <RelatedLemma>
+          <Word>τομός</Word>
+        </RelatedLemma>
+      </RelatedLemmas>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="002708001001000" IsBiblicalTerm="Y" EntryCode="19.22" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Physical Impact</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Pierce, Cut</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-09-24 18:58:25" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>to mutilate by severe cutting (occurring in {S:05000300200020} as an exaggerated reference to {L:περιτομή&lt;SDBG:περιτομή:000000&gt;} ‘circumcision,’ {D:53.51})</DefinitionShort>
+              <Glosses>
+                <Gloss>to mutilate</Gloss>
+                <Gloss>mutilation</Gloss>
+              </Glosses>
+              <Comments>It is possible that κατατομή in {S:05000300200020} means ‘those who practice mutilation’ (as a hyperbole for circumcision) in the same way that περιτομή in some contexts means ‘those who circumcise.’</Comments>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>05000300200020</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

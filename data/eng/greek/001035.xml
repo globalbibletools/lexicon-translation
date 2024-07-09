@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="001035000000000" Lemma="βροχή" Version="0" HasAramaic="false" InLXX="true" AlphaPos="β">
+  <StrongCodes>
+    <Strong>G1028</Strong>
+  </StrongCodes>
+  <Authors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes/>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="001035001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>noun, f.</PartOfSpeech>
+      </PartsOfSpeech>
+      <Inflections>
+        <Inflection Lemma="βροχή" BaseFormIndex="1">
+          <Form/>
+          <Realizations>
+            <Realization>-ῆς</Realization>
+          </Realizations>
+          <Comments/>
+        </Inflection>
+      </Inflections>
+      <RelatedLemmas>
+        <RelatedLemma>
+          <Word>βρέχω</Word>
+        </RelatedLemma>
+      </RelatedLemmas>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="001035001001000" IsBiblicalTerm="M" EntryCode="14.10" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Physical Events and States</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Rain</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-02-12 14:04:14" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>rain, whether light or torrential</DefinitionShort>
+              <Glosses>
+                <Gloss>rain</Gloss>
+                <Gloss>to rain</Gloss>
+              </Glosses>
+              <Comments>Though most languages have a general term for rain, the event of raining is more frequently referred to by a verb rather than by a noun, since rain is something which takes place and is not regarded as a thing or mass, unless, of course, one is referring to the water which comes down as rain, that is to say, ‘rain water’ (see {D:2.10}). In some languages the event of raining is generally expressed idiomatically as ‘God is urinating.’ This might appear unduly crude and anthropomorphic, but to the speakers of such a language the expression is often quite acceptable and has no undesirable connotations.|Though in English one may use an impersonal subject with the verb ‘to rain,’ for example, ‘it is raining,’ many languages require some kind of personal agent, for example, ‘God is raining,’ or an impersonal agent such as ‘the sky is raining’ or ‘the clouds are raining.’</Comments>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04000702500008</LEXReference>
+            <LEXReference>04000702700008</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

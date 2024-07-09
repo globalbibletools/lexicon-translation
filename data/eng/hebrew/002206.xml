@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="002206000000000" Lemma="חֶזְקָה" Version="5" HasAramaic="false" InLXX="false" AlphaPos="ח">
+  <StrongCodes>
+    <Strong>H2393</Strong>
+  </StrongCodes>
+  <Authors>
+    <Author>Reinier de Blois</Author>
+  </Authors>
+  <Contributors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes/>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="002206001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>nsf</PartOfSpeech>
+      </PartsOfSpeech>
+      <RelatedLemmas>
+        <RelatedLemma>
+          <Word>חזק</Word>
+        </RelatedLemma>
+      </RelatedLemmas>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="002206001001000" IsBiblicalTerm="Y" EntryCode="" Indent="0">
+          <LEXDomains>
+            <LEXDomain Code="002001001060">Strong</LEXDomain>
+          </LEXDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2017-05-04 20:44:27" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>= state in which humans are strong in political sense</DefinitionShort>
+              <Glosses>
+                <Gloss>strength</Gloss>
+                <Gloss>power</Gloss>
+                <Gloss>might</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>01401200100018</LEXReference>
+            <LEXReference>01402601600006</LEXReference>
+            <LEXReference>02300801100014</LEXReference>
+            <LEXReference>02701100200046</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+        <LEXMeaning Id="002206001002000" IsBiblicalTerm="Y" EntryCode="" Indent="0">
+          <LEXDomains>
+            <LEXDomain Code="002002001012" Source="Strong" SourceCode="002001001060">Non-Move</LEXDomain>
+          </LEXDomains>
+          <LEXForms>
+            <LEXForm>vbqal-</LEXForm>
+          </LEXForms>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2017-05-04 20:44:27" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>= state in which objects cannot be moved from a certain place</DefinitionShort>
+              <Glosses>
+                <Gloss>firmness</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>02300801100014</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

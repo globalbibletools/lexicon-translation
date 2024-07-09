@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="003687000000000" Lemma="ὀφειλή" Version="0" HasAramaic="false" InLXX="false" AlphaPos="ο">
+  <StrongCodes>
+    <Strong>G3782</Strong>
+  </StrongCodes>
+  <Authors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes/>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="003687001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>noun, f.</PartOfSpeech>
+      </PartsOfSpeech>
+      <Inflections>
+        <Inflection Lemma="ὀφειλή" BaseFormIndex="1">
+          <Form/>
+          <Realizations>
+            <Realization>-ῆς</Realization>
+          </Realizations>
+          <Comments/>
+        </Inflection>
+      </Inflections>
+      <RelatedLemmas>
+        <RelatedLemma>
+          <Word>ὀφείλω</Word>
+        </RelatedLemma>
+      </RelatedLemmas>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="003687001001000" IsBiblicalTerm="M" EntryCode="57.221" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Possess, Transfer, Exchange</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Owe, Debt, Cancel</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-12-15 19:10:34" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>(derivative of {L:ὀφείλω&lt;SDBG:ὀφείλω:000000&gt;}[a] ‘to owe,’ {D:57.219}) that which is owed</DefinitionShort>
+              <Glosses>
+                <Gloss>debt</Gloss>
+                <Gloss>amount owed</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04001803200026</LEXReference>
+            <LEXReference>04501300700008</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+        <LEXMeaning Id="003687001002000" IsBiblicalTerm="M" EntryCode="71.24" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Mode</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Should, Ought</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-12-15 19:10:34" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>that which ought to be done as a matter of duty or social obligation</DefinitionShort>
+              <Glosses>
+                <Gloss>what one should do</Gloss>
+                <Gloss>duty</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04600700300012</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

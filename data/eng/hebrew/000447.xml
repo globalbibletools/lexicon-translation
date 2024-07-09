@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="000447000000000" Lemma="אֵלֶם" Version="5" HasAramaic="false" InLXX="false" AlphaPos="א">
+  <StrongCodes>
+    <Strong>H0482</Strong>
+  </StrongCodes>
+  <Authors>
+    <Author>Reinier de Blois</Author>
+  </Authors>
+  <Contributors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes>
+    <Note Caller="1" LanguageCode="en" LastEdited="" LastEditedBy="">
+      <References>
+        <Reference>01905600100012</Reference>
+      </References>
+      <Content>{A:MT} {A:HOTTP}-B {A:CEV} | {A:RSV} {A:NIV} {A:NRSV} {A:REB} אֵלִם "oaks, terebinths" | {A:NJB} אֵלִם "princes"</Content>
+    </Note>
+    <Note Caller="2" LanguageCode="en" LastEdited="" LastEditedBy="">
+      <References>
+        <Reference>01905800200006</Reference>
+      </References>
+      <Content>{A:MT} {A:HOTTP}-B | {A:RSV} {A:NIV} {A:NJPS} {A:NJB} {A:NRSV} {A:REB} {A:GNT} {A:CEV} {L:"god&lt;SDBH:אֵל&gt;}, mighty one, ruler"</Content>
+    </Note>
+  </Notes>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="000447001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>nsm</PartOfSpeech>
+      </PartsOfSpeech>
+      <RelatedLemmas>
+        <RelatedLemma>
+          <Word>אלם</Word>
+        </RelatedLemma>
+      </RelatedLemmas>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="000447001001000" IsBiblicalTerm="Y" EntryCode="" Indent="0">
+          <LEXDomains>
+            <LEXDomain Code="002004001009004">Non-Speak</LEXDomain>
+          </LEXDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2017-12-31 13:42:22" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>= state of being silent</DefinitionShort>
+              <Glosses>
+                <Gloss>silence</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>01905600100012{N:001}</LEXReference>
+            <LEXReference>01905800200006{N:002}</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+          <LEXCoreDomains>
+            <LEXCoreDomain Code="041">Communication</LEXCoreDomain>
+          </LEXCoreDomains>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

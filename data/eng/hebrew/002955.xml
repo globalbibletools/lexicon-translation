@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="002955000000000" Lemma="ימן" Version="5" HasAramaic="false" InLXX="false" AlphaPos="י">
+  <StrongCodes>
+    <Strong>H3231</Strong>
+    <Strong>H0541</Strong>
+  </StrongCodes>
+  <Authors>
+    <Author>Reinier de Blois</Author>
+  </Authors>
+  <Contributors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes>
+    <Note Caller="1" LanguageCode="en" LastEdited="" LastEditedBy="">
+      <References>
+        <Reference>02303002100030</Reference>
+      </References>
+      <Content>MT תַאְַמִינוּ</Content>
+    </Note>
+  </Notes>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="002955001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>vb</PartOfSpeech>
+      </PartsOfSpeech>
+      <RelatedLemmas>
+        <RelatedLemma>
+          <Word>יָמִין</Word>
+        </RelatedLemma>
+        <RelatedLemma>
+          <Word>יְמִינִי</Word>
+        </RelatedLemma>
+        <RelatedLemma>
+          <Word>יְמָנִי</Word>
+        </RelatedLemma>
+        <RelatedLemma>
+          <Word>תֵּימָן</Word>
+        </RelatedLemma>
+      </RelatedLemmas>
+      <RelatedNames>
+        <RelatedName>
+          <Word>תֵּימָן</Word>
+        </RelatedName>
+      </RelatedNames>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="002955001001000" IsBiblicalTerm="Y" EntryCode="" Indent="0">
+          <LEXDomains>
+            <LEXDomain Code="002002001013">Orientation</LEXDomain>
+          </LEXDomains>
+          <LEXForms>
+            <LEXForm>vbhif-</LEXForm>
+          </LEXForms>
+          <LEXAntonyms>
+            <LEXAntonym>שׂמאל</LEXAntonym>
+          </LEXAntonyms>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2017-09-15 11:31:33" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>= action by which humans turn to the right, when walking or performing another event; ≈ in extension: to choose one option as opposed to another</DefinitionShort>
+              <Glosses>
+                <Gloss>to go to the right</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>00101300900032</LEXReference>
+            <LEXReference>01001401900052</LEXReference>
+            <LEXReference>02303002100030{N:001}</LEXReference>
+            <LEXReference>02602102100004</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+        <LEXMeaning Id="002955001002000" IsBiblicalTerm="Y" EntryCode="" Indent="0">
+          <LEXDomains>
+            <LEXDomain Code="002002001013">Orientation</LEXDomain>
+          </LEXDomains>
+          <LEXForms>
+            <LEXForm>vbhif-</LEXForm>
+          </LEXForms>
+          <LEXAntonyms>
+            <LEXAntonym>שׂמאל</LEXAntonym>
+          </LEXAntonyms>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2017-09-15 11:31:33" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>= action by which humans perform an action with the right hand</DefinitionShort>
+              <Glosses>
+                <Gloss>to do (something) with the right hand</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>01301200200006</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

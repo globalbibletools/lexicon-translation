@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="006479000000000" Lemma="קָלִי" Version="5" HasAramaic="false" InLXX="false" AlphaPos="ק">
+  <StrongCodes>
+    <Strong>H7039</Strong>
+  </StrongCodes>
+  <Authors>
+    <Author>Graham S. Ogden</Author>
+  </Authors>
+  <Contributors/>
+  <AlternateLemmas>
+    <AlternateLemma>קָלִיא</AlternateLemma>
+  </AlternateLemmas>
+  <MainLinks/>
+  <Notes/>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="006479001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>nsm</PartOfSpeech>
+      </PartsOfSpeech>
+      <RelatedLemmas>
+        <RelatedLemma>
+          <Word>קלה</Word>
+        </RelatedLemma>
+      </RelatedLemmas>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="006479001001000" IsBiblicalTerm="Y" EntryCode="" Indent="0">
+          <LEXDomains>
+            <LEXDomain Code="001004003" Source="Crops" SourceCode="001004003002">Food</LEXDomain>
+          </LEXDomains>
+          <LEXAntonyms>
+            <LEXAntonym>כַּרְמֶל</LEXAntonym>
+          </LEXAntonyms>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2006-11-16 12:22:12" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>= ears of grain that have been cooked over a fire ► to form a meal that can be carried conveniently when traveling or working outside</DefinitionShort>
+              <Glosses>
+                <Gloss>parched grain</Gloss>
+                <Gloss>roasted grain</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>00302301400008</LEXReference>
+            <LEXReference>00800201400062</LEXReference>
+            <LEXReference>00901701700026</LEXReference>
+            <LEXReference>00902501800042</LEXReference>
+            <LEXReference>01001702800028</LEXReference>
+            <LEXReference>01001702800040</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+          <LEXCoreDomains>
+            <LEXCoreDomain Code="069">Food</LEXCoreDomain>
+          </LEXCoreDomains>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

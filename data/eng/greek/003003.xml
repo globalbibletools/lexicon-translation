@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="003003000000000" Lemma="λαμπάς" Version="0" HasAramaic="false" InLXX="true" AlphaPos="λ">
+  <StrongCodes>
+    <Strong>G2985</Strong>
+  </StrongCodes>
+  <Authors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes/>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="003003001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>noun, f.</PartOfSpeech>
+      </PartsOfSpeech>
+      <Inflections>
+        <Inflection Lemma="λαμπάς" BaseFormIndex="1">
+          <Form/>
+          <Realizations>
+            <Realization>-άδος</Realization>
+          </Realizations>
+          <Comments/>
+        </Inflection>
+      </Inflections>
+      <RelatedLemmas>
+        <RelatedLemma>
+          <Word>λάμπω</Word>
+        </RelatedLemma>
+      </RelatedLemmas>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="003003001001000" IsBiblicalTerm="M" EntryCode="6.102" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Artifacts</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Lights and Light Holders</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-11-03 10:34:15" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>a stick or bundle of sticks carried about as a light</DefinitionShort>
+              <Glosses>
+                <Gloss>torch</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04301800300042</LEXReference>
+            <LEXReference>06600400500026</LEXReference>
+            <LEXReference>06600801000030</LEXReference>
+          </LEXReferences>
+          <LEXLinks>
+            <LEXLink>realia:5.4</LEXLink>
+          </LEXLinks>
+          <LEXVideos/>
+        </LEXMeaning>
+        <LEXMeaning Id="003003001002000" IsBiblicalTerm="M" EntryCode="6.104" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Artifacts</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Lights and Light Holders</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-11-03 10:34:15" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>a light made by burning a wick saturated with oil contained in a relatively small vessel</DefinitionShort>
+              <Glosses>
+                <Gloss>lamp</Gloss>
+              </Glosses>
+              <Comments>In some languages the closest equivalent of λαμπάς[b] and λύχνος is a kerosene lamp. What is to be avoided is a word which suggests a flashlight, which would of course be highly anachronistic.</Comments>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04002500100024</LEXReference>
+            <LEXReference>04002500300012</LEXReference>
+            <LEXReference>04002500400022</LEXReference>
+            <LEXReference>04002500700020</LEXReference>
+            <LEXReference>04002500800030</LEXReference>
+            <LEXReference>04402000800006</LEXReference>
+          </LEXReferences>
+          <LEXLinks>
+            <LEXLink>realia:5.1</LEXLink>
+          </LEXLinks>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

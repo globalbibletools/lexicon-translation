@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="002331000000000" Lemma="θερισμός" Version="0" HasAramaic="false" InLXX="true" AlphaPos="θ">
+  <StrongCodes>
+    <Strong>G2326</Strong>
+  </StrongCodes>
+  <Authors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes>
+    <Note Caller="1" LanguageCode="en" LastEdited="" LastEditedBy="">
+      <References>
+        <Reference>04001303000012</Reference>
+        <Reference>04001303000022</Reference>
+      </References>
+      <Content>In {S:04001303000012 04001303000022} there is a semantic component of time involved in θερισμός, but the process of harvesting is more focal than the temporal element.</Content>
+    </Note>
+  </Notes>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="002331001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>noun, m.</PartOfSpeech>
+      </PartsOfSpeech>
+      <Inflections>
+        <Inflection Lemma="θερισμός" BaseFormIndex="1">
+          <Form/>
+          <Realizations>
+            <Realization>-οῦ</Realization>
+          </Realizations>
+          <Comments/>
+        </Inflection>
+      </Inflections>
+      <RelatedLemmas>
+        <RelatedLemma>
+          <Word>θερμαίνομαι</Word>
+        </RelatedLemma>
+      </RelatedLemmas>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="002331001001000" IsBiblicalTerm="M" EntryCode="43.14" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Agriculture</LEXDomain>
+          </LEXDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-08-13 18:47:49" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>act of cutting ripe grain and gathering bundles of such grain together</DefinitionShort>
+              <Glosses>
+                <Gloss>harvest</Gloss>
+                <Gloss>reaping</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04001303000012{N:001}</LEXReference>
+            <LEXReference>04001303000022</LEXReference>
+            <LEXReference>04001303900024</LEXReference>
+            <LEXReference>04100402900026</LEXReference>
+            <LEXReference>04300403500020</LEXReference>
+            <LEXReference>04300403500054</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+        <LEXMeaning Id="002331001002000" IsBiblicalTerm="M" EntryCode="43.15" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Agriculture</LEXDomain>
+          </LEXDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-08-13 18:47:49" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>that which is harvested</DefinitionShort>
+              <Glosses>
+                <Gloss>harvest</Gloss>
+                <Gloss>crop</Gloss>
+                <Gloss>fruit</Gloss>
+                <Gloss>grain</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04000903700016</LEXReference>
+            <LEXReference>04000903800012</LEXReference>
+            <LEXReference>04000903800024</LEXReference>
+            <LEXReference>04201000200014</LEXReference>
+            <LEXReference>04201000200036</LEXReference>
+            <LEXReference>04201000200048</LEXReference>
+            <LEXReference>06601401500062</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

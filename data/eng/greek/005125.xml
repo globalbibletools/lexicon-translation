@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="005125000000000" Lemma="ὑπερεκπερισσοῦ" Version="0" HasAramaic="false" InLXX="false" AlphaPos="υ">
+  <StrongCodes>
+    <Strong>G4053a</Strong>
+  </StrongCodes>
+  <Authors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes/>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="005125001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>prep. (with gen.), advb.</PartOfSpeech>
+      </PartsOfSpeech>
+      <Constructs>
+        <Construct Lemma="ὑπερεκπερισσοῦ" BaseFormIndex="1">
+          <WordMeaningSet>
+            <Word>ὑπέρ</Word>
+          </WordMeaningSet>
+          <WordMeaningSet>
+            <Word>ἐκ</Word>
+          </WordMeaningSet>
+          <WordMeaningSet>
+            <Word>περισσός</Word>
+          </WordMeaningSet>
+        </Construct>
+      </Constructs>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="005125001001000" IsBiblicalTerm="Y" EntryCode="78.34" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Degree</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>More Than, Less Than [Comparative Degree]</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2022-05-04 08:28:30" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>an extraordinary degree, involving a considerable excess over what would be expected (this series differs from the series in {D:78.31} primarily in emphasizing the excessive degree)</DefinitionShort>
+              <Glosses>
+                <Gloss>extreme</Gloss>
+                <Gloss>extremely</Gloss>
+                <Gloss>to an extreme degree</Gloss>
+                <Gloss>to a very great degree</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04900302000014</LEXReference>
+            <LEXReference>05200301000008</LEXReference>
+            <LEXReference>05200501300008</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

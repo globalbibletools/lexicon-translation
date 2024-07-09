@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="002564000000000" Lemma="κακουχέω" Version="0" HasAramaic="false" InLXX="true" AlphaPos="κ">
+  <StrongCodes>
+    <Strong>G2558</Strong>
+  </StrongCodes>
+  <Authors/>
+  <AlternateLemmas>
+    <AlternateLemma>κακουχέομαι</AlternateLemma>
+  </AlternateLemmas>
+  <MainLinks/>
+  <Notes/>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="002564001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>verb</PartOfSpeech>
+      </PartsOfSpeech>
+      <Constructs>
+        <Construct Lemma="κακουχέω" BaseFormIndex="1">
+          <WordMeaningSet>
+            <Word>κακόω</Word>
+          </WordMeaningSet>
+          <WordMeaningSet>
+            <Word>ἔχω</Word>
+          </WordMeaningSet>
+        </Construct>
+      </Constructs>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="002564001001000" IsBiblicalTerm="M" EntryCode="88.126" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Moral and Ethical Qualities and Related Behavior</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Treat Badly</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-09-09 10:51:54" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>to cause someone to suffer ill-treatment</DefinitionShort>
+              <Glosses>
+                <Gloss>to mistreat</Gloss>
+                <Gloss>to ill-treat</Gloss>
+                <Gloss>to cause to suffer</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>05801103700030</LEXReference>
+            <LEXReference>05801300300014</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

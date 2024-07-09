@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="005356000000000" Lemma="χαλινός" Version="0" HasAramaic="false" InLXX="true" AlphaPos="χ">
+  <StrongCodes>
+    <Strong>G5469</Strong>
+  </StrongCodes>
+  <Authors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes/>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="005356001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>noun, m.</PartOfSpeech>
+      </PartsOfSpeech>
+      <Inflections>
+        <Inflection Lemma="χαλινός" BaseFormIndex="1">
+          <Form/>
+          <Realizations>
+            <Realization>-οῦ</Realization>
+          </Realizations>
+          <Comments/>
+        </Inflection>
+      </Inflections>
+      <RelatedLemmas>
+        <RelatedLemma>
+          <Word>χαλάω</Word>
+        </RelatedLemma>
+      </RelatedLemmas>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="005356001001000" IsBiblicalTerm="M" EntryCode="6.7" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Artifacts</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Instruments Used in Agriculture and Husbandry</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2022-05-30 15:55:39" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>items used to control the actions of a horse, consisting of a bit (a short metal bar placed in the mouth of a horse) and bridle (ropes or leather straps attached to the bit and fitted over the horse’s head)</DefinitionShort>
+              <Glosses>
+                <Gloss>bit</Gloss>
+                <Gloss>bridle</Gloss>
+              </Glosses>
+              <Comments>In languages in which a bit or bridle as a piece of harness is not known, one can employ a descriptive phrase, ‘something to guide a horse with’ or ‘something to put in the mouth of a horse to guide it.’|In {S:06601402000032} the reference to a bit and bridle is merely an indication of measurement, that is to say, the height of the bit and bridle from the ground, and one may reinterpret this measurement as ‘about a meter and a half’ or ‘about five feet.’</Comments>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>05900300300012</LEXReference>
+            <LEXReference>06601402000032</LEXReference>
+          </LEXReferences>
+          <LEXLinks>
+            <LEXLink>realia:1.2.6</LEXLink>
+          </LEXLinks>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

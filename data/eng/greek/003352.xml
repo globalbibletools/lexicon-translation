@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="003352000000000" Lemma="μόσχος" Version="0" HasAramaic="false" InLXX="true" AlphaPos="μ">
+  <StrongCodes>
+    <Strong>G3448</Strong>
+  </StrongCodes>
+  <Authors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes/>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="003352001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>noun, m.</PartOfSpeech>
+      </PartsOfSpeech>
+      <Inflections>
+        <Inflection Lemma="μόσχος" BaseFormIndex="1">
+          <Form/>
+          <Realizations>
+            <Realization>-ου</Realization>
+          </Realizations>
+          <Comments/>
+        </Inflection>
+      </Inflections>
+      <RelatedLemmas>
+        <RelatedLemma>
+          <Word>μοσχοποιέω</Word>
+        </RelatedLemma>
+      </RelatedLemmas>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="003352001001000" IsBiblicalTerm="M" EntryCode="4.17" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Animals</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Animals</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-12-09 14:04:58" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>the young of cattle</DefinitionShort>
+              <Glosses>
+                <Gloss>calf</Gloss>
+              </Glosses>
+              <Comments>In Greek outside of the NT μόσχος is either masculine or feminine, but in the NT the forms are either masculine ({S:04201502300008}) or the distinction is not indicated by the accompanying grammatical forms ({S:05800901200012}).|In languages spoken by cattle-raising people, the major difficulty is in finding a satisfactory generic expression, since the tendency is to be very specific in matters of age, sex, color, size, etc. Under such circumstances one can only select terms with more or less generic meanings or employ more specific expressions which seem to fit particular contexts.</Comments>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04201502300008</LEXReference>
+            <LEXReference>04201502700032</LEXReference>
+            <LEXReference>04201503000038</LEXReference>
+            <LEXReference>05800901200012</LEXReference>
+            <LEXReference>05800901900034</LEXReference>
+            <LEXReference>06600400700026</LEXReference>
+          </LEXReferences>
+          <LEXLinks>
+            <LEXLink>fauna:2.10</LEXLink>
+          </LEXLinks>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

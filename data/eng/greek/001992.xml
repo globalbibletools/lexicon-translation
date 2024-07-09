@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="001992000000000" Lemma="ἐπιράπτω" Version="0" HasAramaic="false" InLXX="false" AlphaPos="ε">
+  <StrongCodes>
+    <Strong>G1976</Strong>
+  </StrongCodes>
+  <Authors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes/>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="001992001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>verb</PartOfSpeech>
+      </PartsOfSpeech>
+      <RelatedLemmas>
+        <RelatedLemma>
+          <Word>ῥάπτω</Word>
+          <Meaning LanguageCode="en">
+            <Meaning>stitch, sew</Meaning>
+          </Meaning>
+          <Meaning LanguageCode="zhT">
+            <Meaning>縫，縫合</Meaning>
+          </Meaning>
+        </RelatedLemma>
+        <RelatedLemma>
+          <Word>ῥαφίς</Word>
+        </RelatedLemma>
+      </RelatedLemmas>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="001992001001000" IsBiblicalTerm="Y" EntryCode="48.5" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Activities Involving Cloth</LEXDomain>
+          </LEXDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-06-24 09:25:04" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>to stitch or sew pieces of cloth together</DefinitionShort>
+              <Glosses>
+                <Gloss>to sew on</Gloss>
+                <Gloss>to sew to</Gloss>
+              </Glosses>
+              <Comments>This statement in {S:04100202100010} may seem entirely senseless in some societies, since it is a familiar practice to sew new cloth on an old garment; in fact, garments may be so patched that it is difficult to determine what was the original piece of cloth. It may, therefore, be important to have some type of marginal explanation.</Comments>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04100202100010</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="003780000000000" Lemma="מוּם" Version="4" HasAramaic="false" InLXX="false" AlphaPos="מ">
+  <StrongCodes>
+    <Strong>H3971</Strong>
+  </StrongCodes>
+  <Authors>
+    <Author>Reinier de Blois</Author>
+  </Authors>
+  <Contributors/>
+  <AlternateLemmas>
+    <AlternateLemma>מְאוּם</AlternateLemma>
+    <AlternateLemma>מאוּם</AlternateLemma>
+  </AlternateLemmas>
+  <MainLinks/>
+  <Notes>
+    <Note Caller="1" LanguageCode="en" LastEdited="" LastEditedBy="">
+      <References>
+        <Reference>02700100400012</Reference>
+      </References>
+      <Content>MT-K מאום | MT-Q מוּם</Content>
+    </Note>
+  </Notes>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="003780001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>nsm</PartOfSpeech>
+      </PartsOfSpeech>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="003780001001000" IsBiblicalTerm="Y" EntryCode="" Indent="0">
+          <LEXDomains>
+            <LEXDomain Code="002001001023">Impact</LEXDomain>
+          </LEXDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2017-12-17 12:58:15" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>= state in which humans or animals have a physical defect on their body</DefinitionShort>
+              <Glosses>
+                <Gloss>blemish</Gloss>
+                <Gloss>defect</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>00302101700028</LEXReference>
+            <LEXReference>00302101800012</LEXReference>
+            <LEXReference>00302102100010</LEXReference>
+            <LEXReference>00302102100036</LEXReference>
+            <LEXReference>00302102300028</LEXReference>
+            <LEXReference>00302202000008</LEXReference>
+            <LEXReference>00302202100054</LEXReference>
+            <LEXReference>00302202500034</LEXReference>
+            <LEXReference>00302401900010</LEXReference>
+            <LEXReference>00302402000026</LEXReference>
+            <LEXReference>00401900200046</LEXReference>
+            <LEXReference>00501502100010</LEXReference>
+            <LEXReference>00501502100020</LEXReference>
+            <LEXReference>00501700100024</LEXReference>
+            <LEXReference>01001402500046</LEXReference>
+            <LEXReference>02000900700020</LEXReference>
+            <LEXReference>02200400700010</LEXReference>
+            <LEXReference>02700100400012{N:001}</LEXReference>
+            <LEXReference>02700100400014</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+          <LEXCoreDomains>
+            <LEXCoreDomain Code="019">Body</LEXCoreDomain>
+          </LEXCoreDomains>
+        </LEXMeaning>
+        <LEXMeaning Id="003780001002000" IsBiblicalTerm="Y" EntryCode="" Indent="0">
+          <LEXDomains>
+            <LEXDomain Code="002003003003" Source="Impact" SourceCode="002001001023">Bear</LEXDomain>
+          </LEXDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2017-12-17 12:58:15" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>literally: blemish, defect; hence: = state in which humans are guilty of misbehavior, which is a stain on their reputation</DefinitionShort>
+              <Glosses>
+                <Gloss>stain</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>00503200500010</LEXReference>
+            <LEXReference>01801101500012</LEXReference>
+            <LEXReference>01803100700032</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+          <LEXCoreDomains>
+            <LEXCoreDomain Code="145">Responsibility</LEXCoreDomain>
+            <LEXCoreDomain Code="017">Behavior</LEXCoreDomain>
+          </LEXCoreDomains>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

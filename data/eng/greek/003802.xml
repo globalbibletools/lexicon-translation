@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="003802000000000" Lemma="παράσημος" Version="0" HasAramaic="false" InLXX="false" AlphaPos="π">
+  <StrongCodes>
+    <Strong>G3902</Strong>
+  </StrongCodes>
+  <Authors/>
+  <AlternateLemmas>
+    <AlternateLemma>παράσημον</AlternateLemma>
+  </AlternateLemmas>
+  <MainLinks/>
+  <Notes/>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="003802001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>adjc.</PartOfSpeech>
+      </PartsOfSpeech>
+      <Inflections>
+        <Inflection Lemma="παράσημος" BaseFormIndex="1">
+          <Form/>
+          <Realizations>
+            <Realization>-ον</Realization>
+          </Realizations>
+          <Comments/>
+        </Inflection>
+      </Inflections>
+      <RelatedLemmas>
+        <RelatedLemma>
+          <Word>σημαίνω</Word>
+        </RelatedLemma>
+      </RelatedLemmas>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="003802001001000" IsBiblicalTerm="M" EntryCode="33.479" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Communication</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Non-Verbal Communication</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-12-20 16:00:57" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>pertaining to being marked with a sign</DefinitionShort>
+              <Glosses>
+                <Gloss>having a sign of</Gloss>
+                <Gloss>being marked</Gloss>
+              </Glosses>
+              <Comments>In {S:04402801100026} the reference is to the images of the Dioscuri, ‘the twin gods,’ carved on the prow of the ship. For παράσημον as a noun, see παράσημος[b] {D:6.51}.</Comments>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04402801100026</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+        <LEXMeaning Id="003802001002000" IsBiblicalTerm="M" EntryCode="6.51" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Artifacts</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Boats and Parts of Boats</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXCollocations>
+            <LEXCollocation>παράσημον</LEXCollocation>
+          </LEXCollocations>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-12-20 16:00:57" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>an identifying emblem, possibly a carved figurehead at the prow of a ship</DefinitionShort>
+              <Glosses>
+                <Gloss>emblem</Gloss>
+                <Gloss>figurehead</Gloss>
+              </Glosses>
+              <Comments>In translating the expression ‘emblem of the Twin Gods’ it may be possible to use a phrase such as ‘a carving of the Twin Gods’ or ‘a statue of the Twin Gods.’ For {L:παράσημος&lt;SDBG:παράσημος:000000&gt;} as an adjective, see {D:33.479}.</Comments>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04402801100026</LEXReference>
+          </LEXReferences>
+          <LEXLinks>
+            <LEXLink>realia:8.1.10</LEXLink>
+          </LEXLinks>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

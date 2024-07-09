@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="000304000000000" Lemma="אֲחֹרַנִּית" Version="5" HasAramaic="false" InLXX="false" AlphaPos="א">
+  <StrongCodes>
+    <Strong>H0322</Strong>
+  </StrongCodes>
+  <Authors>
+    <Author>Reinier de Blois</Author>
+  </Authors>
+  <Contributors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes/>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="000304001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>ab</PartOfSpeech>
+      </PartsOfSpeech>
+      <RelatedLemmas>
+        <RelatedLemma>
+          <Word>אחר</Word>
+        </RelatedLemma>
+      </RelatedLemmas>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="000304001001000" IsBiblicalTerm="Y" EntryCode="" Indent="0">
+          <LEXDomains>
+            <LEXDomain Code="002002001013">Orientation</LEXDomain>
+          </LEXDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2014-07-30 08:49:58" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>= pertaining to a movement in a direction away from the spectator or from the direction in which it moves or faces</DefinitionShort>
+              <Glosses>
+                <Gloss>backwards</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>00100902300032</LEXReference>
+            <LEXReference>00100902300048</LEXReference>
+            <LEXReference>00900401800030</LEXReference>
+            <LEXReference>01202001000034</LEXReference>
+            <LEXReference>01202001100042</LEXReference>
+            <LEXReference>02303800800030</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+          <LEXCoreDomains>
+            <LEXCoreDomain Code="166">Space</LEXCoreDomain>
+          </LEXCoreDomains>
+        </LEXMeaning>
+        <LEXMeaning Id="000304001002000" IsBiblicalTerm="Y" EntryCode="" Indent="0">
+          <LEXDomains>
+            <LEXDomain Code="002004002014" Source="Orientation" SourceCode="002002001013">Think</LEXDomain>
+          </LEXDomains>
+          <LEXForms>
+            <LEXForm>vbhif-</LEXForm>
+          </LEXForms>
+          <LEXCollocations>
+            <LEXCollocation>סבב לֵב אֲחֹרַנִּית</LEXCollocation>
+          </LEXCollocations>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2014-07-30 08:49:58" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>literally: to turn one's heart backwards; hence: = to cause someone to refocus his/her thinking on the things on which is had been focused before it was diverted in a different direction</DefinitionShort>
+              <Glosses>
+                <Gloss>(God) turns someone's heart (&gt; allegiance) back (to himself)</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>01101803700040</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+          <LEXCoreDomains>
+            <LEXCoreDomain Code="106" Source="Space" SourceCode="166">Mind</LEXCoreDomain>
+          </LEXCoreDomains>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

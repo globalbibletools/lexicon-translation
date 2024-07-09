@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="004693000000000" Lemma="συγκληρονόμος" Version="0" HasAramaic="false" InLXX="false" AlphaPos="σ">
+  <StrongCodes>
+    <Strong>G4789</Strong>
+  </StrongCodes>
+  <Authors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes/>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="004693001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>adjc.</PartOfSpeech>
+      </PartsOfSpeech>
+      <Inflections>
+        <Inflection Lemma="συγκληρονόμος" BaseFormIndex="1">
+          <Form/>
+          <Realizations>
+            <Realization>-ον</Realization>
+          </Realizations>
+          <Comments/>
+        </Inflection>
+      </Inflections>
+      <Constructs>
+        <Construct Lemma="συγκληρονόμος" BaseFormIndex="1">
+          <WordMeaningSet>
+            <Word>κληρόω</Word>
+          </WordMeaningSet>
+          <WordMeaningSet>
+            <Word>νομίζω</Word>
+          </WordMeaningSet>
+        </Construct>
+      </Constructs>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="004693001001000" IsBiblicalTerm="Y" EntryCode="57.134" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Possess, Transfer, Exchange</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Receive</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2022-03-08 22:11:40" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>one who receives a possession together with someone else</DefinitionShort>
+              <Glosses>
+                <Gloss>one who also receives</Gloss>
+                <Gloss>receiver</Gloss>
+                <Gloss>fellow heir</Gloss>
+              </Glosses>
+              <Comments>It is essential in rendering {L:κληρονόμος&lt;SDBG:κληρονόμος:000000&gt;} ({D:57.133}) or συγκληρονόμος to avoid any implication of being an ‘heir’ to anyone who has died. The focus is upon receiving an unearned gift. In the biblical sense ‘heirs of God’ are those who will receive the blessings that God has for his people.</Comments>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04500801700018</LEXReference>
+            <LEXReference>04900300600008</LEXReference>
+            <LEXReference>05801100900034</LEXReference>
+            <LEXReference>06000300700032</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

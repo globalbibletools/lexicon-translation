@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="001177000000000" Lemma="δέησις" Version="0" HasAramaic="false" InLXX="true" AlphaPos="δ">
+  <StrongCodes>
+    <Strong>G1162</Strong>
+  </StrongCodes>
+  <Authors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes>
+    <Note Caller="1" LanguageCode="en" LastEdited="" LastEditedBy="">
+      <References/>
+      <Content>Though δέησις basically means ‘that which is asked for urgently,’ in the NT it occurs only in connection with pleas made to God, and therefore it is properly translated as ‘prayer.’</Content>
+    </Note>
+  </Notes>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="001177001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>noun, f.</PartOfSpeech>
+      </PartsOfSpeech>
+      <Inflections>
+        <Inflection Lemma="δέησις" BaseFormIndex="1">
+          <Form/>
+          <Realizations>
+            <Realization>-εως</Realization>
+          </Realizations>
+          <Comments/>
+        </Inflection>
+      </Inflections>
+      <RelatedLemmas>
+        <RelatedLemma>
+          <Word>δέομαι</Word>
+        </RelatedLemma>
+      </RelatedLemmas>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="001177001001000" IsBiblicalTerm="M" EntryCode="33.171" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Communication</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Ask For, Request</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-05-11 21:00:34" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>(derivative of {L:δέομαι&lt;SDBG:δέομαι:000000&gt;} ‘to plead, to beg,’ {D:33.170}) that which is asked with urgency based on presumed need{N:001}</DefinitionShort>
+              <Glosses>
+                <Gloss>request</Gloss>
+                <Gloss>plea</Gloss>
+                <Gloss>prayer</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04200101300026</LEXReference>
+            <LEXReference>04200203700030</LEXReference>
+            <LEXReference>04200503300024</LEXReference>
+            <LEXReference>04501000100020</LEXReference>
+            <LEXReference>04700101100014</LEXReference>
+            <LEXReference>04700901400006</LEXReference>
+            <LEXReference>04900601800010</LEXReference>
+            <LEXReference>04900601800040</LEXReference>
+            <LEXReference>05000100400008</LEXReference>
+            <LEXReference>05000100400024</LEXReference>
+            <LEXReference>05000101900024</LEXReference>
+            <LEXReference>05000400600020</LEXReference>
+            <LEXReference>05400200100012</LEXReference>
+            <LEXReference>05400500500026</LEXReference>
+            <LEXReference>05500100300042</LEXReference>
+            <LEXReference>05800500700016</LEXReference>
+            <LEXReference>05900501600028</LEXReference>
+            <LEXReference>06000301200020</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

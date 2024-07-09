@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="000693000000000" Lemma="אַרְכְּוָי" Version="4" HasAramaic="true" InLXX="false" AlphaPos="א">
+  <StrongCodes>
+    <Strong>A0756</Strong>
+  </StrongCodes>
+  <Authors>
+    <Author>Reinier de Blois</Author>
+  </Authors>
+  <Contributors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes>
+    <Note Caller="1" LanguageCode="en" LastEdited="" LastEditedBy="">
+      <References>
+        <Reference>01500400900032</Reference>
+      </References>
+      <Content>MT-K ארכוי | MT-Q אַרְכְּוָיֵא</Content>
+    </Note>
+  </Notes>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="000693001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>aj</PartOfSpeech>
+      </PartsOfSpeech>
+      <RelatedNames>
+        <RelatedName>
+          <Word>אֶרֶךְ</Word>
+        </RelatedName>
+      </RelatedNames>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="000693001001000" IsBiblicalTerm="Y" EntryCode="" Indent="0">
+          <LEXDomains>
+            <LEXDomain Code="003001006">Names of Groups</LEXDomain>
+          </LEXDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2020-07-07 13:39:22" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>= a person from the town of {L:Erech&lt;SDBH:אֶרֶךְ&gt;}, also known as Uruk</DefinitionShort>
+              <Glosses>
+                <Gloss>from Erech</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>01500400900032{N:001}</LEXReference>
+            <LEXReference>01500400900034</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="003632000000000" Lemma="מְאָה" Version="4" HasAramaic="true" InLXX="false" AlphaPos="מ">
+  <StrongCodes>
+    <Strong>A3969</Strong>
+  </StrongCodes>
+  <Authors>
+    <Author>Reinier de Blois</Author>
+  </Authors>
+  <Contributors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes/>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="003632001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>ns</PartOfSpeech>
+      </PartsOfSpeech>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="003632001001000" IsBiblicalTerm="Y" EntryCode="" Indent="0">
+          <LEXDomains>
+            <LEXDomain Code="002001001042">Quantity</LEXDomain>
+            <LEXDomain Code="002001003009">Frequency</LEXDomain>
+          </LEXDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2022-09-18 11:03:36" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>= state in which a countable entity is one hundred in number</DefinitionShort>
+              <Glosses>
+                <Gloss>hundred</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>01500601700018</LEXReference>
+            <LEXReference>01500601700028</LEXReference>
+            <LEXReference>01500702200008</LEXReference>
+            <LEXReference>01500702200018</LEXReference>
+            <LEXReference>01500702200028</LEXReference>
+            <LEXReference>01500702200038</LEXReference>
+            <LEXReference>02700600200020</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+          <LEXCoreDomains>
+            <LEXCoreDomain Code="138">Quantity</LEXCoreDomain>
+          </LEXCoreDomains>
+        </LEXMeaning>
+        <LEXMeaning Id="003632001002000" IsBiblicalTerm="Y" EntryCode="" Indent="0">
+          <LEXDomains>
+            <LEXDomain Code="002001001042">Quantity</LEXDomain>
+            <LEXDomain Code="002001003009">Frequency</LEXDomain>
+          </LEXDomains>
+          <LEXCollocations>
+            <LEXCollocation>מָאתַיִן</LEXCollocation>
+          </LEXCollocations>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2022-09-18 11:03:36" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>= state in which a countable entity is two hundred in number</DefinitionShort>
+              <Glosses>
+                <Gloss>two hundred</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>01500601700022</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+          <LEXCoreDomains>
+            <LEXCoreDomain Code="138">Quantity</LEXCoreDomain>
+          </LEXCoreDomains>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

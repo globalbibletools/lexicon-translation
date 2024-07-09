@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="002341000000000" Lemma="θήκη" Version="0" HasAramaic="false" InLXX="true" AlphaPos="θ">
+  <StrongCodes>
+    <Strong>G2336</Strong>
+  </StrongCodes>
+  <Authors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes>
+    <Note Caller="1" LanguageCode="en" LastEdited="" LastEditedBy="">
+      <References/>
+      <Content>It would be possible to treat θήκη as a semantic derivative of τίθημι[a] ({D:85.32}), but certain specializations of meaning justify its occurrence in this domain of Artifacts.</Content>
+    </Note>
+  </Notes>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="002341001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>noun, f.</PartOfSpeech>
+      </PartsOfSpeech>
+      <Inflections>
+        <Inflection Lemma="θήκη" BaseFormIndex="1">
+          <Form/>
+          <Realizations>
+            <Realization>-ης</Realization>
+          </Realizations>
+          <Comments/>
+        </Inflection>
+      </Inflections>
+      <RelatedLemmas>
+        <RelatedLemma>
+          <Word>τίθημι</Word>
+        </RelatedLemma>
+      </RelatedLemmas>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="002341001001000" IsBiblicalTerm="M" EntryCode="6.119" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Artifacts</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Containers</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-08-17 10:07:04" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>a case or bag about the size and shape of a sword, used to cover and to carry the sword; made of leather, cloth, metal, or even wood; attached to a strap or belt that could be hung over the shoulder or tied around the waist{N:001}</DefinitionShort>
+              <Glosses>
+                <Gloss>sheath</Gloss>
+              </Glosses>
+              <Comments>In this one occurrence of θήκη in the NT, the reference is to a ‘sheath’ for a sword, which may be rendered in some languages as ‘a leather bag for a sword’ or ‘a covering for a sword’ or ‘something in which a sword is carried.’</Comments>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04301801100024</LEXReference>
+          </LEXReferences>
+          <LEXLinks>
+            <LEXLink>realia:2.3.1</LEXLink>
+          </LEXLinks>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

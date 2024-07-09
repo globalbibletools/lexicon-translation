@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="004786000000000" Lemma="συναπόλλυμι" Version="0" HasAramaic="false" InLXX="true" AlphaPos="σ">
+  <StrongCodes>
+    <Strong>G4881</Strong>
+  </StrongCodes>
+  <Authors/>
+  <AlternateLemmas>
+    <AlternateLemma>συναπόλλυμαι</AlternateLemma>
+  </AlternateLemmas>
+  <MainLinks/>
+  <Notes/>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="004786001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>verb</PartOfSpeech>
+      </PartsOfSpeech>
+      <RelatedLemmas>
+        <RelatedLemma>
+          <Word>ὄλλυμι</Word>
+          <Meaning LanguageCode="en">
+            <Meaning>destroy</Meaning>
+          </Meaning>
+          <Meaning LanguageCode="zhT">
+            <Meaning>毀壞</Meaning>
+          </Meaning>
+        </RelatedLemma>
+        <RelatedLemma>
+          <Word>ὄλεθρος</Word>
+        </RelatedLemma>
+      </RelatedLemmas>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="004786001001000" IsBiblicalTerm="Y" EntryCode="20.32" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Violence, Harm, Destroy, Kill</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Destroy</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXForms>
+            <LEXForm>συναπόλλυμαι</LEXForm>
+          </LEXForms>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2022-03-14 14:50:53" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>to be destroyed together with someone or something else</DefinitionShort>
+              <Glosses>
+                <Gloss>to be destroyed with</Gloss>
+                <Gloss>to perish with</Gloss>
+              </Glosses>
+              <Comments>In a number of languages one must translate συναπόλλυμαι in {S:05801103100012} as ‘to die,’ for example, ‘Rahab the harlot did not die with those who were disobedient.’</Comments>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>05801103100012</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

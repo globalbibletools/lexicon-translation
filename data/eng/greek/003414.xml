@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="003414000000000" Lemma="νεωκόρος" Version="0" HasAramaic="false" InLXX="false" AlphaPos="ν">
+  <StrongCodes>
+    <Strong>G3511</Strong>
+  </StrongCodes>
+  <Authors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes/>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="003414001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>noun, m.</PartOfSpeech>
+      </PartsOfSpeech>
+      <Inflections>
+        <Inflection Lemma="νεωκόρος" BaseFormIndex="1">
+          <Form/>
+          <Realizations>
+            <Realization>-ου</Realization>
+          </Realizations>
+          <Comments/>
+        </Inflection>
+      </Inflections>
+      <Constructs>
+        <Construct Lemma="νεωκόρος" BaseFormIndex="1">
+          <WordMeaningSet>
+            <Word>ναός</Word>
+          </WordMeaningSet>
+          <WordMeaningSet>
+            <Word>κορέω</Word>
+            <Meaning LanguageCode="en">
+              <Meaning>sweep, be in charge of</Meaning>
+            </Meaning>
+            <Meaning LanguageCode="zhT">
+              <Meaning>打掃，負責</Meaning>
+            </Meaning>
+          </WordMeaningSet>
+        </Construct>
+      </Constructs>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="003414001001000" IsBiblicalTerm="Y" EntryCode="53.95" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Religious Activities</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Roles and Functions</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-12-10 15:56:32" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>one who had responsibility to tend to and to guard a temple</DefinitionShort>
+              <Glosses>
+                <Gloss>temple-keeper</Gloss>
+              </Glosses>
+              <Comments>In {S:04401903500040} νεωκόρος is used in a somewhat figurative sense, since it is the city of Ephesus itself which is regarded as being the keeper of the temple.</Comments>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04401903500040</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

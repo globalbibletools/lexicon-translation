@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="002156000000000" Lemma="חֹוזַי" Version="5" HasAramaic="false" InLXX="false" AlphaPos="ח">
+  <StrongCodes>
+    <Strong>H2335</Strong>
+  </StrongCodes>
+  <Authors>
+    <Author>Reinier de Blois</Author>
+  </Authors>
+  <Contributors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes>
+    <Note Caller="1" LanguageCode="en" LastEdited="" LastEditedBy="">
+      <References>
+        <Reference>01403301900064</Reference>
+      </References>
+      <Content>{A:MT} {A:HOTTP}-B {A:NJPS} {A:NJB} {A:CEV} | {A:RSV} {A:NIV} {A:NRSV} {A:REB} {A:CEV} חֹוזִים = {L:חֹזֶה&lt;SDBH:חֹזֶה&gt;} "seer"</Content>
+    </Note>
+  </Notes>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="002156001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>nsm</PartOfSpeech>
+      </PartsOfSpeech>
+      <RelatedLemmas>
+        <RelatedLemma>
+          <Word>חזה</Word>
+        </RelatedLemma>
+      </RelatedLemmas>
+      <MeaningsOfName>
+        <MeaningOfName LanguageCode="en">
+          <Meaning>seer</Meaning>
+        </MeaningOfName>
+        <MeaningOfName LanguageCode="pt">
+          <Meaning>vidente</Meaning>
+        </MeaningOfName>
+      </MeaningsOfName>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="002156001001000" IsBiblicalTerm="Y" EntryCode="" Indent="0">
+          <LEXDomains>
+            <LEXDomain Code="003001007">Names of People</LEXDomain>
+          </LEXDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2008-07-12 16:12:59" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>= man; ► recorded the life of king {L:Manasseh&lt;SDBH:מְנַשֶּׁה&gt;}</DefinitionShort>
+              <Glosses>
+                <Gloss>Hozai</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>01403301900064{N:001}</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

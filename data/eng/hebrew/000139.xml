@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="000139000000000" Lemma="אֲדֹנִיָּה" Version="5" HasAramaic="false" InLXX="false" AlphaPos="א">
+  <StrongCodes>
+    <Strong>H0138a</Strong>
+  </StrongCodes>
+  <Authors>
+    <Author>Reinier de Blois</Author>
+  </Authors>
+  <Contributors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes/>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="000139001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>np</PartOfSpeech>
+      </PartsOfSpeech>
+      <RelatedLemmas>
+        <RelatedLemma>
+          <Word>אָדֹון</Word>
+        </RelatedLemma>
+      </RelatedLemmas>
+      <RelatedNames>
+        <RelatedName>
+          <Word>יהוה</Word>
+        </RelatedName>
+      </RelatedNames>
+      <MeaningsOfName>
+        <MeaningOfName LanguageCode="en">
+          <Meaning>YHWH is my lord</Meaning>
+        </MeaningOfName>
+        <MeaningOfName LanguageCode="pt">
+          <Meaning>IHVH é meu senhor</Meaning>
+        </MeaningOfName>
+      </MeaningsOfName>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="000139001001000" IsBiblicalTerm="M" EntryCode="" Indent="0">
+          <LEXDomains>
+            <LEXDomain Code="003001007">Names of People</LEXDomain>
+          </LEXDomains>
+          <LEXSynonyms>
+            <LEXSynonym>אֲדֹנִיָּה</LEXSynonym>
+          </LEXSynonyms>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2016-05-31 11:33:53" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>= man; ► son of {L:David&lt;SDBH:דָּוִד&gt;}; ► who wanted to be king instead of his brother {L:Solomon&lt;SDBH:שְׁלֹמֹה&gt;}</DefinitionShort>
+              <Glosses>
+                <Gloss>Adonijah</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>01000300400008</LEXReference>
+            <LEXReference>01100100500004</LEXReference>
+            <LEXReference>01100100700032</LEXReference>
+            <LEXReference>01100101800008</LEXReference>
+            <LEXReference>01100202800022</LEXReference>
+            <LEXReference>01300300200026</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+        <LEXMeaning Id="000139001002000" IsBiblicalTerm="Y" EntryCode="" Indent="0">
+          <LEXDomains>
+            <LEXDomain Code="003001007">Names of People</LEXDomain>
+          </LEXDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2016-05-31 11:33:53" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>= man; ► time of {L:Nehemiah&lt;SDBH:נְחֶמְיָה&gt;}</DefinitionShort>
+              <Glosses>
+                <Gloss>Adonijah</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>01601001700002</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

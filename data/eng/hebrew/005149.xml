@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="005149000000000" Lemma="סְפַר" Version="4" HasAramaic="true" InLXX="false" AlphaPos="ס">
+  <StrongCodes>
+    <Strong>A5609</Strong>
+  </StrongCodes>
+  <Authors>
+    <Author>Reinier de Blois</Author>
+  </Authors>
+  <Contributors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes/>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="005149001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>nsm</PartOfSpeech>
+      </PartsOfSpeech>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="005149001001000" IsBiblicalTerm="M" EntryCode="" Indent="0">
+          <LEXDomains>
+            <LEXDomain Code="001004001014">Scrolls</LEXDomain>
+          </LEXDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2020-09-14 20:46:09" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>= written document; made of papyrus or parchment; either as a single sheet or several sheets sewn together and rolled for storage</DefinitionShort>
+              <Glosses>
+                <Gloss>document</Gloss>
+                <Gloss>book</Gloss>
+                <Gloss>letter</Gloss>
+                <Gloss>list</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>01500401500008</LEXReference>
+            <LEXReference>01500401500022</LEXReference>
+            <LEXReference>01500600100022</LEXReference>
+            <LEXReference>01500601800036</LEXReference>
+            <LEXReference>02700701000044</LEXReference>
+          </LEXReferences>
+          <LEXLinks>
+            <LEXLink>Realia:1.7.1</LEXLink>
+          </LEXLinks>
+          <LEXVideos/>
+          <LEXCoreDomains>
+            <LEXCoreDomain Code="041">Communication</LEXCoreDomain>
+            <LEXCoreDomain Code="191">Writing</LEXCoreDomain>
+          </LEXCoreDomains>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

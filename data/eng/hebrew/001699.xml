@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="001699000000000" Lemma="דעך" Version="5" HasAramaic="false" InLXX="false" AlphaPos="ד">
+  <StrongCodes>
+    <Strong>H1846</Strong>
+  </StrongCodes>
+  <Authors>
+    <Author>Enio R. Mueller</Author>
+  </Authors>
+  <Contributors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes>
+    <Note Caller="1" LanguageCode="en" LastEdited="" LastEditedBy="">
+      <References>
+        <Reference>01911801200008</Reference>
+      </References>
+      <Content>RSV NRSV "blazed" (cf. REB | Dahood, Psalms III, 158 "crackled") interpret in the opposite direction, understanding the parallelism of the verse as synthetic, not as antithetic.</Content>
+    </Note>
+  </Notes>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="001699001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>vb</PartOfSpeech>
+      </PartsOfSpeech>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="001699001001000" IsBiblicalTerm="Y" EntryCode="" Indent="0">
+          <LEXDomains>
+            <LEXDomain Code="002001001043">Quench</LEXDomain>
+          </LEXDomains>
+          <LEXForms>
+            <LEXForm>vbqal-</LEXForm>
+            <LEXForm>vbpual</LEXForm>
+          </LEXForms>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2017-01-03 15:49:32" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>= process by which a fire or light is put out; ≈ associated with the beginning of difficult times, and sometimes even death</DefinitionShort>
+              <Glosses>
+                <Gloss>to go out</Gloss>
+                <Gloss>to be extinguished</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>01801800500008</LEXReference>
+            <LEXReference>01801800600016</LEXReference>
+            <LEXReference>01802101700010</LEXReference>
+            <LEXReference>01911801200008{N:001}</LEXReference>
+            <LEXReference>02001300900014</LEXReference>
+            <LEXReference>02002002000010</LEXReference>
+            <LEXReference>02002402000020</LEXReference>
+            <LEXReference>02304301700026</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+          <LEXCoreDomains>
+            <LEXCoreDomain Code="067">Fire</LEXCoreDomain>
+          </LEXCoreDomains>
+        </LEXMeaning>
+        <LEXMeaning Id="001699001002000" IsBiblicalTerm="Y" EntryCode="" Indent="0">
+          <LEXDomains>
+            <LEXDomain Code="002002002006" Source="Quench" SourceCode="002001001043">Non-Exist</LEXDomain>
+          </LEXDomains>
+          <LEXForms>
+            <LEXForm>vbnif-</LEXForm>
+          </LEXForms>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2017-01-03 15:49:32" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>= process by which something ceases to exist</DefinitionShort>
+              <Glosses>
+                <Gloss>to dwindle</Gloss>
+                <Gloss>to vanish</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>01800601700014</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="001125000000000" Lemma="γογγυσμός" Version="0" HasAramaic="false" InLXX="true" AlphaPos="γ">
+  <StrongCodes>
+    <Strong>G1112</Strong>
+  </StrongCodes>
+  <Authors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes/>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="001125001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>noun, m.</PartOfSpeech>
+      </PartsOfSpeech>
+      <Inflections>
+        <Inflection Lemma="γογγυσμός" BaseFormIndex="1">
+          <Form/>
+          <Realizations>
+            <Realization>-οῦ</Realization>
+          </Realizations>
+          <Comments/>
+        </Inflection>
+      </Inflections>
+      <RelatedLemmas>
+        <RelatedLemma>
+          <Word>γογγύζω</Word>
+        </RelatedLemma>
+      </RelatedLemmas>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="001125001001000" IsBiblicalTerm="Y" EntryCode="33.382" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Communication</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Complain</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2022-11-15 15:28:20" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>to express one’s discontent</DefinitionShort>
+              <Glosses>
+                <Gloss>to complain</Gloss>
+                <Gloss>to grumble</Gloss>
+                <Gloss>complaint</Gloss>
+              </Glosses>
+              <Comments>In a number of languages it may be necessary to restructure ‘complaint’ as a verb rather than as a noun, and therefore this expression in {S:04400600100020} may be rendered as ‘Greek-speaking Jews complained against what the local Jews were doing.’</Comments>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04300701200004</LEXReference>
+            <LEXReference>04400600100020</LEXReference>
+            <LEXReference>05000201400008</LEXReference>
+            <LEXReference>06000400900010</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

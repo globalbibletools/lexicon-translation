@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="003578000000000" Lemma="ὁμολογία" Version="0" HasAramaic="false" InLXX="true" AlphaPos="ο">
+  <StrongCodes>
+    <Strong>G3671</Strong>
+  </StrongCodes>
+  <Authors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes/>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="003578001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>noun, f.</PartOfSpeech>
+      </PartsOfSpeech>
+      <Inflections>
+        <Inflection Lemma="ὁμολογία" BaseFormIndex="1">
+          <Form/>
+          <Realizations>
+            <Realization>-ας</Realization>
+          </Realizations>
+          <Comments/>
+        </Inflection>
+      </Inflections>
+      <Constructs>
+        <Construct Lemma="ὁμολογία" BaseFormIndex="1">
+          <WordMeaningSet>
+            <Word>ὁμοιόω</Word>
+          </WordMeaningSet>
+          <WordMeaningSet>
+            <Word>λέγω</Word>
+          </WordMeaningSet>
+        </Construct>
+      </Constructs>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="003578001001000" IsBiblicalTerm="M" EntryCode="33.274" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Communication</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Profess Allegiance</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-12-15 13:55:53" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>act of expressing openly one’s allegiance to a proposition or person</DefinitionShort>
+              <Glosses>
+                <Gloss>confession</Gloss>
+              </Glosses>
+              <Comments>It is often extremely difficult, if not impossible, to translate ὁμολογέω[a], ὁμολογία, and ἐξομολογέω[b] by the usual expression for ‘confess,’ since this would usually imply that one has done something wrong. It is normally necessary, therefore, to employ quite a different type of relationship, usually involving a public utterance and an expression of confidence or allegiance. For example, in {S:04001003200020} it may be necessary to translate ‘whoever tells people publicly that he is loyal to me, I will tell my Father that I am loyal to that person.’ Similarly, in {S:05801002300006} one may translate ‘let us hold on to the hope in which we have told people we have such confidence.’ Likewise, in {S:04501500900026} one may translate ‘therefore I will tell the Gentiles how I have put my confidence in you.’</Comments>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04700901300028</LEXReference>
+            <LEXReference>05400601200036</LEXReference>
+            <LEXReference>05400601300040</LEXReference>
+            <LEXReference>05800300100026</LEXReference>
+            <LEXReference>05800401400030</LEXReference>
+            <LEXReference>05801002300006</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

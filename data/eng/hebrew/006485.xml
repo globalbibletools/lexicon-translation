@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="006485000000000" Lemma="קלס" Version="5" HasAramaic="false" InLXX="false" AlphaPos="ק">
+  <StrongCodes>
+    <Strong>H7046</Strong>
+  </StrongCodes>
+  <Authors>
+    <Author>Graham S. Ogden</Author>
+  </Authors>
+  <Contributors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes/>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="006485001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>vb</PartOfSpeech>
+      </PartsOfSpeech>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="006485001001000" IsBiblicalTerm="M" EntryCode="" Indent="0">
+          <LEXDomains>
+            <LEXDomain Code="002001002005">Despise</LEXDomain>
+          </LEXDomains>
+          <LEXForms>
+            <LEXForm>vbpiel</LEXForm>
+          </LEXForms>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2017-12-17 16:31:33" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>= state in which someone regards something as unworthy of one’s consideration</DefinitionShort>
+              <Glosses>
+                <Gloss>to scorn</Gloss>
+                <Gloss>to disdain</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>02601603100046</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+          <LEXCoreDomains>
+            <LEXCoreDomain Code="106">Mind</LEXCoreDomain>
+            <LEXCoreDomain Code="170">Status</LEXCoreDomain>
+          </LEXCoreDomains>
+        </LEXMeaning>
+        <LEXMeaning Id="006485001002000" IsBiblicalTerm="Y" EntryCode="" Indent="0">
+          <LEXDomains>
+            <LEXDomain Code="002004001009012">Revile</LEXDomain>
+          </LEXDomains>
+          <LEXForms>
+            <LEXForm>vbhit-</LEXForm>
+          </LEXForms>
+          <LEXSynonyms>
+            <LEXSynonym>מִשְׂחָק</LEXSynonym>
+          </LEXSynonyms>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2017-12-17 16:31:33" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>= action by which someone speaks insulting words to someone else, ◄ out of a sense of superiority, ► intending to bring public shame upon that person</DefinitionShort>
+              <Glosses>
+                <Gloss>to jeer</Gloss>
+                <Gloss>to mock</Gloss>
+                <Gloss>to scoff</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>01200202300040</LEXReference>
+            <LEXReference>02602200500014</LEXReference>
+            <LEXReference>03500101000012</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+          <LEXCoreDomains>
+            <LEXCoreDomain Code="041">Communication</LEXCoreDomain>
+            <LEXCoreDomain Code="170">Status</LEXCoreDomain>
+          </LEXCoreDomains>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

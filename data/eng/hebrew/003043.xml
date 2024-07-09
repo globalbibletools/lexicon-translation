@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="003043000000000" Lemma="יַצִּיב" Version="3" HasAramaic="true" InLXX="false" AlphaPos="י">
+  <StrongCodes>
+    <Strong>A3330</Strong>
+  </StrongCodes>
+  <Authors>
+    <Author>Reinier de Blois</Author>
+  </Authors>
+  <Contributors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes/>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="003043001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>aj</PartOfSpeech>
+      </PartsOfSpeech>
+      <RelatedLemmas>
+        <RelatedLemma>
+          <Word>יצב</Word>
+        </RelatedLemma>
+      </RelatedLemmas>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="003043001001000" IsBiblicalTerm="A" EntryCode="" Indent="0">
+          <LEXDomains>
+            <LEXDomain Code="002001003018">True</LEXDomain>
+          </LEXDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2022-04-07 12:05:19" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>literally: to stand firm; hence: = state in which certain information can be trusted</DefinitionShort>
+              <Glosses>
+                <Gloss>reliable</Gloss>
+                <Gloss>true</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>02700200800012</LEXReference>
+            <LEXReference>02700204500068</LEXReference>
+            <LEXReference>02700302400056</LEXReference>
+            <LEXReference>02700601300078</LEXReference>
+            <LEXReference>02700701600014</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+          <LEXCoreDomains>
+            <LEXCoreDomain Code="184">Truth and Falsehood</LEXCoreDomain>
+          </LEXCoreDomains>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

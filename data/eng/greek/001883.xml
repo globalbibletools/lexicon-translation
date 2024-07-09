@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="001883000000000" Lemma="ἐπαινέω" Version="0" HasAramaic="false" InLXX="true" AlphaPos="ε">
+  <StrongCodes>
+    <Strong>G1867</Strong>
+  </StrongCodes>
+  <Authors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes/>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="001883001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>verb</PartOfSpeech>
+      </PartsOfSpeech>
+      <Inflections>
+        <Inflection Lemma="ἐπαινέω" BaseFormIndex="1">
+          <Form>aor.</Form>
+          <Realizations>
+            <Realization>ἐῄνεσα</Realization>
+          </Realizations>
+          <Comments/>
+        </Inflection>
+      </Inflections>
+      <RelatedLemmas>
+        <RelatedLemma>
+          <Word>αἰνέω</Word>
+        </RelatedLemma>
+      </RelatedLemmas>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="001883001001000" IsBiblicalTerm="M" EntryCode="33.354" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Communication</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Praise</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-06-10 09:37:46" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>to speak of the excellence of a person, object, or event</DefinitionShort>
+              <Glosses>
+                <Gloss>to praise</Gloss>
+                <Gloss>praise</Gloss>
+              </Glosses>
+              <Comments>In a number of languages praise can only be expressed by direct discourse, and this requires some content which provides the basis for praise. For example, in {S:04200201300020} instead of a literal rendering of ‘praising God,’ it may be necessary to have ‘they said, God is wonderful,’ and in {S:04201600800004} it may be necessary to translate ‘the master of this dishonest manager said, You are remarkable for having done such a clever thing.’</Comments>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04201600800004</LEXReference>
+            <LEXReference>04501501100020</LEXReference>
+            <LEXReference>04601100200002</LEXReference>
+            <LEXReference>04601101700010</LEXReference>
+            <LEXReference>04601102200050</LEXReference>
+            <LEXReference>04601102200060</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

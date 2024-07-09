@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="000757000000000" Lemma="אַשְׁמַן" Version="5" HasAramaic="false" InLXX="false" AlphaPos="א">
+  <StrongCodes>
+    <Strong>H0820</Strong>
+  </StrongCodes>
+  <Authors>
+    <Author>Reinier de Blois</Author>
+  </Authors>
+  <Contributors/>
+  <AlternateLemmas>
+    <AlternateLemma>אַשְׁמַנִּים</AlternateLemma>
+  </AlternateLemmas>
+  <MainLinks/>
+  <Notes/>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="000757001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>nsm</PartOfSpeech>
+      </PartsOfSpeech>
+      <RelatedLemmas>
+        <RelatedLemma>
+          <Word>שׁמן</Word>
+        </RelatedLemma>
+      </RelatedLemmas>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="000757001001000" IsBiblicalTerm="Y" EntryCode="" Indent="0">
+          <LEXDomains>
+            <LEXDomain Code="002001001060" Source="Fat" SourceCode="002001001027">Strong</LEXDomain>
+            <LEXDomain Code="001001002003" Source="Strong" SourceCode="002001001060">People</LEXDomain>
+          </LEXDomains>
+          <LEXAntonyms>
+            <LEXAntonym>מות</LEXAntonym>
+          </LEXAntonyms>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2014-08-25 10:10:24" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>literally: fat person; hence: = person with health and energy</DefinitionShort>
+              <Glosses>
+                <Gloss>healthy</Gloss>
+                <Gloss>strong</Gloss>
+                <Gloss>robust</Gloss>
+                <Gloss>vigorous</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>02305901000040</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+          <LEXCoreDomains>
+            <LEXCoreDomain Code="019">Body</LEXCoreDomain>
+            <LEXCoreDomain Code="172">Strength</LEXCoreDomain>
+            <LEXCoreDomain Code="076">Health and Sickness</LEXCoreDomain>
+          </LEXCoreDomains>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

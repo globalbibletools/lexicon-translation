@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="006409000000000" Lemma="קָוֶה" Version="5" HasAramaic="false" InLXX="false" AlphaPos="ק">
+  <StrongCodes>
+    <Strong>H6961</Strong>
+  </StrongCodes>
+  <Authors>
+    <Author>Graham S. Ogden</Author>
+  </Authors>
+  <Contributors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes>
+    <Note Caller="1" LanguageCode="en" LastEdited="" LastEditedBy="">
+      <References>
+        <Reference>01100702300048</Reference>
+        <Reference>02403103900008</Reference>
+      </References>
+      <Content>{A:MT-K} קָוֶה | {A:MT-Q} {L:קַו&lt;SDBH:קַו&gt;}</Content>
+    </Note>
+  </Notes>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="006409001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>nsm</PartOfSpeech>
+      </PartsOfSpeech>
+      <RelatedLemmas>
+        <RelatedLemma>
+          <Word>קוה</Word>
+        </RelatedLemma>
+      </RelatedLemmas>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="006409001001000" IsBiblicalTerm="N" EntryCode="" Indent="0">
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2017-01-05 16:11:46" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>read {L:קָו&lt;SDBH:קַו&gt;} {A:MT-Q}</DefinitionShort>
+              <Glosses>
+                <Gloss>line (for measuring)</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>01100702300048{N:001}</LEXReference>
+            <LEXReference>02403103900008{N:001}</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

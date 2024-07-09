@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="001367000000000" Lemma="δίλογος" Version="0" HasAramaic="false" InLXX="false" AlphaPos="δ">
+  <StrongCodes>
+    <Strong>G1351</Strong>
+  </StrongCodes>
+  <Authors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes/>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="001367001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>adjc.</PartOfSpeech>
+      </PartsOfSpeech>
+      <Inflections>
+        <Inflection Lemma="δίλογος" BaseFormIndex="1">
+          <Form/>
+          <Realizations>
+            <Realization>-ον</Realization>
+          </Realizations>
+          <Comments/>
+        </Inflection>
+      </Inflections>
+      <Constructs>
+        <Construct Lemma="δίλογος" BaseFormIndex="1">
+          <WordMeaningSet>
+            <Word>δύο</Word>
+          </WordMeaningSet>
+          <WordMeaningSet>
+            <Word>λέγω</Word>
+          </WordMeaningSet>
+        </Construct>
+      </Constructs>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="001367001001000" IsBiblicalTerm="M" EntryCode="88.235" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Moral and Ethical Qualities and Related Behavior</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Hypocrisy, Pretense</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-10-20 14:58:01" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>pertaining to contradictory behavior based upon pretense or hypocrisy</DefinitionShort>
+              <Glosses>
+                <Gloss>double-tongued</Gloss>
+                <Gloss>two-faced</Gloss>
+                <Gloss>hypocritical</Gloss>
+              </Glosses>
+              <Comments>In some languages the equivalent of δίλογος is ‘to speak in two directions’ or ‘to cover one’s thoughts by means of one’s words.’</Comments>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>05400300800010</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

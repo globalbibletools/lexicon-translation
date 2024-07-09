@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="004760000000000" Lemma="συμφύω" Version="0" HasAramaic="false" InLXX="true" AlphaPos="σ">
+  <StrongCodes>
+    <Strong>G4855</Strong>
+  </StrongCodes>
+  <Authors/>
+  <AlternateLemmas>
+    <AlternateLemma>συμφύομαι</AlternateLemma>
+  </AlternateLemmas>
+  <MainLinks/>
+  <Notes/>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="004760001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>verb</PartOfSpeech>
+      </PartsOfSpeech>
+      <RelatedLemmas>
+        <RelatedLemma>
+          <Word>φύω</Word>
+        </RelatedLemma>
+      </RelatedLemmas>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="004760001001000" IsBiblicalTerm="Y" EntryCode="23.193" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Physiological Processes and States</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Grow, Growth</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXForms>
+            <LEXForm>συμφύομαι</LEXForm>
+          </LEXForms>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2022-03-10 11:47:10" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>to grow together with, in reference to plants</DefinitionShort>
+              <Glosses>
+                <Gloss>to grow together with</Gloss>
+              </Glosses>
+              <Comments>In rendering συναυξάνομαι ({D:23.192}) and συμφύομαι, it is important to avoid an expression which will imply that two plants grew together to become a single plant. The meaning is that two or more plants grew in the same general area and at approximately the same time.</Comments>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04200800700018</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

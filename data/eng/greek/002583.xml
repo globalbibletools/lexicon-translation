@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="002583000000000" Lemma="κάμπτω" Version="0" HasAramaic="false" InLXX="true" AlphaPos="κ">
+  <StrongCodes>
+    <Strong>G2578</Strong>
+  </StrongCodes>
+  <Authors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes>
+    <Note Caller="1" LanguageCode="en" LastEdited="" LastEditedBy="">
+      <References/>
+      <Content>One may also interpret the idiom κάμπτω τὸ γόνυ as consisting of a metonymy in the case of τὸ γόνυ (in other words, knee as a substitute for person). Accordingly, κάμπτω to bend or to bow could then be interpreted as meaning simply to worship.</Content>
+    </Note>
+  </Notes>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="002583001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>verb</PartOfSpeech>
+      </PartsOfSpeech>
+      <RelatedLemmas>
+        <RelatedLemma>
+          <Word>ἀνακάμπτω</Word>
+        </RelatedLemma>
+        <RelatedLemma>
+          <Word>συγκάμπτω</Word>
+        </RelatedLemma>
+      </RelatedLemmas>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="002583001001000" IsBiblicalTerm="M" EntryCode="53.61" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Religious Activities</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Worship, Reverence</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXCollocations>
+            <LEXCollocation>κάμπτω τὸ γόνυ</LEXCollocation>
+          </LEXCollocations>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-09-10 18:41:38" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>(a Semitic idiom, literally: the knee bends, or: the knee bows) to bend or bow the knee as a symbol of religious devotion{N:001}</DefinitionShort>
+              <Glosses>
+                <Gloss>to worship</Gloss>
+                <Gloss>to bow before</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04501100400026</LEXReference>
+            <LEXReference>04501401100018</LEXReference>
+            <LEXReference>04900301400006</LEXReference>
+            <LEXReference>05000201000016</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

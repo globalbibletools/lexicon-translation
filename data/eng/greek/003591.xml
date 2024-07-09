@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="003591000000000" Lemma="ὀνικός" Version="0" HasAramaic="false" InLXX="false" AlphaPos="ο">
+  <StrongCodes>
+    <Strong>G3684</Strong>
+  </StrongCodes>
+  <Authors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes/>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="003591001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>adjc.</PartOfSpeech>
+      </PartsOfSpeech>
+      <Inflections>
+        <Inflection Lemma="ὀνικός" BaseFormIndex="1">
+          <Form/>
+          <Realizations>
+            <Realization>-ή, -όν</Realization>
+          </Realizations>
+          <Comments/>
+        </Inflection>
+      </Inflections>
+      <RelatedLemmas>
+        <RelatedLemma>
+          <Word>ὄνος</Word>
+        </RelatedLemma>
+      </RelatedLemmas>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="003591001001000" IsBiblicalTerm="Y" EntryCode="4.32" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Animals</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Animals</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-12-15 16:30:04" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>(derivative of {L:ὄνος&lt;SDBG:ὄνος:000000&gt;} ‘donkey,’ {D:4.31}) pertaining to a donkey</DefinitionShort>
+              <Glosses>
+                <Gloss>of a donkey</Gloss>
+              </Glosses>
+              <Comments>In rendering {S:04001800600036} it is important to avoid the impression that a donkey would turn the millstone in the same way that a person would. Sometimes a general causative expression may be used, for example, ‘a millstone that a donkey causes to go round (rotate),’ but it may actually be necessary to say ‘… which a donkey causes to go round (rotate) by pulling on a shaft.’ In fact, a marginal note may be necessary in order to avoid serious misunderstanding and to emphasize the fact that such a millstone was large and heavy.</Comments>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04001800600036</LEXReference>
+            <LEXReference>04100904200040</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

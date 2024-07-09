@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="002587000000000" Lemma="Κανδάκη" Version="0" HasAramaic="false" InLXX="false" AlphaPos="κ">
+  <StrongCodes>
+    <Strong>G2582</Strong>
+  </StrongCodes>
+  <Authors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes>
+    <Note Caller="1" LanguageCode="en" LastEdited="" LastEditedBy="">
+      <References/>
+      <Content>It is possible that Κανδάκη was interpreted by persons outside of Ethiopia as being a proper name.</Content>
+    </Note>
+  </Notes>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="002587001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>noun-name, f.</PartOfSpeech>
+      </PartsOfSpeech>
+      <Inflections>
+        <Inflection Lemma="Κανδάκη" BaseFormIndex="1">
+          <Form/>
+          <Realizations>
+            <Realization>-ης</Realization>
+          </Realizations>
+          <Comments/>
+        </Inflection>
+      </Inflections>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="002587001001000" IsBiblicalTerm="Y" EntryCode="37.77" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Control, Rule</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Rule, Govern</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-09-10 18:43:21" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>the title of the queen of Ethiopia{N:001}</DefinitionShort>
+              <Glosses>
+                <Gloss>the Candace</Gloss>
+                <Gloss>the female ruler of Ethiopia</Gloss>
+              </Glosses>
+              <Comments>For a different interpretation of Κανδάκη in {S:04400802700020}, see {D:93.209}. See also {D:37.68}.</Comments>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04400802700020</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+        <LEXMeaning Id="002587001002000" IsBiblicalTerm="Y" EntryCode="93.209" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Names of Persons and Places</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Persons</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-09-10 18:43:21" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>interpreted by some as the name of the queen of Ethiopia, but see {D:37.77}</DefinitionShort>
+              <Glosses>
+                <Gloss>Candace</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04400802700020</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

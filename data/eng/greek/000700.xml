@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="000700000000000" Lemma="ἀριθμέω" Version="0" HasAramaic="false" InLXX="true" AlphaPos="α">
+  <StrongCodes>
+    <Strong>G0705</Strong>
+  </StrongCodes>
+  <Authors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes>
+    <Note Caller="1" LanguageCode="en" LastEdited="" LastEditedBy="">
+      <References/>
+      <Content>ἀριθμέω could be classified as a type of mental activity, but since its derivational base is in this domain of Number, it seems better to retain it here, as is normally the case with semantic derivatives.</Content>
+    </Note>
+  </Notes>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="000700001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>verb</PartOfSpeech>
+      </PartsOfSpeech>
+      <RelatedLemmas>
+        <RelatedLemma>
+          <Word>ἀναρίθμητος</Word>
+        </RelatedLemma>
+        <RelatedLemma>
+          <Word>ἀριθμός</Word>
+        </RelatedLemma>
+        <RelatedLemma>
+          <Word>καταριθμέω</Word>
+        </RelatedLemma>
+      </RelatedLemmas>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="000700001001000" IsBiblicalTerm="Y" EntryCode="60.3" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Number</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Number, Countless</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-08-16 15:59:46" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>(derivative of {L:ἀριθμός&lt;SDBG:ἀριθμός:000000&gt;}[a] ‘number,’ {D:60.1}) to employ numbers in determining a quantity{N:001}</DefinitionShort>
+              <Glosses>
+                <Gloss>to count</Gloss>
+                <Gloss>to number</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04001003000018</LEXReference>
+            <LEXReference>04201200700018</LEXReference>
+            <LEXReference>06600700900018</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

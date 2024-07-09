@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="003875000000000" Lemma="παύω" Version="0" HasAramaic="false" InLXX="true" AlphaPos="π">
+  <StrongCodes>
+    <Strong>G3973</Strong>
+  </StrongCodes>
+  <Authors/>
+  <AlternateLemmas>
+    <AlternateLemma>παύομαι</AlternateLemma>
+  </AlternateLemmas>
+  <MainLinks/>
+  <Notes>
+    <Note Caller="1" LanguageCode="en" LastEdited="" LastEditedBy="">
+      <References/>
+      <Content>It is possible that καταπαύω[c] should be understood as being somewhat more emphatic in meaning than παύω.</Content>
+    </Note>
+  </Notes>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="003875001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>verb</PartOfSpeech>
+      </PartsOfSpeech>
+      <RelatedLemmas>
+        <RelatedLemma>
+          <Word>ἀκατάπαυστος</Word>
+        </RelatedLemma>
+        <RelatedLemma>
+          <Word>ἀναπαύω</Word>
+        </RelatedLemma>
+        <RelatedLemma>
+          <Word>ἐπαναπαύομαι</Word>
+        </RelatedLemma>
+        <RelatedLemma>
+          <Word>κατάπαυσις</Word>
+        </RelatedLemma>
+        <RelatedLemma>
+          <Word>καταπαύω</Word>
+        </RelatedLemma>
+        <RelatedLemma>
+          <Word>συναναπαύομαι</Word>
+        </RelatedLemma>
+      </RelatedLemmas>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="003875001001000" IsBiblicalTerm="Y" EntryCode="68.46" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Aspect</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Cease, Stop</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-12-23 21:23:30" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>to cause something or someone to cease from some activity or state{N:001}</DefinitionShort>
+              <Glosses>
+                <Gloss>to cause to cease</Gloss>
+                <Gloss>to make stop</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04400504200022</LEXReference>
+            <LEXReference>06000301000020</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+        <LEXMeaning Id="003875001002000" IsBiblicalTerm="Y" EntryCode="68.34" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Aspect</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Cease, Stop</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXForms>
+            <LEXForm>παύομαι</LEXForm>
+          </LEXForms>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-12-23 21:23:30" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>to cease from an activity in which one is engaged</DefinitionShort>
+              <Glosses>
+                <Gloss>to cease</Gloss>
+                <Gloss>to stop</Gloss>
+              </Glosses>
+              <Comments>A literal rendering of {S:04200500400006}, however, may suggest a contradiction in some languages, since the initial clause implies a cessation of speech, while the principal clause indicates that Jesus spoke to Simon. It may be possible in some languages to use two entirely different words for speaking, one referring to speaking to a large group, and the second indicating a direct communication with a single person.</Comments>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04200500400006</LEXReference>
+            <LEXReference>04200802400042</LEXReference>
+            <LEXReference>04201100100024</LEXReference>
+            <LEXReference>04400601300020</LEXReference>
+            <LEXReference>04401301000030</LEXReference>
+            <LEXReference>04402000100008</LEXReference>
+            <LEXReference>04402003100020</LEXReference>
+            <LEXReference>04402103200036</LEXReference>
+            <LEXReference>04601300800022</LEXReference>
+            <LEXReference>04900101600004</LEXReference>
+            <LEXReference>05100100900020</LEXReference>
+            <LEXReference>05801000200008</LEXReference>
+            <LEXReference>06000400100030</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

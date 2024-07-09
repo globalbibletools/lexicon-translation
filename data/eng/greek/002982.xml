@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="002982000000000" Lemma="κύων" Version="0" HasAramaic="false" InLXX="true" AlphaPos="κ">
+  <StrongCodes>
+    <Strong>G2965</Strong>
+  </StrongCodes>
+  <Authors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes/>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="002982001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>noun, m.</PartOfSpeech>
+      </PartsOfSpeech>
+      <Inflections>
+        <Inflection Lemma="κύων" BaseFormIndex="1">
+          <Form/>
+          <Realizations>
+            <Realization>κυνός</Realization>
+          </Realizations>
+          <Comments/>
+        </Inflection>
+        <Inflection Lemma="κύων" BaseFormIndex="1">
+          <Form>dat.pl.</Form>
+          <Realizations>
+            <Realization>κυσί</Realization>
+          </Realizations>
+          <Comments/>
+        </Inflection>
+      </Inflections>
+      <RelatedLemmas>
+        <RelatedLemma>
+          <Word>κυνάριον</Word>
+        </RelatedLemma>
+      </RelatedLemmas>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="002982001001000" IsBiblicalTerm="M" EntryCode="4.34" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Animals</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Animals</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-10-29 13:38:25" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>relatively small light brown domestic animal, feeding on anything from household refuse to animal carcasses and excreta; Canis familiaris putiatini; associated with all sorts of uncleanness, aggression, greediness, low status</DefinitionShort>
+              <Glosses>
+                <Gloss>dog</Gloss>
+              </Glosses>
+              <Comments>In Greek outside the NT κύων may be either masculine or feminine and in the plural may refer to both male and female dogs.</Comments>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04000700600012</LEXReference>
+            <LEXReference>04201602100030</LEXReference>
+            <LEXReference>06100202200014</LEXReference>
+          </LEXReferences>
+          <LEXLinks>
+            <LEXLink>fauna:2.12</LEXLink>
+          </LEXLinks>
+          <LEXVideos/>
+        </LEXMeaning>
+        <LEXMeaning Id="002982001002000" IsBiblicalTerm="M" EntryCode="88.122" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Moral and Ethical Qualities and Related Behavior</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Bad, Evil, Harmful, Damaging</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-10-29 13:38:25" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>(a figurative extension of meaning of {L:κύων&lt;SDBG:κύων:000000&gt;}[a] ‘dog,’ {D:4.34}) a particularly bad person, perhaps specifically one who ridicules what is holy</DefinitionShort>
+              <Glosses>
+                <Gloss>bad person</Gloss>
+                <Gloss>dog</Gloss>
+              </Glosses>
+              <Comments>It is also possible that κύων in {S:05000300200006} may be interpreted as meaning ‘pervert’ (see {D:88.282}).|A term for ‘dog’ may have quite a different connotation than it does in English. For example, to call a person ‘a dog’ in some languages is to compliment him for his faithfulness, but in other languages it may be merely a way of attributing promiscuous sexual behavior.</Comments>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>05000300200006</LEXReference>
+            <LEXReference>06602201500006</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+        <LEXMeaning Id="002982001003000" IsBiblicalTerm="Y" EntryCode="88.282" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Moral and Ethical Qualities and Related Behavior</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Sexual Misbehavior</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-10-29 13:38:25" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>(a figurative extension of meaning of {L:κύων&lt;SDBG:κύων:000000&gt;}[a] ‘dog,’ {D:4.34}) one who is a sexual pervert or possibly one who is sexually promiscuous</DefinitionShort>
+              <Glosses>
+                <Gloss>pervert</Gloss>
+              </Glosses>
+              <Comments>It is also possible, however, that in {S:06602201500006} κύων means ‘a wicked person’ who might have complete contempt for what is holy, a meaning which parallels the significance of the adage in {S:04000700600000} (see {D:88.122}).</Comments>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>05000300200006</LEXReference>
+            <LEXReference>06602201500006</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

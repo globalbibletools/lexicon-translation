@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="003859000000000" Lemma="מַחֲבַת" Version="5" HasAramaic="false" InLXX="false" AlphaPos="מ">
+  <StrongCodes>
+    <Strong>H4227</Strong>
+  </StrongCodes>
+  <Authors>
+    <Author>Reinier de Blois</Author>
+  </Authors>
+  <Contributors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes/>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="003859001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>nsc</PartOfSpeech>
+      </PartsOfSpeech>
+      <RelatedLemmas>
+        <RelatedLemma>
+          <Word>חֲבִתִּים</Word>
+        </RelatedLemma>
+      </RelatedLemmas>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="003859001001000" IsBiblicalTerm="M" EntryCode="" Indent="0">
+          <LEXDomains>
+            <LEXDomain Code="001004001003">Containers</LEXDomain>
+          </LEXDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2016-11-28 12:37:08" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>= a thick plate made of pottery (and later of metal), with small depressions similar to a modern waffle iron; ► it was placed on three stones between which a fire was built; bread dough was then put on its surface and cooked</DefinitionShort>
+              <Glosses>
+                <Gloss>griddle</Gloss>
+                <Gloss>plate</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>00300200500012</LEXReference>
+            <LEXReference>00300601400004</LEXReference>
+            <LEXReference>00300700900034</LEXReference>
+            <LEXReference>02600400300010</LEXReference>
+          </LEXReferences>
+          <LEXLinks>
+            <LEXLink>Realia:5.13</LEXLink>
+          </LEXLinks>
+          <LEXVideos/>
+          <LEXCoreDomains>
+            <LEXCoreDomain Code="027">Crafts</LEXCoreDomain>
+            <LEXCoreDomain Code="171">Storage</LEXCoreDomain>
+            <LEXCoreDomain Code="069">Food</LEXCoreDomain>
+          </LEXCoreDomains>
+        </LEXMeaning>
+        <LEXMeaning Id="003859001002000" IsBiblicalTerm="Y" EntryCode="" Indent="0">
+          <LEXDomains>
+            <LEXDomain Code="001004003" Source="Containers" SourceCode="001004001003">Food</LEXDomain>
+          </LEXDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2016-11-28 12:37:08" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>= an offering of bread, baked on a thick plate made of pottery (and later of metal), with small depressions similar to a modern waffle iron; ► it was placed on three stones between which a fire was built; bread dough was then put on its surface and cooked</DefinitionShort>
+              <Glosses>
+                <Gloss>baked offering</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>01302302900038</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+          <LEXCoreDomains>
+            <LEXCoreDomain Code="149">Sacrifices and Offerings</LEXCoreDomain>
+          </LEXCoreDomains>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

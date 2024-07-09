@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="007767000000000" Lemma="תַּחְמָס" Version="5" HasAramaic="false" InLXX="false" AlphaPos="ת">
+  <StrongCodes>
+    <Strong>H8464</Strong>
+  </StrongCodes>
+  <Authors>
+    <Author>Reinier de Blois</Author>
+  </Authors>
+  <Contributors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes>
+    <Note Caller="1" LanguageCode="en" LastEdited="" LastEditedBy="">
+      <References>
+        <Reference>00301101600018</Reference>
+        <Reference>00501401500018</Reference>
+      </References>
+      <Content>RSV NJPS NRSV "nighthawk" = [b]; NIV NJB "screech owl"; REB "short-eared owl" = [a]</Content>
+    </Note>
+  </Notes>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="007767001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>nsm</PartOfSpeech>
+      </PartsOfSpeech>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="007767001001000" IsBiblicalTerm="M" EntryCode="" Indent="0">
+          <LEXDomains>
+            <LEXDomain Code="001001002001005">Birds</LEXDomain>
+          </LEXDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2015-12-28 11:28:21" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>exact meaning unknown; possibly: = type of owl, medium-sized and with a brown color, but with a paler face and ear tufts that are not very prominent; it makes a strange sound like an animal or a person snoring; it lives in grassland and semi desert regions; ◄ Asio flammeus; ► unclean and therefore not to be eaten</DefinitionShort>
+              <Glosses>
+                <Gloss>short-eared owl</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>00301101600018{N:001}</LEXReference>
+            <LEXReference>00501401500018{N:001}</LEXReference>
+          </LEXReferences>
+          <LEXLinks>
+            <LEXLink>Fauna:3.17.7</LEXLink>
+          </LEXLinks>
+          <LEXVideos/>
+          <LEXCoreDomains>
+            <LEXCoreDomain Code="010">Animal</LEXCoreDomain>
+          </LEXCoreDomains>
+        </LEXMeaning>
+        <LEXMeaning Id="007767001002000" IsBiblicalTerm="M" EntryCode="" Indent="0">
+          <LEXDomains>
+            <LEXDomain Code="001001002001005">Birds</LEXDomain>
+          </LEXDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2015-12-28 11:28:21" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>exact meaning unknown; possibly: = speckled brown bird that is about 15 centimeters (6 inches) long, with a short beak that can open very wide; it flies by night and feeds on flying insects; during the day they roost on the ground or on thick branches; their presence in an area is known from their calls at night; ◄ Caprimulgus nubicus or Caprimulgus europaeus; ► unclean and therefore not to be eaten</DefinitionShort>
+              <Glosses>
+                <Gloss>nightjar</Gloss>
+                <Gloss>nighthawk</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>00301101600018{N:001}</LEXReference>
+            <LEXReference>00501401500018{N:001}</LEXReference>
+          </LEXReferences>
+          <LEXLinks>
+            <LEXLink>Fauna:3.17.7</LEXLink>
+          </LEXLinks>
+          <LEXVideos/>
+          <LEXCoreDomains>
+            <LEXCoreDomain Code="010">Animal</LEXCoreDomain>
+          </LEXCoreDomains>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="004217000000000" Lemma="προσάγω" Version="0" HasAramaic="false" InLXX="true" AlphaPos="π">
+  <StrongCodes>
+    <Strong>G4317</Strong>
+  </StrongCodes>
+  <Authors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes/>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="004217001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>verb</PartOfSpeech>
+      </PartsOfSpeech>
+      <Inflections>
+        <Inflection Lemma="προσάγω" BaseFormIndex="1">
+          <Form>aor.inf.</Form>
+          <Realizations>
+            <Realization>προσαγαγειν</Realization>
+          </Realizations>
+          <Comments/>
+        </Inflection>
+        <Inflection Lemma="προσάγω" BaseFormIndex="1">
+          <Form>aor.pass.</Form>
+          <Realizations>
+            <Realization>προσήχθην</Realization>
+          </Realizations>
+          <Comments/>
+        </Inflection>
+      </Inflections>
+      <RelatedLemmas>
+        <RelatedLemma>
+          <Word>ἄγω</Word>
+        </RelatedLemma>
+      </RelatedLemmas>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="004217001001000" IsBiblicalTerm="Y" EntryCode="15.172" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Linear Movement</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Lead, Bring, Take</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2022-02-03 12:57:04" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>to bring or lead into the presence of someone</DefinitionShort>
+              <Glosses>
+                <Gloss>to lead before</Gloss>
+                <Gloss>to bring into the presence of</Gloss>
+                <Gloss>to bring to</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04200904100038</LEXReference>
+            <LEXReference>04401602000004</LEXReference>
+            <LEXReference>06000301800026</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+        <LEXMeaning Id="004217001002000" IsBiblicalTerm="Y" EntryCode="15.77" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Linear Movement</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Come Near, Approach</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2022-02-03 12:57:04" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>to move toward a reference point, with a possible implication in certain contexts of a reciprocal relationship between the person approaching and the one who is approached</DefinitionShort>
+              <Glosses>
+                <Gloss>to move toward</Gloss>
+                <Gloss>to approach</Gloss>
+                <Gloss>to come near to</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04402702700036</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

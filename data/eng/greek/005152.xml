@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="005152000000000" Lemma="ὑποδείκνυμι" Version="0" HasAramaic="false" InLXX="true" AlphaPos="υ">
+  <StrongCodes>
+    <Strong>G5263</Strong>
+  </StrongCodes>
+  <Authors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes>
+    <Note Caller="1" LanguageCode="en" LastEdited="" LastEditedBy="">
+      <References/>
+      <Content>It is possible that ὑποδείκνυμι[a] is somewhat more emphatic or intensive in connotation than δείκνυμι[a], but this cannot be shown from existing contexts.</Content>
+    </Note>
+    <Note Caller="2" LanguageCode="en" LastEdited="" LastEditedBy="">
+      <References/>
+      <Content>There may very well be a slight difference of meaning between δείκνυμι[b] and ὑποδείκνυμι[b], but this cannot be determined from existing contexts.</Content>
+    </Note>
+  </Notes>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="005152001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>verb</PartOfSpeech>
+      </PartsOfSpeech>
+      <Inflections>
+        <Inflection Lemma="ὑποδείκνυμι" BaseFormIndex="1">
+          <Form>fut.</Form>
+          <Realizations>
+            <Realization>ὑποδείξω</Realization>
+          </Realizations>
+          <Comments/>
+        </Inflection>
+        <Inflection Lemma="ὑποδείκνυμι" BaseFormIndex="1">
+          <Form>aor.</Form>
+          <Realizations>
+            <Realization>ὑπέδειξα</Realization>
+          </Realizations>
+          <Comments/>
+        </Inflection>
+      </Inflections>
+      <RelatedLemmas>
+        <RelatedLemma>
+          <Word>δείκνυμι</Word>
+        </RelatedLemma>
+      </RelatedLemmas>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="005152001001000" IsBiblicalTerm="Y" EntryCode="28.47" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Know</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Well Known, Clearly Shown, Revealed</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2023-01-03 14:09:47" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>to make known the character or significance of something by visual, auditory, gestural, or linguistic means{N:001}</DefinitionShort>
+              <Glosses>
+                <Gloss>to make known</Gloss>
+                <Gloss>to demonstrate</Gloss>
+                <Gloss>to show</Gloss>
+              </Glosses>
+              <Comments>In some languages it may be useful to translate ὑποδείκνυμι in {S:04402003500004} as ‘I showed you by example’ or ‘I demonstrated by example’ or ‘I showed you by what I did.’</Comments>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04000300700036</LEXReference>
+            <LEXReference>04200300700024</LEXReference>
+            <LEXReference>04201200500002</LEXReference>
+            <LEXReference>04400901600006</LEXReference>
+            <LEXReference>04402003500004</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+        <LEXMeaning Id="005152001002000" IsBiblicalTerm="Y" EntryCode="33.150" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Communication</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Interpret, Mean, Explain</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2023-01-03 14:09:47" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>to explain the meaning or significance of something by demonstration{N:002}</DefinitionShort>
+              <Glosses>
+                <Gloss>to show</Gloss>
+                <Gloss>to explain</Gloss>
+                <Gloss>to make clear</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04200604700028</LEXReference>
+            <LEXReference>04400901600006</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

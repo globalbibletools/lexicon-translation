@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="004276000000000" Lemma="προσφάγιον" Version="0" HasAramaic="false" InLXX="false" AlphaPos="π">
+  <StrongCodes>
+    <Strong>G4371</Strong>
+  </StrongCodes>
+  <Authors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes>
+    <Note Caller="1" LanguageCode="en" LastEdited="" LastEditedBy="">
+      <References/>
+      <Content>One may argue that the meaning of προσφάγιον in {S:04302100500018} is relish, and that it is only the specialized context which makes possible the reference to fish. On the other hand, one may also argue that, as in the case of ὀψάριον ({D:5.16}), the term προσφάγιον has undergone a specialization of meaning, so that it no longer refers to any type of relish eaten with bread, but has the more specific meaning of fish as food.</Content>
+    </Note>
+  </Notes>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="004276001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>noun, n.</PartOfSpeech>
+      </PartsOfSpeech>
+      <Inflections>
+        <Inflection Lemma="προσφάγιον" BaseFormIndex="1">
+          <Form/>
+          <Realizations>
+            <Realization>-ου</Realization>
+          </Realizations>
+          <Comments/>
+        </Inflection>
+      </Inflections>
+      <RelatedLemmas>
+        <RelatedLemma>
+          <Word>φάγος</Word>
+        </RelatedLemma>
+      </RelatedLemmas>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="004276001001000" IsBiblicalTerm="M" EntryCode="5.17" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Foods and Condiments</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Food</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2022-02-04 15:45:04" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>the flesh of fish as food{N:001}</DefinitionShort>
+              <Glosses>
+                <Gloss>fish</Gloss>
+              </Glosses>
+              <Comments>In literature outside the NT, προσφάγιον normally refers to some type of relish eaten with bread, but in {S:04302100500018} (the only occurrence in the NT) the reference is to the flesh of fish.</Comments>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04302100500018</LEXReference>
+          </LEXReferences>
+          <LEXLinks>
+            <LEXLink>fauna:5.1</LEXLink>
+          </LEXLinks>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

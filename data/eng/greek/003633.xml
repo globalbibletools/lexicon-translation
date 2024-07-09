@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="003633000000000" Lemma="ὅρκος" Version="0" HasAramaic="false" InLXX="true" AlphaPos="ο">
+  <StrongCodes>
+    <Strong>G3727</Strong>
+  </StrongCodes>
+  <Authors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes/>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="003633001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>noun, m.</PartOfSpeech>
+      </PartsOfSpeech>
+      <Inflections>
+        <Inflection Lemma="ὅρκος" BaseFormIndex="1">
+          <Form/>
+          <Realizations>
+            <Realization>-ου</Realization>
+          </Realizations>
+          <Comments/>
+        </Inflection>
+      </Inflections>
+      <RelatedLemmas>
+        <RelatedLemma>
+          <Word>ὁρκίζω</Word>
+        </RelatedLemma>
+      </RelatedLemmas>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="003633001001000" IsBiblicalTerm="M" EntryCode="33.463" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Communication</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Swear, Put Under Oath, Vow</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-12-15 19:07:52" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>to affirm the truth of a statement by calling on a divine being to execute sanctions against a person if the statement in question is not true (in the case of a deity taking an oath, his divine being is regarded as validating the statement)</DefinitionShort>
+              <Glosses>
+                <Gloss>to swear</Gloss>
+                <Gloss>to make an oath</Gloss>
+                <Gloss>oath</Gloss>
+              </Glosses>
+              <Comments>In a number of languages it is necessary to be quite specific in referring to the swearing of an oath, for example, ‘to say something by calling upon God to listen’ or ‘to state that something is true and asking God to punish if it is not true’ or ‘to make God responsible for what one has said.’</Comments>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04000503300028</LEXReference>
+            <LEXReference>04001400700006</LEXReference>
+            <LEXReference>04001400900014</LEXReference>
+            <LEXReference>04002607200010</LEXReference>
+            <LEXReference>04100602600016</LEXReference>
+            <LEXReference>04200107300002</LEXReference>
+            <LEXReference>04400203000014</LEXReference>
+            <LEXReference>05800601600030</LEXReference>
+            <LEXReference>05800601700036</LEXReference>
+            <LEXReference>05900501200034</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

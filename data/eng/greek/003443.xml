@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="003443000000000" Lemma="νόημα" Version="0" HasAramaic="false" InLXX="true" AlphaPos="ν">
+  <StrongCodes>
+    <Strong>G3540</Strong>
+  </StrongCodes>
+  <Authors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes/>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="003443001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>noun, n.</PartOfSpeech>
+      </PartsOfSpeech>
+      <Inflections>
+        <Inflection Lemma="νόημα" BaseFormIndex="1">
+          <Form/>
+          <Realizations>
+            <Realization>-τος</Realization>
+          </Realizations>
+          <Comments/>
+        </Inflection>
+      </Inflections>
+      <RelatedLemmas>
+        <RelatedLemma>
+          <Word>νοέω</Word>
+        </RelatedLemma>
+      </RelatedLemmas>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="003443001001000" IsBiblicalTerm="M" EntryCode="26.14" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Psychological Faculties</LEXDomain>
+          </LEXDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-12-10 20:59:37" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>the psychological faculty of understanding, reasoning, thinking, and deciding</DefinitionShort>
+              <Glosses>
+                <Gloss>mind</Gloss>
+              </Glosses>
+              <Comments>In some languages there is no noun such as English mind, and therefore one must use a verb expression meaning ‘to think,’ ‘to reason,’ or ‘to understand,’ depending upon the particular context. In some languages the closest equivalent of ‘mind’ may be a figurative extension of a term meaning ‘head,’ but more often than not, thinking is regarded as being in some other part of the body, for example, ‘heart’ or ‘liver.’</Comments>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04700301400008</LEXReference>
+            <LEXReference>04700400400020</LEXReference>
+            <LEXReference>04701100300032</LEXReference>
+            <LEXReference>05000400700032</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+        <LEXMeaning Id="003443001002000" IsBiblicalTerm="Y" EntryCode="30.15" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Think</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>To Think, Thought</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-12-10 20:59:37" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>the content of thinking and reasoning</DefinitionShort>
+              <Glosses>
+                <Gloss>thought</Gloss>
+                <Gloss>what is thought</Gloss>
+                <Gloss>opinion</Gloss>
+              </Glosses>
+              <Comments>In a number of languages it is simply not possible to find noun-like words for thinking or reasoning and therefore it may be necessary to use a verb equivalent throughout. For example, in {S:04201101700012} one may translate as ‘but Jesus knew what they were thinking.’|It may be difficult in some languages to speak of ‘taking every thought captive’ ({S:04701000500026}), but one can often say ‘to control every thought’ or ‘to make oneself think as one should.’</Comments>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04700201100022</LEXReference>
+            <LEXReference>04701000500026</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

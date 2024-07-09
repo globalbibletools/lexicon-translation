@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="004810000000000" Lemma="σύνεσις" Version="0" HasAramaic="false" InLXX="true" AlphaPos="σ">
+  <StrongCodes>
+    <Strong>G4907</Strong>
+  </StrongCodes>
+  <Authors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes/>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="004810001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>noun, f.</PartOfSpeech>
+      </PartsOfSpeech>
+      <Inflections>
+        <Inflection Lemma="σύνεσις" BaseFormIndex="1">
+          <Form/>
+          <Realizations>
+            <Realization>-εως</Realization>
+          </Realizations>
+          <Comments/>
+        </Inflection>
+      </Inflections>
+      <RelatedLemmas>
+        <RelatedLemma>
+          <Word>ἵημι</Word>
+          <Meaning LanguageCode="en">
+            <Meaning>send, set in motion</Meaning>
+          </Meaning>
+          <Meaning LanguageCode="zhT">
+            <Meaning>發送，調動</Meaning>
+          </Meaning>
+        </RelatedLemma>
+      </RelatedLemmas>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="004810001001000" IsBiblicalTerm="M" EntryCode="32.6" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Understand</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Understand</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2022-03-14 15:50:44" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>(derivative of {L:συνίημι&lt;SDBG:συνίημι:000000&gt;}[a] ‘to understand,’ {D:32.5}) that which is understood or comprehended</DefinitionShort>
+              <Glosses>
+                <Gloss>understanding</Gloss>
+                <Gloss>what is understood</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04900300400014</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+        <LEXMeaning Id="004810001002000" IsBiblicalTerm="M" EntryCode="32.26" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Understand</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Capacity for Understanding</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2022-03-14 15:50:44" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>to be able to understand and evaluate</DefinitionShort>
+              <Glosses>
+                <Gloss>to be able to comprehend</Gloss>
+                <Gloss>to understand</Gloss>
+                <Gloss>to be intelligent</Gloss>
+                <Gloss>insight</Gloss>
+                <Gloss>intelligence</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04101203300026</LEXReference>
+            <LEXReference>04200204700018</LEXReference>
+            <LEXReference>04600101900020</LEXReference>
+            <LEXReference>05100100900054</LEXReference>
+            <LEXReference>05100200200032</LEXReference>
+            <LEXReference>05500200700018</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

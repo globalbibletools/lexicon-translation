@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="002095000000000" Lemma="ἑτεροδιδασκαλέω" Version="0" HasAramaic="false" InLXX="false" AlphaPos="ε">
+  <StrongCodes>
+    <Strong>G2085</Strong>
+  </StrongCodes>
+  <Authors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes/>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="002095001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>verb</PartOfSpeech>
+      </PartsOfSpeech>
+      <Constructs>
+        <Construct Lemma="ἑτεροδιδασκαλέω" BaseFormIndex="1">
+          <WordMeaningSet>
+            <Word>ἕτερος</Word>
+          </WordMeaningSet>
+          <WordMeaningSet>
+            <Word>διδάσκω</Word>
+          </WordMeaningSet>
+        </Construct>
+      </Constructs>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="002095001001000" IsBiblicalTerm="Y" EntryCode="33.235" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Communication</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Teach</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-07-06 10:23:07" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>teach that which is different from what should be taught</DefinitionShort>
+              <Glosses>
+                <Gloss>to teach a different doctrine</Gloss>
+                <Gloss>to teach something different</Gloss>
+              </Glosses>
+              <Comments>In rendering ἑτεροδιδασκαλέω in {S:05400100300028}, it may be necessary to be specific about the particular doctrine which forms the basis of contrast, for example, ‘that you may order them to stop teaching a doctrine which is different from what has already been taught’ or ‘… from what I have already taught’ or ‘… from what they ought to teach.’</Comments>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>05400100300028</LEXReference>
+            <LEXReference>05400600300006</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

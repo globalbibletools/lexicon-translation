@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="000314000000000" Lemma="ἀναγγέλλω" Version="0" HasAramaic="false" InLXX="true" AlphaPos="α">
+  <StrongCodes>
+    <Strong>G0312</Strong>
+  </StrongCodes>
+  <Authors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes/>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="000314001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>verb</PartOfSpeech>
+      </PartsOfSpeech>
+      <Inflections>
+        <Inflection Lemma="ἀναγγέλλω" BaseFormIndex="1">
+          <Form>fut.</Form>
+          <Realizations>
+            <Realization>ἀναγγελῶ</Realization>
+          </Realizations>
+          <Comments/>
+        </Inflection>
+        <Inflection Lemma="ἀναγγέλλω" BaseFormIndex="1">
+          <Form>aor.</Form>
+          <Realizations>
+            <Realization>ἀνήγγειλα</Realization>
+          </Realizations>
+          <Comments/>
+        </Inflection>
+        <Inflection Lemma="ἀναγγέλλω" BaseFormIndex="1">
+          <Form>inf.</Form>
+          <Realizations>
+            <Realization>ἀναγγεῖλαι</Realization>
+          </Realizations>
+          <Comments/>
+        </Inflection>
+        <Inflection Lemma="ἀναγγέλλω" BaseFormIndex="1">
+          <Form>aor.pass.</Form>
+          <Realizations>
+            <Realization>ἀνηγγέλην</Realization>
+          </Realizations>
+          <Comments/>
+        </Inflection>
+      </Inflections>
+      <RelatedLemmas>
+        <RelatedLemma>
+          <Word>ἀγγέλλω</Word>
+        </RelatedLemma>
+      </RelatedLemmas>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="000314001001000" IsBiblicalTerm="Y" EntryCode="33.197" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Communication</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Inform, Announce</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-08-03 12:49:34" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>to provide information, with the possible implication of considerable detail</DefinitionShort>
+              <Glosses>
+                <Gloss>to announce</Gloss>
+                <Gloss>to inform</Gloss>
+                <Gloss>to tell</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04300402500030</LEXReference>
+            <LEXReference>04300501500010</LEXReference>
+            <LEXReference>04301601300054</LEXReference>
+            <LEXReference>04301601400020</LEXReference>
+            <LEXReference>04301601500034</LEXReference>
+            <LEXReference>04401402700014</LEXReference>
+            <LEXReference>04401500400030</LEXReference>
+            <LEXReference>04401901800016</LEXReference>
+            <LEXReference>04402002000016</LEXReference>
+            <LEXReference>04402002700012</LEXReference>
+            <LEXReference>04501502100012</LEXReference>
+            <LEXReference>04700700700034</LEXReference>
+            <LEXReference>06000101200024</LEXReference>
+            <LEXReference>06200100500022</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

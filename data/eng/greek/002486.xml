@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="002486000000000" Lemma="ἰχθύς" Version="0" HasAramaic="false" InLXX="true" AlphaPos="ι">
+  <StrongCodes>
+    <Strong>G2486</Strong>
+  </StrongCodes>
+  <Authors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes/>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="002486001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>noun, m.</PartOfSpeech>
+      </PartsOfSpeech>
+      <Inflections>
+        <Inflection Lemma="ἰχθύς" BaseFormIndex="1">
+          <Form/>
+          <Realizations>
+            <Realization>-ύος</Realization>
+          </Realizations>
+          <Comments/>
+        </Inflection>
+      </Inflections>
+      <RelatedLemmas>
+        <RelatedLemma>
+          <Word>ἰχθύδιον</Word>
+        </RelatedLemma>
+      </RelatedLemmas>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="002486001001000" IsBiblicalTerm="M" EntryCode="4.59" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Animals</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Fishes and Other Sea Creatures</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-09-01 11:05:24" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>any creature living in the sea</DefinitionShort>
+              <Glosses>
+                <Gloss>sea creature</Gloss>
+                <Gloss>fish</Gloss>
+              </Glosses>
+              <Comments>Though all languages have terms to designate at least certain kinds of fish, there are frequently important distinctions between varieties. In a number of instances distinctions are made between fish which have scales and those which do not (an important distinction in the OT, since it constituted the basis for distinguishing between ‘clean’ or ‘unclean’ varieties). In other languages the distinction may be made between fresh water and salt water fish, while in still other languages a clear distinction is made between edible and inedible fish.|Some languages also distinguish between fish which are still alive in the water and those which have been caught and are in various stages of preparation for being eaten. In {S:04000701000006} ἰχθύς may refer to a piece of fish ready to be eaten.</Comments>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04000701000006</LEXReference>
+            <LEXReference>04001401700028</LEXReference>
+            <LEXReference>04001401900032</LEXReference>
+            <LEXReference>04001503600014</LEXReference>
+            <LEXReference>04001702700030</LEXReference>
+            <LEXReference>04100603800032</LEXReference>
+            <LEXReference>04100604100018</LEXReference>
+            <LEXReference>04100604100060</LEXReference>
+            <LEXReference>04100604300020</LEXReference>
+            <LEXReference>04200500600012</LEXReference>
+            <LEXReference>04200500900028</LEXReference>
+            <LEXReference>04200901300040</LEXReference>
+            <LEXReference>04200901600018</LEXReference>
+            <LEXReference>04201101100020</LEXReference>
+            <LEXReference>04201101100026</LEXReference>
+            <LEXReference>04202404200010</LEXReference>
+            <LEXReference>04302100600054</LEXReference>
+            <LEXReference>04302100800048</LEXReference>
+            <LEXReference>04302101100026</LEXReference>
+            <LEXReference>04601503900042</LEXReference>
+          </LEXReferences>
+          <LEXLinks>
+            <LEXLink>fauna:5.1</LEXLink>
+          </LEXLinks>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

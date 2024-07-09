@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="004976000000000" Lemma="סבא" Version="5" HasAramaic="false" InLXX="false" AlphaPos="ס">
+  <StrongCodes>
+    <Strong>H5433a</Strong>
+  </StrongCodes>
+  <Authors>
+    <Author>Xuan Huong Pham</Author>
+  </Authors>
+  <Contributors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes>
+    <Note Caller="1" LanguageCode="en" LastEdited="" LastEditedBy="">
+      <References>
+        <Reference>02602304200026</Reference>
+      </References>
+      <Content>{A:MT-K} סובאים  | {A:MT-Q} סָבָאִים = סָבָא</Content>
+    </Note>
+  </Notes>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="004976001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>vb</PartOfSpeech>
+      </PartsOfSpeech>
+      <RelatedLemmas>
+        <RelatedLemma>
+          <Word>סָבָא</Word>
+        </RelatedLemma>
+        <RelatedLemma>
+          <Word>סֹבֶא</Word>
+        </RelatedLemma>
+      </RelatedLemmas>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="004976001001000" IsBiblicalTerm="M" EntryCode="" Indent="0">
+          <LEXDomains>
+            <LEXDomain Code="002001001024">Ingest</LEXDomain>
+          </LEXDomains>
+          <LEXForms>
+            <LEXForm>vbqal-</LEXForm>
+          </LEXForms>
+          <LEXSynonyms>
+            <LEXSynonym>זלל</LEXSynonym>
+          </LEXSynonyms>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2006-01-06 11:32:32" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>= action by which humans consume alcoholic beverages in large quantities, ► which results in drunkenness and other forms of loose behavior, ≈ and is generally regarded as foolish and unacceptable</DefinitionShort>
+              <Glosses>
+                <Gloss>to drink in excess</Gloss>
+                <Gloss>to be a drunkard</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>00502102000034</LEXReference>
+            <LEXReference>02002302000008</LEXReference>
+            <LEXReference>02002302100004</LEXReference>
+            <LEXReference>02305601200010</LEXReference>
+            <LEXReference>02602304200026{N:001}</LEXReference>
+            <LEXReference>03400101000016</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+          <LEXCoreDomains>
+            <LEXCoreDomain Code="008">Alcohol</LEXCoreDomain>
+            <LEXCoreDomain Code="199">Wisdom</LEXCoreDomain>
+            <LEXCoreDomain Code="017">Behavior</LEXCoreDomain>
+          </LEXCoreDomains>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

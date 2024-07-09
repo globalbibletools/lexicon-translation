@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="004786000000000" Lemma="נִיר" Version="5" HasAramaic="false" InLXX="false" AlphaPos="נ">
+  <StrongCodes>
+    <Strong>H5215</Strong>
+    <Strong>H5216b</Strong>
+  </StrongCodes>
+  <Authors>
+    <Author>Reinier de Blois</Author>
+  </Authors>
+  <Contributors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes/>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="004786001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>nsm</PartOfSpeech>
+      </PartsOfSpeech>
+      <RelatedLemmas>
+        <RelatedLemma>
+          <Word>מְנֹורָה</Word>
+        </RelatedLemma>
+        <RelatedLemma>
+          <Word>נֵר</Word>
+        </RelatedLemma>
+      </RelatedLemmas>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="004786001001000" IsBiblicalTerm="M" EntryCode="" Indent="0">
+          <LEXDomains>
+            <LEXDomain Code="001004001012">Lamps</LEXDomain>
+          </LEXDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2015-12-28 09:14:15" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>= small container ◄ made out of earthenware, ► filled with {L:oil&lt;SDBH:שֶׁמֶן&gt;} and with a {L:wick&lt;SDBH:פִּשְׁתָּה&gt;} placed in it; sometimes placed on a {L:lampstand&lt;SDBH:מְנֹורָה&gt;}; used as a source of {L:light&lt;SDBH:אֹור&gt;}; ≈ associated with peace, stability and well-being</DefinitionShort>
+              <Glosses>
+                <Gloss>lamp</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>01101103600018</LEXReference>
+            <LEXReference>01101500400016</LEXReference>
+            <LEXReference>01200801900038</LEXReference>
+            <LEXReference>01402100700048</LEXReference>
+            <LEXReference>02002100400012</LEXReference>
+          </LEXReferences>
+          <LEXLinks>
+            <LEXLink>Realia:5.1</LEXLink>
+          </LEXLinks>
+          <LEXVideos/>
+          <LEXCoreDomains>
+            <LEXCoreDomain Code="096">Lamp</LEXCoreDomain>
+            <LEXCoreDomain Code="027">Crafts</LEXCoreDomain>
+            <LEXCoreDomain Code="100">Light and Darkness</LEXCoreDomain>
+          </LEXCoreDomains>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+    <BaseForm Id="004786002000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>nsm</PartOfSpeech>
+      </PartsOfSpeech>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="004786002001000" IsBiblicalTerm="Y" EntryCode="" Indent="0">
+          <LEXDomains>
+            <LEXDomain Code="001005002002001">Land</LEXDomain>
+          </LEXDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2015-12-28 09:14:15" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>= unplowed soil; ► accessible to the poor to gather whatever food it produces; ≈ also associated with hardness and stubbornness</DefinitionShort>
+              <Glosses>
+                <Gloss>fallow ground</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>02001302300006</LEXReference>
+            <LEXReference>02400400300026</LEXReference>
+            <LEXReference>02801001200022</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+          <LEXCoreDomains>
+            <LEXCoreDomain Code="097">Land</LEXCoreDomain>
+            <LEXCoreDomain Code="007">Agriculture</LEXCoreDomain>
+          </LEXCoreDomains>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="003733000000000" Lemma="πανήγυρις" Version="0" HasAramaic="false" InLXX="true" AlphaPos="π">
+  <StrongCodes>
+    <Strong>G3831</Strong>
+  </StrongCodes>
+  <Authors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes/>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="003733001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>noun, f.</PartOfSpeech>
+      </PartsOfSpeech>
+      <Inflections>
+        <Inflection Lemma="πανήγυρις" BaseFormIndex="1">
+          <Form/>
+          <Realizations>
+            <Realization>-εως</Realization>
+          </Realizations>
+          <Comments/>
+        </Inflection>
+      </Inflections>
+      <Constructs>
+        <Construct Lemma="πανήγυρις" BaseFormIndex="1">
+          <WordMeaningSet>
+            <Word>πᾶς</Word>
+          </WordMeaningSet>
+          <WordMeaningSet>
+            <Word>ἀγοράζω</Word>
+          </WordMeaningSet>
+        </Construct>
+      </Constructs>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="003733001001000" IsBiblicalTerm="Y" EntryCode="51.4" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Festivals</LEXDomain>
+          </LEXDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-12-17 18:32:01" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>a gathering for a happy, joyous festivity</DefinitionShort>
+              <Glosses>
+                <Gloss>celebration</Gloss>
+                <Gloss>festivity</Gloss>
+                <Gloss>joyous festival</Gloss>
+              </Glosses>
+              <Comments>For the punctuation problem in translating the total context of {S:05801202200028}, see commentaries.</Comments>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>05801202200028</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

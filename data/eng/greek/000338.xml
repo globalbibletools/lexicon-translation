@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="000338000000000" Lemma="ἀναίρεσις" Version="0" HasAramaic="false" InLXX="true" AlphaPos="α">
+  <StrongCodes>
+    <Strong>G0336</Strong>
+  </StrongCodes>
+  <Authors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes/>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="000338001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>noun, f.</PartOfSpeech>
+      </PartsOfSpeech>
+      <Inflections>
+        <Inflection Lemma="ἀναίρεσις" BaseFormIndex="1">
+          <Form/>
+          <Realizations>
+            <Realization>-εως</Realization>
+          </Realizations>
+          <Comments/>
+        </Inflection>
+      </Inflections>
+      <RelatedLemmas>
+        <RelatedLemma>
+          <Word>αἱρέω</Word>
+          <Meaning LanguageCode="en">
+            <Meaning>grab, kill</Meaning>
+          </Meaning>
+          <Meaning LanguageCode="zhT">
+            <Meaning>抓住，殺死</Meaning>
+          </Meaning>
+        </RelatedLemma>
+      </RelatedLemmas>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="000338001001000" IsBiblicalTerm="Y" EntryCode="20.71" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Violence, Harm, Destroy, Kill</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Kill</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-08-03 14:24:57" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>to get rid of someone by execution, often with legal or quasi-legal procedures</DefinitionShort>
+              <Glosses>
+                <Gloss>to kill</Gloss>
+                <Gloss>to execute</Gloss>
+                <Gloss>killing</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04400800100012</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

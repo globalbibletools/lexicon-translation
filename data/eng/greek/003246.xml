@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="003246000000000" Lemma="μεταδίδωμι" Version="0" HasAramaic="false" InLXX="true" AlphaPos="μ">
+  <StrongCodes>
+    <Strong>G3330</Strong>
+  </StrongCodes>
+  <Authors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes/>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="003246001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>verb</PartOfSpeech>
+      </PartsOfSpeech>
+      <Inflections>
+        <Inflection Lemma="μεταδίδωμι" BaseFormIndex="1">
+          <Form>inf.</Form>
+          <Realizations>
+            <Realization>μεταδιδόναι</Realization>
+          </Realizations>
+          <Comments/>
+        </Inflection>
+        <Inflection Lemma="μεταδίδωμι" BaseFormIndex="1">
+          <Form>ptc.</Form>
+          <Realizations>
+            <Realization>μεταδιδούς</Realization>
+          </Realizations>
+          <Comments/>
+        </Inflection>
+        <Inflection Lemma="μεταδίδωμι" BaseFormIndex="1">
+          <Form>aor.subj.</Form>
+          <Realizations>
+            <Realization>μεταδῶ</Realization>
+          </Realizations>
+          <Comments/>
+        </Inflection>
+        <Inflection Lemma="μεταδίδωμι" BaseFormIndex="1">
+          <Form>impv.3sg.</Form>
+          <Realizations>
+            <Realization>μεταδότω</Realization>
+          </Realizations>
+          <Comments/>
+        </Inflection>
+        <Inflection Lemma="μεταδίδωμι" BaseFormIndex="1">
+          <Form>inf.</Form>
+          <Realizations>
+            <Realization>μεταδοῦναι</Realization>
+          </Realizations>
+          <Comments/>
+        </Inflection>
+      </Inflections>
+      <RelatedLemmas>
+        <RelatedLemma>
+          <Word>δίδωμι</Word>
+        </RelatedLemma>
+      </RelatedLemmas>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="003246001001000" IsBiblicalTerm="M" EntryCode="57.96" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Possess, Transfer, Exchange</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Give</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-12-01 10:54:40" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>to share with someone else what one has</DefinitionShort>
+              <Glosses>
+                <Gloss>to share</Gloss>
+                <Gloss>to give</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04200301100018</LEXReference>
+            <LEXReference>04500101100014</LEXReference>
+            <LEXReference>04501200800016</LEXReference>
+            <LEXReference>04900402800032</LEXReference>
+            <LEXReference>05200200800010</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="001105000000000" Lemma="γεωργός" Version="0" HasAramaic="false" InLXX="true" AlphaPos="γ">
+  <StrongCodes>
+    <Strong>G1092</Strong>
+  </StrongCodes>
+  <Authors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes/>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="001105001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>noun, m.</PartOfSpeech>
+      </PartsOfSpeech>
+      <Inflections>
+        <Inflection Lemma="γεωργός" BaseFormIndex="1">
+          <Form/>
+          <Realizations>
+            <Realization>-οῦ</Realization>
+          </Realizations>
+          <Comments/>
+        </Inflection>
+      </Inflections>
+      <RelatedLemmas>
+        <RelatedLemma>
+          <Word>γεωργέω</Word>
+        </RelatedLemma>
+      </RelatedLemmas>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="001105001001000" IsBiblicalTerm="M" EntryCode="43.2" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Agriculture</LEXDomain>
+          </LEXDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2022-11-15 14:33:57" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>(derivative of {L:γεωργέω&lt;SDBG:γεωργέω:000000&gt;} ‘to cultivate land,’ {D:43.1}) one who engages in agriculture or gardening</DefinitionShort>
+              <Glosses>
+                <Gloss>farmer</Gloss>
+                <Gloss>gardener</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04002103300050</LEXReference>
+            <LEXReference>04002103400028</LEXReference>
+            <LEXReference>04002103500008</LEXReference>
+            <LEXReference>04002103800006</LEXReference>
+            <LEXReference>04002104000022</LEXReference>
+            <LEXReference>04002104100024</LEXReference>
+            <LEXReference>04101200100044</LEXReference>
+            <LEXReference>04101200200010</LEXReference>
+            <LEXReference>04101200200024</LEXReference>
+            <LEXReference>04101200700008</LEXReference>
+            <LEXReference>04101200900024</LEXReference>
+            <LEXReference>04202000900034</LEXReference>
+            <LEXReference>04202001000012</LEXReference>
+            <LEXReference>04202001000036</LEXReference>
+            <LEXReference>04202001400010</LEXReference>
+            <LEXReference>04202001600010</LEXReference>
+            <LEXReference>04301500100024</LEXReference>
+            <LEXReference>05500200600006</LEXReference>
+            <LEXReference>05900500700022</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

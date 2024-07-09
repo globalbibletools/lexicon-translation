@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="006981000000000" Lemma="שַׂגִּיא" Version="4" HasAramaic="true" InLXX="false" AlphaPos="ש">
+  <StrongCodes>
+    <Strong>H7689</Strong>
+    <Strong>A7690</Strong>
+  </StrongCodes>
+  <Authors>
+    <Author>Reinier de Blois</Author>
+  </Authors>
+  <Contributors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes/>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="006981001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>aj</PartOfSpeech>
+      </PartsOfSpeech>
+      <RelatedLemmas>
+        <RelatedLemma>
+          <Word>שׂגא</Word>
+        </RelatedLemma>
+      </RelatedLemmas>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="006981001001000" IsBiblicalTerm="Y" EntryCode="" Indent="0">
+          <LEXDomains>
+            <LEXDomain Code="002001001042">Quantity</LEXDomain>
+          </LEXDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2017-08-10 09:12:13" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>= state in which objects or events are many in number or frequency</DefinitionShort>
+              <Glosses>
+                <Gloss>many</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>01500501100050</LEXReference>
+            <LEXReference>02700400900010</LEXReference>
+            <LEXReference>02700401800012</LEXReference>
+            <LEXReference>02700700500058</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+          <LEXCoreDomains>
+            <LEXCoreDomain Code="138">Quantity</LEXCoreDomain>
+          </LEXCoreDomains>
+        </LEXMeaning>
+        <LEXMeaning Id="006981001002000" IsBiblicalTerm="Y" EntryCode="" Indent="0">
+          <LEXDomains>
+            <LEXDomain Code="002001002012" Source="Quantity" SourceCode="002001001042">Great</LEXDomain>
+          </LEXDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2017-08-10 09:12:13" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>= state in which a deity or object is considered imposing because of certain characteristics and features</DefinitionShort>
+              <Glosses>
+                <Gloss>exalted</Gloss>
+                <Gloss>great</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>01803602600006</LEXReference>
+            <LEXReference>01803702300008</LEXReference>
+            <LEXReference>02700203100020</LEXReference>
+            <LEXReference>02700204800018</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+          <LEXCoreDomains>
+            <LEXCoreDomain Code="170">Status</LEXCoreDomain>
+          </LEXCoreDomains>
+        </LEXMeaning>
+        <LEXMeaning Id="006981001003000" IsBiblicalTerm="Y" EntryCode="" Indent="0">
+          <LEXDomains>
+            <LEXDomain Code="002001003012" Source="Quantity" SourceCode="002001001042">Intense</LEXDomain>
+          </LEXDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2022-04-15 16:45:31" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>= state in which an event takes place with intensity</DefinitionShort>
+              <Glosses>
+                <Gloss>much</Gloss>
+                <Gloss>greatly</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>02700200600024</LEXReference>
+            <LEXReference>02700201200018</LEXReference>
+            <LEXReference>02700400700032</LEXReference>
+            <LEXReference>02700500900008</LEXReference>
+            <LEXReference>02700601500014</LEXReference>
+            <LEXReference>02700602400008</LEXReference>
+            <LEXReference>02700702800016</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+          <LEXCoreDomains>
+            <LEXCoreDomain Code="090">Intensity</LEXCoreDomain>
+          </LEXCoreDomains>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="001863000000000" Lemma="הַצָּלָה" Version="4" HasAramaic="false" InLXX="false" AlphaPos="ה">
+  <StrongCodes>
+    <Strong>H2020</Strong>
+  </StrongCodes>
+  <Authors>
+    <Author>J.K. Aitken</Author>
+    <Author>G.I. Davies</Author>
+  </Authors>
+  <Contributors/>
+  <AlternateLemmas/>
+  <MainLinks>
+    <MainLink>SAHD@http://www.sahd.div.ed.ac.uk/_media/lexeme:pdf:dcx-haṣṣalah-aitken_davies-cam-1999.pdf</MainLink>
+  </MainLinks>
+  <Notes/>
+  <ContributorNote>Ad definition: 7. Conclusion, p. 2</ContributorNote>
+  <BaseForms>
+    <BaseForm Id="001863001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>nsf</PartOfSpeech>
+      </PartsOfSpeech>
+      <RelatedLemmas>
+        <RelatedLemma>
+          <Word>נצל</Word>
+        </RelatedLemma>
+      </RelatedLemmas>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="001863001001000" IsBiblicalTerm="Y" EntryCode="" Indent="0">
+          <LEXDomains>
+            <LEXDomain Code="002003003018">Safe</LEXDomain>
+          </LEXDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2017-11-24 14:34:20" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>= causative action by which humans or deities remove (other) humans or objects from a dangerous or life-threatening situation</DefinitionShort>
+              <Glosses>
+                <Gloss>deliverance</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>01700401400024</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+          <LEXCoreDomains>
+            <LEXCoreDomain Code="152">Security</LEXCoreDomain>
+            <LEXCoreDomain Code="196">Well-Being</LEXCoreDomain>
+          </LEXCoreDomains>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

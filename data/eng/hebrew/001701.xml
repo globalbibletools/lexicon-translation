@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="001701000000000" Lemma="דֳּפִי" Version="5" HasAramaic="false" InLXX="false" AlphaPos="ד">
+  <StrongCodes>
+    <Strong>H1848</Strong>
+  </StrongCodes>
+  <Authors>
+    <Author>Reinier de Blois</Author>
+  </Authors>
+  <Contributors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes>
+    <Note Caller="1" LanguageCode="en" LastEdited="" LastEditedBy="">
+      <References>
+        <Reference>01905002000018</Reference>
+      </References>
+      <Content>RSV NIV NRSV ESV "slander" NJPS "defaming" NJB "malign" REB GNT "fault"</Content>
+    </Note>
+  </Notes>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="001701001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>nsm</PartOfSpeech>
+      </PartsOfSpeech>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="001701001001000" IsBiblicalTerm="Y" EntryCode="" Indent="0">
+          <LEXDomains>
+            <LEXDomain Code="002004001009012">Revile</LEXDomain>
+          </LEXDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2018-01-19 17:32:36" LastEditedBy="administrator">
+              <DefinitionLong/>
+              <DefinitionShort>exact meaning unsure; possibly: = action by which humans speak bad about alleged faults they find with other humans</DefinitionShort>
+              <Glosses>
+                <Gloss>slander</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>01905002000018{N:001}</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+          <LEXCoreDomains>
+            <LEXCoreDomain Code="170">Status</LEXCoreDomain>
+            <LEXCoreDomain Code="041">Communication</LEXCoreDomain>
+          </LEXCoreDomains>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

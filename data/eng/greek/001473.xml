@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="001473000000000" Lemma="ἔγγυος" Version="0" HasAramaic="false" InLXX="true" AlphaPos="ε">
+  <StrongCodes>
+    <Strong>G1450</Strong>
+  </StrongCodes>
+  <Authors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes/>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="001473001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>adjc.</PartOfSpeech>
+      </PartsOfSpeech>
+      <Inflections>
+        <Inflection Lemma="ἔγγυος" BaseFormIndex="1">
+          <Form/>
+          <Realizations>
+            <Realization>-ον</Realization>
+          </Realizations>
+          <Comments/>
+        </Inflection>
+      </Inflections>
+      <Constructs>
+        <Construct Lemma="ἔγγυος" BaseFormIndex="1">
+          <WordMeaningSet>
+            <Word>ἐν</Word>
+          </WordMeaningSet>
+          <WordMeaningSet>
+            <Word>γύη</Word>
+            <Meaning LanguageCode="en">
+              <Meaning>security, bail</Meaning>
+            </Meaning>
+            <Meaning LanguageCode="zhT">
+              <Meaning>抵押品，保釋金</Meaning>
+            </Meaning>
+          </WordMeaningSet>
+        </Construct>
+      </Constructs>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="001473001001000" IsBiblicalTerm="M" EntryCode="70.8" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Real, Unreal</LEXDomain>
+          </LEXDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-10-26 16:12:54" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>one who guarantees the reality of something</DefinitionShort>
+              <Glosses>
+                <Gloss>the guarantee</Gloss>
+                <Gloss>guarantor</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>05800702200014</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

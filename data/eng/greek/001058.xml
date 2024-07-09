@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="001058000000000" Lemma="γαζοφυλάκιον" Version="0" HasAramaic="false" InLXX="true" AlphaPos="γ">
+  <StrongCodes>
+    <Strong>G1049</Strong>
+  </StrongCodes>
+  <Authors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes/>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="001058001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>noun, n.</PartOfSpeech>
+      </PartsOfSpeech>
+      <Inflections>
+        <Inflection Lemma="γαζοφυλάκιον" BaseFormIndex="1">
+          <Form/>
+          <Realizations>
+            <Realization>-ου</Realization>
+          </Realizations>
+          <Comments/>
+        </Inflection>
+      </Inflections>
+      <Constructs>
+        <Construct Lemma="γαζοφυλάκιον" BaseFormIndex="1">
+          <WordMeaningSet>
+            <Word>γάζα</Word>
+          </WordMeaningSet>
+          <WordMeaningSet>
+            <Word>φυλάσσω</Word>
+          </WordMeaningSet>
+        </Construct>
+      </Constructs>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="001058001001000" IsBiblicalTerm="M" EntryCode="7.33" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Constructions</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Parts and Areas of Buildings</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-08-26 14:36:18" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>a room in the Temple used as a treasury</DefinitionShort>
+              <Glosses>
+                <Gloss>treasury</Gloss>
+                <Gloss>Temple treasury</Gloss>
+              </Glosses>
+              <Comments>It is possible that in {S:04300802000014} γαζοφυλάκιον designates the offering boxes rather than the treasury itself (see γαζοφυλάκιον[b], {D:6.141}). If one interprets γαζοφυλάκιον in {S:04300802000014} as the offering boxes, then one may translate ‘he spoke these words near where the offering boxes were.’</Comments>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04300802000014</LEXReference>
+          </LEXReferences>
+          <LEXLinks>
+            <LEXLink>realia:3.14.1.4</LEXLink>
+          </LEXLinks>
+          <LEXVideos/>
+        </LEXMeaning>
+        <LEXMeaning Id="001058001002000" IsBiblicalTerm="M" EntryCode="6.141" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Artifacts</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Containers</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-08-26 14:36:18" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>a large box in which offerings were placed</DefinitionShort>
+              <Glosses>
+                <Gloss>offering box</Gloss>
+              </Glosses>
+              <Comments>The offering box in the Temple was also referred to as {L:δῶρον&lt;SDBG:δῶρον:000001&gt;}[b] ({D:6.142}).</Comments>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04101204100010</LEXReference>
+            <LEXReference>04101204100028</LEXReference>
+            <LEXReference>04101204300048</LEXReference>
+            <LEXReference>04202100100016</LEXReference>
+            <LEXReference>04300802000014</LEXReference>
+          </LEXReferences>
+          <LEXLinks>
+            <LEXLink>realia:3.14.1.4</LEXLink>
+          </LEXLinks>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

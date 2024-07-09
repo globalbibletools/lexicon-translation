@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="003557000000000" Lemma="ὁλοτελής" Version="0" HasAramaic="false" InLXX="false" AlphaPos="ο">
+  <StrongCodes>
+    <Strong>G3651</Strong>
+  </StrongCodes>
+  <Authors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes/>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="003557001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>adjc.</PartOfSpeech>
+      </PartsOfSpeech>
+      <Inflections>
+        <Inflection Lemma="ὁλοτελής" BaseFormIndex="1">
+          <Form/>
+          <Realizations>
+            <Realization>-ές</Realization>
+          </Realizations>
+          <Comments/>
+        </Inflection>
+      </Inflections>
+      <Constructs>
+        <Construct Lemma="ὁλοτελής" BaseFormIndex="1">
+          <WordMeaningSet>
+            <Word>ὅλος</Word>
+          </WordMeaningSet>
+          <WordMeaningSet>
+            <Word>τελέω</Word>
+          </WordMeaningSet>
+        </Construct>
+      </Constructs>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="003557001001000" IsBiblicalTerm="Y" EntryCode="78.47" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Degree</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Completely, Enough [Completive Degree]</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-12-13 20:13:38" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>a degree of completeness, with the possible implication of purpose or result</DefinitionShort>
+              <Glosses>
+                <Gloss>completely</Gloss>
+                <Gloss>totally</Gloss>
+                <Gloss>entirely</Gloss>
+                <Gloss>wholly</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>05200502300018</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

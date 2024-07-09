@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="004868000000000" Lemma="נפץ" Version="4" HasAramaic="false" InLXX="false" AlphaPos="נ">
+  <StrongCodes>
+    <Strong>H5310a</Strong>
+    <Strong>H5310b</Strong>
+  </StrongCodes>
+  <Authors>
+    <Author>Reinier de Blois</Author>
+  </Authors>
+  <Contributors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes/>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="004868001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>vb</PartOfSpeech>
+      </PartsOfSpeech>
+      <RelatedLemmas>
+        <RelatedLemma>
+          <Word>מַפָּץ</Word>
+        </RelatedLemma>
+        <RelatedLemma>
+          <Word>מַפֵּץ</Word>
+        </RelatedLemma>
+        <RelatedLemma>
+          <Word>נֶפֶץ</Word>
+        </RelatedLemma>
+      </RelatedLemmas>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="004868001001000" IsBiblicalTerm="Y" EntryCode="" Indent="0">
+          <LEXDomains>
+            <LEXDomain Code="002001001023">Impact</LEXDomain>
+          </LEXDomains>
+          <LEXForms>
+            <LEXForm>vbqal-; vbpiel</LEXForm>
+            <LEXForm>vbpual (passive)</LEXForm>
+          </LEXForms>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2023-02-24 14:22:19" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>= causative action by which humans cause an object to be broken into multiple pieces</DefinitionShort>
+              <Glosses>
+                <Gloss>to break</Gloss>
+                <Gloss>to crush</Gloss>
+                <Gloss>to smash</Gloss>
+                <Gloss>to dash to pieces</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>00700701900060</LEXReference>
+            <LEXReference>01100502300042</LEXReference>
+            <LEXReference>01900200900016</LEXReference>
+            <LEXReference>01913700900010</LEXReference>
+            <LEXReference>02302700900042</LEXReference>
+            <LEXReference>02401301400004</LEXReference>
+            <LEXReference>02402202800008</LEXReference>
+            <LEXReference>02404801200036</LEXReference>
+            <LEXReference>02405102000014</LEXReference>
+            <LEXReference>02405102100004</LEXReference>
+            <LEXReference>02405102100016</LEXReference>
+            <LEXReference>02405102200004</LEXReference>
+            <LEXReference>02405102200016</LEXReference>
+            <LEXReference>02405102200028</LEXReference>
+            <LEXReference>02405102300004</LEXReference>
+            <LEXReference>02405102300016</LEXReference>
+            <LEXReference>02405102300028</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+        <LEXMeaning Id="004868001002000" IsBiblicalTerm="Y" EntryCode="" Indent="0">
+          <LEXDomains>
+            <LEXDomain Code="002003003009" Source="Impact" SourceCode="002001001023">End</LEXDomain>
+          </LEXDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2023-02-24 14:22:19" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>literally: to break; hence: = causative process by which an event is brought to an end</DefinitionShort>
+              <Glosses>
+                <Gloss>to break</Gloss>
+                <Gloss>to shatter</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>02701200700078</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+          <LEXCoreDomains>
+            <LEXCoreDomain Code="168">Stage</LEXCoreDomain>
+          </LEXCoreDomains>
+        </LEXMeaning>
+        <LEXMeaning Id="004868001003000" IsBiblicalTerm="Y" EntryCode="" Indent="0">
+          <LEXDomains>
+            <LEXDomain Code="002003002023" Source="Impact" SourceCode="002001001023">Scatter</LEXDomain>
+          </LEXDomains>
+          <LEXForms>
+            <LEXForm>vbqal-</LEXForm>
+          </LEXForms>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2022-10-21 15:02:29" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>= causative process by which a group of humans is caused to divide itself and move into various directions</DefinitionShort>
+              <Glosses>
+                <Gloss>to spread out</Gloss>
+                <Gloss>to scatter</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>00100901900016</LEXReference>
+            <LEXReference>00901301100024</LEXReference>
+            <LEXReference>02303300300016</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+          <LEXCoreDomains>
+            <LEXCoreDomain Code="166">Space</LEXCoreDomain>
+          </LEXCoreDomains>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

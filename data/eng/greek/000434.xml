@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="000434000000000" Lemma="ἀνεψιός" Version="0" HasAramaic="false" InLXX="true" AlphaPos="α">
+  <StrongCodes>
+    <Strong>G0431</Strong>
+  </StrongCodes>
+  <Authors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes/>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="000434001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>noun, m.</PartOfSpeech>
+      </PartsOfSpeech>
+      <Inflections>
+        <Inflection Lemma="ἀνεψιός" BaseFormIndex="1">
+          <Form/>
+          <Realizations>
+            <Realization>-οῦ</Realization>
+          </Realizations>
+          <Comments/>
+        </Inflection>
+      </Inflections>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="000434001001000" IsBiblicalTerm="Y" EntryCode="10.52" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Kinship Terms</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Kinship Relations of the Same Generation</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2022-08-11 17:17:53" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>the child of one’s uncle and aunt, either on the fathers side or the mothers side</DefinitionShort>
+              <Glosses>
+                <Gloss>cousin</Gloss>
+              </Glosses>
+              <Comments>Some languages make a clear distinction between so-called ‘parallel cousins’ and ‘cross cousins.’ Parallel cousins would be the offspring of one’s father’s brother or of one’s mother’s sister, while cross cousins would be the offspring of one’s father’s sister or of one’s mother’s brother. There is no way of knowing from the context of {S:05100401000020} what the specific relationship is between Mark and Barnabas, but for languages which have no general term for cousins, but only specific terms for parallel cousins or cross cousins, it is necessary to select one or another of these specific terms in speaking of Mark. By means of a footnote one can indicate that the Greek text does not specify which type of cousin is involved.</Comments>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>05100401000020</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

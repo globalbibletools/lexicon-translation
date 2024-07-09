@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="002234000000000" Lemma="ζωγρέω" Version="0" HasAramaic="false" InLXX="true" AlphaPos="ζ">
+  <StrongCodes>
+    <Strong>G2221</Strong>
+  </StrongCodes>
+  <Authors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes/>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="002234001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>verb</PartOfSpeech>
+      </PartsOfSpeech>
+      <Constructs>
+        <Construct Lemma="ζωγρέω" BaseFormIndex="1">
+          <WordMeaningSet>
+            <Word>ζάω</Word>
+          </WordMeaningSet>
+          <WordMeaningSet>
+            <Word>ἄγρα</Word>
+          </WordMeaningSet>
+        </Construct>
+      </Constructs>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="002234001001000" IsBiblicalTerm="Y" EntryCode="37.1" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Control, Rule</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Control, Restrain</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-07-21 10:48:21" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>to bring under control and to continue to restrain</DefinitionShort>
+              <Glosses>
+                <Gloss>to control</Gloss>
+                <Gloss>to bring under control</Gloss>
+                <Gloss>to hold in check</Gloss>
+              </Glosses>
+              <Comments>In many languages it may be difficult to speak of ‘bringing a person under control.’ It may therefore be more appropriate to use some such phrase as ‘not allow a person to do just what he wants’ or ‘make a person behave’ or ‘make a person obey.’ In speaking of animals, one may render {S:05900300700028} as ‘all kinds of wild animals … can be made to obey a person.’</Comments>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04200501000056</LEXReference>
+            <LEXReference>05500202600016</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

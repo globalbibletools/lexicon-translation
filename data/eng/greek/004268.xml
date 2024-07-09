@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="004268000000000" Lemma="προσπίπτω" Version="0" HasAramaic="false" InLXX="true" AlphaPos="π">
+  <StrongCodes>
+    <Strong>G4363</Strong>
+  </StrongCodes>
+  <Authors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes>
+    <Note Caller="1" LanguageCode="en" LastEdited="" LastEditedBy="">
+      <References/>
+      <Content>πίπτω[c] and προσπίπτω[a] ({D:17.22}) differ to some extent from προσκυνέω[b] ({D:17.21}) in that they focus primarily upon the actual position rather than upon the intent of showing reverence or making supplication. προσκυνέω[b] is the more formal term and focuses more upon the attitude of reverence or honor.</Content>
+    </Note>
+  </Notes>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="004268001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>verb</PartOfSpeech>
+      </PartsOfSpeech>
+      <Inflections>
+        <Inflection Lemma="προσπίπτω" BaseFormIndex="1">
+          <Form>aor.</Form>
+          <Realizations>
+            <Realization>προσέπεσον</Realization>
+          </Realizations>
+          <Comments/>
+        </Inflection>
+        <Inflection Lemma="προσπίπτω" BaseFormIndex="1">
+          <Form>fem.ptc.</Form>
+          <Realizations>
+            <Realization>προσπεσοῦσα</Realization>
+          </Realizations>
+          <Comments/>
+        </Inflection>
+      </Inflections>
+      <RelatedLemmas>
+        <RelatedLemma>
+          <Word>πίπτω</Word>
+        </RelatedLemma>
+      </RelatedLemmas>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="004268001001000" IsBiblicalTerm="M" EntryCode="17.22" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Stances and Events Related to Stances</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Prostrate as an Act of Reverence or Supplication</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2022-02-04 15:32:16" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>to prostrate oneself before someone, implying supplication{N:001}</DefinitionShort>
+              <Glosses>
+                <Gloss>to prostrate oneself before</Gloss>
+                <Gloss>to fall down before</Gloss>
+              </Glosses>
+              <Comments>A strictly literal translation of προσπίπτω[a] or πίπτω[c], namely, ‘to fall down before,’ can be entirely misleading in that it may suggest an accident caused by stumbling or tripping. It may therefore be necessary in a number of languages to translate ‘to bow down low before’ or ‘to bow down to the ground before.’</Comments>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04100301100018</LEXReference>
+            <LEXReference>04100503300026</LEXReference>
+            <LEXReference>04100702500030</LEXReference>
+            <LEXReference>04200500800010</LEXReference>
+            <LEXReference>04200802800012</LEXReference>
+            <LEXReference>04200804700022</LEXReference>
+            <LEXReference>04401602900016</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+        <LEXMeaning Id="004268001002000" IsBiblicalTerm="Y" EntryCode="19.11" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Physical Impact</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Hit, Strike</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2022-02-04 15:32:16" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>to strike against some object</DefinitionShort>
+              <Glosses>
+                <Gloss>to strike against</Gloss>
+                <Gloss>to hit against</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04000702500028</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

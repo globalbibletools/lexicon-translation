@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="005657000000000" Lemma="עָרָה" Version="5" HasAramaic="false" InLXX="false" AlphaPos="ע">
+  <StrongCodes>
+    <Strong>H6169</Strong>
+  </StrongCodes>
+  <Authors>
+    <Author>Reinier de Blois</Author>
+  </Authors>
+  <Contributors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes>
+    <Note Caller="1" LanguageCode="en" LastEdited="" LastEditedBy="">
+      <References>
+        <Reference>02301900700002</Reference>
+      </References>
+      <Content>MT RSV NRSV ESV "bare places" CEV "barren" = [1a] | LXX τὸ ἄχι τὸ χλωρὸν NJPS "papyrus" = [2a] | NIV NJB "plants" GNT "crops" | REB "lotus"</Content>
+    </Note>
+  </Notes>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="005657001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>nsf</PartOfSpeech>
+      </PartsOfSpeech>
+      <RelatedLemmas>
+        <RelatedLemma>
+          <Word>ערה</Word>
+        </RelatedLemma>
+      </RelatedLemmas>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="005657001001000" IsBiblicalTerm="Y" EntryCode="" Indent="0">
+          <LEXDomains>
+            <LEXDomain Code="001005002002003">Landscapes</LEXDomain>
+          </LEXDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2016-03-28 13:37:24" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>= a place with little or no vegetation</DefinitionShort>
+              <Glosses>
+                <Gloss>bare place</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>02301900700002{N:001}</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+    <BaseForm Id="005657002000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>nsf</PartOfSpeech>
+      </PartsOfSpeech>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="005657002001000" IsBiblicalTerm="M" EntryCode="" Indent="0">
+          <LEXDomains>
+            <LEXDomain Code="001003001">Plants</LEXDomain>
+          </LEXDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2016-02-27 11:00:28" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>= type of grass; ◄ found on the borders of the {L:Nile&lt;SDBH:יְאֹר&gt;}</DefinitionShort>
+              <Glosses>
+                <Gloss>reed grass</Gloss>
+                <Gloss>reeds</Gloss>
+                <Gloss>rushes</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>02301900700002{N:001}</LEXReference>
+          </LEXReferences>
+          <LEXLinks>
+            <LEXLink>Flora:5.1.2</LEXLink>
+          </LEXLinks>
+          <LEXVideos/>
+          <LEXCoreDomains>
+            <LEXCoreDomain Code="125">Plant</LEXCoreDomain>
+            <LEXCoreDomain Code="189">Water</LEXCoreDomain>
+          </LEXCoreDomains>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

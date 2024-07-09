@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="000751000000000" Lemma="ἀρχιτρίκλινος" Version="0" HasAramaic="false" InLXX="false" AlphaPos="α">
+  <StrongCodes>
+    <Strong>G0755</Strong>
+  </StrongCodes>
+  <Authors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes/>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="000751001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>noun, m.</PartOfSpeech>
+      </PartsOfSpeech>
+      <Inflections>
+        <Inflection Lemma="ἀρχιτρίκλινος" BaseFormIndex="1">
+          <Form/>
+          <Realizations>
+            <Realization>-ου</Realization>
+          </Realizations>
+          <Comments/>
+        </Inflection>
+      </Inflections>
+      <Constructs>
+        <Construct Lemma="ἀρχιτρίκλινος" BaseFormIndex="1">
+          <WordMeaningSet>
+            <Word>ἄρχω</Word>
+          </WordMeaningSet>
+          <WordMeaningSet>
+            <Word>τρεῖς</Word>
+          </WordMeaningSet>
+          <WordMeaningSet>
+            <Word>κλίνω</Word>
+          </WordMeaningSet>
+        </Construct>
+      </Constructs>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="000751001001000" IsBiblicalTerm="M" EntryCode="46.7" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Household Activities</LEXDomain>
+          </LEXDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-08-17 12:14:51" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>the head servant in charge of all those who served at meals or feasts</DefinitionShort>
+              <Glosses>
+                <Gloss>head steward</Gloss>
+              </Glosses>
+              <Comments>It is also possible that ἀρχιτρίκλινος in {S:04300200800018} refers to the master of ceremonies or the toastmaster at the feast.</Comments>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04300200800018</LEXReference>
+            <LEXReference>04300200900010</LEXReference>
+            <LEXReference>04300200900054</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

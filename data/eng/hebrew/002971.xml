@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="002971000000000" Lemma="יִסֹּור" Version="3" HasAramaic="false" InLXX="false" AlphaPos="י">
+  <StrongCodes>
+    <Strong>H3250</Strong>
+  </StrongCodes>
+  <Authors>
+    <Author>Reinier de Blois</Author>
+  </Authors>
+  <Contributors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes>
+    <Note Caller="1" LanguageCode="en" LastEdited="" LastEditedBy="">
+      <References>
+        <Reference>01804000200010</Reference>
+      </References>
+      <Content>RSV NRSV ESV "fault-finder" NIV "will ... correct" = [1a] | NJPS "one who should be disciplined" = [1b] | NJB "will ... give way" | REB "be stubborn"</Content>
+    </Note>
+  </Notes>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="002971001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>nsm</PartOfSpeech>
+      </PartsOfSpeech>
+      <RelatedLemmas>
+        <RelatedLemma>
+          <Word>יסר</Word>
+        </RelatedLemma>
+      </RelatedLemmas>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="002971001001000" IsBiblicalTerm="M" EntryCode="" Indent="0">
+          <LEXDomains>
+            <LEXDomain Code="001001002003" Source="Chastise" SourceCode="002003002006">People</LEXDomain>
+          </LEXDomains>
+          <LEXSynonyms>
+            <LEXSynonym>יכח</LEXSynonym>
+          </LEXSynonyms>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2018-02-08 13:53:49" LastEditedBy="administrator">
+              <DefinitionLong/>
+              <DefinitionShort>meaning unsure; possibly: = a person who responds to allegedly negative behavior of others in the form of an accusation or a verbal rebuke</DefinitionShort>
+              <Glosses>
+                <Gloss>fault-finder</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>01804000200010{N:001}</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+          <LEXCoreDomains>
+            <LEXCoreDomain Code="140">Recompense</LEXCoreDomain>
+          </LEXCoreDomains>
+        </LEXMeaning>
+        <LEXMeaning Id="002971001002000" IsBiblicalTerm="Y" EntryCode="" Indent="0">
+          <LEXDomains>
+            <LEXDomain Code="001001002003" Source="Chastise" SourceCode="002003002006">People</LEXDomain>
+          </LEXDomains>
+          <LEXSynonyms>
+            <LEXSynonym>יכח</LEXSynonym>
+          </LEXSynonyms>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2008-11-17 10:34:38" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>meaning unsure; possibly: = a person who deserves to be punished</DefinitionShort>
+              <Glosses>
+                <Gloss>one who deserves punishment</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>01804000200010{N:001}</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+          <LEXCoreDomains>
+            <LEXCoreDomain Code="140">Recompense</LEXCoreDomain>
+          </LEXCoreDomains>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

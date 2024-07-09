@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="003411000000000" Lemma="כִּפֻּרִים" Version="5" HasAramaic="false" InLXX="false" AlphaPos="כ">
+  <StrongCodes>
+    <Strong>H3725</Strong>
+  </StrongCodes>
+  <Authors>
+    <Author>Reinier de Blois</Author>
+  </Authors>
+  <Contributors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes/>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="003411001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>nsm</PartOfSpeech>
+      </PartsOfSpeech>
+      <RelatedLemmas>
+        <RelatedLemma>
+          <Word>כפר</Word>
+        </RelatedLemma>
+      </RelatedLemmas>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="003411001001000" IsBiblicalTerm="M" EntryCode="" Indent="0">
+          <LEXDomains>
+            <LEXDomain Code="002003003014" Source="Cover" SourceCode="002003001005">Innocent</LEXDomain>
+          </LEXDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2017-06-22 10:58:57" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>= causative action by which a priest performs the rituals that are required to remove guilt or uncleanness from people or objects, which usually requires a blood sacrifice or another kind of compensation</DefinitionShort>
+              <Glosses>
+                <Gloss>atonement</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>00202903600020</LEXReference>
+            <LEXReference>00203001000028</LEXReference>
+            <LEXReference>00203001600012</LEXReference>
+            <LEXReference>00302302700028</LEXReference>
+            <LEXReference>00302302800028</LEXReference>
+            <LEXReference>00302500900038</LEXReference>
+            <LEXReference>00400500800054</LEXReference>
+            <LEXReference>00402901100020</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+          <LEXCoreDomains>
+            <LEXCoreDomain Code="145">Responsibility</LEXCoreDomain>
+            <LEXCoreDomain Code="017">Behavior</LEXCoreDomain>
+            <LEXCoreDomain Code="132">Priesthood</LEXCoreDomain>
+          </LEXCoreDomains>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

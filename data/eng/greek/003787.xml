@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="003787000000000" Lemma="παραμένω" Version="0" HasAramaic="false" InLXX="true" AlphaPos="π">
+  <StrongCodes>
+    <Strong>G3887</Strong>
+  </StrongCodes>
+  <Authors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes/>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="003787001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>verb</PartOfSpeech>
+      </PartsOfSpeech>
+      <Inflections>
+        <Inflection Lemma="παραμένω" BaseFormIndex="1">
+          <Form>aor.ptc.</Form>
+          <Realizations>
+            <Realization>παραμείνας</Realization>
+          </Realizations>
+          <Comments/>
+        </Inflection>
+      </Inflections>
+      <RelatedLemmas>
+        <RelatedLemma>
+          <Word>μένω</Word>
+        </RelatedLemma>
+      </RelatedLemmas>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="003787001001000" IsBiblicalTerm="Y" EntryCode="85.56" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Existence in Space</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Remain, Stay</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2022-02-15 10:39:33" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>to stay in a place together with someone</DefinitionShort>
+              <Glosses>
+                <Gloss>to stay with</Gloss>
+                <Gloss>to remain with</Gloss>
+              </Glosses>
+              <Comments>In {S:05000102500016} παραμενῶ contrasts to some extent with μενῶ. The implication, in this particular context at least, is that the purpose of remaining is to serve the interests or needs of the believers in Philippi. It is also possible that some of this implication of serving may be found in {S:04601600600010}.</Comments>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04601600600010</LEXReference>
+            <LEXReference>05000102500016</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+        <LEXMeaning Id="003787001002000" IsBiblicalTerm="Y" EntryCode="68.11" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Aspect</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Continue</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2022-02-15 10:39:33" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>to continue in an activity or state</DefinitionShort>
+              <Glosses>
+                <Gloss>to continue</Gloss>
+                <Gloss>to remain in</Gloss>
+                <Gloss>to keep on</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>05800702300024</LEXReference>
+            <LEXReference>05900102500022</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

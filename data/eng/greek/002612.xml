@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="002612000000000" Lemma="καταγγέλλω" Version="0" HasAramaic="false" InLXX="true" AlphaPos="κ">
+  <StrongCodes>
+    <Strong>G2605</Strong>
+  </StrongCodes>
+  <Authors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes>
+    <Note Caller="1" LanguageCode="en" LastEdited="" LastEditedBy="">
+      <References/>
+      <Content>The translation of καταγγέλλω or ἐξαγγέλλω as to preach depends essentially upon the context, in other words, upon the content of what is announced or proclaimed.</Content>
+    </Note>
+  </Notes>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="002612001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>verb</PartOfSpeech>
+      </PartsOfSpeech>
+      <Inflections>
+        <Inflection Lemma="καταγγέλλω" BaseFormIndex="1">
+          <Form>aor.</Form>
+          <Realizations>
+            <Realization>κατήγγειλα</Realization>
+          </Realizations>
+          <Comments/>
+        </Inflection>
+        <Inflection Lemma="καταγγέλλω" BaseFormIndex="1">
+          <Form>aor.pass.</Form>
+          <Realizations>
+            <Realization>κατηγγέλην</Realization>
+          </Realizations>
+          <Comments/>
+        </Inflection>
+      </Inflections>
+      <RelatedLemmas>
+        <RelatedLemma>
+          <Word>ἀγγέλλω</Word>
+        </RelatedLemma>
+      </RelatedLemmas>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="002612001001000" IsBiblicalTerm="M" EntryCode="33.204" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Communication</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Inform, Announce</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-09-16 11:00:31" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>to announce, with focus upon the extent to which the announcement or proclamation extends{N:001}</DefinitionShort>
+              <Glosses>
+                <Gloss>to proclaim throughout</Gloss>
+                <Gloss>to announce</Gloss>
+                <Gloss>to speak out about</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04400302400028</LEXReference>
+            <LEXReference>04400400200018</LEXReference>
+            <LEXReference>04401300500010</LEXReference>
+            <LEXReference>04401303800026</LEXReference>
+            <LEXReference>04401503600038</LEXReference>
+            <LEXReference>04401601700038</LEXReference>
+            <LEXReference>04401602100004</LEXReference>
+            <LEXReference>04401700300046</LEXReference>
+            <LEXReference>04401701300028</LEXReference>
+            <LEXReference>04401702300044</LEXReference>
+            <LEXReference>04402602300024</LEXReference>
+            <LEXReference>04500100800034</LEXReference>
+            <LEXReference>04600200100026</LEXReference>
+            <LEXReference>04600901400018</LEXReference>
+            <LEXReference>04601102600032</LEXReference>
+            <LEXReference>05000101700014</LEXReference>
+            <LEXReference>05000101800024</LEXReference>
+            <LEXReference>05100102800006</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="005279000000000" Lemma="עוּגָב" Version="5" HasAramaic="false" InLXX="false" AlphaPos="ע">
+  <StrongCodes>
+    <Strong>H5748</Strong>
+  </StrongCodes>
+  <Authors>
+    <Author>Reinier de Blois</Author>
+  </Authors>
+  <Contributors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes/>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="005279001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>nsm</PartOfSpeech>
+      </PartsOfSpeech>
+      <RelatedLemmas>
+        <RelatedLemma>
+          <Word>עגב</Word>
+        </RelatedLemma>
+      </RelatedLemmas>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="005279001001000" IsBiblicalTerm="M" EntryCode="" Indent="0">
+          <LEXDomains>
+            <LEXDomain Code="001004001013">Musical Instruments</LEXDomain>
+          </LEXDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2017-04-15 14:43:02" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>= wood-wind instrument; ≈ its music is associated with joy and well-being</DefinitionShort>
+              <Glosses>
+                <Gloss>flute</Gloss>
+                <Gloss>pipe</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>00100402100024</LEXReference>
+            <LEXReference>01802101200020</LEXReference>
+            <LEXReference>01915000400020</LEXReference>
+          </LEXReferences>
+          <LEXLinks>
+            <LEXLink>Realia:7.3.3</LEXLink>
+          </LEXLinks>
+          <LEXVideos/>
+          <LEXCoreDomains>
+            <LEXCoreDomain Code="111">Music and Dance</LEXCoreDomain>
+          </LEXCoreDomains>
+        </LEXMeaning>
+        <LEXMeaning Id="005279001002000" IsBiblicalTerm="M" EntryCode="" Indent="0">
+          <LEXDomains>
+            <LEXDomain Code="002003001013" Source="Musical Instruments" SourceCode="001004001013">Play</LEXDomain>
+          </LEXDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2017-04-15 14:43:02" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>= action by which humans play the flute; ≈ associated with joy and well-being</DefinitionShort>
+              <Glosses>
+                <Gloss>playing the flute</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>01803003100014</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+          <LEXCoreDomains>
+            <LEXCoreDomain Code="111">Music and Dance</LEXCoreDomain>
+          </LEXCoreDomains>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

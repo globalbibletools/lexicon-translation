@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="001026000000000" Lemma="βραδύνω" Version="0" HasAramaic="false" InLXX="true" AlphaPos="β">
+  <StrongCodes>
+    <Strong>G1019</Strong>
+  </StrongCodes>
+  <Authors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes/>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="001026001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>verb</PartOfSpeech>
+      </PartsOfSpeech>
+      <RelatedLemmas>
+        <RelatedLemma>
+          <Word>βραδύς</Word>
+        </RelatedLemma>
+        <RelatedLemma>
+          <Word>βραδύτης</Word>
+        </RelatedLemma>
+        <RelatedLemma>
+          <Word>βραδυπλοέω</Word>
+        </RelatedLemma>
+      </RelatedLemmas>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="001026001001000" IsBiblicalTerm="Y" EntryCode="67.124" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Time</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Duration of Time with Reference to Some Point of Time: Until, Delay, Still, From</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2022-11-03 03:15:03" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>(derivative of {L:βραδύς&lt;SDBG:βραδύς:000000&gt;} ‘slow,’ {D:67.123}) to extend a period of time, with the implication of slowness and/or delay</DefinitionShort>
+              <Glosses>
+                <Gloss>to be slow</Gloss>
+                <Gloss>to delay</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>05400301500006</LEXReference>
+            <LEXReference>06100300900004</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

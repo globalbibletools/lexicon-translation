@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="000705000000000" Lemma="ἀριστερός" Version="0" HasAramaic="false" InLXX="true" AlphaPos="α">
+  <StrongCodes>
+    <Strong>G0710</Strong>
+  </StrongCodes>
+  <Authors/>
+  <AlternateLemmas>
+    <AlternateLemma>ἀριστερά</AlternateLemma>
+  </AlternateLemmas>
+  <MainLinks/>
+  <Notes/>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="000705001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>adjc.</PartOfSpeech>
+      </PartsOfSpeech>
+      <Inflections>
+        <Inflection Lemma="ἀριστερός" BaseFormIndex="1">
+          <Form/>
+          <Realizations>
+            <Realization>-ά, -όν</Realization>
+          </Realizations>
+          <Comments/>
+        </Inflection>
+      </Inflections>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="000705001001000" IsBiblicalTerm="Y" EntryCode="82.7" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Spacial Orientations</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Left, Right, Straight Ahead, Opposite</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-08-16 16:14:53" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>pertaining to being to the left of some point of reference</DefinitionShort>
+              <Glosses>
+                <Gloss>left</Gloss>
+                <Gloss>left side</Gloss>
+              </Glosses>
+              <Comments>In {S:04700600700030} the phrase ὅπλον ἀριστερόν, literally ‘left-hand weapon,’ refers to a weapon used by the left hand and therefore a defensive weapon, while ὅπλον δεξιόν, literally ‘weapon for the right hand,’ refers to an offensive weapon.|For an interpretation of ἀριστερός as part of an idiom in {S:04101003700030}, see {D:87.35}.</Comments>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04000600300016</LEXReference>
+            <LEXReference>04101003700030</LEXReference>
+            <LEXReference>04202303300046</LEXReference>
+            <LEXReference>04700600700030</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+        <LEXMeaning Id="000705001002000" IsBiblicalTerm="Y" EntryCode="8.33" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Body, Body Parts, and Body Products</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Parts of the Body</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXForms>
+            <LEXForm>ἀριστερά</LEXForm>
+            <LEXForm>(ᾶς</LEXForm>
+            <LEXForm>f)</LEXForm>
+          </LEXForms>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-08-16 16:14:53" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort/>
+              <Glosses>
+                <Gloss>left hand</Gloss>
+              </Glosses>
+              <Comments>The left hand is designated in a number of languages by an idiomatic phrase which normally contrasts with expressions for the right hand. For example, one may often speak of the left hand as ‘the bad hand’ or ‘the weak hand,’ and in some instances as ‘the anus hand,’ since this is the hand used in cleansing the body after defecation. See also {D:8.32}.</Comments>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04000600300016</LEXReference>
+            <LEXReference>04700600700030</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

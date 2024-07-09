@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="003470000000000" Lemma="כָּתִית" Version="4" HasAramaic="false" InLXX="false" AlphaPos="כ">
+  <StrongCodes>
+    <Strong>H3795</Strong>
+  </StrongCodes>
+  <Authors>
+    <Author>Reinier de Blois</Author>
+  </Authors>
+  <Contributors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes/>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="003470001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>aj</PartOfSpeech>
+      </PartsOfSpeech>
+      <RelatedLemmas>
+        <RelatedLemma>
+          <Word>כתת</Word>
+        </RelatedLemma>
+      </RelatedLemmas>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="003470001001000" IsBiblicalTerm="Y" EntryCode="" Indent="0">
+          <LEXDomains>
+            <LEXDomain Code="002001001023">Impact</LEXDomain>
+          </LEXDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2017-03-10 15:43:08" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>= process by which {L:olives&lt;SDBH:זַיִת&gt;} are {L:pressed&lt;SDBH:כתת&gt;} in a mortar in order to extract the {L:oil&lt;SDBH:שֶׁמֶן&gt;}</DefinitionShort>
+              <Glosses>
+                <Gloss>pressed</Gloss>
+                <Gloss>beaten</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>00202702000026</LEXReference>
+            <LEXReference>00202904000014</LEXReference>
+            <LEXReference>00302400200022</LEXReference>
+            <LEXReference>00402800500022</LEXReference>
+            <LEXReference>01100502500034</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

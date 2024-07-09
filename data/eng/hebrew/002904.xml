@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="002904000000000" Lemma="יָחִיד" Version="4" HasAramaic="false" InLXX="false" AlphaPos="י">
+  <StrongCodes>
+    <Strong>H3173</Strong>
+  </StrongCodes>
+  <Authors>
+    <Author>Enio R. Mueller</Author>
+  </Authors>
+  <Contributors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes>
+    <Note Caller="1" LanguageCode="en" LastEdited="" LastEditedBy="">
+      <References>
+        <Reference>02000400300016</Reference>
+      </References>
+      <Content>RSV NIV REB GNT "only" [1a] | NRSV CEV "favorite" NJPS "darling" NJB "unique" [1b]</Content>
+    </Note>
+  </Notes>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="002904001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>aj</PartOfSpeech>
+      </PartsOfSpeech>
+      <RelatedLemmas>
+        <RelatedLemma>
+          <Word>יחד</Word>
+        </RelatedLemma>
+      </RelatedLemmas>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="002904001001000" IsBiblicalTerm="M" EntryCode="" Indent="0">
+          <LEXDomains>
+            <LEXDomain Code="002003002010">Dissociate</LEXDomain>
+          </LEXDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2016-10-24 09:40:19" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>= state in which humans are not part of a larger group or community</DefinitionShort>
+              <Glosses>
+                <Gloss>only one</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>00102200200016</LEXReference>
+            <LEXReference>00102201200054</LEXReference>
+            <LEXReference>00102201600044</LEXReference>
+            <LEXReference>00701103400044</LEXReference>
+            <LEXReference>01902501600012</LEXReference>
+            <LEXReference>01906800700006</LEXReference>
+            <LEXReference>02000400300016{N:001}</LEXReference>
+            <LEXReference>02400602600022</LEXReference>
+            <LEXReference>03000801000052</LEXReference>
+            <LEXReference>03801201000054</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+          <LEXCoreDomains>
+            <LEXCoreDomain Code="142">Relationship</LEXCoreDomain>
+          </LEXCoreDomains>
+        </LEXMeaning>
+        <LEXMeaning Id="002904001002000" IsBiblicalTerm="Y" EntryCode="" Indent="0">
+          <LEXDomains>
+            <LEXDomain Code="002001002012" Source="Dissociate" SourceCode="002003002010">Great</LEXDomain>
+          </LEXDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2016-10-24 09:40:19" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>literally: only one; hence: = state in which humans or objects are considered unique and therefore entitled to special care and affection</DefinitionShort>
+              <Glosses>
+                <Gloss>precious one</Gloss>
+                <Gloss>favorite</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>02000400300016{N:001}</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+          <LEXCoreDomains>
+            <LEXCoreDomain Code="170">Status</LEXCoreDomain>
+            <LEXCoreDomain Code="004">Affection</LEXCoreDomain>
+          </LEXCoreDomains>
+        </LEXMeaning>
+        <LEXMeaning Id="002904001003000" IsBiblicalTerm="Y" EntryCode="" Indent="1">
+          <LEXDomains>
+            <LEXDomain Code="003001016" Source="Great" SourceCode="002001002012">Self</LEXDomain>
+          </LEXDomains>
+          <LEXSynonyms>
+            <LEXSynonym>נֶפֶשׁ</LEXSynonym>
+          </LEXSynonyms>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2016-10-24 09:40:19" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>literally: unique one; = the life principle that animates both humans and animals and functions as the center of their personality</DefinitionShort>
+              <Glosses>
+                <Gloss>life</Gloss>
+                <Gloss>self</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>01902202100016</LEXReference>
+            <LEXReference>01903501700022</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

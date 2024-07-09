@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="004703000000000" Lemma="σύγχυσις" Version="0" HasAramaic="false" InLXX="true" AlphaPos="σ">
+  <StrongCodes>
+    <Strong>G4799</Strong>
+  </StrongCodes>
+  <Authors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes/>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="004703001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>noun, f.</PartOfSpeech>
+      </PartsOfSpeech>
+      <Inflections>
+        <Inflection Lemma="σύγχυσις" BaseFormIndex="1">
+          <Form/>
+          <Realizations>
+            <Realization>-εως</Realization>
+          </Realizations>
+          <Comments/>
+        </Inflection>
+      </Inflections>
+      <RelatedLemmas>
+        <RelatedLemma>
+          <Word>χέω</Word>
+          <Meaning LanguageCode="en">
+            <Meaning>pour</Meaning>
+          </Meaning>
+          <Meaning LanguageCode="zhT">
+            <Meaning>倒</Meaning>
+          </Meaning>
+        </RelatedLemma>
+      </RelatedLemmas>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="004703001001000" IsBiblicalTerm="M" EntryCode="39.43" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Hostility, Strife</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Riot</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2022-03-09 11:50:36" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>disorderly mob revolt, with special implications of uproar and disturbance</DefinitionShort>
+              <Glosses>
+                <Gloss>uproar</Gloss>
+                <Gloss>revolt</Gloss>
+              </Glosses>
+              <Comments>In a number of languages the meaning of ‘riot’ may be best expressed as ‘people shouting strongly against’ or ‘people shouting and fighting against’ or ‘a mob shouting against the government.’</Comments>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04401902900012</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

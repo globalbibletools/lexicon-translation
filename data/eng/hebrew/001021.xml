@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="001021000000000" Lemma="בְּלִיל" Version="5" HasAramaic="false" InLXX="false" AlphaPos="ב">
+  <StrongCodes>
+    <Strong>H1098</Strong>
+  </StrongCodes>
+  <Authors>
+    <Author>Enio R. Mueller</Author>
+  </Authors>
+  <Contributors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes>
+    <Note Caller="1" LanguageCode="en" LastEdited="" LastEditedBy="">
+      <References>
+        <Reference>01802400600008</Reference>
+      </References>
+      <Content>{A:NJPS} NIV | {A:NRSV} REB "not their own", separating the word in two, בְּלִי לֹו</Content>
+    </Note>
+    <Note Caller="2" LanguageCode="en" LastEdited="" LastEditedBy="">
+      <References>
+        <Reference>02303002400020</Reference>
+      </References>
+      <Content>NJPS | REB "well-seasoned fodder" NRSV "silage" NIV "fodder and mash"</Content>
+    </Note>
+  </Notes>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="001021001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>nsm</PartOfSpeech>
+      </PartsOfSpeech>
+      <RelatedLemmas>
+        <RelatedLemma>
+          <Word>בלל</Word>
+        </RelatedLemma>
+      </RelatedLemmas>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="001021001001000" IsBiblicalTerm="Y" EntryCode="" Indent="0">
+          <LEXDomains>
+            <LEXDomain Code="001004003" Source="Mixed" SourceCode="002003001012">Food</LEXDomain>
+          </LEXDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2015-03-18 15:42:18" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>= mixture ◄ consisting of entire plants, including leaves, stalks, and grain; ► served as food for domestic animals</DefinitionShort>
+              <Glosses>
+                <Gloss>fodder</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>01800600500020</LEXReference>
+            <LEXReference>01802400600008{N:001}</LEXReference>
+            <LEXReference>02303002400020{N:002}</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+          <LEXCoreDomains>
+            <LEXCoreDomain Code="069">Food</LEXCoreDomain>
+            <LEXCoreDomain Code="010">Animal</LEXCoreDomain>
+          </LEXCoreDomains>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

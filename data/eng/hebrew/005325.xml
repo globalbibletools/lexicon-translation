@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="005325000000000" Lemma="עִזָּבֹון" Version="4" HasAramaic="false" InLXX="false" AlphaPos="ע">
+  <StrongCodes>
+    <Strong>H5801</Strong>
+  </StrongCodes>
+  <Authors/>
+  <Contributors/>
+  <AlternateLemmas>
+    <AlternateLemma>עִזְבֹונִים</AlternateLemma>
+  </AlternateLemmas>
+  <MainLinks/>
+  <Notes/>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="005325001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>nsm</PartOfSpeech>
+      </PartsOfSpeech>
+      <RelatedLemmas>
+        <RelatedLemma>
+          <Word>עזב</Word>
+        </RelatedLemma>
+      </RelatedLemmas>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="005325001001000" IsBiblicalTerm="Y" EntryCode="" Indent="0">
+          <LEXDomains>
+            <LEXDomain Code="001" Source="Possess" SourceCode="002003002020">Objects</LEXDomain>
+          </LEXDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2016-12-23 15:20:46" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>= goods and products that are intended for trade and commerce</DefinitionShort>
+              <Glosses>
+                <Gloss>wares</Gloss>
+                <Gloss>merchandise</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>02602701200028</LEXReference>
+            <LEXReference>02602701400020</LEXReference>
+            <LEXReference>02602701600038</LEXReference>
+            <LEXReference>02602701900014</LEXReference>
+            <LEXReference>02602702200038</LEXReference>
+            <LEXReference>02602702700006</LEXReference>
+            <LEXReference>02602703300006</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+          <LEXCoreDomains>
+            <LEXCoreDomain Code="128">Possession</LEXCoreDomain>
+            <LEXCoreDomain Code="035">Commerce</LEXCoreDomain>
+          </LEXCoreDomains>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

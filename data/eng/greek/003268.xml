@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="003268000000000" Lemma="μετοικίζω" Version="0" HasAramaic="false" InLXX="true" AlphaPos="μ">
+  <StrongCodes>
+    <Strong>G3351</Strong>
+  </StrongCodes>
+  <Authors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes/>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="003268001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>verb</PartOfSpeech>
+      </PartsOfSpeech>
+      <Inflections>
+        <Inflection Lemma="μετοικίζω" BaseFormIndex="1">
+          <Form>fut.</Form>
+          <Realizations>
+            <Realization>μετοικιῶ</Realization>
+          </Realizations>
+          <Comments/>
+        </Inflection>
+        <Inflection Lemma="μετοικίζω" BaseFormIndex="1">
+          <Form>aor.</Form>
+          <Realizations>
+            <Realization>μετῴκισα</Realization>
+          </Realizations>
+          <Comments/>
+        </Inflection>
+      </Inflections>
+      <RelatedLemmas>
+        <RelatedLemma>
+          <Word>οἰκέω</Word>
+        </RelatedLemma>
+      </RelatedLemmas>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="003268001001000" IsBiblicalTerm="Y" EntryCode="85.83" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Existence in Space</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Dwell, Reside</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-12-02 21:02:21" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>to cause someone to change a place of habitation</DefinitionShort>
+              <Glosses>
+                <Gloss>to resettle</Gloss>
+                <Gloss>to move to another place</Gloss>
+                <Gloss>to deport</Gloss>
+                <Gloss>deportation</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04400700400032</LEXReference>
+            <LEXReference>04400704300042</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

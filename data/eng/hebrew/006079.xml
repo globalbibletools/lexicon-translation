@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="006079000000000" Lemma="פְּתִיחָה" Version="5" HasAramaic="false" InLXX="false" AlphaPos="פ">
+  <StrongCodes>
+    <Strong>H6609</Strong>
+  </StrongCodes>
+  <Authors>
+    <Author>Reinier de Blois</Author>
+  </Authors>
+  <Contributors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes>
+    <Note Caller="1" LanguageCode="en" LastEdited="" LastEditedBy="">
+      <References>
+        <Reference>03300500500028</Reference>
+      </References>
+      <Content>RSV NIV NRSV "drawn sword" REB "drawn blades" | MT ESV "entrances" NJPS "gates" = {L:פֶּתַח&lt;SDBH:פֶּתַח&gt;}</Content>
+    </Note>
+  </Notes>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="006079001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>nsf</PartOfSpeech>
+      </PartsOfSpeech>
+      <RelatedLemmas>
+        <RelatedLemma>
+          <Word>פתח</Word>
+        </RelatedLemma>
+      </RelatedLemmas>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="006079001001000" IsBiblicalTerm="M" EntryCode="" Indent="0">
+          <LEXDomains>
+            <LEXDomain Code="001004001020">Weapons</LEXDomain>
+          </LEXDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2015-12-22 13:06:46" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>literally: opened sword; hence: = {L:sword&lt;SDBH:חֶרֶב&gt;} that has been removed from its scabbard ► in order to harm someone else</DefinitionShort>
+              <Glosses>
+                <Gloss>drawn sword</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>01905502200026</LEXReference>
+            <LEXReference>03300500500028{N:001}</LEXReference>
+          </LEXReferences>
+          <LEXLinks>
+            <LEXLink>Realia:2.3</LEXLink>
+          </LEXLinks>
+          <LEXVideos/>
+          <LEXCoreDomains>
+            <LEXCoreDomain Code="027">Crafts</LEXCoreDomain>
+            <LEXCoreDomain Code="006">Aggression</LEXCoreDomain>
+          </LEXCoreDomains>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

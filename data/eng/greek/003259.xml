@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="003259000000000" Lemma="μεταπέμπω" Version="0" HasAramaic="false" InLXX="true" AlphaPos="μ">
+  <StrongCodes>
+    <Strong>G3343</Strong>
+  </StrongCodes>
+  <Authors/>
+  <AlternateLemmas>
+    <AlternateLemma>μεταπέμπομαι</AlternateLemma>
+  </AlternateLemmas>
+  <MainLinks/>
+  <Notes/>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="003259001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>verb</PartOfSpeech>
+      </PartsOfSpeech>
+      <RelatedLemmas>
+        <RelatedLemma>
+          <Word>πέμπω</Word>
+        </RelatedLemma>
+      </RelatedLemmas>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="003259001001000" IsBiblicalTerm="Y" EntryCode="15.73" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Linear Movement</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Leave, Depart, Flee, Escape, Send</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXForms>
+            <LEXForm>μεταπέμπομαι</LEXForm>
+          </LEXForms>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-12-02 20:56:48" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>to send someone to obtain something or someone</DefinitionShort>
+              <Glosses>
+                <Gloss>to send for</Gloss>
+                <Gloss>to summon</Gloss>
+              </Glosses>
+              <Comments>In some languages it may be important to make somewhat more explicit some of the implied events or relationships in this phrase in {S:04401000500016}, for example, ‘ask a certain Simon called Peter to come’ or ‘deliver a message to a certain Simon called Peter asking him to come.’</Comments>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04401000500016</LEXReference>
+            <LEXReference>04401002200048</LEXReference>
+            <LEXReference>04401002900010</LEXReference>
+            <LEXReference>04401002900020</LEXReference>
+            <LEXReference>04401101300038</LEXReference>
+            <LEXReference>04402000100014</LEXReference>
+            <LEXReference>04402402400030</LEXReference>
+            <LEXReference>04402402600030</LEXReference>
+            <LEXReference>04402500300012</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

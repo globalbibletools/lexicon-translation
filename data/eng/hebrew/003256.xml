@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="003256000000000" Lemma="כֹּובַע" Version="5" HasAramaic="false" InLXX="false" AlphaPos="כ">
+  <StrongCodes>
+    <Strong>H3553</Strong>
+  </StrongCodes>
+  <Authors>
+    <Author>Reinier de Blois</Author>
+  </Authors>
+  <Contributors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes/>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="003256001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>nsm</PartOfSpeech>
+      </PartsOfSpeech>
+      <RelatedLemmas>
+        <RelatedLemma>
+          <Word>קֹובַע</Word>
+        </RelatedLemma>
+      </RelatedLemmas>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="003256001001000" IsBiblicalTerm="M" EntryCode="" Indent="0">
+          <LEXDomains>
+            <LEXDomain Code="001004001002">Clothing</LEXDomain>
+            <LEXDomain Code="001004001020">Weapons</LEXDomain>
+          </LEXDomains>
+          <LEXSynonyms>
+            <LEXSynonym>מָגֵן</LEXSynonym>
+            <LEXSynonym>קֶלַע</LEXSynonym>
+            <LEXSynonym>קֶשֶׁת</LEXSynonym>
+            <LEXSynonym>רֹמַח</LEXSynonym>
+          </LEXSynonyms>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2016-12-28 14:50:30" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>= head covering; ◄ made of metal; ► used by soldiers for protection</DefinitionShort>
+              <Glosses>
+                <Gloss>helmet</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>00901700500004</LEXReference>
+            <LEXReference>01402601400026</LEXReference>
+            <LEXReference>02305901700016</LEXReference>
+            <LEXReference>02404600400022</LEXReference>
+            <LEXReference>02602701000026</LEXReference>
+            <LEXReference>02603800500018</LEXReference>
+          </LEXReferences>
+          <LEXLinks>
+            <LEXLink>Realia:2.9</LEXLink>
+          </LEXLinks>
+          <LEXVideos/>
+          <LEXCoreDomains>
+            <LEXCoreDomain Code="027">Crafts</LEXCoreDomain>
+            <LEXCoreDomain Code="033">Clothing</LEXCoreDomain>
+            <LEXCoreDomain Code="152">Security</LEXCoreDomain>
+            <LEXCoreDomain Code="188">Warfare</LEXCoreDomain>
+          </LEXCoreDomains>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="003307000000000" Lemma="μίλιον" Version="0" HasAramaic="false" InLXX="false" AlphaPos="μ">
+  <StrongCodes>
+    <Strong>G3400</Strong>
+  </StrongCodes>
+  <Authors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes/>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="003307001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>noun, n.</PartOfSpeech>
+      </PartsOfSpeech>
+      <Inflections>
+        <Inflection Lemma="μίλιον" BaseFormIndex="1">
+          <Form/>
+          <Realizations>
+            <Realization>-ου</Realization>
+          </Realizations>
+          <Comments/>
+        </Inflection>
+      </Inflections>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="003307001001000" IsBiblicalTerm="Y" EntryCode="81.29" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Spacial Dimensions</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Specific Measures of Length</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-12-08 14:56:17" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>a Roman mile, consisting of a thousand paces and equivalent to somewhat less than an English mile but equal to about one kilometer and a half</DefinitionShort>
+              <Glosses>
+                <Gloss>mile</Gloss>
+                <Gloss>kilometer</Gloss>
+              </Glosses>
+              <Comments>In translating {S:04000504100010} in the metric system, it would be better to simply say ‘whoever forces you to carry his pack one kilometer’ rather than to attempt more specific distance, namely, ‘a kilometer and a half.’</Comments>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04000504100010</LEXReference>
+          </LEXReferences>
+          <LEXLinks>
+            <LEXLink>realia:11.4.2.5</LEXLink>
+          </LEXLinks>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

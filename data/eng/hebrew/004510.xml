@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="004510000000000" Lemma="מִשְׁמָן" Version="4" HasAramaic="false" InLXX="false" AlphaPos="מ">
+  <StrongCodes>
+    <Strong>H4924a</Strong>
+    <Strong>H4924b</Strong>
+  </StrongCodes>
+  <Authors>
+    <Author>Reinier de Blois</Author>
+  </Authors>
+  <Contributors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes/>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="004510001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>nsm</PartOfSpeech>
+      </PartsOfSpeech>
+      <RelatedLemmas>
+        <RelatedLemma>
+          <Word>שׁמן</Word>
+        </RelatedLemma>
+      </RelatedLemmas>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="004510001001000" IsBiblicalTerm="Y" EntryCode="" Indent="0">
+          <LEXDomains>
+            <LEXDomain Code="001001002" Source="Liquids" SourceCode="001006007">Creatures</LEXDomain>
+          </LEXDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2022-11-09 15:54:25" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>= oily substance found in the human body, ≈ often associated with wealth and well-being</DefinitionShort>
+              <Glosses>
+                <Gloss>fat</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>02301700400024</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+          <LEXCoreDomains>
+            <LEXCoreDomain Code="019">Body</LEXCoreDomain>
+          </LEXCoreDomains>
+        </LEXMeaning>
+        <LEXMeaning Id="004510001002000" IsBiblicalTerm="Y" EntryCode="" Indent="1">
+          <LEXDomains>
+            <LEXDomain Code="002001001046" Source="Creatures" SourceCode="001001002">Rich</LEXDomain>
+          </LEXDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2023-01-15 21:17:02" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>literally: fat (parts); hence: = places where much wealth is found</DefinitionShort>
+              <Glosses>
+                <Gloss>rich</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>02701102400010</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+          <LEXCoreDomains>
+            <LEXCoreDomain Code="192">Wealth and Poverty</LEXCoreDomain>
+          </LEXCoreDomains>
+        </LEXMeaning>
+        <LEXMeaning Id="004510001003000" IsBiblicalTerm="Y" EntryCode="" Indent="1">
+          <LEXDomains>
+            <LEXDomain Code="002001001060" Source="Creatures" SourceCode="001001002">Strong</LEXDomain>
+          </LEXDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2023-01-15 21:17:02" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>literally: fat; hence: = a person with health and energy</DefinitionShort>
+              <Glosses>
+                <Gloss>strong</Gloss>
+                <Gloss>stout</Gloss>
+                <Gloss>sturdy</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>01907803100018</LEXReference>
+            <LEXReference>02301001600016</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+          <LEXCoreDomains>
+            <LEXCoreDomain Code="019">Body</LEXCoreDomain>
+            <LEXCoreDomain Code="172">Strength</LEXCoreDomain>
+          </LEXCoreDomains>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

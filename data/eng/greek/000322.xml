@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="000322000000000" Lemma="ἀνάγνωσις" Version="0" HasAramaic="false" InLXX="true" AlphaPos="α">
+  <StrongCodes>
+    <Strong>G0320</Strong>
+  </StrongCodes>
+  <Authors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes>
+    <Note Caller="1" LanguageCode="en" LastEdited="" LastEditedBy="">
+      <References/>
+      <Content>ἀναγινώσκω and ἀνάγνωσις are placed in this subdomain as a type of semantic converse of γράφω ({D:33.61}) and related terms meaning ‘to write.’</Content>
+    </Note>
+  </Notes>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="000322001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>noun, f.</PartOfSpeech>
+      </PartsOfSpeech>
+      <Inflections>
+        <Inflection Lemma="ἀνάγνωσις" BaseFormIndex="1">
+          <Form/>
+          <Realizations>
+            <Realization>-εως</Realization>
+          </Realizations>
+          <Comments/>
+        </Inflection>
+      </Inflections>
+      <RelatedLemmas>
+        <RelatedLemma>
+          <Word>γινώσκω</Word>
+        </RelatedLemma>
+      </RelatedLemmas>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="000322001001000" IsBiblicalTerm="Y" EntryCode="33.68" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Communication</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Written Language</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-08-03 13:01:47" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>to read something written, normally done aloud and thus involving verbalization{N:001}</DefinitionShort>
+              <Glosses>
+                <Gloss>to read</Gloss>
+                <Gloss>reading</Gloss>
+              </Glosses>
+              <Comments>In areas where literacy is a relatively new factor in the culture, idiomatic expressions are often employed for reading, for example, ‘to let paper speak’ or ‘to mouth the marks on paper’ or ‘to see speech.’</Comments>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04401301500008</LEXReference>
+            <LEXReference>04700301400032</LEXReference>
+            <LEXReference>05400401300010</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

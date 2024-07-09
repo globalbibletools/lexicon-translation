@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="004400000000000" Lemma="מְרִיבָה" Version="4" HasAramaic="false" InLXX="false" AlphaPos="מ">
+  <StrongCodes>
+    <Strong>H4808</Strong>
+    <Strong>H4809</Strong>
+  </StrongCodes>
+  <Authors>
+    <Author>Reinier de Blois</Author>
+  </Authors>
+  <Contributors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes/>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="004400001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>nsf</PartOfSpeech>
+      </PartsOfSpeech>
+      <RelatedLemmas>
+        <RelatedLemma>
+          <Word>ריב</Word>
+        </RelatedLemma>
+      </RelatedLemmas>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="004400001001000" IsBiblicalTerm="M" EntryCode="" Indent="0">
+          <LEXDomains>
+            <LEXDomain Code="002003002007">Conflict</LEXDomain>
+          </LEXDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2017-12-19 15:36:23" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>= state of opposition or hostility between two or more persons</DefinitionShort>
+              <Glosses>
+                <Gloss>dispute, quarrel, strife, argument</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>00101300800018</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+          <LEXCoreDomains>
+            <LEXCoreDomain Code="044">Conflict</LEXCoreDomain>
+          </LEXCoreDomains>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+    <BaseForm Id="004400002000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>np</PartOfSpeech>
+      </PartsOfSpeech>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="004400002001000" IsBiblicalTerm="M" EntryCode="" Indent="0">
+          <LEXDomains>
+            <LEXDomain Code="003001010">Names of Locations</LEXDomain>
+          </LEXDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2017-03-09 11:32:05" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>= location, also called {L:Massah&lt;SDBH:מַסָּה&gt;} ► along the route of the exodus; one of the places where the {L:Israelites&lt;SDBH:יִשְׂרָאֵל&gt;} rebelled against {L:Moses&lt;SDBH:מֹשֶׁה&gt;} because of a lack of water</DefinitionShort>
+              <Glosses>
+                <Gloss>Meribah</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>00201700700016</LEXReference>
+            <LEXReference>00402001300006</LEXReference>
+            <LEXReference>00402002400046</LEXReference>
+            <LEXReference>00402701400018</LEXReference>
+            <LEXReference>00402701400042</LEXReference>
+            <LEXReference>00503205100022</LEXReference>
+            <LEXReference>00503300800036</LEXReference>
+            <LEXReference>01908100800028</LEXReference>
+            <LEXReference>01909500800010</LEXReference>
+            <LEXReference>01910603200010</LEXReference>
+            <LEXReference>02604701900018</LEXReference>
+            <LEXReference>02604802800030</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+          <LEXCoordinates>
+            <LEXCoordinates>28.731061,33.841699</LEXCoordinates>
+          </LEXCoordinates>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

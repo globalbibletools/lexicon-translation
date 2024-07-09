@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="004604000000000" Lemma="σπόριμος" Version="0" HasAramaic="false" InLXX="true" AlphaPos="σ">
+  <StrongCodes>
+    <Strong>G4702</Strong>
+  </StrongCodes>
+  <Authors/>
+  <AlternateLemmas>
+    <AlternateLemma>σπόριμα</AlternateLemma>
+  </AlternateLemmas>
+  <MainLinks/>
+  <Notes/>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="004604001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>adjc.</PartOfSpeech>
+      </PartsOfSpeech>
+      <Inflections>
+        <Inflection Lemma="σπόριμος" BaseFormIndex="1">
+          <Form/>
+          <Realizations>
+            <Realization>-ον</Realization>
+          </Realizations>
+          <Comments/>
+        </Inflection>
+      </Inflections>
+      <RelatedLemmas>
+        <RelatedLemma>
+          <Word>σπείρω</Word>
+        </RelatedLemma>
+      </RelatedLemmas>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="004604001001000" IsBiblicalTerm="Y" EntryCode="43.7" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Agriculture</LEXDomain>
+          </LEXDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2022-02-17 02:27:00" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>(derivative of {L:σπείρω&lt;SDBG:σπείρω:000000&gt;} ‘to sow,’ {D:43.6}) grain growing in a field</DefinitionShort>
+              <Glosses>
+                <Gloss>standing grain</Gloss>
+                <Gloss>grain fields</Gloss>
+              </Glosses>
+              <Comments>In a number of languages there are distinct terms for various stages of growth of grain, and in view of the context of the account in {S:04100202300020} and parallel passages, it is important to indicate that the grain was essentially ripe.</Comments>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04001200100024</LEXReference>
+            <LEXReference>04100202300020</LEXReference>
+            <LEXReference>04200600100016</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

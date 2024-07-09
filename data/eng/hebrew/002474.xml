@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="002474000000000" Lemma="חצץ" Version="5" HasAramaic="false" InLXX="false" AlphaPos="ח">
+  <StrongCodes>
+    <Strong>H2686</Strong>
+  </StrongCodes>
+  <Authors>
+    <Author>Reinier de Blois</Author>
+  </Authors>
+  <Contributors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes>
+    <Note Caller="1" LanguageCode="en" LastEdited="" LastEditedBy="">
+      <References>
+        <Reference>00700501100006</Reference>
+      </References>
+      <Content>-HOTTP-A MT KB CEV | BDB NJPS "archers" | RSV NRSV "musicians" | NIV "singers" | NJB "shepherds" | REB "merrymakers" | GNT "noisy crowds"</Content>
+    </Note>
+    <Note Caller="2" LanguageCode="en" LastEdited="" LastEditedBy="">
+      <References>
+        <Reference>01802102100020</Reference>
+      </References>
+      <Content>This passage is somewhat obscure. Most translations have translated this occurrence of {L:חצץ&lt;SDBH:חצץ&gt;} as "to cut off, which may fit the context well. Nevertheless the interpretation chosen here is closer to the way this verb is used in other passages.</Content>
+    </Note>
+  </Notes>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="002474001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>vb</PartOfSpeech>
+      </PartsOfSpeech>
+      <RelatedLemmas>
+        <RelatedLemma>
+          <Word>חֵץ</Word>
+        </RelatedLemma>
+        <RelatedLemma>
+          <Word>חֵצִי</Word>
+        </RelatedLemma>
+        <RelatedLemma>
+          <Word>חָצָץ</Word>
+        </RelatedLemma>
+      </RelatedLemmas>
+      <RelatedNames>
+        <RelatedName>
+          <Word>חַצְצֹן תָּמָר</Word>
+        </RelatedName>
+      </RelatedNames>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="002474001001000" IsBiblicalTerm="Y" EntryCode="" Indent="0">
+          <LEXDomains>
+            <LEXDomain Code="002003001006">Divide</LEXDomain>
+          </LEXDomains>
+          <LEXForms>
+            <LEXForm>vbqal-</LEXForm>
+          </LEXForms>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2016-12-22 13:09:51" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>= action by which insects divides themselves into orderly groups ◄ like an army</DefinitionShort>
+              <Glosses>
+                <Gloss>to march in formation</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>02003002700016</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+          <LEXCoreDomains>
+            <LEXCoreDomain Code="110">Motion</LEXCoreDomain>
+            <LEXCoreDomain Code="138">Quantity</LEXCoreDomain>
+          </LEXCoreDomains>
+        </LEXMeaning>
+        <LEXMeaning Id="002474001002000" IsBiblicalTerm="Y" EntryCode="" Indent="0">
+          <LEXDomains>
+            <LEXDomain Code="002003001006">Divide</LEXDomain>
+          </LEXDomains>
+          <LEXForms>
+            <LEXForm>vbpiel</LEXForm>
+          </LEXForms>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2016-12-22 13:09:51" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>= to divide an object into portions and share them out among a group of people</DefinitionShort>
+              <Glosses>
+                <Gloss>to distribute</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>00700501100006{N:001}</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+          <LEXCoreDomains>
+            <LEXCoreDomain Code="038">Completeness</LEXCoreDomain>
+          </LEXCoreDomains>
+        </LEXMeaning>
+        <LEXMeaning Id="002474001003000" IsBiblicalTerm="Y" EntryCode="" Indent="0">
+          <LEXDomains>
+            <LEXDomain Code="002004002014" Source="Divide" SourceCode="002003001006">Think</LEXDomain>
+          </LEXDomains>
+          <LEXForms>
+            <LEXForm>vbpual (passive)</LEXForm>
+          </LEXForms>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2016-12-22 13:09:51" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>= action by which someone determines an amount of time for humans to perform an event</DefinitionShort>
+              <Glosses>
+                <Gloss>to allot (a number or months)</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>01802102100020{N:002}</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+          <LEXCoreDomains>
+            <LEXCoreDomain Code="138">Quantity</LEXCoreDomain>
+            <LEXCoreDomain Code="180">Time</LEXCoreDomain>
+          </LEXCoreDomains>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

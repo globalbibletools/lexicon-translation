@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="001020000000000" Lemma="βούλημα" Version="0" HasAramaic="false" InLXX="true" AlphaPos="β">
+  <StrongCodes>
+    <Strong>G1013</Strong>
+  </StrongCodes>
+  <Authors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes>
+    <Note Caller="1" LanguageCode="en" LastEdited="" LastEditedBy="">
+      <References>
+        <Reference>04500901900020</Reference>
+      </References>
+      <Content>It is also possible to understand βούλημα in {S:04500901900020} as ‘what God desires or wills’ (see {D:25.4}).</Content>
+    </Note>
+  </Notes>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="001020001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>noun, n.</PartOfSpeech>
+      </PartsOfSpeech>
+      <Inflections>
+        <Inflection Lemma="βούλημα" BaseFormIndex="1">
+          <Form/>
+          <Realizations>
+            <Realization>-τος</Realization>
+          </Realizations>
+          <Comments/>
+        </Inflection>
+      </Inflections>
+      <RelatedLemmas>
+        <RelatedLemma>
+          <Word>βούλομαι</Word>
+        </RelatedLemma>
+      </RelatedLemmas>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="001020001001000" IsBiblicalTerm="Y" EntryCode="25.4" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Attitudes and Emotions</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Desire, Want, Wish</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-02-09 23:58:57" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>(derivative of {L:βούλομαι&lt;SDBG:βούλομαι:000000&gt;}[a] ‘to desire,’ {D:25.3}) that which is desired, with the implication of accompanying planning and will</DefinitionShort>
+              <Glosses>
+                <Gloss>desire</Gloss>
+                <Gloss>want</Gloss>
+                <Gloss>will</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>06000400300014</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+        <LEXMeaning Id="001020001002000" IsBiblicalTerm="Y" EntryCode="30.57" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Think</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>To Intend, To Purpose, To Plan</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-02-09 23:58:57" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>(derivative of {L:βούλομαι&lt;SDBG:βούλομαι:000001&gt;}[b] and {L:βουλεύομαι&lt;SDBG:βουλεύομαι:000000&gt;}[a] ‘to purpose, to plan, to intend,’ {D:30.56}) that which has been purposed and planned</DefinitionShort>
+              <Glosses>
+                <Gloss>plan</Gloss>
+                <Gloss>intention</Gloss>
+                <Gloss>purpose</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04402704300022</LEXReference>
+            <LEXReference>04500901900020{N:001}</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

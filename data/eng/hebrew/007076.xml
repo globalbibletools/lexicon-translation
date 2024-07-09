@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="007076000000000" Lemma="שׂפח" Version="3" HasAramaic="false" InLXX="false" AlphaPos="ש">
+  <StrongCodes>
+    <Strong>H5596b</Strong>
+  </StrongCodes>
+  <Authors>
+    <Author>Reinier de Blois</Author>
+  </Authors>
+  <Contributors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes>
+    <Note Caller="1" LanguageCode="en" LastEdited="" LastEditedBy="">
+      <References>
+        <Reference>02300301700004</Reference>
+      </References>
+      <Content>RSV NRSV ESV "scab(s)" NIV CEV "sores" NJB "scabby" = [1a] | REB "baldness" GNT "shave" = [2a]</Content>
+    </Note>
+  </Notes>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="007076001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>vb</PartOfSpeech>
+      </PartsOfSpeech>
+      <RelatedLemmas>
+        <RelatedLemma>
+          <Word>מִשְׂפָּח</Word>
+        </RelatedLemma>
+      </RelatedLemmas>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="007076001001000" IsBiblicalTerm="" EntryCode="" Indent="0">
+          <LEXDomains>
+            <LEXDomain Code="002001001023">Impact</LEXDomain>
+          </LEXDomains>
+          <LEXForms>
+            <LEXForm>vbpiel</LEXForm>
+          </LEXForms>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2022-09-04 17:46:26" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>meaning unknown; possibly: = causative action by which deities cause part of people's bodies to be covered with crusts, possibly suggesting that they had been cut or wounded; ≈ associated with humiliation</DefinitionShort>
+              <Glosses>
+                <Gloss>to make scabby</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>02300301700004{N:001}</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+          <LEXCoreDomains>
+            <LEXCoreDomain Code="076">Health and Sickness</LEXCoreDomain>
+            <LEXCoreDomain Code="170">Status</LEXCoreDomain>
+          </LEXCoreDomains>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+    <BaseForm Id="007076002000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>vb</PartOfSpeech>
+      </PartsOfSpeech>
+      <RelatedLemmas>
+        <RelatedLemma>
+          <Word>מִשְׂפָּח</Word>
+        </RelatedLemma>
+      </RelatedLemmas>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="007076002001000" IsBiblicalTerm="" EntryCode="" Indent="0">
+          <LEXDomains>
+            <LEXDomain Code="002003001018">Uncover</LEXDomain>
+          </LEXDomains>
+          <LEXForms>
+            <LEXForm>vbpiel</LEXForm>
+          </LEXForms>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2022-09-04 17:46:26" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>meaning unknown; possibly: = causative action by which deities cause part of people's bodies to be no longer covered by either hair or clothes; ≈ associated with humiliation</DefinitionShort>
+              <Glosses>
+                <Gloss>to make bald</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>02300301700004{N:001}</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+          <LEXCoreDomains>
+            <LEXCoreDomain Code="019">Body</LEXCoreDomain>
+            <LEXCoreDomain Code="033">Clothing</LEXCoreDomain>
+            <LEXCoreDomain Code="170">Status</LEXCoreDomain>
+          </LEXCoreDomains>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

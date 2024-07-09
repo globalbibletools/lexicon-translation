@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="002673000000000" Lemma="καταπέτασμα" Version="0" HasAramaic="false" InLXX="true" AlphaPos="κ">
+  <StrongCodes>
+    <Strong>G2665</Strong>
+  </StrongCodes>
+  <Authors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes/>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="002673001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>noun, n.</PartOfSpeech>
+      </PartsOfSpeech>
+      <Inflections>
+        <Inflection Lemma="καταπέτασμα" BaseFormIndex="1">
+          <Form/>
+          <Realizations>
+            <Realization>-τος</Realization>
+          </Realizations>
+          <Comments/>
+        </Inflection>
+      </Inflections>
+      <RelatedLemmas>
+        <RelatedLemma>
+          <Word>πέτομαι</Word>
+        </RelatedLemma>
+      </RelatedLemmas>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="002673001001000" IsBiblicalTerm="M" EntryCode="6.160" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Artifacts</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Cloth, Leather, and Objects Made of Such Materials</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-09-23 10:46:35" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>a hanging of cloth over an opening</DefinitionShort>
+              <Glosses>
+                <Gloss>drape</Gloss>
+                <Gloss>curtain</Gloss>
+                <Gloss>veil</Gloss>
+              </Glosses>
+              <Comments>The καταπέτασμα of the Temple has been traditionally called in English a ‘veil,’ but a literal correspondence of ‘veil’ would be misleading, since it would suggest something which merely covers the face. At the same time a typical correspondence of ‘curtain’ could be misleading, since it would suggest something which covers a window. In some languages the most appropriate equivalent for καταπέτασμα in the context of {S:04002705100008} is ‘drape,’ but frequently it is necessary to use some kind of descriptive equivalent, for example, ‘a large piece of cloth hanging down from the ceiling’ or ‘a large piece of cloth covering the entrance.’</Comments>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04002705100008</LEXReference>
+            <LEXReference>04101503800006</LEXReference>
+            <LEXReference>04202304500014</LEXReference>
+            <LEXReference>05800601900034</LEXReference>
+            <LEXReference>05800900300010</LEXReference>
+            <LEXReference>05801002000020</LEXReference>
+          </LEXReferences>
+          <LEXLinks>
+            <LEXLink>realia:3.14.1.6</LEXLink>
+          </LEXLinks>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="007861000000000" Lemma="תְּנוּאָה" Version="5" HasAramaic="false" InLXX="false" AlphaPos="ת">
+  <StrongCodes>
+    <Strong>H8569</Strong>
+  </StrongCodes>
+  <Authors>
+    <Author>Reinier de Blois</Author>
+  </Authors>
+  <Contributors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes>
+    <Note Caller="1" LanguageCode="en" LastEdited="" LastEditedBy="">
+      <References>
+        <Reference>00401403400056</Reference>
+      </References>
+      <Content>NJPS "what it means to thwart (me)" | RSV NRSV ESV "displeasure" | NIV "what it is to have (me) against you" REB "to have (me) against you" GNT "what it means to have (me) against you"</Content>
+    </Note>
+    <Note Caller="2" LanguageCode="en" LastEdited="" LastEditedBy="">
+      <References>
+        <Reference>01803301000004</Reference>
+      </References>
+      <Content>NJPS "reasons to oppose" | RSV NRSV REB ESV "occasions" GNT "excuses" | NIV "fault"</Content>
+    </Note>
+  </Notes>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="007861001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>nsf</PartOfSpeech>
+      </PartsOfSpeech>
+      <RelatedLemmas>
+        <RelatedLemma>
+          <Word>נוא</Word>
+        </RelatedLemma>
+      </RelatedLemmas>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="007861001001000" IsBiblicalTerm="Y" EntryCode="" Indent="0">
+          <LEXDomains>
+            <LEXDomain Code="002001002031">Unwilling</LEXDomain>
+          </LEXDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2017-03-04 19:03:18" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>= causative action by which humans or deities use their influence or authority to keep something from happening</DefinitionShort>
+              <Glosses>
+                <Gloss>hindering</Gloss>
+                <Gloss>opposing</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>00401403400056{N:001}</LEXReference>
+            <LEXReference>01803301000004{N:002}</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+          <LEXCoreDomains>
+            <LEXCoreDomain Code="106">Mind</LEXCoreDomain>
+          </LEXCoreDomains>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

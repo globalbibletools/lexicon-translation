@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="004017000000000" Lemma="מִלֻּאִים" Version="4" HasAramaic="false" InLXX="false" AlphaPos="מ">
+  <StrongCodes>
+    <Strong>H4394</Strong>
+  </StrongCodes>
+  <Authors>
+    <Author>Reinier de Blois</Author>
+  </Authors>
+  <Contributors/>
+  <AlternateLemmas>
+    <AlternateLemma>מִלּוּאִים</AlternateLemma>
+  </AlternateLemmas>
+  <MainLinks/>
+  <Notes/>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="004017001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>nsm</PartOfSpeech>
+      </PartsOfSpeech>
+      <RelatedLemmas>
+        <RelatedLemma>
+          <Word>מלא</Word>
+        </RelatedLemma>
+      </RelatedLemmas>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="004017001001000" IsBiblicalTerm="M" EntryCode="" Indent="0">
+          <LEXDomains>
+            <LEXDomain Code="001004001011" Source="Contain" SourceCode="002002001003">Jewellery</LEXDomain>
+          </LEXDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2016-12-12 00:28:14" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>= a piece of metal in which a precious stone or gem is fixed to form a piece of jewellery</DefinitionShort>
+              <Glosses>
+                <Gloss>setting</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>00202500700010</LEXReference>
+            <LEXReference>00203500900012</LEXReference>
+            <LEXReference>00203502700026</LEXReference>
+            <LEXReference>01302900200080</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+          <LEXCoreDomains>
+            <LEXCoreDomain Code="027">Crafts</LEXCoreDomain>
+          </LEXCoreDomains>
+        </LEXMeaning>
+        <LEXMeaning Id="004017001002000" IsBiblicalTerm="M" EntryCode="" Indent="0">
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2016-12-12 00:28:14" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>= process by which a person is ordained to be a priest</DefinitionShort>
+              <Glosses>
+                <Gloss>ordination</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>00202902200086</LEXReference>
+            <LEXReference>00202902600018</LEXReference>
+            <LEXReference>00202902700040</LEXReference>
+            <LEXReference>00202903100010</LEXReference>
+            <LEXReference>00202903400014</LEXReference>
+            <LEXReference>00300703700042</LEXReference>
+            <LEXReference>00300802200020</LEXReference>
+            <LEXReference>00300802800030</LEXReference>
+            <LEXReference>00300802900032</LEXReference>
+            <LEXReference>00300803100056</LEXReference>
+            <LEXReference>00300803300028</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+          <LEXCoreDomains>
+            <LEXCoreDomain Code="132">Priesthood</LEXCoreDomain>
+          </LEXCoreDomains>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

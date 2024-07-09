@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="004243000000000" Lemma="מַעֲרֶכֶת" Version="4" HasAramaic="false" InLXX="false" AlphaPos="מ">
+  <StrongCodes>
+    <Strong>H4635</Strong>
+  </StrongCodes>
+  <Authors>
+    <Author>Reinier de Blois</Author>
+  </Authors>
+  <Contributors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes/>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="004243001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>nsf</PartOfSpeech>
+      </PartsOfSpeech>
+      <RelatedLemmas>
+        <RelatedLemma>
+          <Word>ערך</Word>
+        </RelatedLemma>
+      </RelatedLemmas>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="004243001001000" IsBiblicalTerm="Y" EntryCode="" Indent="0">
+          <LEXDomains>
+            <LEXDomain Code="002002001001">Arrange</LEXDomain>
+          </LEXDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2006-02-24 17:05:27" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>= state in which objects are arranged in a certain order</DefinitionShort>
+              <Glosses>
+                <Gloss>row</Gloss>
+                <Gloss>layer</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>00302400600010</LEXReference>
+            <LEXReference>00302400600016</LEXReference>
+            <LEXReference>00302400700010</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+        <LEXMeaning Id="004243001002000" IsBiblicalTerm="Y" EntryCode="" Indent="0">
+          <LEXDomains>
+            <LEXDomain Code="001004003" Source="Arrange" SourceCode="002002001001">Food</LEXDomain>
+          </LEXDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2022-11-21 17:06:15" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>= the bread that was to be displayed in two rows of six on the table in the sanctuary</DefinitionShort>
+              <Glosses>
+                <Gloss>showbread</Gloss>
+                <Gloss>bread of display</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>01300903200022</LEXReference>
+            <LEXReference>01302302900010</LEXReference>
+            <LEXReference>01302801600018</LEXReference>
+            <LEXReference>01400200300038</LEXReference>
+            <LEXReference>01401301100046</LEXReference>
+            <LEXReference>01402901800054</LEXReference>
+            <LEXReference>01601003400008</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

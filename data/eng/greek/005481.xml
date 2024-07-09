@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="005481000000000" Lemma="ψωμίον" Version="0" HasAramaic="false" InLXX="false" AlphaPos="ψ">
+  <StrongCodes>
+    <Strong>G5596</Strong>
+  </StrongCodes>
+  <Authors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes/>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="005481001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>noun, n.</PartOfSpeech>
+      </PartsOfSpeech>
+      <Inflections>
+        <Inflection Lemma="ψωμίον" BaseFormIndex="1">
+          <Form/>
+          <Realizations>
+            <Realization>-ου</Realization>
+          </Realizations>
+          <Comments/>
+        </Inflection>
+      </Inflections>
+      <RelatedLemmas>
+        <RelatedLemma>
+          <Word>ψώχω</Word>
+        </RelatedLemma>
+      </RelatedLemmas>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="005481001001000" IsBiblicalTerm="M" EntryCode="5.4" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Foods and Condiments</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Food</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2022-06-06 16:54:19" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>a small piece or bit of bread</DefinitionShort>
+              <Glosses>
+                <Gloss>a piece of bread</Gloss>
+                <Gloss>a bit of bread</Gloss>
+              </Glosses>
+              <Comments>In {S:04301302600034} it may be necessary to use a phrase such as ‘a broken-off piece of bread’; otherwise the inference might be that the ψωμίον was simply a scrap or crumb of bread. In some languages the appropriate equivalent of ψωμίον in this type of context is ‘a bite of bread.’</Comments>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04301302600020</LEXReference>
+            <LEXReference>04301302600034</LEXReference>
+            <LEXReference>04301302700008</LEXReference>
+            <LEXReference>04301303000008</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="000214000000000" Lemma="ἀλεκτοροφωνία" Version="0" HasAramaic="false" InLXX="false" AlphaPos="α">
+  <StrongCodes>
+    <Strong>G0219</Strong>
+  </StrongCodes>
+  <Authors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes/>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="000214001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>noun, f.</PartOfSpeech>
+      </PartsOfSpeech>
+      <Inflections>
+        <Inflection Lemma="ἀλεκτοροφωνία" BaseFormIndex="1">
+          <Form/>
+          <Realizations>
+            <Realization>-ας</Realization>
+          </Realizations>
+          <Comments/>
+        </Inflection>
+      </Inflections>
+      <Constructs>
+        <Construct Lemma="ἀλεκτοροφωνία" BaseFormIndex="1">
+          <WordMeaningSet>
+            <Word>ἀλέκτωρ</Word>
+          </WordMeaningSet>
+          <WordMeaningSet>
+            <Word>φωνέω</Word>
+          </WordMeaningSet>
+        </Construct>
+      </Constructs>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="000214001001000" IsBiblicalTerm="Y" EntryCode="67.198" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Time</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Definite Units of Time: Year, Month, Week, Day, Hour</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-05-23 15:12:16" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>the name of the third Roman watch during the night, called ‘cockcrow’ (see {L:φυλακή&lt;SDBG:φυλακή:000002&gt;}[c] ‘watch,’ {D:67.196})</DefinitionShort>
+              <Glosses>
+                <Gloss>before dawn</Gloss>
+                <Gloss>when the cock crows</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04101303500034</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

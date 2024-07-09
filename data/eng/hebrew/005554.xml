@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="005554000000000" Lemma="ענן" Version="4" HasAramaic="false" InLXX="false" AlphaPos="ע">
+  <StrongCodes>
+    <Strong>H6049</Strong>
+  </StrongCodes>
+  <Authors>
+    <Author>Reinier de Blois</Author>
+  </Authors>
+  <Contributors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes/>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="005554001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>vb</PartOfSpeech>
+      </PartsOfSpeech>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="005554001001000" IsBiblicalTerm="M" EntryCode="" Indent="0">
+          <LEXDomains>
+            <LEXDomain Code="002003003008">Divination</LEXDomain>
+          </LEXDomains>
+          <LEXForms>
+            <LEXForm>vbpoel</LEXForm>
+          </LEXForms>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2017-11-15 08:23:23" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>= action by which someone foretells future events by using magic, casting spells, or conjuring up spirits; forbidden by the Law of Moses</DefinitionShort>
+              <Glosses>
+                <Gloss>to practice soothsaying, divination</Gloss>
+                <Gloss>to tell fortunes, the future</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>00301902600020</LEXReference>
+            <LEXReference>00501801000026</LEXReference>
+            <LEXReference>00501801400022</LEXReference>
+            <LEXReference>00700903700048</LEXReference>
+            <LEXReference>01202100600018</LEXReference>
+            <LEXReference>01403300600026</LEXReference>
+            <LEXReference>02300200600022</LEXReference>
+            <LEXReference>02305700300012</LEXReference>
+            <LEXReference>02402700900030</LEXReference>
+            <LEXReference>03300501100014</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+    <BaseForm Id="005554002000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>vb</PartOfSpeech>
+      </PartsOfSpeech>
+      <RelatedLemmas>
+        <RelatedLemma>
+          <Word>עָנָן</Word>
+        </RelatedLemma>
+        <RelatedLemma>
+          <Word>עֲנָנָה</Word>
+        </RelatedLemma>
+      </RelatedLemmas>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="005554002001000" IsBiblicalTerm="Y" EntryCode="" Indent="0">
+          <LEXDomains>
+            <LEXDomain Code="002002003003">Happen</LEXDomain>
+          </LEXDomains>
+          <LEXForms>
+            <LEXForm>vbpiel</LEXForm>
+          </LEXForms>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2017-11-15 08:23:23" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>= causative action by which a deity causes {L:clouds&lt;SDBH:עָנָן&gt;} to appear</DefinitionShort>
+              <Glosses>
+                <Gloss>to bring clouds</Gloss>
+                <Gloss>to cause clouds to appear</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>00100901400008</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

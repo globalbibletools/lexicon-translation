@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="000980000000000" Lemma="βιαστής" Version="0" HasAramaic="false" InLXX="false" AlphaPos="β">
+  <StrongCodes>
+    <Strong>G0973</Strong>
+  </StrongCodes>
+  <Authors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes/>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="000980001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>noun, m.</PartOfSpeech>
+      </PartsOfSpeech>
+      <Inflections>
+        <Inflection Lemma="βιαστής" BaseFormIndex="1">
+          <Form/>
+          <Realizations>
+            <Realization>-οῦ</Realization>
+          </Realizations>
+          <Comments/>
+        </Inflection>
+      </Inflections>
+      <RelatedLemmas>
+        <RelatedLemma>
+          <Word>βιάζω</Word>
+        </RelatedLemma>
+      </RelatedLemmas>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="000980001001000" IsBiblicalTerm="Y" EntryCode="20.11" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Violence, Harm, Destroy, Kill</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Violence</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-02-05 11:16:12" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>(derivative of βιάζομαι[b] ‘to use violence,’ {D:20.10}) a person who employs violence in order to accomplish his purpose</DefinitionShort>
+              <Glosses>
+                <Gloss>violent person</Gloss>
+              </Glosses>
+              <Comments>See the comment at {D:20.10} for a discussion of some of the problems involved in the interpretation of this type of expression.</Comments>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04001101200032</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="003208000000000" Lemma="μελίσσιος" Version="0" HasAramaic="false" InLXX="false" AlphaPos="μ">
+  <StrongCodes/>
+  <Authors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes/>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="003208001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>noun, n.</PartOfSpeech>
+      </PartsOfSpeech>
+      <Inflections>
+        <Inflection Lemma="μελίσσιος" BaseFormIndex="1">
+          <Form/>
+          <Realizations>
+            <Realization>-ον</Realization>
+          </Realizations>
+          <Comments/>
+        </Inflection>
+      </Inflections>
+      <RelatedLemmas>
+        <RelatedLemma>
+          <Word>μέλι</Word>
+        </RelatedLemma>
+      </RelatedLemmas>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="003208001001000" IsBiblicalTerm="Y" EntryCode="4.50" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Animals</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Insects</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-11-24 12:29:51" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>(derivative of μέλισσα ‘bee,’ not occurring in the NT) pertaining to bees</DefinitionShort>
+              <Glosses>
+                <Gloss>of bees</Gloss>
+              </Glosses>
+              <Comments>In the Textus Receptus of {S:04202404200014} μελίσσιος occurs in a phrase meaning ‘from honeycomb of bees.’ This reference to the honeycomb occurs only in the apparatus of the UBS Greek New Testament.</Comments>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04202404200014</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

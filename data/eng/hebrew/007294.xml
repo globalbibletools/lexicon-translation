@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="007294000000000" Lemma="שַׁחַף" Version="5" HasAramaic="false" InLXX="false" AlphaPos="ש">
+  <StrongCodes>
+    <Strong>H7828</Strong>
+  </StrongCodes>
+  <Authors>
+    <Author>Reinier de Blois</Author>
+  </Authors>
+  <Contributors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes>
+    <Note Caller="1" LanguageCode="en" LastEdited="" LastEditedBy="">
+      <References>
+        <Reference>00301101600026</Reference>
+        <Reference>00501401500026</Reference>
+      </References>
+      <Content>RSV NIV NJPS NJB NRSV "gull, seagull"; REB "long-eared owl"</Content>
+    </Note>
+  </Notes>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="007294001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>nsm</PartOfSpeech>
+      </PartsOfSpeech>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="007294001001000" IsBiblicalTerm="M" EntryCode="" Indent="0">
+          <LEXDomains>
+            <LEXDomain Code="001001002001005">Birds</LEXDomain>
+          </LEXDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2015-12-28 11:28:09" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>= seabird, living on the coasts of large bodies of water; white with gray or black back and upper wing surfaces; it has long flexible wings; it feeds on fish or plankton, usually settling on the water to feed; some dive into the water for their food, and many are also shoreline scavengers, eating dead fish, crabs, and shellfish; Larus ridibundus, Larus argentatus, ◄ Sterna hirundo, Sterna albifrons; ► unclean and therefore not to be eaten</DefinitionShort>
+              <Glosses>
+                <Gloss>seagull</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>00301101600026{N:001}</LEXReference>
+            <LEXReference>00501401500026{N:001}</LEXReference>
+          </LEXReferences>
+          <LEXLinks>
+            <LEXLink>Fauna:3.20</LEXLink>
+          </LEXLinks>
+          <LEXVideos/>
+          <LEXCoreDomains>
+            <LEXCoreDomain Code="010">Animal</LEXCoreDomain>
+          </LEXCoreDomains>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

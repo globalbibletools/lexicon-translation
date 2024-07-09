@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="004535000000000" Lemma="σκευή" Version="0" HasAramaic="false" InLXX="false" AlphaPos="σ">
+  <StrongCodes>
+    <Strong>G4631</Strong>
+  </StrongCodes>
+  <Authors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes/>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="004535001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>noun, f.</PartOfSpeech>
+      </PartsOfSpeech>
+      <Inflections>
+        <Inflection Lemma="σκευή" BaseFormIndex="1">
+          <Form/>
+          <Realizations>
+            <Realization>-ῆς</Realization>
+          </Realizations>
+          <Comments/>
+        </Inflection>
+      </Inflections>
+      <RelatedLemmas>
+        <RelatedLemma>
+          <Word>σκεῦος</Word>
+        </RelatedLemma>
+      </RelatedLemmas>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="004535001001000" IsBiblicalTerm="Y" EntryCode="6.2" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Artifacts</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Artifacts [General Meaning]</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2022-02-11 12:01:34" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>a collective for any kind of artifact which may be referred to by {L:σκεῦος&lt;SDBG:σκεῦος:000000&gt;}[a] ‘object, thing’ ({D:6.1})</DefinitionShort>
+              <Glosses>
+                <Gloss>things</Gloss>
+                <Gloss>equipment</Gloss>
+              </Glosses>
+              <Comments>Wherever possible, it is useful to employ a rather specific term if this is well known in a receptor language. For example, instead of ‘things of a ship’ one may use ‘ship’s gear’ or ‘ship’s rigging.’</Comments>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04402701900012</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

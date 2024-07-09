@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="003804000000000" Lemma="παρασκευή" Version="0" HasAramaic="false" InLXX="true" AlphaPos="π">
+  <StrongCodes>
+    <Strong>G3904</Strong>
+  </StrongCodes>
+  <Authors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes/>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="003804001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>noun, f.</PartOfSpeech>
+      </PartsOfSpeech>
+      <Inflections>
+        <Inflection Lemma="παρασκευή" BaseFormIndex="1">
+          <Form/>
+          <Realizations>
+            <Realization>-ῆς</Realization>
+          </Realizations>
+          <Comments/>
+        </Inflection>
+      </Inflections>
+      <RelatedLemmas>
+        <RelatedLemma>
+          <Word>παρασκευάζω</Word>
+        </RelatedLemma>
+      </RelatedLemmas>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="003804001001000" IsBiblicalTerm="M" EntryCode="67.201" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Time</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Units of Time with Reference to Other Units or Points of Time: Yesterday, Today, Next Day</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-12-20 16:03:38" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>a day on which preparations were made for a sacred or feast day</DefinitionShort>
+              <Glosses>
+                <Gloss>day of preparation</Gloss>
+                <Gloss>Friday</Gloss>
+              </Glosses>
+              <Comments>The identification of παρασκευή with Friday became so traditional that it eventually came to be the present-day Greek term for ‘Friday.’</Comments>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04002706200016</LEXReference>
+            <LEXReference>04101504200014</LEXReference>
+            <LEXReference>04202305400008</LEXReference>
+            <LEXReference>04301901400006</LEXReference>
+            <LEXReference>04301903100010</LEXReference>
+            <LEXReference>04301904200010</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

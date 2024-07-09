@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="003483000000000" Lemma="ξενοδοχέω" Version="0" HasAramaic="false" InLXX="false" AlphaPos="ξ">
+  <StrongCodes>
+    <Strong>G3580</Strong>
+  </StrongCodes>
+  <Authors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes/>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="003483001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>verb</PartOfSpeech>
+      </PartsOfSpeech>
+      <Constructs>
+        <Construct Lemma="ξενοδοχέω" BaseFormIndex="1">
+          <WordMeaningSet>
+            <Word>ξενίζω</Word>
+          </WordMeaningSet>
+          <WordMeaningSet>
+            <Word>δέχομαι</Word>
+          </WordMeaningSet>
+        </Construct>
+      </Constructs>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="003483001001000" IsBiblicalTerm="Y" EntryCode="34.57" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Association</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Show Hospitality</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-12-11 12:50:49" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>to receive and show hospitality to a stranger, that is, someone who is not regarded as a member of the extended family or a close friend</DefinitionShort>
+              <Glosses>
+                <Gloss>to show hospitality</Gloss>
+                <Gloss>to receive a stranger as a guest</Gloss>
+                <Gloss>hospitality</Gloss>
+              </Glosses>
+              <Comments>To receive a stranger as a guest is sometimes expressed idiomatically as ‘to let a stranger sit at one’s table,’ ‘to offer a bed to a stranger,’ or ‘to let a stranger enter one’s house.’</Comments>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>05400501000016</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

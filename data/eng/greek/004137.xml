@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="004137000000000" Lemma="πρασιά" Version="0" HasAramaic="false" InLXX="true" AlphaPos="π">
+  <StrongCodes>
+    <Strong>G4237</Strong>
+  </StrongCodes>
+  <Authors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes/>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="004137001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>noun, f.</PartOfSpeech>
+      </PartsOfSpeech>
+      <Inflections>
+        <Inflection Lemma="πρασιά" BaseFormIndex="1">
+          <Form/>
+          <Realizations>
+            <Realization>-ᾶς</Realization>
+          </Realizations>
+          <Comments/>
+        </Inflection>
+      </Inflections>
+      <RelatedLemmas>
+        <RelatedLemma>
+          <Word>πράσσω</Word>
+        </RelatedLemma>
+      </RelatedLemmas>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="004137001001000" IsBiblicalTerm="Y" EntryCode="11.6" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Groups and Classes of Persons and Members of Such Groups and Classes</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>General</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2022-02-02 16:10:46" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>(a figurative extension of meaning of πρασιά ‘garden plot,’ not occurring in the NT) a group of persons arranged in an orderly fashion</DefinitionShort>
+              <Glosses>
+                <Gloss>group</Gloss>
+              </Glosses>
+              <Comments>A comparison of πρασιαὶ πρασιαί in {S:04100604000008} with συμπόσια συμπόσια (see {D:11.5}) in {S:04100603900012} indicates clearly that the reference in both instances is essentially the same, but in {S:04100603900012} συμπόσια συμπόσια points to the grouping of people with the intent of eating, while in {S:04100604000008} πρασιαὶ πρασιαί marks the orderly arrangement of the persons. One may therefore translate {S:04100604000008} as ‘the people sat down in orderly groups of a hundred and of fifty’ or ‘the people sat down in rows by groups of a hundred and groups of fifty.’</Comments>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04100604000006</LEXReference>
+            <LEXReference>04100604000008</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

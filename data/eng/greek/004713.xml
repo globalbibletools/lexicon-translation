@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="004713000000000" Lemma="συκομορέα" Version="0" HasAramaic="false" InLXX="false" AlphaPos="σ">
+  <StrongCodes>
+    <Strong>G4809</Strong>
+  </StrongCodes>
+  <Authors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes/>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="004713001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>noun, f.</PartOfSpeech>
+      </PartsOfSpeech>
+      <Inflections>
+        <Inflection Lemma="συκομορέα" BaseFormIndex="1">
+          <Form/>
+          <Realizations>
+            <Realization>-ας</Realization>
+          </Realizations>
+          <Comments/>
+        </Inflection>
+      </Inflections>
+      <Constructs>
+        <Construct Lemma="συκομορέα" BaseFormIndex="1">
+          <WordMeaningSet>
+            <Word>σῦκον</Word>
+          </WordMeaningSet>
+          <WordMeaningSet>
+            <Word>μορον</Word>
+            <Meaning LanguageCode="en">
+              <Meaning>black mulberry</Meaning>
+            </Meaning>
+            <Meaning LanguageCode="zhT">
+              <Meaning>黑桑</Meaning>
+            </Meaning>
+          </WordMeaningSet>
+        </Construct>
+      </Constructs>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="004713001001000" IsBiblicalTerm="M" EntryCode="3.7" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Plants</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Trees</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2022-03-09 12:17:50" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>a broad, heavy tree reaching a height of some fifteen meters (about fifty feet), with large, strong branches growing out from the trunk low down on the tree; fruit has the appearance of a small fig but its taste is relatively unpleasant</DefinitionShort>
+              <Glosses>
+                <Gloss>sycamore-fig tree</Gloss>
+              </Glosses>
+              <Comments>As in the case of other specific trees for which no local term in the receptor language is available, one can borrow a word such as ‘sycamore’ from a dominant language in the area and add a classifier, for example, ‘tree called sycamore,’ but in a number of languages it may be appropriate to render συκομορέα in {S:04201900400016} simply as ‘a big tree’ or ‘a wild fig tree.’</Comments>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04201900400016</LEXReference>
+          </LEXReferences>
+          <LEXLinks>
+            <LEXLink>flora:2.11</LEXLink>
+          </LEXLinks>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

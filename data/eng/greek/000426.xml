@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="000426000000000" Lemma="ἀνεπίλημπτος" Version="0" HasAramaic="false" InLXX="false" AlphaPos="α">
+  <StrongCodes>
+    <Strong>G0423</Strong>
+  </StrongCodes>
+  <Authors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes/>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="000426001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>adjc.</PartOfSpeech>
+      </PartsOfSpeech>
+      <Inflections>
+        <Inflection Lemma="ἀνεπίλημπτος" BaseFormIndex="1">
+          <Form/>
+          <Realizations>
+            <Realization>-ον</Realization>
+          </Realizations>
+          <Comments/>
+        </Inflection>
+      </Inflections>
+      <RelatedLemmas>
+        <RelatedLemma>
+          <Word>λαμβάνω</Word>
+        </RelatedLemma>
+      </RelatedLemmas>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="000426001001000" IsBiblicalTerm="M" EntryCode="33.415" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Communication</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Criticize</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-08-05 16:31:49" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>pertaining to what cannot be criticized</DefinitionShort>
+              <Glosses>
+                <Gloss>above criticism</Gloss>
+                <Gloss>beyond reproach</Gloss>
+              </Glosses>
+              <Comments>It may be necessary in some languages to restructure ἀκατάγνωστος and ἀνεπίλημπτος as complete clauses, so that instead of ‘sound words which are above criticism’ in {S:05600200800006}, one may translate ‘sound words which no one can criticize’ or ‘… against which no one can say anything.’ ‘Above reproach’ in {S:05400601400012} may be rendered as ‘in such a way that no one can criticize it.’</Comments>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>05400300200010</LEXReference>
+            <LEXReference>05400500700010</LEXReference>
+            <LEXReference>05400601400012</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

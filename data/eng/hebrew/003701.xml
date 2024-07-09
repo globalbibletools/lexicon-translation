@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="003701000000000" Lemma="מְגִנָּה" Version="3" HasAramaic="false" InLXX="false" AlphaPos="מ">
+  <StrongCodes>
+    <Strong>H4044</Strong>
+  </StrongCodes>
+  <Authors>
+    <Author>Reinier de Blois</Author>
+  </Authors>
+  <Contributors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes>
+    <Note Caller="1" LanguageCode="en" LastEdited="" LastEditedBy="">
+      <References>
+        <Reference>02500306500006</Reference>
+      </References>
+      <Content>RSV ESV "dullness of heart" NIV "a veil over (their) heart" NJB "hardness of heart" REB "hard ... heart" | NJPS NRSV "anguish of heart" GNT "despair" | CEV "make them suffer"</Content>
+    </Note>
+  </Notes>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="003701001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>nsf</PartOfSpeech>
+      </PartsOfSpeech>
+      <RelatedLemmas>
+        <RelatedLemma>
+          <Word>מגן</Word>
+        </RelatedLemma>
+      </RelatedLemmas>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="003701001001000" IsBiblicalTerm="Y" EntryCode="" Indent="0">
+          <LEXDomains>
+            <LEXDomain Code="002001002031" Source="Cover" SourceCode="002003001005">Unwilling</LEXDomain>
+            <LEXDomain Code="002001001062" Source="Cover" SourceCode="002003001005">Unable</LEXDomain>
+          </LEXDomains>
+          <LEXCollocations>
+            <LEXCollocation>מְגִנַּת לֵב</LEXCollocation>
+          </LEXCollocations>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2017-12-21 13:49:21" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>meaning unsure, possibly: = state in which humans are unwilling or unable to think about something</DefinitionShort>
+              <Glosses>
+                <Gloss>covering</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>02500306500006{N:001}</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+          <LEXCoreDomains>
+            <LEXCoreDomain Code="106">Mind</LEXCoreDomain>
+            <LEXCoreDomain Code="197">Willingness</LEXCoreDomain>
+            <LEXCoreDomain Code="001">Ability</LEXCoreDomain>
+          </LEXCoreDomains>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

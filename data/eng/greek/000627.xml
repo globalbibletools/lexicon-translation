@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="000627000000000" Lemma="ἀπονέμω" Version="0" HasAramaic="false" InLXX="true" AlphaPos="α">
+  <StrongCodes>
+    <Strong>G0632</Strong>
+  </StrongCodes>
+  <Authors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes/>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="000627001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>verb</PartOfSpeech>
+      </PartsOfSpeech>
+      <RelatedLemmas>
+        <RelatedLemma>
+          <Word>νέμω</Word>
+          <Meaning LanguageCode="en">
+            <Meaning>respect</Meaning>
+          </Meaning>
+          <Meaning LanguageCode="zhT">
+            <Meaning>尊敬</Meaning>
+          </Meaning>
+        </RelatedLemma>
+        <RelatedLemma>
+          <Word>νομίζω</Word>
+        </RelatedLemma>
+      </RelatedLemmas>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="000627001001000" IsBiblicalTerm="Y" EntryCode="90.54" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Case</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Agent in a Causative Role Marked by Verbs</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-08-13 16:31:21" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>a marker of a causative relation, with the implication of something deserved</DefinitionShort>
+              <Glosses>
+                <Gloss>to cause</Gloss>
+                <Gloss>to show</Gloss>
+                <Gloss>to assign to</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>06000300700024</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

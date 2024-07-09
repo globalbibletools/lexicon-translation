@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="004573000000000" Lemma="σμυρνίζω" Version="0" HasAramaic="false" InLXX="false" AlphaPos="σ">
+  <StrongCodes>
+    <Strong>G4669</Strong>
+  </StrongCodes>
+  <Authors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes>
+    <Note Caller="1" LanguageCode="en" LastEdited="" LastEditedBy="">
+      <References/>
+      <Content>The term ἐσμυρνισμένος οἶνος can be seen as semantically endocentric (σμυρνίζω, ‘mixed with myrrh’ and οἶνος, ‘wine’). However, due to its specific role in the passage of {S:04101502300008}, it was included in this semantic field.</Content>
+    </Note>
+  </Notes>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="004573001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>verb</PartOfSpeech>
+      </PartsOfSpeech>
+      <RelatedLemmas>
+        <RelatedLemma>
+          <Word>σμύρνα</Word>
+        </RelatedLemma>
+      </RelatedLemmas>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="004573001001000" IsBiblicalTerm="Y" EntryCode="6.204" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Artifacts</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Medicines</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXCollocations>
+            <LEXCollocation>ἐσμυρνισμένος οἶνος</LEXCollocation>
+          </LEXCollocations>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2022-02-12 15:01:21" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>wine drugged with myrrh and used as a stupefying potion{N:001}</DefinitionShort>
+              <Glosses>
+                <Gloss>myrrhed wine</Gloss>
+              </Glosses>
+              <Comments>In general, ἐσμυρνισμένος οἶνος must be rendered by means of a phrase or a clause, for example, ‘wine which has been mixed with a drug called myrrh’ or ‘wine mixed with a drug to reduce pain.’ It is, of course, also possible to use an abbreviated phrase such as ‘myrrhed wine’ and then to place the explanation of its function in a marginal note.</Comments>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04101502300008</LEXReference>
+          </LEXReferences>
+          <LEXLinks>
+            <LEXLink>realia:1.15.5</LEXLink>
+          </LEXLinks>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

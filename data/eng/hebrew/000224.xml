@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="000224000000000" Lemma="אֶזֶל" Version="5" HasAramaic="false" InLXX="false" AlphaPos="א">
+  <StrongCodes>
+    <Strong>H0237</Strong>
+  </StrongCodes>
+  <Authors>
+    <Author>Reinier de Blois</Author>
+  </Authors>
+  <Contributors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes>
+    <Note Caller="1" LanguageCode="en" LastEdited="" LastEditedBy="">
+      <References>
+        <Reference>00902001900046</Reference>
+      </References>
+      <Content>{A:NIV} {A:NJPS} "Ezel" {A:CEV} "Going-Away Rock" | LXX ἐκεῖνο {A:RSV} "yonder" {A:NJB} {A:NRSV} REB GNT "the ... there" = הלאז</Content>
+    </Note>
+  </Notes>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="000224001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>np</PartOfSpeech>
+      </PartsOfSpeech>
+      <RelatedLemmas>
+        <RelatedLemma>
+          <Word>אזל</Word>
+        </RelatedLemma>
+      </RelatedLemmas>
+      <MeaningsOfName>
+        <MeaningOfName LanguageCode="en">
+          <Meaning>going away</Meaning>
+        </MeaningOfName>
+        <MeaningOfName LanguageCode="pt">
+          <Meaning>indo embora</Meaning>
+        </MeaningOfName>
+      </MeaningsOfName>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="000224001001000" IsBiblicalTerm="Y" EntryCode="" Indent="0">
+          <LEXDomains>
+            <LEXDomain Code="003001008">Names of Landforms</LEXDomain>
+          </LEXDomains>
+          <LEXCollocations>
+            <LEXCollocation>אֶבֶן הָאֶזֶל</LEXCollocation>
+          </LEXCollocations>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2016-02-18 16:03:37" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>= stone; ► location where {L:David&lt;SDBH:דָּוִד&gt;} and {L:Jonathan&lt;SDBH:יְהֹונָתָן&gt;} promised to meet; ≈ possible meaning: "going away"</DefinitionShort>
+              <Glosses>
+                <Gloss>Ezel rock</Gloss>
+                <Gloss>"Going-Away" rock</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>00902001900046{N:001}</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

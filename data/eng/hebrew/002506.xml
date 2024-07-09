@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="002506000000000" Lemma="חָרֵב" Version="5" HasAramaic="false" InLXX="false" AlphaPos="ח">
+  <StrongCodes>
+    <Strong>H2720</Strong>
+  </StrongCodes>
+  <Authors>
+    <Author>Reinier de Blois</Author>
+  </Authors>
+  <Contributors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes/>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="002506001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>aj</PartOfSpeech>
+      </PartsOfSpeech>
+      <RelatedLemmas>
+        <RelatedLemma>
+          <Word>חרב</Word>
+        </RelatedLemma>
+      </RelatedLemmas>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="002506001001000" IsBiblicalTerm="Y" EntryCode="" Indent="0">
+          <LEXDomains>
+            <LEXDomain Code="002001001022">Dry</LEXDomain>
+          </LEXDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2017-04-07 11:40:13" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>= state in which food is free from moisture or liquid</DefinitionShort>
+              <Glosses>
+                <Gloss>dry</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>00300701000018</LEXReference>
+            <LEXReference>02001700100006</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+          <LEXCoreDomains>
+            <LEXCoreDomain Code="101">Liquids</LEXCoreDomain>
+            <LEXCoreDomain Code="069">Food</LEXCoreDomain>
+          </LEXCoreDomains>
+        </LEXMeaning>
+        <LEXMeaning Id="002506001002000" IsBiblicalTerm="Y" EntryCode="" Indent="0">
+          <LEXDomains>
+            <LEXDomain Code="002001001023" Source="Dry" SourceCode="002001001022">Impact</LEXDomain>
+          </LEXDomains>
+          <LEXSynonyms>
+            <LEXSynonym>שׁמם</LEXSynonym>
+          </LEXSynonyms>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2018-01-14 14:44:33" LastEditedBy="administrator">
+              <DefinitionLong/>
+              <DefinitionShort>= state in which buildings and towns have been totally destroyed, ► to the extent that nobody can live there anymore</DefinitionShort>
+              <Glosses>
+                <Gloss>desolate</Gloss>
+                <Gloss>waste</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>01600200300042</LEXReference>
+            <LEXReference>01600201700026</LEXReference>
+            <LEXReference>02403301000028</LEXReference>
+            <LEXReference>02403301200026</LEXReference>
+            <LEXReference>02603603500034</LEXReference>
+            <LEXReference>02603603800028</LEXReference>
+            <LEXReference>03700100400030</LEXReference>
+            <LEXReference>03700100900048</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+          <LEXCoreDomains>
+            <LEXCoreDomain Code="052">Destruction</LEXCoreDomain>
+          </LEXCoreDomains>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

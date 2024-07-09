@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="000977000000000" Lemma="βία" Version="0" HasAramaic="false" InLXX="true" AlphaPos="β">
+  <StrongCodes>
+    <Strong>G0970</Strong>
+  </StrongCodes>
+  <Authors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes/>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="000977001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>noun, f.</PartOfSpeech>
+      </PartsOfSpeech>
+      <Inflections>
+        <Inflection Lemma="βία" BaseFormIndex="1">
+          <Form/>
+          <Realizations>
+            <Realization>-ας</Realization>
+          </Realizations>
+          <Comments/>
+        </Inflection>
+      </Inflections>
+      <RelatedLemmas>
+        <RelatedLemma>
+          <Word>βιάζω</Word>
+        </RelatedLemma>
+      </RelatedLemmas>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="000977001001000" IsBiblicalTerm="Y" EntryCode="20.1" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Violence, Harm, Destroy, Kill</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Violence</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-02-05 11:13:30" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>a strong, destructive force</DefinitionShort>
+              <Glosses>
+                <Gloss>force</Gloss>
+                <Gloss>violence</Gloss>
+              </Glosses>
+              <Comments>In some languages it is difficult, if not impossible, to find a term such as ‘violence,’ but one may describe the effects of violence by expressions which indicate the harm that is done. For example, {S:04400502600024} may be translated ‘they did not wish to harm anyone, for they were afraid of the people,’ and similarly in {S:04402704100044}, one may translate ‘the waves did great damage to the stern.’</Comments>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04400502600024</LEXReference>
+            <LEXReference>04402103500030</LEXReference>
+            <LEXReference>04402704100044</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

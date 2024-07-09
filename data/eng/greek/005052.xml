@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="005052000000000" Lemma="τροφοφορέω" Version="0" HasAramaic="false" InLXX="true" AlphaPos="τ">
+  <StrongCodes/>
+  <Authors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes/>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="005052001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>verb</PartOfSpeech>
+      </PartsOfSpeech>
+      <Constructs>
+        <Construct Lemma="τροφοφορέω" BaseFormIndex="1">
+          <WordMeaningSet>
+            <Word>τρέφω</Word>
+          </WordMeaningSet>
+          <WordMeaningSet>
+            <Word>φέρω</Word>
+          </WordMeaningSet>
+        </Construct>
+      </Constructs>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="005052001001000" IsBiblicalTerm="Y" EntryCode="35.45" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Help, Care For</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Care For, Take Care Of</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2022-04-14 08:12:28" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>to take care of, with special reference to supplying necessary nourishment</DefinitionShort>
+              <Glosses>
+                <Gloss>to take care of</Gloss>
+              </Glosses>
+              <Comments>This word is found as a variant reading only: καὶ ὡς τεσσερακονταετῆ χρόνον ἐτροφοφόρησεν αὐτοὺς ἐν τῇ ἐρήμῳ ‘and for forty years he took care of them in the desert’ {S:04401301800010} (apparatus).</Comments>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04401301800010</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

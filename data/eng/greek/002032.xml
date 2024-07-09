@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="002032000000000" Lemma="ἐπιτυγχάνω" Version="0" HasAramaic="false" InLXX="true" AlphaPos="ε">
+  <StrongCodes>
+    <Strong>G2013</Strong>
+  </StrongCodes>
+  <Authors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes/>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="002032001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>verb</PartOfSpeech>
+      </PartsOfSpeech>
+      <Inflections>
+        <Inflection Lemma="ἐπιτυγχάνω" BaseFormIndex="1">
+          <Form>aor.</Form>
+          <Realizations>
+            <Realization>ἐπέτυχον</Realization>
+          </Realizations>
+          <Comments/>
+        </Inflection>
+        <Inflection Lemma="ἐπιτυγχάνω" BaseFormIndex="1">
+          <Form>inf.</Form>
+          <Realizations>
+            <Realization>ἐπιτυχεῖν</Realization>
+          </Realizations>
+          <Comments/>
+        </Inflection>
+      </Inflections>
+      <RelatedLemmas>
+        <RelatedLemma>
+          <Word>τυγχάνω</Word>
+        </RelatedLemma>
+      </RelatedLemmas>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="002032001001000" IsBiblicalTerm="Y" EntryCode="57.60" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Possess, Transfer, Exchange</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Take, Obtain, Gain, Lose</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-06-30 08:48:43" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>to acquire or gain what is sought after</DefinitionShort>
+              <Glosses>
+                <Gloss>to acquire</Gloss>
+                <Gloss>to obtain</Gloss>
+                <Gloss>to attain</Gloss>
+              </Glosses>
+              <Comments>It is also possible to interpret ἐπιτυγχάνω in certain contexts as being essentially equivalent to the experiencer of an event and thus equivalent to {L:τυγχάνω&lt;SDBG:τυγχάνω:000000&gt;} (see {D:90.61}).</Comments>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04501100700016</LEXReference>
+            <LEXReference>04501100700024</LEXReference>
+            <LEXReference>05800601500008</LEXReference>
+            <LEXReference>05801103300016</LEXReference>
+            <LEXReference>05900400200022</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+        <LEXMeaning Id="002032001002000" IsBiblicalTerm="Y" EntryCode="90.61" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Case</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Experiencer</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-06-30 08:48:43" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>to experience some happening (generally neutral in connotation)</DefinitionShort>
+              <Glosses>
+                <Gloss>to experience</Gloss>
+                <Gloss>to have happen to</Gloss>
+              </Glosses>
+              <Comments>For another interpretation of {L:ἐπιτυγχάνω&lt;SDBG:ἐπιτυγχάνω:000000&gt;} in {S:04501100700024}, see {D:57.60}.</Comments>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04501100700016</LEXReference>
+            <LEXReference>04501100700024</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

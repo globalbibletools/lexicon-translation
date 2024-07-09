@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="003026000000000" Lemma="λειτουργέω" Version="0" HasAramaic="false" InLXX="true" AlphaPos="λ">
+  <StrongCodes>
+    <Strong>G3008</Strong>
+  </StrongCodes>
+  <Authors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes>
+    <Note Caller="1" LanguageCode="en" LastEdited="" LastEditedBy="">
+      <References/>
+      <Content>In general Greek usage, λειτουργέω and λειτουργία denote service performed by an individual, free of charge, on behalf of the state. This meaning is not found in the NT. In the NT λειτουργέω[b] and λειτουργία[c] ({D:53.13}) are less specifically religious in connotation than λατρεύω and λατρεία ({D:53.14}).</Content>
+    </Note>
+  </Notes>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="003026001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>verb</PartOfSpeech>
+      </PartsOfSpeech>
+      <Constructs>
+        <Construct Lemma="λειτουργέω" BaseFormIndex="1">
+          <WordMeaningSet>
+            <Word>λαός</Word>
+          </WordMeaningSet>
+          <WordMeaningSet>
+            <Word>ἐργάζομαι</Word>
+          </WordMeaningSet>
+        </Construct>
+      </Constructs>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="003026001001000" IsBiblicalTerm="Y" EntryCode="35.22" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Help, Care For</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Serve</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-11-05 09:53:45" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>to serve, with the implication of more formal or regular service</DefinitionShort>
+              <Glosses>
+                <Gloss>to serve</Gloss>
+                <Gloss>service</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04401300200002</LEXReference>
+            <LEXReference>04501502700040</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+        <LEXMeaning Id="003026001002000" IsBiblicalTerm="Y" EntryCode="53.13" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Religious Activities</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Religious Practice</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-11-05 09:53:45" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>to perform religious rites as part of one’s religious duties or as the result of one’s role{N:001}</DefinitionShort>
+              <Glosses>
+                <Gloss>to perform religious duties</Gloss>
+                <Gloss>to carry out religious rites</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>05801001100016</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

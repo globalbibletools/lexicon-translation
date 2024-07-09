@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="003824000000000" Lemma="παρεισφέρω" Version="0" HasAramaic="false" InLXX="false" AlphaPos="π">
+  <StrongCodes>
+    <Strong>G3923</Strong>
+  </StrongCodes>
+  <Authors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes/>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="003824001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>verb</PartOfSpeech>
+      </PartsOfSpeech>
+      <Inflections>
+        <Inflection Lemma="παρεισφέρω" BaseFormIndex="1">
+          <Form>aor.ptc.</Form>
+          <Realizations>
+            <Realization>παρεισενέγκας</Realization>
+          </Realizations>
+          <Comments/>
+        </Inflection>
+      </Inflections>
+      <RelatedLemmas>
+        <RelatedLemma>
+          <Word>φέρω</Word>
+        </RelatedLemma>
+      </RelatedLemmas>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="003824001001000" IsBiblicalTerm="Y" EntryCode="68.64" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Aspect</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Do Intensely or Extensively</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXCollocations>
+            <LEXCollocation>σπουδὴν πᾶσαν παρεισφέρω</LEXCollocation>
+          </LEXCollocations>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-12-23 10:57:15" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>(an idiom, literally: to bring every effort to) to do one’s very best in attempting to do something</DefinitionShort>
+              <Glosses>
+                <Gloss>to do one’s best</Gloss>
+                <Gloss>to make every effort to</Gloss>
+                <Gloss>to try as hard as possible</Gloss>
+              </Glosses>
+              <Comments>In some languages it may be almost impossible to speak of ‘adding goodness to faith.’ However, an appropriate equivalent of this expression in {S:06100100500014} may be ‘do your best to be good as well as to believe.’</Comments>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>06100100500014</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="001730000000000" Lemma="ἐμφανής" Version="0" HasAramaic="false" InLXX="true" AlphaPos="ε">
+  <StrongCodes>
+    <Strong>G1717</Strong>
+  </StrongCodes>
+  <Authors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes/>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="001730001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>adjc.</PartOfSpeech>
+      </PartsOfSpeech>
+      <Inflections>
+        <Inflection Lemma="ἐμφανής" BaseFormIndex="1">
+          <Form/>
+          <Realizations>
+            <Realization>-ές</Realization>
+          </Realizations>
+          <Comments/>
+        </Inflection>
+      </Inflections>
+      <RelatedLemmas>
+        <RelatedLemma>
+          <Word>φανίζω</Word>
+        </RelatedLemma>
+      </RelatedLemmas>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="001730001001000" IsBiblicalTerm="Y" EntryCode="24.22" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Sensory Events and States</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>See</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-05-25 06:32:26" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>(derivative of {L:ἐμφανίζω&lt;SDBG:ἐμφανίζω:000000&gt;}[a] ‘to make visible,’ {D:24.19}) pertaining to that which has been made visible</DefinitionShort>
+              <Glosses>
+                <Gloss>visible</Gloss>
+                <Gloss>seen</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04401004000024</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+        <LEXMeaning Id="001730001002000" IsBiblicalTerm="Y" EntryCode="28.35" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Know</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Well Known, Clearly Shown, Revealed</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-05-25 06:32:26" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>pertaining to not having been known before but having become evident</DefinitionShort>
+              <Glosses>
+                <Gloss>well known</Gloss>
+                <Gloss>evident</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04501002000024</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

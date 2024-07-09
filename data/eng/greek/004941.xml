@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="004941000000000" Lemma="τεκνογονία" Version="0" HasAramaic="false" InLXX="false" AlphaPos="τ">
+  <StrongCodes>
+    <Strong>G5042</Strong>
+  </StrongCodes>
+  <Authors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes>
+    <Note Caller="1" LanguageCode="en" LastEdited="" LastEditedBy="">
+      <References/>
+      <Content>It is possible that τεκνογονέω and τεκνογονία differ somewhat in connotation from τίκτω[a] and γεννάω[b] in being stylistically more formal, but there seems to be no significant denotative distinction in meaning.</Content>
+    </Note>
+  </Notes>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="004941001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>noun, f.</PartOfSpeech>
+      </PartsOfSpeech>
+      <Inflections>
+        <Inflection Lemma="τεκνογονία" BaseFormIndex="1">
+          <Form/>
+          <Realizations>
+            <Realization>-ας</Realization>
+          </Realizations>
+          <Comments/>
+        </Inflection>
+      </Inflections>
+      <Constructs>
+        <Construct Lemma="τεκνογονία" BaseFormIndex="1">
+          <WordMeaningSet>
+            <Word>τίκτω</Word>
+          </WordMeaningSet>
+          <WordMeaningSet>
+            <Word>γίνομαι</Word>
+          </WordMeaningSet>
+        </Construct>
+      </Constructs>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="004941001001000" IsBiblicalTerm="Y" EntryCode="23.52" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Physiological Processes and States</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Birth, Procreation</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2022-03-31 22:40:28" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>to give birth to a child{N:001}</DefinitionShort>
+              <Glosses>
+                <Gloss>to bear</Gloss>
+                <Gloss>to give birth</Gloss>
+              </Glosses>
+              <Comments>All languages have expressions for human birth, though these are frequently in idiomatic forms, for example, ‘to drop a child’ or ‘to cause a baby to pass between the legs.’ A number of languages have a variety of terms referring to giving birth, and some of these may involve unfortunate connotations. One must therefore be careful about the selection of appropriate expressions.</Comments>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>05400201500010</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

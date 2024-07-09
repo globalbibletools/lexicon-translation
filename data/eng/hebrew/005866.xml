@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="005866000000000" Lemma="פלג" Version="5" HasAramaic="false" InLXX="false" AlphaPos="פ">
+  <StrongCodes>
+    <Strong>H6385</Strong>
+    <Strong>A6386</Strong>
+  </StrongCodes>
+  <Authors>
+    <Author>Reinier de Blois</Author>
+  </Authors>
+  <Contributors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes/>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="005866001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>vb</PartOfSpeech>
+      </PartsOfSpeech>
+      <RelatedLemmas>
+        <RelatedLemma>
+          <Word>מִפְלַגָּה</Word>
+        </RelatedLemma>
+        <RelatedLemma>
+          <Word>פֶּלֶג</Word>
+        </RelatedLemma>
+        <RelatedLemma>
+          <Word>פְּלַגָּה</Word>
+        </RelatedLemma>
+        <RelatedLemma>
+          <Word>פְּלֻגָּה</Word>
+        </RelatedLemma>
+      </RelatedLemmas>
+      <RelatedNames>
+        <RelatedName>
+          <Word>פֶּלֶג</Word>
+        </RelatedName>
+      </RelatedNames>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="005866001001000" IsBiblicalTerm="Y" EntryCode="" Indent="0">
+          <LEXDomains>
+            <LEXDomain Code="002003001006">Divide</LEXDomain>
+          </LEXDomains>
+          <LEXForms>
+            <LEXForm>vbnif-</LEXForm>
+          </LEXForms>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2017-01-02 17:19:26" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>= process by which an object is divided into two or more parts</DefinitionShort>
+              <Glosses>
+                <Gloss>to be divided</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>00101002500028</LEXReference>
+            <LEXReference>01300101900028</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+          <LEXCoreDomains>
+            <LEXCoreDomain Code="038">Completeness</LEXCoreDomain>
+          </LEXCoreDomains>
+        </LEXMeaning>
+        <LEXMeaning Id="005866001002000" IsBiblicalTerm="Y" EntryCode="" Indent="0">
+          <LEXDomains>
+            <LEXDomain Code="002002001007" Source="Divide" SourceCode="002003001006">Flow</LEXDomain>
+          </LEXDomains>
+          <LEXForms>
+            <LEXForm>vbpiel</LEXForm>
+          </LEXForms>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>literally: to divide; hence: = causative action by which deities create an opening for water to flow through</DefinitionShort>
+              <Glosses>
+                <Gloss>to cut a channel</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>01803802500004</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+          <LEXCoreDomains>
+            <LEXCoreDomain Code="101">Liquids</LEXCoreDomain>
+          </LEXCoreDomains>
+        </LEXMeaning>
+        <LEXMeaning Id="005866001003000" IsBiblicalTerm="Y" EntryCode="" Indent="0">
+          <LEXDomains>
+            <LEXDomain Code="002001003002" Source="Divide" SourceCode="002003001006">Change</LEXDomain>
+          </LEXDomains>
+          <LEXForms>
+            <LEXForm>vbpiel</LEXForm>
+          </LEXForms>
+          <LEXCollocations>
+            <LEXCollocation>פלג לָשֹׁון</LEXCollocation>
+          </LEXCollocations>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>literally: to divide (someone's) tongue; hence: = causative action by which deities cause human communication to fail</DefinitionShort>
+              <Glosses>
+                <Gloss>to confuse speech</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>01905501000006</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+          <LEXCoreDomains>
+            <LEXCoreDomain Code="041">Communication</LEXCoreDomain>
+          </LEXCoreDomains>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="003779000000000" Lemma="παρακύπτω" Version="0" HasAramaic="false" InLXX="true" AlphaPos="π">
+  <StrongCodes>
+    <Strong>G3879</Strong>
+  </StrongCodes>
+  <Authors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes>
+    <Note Caller="1" LanguageCode="en" LastEdited="" LastEditedBy="">
+      <References/>
+      <Content>In παρακύπτω[a] there appear to be two coordinate semantic elements: ‘to stoop down’ and ‘to look into.’ It is possible, of course, to understand the second element as implying the purpose for the first, but in translation it is essential that both elements, especially in the context of {S:04302001100024}, be adequately noted. The fact that there are two significant elements of meaning in παρακύπτω[a] means that this term is essentially a member of two different domains at the same time, namely, Domain 17 dealing with Stances and Domain 24 Sensory Events and States.</Content>
+    </Note>
+    <Note Caller="2" LanguageCode="en" LastEdited="" LastEditedBy="">
+      <References/>
+      <Content>Since παρακύπτω, particularly in the context of {S:04302001100024}, involves two quite distinct semantic features, namely ‘to stoop down’ and ‘to look into,’ it may be classified either as a particular stance ({D:17.31}) with the added element of seeing, or one may classify παρακύπτω as here, in the sensory subdomain of ‘seeing,’ with an adjunct feature of ‘stooping down.’ See also {D:17.31} and footnote.</Content>
+    </Note>
+  </Notes>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="003779001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>verb</PartOfSpeech>
+      </PartsOfSpeech>
+      <RelatedLemmas>
+        <RelatedLemma>
+          <Word>κύπτω</Word>
+        </RelatedLemma>
+      </RelatedLemmas>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="003779001001000" IsBiblicalTerm="Y" EntryCode="17.31" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Stances and Events Related to Stances</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Bend Over, Straighten Up</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-12-20 13:43:55" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>to bend over or stoop down, with the implication of looking into something{N:001}</DefinitionShort>
+              <Glosses>
+                <Gloss>to bend over</Gloss>
+                <Gloss>to stoop down</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04202401200020</LEXReference>
+            <LEXReference>04302000500004</LEXReference>
+            <LEXReference>04302001100024</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+        <LEXMeaning Id="003779001002000" IsBiblicalTerm="Y" EntryCode="24.13" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Sensory Events and States</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>See</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-12-20 13:43:55" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>to look into something by stooping down{N:002}</DefinitionShort>
+              <Glosses>
+                <Gloss>to stoop and look into</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04202401200020</LEXReference>
+            <LEXReference>04302001100024</LEXReference>
+            <LEXReference>05900102500006</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+        <LEXMeaning Id="003779001003000" IsBiblicalTerm="Y" EntryCode="27.39" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Learn</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Try To Learn</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-12-20 13:43:55" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>(a figurative extension of meaning of {L:παρακύπτω&lt;SDBG:παρακύπτω:000001&gt;}[b] ‘to stoop and look into,’ {D:24.13}) to make considerable effort in order to try to find out something</DefinitionShort>
+              <Glosses>
+                <Gloss>to try to learn</Gloss>
+                <Gloss>to desire to learn</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>05900102500006</LEXReference>
+            <LEXReference>06000101200056</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

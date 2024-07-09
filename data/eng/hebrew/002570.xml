@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="002570000000000" Lemma="חֹרֶשׁ" Version="5" HasAramaic="false" InLXX="false" AlphaPos="ח">
+  <StrongCodes>
+    <Strong>H2793a</Strong>
+  </StrongCodes>
+  <Authors>
+    <Author>Reinier de Blois</Author>
+  </Authors>
+  <Contributors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes>
+    <Note Caller="1" LanguageCode="en" LastEdited="" LastEditedBy="">
+      <References>
+        <Reference>02301700900024</Reference>
+      </References>
+      <Content>{A:MT} {A:HOTTP}-C {A:NIV} {A:NJB} {A:NJPS} {A:CEV} | {A:LXX} {A:RSV} {A:NRSV} {A:REB} {A:GNT} {L:"Hivite"&lt;SDBH:חִוִּי&gt;}</Content>
+    </Note>
+  </Notes>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="002570001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>nsm</PartOfSpeech>
+      </PartsOfSpeech>
+      <RelatedLemmas>
+        <RelatedLemma>
+          <Word>חֹרְשָׁה</Word>
+        </RelatedLemma>
+        <RelatedLemma>
+          <Word>חֲרֹשֶׁת הַגֹּויִם</Word>
+        </RelatedLemma>
+      </RelatedLemmas>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="002570001001000" IsBiblicalTerm="Y" EntryCode="" Indent="0">
+          <LEXDomains>
+            <LEXDomain Code="001005002002003">Landscapes</LEXDomain>
+          </LEXDomains>
+          <LEXSynonyms>
+            <LEXSynonym>עֵץ</LEXSynonym>
+            <LEXSynonym>יַעַר</LEXSynonym>
+            <LEXSynonym>סְבַךְ</LEXSynonym>
+            <LEXSynonym>גָּאֹון</LEXSynonym>
+          </LEXSynonyms>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2016-07-13 14:52:27" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>= area with many trees</DefinitionShort>
+              <Glosses>
+                <Gloss>wood</Gloss>
+                <Gloss>forest</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>01402700400020</LEXReference>
+            <LEXReference>02301700900024{N:001}</LEXReference>
+            <LEXReference>02603100300020</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+          <LEXCoreDomains>
+            <LEXCoreDomain Code="097">Land</LEXCoreDomain>
+            <LEXCoreDomain Code="125">Plant</LEXCoreDomain>
+            <LEXCoreDomain Code="115">Nature</LEXCoreDomain>
+          </LEXCoreDomains>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

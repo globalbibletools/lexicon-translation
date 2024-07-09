@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="005411000000000" Lemma="χόρτασμα" Version="0" HasAramaic="false" InLXX="true" AlphaPos="χ">
+  <StrongCodes>
+    <Strong>G5527</Strong>
+  </StrongCodes>
+  <Authors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes>
+    <Note Caller="1" LanguageCode="en" LastEdited="" LastEditedBy="">
+      <References/>
+      <Content>There are no doubt certain subtle differences of meaning in the various terms listed here as meaning ‘food,’ but it is impossible to determine such distinctions in meaning from NT contexts. Perhaps τροφή and διατροφή are somewhat more generic in meaning and may suggest a greater emphasis upon nourishment. At the same time, βρῶσις[c] and βρῶμα[a] may imply solid substantive food, but it is difficult, if not impossible, to argue for such subtle connotative distinctions in meanings which are essentially generic.</Content>
+    </Note>
+    <Note Caller="2" LanguageCode="en" LastEdited="" LastEditedBy="">
+      <References>
+        <Reference>04400701100032</Reference>
+      </References>
+      <Content>Although in Hellenistic Greek χόρτασμα normally refers to the food of animals and is regularly rendered as ‘fodder,’ in {S:04400701100032} the reference is to food for people.</Content>
+    </Note>
+  </Notes>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="005411001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>noun, n.</PartOfSpeech>
+      </PartsOfSpeech>
+      <Inflections>
+        <Inflection Lemma="χόρτασμα" BaseFormIndex="1">
+          <Form/>
+          <Realizations>
+            <Realization>-τος</Realization>
+          </Realizations>
+          <Comments/>
+        </Inflection>
+      </Inflections>
+      <RelatedLemmas>
+        <RelatedLemma>
+          <Word>χορτάζω</Word>
+        </RelatedLemma>
+      </RelatedLemmas>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="005411001001000" IsBiblicalTerm="M" EntryCode="5.1" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Foods and Condiments</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Food</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2022-06-01 17:14:00" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>any kind of food or nourishment{N:001}</DefinitionShort>
+              <Glosses>
+                <Gloss>food</Gloss>
+              </Glosses>
+              <Comments>Almost all languages have at least a few general terms for food, though these may be derived from verbal expressions meaning essentially ‘that which is eaten.’ In some instances a distinction may be made between ‘that which is chewed’ and ‘that which is drunk,’ and it may therefore be important in certain contexts to speak of food in general by a phrase meaning ‘that which is either chewed or drunk.’ If one fails to include both types of food, the reader might interpret a passage such as {S:04000601100004} as requesting only solid foods.|In the place of a general term or phrase such as ‘that which is eaten’ or ‘that which is consumed,’ some languages generalize the meaning of a particular term. For example, in certain parts of the Orient the term meaning specifically ‘rice’ also refers to ‘food’ in general. In fact, some persons will declare, ‘I have not eaten!’ if they have not had rice as part of a meal. A similar type of meaning has developed in English with respect to ‘bread.’ For example, in rendering {S:04200400400022} (οὐκ ἐπ’ ἄρτῳ μόνῳ ζήσεται ὁ ἄνθρωπος ‘man shall not live by bread alone’) it would be wrong to employ a strictly literal rendering, since this might mean simply that people should not live on a diet consisting solely of bread. The meaning of {S:04200400400022} is, of course, ‘to live means more than merely eating.’</Comments>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04400701100032{N:002}</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

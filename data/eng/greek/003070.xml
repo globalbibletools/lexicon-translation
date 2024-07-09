@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="003070000000000" Lemma="λογικός" Version="0" HasAramaic="false" InLXX="false" AlphaPos="λ">
+  <StrongCodes>
+    <Strong>G3050</Strong>
+  </StrongCodes>
+  <Authors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes/>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="003070001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>adjc.</PartOfSpeech>
+      </PartsOfSpeech>
+      <Inflections>
+        <Inflection Lemma="λογικός" BaseFormIndex="1">
+          <Form/>
+          <Realizations>
+            <Realization>-ή, -όν</Realization>
+          </Realizations>
+          <Comments/>
+        </Inflection>
+      </Inflections>
+      <RelatedLemmas>
+        <RelatedLemma>
+          <Word>λέγω</Word>
+        </RelatedLemma>
+      </RelatedLemmas>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="003070001001000" IsBiblicalTerm="Y" EntryCode="73.5" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Genuine, Phony</LEXDomain>
+          </LEXDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-11-11 12:47:58" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>pertaining to being genuine, in the sense of being true to the real and essential nature of something</DefinitionShort>
+              <Glosses>
+                <Gloss>rational</Gloss>
+                <Gloss>genuine</Gloss>
+                <Gloss>true</Gloss>
+              </Glosses>
+              <Comments>Since in {S:06000200200010} the context is figurative, some translators have preferred to render λογικός as ‘spiritual,’ so as to make the reference not literal but figurative.</Comments>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04501200100042</LEXReference>
+            <LEXReference>06000200200010</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

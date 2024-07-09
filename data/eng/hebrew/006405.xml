@@ -1,0 +1,256 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="006405000000000" Lemma="קַו" Version="5" HasAramaic="false" InLXX="false" AlphaPos="ק">
+  <StrongCodes>
+    <Strong>H6957</Strong>
+    <Strong>H6978</Strong>
+  </StrongCodes>
+  <Authors>
+    <Author>Graham S. Ogden</Author>
+  </Authors>
+  <Contributors>
+    <Contributor>Ryan Sikes</Contributor>
+  </Contributors>
+  <AlternateLemmas>
+    <AlternateLemma>קָו</AlternateLemma>
+    <AlternateLemma>קַוְקָו</AlternateLemma>
+  </AlternateLemmas>
+  <MainLinks/>
+  <Notes>
+    <Note Caller="1" LanguageCode="en" LastEdited="" LastEditedBy="">
+      <References>
+        <Reference>01100702300052</Reference>
+        <Reference>02403103900010</Reference>
+      </References>
+      <Content>{A:MT-Q} | {A:MT-K} קָוֶה = קַו</Content>
+    </Note>
+    <Note Caller="2" LanguageCode="en" LastEdited="" LastEditedBy="">
+      <References>
+        <Reference>01901900500012</Reference>
+      </References>
+      <Content>LXX φθόγγος SYM ἦχος VUL sonus NJPS "voice" = [4a] | DCH "chord &gt; sound, music, melody, rhythm" | others read {L:קֹולָם&lt;SDBH:קֹול&gt;} "their voice"</Content>
+    </Note>
+    <Note Caller="3" LanguageCode="en" LastEdited="" LastEditedBy="">
+      <References>
+        <Reference>02301800200060</Reference>
+        <Reference>02301800200062</Reference>
+        <Reference>02301800700048</Reference>
+        <Reference>02301800700050</Reference>
+      </References>
+      <Content>RSV NJB NRSV REB GNT CEV | NIV "of strange speech" NJPS of gibber (and chatter)"</Content>
+    </Note>
+  </Notes>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="006405001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>nsm</PartOfSpeech>
+      </PartsOfSpeech>
+      <RelatedLemmas>
+        <RelatedLemma>
+          <Word>קוה</Word>
+        </RelatedLemma>
+      </RelatedLemmas>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="006405001001000" IsBiblicalTerm="M" EntryCode="" Indent="0">
+          <LEXDomains>
+            <LEXDomain Code="001004001004">Cords</LEXDomain>
+          </LEXDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2015-12-21 12:40:22" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>= line ► used for measuring the size of an object; ≈ sometimes used in a figurative sense in the context of moral and ethical standards</DefinitionShort>
+              <Glosses>
+                <Gloss>measuring line</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>01100702300052{N:001}</LEXReference>
+            <LEXReference>01202101300012</LEXReference>
+            <LEXReference>01400400200048</LEXReference>
+            <LEXReference>01803800500020</LEXReference>
+            <LEXReference>02302801700010</LEXReference>
+            <LEXReference>02303401100030</LEXReference>
+            <LEXReference>02303401700024</LEXReference>
+            <LEXReference>02304401300008</LEXReference>
+            <LEXReference>02403103900010{N:001}</LEXReference>
+            <LEXReference>02500200800018</LEXReference>
+            <LEXReference>02604700300014</LEXReference>
+            <LEXReference>03800101600038</LEXReference>
+          </LEXReferences>
+          <LEXLinks>
+            <LEXLink>Realia:1.8.6</LEXLink>
+          </LEXLinks>
+          <LEXVideos/>
+          <LEXCoreDomains>
+            <LEXCoreDomain Code="027">Crafts</LEXCoreDomain>
+            <LEXCoreDomain Code="161">Size</LEXCoreDomain>
+          </LEXCoreDomains>
+        </LEXMeaning>
+        <LEXMeaning Id="006405001002000" IsBiblicalTerm="Y" EntryCode="" Indent="0">
+          <LEXDomains>
+            <LEXDomain Code="002001001021" Source="Cords" SourceCode="001004001004">Dimension</LEXDomain>
+          </LEXDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>literally: measuring line; hence, possibly: = the dimensions of an object, ◄ as if determined with the help of a measuring line</DefinitionShort>
+              <Glosses>
+                <Gloss>extent</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>01901900500012{N:002}</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+          <LEXCoreDomains>
+            <LEXCoreDomain Code="161">Size</LEXCoreDomain>
+          </LEXCoreDomains>
+        </LEXMeaning>
+        <LEXMeaning Id="006405001003000" IsBiblicalTerm="Y" EntryCode="" Indent="0">
+          <LEXDomains>
+            <LEXDomain Code="002004001009007" Source="Cords" SourceCode="001004001004">Sounds</LEXDomain>
+          </LEXDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>literally: line, extended to: string (of an instrument); hence, possibly: = the music produced by a stringed instrument</DefinitionShort>
+              <Glosses>
+                <Gloss>note</Gloss>
+                <Gloss>music</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>01901900500012{N:002}</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+          <LEXCoreDomains>
+            <LEXCoreDomain Code="111">Music and Dance</LEXCoreDomain>
+          </LEXCoreDomains>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+    <BaseForm Id="006405002000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>nsm</PartOfSpeech>
+      </PartsOfSpeech>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="006405002001000" IsBiblicalTerm="Y" EntryCode="" Indent="0">
+          <LEXDomains>
+            <LEXDomain Code="002001001060">Strong</LEXDomain>
+          </LEXDomains>
+          <LEXCollocations>
+            <LEXCollocation>קַו־קָו</LEXCollocation>
+          </LEXCollocations>
+          <LEXSynonyms>
+            <LEXSynonym>מְבוּסָה</LEXSynonym>
+          </LEXSynonyms>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2015-12-21 12:40:22" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>meaning unsure; possibly: = state in which a nation is described as strong and powerful</DefinitionShort>
+              <Glosses>
+                <Gloss>mighty</Gloss>
+                <Gloss>powerful</Gloss>
+                <Gloss>strong</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>02301800200060{N:003}</LEXReference>
+            <LEXReference>02301800200062{N:003}</LEXReference>
+            <LEXReference>02301800700048{N:003}</LEXReference>
+            <LEXReference>02301800700050{N:003}</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+          <LEXCoreDomains>
+            <LEXCoreDomain Code="172">Strength</LEXCoreDomain>
+          </LEXCoreDomains>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+    <BaseForm Id="006405003000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>nsc</PartOfSpeech>
+      </PartsOfSpeech>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="006405003001000" IsBiblicalTerm="Y" EntryCode="" Indent="0">
+          <LEXDomains>
+            <LEXDomain Code="002004001009007">Sounds</LEXDomain>
+          </LEXDomains>
+          <LEXCollocations>
+            <LEXCollocation>צַו לָצַו צַו לָצַו קַו לָקַו קַו לָקַו</LEXCollocation>
+          </LEXCollocations>
+          <LEXSynonyms>
+            <LEXSynonym>צַו</LEXSynonym>
+          </LEXSynonyms>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2015-12-21 12:40:22" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>= the letters tsade and qoph of the Hebrew alphabet recited as part of a kind of nursery rhyme; ≈ associated with childish behavior and therefore looked upon with contempt</DefinitionShort>
+              <Glosses>
+                <Gloss>tsade tsade qoph qoph</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>02302801000016</LEXReference>
+            <LEXReference>02302801000020</LEXReference>
+            <LEXReference>02302801000022</LEXReference>
+            <LEXReference>02302801000026</LEXReference>
+            <LEXReference>02302801300024</LEXReference>
+            <LEXReference>02302801300028</LEXReference>
+            <LEXReference>02302801300030</LEXReference>
+            <LEXReference>02302801300034</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+          <LEXCoreDomains>
+            <LEXCoreDomain Code="041">Communication</LEXCoreDomain>
+          </LEXCoreDomains>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+    <BaseForm Id="006405004000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>nsm</PartOfSpeech>
+      </PartsOfSpeech>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="006405004001000" IsBiblicalTerm="N" EntryCode="" Indent="0">
+          <LEXDomains>
+            <LEXDomain Code="002004002007" Source="Shout" SourceCode="002004001009005">Know</LEXDomain>
+          </LEXDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2015-12-21 12:40:22" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>meaning unsure; literally: to shout; hence, possibly: = process by which information is transferred with clarity</DefinitionShort>
+              <Glosses>
+                <Gloss>voice</Gloss>
+                <Gloss>message</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>01901900500012{N:002}</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+          <LEXCoreDomains>
+            <LEXCoreDomain Code="106">Mind</LEXCoreDomain>
+            <LEXCoreDomain Code="041">Communication</LEXCoreDomain>
+          </LEXCoreDomains>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

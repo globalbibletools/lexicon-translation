@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="000609000000000" Lemma="ἀποκρύπτω" Version="0" HasAramaic="false" InLXX="true" AlphaPos="α">
+  <StrongCodes>
+    <Strong>G0613</Strong>
+  </StrongCodes>
+  <Authors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes>
+    <Note Caller="1" LanguageCode="en" LastEdited="" LastEditedBy="">
+      <References/>
+      <Content>It is not easy to distinguish clearly between ἀποκρύπτω ({D:28.80}) and συγκαλύπτω ({D:28.81}), but ἀποκρύπτω, particularly in passive forms, may imply concealment on the basis of the nature of the object itself, while συγκαλύπτω would appear, at least in certain contexts, to imply a greater measure of intent or purpose.</Content>
+    </Note>
+  </Notes>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="000609001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>verb</PartOfSpeech>
+      </PartsOfSpeech>
+      <RelatedLemmas>
+        <RelatedLemma>
+          <Word>κρύπτω</Word>
+        </RelatedLemma>
+      </RelatedLemmas>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="000609001001000" IsBiblicalTerm="Y" EntryCode="28.80" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Know</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Not Able To Be Known, Secret</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-08-12 15:51:26" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>to cause something to remain unknown, with the implication of concealment and inaccessibility{N:001}</DefinitionShort>
+              <Glosses>
+                <Gloss>to keep secret</Gloss>
+                <Gloss>to conceal</Gloss>
+              </Glosses>
+              <Comments>The passive expression ‘concealed’ may be rendered in an active form as ‘God has kept people from knowing about this wisdom.’</Comments>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04201002100046</LEXReference>
+            <LEXReference>04600200700016</LEXReference>
+            <LEXReference>04900300900020</LEXReference>
+            <LEXReference>05100102600008</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

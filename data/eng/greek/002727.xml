@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="002727000000000" Lemma="κατευθύνω" Version="0" HasAramaic="false" InLXX="true" AlphaPos="κ">
+  <StrongCodes>
+    <Strong>G2720</Strong>
+  </StrongCodes>
+  <Authors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes/>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="002727001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>verb</PartOfSpeech>
+      </PartsOfSpeech>
+      <Inflections>
+        <Inflection Lemma="κατευθύνω" BaseFormIndex="1">
+          <Form>aor.opt.3sg.</Form>
+          <Realizations>
+            <Realization>κατευθύναι</Realization>
+          </Realizations>
+          <Comments/>
+        </Inflection>
+        <Inflection Lemma="κατευθύνω" BaseFormIndex="1">
+          <Form>inf.</Form>
+          <Realizations>
+            <Realization>κατευθῦναι</Realization>
+          </Realizations>
+          <Comments/>
+        </Inflection>
+      </Inflections>
+      <Constructs>
+        <Construct Lemma="κατευθύνω" BaseFormIndex="1">
+          <WordMeaningSet>
+            <Word>εὐ</Word>
+          </WordMeaningSet>
+          <WordMeaningSet>
+            <Word>θύνω</Word>
+            <Meaning LanguageCode="en">
+              <Meaning>rush along</Meaning>
+            </Meaning>
+            <Meaning LanguageCode="zhT">
+              <Meaning>快速移動</Meaning>
+            </Meaning>
+          </WordMeaningSet>
+        </Construct>
+      </Constructs>
+      <RelatedLemmas>
+        <RelatedLemma>
+          <Word>εὐθύς</Word>
+        </RelatedLemma>
+      </RelatedLemmas>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="002727001001000" IsBiblicalTerm="Y" EntryCode="36.1" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Guide, Discipline, Follow</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Guide, Lead</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-09-28 10:38:41" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>to so influence others as to cause them to follow a recommended course of action</DefinitionShort>
+              <Glosses>
+                <Gloss>to guide</Gloss>
+                <Gloss>to direct</Gloss>
+                <Gloss>to lead</Gloss>
+              </Glosses>
+              <Comments>In some languages it is difficult to distinguish readily between expressions for ‘leading’ and those which refer to ‘ruling’ or ‘governing,’ but it is important to try to distinguish clearly between these two different sets of interpersonal relations. In some languages, the concept of ‘leading’ can be expressed by ‘showing how to’ or ‘demonstrating how one ought to.’ In other languages it is possible to speak of ‘leading’ as simply ‘going ahead of,’ but too often such an expression may designate only ‘a scout’ who goes ahead to see whether things are safe, or it may refer only to a person who insists on his prerogative as the most distinguished person in a group.</Comments>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>05200301100026</LEXReference>
+            <LEXReference>05300300500008</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+        <LEXMeaning Id="002727001002000" IsBiblicalTerm="Y" EntryCode="41.17" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Behavior and Related States</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Behavior, Conduct</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXCollocations>
+            <LEXCollocation>κατευθύνω τοὺς πόδας</LEXCollocation>
+          </LEXCollocations>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-09-28 10:38:41" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>(an idiom, literally: to guide the feet properly) to guide or direct behavior in an appropriate manner</DefinitionShort>
+              <Glosses>
+                <Gloss>to guide</Gloss>
+                <Gloss>to direct</Gloss>
+                <Gloss>to make to live</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04200107900020</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

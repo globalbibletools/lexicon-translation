@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="005904000000000" Lemma="פלשׁ" Version="5" HasAramaic="false" InLXX="false" AlphaPos="פ">
+  <StrongCodes>
+    <Strong>H6428</Strong>
+  </StrongCodes>
+  <Authors>
+    <Author>Reinier de Blois</Author>
+  </Authors>
+  <Contributors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes>
+    <Note Caller="1" LanguageCode="en" LastEdited="" LastEditedBy="">
+      <References>
+        <Reference>03300101000026</Reference>
+      </References>
+      <Content>MT-K התפלשׁתי | MT-Q הִתְפַּלָּשִׁי</Content>
+    </Note>
+  </Notes>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="005904001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>vb</PartOfSpeech>
+      </PartsOfSpeech>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="005904001001000" IsBiblicalTerm="Y" EntryCode="" Indent="0">
+          <LEXDomains>
+            <LEXDomain Code="002002001019">Turn</LEXDomain>
+          </LEXDomains>
+          <LEXForms>
+            <LEXForm>vbhit-</LEXForm>
+          </LEXForms>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2017-11-06 15:58:15" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>= action by which humans turn about in a substance, so that their body or clothing is covered by it</DefinitionShort>
+              <Glosses>
+                <Gloss>to roll</Gloss>
+                <Gloss>to wallow</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>02400602600012</LEXReference>
+            <LEXReference>02402503400014</LEXReference>
+            <LEXReference>02602703000034</LEXReference>
+            <LEXReference>03300101000026{N:001}</LEXReference>
+            <LEXReference>03300101000028</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+          <LEXCoreDomains>
+            <LEXCoreDomain Code="110">Motion</LEXCoreDomain>
+            <LEXCoreDomain Code="019">Body</LEXCoreDomain>
+          </LEXCoreDomains>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="004582000000000" Lemma="נָאוֶה" Version="4" HasAramaic="false" InLXX="false" AlphaPos="נ">
+  <StrongCodes>
+    <Strong>H5000</Strong>
+  </StrongCodes>
+  <Authors>
+    <Author>Reinier de Blois</Author>
+  </Authors>
+  <Contributors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes/>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="004582001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>aj</PartOfSpeech>
+      </PartsOfSpeech>
+      <RelatedLemmas>
+        <RelatedLemma>
+          <Word>נאה</Word>
+        </RelatedLemma>
+      </RelatedLemmas>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="004582001001000" IsBiblicalTerm="Y" EntryCode="" Indent="0">
+          <LEXDomains>
+            <LEXDomain Code="002001001028">Good</LEXDomain>
+          </LEXDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2017-11-08 07:44:55" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>= state in which humans or parts of their body are considered physically attractive</DefinitionShort>
+              <Glosses>
+                <Gloss>beautiful</Gloss>
+                <Gloss>lovely</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>02200100500008</LEXReference>
+            <LEXReference>02200201400042</LEXReference>
+            <LEXReference>02200400300016</LEXReference>
+            <LEXReference>02200600400012</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+          <LEXCoreDomains>
+            <LEXCoreDomain Code="016">Beauty</LEXCoreDomain>
+          </LEXCoreDomains>
+        </LEXMeaning>
+        <LEXMeaning Id="004582001002000" IsBiblicalTerm="Y" EntryCode="" Indent="0">
+          <LEXDomains>
+            <LEXDomain Code="002001003014" Source="Good" SourceCode="002001001028">Right</LEXDomain>
+          </LEXDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2017-11-08 07:44:55" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>literally: beautiful; hence: = state in which a certain event is considered appropriate in a particular context </DefinitionShort>
+              <Glosses>
+                <Gloss>appropriate</Gloss>
+                <Gloss>fitting</Gloss>
+                <Gloss>becoming</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>01903300100016</LEXReference>
+            <LEXReference>02001700700004</LEXReference>
+            <LEXReference>02001901000004</LEXReference>
+            <LEXReference>02002600100032</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

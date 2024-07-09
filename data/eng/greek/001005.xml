@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="001005000000000" Lemma="βοήθεια" Version="0" HasAramaic="false" InLXX="true" AlphaPos="β">
+  <StrongCodes>
+    <Strong>G0996</Strong>
+  </StrongCodes>
+  <Authors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes>
+    <Note Caller="1" LanguageCode="en" LastEdited="" LastEditedBy="">
+      <References/>
+      <Content>The various terms noted in {D:35.1} (ἀντιλαμβάνω[a], ἐπιλαμβάνομαι[d],  ὑπολαμβάνω[c], συμβάλλω[e], παρίστημι[l], ἀντέχω[c], ἐπαρκέω[a], βοηθέω, βοήθεια[a]) with a generic meaning of ‘help’ no doubt possess certain contrastive features of meaning, at least of a connotative type, but there is no specific evidence of this in NT usage.</Content>
+    </Note>
+  </Notes>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="001005001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>noun, f.</PartOfSpeech>
+      </PartsOfSpeech>
+      <Inflections>
+        <Inflection Lemma="βοήθεια" BaseFormIndex="1">
+          <Form/>
+          <Realizations>
+            <Realization>-ας</Realization>
+          </Realizations>
+          <Comments/>
+        </Inflection>
+      </Inflections>
+      <RelatedLemmas>
+        <RelatedLemma>
+          <Word>βοηθέω</Word>
+        </RelatedLemma>
+      </RelatedLemmas>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="001005001001000" IsBiblicalTerm="Y" EntryCode="35.1" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Help, Care For</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Help</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-02-08 23:48:24" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>assistance in supplying what may be needed{N:001}</DefinitionShort>
+              <Glosses>
+                <Gloss>help</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>05800401600034</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+        <LEXMeaning Id="001005001002000" IsBiblicalTerm="Y" EntryCode="35.10" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Help, Care For</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Help</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-02-08 23:48:24" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>(derivative of {L:βοηθέω&lt;SDBG:βοηθέω:000000&gt;} ‘to help,’ {D:35.1}) an object which provides help or support</DefinitionShort>
+              <Glosses>
+                <Gloss>support</Gloss>
+              </Glosses>
+              <Comments>In a number of languages it may be important to render βοήθεια[b] by something more specific, for example, 'ropes,´ as in 'they fastened some ropes tightly around the ship,´ since ropes may be the most likely reference in {S:04402701700006}.</Comments>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04402701700006</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

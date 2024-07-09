@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="000365000000000" Lemma="ἀνάμνησις" Version="0" HasAramaic="false" InLXX="true" AlphaPos="α">
+  <StrongCodes>
+    <Strong>G0364</Strong>
+  </StrongCodes>
+  <Authors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes/>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="000365001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>noun, f.</PartOfSpeech>
+      </PartsOfSpeech>
+      <Inflections>
+        <Inflection Lemma="ἀνάμνησις" BaseFormIndex="1">
+          <Form/>
+          <Realizations>
+            <Realization>-εως</Realization>
+          </Realizations>
+          <Comments/>
+        </Inflection>
+      </Inflections>
+      <RelatedLemmas>
+        <RelatedLemma>
+          <Word>μιμνῄσκομαι</Word>
+        </RelatedLemma>
+      </RelatedLemmas>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="000365001001000" IsBiblicalTerm="Y" EntryCode="29.11" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Memory and Recall</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Recalling from Memory</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2022-08-10 16:20:21" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>(derivative of {L:ἀναμιμνῄσκω&lt;SDBG:ἀναμιμνῄσκω:000000&gt;} ‘to cause to remember,’ {D:29.10}) the means for causing someone to remember</DefinitionShort>
+              <Glosses>
+                <Gloss>means of remembering</Gloss>
+                <Gloss>reminder</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04202201900048</LEXReference>
+            <LEXReference>04601102400038</LEXReference>
+            <LEXReference>04601102500056</LEXReference>
+            <LEXReference>05801000300008</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="000358000000000" Lemma="אִישֹׁון" Version="5" HasAramaic="false" InLXX="false" AlphaPos="א">
+  <StrongCodes>
+    <Strong>H0380a</Strong>
+  </StrongCodes>
+  <Authors>
+    <Author>Reinier de Blois</Author>
+  </Authors>
+  <Contributors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes>
+    <Note Caller="1" LanguageCode="en" LastEdited="" LastEditedBy="">
+      <References>
+        <Reference>02000700900014</Reference>
+      </References>
+      <Content>{A:MT} {A:NJPS} {A:NJB} {A:GNT} {A:CEV} | {A:RSV} {A:NIV} {A:GNT} {A:CEV} אֱשׁוּן</Content>
+    </Note>
+    <Note Caller="2" LanguageCode="en" LastEdited="" LastEditedBy="">
+      <References>
+        <Reference>02002002000016</Reference>
+      </References>
+      <Content>{A:MT-K} {A:RSV} {A:NIV} {A:NJB} {A:NRSV} {A:REB} | {A:MT-Q} {A:NJPS} {A:GNT} {A:CEV} אֱשׁוּן</Content>
+    </Note>
+  </Notes>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="000358001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>nsm</PartOfSpeech>
+      </PartsOfSpeech>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="000358001001000" IsBiblicalTerm="Y" EntryCode="" Indent="0">
+          <LEXDomains>
+            <LEXDomain Code="001001002">Creatures</LEXDomain>
+          </LEXDomains>
+          <LEXCollocations>
+            <LEXCollocation>אִישֹׁון עַיִן</LEXCollocation>
+            <LEXCollocation>אִישֹׁון בַּת־עַיִן</LEXCollocation>
+          </LEXCollocations>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2014-01-11 15:13:33" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>= center part of iris of eye, ≈ associated with care as this is a very sensitive part of the body that people are inclined to take proper care of</DefinitionShort>
+              <Glosses>
+                <Gloss>apple of the eye</Gloss>
+                <Gloss>pupil</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>00503201000028</LEXReference>
+            <LEXReference>01901700800006</LEXReference>
+            <LEXReference>02000700200016</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+          <LEXCoreDomains>
+            <LEXCoreDomain Code="019">Body</LEXCoreDomain>
+          </LEXCoreDomains>
+        </LEXMeaning>
+        <LEXMeaning Id="000358001002000" IsBiblicalTerm="Y" EntryCode="" Indent="0">
+          <LEXDomains>
+            <LEXDomain Code="003002005" Source="Creatures" SourceCode="001001002">Temporal Referents</LEXDomain>
+          </LEXDomains>
+          <LEXCollocations>
+            <LEXCollocation>אִישֹׁון חֹשֶׁךְ</LEXCollocation>
+            <LEXCollocation>אִישֹׁון לַיְלָה</LEXCollocation>
+          </LEXCollocations>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2014-01-11 15:13:33" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>literally: the center of night, darkness: = reference to  the middle of the night when the darkness is deepest</DefinitionShort>
+              <Glosses>
+                <Gloss>utter darkness</Gloss>
+                <Gloss>middle of the night</Gloss>
+                <Gloss>dead of night</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>02000700900014{N:001}</LEXReference>
+            <LEXReference>02002002000016{N:002}</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+          <LEXCoreDomains>
+            <LEXCoreDomain Code="180">Time</LEXCoreDomain>
+          </LEXCoreDomains>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

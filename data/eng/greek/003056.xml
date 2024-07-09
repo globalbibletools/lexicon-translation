@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="003056000000000" Lemma="λιθοβολέω" Version="0" HasAramaic="false" InLXX="true" AlphaPos="λ">
+  <StrongCodes>
+    <Strong>G3036</Strong>
+  </StrongCodes>
+  <Authors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes/>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="003056001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>verb</PartOfSpeech>
+      </PartsOfSpeech>
+      <Constructs>
+        <Construct Lemma="λιθοβολέω" BaseFormIndex="1">
+          <WordMeaningSet>
+            <Word>λιθάζω</Word>
+          </WordMeaningSet>
+          <WordMeaningSet>
+            <Word>βάλλω</Word>
+          </WordMeaningSet>
+        </Construct>
+      </Constructs>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="003056001001000" IsBiblicalTerm="M" EntryCode="20.79" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Violence, Harm, Destroy, Kill</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Kill</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-11-09 10:42:26" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>to kill or attempt to kill by means of hurling stones, normally carried out by angry mobs</DefinitionShort>
+              <Glosses>
+                <Gloss>to stone to death</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04002103500032</LEXReference>
+            <LEXReference>04002303700016</LEXReference>
+            <LEXReference>04201303400016</LEXReference>
+            <LEXReference>04400705800012</LEXReference>
+            <LEXReference>04400705900004</LEXReference>
+            <LEXReference>04401400500032</LEXReference>
+            <LEXReference>05801202000022</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="000296000000000" Lemma="אַחֲרֹון" Version="5" HasAramaic="false" InLXX="false" AlphaPos="א">
+  <StrongCodes>
+    <Strong>H0314</Strong>
+  </StrongCodes>
+  <Authors>
+    <Author>Reinier de Blois</Author>
+  </Authors>
+  <Contributors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes>
+    <Note Caller="1" LanguageCode="en" LastEdited="" LastEditedBy="">
+      <References>
+        <Reference>01801802000008</Reference>
+      </References>
+      <Content>NJPS "generations to come"</Content>
+    </Note>
+  </Notes>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="000296001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>aj</PartOfSpeech>
+      </PartsOfSpeech>
+      <RelatedLemmas>
+        <RelatedLemma>
+          <Word>אחר</Word>
+        </RelatedLemma>
+      </RelatedLemmas>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="000296001001000" IsBiblicalTerm="Y" EntryCode="" Indent="0">
+          <LEXDomains>
+            <LEXDomain Code="002002001013">Orientation</LEXDomain>
+          </LEXDomains>
+          <LEXAntonyms>
+            <LEXAntonym>רִאשֹׁון</LEXAntonym>
+          </LEXAntonyms>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2016-12-20 19:07:25" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>= pertaining to being located behind other objects in a row</DefinitionShort>
+              <Glosses>
+                <Gloss>behind</Gloss>
+                <Gloss>last</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>00103300200030</LEXReference>
+            <LEXReference>00103300200044</LEXReference>
+            <LEXReference>01801802000008{N:001}</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+          <LEXCoreDomains>
+            <LEXCoreDomain Code="166">Space</LEXCoreDomain>
+          </LEXCoreDomains>
+        </LEXMeaning>
+        <LEXMeaning Id="000296001002000" IsBiblicalTerm="Y" EntryCode="" Indent="0">
+          <LEXDomains>
+            <LEXDomain Code="002002002010" Source="Orientation" SourceCode="002002001013">Time</LEXDomain>
+          </LEXDomains>
+          <LEXAntonyms>
+            <LEXAntonym>רִאשֹׁון</LEXAntonym>
+          </LEXAntonyms>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2016-12-20 19:07:25" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>= pertaining to being the latest in a chronological range of events, which may be situated in either past, present, or future</DefinitionShort>
+              <Glosses>
+                <Gloss>latter</Gloss>
+                <Gloss>last</Gloss>
+                <Gloss>next</Gloss>
+                <Gloss>... to come</Gloss>
+                <Gloss>future</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>00200400800046</LEXReference>
+            <LEXReference>00400203100038</LEXReference>
+            <LEXReference>00501301000038</LEXReference>
+            <LEXReference>00501700700036</LEXReference>
+            <LEXReference>00502400300012</LEXReference>
+            <LEXReference>00502400300052</LEXReference>
+            <LEXReference>00502902100012</LEXReference>
+            <LEXReference>00800301000022</LEXReference>
+            <LEXReference>00902900200034</LEXReference>
+            <LEXReference>01000202600042</LEXReference>
+            <LEXReference>01001901200046</LEXReference>
+            <LEXReference>01001901300020</LEXReference>
+            <LEXReference>01002300100012</LEXReference>
+            <LEXReference>01101701300064</LEXReference>
+            <LEXReference>01302302700012</LEXReference>
+            <LEXReference>01302902900020</LEXReference>
+            <LEXReference>01400902900018</LEXReference>
+            <LEXReference>01401201500016</LEXReference>
+            <LEXReference>01401601100018</LEXReference>
+            <LEXReference>01402003400018</LEXReference>
+            <LEXReference>01402502600018</LEXReference>
+            <LEXReference>01402602200018</LEXReference>
+            <LEXReference>01402802600022</LEXReference>
+            <LEXReference>01403502700014</LEXReference>
+            <LEXReference>01500801300010</LEXReference>
+            <LEXReference>01600801800040</LEXReference>
+            <LEXReference>01801902500014</LEXReference>
+            <LEXReference>01904801400022</LEXReference>
+            <LEXReference>01907800400014</LEXReference>
+            <LEXReference>01907800600008</LEXReference>
+            <LEXReference>01910201900010</LEXReference>
+            <LEXReference>02003102500018</LEXReference>
+            <LEXReference>02100101100020</LEXReference>
+            <LEXReference>02100101100044</LEXReference>
+            <LEXReference>02100401600030</LEXReference>
+            <LEXReference>02300802300042</LEXReference>
+            <LEXReference>02303000800030</LEXReference>
+            <LEXReference>02304100400030</LEXReference>
+            <LEXReference>02304400600028</LEXReference>
+            <LEXReference>02304801200026</LEXReference>
+            <LEXReference>02405001700028</LEXReference>
+            <LEXReference>02700800300070</LEXReference>
+            <LEXReference>02701102900038</LEXReference>
+            <LEXReference>03700200900018</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+          <LEXCoreDomains>
+            <LEXCoreDomain Code="180" Source="Space" SourceCode="166">Time</LEXCoreDomain>
+          </LEXCoreDomains>
+        </LEXMeaning>
+        <LEXMeaning Id="000296001003000" IsBiblicalTerm="M" EntryCode="" Indent="0">
+          <LEXDomains>
+            <LEXDomain Code="003001015">Names of Waterbodies</LEXDomain>
+          </LEXDomains>
+          <LEXCollocations>
+            <LEXCollocation>הַיָּם הָאַחֲרֹון</LEXCollocation>
+          </LEXCollocations>
+          <LEXAntonyms>
+            <LEXAntonym>הַיָּם הַקַּדְמֹנִי</LEXAntonym>
+          </LEXAntonyms>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2016-12-20 19:07:25" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>literally: the sea behind; hence: = Mediterranean Sea</DefinitionShort>
+              <Glosses>
+                <Gloss>Mediterranean</Gloss>
+                <Gloss>Western Sea</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>00501102400054</LEXReference>
+            <LEXReference>00503400200040</LEXReference>
+            <LEXReference>02900202000056</LEXReference>
+            <LEXReference>03801400800050</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+          <LEXCoreDomains>
+            <LEXCoreDomain Code="166">Space</LEXCoreDomain>
+          </LEXCoreDomains>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

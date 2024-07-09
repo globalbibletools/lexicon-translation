@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="000905000000000" Lemma="בָּחִיר" Version="5" HasAramaic="false" InLXX="false" AlphaPos="ב">
+  <StrongCodes>
+    <Strong>H0972</Strong>
+  </StrongCodes>
+  <Authors>
+    <Author>Enio R. Mueller</Author>
+  </Authors>
+  <Contributors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes>
+    <Note Caller="1" LanguageCode="en" LastEdited="" LastEditedBy="">
+      <References>
+        <Reference>01002100600030</Reference>
+      </References>
+      <Content>NIV NJPS REB GNT CEV | RSV NRSV "on the mountain of the Lord" NJB "on Yahweh's hill" = בְּהַר יהוה</Content>
+    </Note>
+  </Notes>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="000905001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>aj</PartOfSpeech>
+      </PartsOfSpeech>
+      <RelatedLemmas>
+        <RelatedLemma>
+          <Word>בחר</Word>
+        </RelatedLemma>
+      </RelatedLemmas>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="000905001001000" IsBiblicalTerm="M" EntryCode="" Indent="0">
+          <LEXDomains>
+            <LEXDomain Code="002003002002" Source="Think" SourceCode="002004002014">Apart</LEXDomain>
+          </LEXDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2015-03-23 22:22:07" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>= individual or group of people especially selected and appointed for a certain purpose</DefinitionShort>
+              <Glosses>
+                <Gloss>chosen</Gloss>
+                <Gloss>elect</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>01002100600030{N:001}</LEXReference>
+            <LEXReference>01301601300012</LEXReference>
+            <LEXReference>01908900400008</LEXReference>
+            <LEXReference>01910500600012</LEXReference>
+            <LEXReference>01910504300018</LEXReference>
+            <LEXReference>01910600500010</LEXReference>
+            <LEXReference>01910602300014</LEXReference>
+            <LEXReference>02304200100010</LEXReference>
+            <LEXReference>02304302000042</LEXReference>
+            <LEXReference>02304500400012</LEXReference>
+            <LEXReference>02306500900026</LEXReference>
+            <LEXReference>02306501500014</LEXReference>
+            <LEXReference>02306502200044</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+          <LEXCoreDomains>
+            <LEXCoreDomain Code="106">Mind</LEXCoreDomain>
+          </LEXCoreDomains>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

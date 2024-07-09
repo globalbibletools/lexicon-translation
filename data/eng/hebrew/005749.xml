@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="005749000000000" Lemma="עַתִּיק" Version="5" HasAramaic="true" InLXX="false" AlphaPos="ע">
+  <StrongCodes>
+    <Strong>H6267</Strong>
+    <Strong>A6268</Strong>
+  </StrongCodes>
+  <Authors>
+    <Author>Reinier de Blois</Author>
+  </Authors>
+  <Contributors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes/>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="005749001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>aj</PartOfSpeech>
+      </PartsOfSpeech>
+      <RelatedLemmas>
+        <RelatedLemma>
+          <Word>עתק</Word>
+        </RelatedLemma>
+      </RelatedLemmas>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="005749001001000" IsBiblicalTerm="Y" EntryCode="" Indent="0">
+          <LEXDomains>
+            <LEXDomain Code="002002001011">Move</LEXDomain>
+          </LEXDomains>
+          <LEXCollocations>
+            <LEXCollocation>עַתִּיק מִשָּׁדַיִם</LEXCollocation>
+          </LEXCollocations>
+          <LEXSynonyms>
+            <LEXSynonym>גמל</LEXSynonym>
+          </LEXSynonyms>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2017-03-17 17:41:19" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>literally: taken from the (mother's) breasts; hence: = process by which babies are getting accustomed to food other than the mother's milk; ≈ associated with babies</DefinitionShort>
+              <Glosses>
+                <Gloss>taken from the breast</Gloss>
+                <Gloss>weaned</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>02302800900026</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+        <LEXMeaning Id="005749001002000" IsBiblicalTerm="Y" EntryCode="" Indent="0">
+          <LEXDomains>
+            <LEXDomain Code="002001001038">Old</LEXDomain>
+          </LEXDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2017-03-17 17:41:19" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>= state in which deities or objects have come to existence a long time ago</DefinitionShort>
+              <Glosses>
+                <Gloss>old</Gloss>
+                <Gloss>ancient</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>01300402200038</LEXReference>
+            <LEXReference>02700700900016</LEXReference>
+            <LEXReference>02700701300036</LEXReference>
+            <LEXReference>02700702200008</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+          <LEXCoreDomains>
+            <LEXCoreDomain Code="005">Age</LEXCoreDomain>
+          </LEXCoreDomains>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

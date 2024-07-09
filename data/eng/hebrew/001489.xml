@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="001489000000000" Lemma="גרה" Version="5" HasAramaic="false" InLXX="false" AlphaPos="ג">
+  <StrongCodes>
+    <Strong>H1624</Strong>
+  </StrongCodes>
+  <Authors>
+    <Author>Reinier de Blois</Author>
+  </Authors>
+  <Contributors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes>
+    <Note Caller="1" LanguageCode="en" LastEdited="" LastEditedBy="">
+      <References>
+        <Reference>02701101000042</Reference>
+      </References>
+      <Content>MT-K ויתגרו | MT-Q וְיִתְגָּרֶה</Content>
+    </Note>
+  </Notes>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="001489001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>vb</PartOfSpeech>
+      </PartsOfSpeech>
+      <RelatedLemmas>
+        <RelatedLemma>
+          <Word>תִּגְרָה</Word>
+        </RelatedLemma>
+      </RelatedLemmas>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="001489001001000" IsBiblicalTerm="Y" EntryCode="" Indent="0">
+          <LEXDomains>
+            <LEXDomain Code="002001002002">Angry</LEXDomain>
+          </LEXDomains>
+          <LEXForms>
+            <LEXForm>vbpiel</LEXForm>
+            <LEXForm>vbhit-</LEXForm>
+          </LEXForms>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2017-03-09 11:29:37" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>= causative action by which humans provoke other humans to anger and so cause conflicts</DefinitionShort>
+              <Glosses>
+                <Gloss>to provoke</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>00500200500004</LEXReference>
+            <LEXReference>00500200900022</LEXReference>
+            <LEXReference>00500201900020</LEXReference>
+            <LEXReference>00500202400048</LEXReference>
+            <LEXReference>01201401000030</LEXReference>
+            <LEXReference>01402501900032</LEXReference>
+            <LEXReference>02001501800006</LEXReference>
+            <LEXReference>02002800400016</LEXReference>
+            <LEXReference>02002802500006</LEXReference>
+            <LEXReference>02002902200006</LEXReference>
+            <LEXReference>02405002400036</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+          <LEXCoreDomains>
+            <LEXCoreDomain Code="176">Temper</LEXCoreDomain>
+            <LEXCoreDomain Code="044">Conflict</LEXCoreDomain>
+            <LEXCoreDomain Code="017">Behavior</LEXCoreDomain>
+          </LEXCoreDomains>
+        </LEXMeaning>
+        <LEXMeaning Id="001489001002000" IsBiblicalTerm="Y" EntryCode="" Indent="0">
+          <LEXDomains>
+            <LEXDomain Code="002003002007" Source="Angry" SourceCode="002001002002">Conflict</LEXDomain>
+          </LEXDomains>
+          <LEXForms>
+            <LEXForm>vbhit-</LEXForm>
+          </LEXForms>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2017-03-09 11:29:37" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>= action by which humans wage war with other humans</DefinitionShort>
+              <Glosses>
+                <Gloss>to wage war</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>02701101000042{N:001}</LEXReference>
+            <LEXReference>02701102500034</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+          <LEXCoreDomains>
+            <LEXCoreDomain Code="044">Conflict</LEXCoreDomain>
+            <LEXCoreDomain Code="188">Warfare</LEXCoreDomain>
+          </LEXCoreDomains>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

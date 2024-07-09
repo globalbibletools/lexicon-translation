@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="003795000000000" Lemma="παραπίπτω" Version="0" HasAramaic="false" InLXX="true" AlphaPos="π">
+  <StrongCodes>
+    <Strong>G3895</Strong>
+  </StrongCodes>
+  <Authors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes>
+    <Note Caller="1" LanguageCode="en" LastEdited="" LastEditedBy="">
+      <References/>
+      <Content>The meanings of παραπίπτω, ἐκπίπτω[c], ἀποστρέφομαι[b], and ἀφίσταμαι[b] appear to focus upon the initial aspects of dissociation. As such, they constitute a reversal of the process of joining or beginning to associate.</Content>
+    </Note>
+  </Notes>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="003795001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>verb</PartOfSpeech>
+      </PartsOfSpeech>
+      <Inflections>
+        <Inflection Lemma="παραπίπτω" BaseFormIndex="1">
+          <Form>aor.ptc.</Form>
+          <Realizations>
+            <Realization>παραπεσών</Realization>
+          </Realizations>
+          <Comments/>
+        </Inflection>
+      </Inflections>
+      <RelatedLemmas>
+        <RelatedLemma>
+          <Word>πίπτω</Word>
+        </RelatedLemma>
+      </RelatedLemmas>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="003795001001000" IsBiblicalTerm="M" EntryCode="34.26" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Association</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Join, Begin To Associate</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-12-20 15:53:21" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>to abandon a former relationship or association, or to dissociate (a type of reversal of beginning to associate){N:001}</DefinitionShort>
+              <Glosses>
+                <Gloss>to fall away</Gloss>
+                <Gloss>to forsake</Gloss>
+                <Gloss>to turn away</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>05800600600004</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

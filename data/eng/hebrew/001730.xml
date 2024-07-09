@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="001730000000000" Lemma="דָּת" Version="5" HasAramaic="true" InLXX="false" AlphaPos="ד">
+  <StrongCodes>
+    <Strong>H1881</Strong>
+    <Strong>A1882</Strong>
+  </StrongCodes>
+  <Authors>
+    <Author>Enio R. Mueller</Author>
+  </Authors>
+  <Contributors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes>
+    <Note Caller="1" LanguageCode="en" LastEdited="" LastEditedBy="">
+      <References>
+        <Reference>00503300200052</Reference>
+      </References>
+      <Content>MT-Q אֵשׁ דָּת "fiery law" | RSV GNT "flaming fire" NJPS "lightning flashing" | NIV "mountain slopes" NJB "foothills" = {L:אֶשֶׁד&lt;SDBH:אֶשֶׁד&gt;} | LXX "ἄγγελοι" NRSV "host" | REB "streaming along" | CEV "fire" = {L:אֵשׁ&lt;SDBH:אֵשׁ&gt;}</Content>
+    </Note>
+    <Note Caller="2" LanguageCode="en" LastEdited="" LastEditedBy="">
+      <References>
+        <Reference>00503300200048</Reference>
+      </References>
+      <Content>MT-K אשׁדת | MT-Q אֵשׁ דָּת</Content>
+    </Note>
+  </Notes>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="001730001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>nsf</PartOfSpeech>
+      </PartsOfSpeech>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="001730001001000" IsBiblicalTerm="M" EntryCode="" Indent="0">
+          <LEXDomains>
+            <LEXDomain Code="002003003015">Laws</LEXDomain>
+          </LEXDomains>
+          <LEXSynonyms>
+            <LEXSynonym>דִּין</LEXSynonym>
+          </LEXSynonyms>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2016-04-23 14:54:20" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>= a rule or directive made and maintained by someone in authority</DefinitionShort>
+              <Glosses>
+                <Gloss>law</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>01500701200016</LEXReference>
+            <LEXReference>01500701400040</LEXReference>
+            <LEXReference>01500702100044</LEXReference>
+            <LEXReference>01500702500056</LEXReference>
+            <LEXReference>01500702600014</LEXReference>
+            <LEXReference>01500702600022</LEXReference>
+            <LEXReference>01500803600008</LEXReference>
+            <LEXReference>01700100800012</LEXReference>
+            <LEXReference>01700101300040</LEXReference>
+            <LEXReference>01700101500004</LEXReference>
+            <LEXReference>01700101900030</LEXReference>
+            <LEXReference>01700200800018</LEXReference>
+            <LEXReference>01700201200038</LEXReference>
+            <LEXReference>01700300800044</LEXReference>
+            <LEXReference>01700300800058</LEXReference>
+            <LEXReference>01700301400012</LEXReference>
+            <LEXReference>01700301500022</LEXReference>
+            <LEXReference>01700400300026</LEXReference>
+            <LEXReference>01700400800012</LEXReference>
+            <LEXReference>01700401100060</LEXReference>
+            <LEXReference>01700401600084</LEXReference>
+            <LEXReference>01700801300012</LEXReference>
+            <LEXReference>01700801400036</LEXReference>
+            <LEXReference>01700801700038</LEXReference>
+            <LEXReference>01700900100040</LEXReference>
+            <LEXReference>01700901300042</LEXReference>
+            <LEXReference>01700901400020</LEXReference>
+            <LEXReference>02700200900016</LEXReference>
+            <LEXReference>02700201300004</LEXReference>
+            <LEXReference>02700201500022</LEXReference>
+            <LEXReference>02700600600034</LEXReference>
+            <LEXReference>02700600900026</LEXReference>
+            <LEXReference>02700601300084</LEXReference>
+            <LEXReference>02700601600030</LEXReference>
+            <LEXReference>02700702500038</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+          <LEXCoreDomains>
+            <LEXCoreDomain Code="098">Law</LEXCoreDomain>
+            <LEXCoreDomain Code="015">Authority</LEXCoreDomain>
+          </LEXCoreDomains>
+        </LEXMeaning>
+        <LEXMeaning Id="001730001002000" IsBiblicalTerm="N" EntryCode="" Indent="0">
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-09-05 14:31:28" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>= meaning unsure{N:001}</DefinitionShort>
+              <Glosses>
+                <Gloss>---</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>00503300200048{N:002}</LEXReference>
+            <LEXReference>00503300200052{N:001}</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

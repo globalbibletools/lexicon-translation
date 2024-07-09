@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="002359000000000" Lemma="חמץ" Version="5" HasAramaic="false" InLXX="false" AlphaPos="ח">
+  <StrongCodes>
+    <Strong>H2556a</Strong>
+    <Strong>H2556b</Strong>
+    <Strong>H2556c</Strong>
+  </StrongCodes>
+  <Authors>
+    <Author>Reinier de Blois</Author>
+  </Authors>
+  <Contributors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes/>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="002359001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>vb</PartOfSpeech>
+      </PartsOfSpeech>
+      <RelatedLemmas>
+        <RelatedLemma>
+          <Word>חָמִיץ</Word>
+        </RelatedLemma>
+        <RelatedLemma>
+          <Word>חָמֵץ</Word>
+        </RelatedLemma>
+        <RelatedLemma>
+          <Word>חֹמֶץ</Word>
+        </RelatedLemma>
+        <RelatedLemma>
+          <Word>מַחְמֶצֶת</Word>
+        </RelatedLemma>
+      </RelatedLemmas>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="002359001001000" IsBiblicalTerm="M" EntryCode="" Indent="0">
+          <LEXDomains>
+            <LEXDomain Code="002004001008">Taste</LEXDomain>
+          </LEXDomains>
+          <LEXForms>
+            <LEXForm>vbqal-</LEXForm>
+          </LEXForms>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2018-01-13 05:31:57" LastEditedBy="administrator">
+              <DefinitionLong/>
+              <DefinitionShort>= process by which food becomes sour ◄ due to the addition of sourdough or leaven during the production process</DefinitionShort>
+              <Glosses>
+                <Gloss>to be leavened</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>00201203400016</LEXReference>
+            <LEXReference>00201203900028</LEXReference>
+            <LEXReference>02800700400028</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+          <LEXCoreDomains>
+            <LEXCoreDomain Code="069">Food</LEXCoreDomain>
+          </LEXCoreDomains>
+        </LEXMeaning>
+        <LEXMeaning Id="002359001002000" IsBiblicalTerm="Y" EntryCode="" Indent="0">
+          <LEXDomains>
+            <LEXDomain Code="002001002002" Source="Taste" SourceCode="002004001008">Angry</LEXDomain>
+          </LEXDomains>
+          <LEXForms>
+            <LEXForm>vbhit-</LEXForm>
+          </LEXForms>
+          <LEXSynonyms>
+            <LEXSynonym>שׁנן</LEXSynonym>
+          </LEXSynonyms>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2018-01-13 05:32:15" LastEditedBy="administrator">
+              <DefinitionLong/>
+              <DefinitionShort>literally: one's {L:לֵבָב&lt;SDBH:לֵבָב&gt;} heart has become sour; hence: = state in which humans are extremely displeased about something</DefinitionShort>
+              <Glosses>
+                <Gloss>to be discontent</Gloss>
+                <Gloss>to be embittered</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>01907302100004</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+          <LEXCoreDomains>
+            <LEXCoreDomain Code="176">Temper</LEXCoreDomain>
+          </LEXCoreDomains>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+    <BaseForm Id="002359002000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>vb</PartOfSpeech>
+      </PartsOfSpeech>
+      <RelatedLemmas>
+        <RelatedLemma>
+          <Word>חָמֹוץ</Word>
+        </RelatedLemma>
+        <RelatedLemma>
+          <Word>חָמוּץ</Word>
+        </RelatedLemma>
+      </RelatedLemmas>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="002359002001000" IsBiblicalTerm="Y" EntryCode="" Indent="0">
+          <LEXDomains>
+            <LEXDomain Code="002003003021">Unsafe</LEXDomain>
+          </LEXDomains>
+          <LEXForms>
+            <LEXForm>vbqal-</LEXForm>
+          </LEXForms>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2018-01-13 05:31:25" LastEditedBy="administrator">
+              <DefinitionLong/>
+              <DefinitionShort>= causative action by which humans cause hardship to other humans</DefinitionShort>
+              <Glosses>
+                <Gloss>to oppress</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>01907100400020</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+          <LEXCoreDomains>
+            <LEXCoreDomain Code="006">Aggression</LEXCoreDomain>
+            <LEXCoreDomain Code="196">Well-Being</LEXCoreDomain>
+          </LEXCoreDomains>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

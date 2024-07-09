@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="000065000000000" Lemma="ἀγριέλαιος" Version="0" HasAramaic="false" InLXX="false" AlphaPos="α">
+  <StrongCodes>
+    <Strong>G0065</Strong>
+  </StrongCodes>
+  <Authors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes/>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="000065001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>noun, f.</PartOfSpeech>
+      </PartsOfSpeech>
+      <Inflections>
+        <Inflection Lemma="ἀγριέλαιος" BaseFormIndex="1">
+          <Form/>
+          <Realizations>
+            <Realization>-ου</Realization>
+          </Realizations>
+          <Comments/>
+        </Inflection>
+      </Inflections>
+      <Constructs>
+        <Construct Lemma="ἀγριέλαιος" BaseFormIndex="1">
+          <WordMeaningSet>
+            <Word>ἀγρός</Word>
+          </WordMeaningSet>
+          <WordMeaningSet>
+            <Word>ἔλαιον</Word>
+          </WordMeaningSet>
+        </Construct>
+      </Constructs>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="000065001001000" IsBiblicalTerm="M" EntryCode="3.11" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Plants</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Trees</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-01-29 16:52:35" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>a tree regarded by some (though probably wrongly) as the ancestor of the domestic olive tree; smaller, produces smaller fruit with less oil than domestic variety; Olea europaea sylvestris</DefinitionShort>
+              <Glosses>
+                <Gloss>wild olive tree</Gloss>
+              </Glosses>
+              <Comments>In speaking of the wild olive tree as ‘an uncultivated olive tree,’ it is important to make clear that it is not the matter of neglect which produces the wild tree, but the fact that such a tree is essentially different from the cultivated one. A marginal note to this effect may be useful in the context of {S:04501101700018}. The precise identification of the ‘wild olive tree’ cannot be made with certainty. It may be possible in some instances to speak of such a tree as an ‘uncultivated olive tree’ in contrast with a ‘cultivated olive tree.’ It may also be possible to speak of the wild olive tree as ‘the olive tree producing bitter fruit,’ although in reality all olives are bitter before they are cured.|This reference in {S:04501101700018} is intentionally strange because the usual course of action was to graft cultivated branches into wild trees.</Comments>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04501101700018</LEXReference>
+            <LEXReference>04501102400018</LEXReference>
+          </LEXReferences>
+          <LEXLinks>
+            <LEXLink>flora:2.8</LEXLink>
+          </LEXLinks>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

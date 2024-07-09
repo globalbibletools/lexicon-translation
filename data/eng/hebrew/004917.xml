@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="004917000000000" Lemma="נקשׁ" Version="4" HasAramaic="true" InLXX="false" AlphaPos="נ">
+  <StrongCodes>
+    <Strong>H5367</Strong>
+    <Strong>A5368</Strong>
+  </StrongCodes>
+  <Authors>
+    <Author>Reinier de Blois</Author>
+  </Authors>
+  <Contributors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes/>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="004917001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>vb</PartOfSpeech>
+      </PartsOfSpeech>
+      <RelatedLemmas>
+        <RelatedLemma>
+          <Word>יקשׁ</Word>
+        </RelatedLemma>
+        <RelatedLemma>
+          <Word>קושׁ</Word>
+        </RelatedLemma>
+      </RelatedLemmas>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="004917001001000" IsBiblicalTerm="Y" EntryCode="" Indent="0">
+          <LEXDomains>
+            <LEXDomain Code="002003002008">Control</LEXDomain>
+          </LEXDomains>
+          <LEXForms>
+            <LEXForm>vbqal-</LEXForm>
+            <LEXForm>vbpiel</LEXForm>
+            <LEXForm>vbhit-</LEXForm>
+          </LEXForms>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2015-12-19 16:17:49" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>= causative action by which humans try to gain control over other humans in an unjust way, ◄ as if they were animals caught in a net or trap</DefinitionShort>
+              <Glosses>
+                <Gloss>to entrap</Gloss>
+                <Gloss>to ensnare</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>00501203000008</LEXReference>
+            <LEXReference>00902800900056</LEXReference>
+            <LEXReference>01900901700016</LEXReference>
+            <LEXReference>01903801300004</LEXReference>
+          </LEXReferences>
+          <LEXLinks>
+            <LEXLink>Realia:1.4.1</LEXLink>
+          </LEXLinks>
+          <LEXVideos/>
+          <LEXCoreDomains>
+            <LEXCoreDomain Code="040">Control</LEXCoreDomain>
+            <LEXCoreDomain Code="006">Aggression</LEXCoreDomain>
+          </LEXCoreDomains>
+        </LEXMeaning>
+        <LEXMeaning Id="004917001002000" IsBiblicalTerm="Y" EntryCode="" Indent="0">
+          <LEXDomains>
+            <LEXDomain Code="002003002020" Source="Control" SourceCode="002003002008">Possess</LEXDomain>
+          </LEXDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2016-12-29 09:59:32" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>literally: to ensnare; hence: = action by which humans take possession of the goods of other humans by force</DefinitionShort>
+              <Glosses>
+                <Gloss>to seize</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>01910901100002</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+          <LEXCoreDomains>
+            <LEXCoreDomain Code="128">Possession</LEXCoreDomain>
+            <LEXCoreDomain Code="006">Aggression</LEXCoreDomain>
+          </LEXCoreDomains>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+    <BaseForm Id="004917002000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>vb</PartOfSpeech>
+      </PartsOfSpeech>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="004917002001000" IsBiblicalTerm="" EntryCode="" Indent="0">
+          <LEXDomains>
+            <LEXDomain Code="002001001023">Impact</LEXDomain>
+          </LEXDomains>
+          <LEXForms>
+            <LEXForm>vbpeal</LEXForm>
+          </LEXForms>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2023-02-12 21:01:07" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>= process by which two objects strike against each other with some force</DefinitionShort>
+              <Glosses>
+                <Gloss>to knock together</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>02700500600034</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+          <LEXCoreDomains>
+            <LEXCoreDomain Code="019">Body</LEXCoreDomain>
+            <LEXCoreDomain Code="172">Strength</LEXCoreDomain>
+          </LEXCoreDomains>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

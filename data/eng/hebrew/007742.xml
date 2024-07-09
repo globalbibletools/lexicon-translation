@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="007742000000000" Lemma="תֹּולֵדֹות" Version="4" HasAramaic="false" InLXX="false" AlphaPos="ת">
+  <StrongCodes>
+    <Strong>H8435</Strong>
+  </StrongCodes>
+  <Authors>
+    <Author>Reinier de Blois</Author>
+  </Authors>
+  <Contributors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes/>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="007742001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>nsf</PartOfSpeech>
+      </PartsOfSpeech>
+      <RelatedLemmas>
+        <RelatedLemma>
+          <Word>ילד</Word>
+        </RelatedLemma>
+      </RelatedLemmas>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="007742001001000" IsBiblicalTerm="Y" EntryCode="" Indent="0">
+          <LEXDomains>
+            <LEXDomain Code="002002001001" Source="Birth" SourceCode="002002002003">Arrange</LEXDomain>
+          </LEXDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2022-02-10 14:17:52" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>= the relative order in which children of the same father were born</DefinitionShort>
+              <Glosses>
+                <Gloss>order of birth</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>00102501300018</LEXReference>
+            <LEXReference>00202801000044</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+        <LEXMeaning Id="007742001002000" IsBiblicalTerm="Y" EntryCode="" Indent="0">
+          <LEXDomains>
+            <LEXDomain Code="001001002003012" Source="Birth" SourceCode="002002002003">Relatives</LEXDomain>
+          </LEXDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2022-02-10 14:17:52" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>= a family relationship between the descendants of a common ancestor</DefinitionShort>
+              <Glosses>
+                <Gloss>line</Gloss>
+                <Gloss>genealogy</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>00101003200012</LEXReference>
+            <LEXReference>00200601600014</LEXReference>
+            <LEXReference>00200601900024</LEXReference>
+            <LEXReference>00400102000014</LEXReference>
+            <LEXReference>00400102200008</LEXReference>
+            <LEXReference>00400102400008</LEXReference>
+            <LEXReference>00400102600008</LEXReference>
+            <LEXReference>00400102800008</LEXReference>
+            <LEXReference>00400103000008</LEXReference>
+            <LEXReference>00400103200014</LEXReference>
+            <LEXReference>00400103400008</LEXReference>
+            <LEXReference>00400103600008</LEXReference>
+            <LEXReference>00400103800008</LEXReference>
+            <LEXReference>00400104000008</LEXReference>
+            <LEXReference>00400104200006</LEXReference>
+            <LEXReference>01300500700016</LEXReference>
+            <LEXReference>01300700200048</LEXReference>
+            <LEXReference>01300700400008</LEXReference>
+            <LEXReference>01300700900008</LEXReference>
+            <LEXReference>01300802800010</LEXReference>
+            <LEXReference>01300900900008</LEXReference>
+            <LEXReference>01300903400018</LEXReference>
+            <LEXReference>01302603100022</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+          <LEXCoreDomains>
+            <LEXCoreDomain Code="062">Family</LEXCoreDomain>
+            <LEXCoreDomain Code="129">Posterity</LEXCoreDomain>
+            <LEXCoreDomain Code="071">Genealogy</LEXCoreDomain>
+          </LEXCoreDomains>
+        </LEXMeaning>
+        <LEXMeaning Id="007742001003000" IsBiblicalTerm="M" EntryCode="" Indent="1">
+          <LEXDomains>
+            <LEXDomain Code="001004001014" Source="Relatives" SourceCode="001001002003012">Scrolls</LEXDomain>
+          </LEXDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2017-12-11 17:41:53" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>= a written record about the descendants of a particular person</DefinitionShort>
+              <Glosses>
+                <Gloss>record</Gloss>
+                <Gloss>story</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>00100200400004</LEXReference>
+            <LEXReference>00100500100006</LEXReference>
+            <LEXReference>00100600900004</LEXReference>
+            <LEXReference>00101000100006</LEXReference>
+            <LEXReference>00101101000004</LEXReference>
+            <LEXReference>00101102700006</LEXReference>
+            <LEXReference>00102501200006</LEXReference>
+            <LEXReference>00102501900006</LEXReference>
+            <LEXReference>00103600100006</LEXReference>
+            <LEXReference>00103600900006</LEXReference>
+            <LEXReference>00103700200004</LEXReference>
+            <LEXReference>00400300100006</LEXReference>
+            <LEXReference>00800401800006</LEXReference>
+            <LEXReference>01300102900004</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

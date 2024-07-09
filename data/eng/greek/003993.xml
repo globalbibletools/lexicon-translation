@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="003993000000000" Lemma="πικρία" Version="0" HasAramaic="false" InLXX="true" AlphaPos="π">
+  <StrongCodes>
+    <Strong>G4088</Strong>
+  </StrongCodes>
+  <Authors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes/>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="003993001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>noun, f.</PartOfSpeech>
+      </PartsOfSpeech>
+      <Inflections>
+        <Inflection Lemma="πικρία" BaseFormIndex="1">
+          <Form/>
+          <Realizations>
+            <Realization>-ας</Realization>
+          </Realizations>
+          <Comments/>
+        </Inflection>
+      </Inflections>
+      <RelatedLemmas>
+        <RelatedLemma>
+          <Word>πικραίνω</Word>
+        </RelatedLemma>
+      </RelatedLemmas>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="003993001001000" IsBiblicalTerm="Y" EntryCode="79.40" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Features of Objects</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Sweet, Bitter, Tasteless</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXCollocations>
+            <LEXCollocation>εἰς χολὴν πικρίας εἰμί</LEXCollocation>
+          </LEXCollocations>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-12-27 11:37:10" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>with a bitter taste (occurring only in the idiom χολὴ πικρίας)</DefinitionShort>
+              <Glosses>
+                <Gloss>bitterness</Gloss>
+                <Gloss>bitter</Gloss>
+              </Glosses>
+              <Comments>As a part of the idiom εἰς χολὴν πικρίας εἰμί, πικρίας is to be understood in a literal sense but the idiom as such means to be particularly envious or resentful of someone (see {D:88.166}).</Comments>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04400802300008</LEXReference>
+            <LEXReference>05801201500026</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+        <LEXMeaning Id="003993001002000" IsBiblicalTerm="Y" EntryCode="88.201" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Moral and Ethical Qualities and Related Behavior</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Hate, Hateful</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-12-27 11:37:10" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>(a figurative extension of meaning of {L:πικρία&lt;SDBG:πικρία:000000&gt;}[a] ‘bitter taste,’ {D:79.40}) a state of sharp, intense resentment or hate</DefinitionShort>
+              <Glosses>
+                <Gloss>bitter resentment</Gloss>
+                <Gloss>spite</Gloss>
+                <Gloss>bitterness</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04500301400012</LEXReference>
+            <LEXReference>04900403100004</LEXReference>
+            <LEXReference>05801201500026</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

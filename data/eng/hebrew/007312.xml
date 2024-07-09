@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="007312000000000" Lemma="שִׁטִּים" Version="5" HasAramaic="false" InLXX="false" AlphaPos="ש">
+  <StrongCodes>
+    <Strong>H7851</Strong>
+  </StrongCodes>
+  <Authors>
+    <Author>Reinier de Blois</Author>
+  </Authors>
+  <Contributors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes>
+    <Note Caller="1" LanguageCode="en" LastEdited="" LastEditedBy="">
+      <References>
+        <Reference>02800500200006</Reference>
+      </References>
+      <Content>RSV NRSV NJB  REB "Shittim" GNT "Acacia City" | MT NIV "rebels" ESV "revolters" = {L:שֵׂט&lt;SDBH:שֵׂט&gt;} | NJPS "trappers"</Content>
+    </Note>
+  </Notes>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="007312001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>np</PartOfSpeech>
+      </PartsOfSpeech>
+      <RelatedNames>
+        <RelatedName>
+          <Word>אָבֵל הַשִּׁטִּים</Word>
+        </RelatedName>
+      </RelatedNames>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="007312001001000" IsBiblicalTerm="M" EntryCode="" Indent="0">
+          <LEXDomains>
+            <LEXDomain Code="003001010">Names of Locations</LEXDomain>
+          </LEXDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2015-11-21 12:30:46" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>= location; ◄ {L:Jordan&lt;SDBH:יַרְדֵּן&gt;} Valley</DefinitionShort>
+              <Glosses>
+                <Gloss>Shittim</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>00402500100012</LEXReference>
+            <LEXReference>00600200100016</LEXReference>
+            <LEXReference>00600300100022</LEXReference>
+            <LEXReference>02800500200006{N:001}</LEXReference>
+            <LEXReference>02900401800068</LEXReference>
+            <LEXReference>03300600500036</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+          <LEXCoordinates>
+            <LEXCoordinates>31.858262,35.641566</LEXCoordinates>
+          </LEXCoordinates>
+        </LEXMeaning>
+        <LEXMeaning Id="007312001002000" IsBiblicalTerm="X" EntryCode="" Indent="0">
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2022-09-14 19:18:01" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>NO DATA YET</DefinitionShort>
+              <Glosses>
+                <Gloss>NO DATA YET</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>02800500200006</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

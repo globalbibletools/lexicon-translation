@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="000022000000000" Lemma="אֲבִיאֵל" Version="5" HasAramaic="false" InLXX="false" AlphaPos="א">
+  <StrongCodes>
+    <Strong>H0022</Strong>
+  </StrongCodes>
+  <Authors>
+    <Author>Reinier de Blois</Author>
+  </Authors>
+  <Contributors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes/>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="000022001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>np</PartOfSpeech>
+      </PartsOfSpeech>
+      <RelatedLemmas>
+        <RelatedLemma>
+          <Word>אָב</Word>
+        </RelatedLemma>
+        <RelatedLemma>
+          <Word>אֵל</Word>
+        </RelatedLemma>
+      </RelatedLemmas>
+      <MeaningsOfName>
+        <MeaningOfName LanguageCode="en">
+          <Meaning>my father is God</Meaning>
+        </MeaningOfName>
+        <MeaningOfName LanguageCode="pt">
+          <Meaning>Deus é meu pai</Meaning>
+        </MeaningOfName>
+      </MeaningsOfName>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="000022001001000" IsBiblicalTerm="Y" EntryCode="" Indent="0">
+          <LEXDomains>
+            <LEXDomain Code="003001007">Names of People</LEXDomain>
+          </LEXDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2015-03-31 10:38:40" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>= man; ◄ tribe of Benjamin; ► father of {L:Kish&lt;SDBH:קִישׁ&gt;} and {L:Ner&lt;SDBH:נֵר&gt;}, grandfather of king {L:Saul&lt;SDBH:שָׁאוּל&gt;} and his army commander {L:Abner&lt;SDBH:אַבְנֵר&gt;}</DefinitionShort>
+              <Glosses>
+                <Gloss>Abiel</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>00900900100024</LEXReference>
+            <LEXReference>00901405100020</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+        <LEXMeaning Id="000022001002000" IsBiblicalTerm="Y" EntryCode="" Indent="0">
+          <LEXDomains>
+            <LEXDomain Code="003001007">Names of People</LEXDomain>
+          </LEXDomains>
+          <LEXSynonyms>
+            <LEXSynonym>אֲבִי־עַלְבֹּון</LEXSynonym>
+          </LEXSynonyms>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2015-03-31 10:38:40" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>= man, also known as {L:Abi-Albon&lt;SDBH:אֲבִי־עַלְבֹון&gt;}; ► warrior; time of king {L:David&lt;SDBH:דָּוִד&gt;}</DefinitionShort>
+              <Glosses>
+                <Gloss>Abiel</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>01301103200010</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

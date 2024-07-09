@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="000991000000000" Lemma="בְּכִירָה" Version="5" HasAramaic="false" InLXX="false" AlphaPos="ב">
+  <StrongCodes>
+    <Strong>H1067</Strong>
+  </StrongCodes>
+  <Authors>
+    <Author>Enio R. Mueller</Author>
+  </Authors>
+  <Contributors/>
+  <AlternateLemmas>
+    <AlternateLemma>בָּכִיר</AlternateLemma>
+  </AlternateLemmas>
+  <MainLinks/>
+  <Notes/>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="000991001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>nsf</PartOfSpeech>
+      </PartsOfSpeech>
+      <RelatedLemmas>
+        <RelatedLemma>
+          <Word>בכר</Word>
+        </RelatedLemma>
+      </RelatedLemmas>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="000991001001000" IsBiblicalTerm="M" EntryCode="" Indent="0">
+          <LEXDomains>
+            <LEXDomain Code="002001001038">Old</LEXDomain>
+          </LEXDomains>
+          <LEXAntonyms>
+            <LEXAntonym>צָעִיר</LEXAntonym>
+            <LEXAntonym>קָטָן</LEXAntonym>
+          </LEXAntonyms>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2017-01-15 19:13:21" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>= the oldest of two siblings</DefinitionShort>
+              <Glosses>
+                <Gloss>firstborn</Gloss>
+                <Gloss>older</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>00101903100008</LEXReference>
+            <LEXReference>00101903300026</LEXReference>
+            <LEXReference>00101903400016</LEXReference>
+            <LEXReference>00101903700008</LEXReference>
+            <LEXReference>00102902600032</LEXReference>
+            <LEXReference>00901404900032</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+          <LEXCoreDomains>
+            <LEXCoreDomain Code="005">Age</LEXCoreDomain>
+          </LEXCoreDomains>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="005097000000000" Lemma="υἱοθεσία" Version="0" HasAramaic="false" InLXX="false" AlphaPos="υ">
+  <StrongCodes>
+    <Strong>G5206</Strong>
+  </StrongCodes>
+  <Authors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes/>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="005097001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>noun, f.</PartOfSpeech>
+      </PartsOfSpeech>
+      <Inflections>
+        <Inflection Lemma="υἱοθεσία" BaseFormIndex="1">
+          <Form/>
+          <Realizations>
+            <Realization>-ας</Realization>
+          </Realizations>
+          <Comments/>
+        </Inflection>
+      </Inflections>
+      <Constructs>
+        <Construct Lemma="υἱοθεσία" BaseFormIndex="1">
+          <WordMeaningSet>
+            <Word>υἱός</Word>
+          </WordMeaningSet>
+          <WordMeaningSet>
+            <Word>τίθημι</Word>
+          </WordMeaningSet>
+        </Construct>
+      </Constructs>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="005097001001000" IsBiblicalTerm="M" EntryCode="35.53" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Help, Care For</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Adopt</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2022-04-18 08:33:32" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>to formally and legally declare that someone who is not one’s own child is henceforth to be treated and cared for as one’s own child, including complete rights of inheritance</DefinitionShort>
+              <Glosses>
+                <Gloss>to adopt</Gloss>
+                <Gloss>adoption</Gloss>
+              </Glosses>
+              <Comments>In a number of languages adoption is spoken of as ‘making a child a son’ or ‘causing a child to become a daughter.’ In some instances the equivalent expression is merely ‘to treat someone as a son’ or ‘… daughter.’</Comments>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04500801500024</LEXReference>
+            <LEXReference>04500802300036</LEXReference>
+            <LEXReference>04500900400012</LEXReference>
+            <LEXReference>04800400500016</LEXReference>
+            <LEXReference>04900100500008</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="006525000000000" Lemma="קִפָּאֹון" Version="5" HasAramaic="false" InLXX="false" AlphaPos="ק">
+  <StrongCodes>
+    <Strong>H7087b</Strong>
+  </StrongCodes>
+  <Authors>
+    <Author>Graham S. Ogden</Author>
+  </Authors>
+  <Contributors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes>
+    <Note Caller="1" LanguageCode="en" LastEdited="" LastEditedBy="">
+      <References>
+        <Reference>03801400600028</Reference>
+      </References>
+      <Content>{A:MT-Q} | {A:MT-K} {L:קפא&lt;SDBH:קפא&gt;} | {A:HOTTP}-D {A:CEV} "clouding over" = [1 | {A:RSV} {A:NIV} {A:NJB} {A:NRSV} {A:REB} {A:GNT} "frost" = [2]</Content>
+    </Note>
+  </Notes>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="006525001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>cj</PartOfSpeech>
+      </PartsOfSpeech>
+      <RelatedLemmas>
+        <RelatedLemma>
+          <Word>קפא</Word>
+        </RelatedLemma>
+      </RelatedLemmas>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="006525001001000" IsBiblicalTerm="Y" EntryCode="" Indent="0">
+          <LEXDomains>
+            <LEXDomain Code="002001001018">Dark</LEXDomain>
+          </LEXDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2006-11-14 10:32:38" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>= process in which the sky gradually clouds over ► and diminishes the intensity of the light</DefinitionShort>
+              <Glosses>
+                <Gloss>clouding over</Gloss>
+                <Gloss>darkening</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>03801400600028{N:001}</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+          <LEXCoreDomains>
+            <LEXCoreDomain Code="090">Intensity</LEXCoreDomain>
+            <LEXCoreDomain Code="193">Weather</LEXCoreDomain>
+            <LEXCoreDomain Code="100">Light and Darkness</LEXCoreDomain>
+          </LEXCoreDomains>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+    <BaseForm Id="006525002000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>cj</PartOfSpeech>
+      </PartsOfSpeech>
+      <RelatedLemmas>
+        <RelatedLemma>
+          <Word>קפא</Word>
+        </RelatedLemma>
+      </RelatedLemmas>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="006525002001000" IsBiblicalTerm="Y" EntryCode="" Indent="0">
+          <LEXDomains>
+            <LEXDomain Code="002001001054">Solid</LEXDomain>
+          </LEXDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2006-11-14 10:32:38" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>= process in which water becomes ice ◄ as a result of low temperatures ► and so stops flowing</DefinitionShort>
+              <Glosses>
+                <Gloss>frost</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>03801400600028{N:001}</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+          <LEXCoreDomains>
+            <LEXCoreDomain Code="193">Weather</LEXCoreDomain>
+            <LEXCoreDomain Code="189">Water</LEXCoreDomain>
+            <LEXCoreDomain Code="177">Temperature</LEXCoreDomain>
+          </LEXCoreDomains>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

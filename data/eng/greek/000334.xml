@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="000334000000000" Lemma="ἀναθεματίζω" Version="0" HasAramaic="false" InLXX="true" AlphaPos="α">
+  <StrongCodes>
+    <Strong>G0332</Strong>
+  </StrongCodes>
+  <Authors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes>
+    <Note Caller="1" LanguageCode="en" LastEdited="" LastEditedBy="">
+      <References/>
+      <Content>It is possible that καταθεματίζω is somewhat stronger in meaning than ἀναθεματίζω, but this cannot be shown from existing contexts.</Content>
+    </Note>
+  </Notes>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="000334001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>verb</PartOfSpeech>
+      </PartsOfSpeech>
+      <RelatedLemmas>
+        <RelatedLemma>
+          <Word>τίθημι</Word>
+        </RelatedLemma>
+      </RelatedLemmas>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="000334001001000" IsBiblicalTerm="M" EntryCode="33.472" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Communication</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Bless, Curse</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-08-03 14:15:36" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>to invoke divine harm if what is said is not true or if one does not carry out what has been promised{N:001}</DefinitionShort>
+              <Glosses>
+                <Gloss>to curse</Gloss>
+              </Glosses>
+              <Comments>In {S:04101407100008} ἀναθεματίζω is in many regards similar in meaning to {L:ὄμνυμι&lt;SDBG:ὄμνυμι:000000&gt;} ({D:33.463}), but ἀναθεματίζω specifically denotes a curse which was invoked by Peter if what he was saying was not true.</Comments>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04101407100008</LEXReference>
+            <LEXReference>04402301200016</LEXReference>
+            <LEXReference>04402301400020</LEXReference>
+            <LEXReference>04402302100030</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

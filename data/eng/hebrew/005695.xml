@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="005695000000000" Lemma="עָשׁ" Version="5" HasAramaic="false" InLXX="false" AlphaPos="ע">
+  <StrongCodes>
+    <Strong>H6211</Strong>
+  </StrongCodes>
+  <Authors>
+    <Author>Reinier de Blois; Sarah Lind</Author>
+  </Authors>
+  <Contributors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes>
+    <Note Caller="1" LanguageCode="en" LastEdited="" LastEditedBy="">
+      <References>
+        <Reference>01802701800008</Reference>
+      </References>
+      <Content>MT HOTTP-B NIV ESV | NJPS REB "bird's nest" NRSV "nests" | RSV NJB GNT "spider's web"</Content>
+    </Note>
+    <Note Caller="2" LanguageCode="en" LastEdited="" LastEditedBy="">
+      <References>
+        <Reference>02800501200010</Reference>
+      </References>
+      <Content>RSV NIV "moth" = [1] | NJPS "rot" = [2] | NJB "ringworm" | NRSV CEV "maggots" | REB "festering sore" | GNT "destruction"</Content>
+    </Note>
+    <Note Caller="3" LanguageCode="en" LastEdited="" LastEditedBy="">
+      <References>
+        <Reference>01800900900004</Reference>
+      </References>
+      <Content>RSV NIV NJPS NJB NRSV ESV "Bear" CEV "Great Bear" GNT "Dipper" | REB "Aldebaran"</Content>
+    </Note>
+  </Notes>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="005695001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>nsm</PartOfSpeech>
+      </PartsOfSpeech>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="005695001001000" IsBiblicalTerm="M" EntryCode="" Indent="0">
+          <LEXDomains>
+            <LEXDomain Code="001001002001006">Swarming Creatures</LEXDomain>
+          </LEXDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2015-12-26 10:51:50" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>= smallish brown or gray moth that lays eggs in clothing or other cloth; eggs hatch into very small caterpillars, which feed on the fibers; ◄ Tineidae family, probably Tineola biselliella; ≈ symbols of decay, ruin, and slow destruction</DefinitionShort>
+              <Glosses>
+                <Gloss>moth</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>01800401900026</LEXReference>
+            <LEXReference>01801302800018</LEXReference>
+            <LEXReference>01802701800008{N:001}</LEXReference>
+            <LEXReference>01903901200022</LEXReference>
+            <LEXReference>02305000900030</LEXReference>
+            <LEXReference>02305100800012</LEXReference>
+            <LEXReference>02800501200010{N:002}</LEXReference>
+          </LEXReferences>
+          <LEXLinks>
+            <LEXLink>Fauna:6.10</LEXLink>
+          </LEXLinks>
+          <LEXVideos/>
+          <LEXCoreDomains>
+            <LEXCoreDomain Code="010">Animal</LEXCoreDomain>
+          </LEXCoreDomains>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+    <BaseForm Id="005695002000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>nsf</PartOfSpeech>
+      </PartsOfSpeech>
+      <RelatedLemmas>
+        <RelatedLemma>
+          <Word>עַיִשׁ</Word>
+        </RelatedLemma>
+      </RelatedLemmas>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="005695002001000" IsBiblicalTerm="Y" EntryCode="" Indent="0">
+          <LEXDomains>
+            <LEXDomain Code="003001002" Source="Celestial Bodies" SourceCode="001005002001001">Names of Constellations</LEXDomain>
+          </LEXDomains>
+          <LEXSynonyms>
+            <LEXSynonym>חַדְרֵי תֵּמָן</LEXSynonym>
+            <LEXSynonym>כְּסִיל</LEXSynonym>
+            <LEXSynonym>כִּימָה</LEXSynonym>
+          </LEXSynonyms>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2015-12-26 10:51:50" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>= constellation, often identified with the "Great Bear" or the "Big Dipper" which is part of the "Great Bear"</DefinitionShort>
+              <Glosses>
+                <Gloss>Great Bear</Gloss>
+                <Gloss>Big Dipper</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>01800900900004{N:003}</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+          <LEXCoreDomains>
+            <LEXCoreDomain Code="185">Universe</LEXCoreDomain>
+          </LEXCoreDomains>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

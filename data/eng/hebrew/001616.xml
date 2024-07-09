@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="001616000000000" Lemma="דחה" Version="4" HasAramaic="false" InLXX="false" AlphaPos="ד">
+  <StrongCodes>
+    <Strong>H1760a</Strong>
+  </StrongCodes>
+  <Authors>
+    <Author>Enio R. Mueller</Author>
+  </Authors>
+  <Contributors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes/>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="001616001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>vb</PartOfSpeech>
+      </PartsOfSpeech>
+      <RelatedLemmas>
+        <RelatedLemma>
+          <Word>דְּחִי</Word>
+        </RelatedLemma>
+        <RelatedLemma>
+          <Word>מִדְחֶה</Word>
+        </RelatedLemma>
+      </RelatedLemmas>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="001616001001000" IsBiblicalTerm="Y" EntryCode="" Indent="0">
+          <LEXDomains>
+            <LEXDomain Code="002002001011">Move</LEXDomain>
+          </LEXDomains>
+          <LEXForms>
+            <LEXForm>vbqal-</LEXForm>
+          </LEXForms>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2022-11-19 18:53:07" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>= causative action by which humans or deities give (other) humans or objects a violent push in a certain direction ► in order to cause that person or object to move away or to fall</DefinitionShort>
+              <Glosses>
+                <Gloss>to push</Gloss>
+                <Gloss>to thrust</Gloss>
+                <Gloss>to drive away</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>01903500500020</LEXReference>
+            <LEXReference>01906200400026</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+          <LEXCoreDomains>
+            <LEXCoreDomain Code="110">Motion</LEXCoreDomain>
+          </LEXCoreDomains>
+        </LEXMeaning>
+        <LEXMeaning Id="001616001002000" IsBiblicalTerm="Y" EntryCode="" Indent="0">
+          <LEXDomains>
+            <LEXDomain Code="002003003012" Source="Move" SourceCode="002002001011">Fail</LEXDomain>
+          </LEXDomains>
+          <LEXForms>
+            <LEXForm>vbqal-</LEXForm>
+          </LEXForms>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2015-10-01 09:42:50" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>= causative action by which humans or deities cause (other) humans to fail in their efforts,◄ as if by giving them a violent push to make them stumble and fall</DefinitionShort>
+              <Glosses>
+                <Gloss>to push</Gloss>
+                <Gloss>to thrust</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>01903601300010</LEXReference>
+            <LEXReference>01911801300002</LEXReference>
+            <LEXReference>01911801300004</LEXReference>
+            <LEXReference>02001403200006</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+          <LEXCoreDomains>
+            <LEXCoreDomain Code="173">Success and Failure</LEXCoreDomain>
+          </LEXCoreDomains>
+        </LEXMeaning>
+        <LEXMeaning Id="001616001003000" IsBiblicalTerm="Y" EntryCode="" Indent="0">
+          <LEXDomains>
+            <LEXDomain Code="002003003012" Source="Move" SourceCode="002002001011">Fail</LEXDomain>
+          </LEXDomains>
+          <LEXForms>
+            <LEXForm>vbqal-</LEXForm>
+          </LEXForms>
+          <LEXCollocations>
+            <LEXCollocation>דחה פַּעַם</LEXCollocation>
+          </LEXCollocations>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2022-11-19 18:53:07" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>literally: to push (someone's) step; hence: = causative action by which humans cause  humans to fail in their efforts,◄ as if by giving them a violent push to make them stumble and fall</DefinitionShort>
+              <Glosses>
+                <Gloss>to push</Gloss>
+                <Gloss>to thrust down</Gloss>
+                <Gloss>to make (someone) fall</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>01914000500026</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+          <LEXCoreDomains>
+            <LEXCoreDomain Code="173">Success and Failure</LEXCoreDomain>
+          </LEXCoreDomains>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

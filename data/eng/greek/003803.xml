@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="003803000000000" Lemma="παρασκευάζω" Version="0" HasAramaic="false" InLXX="true" AlphaPos="π">
+  <StrongCodes>
+    <Strong>G3903</Strong>
+  </StrongCodes>
+  <Authors/>
+  <AlternateLemmas>
+    <AlternateLemma>παρασκευάζομαι</AlternateLemma>
+  </AlternateLemmas>
+  <MainLinks/>
+  <Notes/>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="003803001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>verb</PartOfSpeech>
+      </PartsOfSpeech>
+      <RelatedLemmas>
+        <RelatedLemma>
+          <Word>σκευάζω</Word>
+          <Meaning LanguageCode="en">
+            <Meaning>prepare</Meaning>
+          </Meaning>
+          <Meaning LanguageCode="zhT">
+            <Meaning>準備</Meaning>
+          </Meaning>
+        </RelatedLemma>
+        <RelatedLemma>
+          <Word>σκεῦος</Word>
+        </RelatedLemma>
+      </RelatedLemmas>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="003803001001000" IsBiblicalTerm="Y" EntryCode="46.12" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Household Activities</LEXDomain>
+          </LEXDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-12-20 16:01:28" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>to prepare or cook a meal</DefinitionShort>
+              <Glosses>
+                <Gloss>to prepare a meal</Gloss>
+                <Gloss>to get a meal ready</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04401001000014</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+        <LEXMeaning Id="003803001002000" IsBiblicalTerm="Y" EntryCode="77.8" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Ready, Prepared</LEXDomain>
+          </LEXDomains>
+          <LEXForms>
+            <LEXForm>παρασκευάζομαι</LEXForm>
+          </LEXForms>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-12-20 16:01:28" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>to be or to become ready for some purpose</DefinitionShort>
+              <Glosses>
+                <Gloss>to be ready</Gloss>
+                <Gloss>to make ready</Gloss>
+                <Gloss>to become ready</Gloss>
+                <Gloss>to prepare</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04601400800018</LEXReference>
+            <LEXReference>04700900200026</LEXReference>
+            <LEXReference>04700900300042</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

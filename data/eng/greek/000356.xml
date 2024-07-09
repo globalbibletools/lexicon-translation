@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="000356000000000" Lemma="ἀναλίσκω" Version="0" HasAramaic="false" InLXX="true" AlphaPos="α">
+  <StrongCodes>
+    <Strong>G0355</Strong>
+  </StrongCodes>
+  <Authors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes/>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="000356001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>verb</PartOfSpeech>
+      </PartsOfSpeech>
+      <Inflections>
+        <Inflection Lemma="ἀναλίσκω" BaseFormIndex="1">
+          <Form>fut.3sg.</Form>
+          <Realizations>
+            <Realization>ἀναλώσει</Realization>
+          </Realizations>
+          <Comments/>
+        </Inflection>
+        <Inflection Lemma="ἀναλίσκω" BaseFormIndex="1">
+          <Form>aor.</Form>
+          <Realizations>
+            <Realization>ἀνήλωσα</Realization>
+          </Realizations>
+          <Comments/>
+        </Inflection>
+        <Inflection Lemma="ἀναλίσκω" BaseFormIndex="1">
+          <Form>opt.3sg.</Form>
+          <Realizations>
+            <Realization>ἀναλοῖ</Realization>
+          </Realizations>
+          <Comments/>
+        </Inflection>
+        <Inflection Lemma="ἀναλίσκω" BaseFormIndex="1">
+          <Form>pass.</Form>
+          <Realizations>
+            <Realization>ἀνηλώθην</Realization>
+          </Realizations>
+          <Comments/>
+        </Inflection>
+      </Inflections>
+      <RelatedLemmas>
+        <RelatedLemma>
+          <Word>ἁλίσκομαι</Word>
+          <Meaning LanguageCode="en">
+            <Meaning>be caught, captured</Meaning>
+          </Meaning>
+          <Meaning LanguageCode="zhT">
+            <Meaning>被抓住，被俘虜</Meaning>
+          </Meaning>
+        </RelatedLemma>
+      </RelatedLemmas>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="000356001001000" IsBiblicalTerm="Y" EntryCode="20.47" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Violence, Harm, Destroy, Kill</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Destroy</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-08-04 15:34:41" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>to destroy, with the possible implication of something being used up</DefinitionShort>
+              <Glosses>
+                <Gloss>to destroy</Gloss>
+              </Glosses>
+              <Comments>In contexts such as {S:04200905400036} it is always possible to translate a term such as ἀναλίσκω as ‘to cause to die.’</Comments>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04200905400036</LEXReference>
+            <LEXReference>04800501500022</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

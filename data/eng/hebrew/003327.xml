@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="003327000000000" Lemma="כָּלִיל" Version="5" HasAramaic="false" InLXX="false" AlphaPos="כ">
+  <StrongCodes>
+    <Strong>H3632</Strong>
+  </StrongCodes>
+  <Authors>
+    <Author>Reinier de Blois</Author>
+  </Authors>
+  <Contributors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes/>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="003327001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>aj</PartOfSpeech>
+      </PartsOfSpeech>
+      <RelatedLemmas>
+        <RelatedLemma>
+          <Word>כלל</Word>
+        </RelatedLemma>
+      </RelatedLemmas>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="003327001001000" IsBiblicalTerm="M" EntryCode="" Indent="0">
+          <LEXDomains>
+            <LEXDomain Code="002001003003">Complete</LEXDomain>
+          </LEXDomains>
+          <LEXForms>
+            <LEXForm>aj</LEXForm>
+          </LEXForms>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2010-12-14 12:28:16" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>= state in which an object has been affected by an event in its entirety</DefinitionShort>
+              <Glosses>
+                <Gloss>perfect</Gloss>
+                <Gloss>perfectly</Gloss>
+                <Gloss>completely</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>00202803100014</LEXReference>
+            <LEXReference>00203902200018</LEXReference>
+            <LEXReference>00300601500030</LEXReference>
+            <LEXReference>00400400600020</LEXReference>
+            <LEXReference>00702004000038</LEXReference>
+            <LEXReference>00900700900024</LEXReference>
+            <LEXReference>02300201800008</LEXReference>
+            <LEXReference>02500201500040</LEXReference>
+            <LEXReference>02601601400022</LEXReference>
+            <LEXReference>02602700300052</LEXReference>
+            <LEXReference>02602801200042</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+          <LEXCoreDomains>
+            <LEXCoreDomain Code="038">Completeness</LEXCoreDomain>
+          </LEXCoreDomains>
+        </LEXMeaning>
+        <LEXMeaning Id="003327001002000" IsBiblicalTerm="Y" EntryCode="" Indent="0">
+          <LEXDomains>
+            <LEXDomain Code="002003002022" Source="Complete" SourceCode="002001003003">Sacrifice</LEXDomain>
+          </LEXDomains>
+          <LEXForms>
+            <LEXForm>aj</LEXForm>
+          </LEXForms>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2010-12-14 12:28:16" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>= an object that is wholly burned ► as a gift or sacrifice to God</DefinitionShort>
+              <Glosses>
+                <Gloss>wholly burned offering</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>00300601600010</LEXReference>
+            <LEXReference>00501301700042</LEXReference>
+            <LEXReference>00503301000028</LEXReference>
+            <LEXReference>01905102100014</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+          <LEXCoreDomains>
+            <LEXCoreDomain Code="149">Sacrifices and Offerings</LEXCoreDomain>
+          </LEXCoreDomains>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

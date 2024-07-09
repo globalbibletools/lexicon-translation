@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="002950000000000" Lemma="κτῆνος" Version="0" HasAramaic="false" InLXX="true" AlphaPos="κ">
+  <StrongCodes>
+    <Strong>G2934</Strong>
+  </StrongCodes>
+  <Authors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes/>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="002950001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>noun, n.</PartOfSpeech>
+      </PartsOfSpeech>
+      <Inflections>
+        <Inflection Lemma="κτῆνος" BaseFormIndex="1">
+          <Form/>
+          <Realizations>
+            <Realization>-ους</Realization>
+          </Realizations>
+          <Comments/>
+        </Inflection>
+      </Inflections>
+      <RelatedLemmas>
+        <RelatedLemma>
+          <Word>κτάομαι</Word>
+        </RelatedLemma>
+      </RelatedLemmas>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="002950001001000" IsBiblicalTerm="M" EntryCode="4.6" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Animals</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Animals</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-10-27 10:17:11" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>a larger type of domesticated animal, primarily one used for riding or carrying loads</DefinitionShort>
+              <Glosses>
+                <Gloss>beast of burden</Gloss>
+                <Gloss>riding animal</Gloss>
+                <Gloss>cattle</Gloss>
+              </Glosses>
+              <Comments>In {S:04601503900028} (ἄλλη δὲ σὰρξ κτηνῶν, ἄλλη δὲ σὰρξ πτηνῶν, ἄλλη δὲ ἰχθύων ‘another is the flesh of animals, another the flesh of birds, and another the flesh of fish’) one might argue that κτηνῶν is simply a highly generic expression for all kinds of animals, but in view of its meaning in so many other contexts, it probably applies even in {S:04601503900028} to large domesticated animals.|As in so many instances, the translator must render passages in terms of expressions which are appropriate to particular contexts. For example, in {S:04402302400002} a translation such as ‘horses’ would be appropriate, while in {S:04201003400034} the term ‘donkey’ would be fitting, and in {S:06601801300040} κτήνη (in which κτῆνος contrasts with πρόβατα ‘sheep’) would perhaps best be translated as ‘cattle.’</Comments>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04201003400034</LEXReference>
+            <LEXReference>04402302400002</LEXReference>
+            <LEXReference>04601503900028</LEXReference>
+            <LEXReference>06601801300040</LEXReference>
+          </LEXReferences>
+          <LEXLinks>
+            <LEXLink>fauna:1.2</LEXLink>
+          </LEXLinks>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

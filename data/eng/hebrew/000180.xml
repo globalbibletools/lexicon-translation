@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="000180000000000" Lemma="אַוָּה" Version="5" HasAramaic="false" InLXX="false" AlphaPos="א">
+  <StrongCodes>
+    <Strong>H0185</Strong>
+  </StrongCodes>
+  <Authors>
+    <Author>Reinier de Blois</Author>
+  </Authors>
+  <Contributors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes>
+    <Note Caller="1" LanguageCode="en" LastEdited="" LastEditedBy="">
+      <References>
+        <Reference>02801001000004</Reference>
+      </References>
+      <Content>{A:MT} {A:HOTTP}-B {A:NIV} {A:NJPS} | {A:LXX} {A:RSV} {A:NJB} {A:NRSV} {A:REB} {A:GNT} באתי = {L:בוא&lt;SDBH:בוא&gt;} "I come"</Content>
+    </Note>
+  </Notes>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="000180001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>nsf</PartOfSpeech>
+      </PartsOfSpeech>
+      <RelatedLemmas>
+        <RelatedLemma>
+          <Word>אוה</Word>
+        </RelatedLemma>
+      </RelatedLemmas>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="000180001001000" IsBiblicalTerm="Y" EntryCode="" Indent="0">
+          <LEXDomains>
+            <LEXDomain Code="002004001001001">Desire</LEXDomain>
+          </LEXDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2016-05-31 11:35:41" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>= state in which one senses a physical desire for food or sex; ◄ this desire is associated with one's {L:נֶפֶשׁ&lt;SDBH:נֶפֶשׁ&gt;} ≈ and can be both good and evil</DefinitionShort>
+              <Glosses>
+                <Gloss>desire</Gloss>
+                <Gloss>craving</Gloss>
+                <Gloss>lust</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>00501201500008</LEXReference>
+            <LEXReference>00501202000046</LEXReference>
+            <LEXReference>00501202100068</LEXReference>
+            <LEXReference>02400202400010</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+          <LEXCoreDomains>
+            <LEXCoreDomain Code="019">Body</LEXCoreDomain>
+          </LEXCoreDomains>
+        </LEXMeaning>
+        <LEXMeaning Id="000180001002000" IsBiblicalTerm="Y" EntryCode="" Indent="0">
+          <LEXDomains>
+            <LEXDomain Code="002004002001001" Source="Desire" SourceCode="002004001001001">Wish</LEXDomain>
+          </LEXDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2016-05-31 11:35:41" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>= state in which one experiences a desire to see something happen or to do something oneself; ◄ this desire is associated with one's {L:נֶפֶשׁ&lt;SDBH:נֶפֶשׁ&gt;} ≈ and can be both good and evil</DefinitionShort>
+              <Glosses>
+                <Gloss>desire</Gloss>
+                <Gloss>longing</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>00501800600040</LEXReference>
+            <LEXReference>00902302000010</LEXReference>
+            <LEXReference>02801001000004{N:001}</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+          <LEXCoreDomains>
+            <LEXCoreDomain Code="106">Mind</LEXCoreDomain>
+          </LEXCoreDomains>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

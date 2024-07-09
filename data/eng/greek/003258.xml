@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="003258000000000" Lemma="μεταξύ" Version="0" HasAramaic="false" InLXX="true" AlphaPos="μ">
+  <StrongCodes>
+    <Strong>G3342</Strong>
+  </StrongCodes>
+  <Authors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes/>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="003258001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>prep. (with gen.), advb.</PartOfSpeech>
+      </PartsOfSpeech>
+      <Constructs>
+        <Construct Lemma="μεταξύ" BaseFormIndex="1">
+          <WordMeaningSet>
+            <Word>μετά</Word>
+          </WordMeaningSet>
+          <WordMeaningSet>
+            <Word>σύν</Word>
+          </WordMeaningSet>
+        </Construct>
+      </Constructs>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="003258001001000" IsBiblicalTerm="Y" EntryCode="83.11" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Spacial Positions</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Among, Between, In, Inside</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-12-02 20:56:42" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>a position defined by the location of two objects, one on each side</DefinitionShort>
+              <Glosses>
+                <Gloss>between</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04002303500052</LEXReference>
+            <LEXReference>04201105100018</LEXReference>
+            <LEXReference>04201602600010</LEXReference>
+            <LEXReference>04401200600030</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+        <LEXMeaning Id="003258001002000" IsBiblicalTerm="Y" EntryCode="89.115" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Relations</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Association</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-12-02 20:56:42" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>a marker of an exclusive association</DefinitionShort>
+              <Glosses>
+                <Gloss>between … and</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04001801500024</LEXReference>
+            <LEXReference>04401500900008</LEXReference>
+            <LEXReference>04500201500034</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+        <LEXMeaning Id="003258001003000" IsBiblicalTerm="Y" EntryCode="67.54" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Time</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>A Point of Time with Reference to Other Points of Time: Before, Long Ago, Now, At the Same Time, When, About, After</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-12-02 20:56:42" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>a point of time which is subsequent in order to a previous point of time</DefinitionShort>
+              <Glosses>
+                <Gloss>next</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04300403100006</LEXReference>
+            <LEXReference>04401304200014</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

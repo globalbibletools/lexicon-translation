@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="004421000000000" Lemma="מַרְפֵּא" Version="4" HasAramaic="false" InLXX="false" AlphaPos="מ">
+  <StrongCodes>
+    <Strong>H4832</Strong>
+  </StrongCodes>
+  <Authors>
+    <Author>Steve Berneking</Author>
+  </Authors>
+  <Contributors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes/>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="004421001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>nsm</PartOfSpeech>
+      </PartsOfSpeech>
+      <RelatedLemmas>
+        <RelatedLemma>
+          <Word>רפא</Word>
+        </RelatedLemma>
+      </RelatedLemmas>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="004421001001000" IsBiblicalTerm="M" EntryCode="" Indent="0">
+          <LEXDomains>
+            <LEXDomain Code="002001001060">Strong</LEXDomain>
+          </LEXDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2017-11-19 23:22:04" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>= causative action by which humans or deities help or cause (other) humans to be restored to health or physical strength after a disease or an accident</DefinitionShort>
+              <Glosses>
+                <Gloss>healing</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>01402101800026</LEXReference>
+            <LEXReference>02000402200020</LEXReference>
+            <LEXReference>02001201800018</LEXReference>
+            <LEXReference>02001602400020</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+          <LEXCoreDomains>
+            <LEXCoreDomain Code="019">Body</LEXCoreDomain>
+            <LEXCoreDomain Code="076">Health and Sickness</LEXCoreDomain>
+          </LEXCoreDomains>
+        </LEXMeaning>
+        <LEXMeaning Id="004421001002000" IsBiblicalTerm="Y" EntryCode="" Indent="0">
+          <LEXDomains>
+            <LEXDomain Code="002003003018" Source="Strong" SourceCode="002001001060">Safe</LEXDomain>
+          </LEXDomains>
+          <LEXSynonyms>
+            <LEXSynonym>אֲרוּכָה</LEXSynonym>
+            <LEXSynonym>שָׁלֹום</LEXSynonym>
+          </LEXSynonyms>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2022-12-11 11:24:34" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>literally: healing; hence: = causative action by which deities remove the consequences of evil and restore a country or nation to a state of peace and prosperity</DefinitionShort>
+              <Glosses>
+                <Gloss>to heal</Gloss>
+                <Gloss>to restore</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>01403601600048</LEXReference>
+            <LEXReference>02000601500020</LEXReference>
+            <LEXReference>02001301700018</LEXReference>
+            <LEXReference>02002900100018</LEXReference>
+            <LEXReference>02400801500018</LEXReference>
+            <LEXReference>02401401900032</LEXReference>
+            <LEXReference>02401401900052</LEXReference>
+            <LEXReference>02403300600012</LEXReference>
+            <LEXReference>03900302000018</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+          <LEXCoreDomains>
+            <LEXCoreDomain Code="196">Well-Being</LEXCoreDomain>
+          </LEXCoreDomains>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+    <BaseForm Id="004421002000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>nsm</PartOfSpeech>
+      </PartsOfSpeech>
+      <RelatedLemmas>
+        <RelatedLemma>
+          <Word>רפה</Word>
+        </RelatedLemma>
+      </RelatedLemmas>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="004421002001000" IsBiblicalTerm="Y" EntryCode="" Indent="0">
+          <LEXDomains>
+            <LEXDomain Code="002001002003">Confident</LEXDomain>
+          </LEXDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2022-12-11 11:24:34" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort/>
+              <Glosses>
+                <Gloss>calmness</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>02001403000008</LEXReference>
+            <LEXReference>02001500400002</LEXReference>
+            <LEXReference>02101000400022</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

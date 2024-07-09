@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="003233000000000" Lemma="μεσονύκτιον" Version="0" HasAramaic="false" InLXX="true" AlphaPos="μ">
+  <StrongCodes>
+    <Strong>G3317</Strong>
+  </StrongCodes>
+  <Authors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes/>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="003233001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>noun, n.</PartOfSpeech>
+      </PartsOfSpeech>
+      <Inflections>
+        <Inflection Lemma="μεσονύκτιον" BaseFormIndex="1">
+          <Form/>
+          <Realizations>
+            <Realization>-ου</Realization>
+          </Realizations>
+          <Comments/>
+        </Inflection>
+      </Inflections>
+      <Constructs>
+        <Construct Lemma="μεσονύκτιον" BaseFormIndex="1">
+          <WordMeaningSet>
+            <Word>μεσόω</Word>
+          </WordMeaningSet>
+          <WordMeaningSet>
+            <Word>νύξ</Word>
+          </WordMeaningSet>
+        </Construct>
+      </Constructs>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="003233001001000" IsBiblicalTerm="Y" EntryCode="67.75" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Time</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>A Point of Time with Reference to Units of Time: Daybreak, Midday, Midnight, Late</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-11-26 20:33:14" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>the midpoint of the night</DefinitionShort>
+              <Glosses>
+                <Gloss>midnight</Gloss>
+              </Glosses>
+              <Comments>In some languages μεσονύκτιον may be rendered as ‘when the night is half over’ or ‘when the night is cut in half.’</Comments>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04101303500030</LEXReference>
+            <LEXReference>04201100500028</LEXReference>
+            <LEXReference>04401602500008</LEXReference>
+            <LEXReference>04402000700048</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="000909000000000" Lemma="βαπτιστής" Version="0" HasAramaic="false" InLXX="false" AlphaPos="β">
+  <StrongCodes>
+    <Strong>G0910</Strong>
+  </StrongCodes>
+  <Authors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes/>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="000909001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>noun, m.</PartOfSpeech>
+      </PartsOfSpeech>
+      <Inflections>
+        <Inflection Lemma="βαπτιστής" BaseFormIndex="1">
+          <Form/>
+          <Realizations>
+            <Realization>-οῦ</Realization>
+          </Realizations>
+          <Comments/>
+        </Inflection>
+      </Inflections>
+      <RelatedLemmas>
+        <RelatedLemma>
+          <Word>βάπτω</Word>
+        </RelatedLemma>
+      </RelatedLemmas>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="000909001001000" IsBiblicalTerm="M" EntryCode="53.42" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Religious Activities</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Baptize</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-02-14 20:53:23" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>(derivative of {L:βαπτίζω&lt;SDBG:βαπτίζω:000001&gt;}[b] ‘to baptize,’ {D:53.41}) one who baptizes</DefinitionShort>
+              <Glosses>
+                <Gloss>baptizer</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04000300100018</LEXReference>
+            <LEXReference>04001101100024</LEXReference>
+            <LEXReference>04001101200014</LEXReference>
+            <LEXReference>04001400200020</LEXReference>
+            <LEXReference>04001400800036</LEXReference>
+            <LEXReference>04001601400016</LEXReference>
+            <LEXReference>04001701300018</LEXReference>
+            <LEXReference>04100602500044</LEXReference>
+            <LEXReference>04100802800018</LEXReference>
+            <LEXReference>04200702000020</LEXReference>
+            <LEXReference>04200703300010</LEXReference>
+            <LEXReference>04200901900014</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

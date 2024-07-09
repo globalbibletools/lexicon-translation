@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="001778000000000" Lemma="ἐνθύμησις" Version="0" HasAramaic="false" InLXX="false" AlphaPos="ε">
+  <StrongCodes>
+    <Strong>G1761</Strong>
+  </StrongCodes>
+  <Authors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes/>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="001778001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>noun, f.</PartOfSpeech>
+      </PartsOfSpeech>
+      <Inflections>
+        <Inflection Lemma="ἐνθύμησις" BaseFormIndex="1">
+          <Form/>
+          <Realizations>
+            <Realization>-εως</Realization>
+          </Realizations>
+          <Comments/>
+        </Inflection>
+      </Inflections>
+      <RelatedLemmas>
+        <RelatedLemma>
+          <Word>θυμός</Word>
+          <Meaning LanguageCode="en">
+            <Meaning>soul, heart</Meaning>
+          </Meaning>
+          <Meaning LanguageCode="zhT">
+            <Meaning>靈魂，心</Meaning>
+          </Meaning>
+        </RelatedLemma>
+        <RelatedLemma>
+          <Word>θυμόομαι</Word>
+        </RelatedLemma>
+      </RelatedLemmas>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="001778001001000" IsBiblicalTerm="Y" EntryCode="30.15" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Think</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>To Think, Thought</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-06-01 09:47:23" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>the content of thinking and reasoning</DefinitionShort>
+              <Glosses>
+                <Gloss>thought</Gloss>
+                <Gloss>what is thought</Gloss>
+                <Gloss>opinion</Gloss>
+              </Glosses>
+              <Comments>In a number of languages it is simply not possible to find noun-like words for thinking or reasoning and therefore it may be necessary to use a verb equivalent throughout. For example, in {S:04201101700012} one may translate as ‘but Jesus knew what they were thinking.’</Comments>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04000900400012</LEXReference>
+            <LEXReference>04001202500008</LEXReference>
+            <LEXReference>04401702900034</LEXReference>
+            <LEXReference>05800401200056</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

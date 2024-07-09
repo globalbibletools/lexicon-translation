@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="001572000000000" Lemma="דֶּגֶל" Version="5" HasAramaic="false" InLXX="false" AlphaPos="ד">
+  <StrongCodes>
+    <Strong>H1714</Strong>
+  </StrongCodes>
+  <Authors>
+    <Author>Enio R. Mueller</Author>
+  </Authors>
+  <Contributors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes>
+    <Note Caller="1" LanguageCode="en" LastEdited="" LastEditedBy="">
+      <References>
+        <Reference>02200200400014</Reference>
+      </References>
+      <Content>DCH (cf. REB) suggests a possible alternative meaning "glance", which would be consistent with its proposal of a root דגל II ("look").</Content>
+    </Note>
+  </Notes>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="001572001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>nsm</PartOfSpeech>
+      </PartsOfSpeech>
+      <RelatedLemmas>
+        <RelatedLemma>
+          <Word>דגל</Word>
+        </RelatedLemma>
+      </RelatedLemmas>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="001572001001000" IsBiblicalTerm="M" EntryCode="" Indent="0">
+          <LEXDomains>
+            <LEXDomain Code="001004001001">Banners</LEXDomain>
+          </LEXDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2017-04-06 15:26:29" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>= piece of cloth that is raised on a pole; ► symbolizes the identity of a group of people, and helps to keep the group together; ≈ associated with security</DefinitionShort>
+              <Glosses>
+                <Gloss>banner</Gloss>
+                <Gloss>standard</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>00400105200022</LEXReference>
+            <LEXReference>00400200200006</LEXReference>
+            <LEXReference>00400200300012</LEXReference>
+            <LEXReference>00400201000002</LEXReference>
+            <LEXReference>00400201700042</LEXReference>
+            <LEXReference>00400201800002</LEXReference>
+            <LEXReference>00400202500002</LEXReference>
+            <LEXReference>00400203100044</LEXReference>
+            <LEXReference>00400203400030</LEXReference>
+            <LEXReference>00401001400006</LEXReference>
+            <LEXReference>00401001800006</LEXReference>
+            <LEXReference>00401002200006</LEXReference>
+            <LEXReference>00401002500006</LEXReference>
+            <LEXReference>02200200400014{N:001}</LEXReference>
+          </LEXReferences>
+          <LEXLinks>
+            <LEXLink>Realia:2.17</LEXLink>
+          </LEXLinks>
+          <LEXVideos/>
+          <LEXCoreDomains>
+            <LEXCoreDomain Code="027">Crafts</LEXCoreDomain>
+            <LEXCoreDomain Code="146">Representation</LEXCoreDomain>
+          </LEXCoreDomains>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

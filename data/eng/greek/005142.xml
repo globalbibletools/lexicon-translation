@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="005142000000000" Lemma="ὑπερῷον" Version="0" HasAramaic="false" InLXX="true" AlphaPos="υ">
+  <StrongCodes>
+    <Strong>G5253</Strong>
+  </StrongCodes>
+  <Authors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes/>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="005142001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>noun, n.</PartOfSpeech>
+      </PartsOfSpeech>
+      <Inflections>
+        <Inflection Lemma="ὑπερῷον" BaseFormIndex="1">
+          <Form/>
+          <Realizations>
+            <Realization>-ου</Realization>
+          </Realizations>
+          <Comments/>
+        </Inflection>
+      </Inflections>
+      <RelatedLemmas>
+        <RelatedLemma>
+          <Word>ὑπέρ</Word>
+        </RelatedLemma>
+      </RelatedLemmas>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="005142001001000" IsBiblicalTerm="M" EntryCode="7.27" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Constructions</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Parts and Areas of Buildings</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2022-05-04 08:44:34" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>a room on the level above the ground floor (second story in American usage and first story in most other languages)</DefinitionShort>
+              <Glosses>
+                <Gloss>upstairs room</Gloss>
+              </Glosses>
+              <Comments>In {S:04400101300012 04400903700030 04400903900022 04402000800014} the term ὑπερῷον may refer to the kind of rooms often built on the flat-roofed Middle East housetops.</Comments>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04400101300012</LEXReference>
+            <LEXReference>04400903700030</LEXReference>
+            <LEXReference>04400903900022</LEXReference>
+            <LEXReference>04402000800014</LEXReference>
+          </LEXReferences>
+          <LEXLinks>
+            <LEXLink>realia:3.1.6.4</LEXLink>
+          </LEXLinks>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

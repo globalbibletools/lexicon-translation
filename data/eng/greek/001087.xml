@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="001087000000000" Lemma="γενεαλογία" Version="0" HasAramaic="false" InLXX="false" AlphaPos="γ">
+  <StrongCodes>
+    <Strong>G1076</Strong>
+  </StrongCodes>
+  <Authors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes/>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="001087001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>noun, f.</PartOfSpeech>
+      </PartsOfSpeech>
+      <Inflections>
+        <Inflection Lemma="γενεαλογία" BaseFormIndex="1">
+          <Form/>
+          <Realizations>
+            <Realization>-ας</Realization>
+          </Realizations>
+          <Comments/>
+        </Inflection>
+      </Inflections>
+      <Constructs>
+        <Construct Lemma="γενεαλογία" BaseFormIndex="1">
+          <WordMeaningSet>
+            <Word>γίνομαι</Word>
+          </WordMeaningSet>
+          <WordMeaningSet>
+            <Word>λέγω</Word>
+          </WordMeaningSet>
+        </Construct>
+      </Constructs>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="001087001001000" IsBiblicalTerm="M" EntryCode="10.26" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Kinship Terms</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Kinship Relations Involving Successive Generations</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-08-26 16:06:04" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>(derivative of γενεαλογέομαι ‘to be descended from,’ {D:10.25}) a list of direct descendants or ascendants</DefinitionShort>
+              <Glosses>
+                <Gloss>genealogy</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>05400100400010</LEXReference>
+            <LEXReference>05600300900010</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

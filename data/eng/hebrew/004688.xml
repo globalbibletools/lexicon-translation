@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="004688000000000" Lemma="נוה" Version="3" HasAramaic="false" InLXX="false" AlphaPos="נ">
+  <StrongCodes>
+    <Strong>H5115</Strong>
+  </StrongCodes>
+  <Authors>
+    <Author>Reinier de Blois</Author>
+  </Authors>
+  <Contributors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes>
+    <Note Caller="1" LanguageCode="en" LastEdited="" LastEditedBy="">
+      <References>
+        <Reference>03500200500022</Reference>
+      </References>
+      <Content>RSV "abide" NIV ESV "is ... at rest" NRSV "endure" NJPS "go unpunished" | REB "reach goal"</Content>
+    </Note>
+    <Note Caller="2" LanguageCode="en" LastEdited="" LastEditedBy="">
+      <References>
+        <Reference>00201500200026</Reference>
+      </References>
+      <Content>LXX δοξάσω RSV NIV NRSV GNT ESV "I will praise him" NJB "I shall praise him" REB "I shall glorify him" | NJPS "I will enshrine him"</Content>
+    </Note>
+  </Notes>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="004688001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>vb</PartOfSpeech>
+      </PartsOfSpeech>
+      <RelatedLemmas>
+        <RelatedLemma>
+          <Word>נָוֶה</Word>
+        </RelatedLemma>
+        <RelatedLemma>
+          <Word>נָוָה</Word>
+        </RelatedLemma>
+      </RelatedLemmas>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="004688001001000" IsBiblicalTerm="Y" EntryCode="" Indent="0">
+          <LEXDomains>
+            <LEXDomain Code="002001001003" Source="Dwell" SourceCode="002002001005">Alive</LEXDomain>
+          </LEXDomains>
+          <LEXForms>
+            <LEXForm>vbqal-</LEXForm>
+          </LEXForms>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2017-11-07 18:41:14" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>exact meaning unknown; possibly: = process by which humans are alive and well</DefinitionShort>
+              <Glosses>
+                <Gloss>to abide</Gloss>
+                <Gloss>to survive</Gloss>
+                <Gloss>to endure</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>03500200500022{N:001}</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+    <BaseForm Id="004688002000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>vb</PartOfSpeech>
+      </PartsOfSpeech>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="004688002001000" IsBiblicalTerm="Y" EntryCode="" Indent="0">
+          <LEXDomains>
+            <LEXDomain Code="002004001009009">Praise</LEXDomain>
+          </LEXDomains>
+          <LEXForms>
+            <LEXForm>vbhif-</LEXForm>
+          </LEXForms>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2017-11-07 18:41:14" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>= action by which humans express their appreciation, admiration, respect, and/or gratitude to deities about who they are and what they do</DefinitionShort>
+              <Glosses>
+                <Gloss>to praise</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>00201500200026{N:002}</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+          <LEXCoreDomains>
+            <LEXCoreDomain Code="041">Communication</LEXCoreDomain>
+            <LEXCoreDomain Code="130">Praise</LEXCoreDomain>
+            <LEXCoreDomain Code="170">Status</LEXCoreDomain>
+          </LEXCoreDomains>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

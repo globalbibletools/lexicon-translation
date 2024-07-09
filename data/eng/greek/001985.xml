@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="001985000000000" Lemma="ἐπιπίπτω" Version="0" HasAramaic="false" InLXX="true" AlphaPos="ε">
+  <StrongCodes>
+    <Strong>G1968</Strong>
+  </StrongCodes>
+  <Authors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes>
+    <Note Caller="1" LanguageCode="en" LastEdited="" LastEditedBy="">
+      <References/>
+      <Content>The idiom ἐπιπίπτω ἐπὶ τὸν τράχηλον would seem to indicate somewhat greater affection and concern than the verb ἐναγκαλίζομαι ({D:34.63}).</Content>
+    </Note>
+  </Notes>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="001985001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>verb</PartOfSpeech>
+      </PartsOfSpeech>
+      <Inflections>
+        <Inflection Lemma="ἐπιπίπτω" BaseFormIndex="1">
+          <Form>aor.</Form>
+          <Realizations>
+            <Realization>ἐπέπεσον</Realization>
+          </Realizations>
+          <Comments/>
+        </Inflection>
+        <Inflection Lemma="ἐπιπίπτω" BaseFormIndex="1">
+          <Form>pf.</Form>
+          <Realizations>
+            <Realization>ἐπιπέπτωκα</Realization>
+          </Realizations>
+          <Comments/>
+        </Inflection>
+      </Inflections>
+      <RelatedLemmas>
+        <RelatedLemma>
+          <Word>πίπτω</Word>
+        </RelatedLemma>
+      </RelatedLemmas>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="001985001001000" IsBiblicalTerm="Y" EntryCode="19.43" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Physical Impact</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Press</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-06-23 09:36:00" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>to press or push against</DefinitionShort>
+              <Glosses>
+                <Gloss>to press against</Gloss>
+                <Gloss>to push against</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04100301000010</LEXReference>
+            <LEXReference>04402001000010</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+        <LEXMeaning Id="001985001002000" IsBiblicalTerm="Y" EntryCode="13.122" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Be, Become, Exist, Happen</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Happen</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-06-23 09:36:00" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>to happen suddenly to, with the connotation of something bad and adverse</DefinitionShort>
+              <Glosses>
+                <Gloss>to happen to</Gloss>
+                <Gloss>to fall upon</Gloss>
+              </Glosses>
+              <Comments>In a number of languages it is difficult to speak of ‘insults happening.’ Therefore, it may be necessary to restructure this expression in {S:04501500300032} as ‘they began insulting me in the same way they used to insult you.’</Comments>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04200101200014</LEXReference>
+            <LEXReference>04400801600014</LEXReference>
+            <LEXReference>04401004400016</LEXReference>
+            <LEXReference>04401101500014</LEXReference>
+            <LEXReference>04401901700030</LEXReference>
+            <LEXReference>04501500300032</LEXReference>
+            <LEXReference>06601101100050</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+        <LEXMeaning Id="001985001003000" IsBiblicalTerm="Y" EntryCode="34.64" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Association</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Kiss, Embrace</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXCollocations>
+            <LEXCollocation>ἐπιπίπτω ἐπὶ τὸν τράχηλον</LEXCollocation>
+          </LEXCollocations>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-06-23 09:36:00" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>(an idiom, literally: to fall on the neck) to show special affection for by throwing one’s arms around a person{N:001}</DefinitionShort>
+              <Glosses>
+                <Gloss>to hug</Gloss>
+                <Gloss>to embrace</Gloss>
+              </Glosses>
+              <Comments>A literal translation of ἐπιπίπτω ἐπὶ τὸν τράχηλον ‘to fall on someone’s neck’ can be seriously misunderstood. In fact, in some languages it is so close to an expression meaning ‘to kill’ that one should normally avoid any literal rendering. At the same time, it is very important not to employ terms for ‘embrace’ and ‘kiss’ in {S:04402003700014} which might suggest improper sexual interests.</Comments>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04201502000044</LEXReference>
+            <LEXReference>04402003700014</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

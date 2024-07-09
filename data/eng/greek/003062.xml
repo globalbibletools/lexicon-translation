@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="003062000000000" Lemma="λιμός" Version="0" HasAramaic="false" InLXX="true" AlphaPos="λ">
+  <StrongCodes>
+    <Strong>G3042</Strong>
+  </StrongCodes>
+  <Authors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes>
+    <Note Caller="1" LanguageCode="en" LastEdited="" LastEditedBy="">
+      <References/>
+      <Content>λιμός[a] could be classified as a physical event, since a famine results from lack of rainfall or some natural disaster causing crops to fail. However, since a famine is so specifically related to peoples experience of hunger, it seems best to classify λιμός[a] together with other expressions involving lack of food.</Content>
+    </Note>
+  </Notes>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="003062001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>noun, m./f.</PartOfSpeech>
+      </PartsOfSpeech>
+      <Inflections>
+        <Inflection Lemma="λιμός" BaseFormIndex="1">
+          <Form/>
+          <Realizations>
+            <Realization>-οῦ</Realization>
+          </Realizations>
+          <Comments/>
+        </Inflection>
+      </Inflections>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="003062001001000" IsBiblicalTerm="M" EntryCode="23.33" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Physiological Processes and States</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Eat, Drink</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-11-10 12:04:27" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>a widespread lack of food over a considerable period of time and resulting in hunger for many people{N:001}</DefinitionShort>
+              <Glosses>
+                <Gloss>famine</Gloss>
+                <Gloss>hunger</Gloss>
+              </Glosses>
+              <Comments>In a number of languages the only way of talking about a famine is to say ‘many people were very hungry for a long time’ or ‘many people had to go for days without anything to eat.’ It is important to distinguish clearly between a famine and voluntary abstinence from food for the sake of fasting. (See Domain 53H.)</Comments>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04002400700024</LEXReference>
+            <LEXReference>04101300800030</LEXReference>
+            <LEXReference>04200402500056</LEXReference>
+            <LEXReference>04201501400012</LEXReference>
+            <LEXReference>04202101100014</LEXReference>
+            <LEXReference>04400701100006</LEXReference>
+            <LEXReference>04401102800024</LEXReference>
+            <LEXReference>06600600800072</LEXReference>
+            <LEXReference>06601800800028</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+        <LEXMeaning Id="003062001002000" IsBiblicalTerm="M" EntryCode="23.31" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Physiological Processes and States</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Eat, Drink</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-11-10 12:04:27" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>the state of being very hungry, presumably for a considerable period of time and as the result of necessity rather than choice (compare {L:νηστεία&lt;SDBG:νηστεία:000000&gt;}[a] ‘fasting,’ {D:53.65})</DefinitionShort>
+              <Glosses>
+                <Gloss>to be quite hungry</Gloss>
+                <Gloss>considerable hunger</Gloss>
+                <Gloss>lack of food</Gloss>
+              </Glosses>
+              <Comments>Terms referring to hunger often distinguish varying degrees of hunger and whether the hunger is by necessity or by choice.</Comments>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04201501700030</LEXReference>
+            <LEXReference>04500803500030</LEXReference>
+            <LEXReference>04701102700016</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

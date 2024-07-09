@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="002795000000000" Lemma="κήρυγμα" Version="0" HasAramaic="false" InLXX="true" AlphaPos="κ">
+  <StrongCodes>
+    <Strong>G2782</Strong>
+  </StrongCodes>
+  <Authors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes/>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="002795001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>noun, n.</PartOfSpeech>
+      </PartsOfSpeech>
+      <Inflections>
+        <Inflection Lemma="κήρυγμα" BaseFormIndex="1">
+          <Form/>
+          <Realizations>
+            <Realization>-τος</Realization>
+          </Realizations>
+          <Comments/>
+        </Inflection>
+      </Inflections>
+      <RelatedLemmas>
+        <RelatedLemma>
+          <Word>κηρύσσω</Word>
+        </RelatedLemma>
+      </RelatedLemmas>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="002795001001000" IsBiblicalTerm="M" EntryCode="33.258" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Communication</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Preach, Proclaim</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-10-07 10:42:56" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>(derivative of {L:κηρύσσω&lt;SDBG:κηρύσσω:000002&gt;}[c] ‘to preach,’ {D:33.256}) the content of what is preached</DefinitionShort>
+              <Glosses>
+                <Gloss>preaching</Gloss>
+                <Gloss>what is preached</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04001204100036</LEXReference>
+            <LEXReference>04101600800096</LEXReference>
+            <LEXReference>04201103200036</LEXReference>
+            <LEXReference>04501602500024</LEXReference>
+            <LEXReference>04600102100048</LEXReference>
+            <LEXReference>04600200400014</LEXReference>
+            <LEXReference>04601501400020</LEXReference>
+            <LEXReference>05500401700026</LEXReference>
+            <LEXReference>05600100300018</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

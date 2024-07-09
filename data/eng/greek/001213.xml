@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="001213000000000" Lemma="δέσμιος" Version="0" HasAramaic="false" InLXX="true" AlphaPos="δ">
+  <StrongCodes>
+    <Strong>G1198</Strong>
+  </StrongCodes>
+  <Authors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes/>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="001213001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>noun, m.</PartOfSpeech>
+      </PartsOfSpeech>
+      <Inflections>
+        <Inflection Lemma="δέσμιος" BaseFormIndex="1">
+          <Form/>
+          <Realizations>
+            <Realization>-ου</Realization>
+          </Realizations>
+          <Comments/>
+        </Inflection>
+      </Inflections>
+      <RelatedLemmas>
+        <RelatedLemma>
+          <Word>δέω</Word>
+        </RelatedLemma>
+      </RelatedLemmas>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="001213001001000" IsBiblicalTerm="M" EntryCode="37.117" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Control, Rule</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Imprison</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-05-11 21:45:41" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>(derivative of {L:δεσμός&lt;SDBG:δεσμός:000001&gt;}[b] ‘to be in prison,’ {D:37.115}) a person who is under custody in prison</DefinitionShort>
+              <Glosses>
+                <Gloss>prisoner</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04002701500022</LEXReference>
+            <LEXReference>04002701600008</LEXReference>
+            <LEXReference>04101500600014</LEXReference>
+            <LEXReference>04401602500032</LEXReference>
+            <LEXReference>04401602700044</LEXReference>
+            <LEXReference>04402301800026</LEXReference>
+            <LEXReference>04402501400046</LEXReference>
+            <LEXReference>04402502700012</LEXReference>
+            <LEXReference>04402801700064</LEXReference>
+            <LEXReference>04900300100012</LEXReference>
+            <LEXReference>04900400100012</LEXReference>
+            <LEXReference>05500100800024</LEXReference>
+            <LEXReference>05700100100004</LEXReference>
+            <LEXReference>05700100900028</LEXReference>
+            <LEXReference>05801003400008</LEXReference>
+            <LEXReference>05801300300006</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

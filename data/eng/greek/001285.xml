@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="001285000000000" Lemma="διανόημα" Version="0" HasAramaic="false" InLXX="true" AlphaPos="δ">
+  <StrongCodes>
+    <Strong>G1270</Strong>
+  </StrongCodes>
+  <Authors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes/>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="001285001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>noun, n.</PartOfSpeech>
+      </PartsOfSpeech>
+      <Inflections>
+        <Inflection Lemma="διανόημα" BaseFormIndex="1">
+          <Form/>
+          <Realizations>
+            <Realization>-τος</Realization>
+          </Realizations>
+          <Comments/>
+        </Inflection>
+      </Inflections>
+      <RelatedLemmas>
+        <RelatedLemma>
+          <Word>νοέω</Word>
+        </RelatedLemma>
+      </RelatedLemmas>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="001285001001000" IsBiblicalTerm="Y" EntryCode="30.15" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Think</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>To Think, Thought</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-06-03 21:34:05" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>the content of thinking and reasoning</DefinitionShort>
+              <Glosses>
+                <Gloss>thought</Gloss>
+                <Gloss>what is thought</Gloss>
+                <Gloss>opinion</Gloss>
+              </Glosses>
+              <Comments>In a number of languages it is simply not possible to find noun-like words for thinking or reasoning and therefore it may be necessary to use a verb equivalent throughout. For example, in {S:04201101700012} one may translate as ‘but Jesus knew what they were thinking.’</Comments>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04201101700012</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

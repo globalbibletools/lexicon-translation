@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="002086000000000" Lemma="חֵבֶל" Version="5" HasAramaic="false" InLXX="false" AlphaPos="ח">
+  <StrongCodes>
+    <Strong>H2256b</Strong>
+  </StrongCodes>
+  <Authors>
+    <Author>Reinier de Blois</Author>
+  </Authors>
+  <Contributors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes/>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="002086001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>nsm</PartOfSpeech>
+      </PartsOfSpeech>
+      <RelatedLemmas>
+        <RelatedLemma>
+          <Word>חבל</Word>
+        </RelatedLemma>
+      </RelatedLemmas>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="002086001001000" IsBiblicalTerm="Y" EntryCode="" Indent="0">
+          <LEXDomains>
+            <LEXDomain Code="002001001056">Spasm</LEXDomain>
+          </LEXDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2017-08-24 21:12:09" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>= experience of having painful contractions of the womb; ◄ caused by advanced state of pregnancy; ► and resulting in the birth of new offspring; ≈ associated with fear and agony</DefinitionShort>
+              <Glosses>
+                <Gloss>labor-pain</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>01802101700020</LEXReference>
+            <LEXReference>02301300800010</LEXReference>
+            <LEXReference>02302601700018</LEXReference>
+            <LEXReference>02306600700016</LEXReference>
+            <LEXReference>02401302100032</LEXReference>
+            <LEXReference>02402202300032</LEXReference>
+            <LEXReference>02404902400022</LEXReference>
+            <LEXReference>02801301300002</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+          <LEXCoreDomains>
+            <LEXCoreDomain Code="030">Childbirth</LEXCoreDomain>
+          </LEXCoreDomains>
+        </LEXMeaning>
+        <LEXMeaning Id="002086001002000" IsBiblicalTerm="Y" EntryCode="" Indent="0">
+          <LEXDomains>
+            <LEXDomain Code="002002002003" Source="Spasm" SourceCode="002001001056">Birth</LEXDomain>
+          </LEXDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2017-08-24 21:12:09" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>= newly born animal</DefinitionShort>
+              <Glosses>
+                <Gloss>young (of animal)</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>01803900300008</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+          <LEXCoreDomains>
+            <LEXCoreDomain Code="010">Animal</LEXCoreDomain>
+            <LEXCoreDomain Code="030">Childbirth</LEXCoreDomain>
+          </LEXCoreDomains>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

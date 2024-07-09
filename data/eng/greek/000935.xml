@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="000935000000000" Lemma="βασίλισσα" Version="0" HasAramaic="false" InLXX="true" AlphaPos="β">
+  <StrongCodes>
+    <Strong>G0938</Strong>
+  </StrongCodes>
+  <Authors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes>
+    <Note Caller="1" LanguageCode="en" LastEdited="" LastEditedBy="">
+      <References/>
+      <Content>In certain contexts outside of the NT, βασίλισσα is employed to refer to the wife of a king.</Content>
+    </Note>
+  </Notes>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="000935001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>noun, f.</PartOfSpeech>
+      </PartsOfSpeech>
+      <Inflections>
+        <Inflection Lemma="βασίλισσα" BaseFormIndex="1">
+          <Form/>
+          <Realizations>
+            <Realization>-ης</Realization>
+          </Realizations>
+          <Comments/>
+        </Inflection>
+      </Inflections>
+      <RelatedLemmas>
+        <RelatedLemma>
+          <Word>βασιλεύω</Word>
+        </RelatedLemma>
+      </RelatedLemmas>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="000935001001000" IsBiblicalTerm="M" EntryCode="37.68" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Control, Rule</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Rule, Govern</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-02-04 23:04:20" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>a female ruler who has absolute authority within a particular area and who is able to pass on the power to rule to a successor{N:001}</DefinitionShort>
+              <Glosses>
+                <Gloss>queen</Gloss>
+              </Glosses>
+              <Comments>For an analysis of the use of {L:Κανδάκη&lt;SDBG:Κανδάκη:000000&gt;} in {S:04400802700022}, see {D:37.77}. See also {D:93.209}.</Comments>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04001204200002</LEXReference>
+            <LEXReference>04201103100002</LEXReference>
+            <LEXReference>04400802700022</LEXReference>
+            <LEXReference>06601800700040</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="004167000000000" Lemma="מַסָּע" Version="4" HasAramaic="false" InLXX="false" AlphaPos="מ">
+  <StrongCodes>
+    <Strong>H4551</Strong>
+  </StrongCodes>
+  <Authors>
+    <Author>P.J. Williams</Author>
+  </Authors>
+  <Contributors/>
+  <AlternateLemmas/>
+  <MainLinks>
+    <MainLink>SAHD@http://www.sahd.div.ed.ac.uk/_media/lexeme:pdf:hez-massa-2-williams_p-cam-1998p.pdf</MainLink>
+  </MainLinks>
+  <Notes>
+    <Note Caller="1" LanguageCode="en" LastEdited="" LastEditedBy="">
+      <References>
+        <Reference>01804101800012</Reference>
+      </References>
+      <Content>Tg translates: "and the sling that hurls stone". Other versions, LXX, Sym, Pesh, Jerome, take מַסָּע to be a modifier of חֲנִית.</Content>
+    </Note>
+  </Notes>
+  <ContributorNote>(a) note: 4. Versions, pp. 3-4; 7. Conclusion, pp. 5-6.  </ContributorNote>
+  <BaseForms>
+    <BaseForm Id="004167001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>nsm</PartOfSpeech>
+      </PartsOfSpeech>
+      <RelatedLemmas>
+        <RelatedLemma>
+          <Word>נסע</Word>
+        </RelatedLemma>
+      </RelatedLemmas>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="004167001001000" IsBiblicalTerm="Y" EntryCode="" Indent="0">
+          <LEXDomains>
+            <LEXDomain Code="001005">Scenery</LEXDomain>
+          </LEXDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2015-12-22 11:58:01" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>a large pit from which stones are cut</DefinitionShort>
+              <Glosses>
+                <Gloss>quarry</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>01100600700016</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+          <LEXCoreDomains>
+            <LEXCoreDomain Code="027">Crafts</LEXCoreDomain>
+            <LEXCoreDomain Code="107">Mining</LEXCoreDomain>
+          </LEXCoreDomains>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+    <BaseForm Id="004167002000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>nsm</PartOfSpeech>
+      </PartsOfSpeech>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="004167002001000" IsBiblicalTerm="M" EntryCode="" Indent="0">
+          <LEXDomains>
+            <LEXDomain Code="001004001020">Weapons</LEXDomain>
+          </LEXDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2015-12-22 11:58:01" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>exact meaning uncertain; probably = a small hand-held weapon, sharpened to a point on one end, and thrown</DefinitionShort>
+              <Glosses>
+                <Gloss>dart</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>01804101800012{N:001}</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

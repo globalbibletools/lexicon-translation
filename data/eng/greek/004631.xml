@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="004631000000000" Lemma="στενοχωρία" Version="0" HasAramaic="false" InLXX="true" AlphaPos="σ">
+  <StrongCodes>
+    <Strong>G4730</Strong>
+  </StrongCodes>
+  <Authors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes/>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="004631001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>noun, f.</PartOfSpeech>
+      </PartsOfSpeech>
+      <Inflections>
+        <Inflection Lemma="στενοχωρία" BaseFormIndex="1">
+          <Form/>
+          <Realizations>
+            <Realization>-ας</Realization>
+          </Realizations>
+          <Comments/>
+        </Inflection>
+      </Inflections>
+      <Constructs>
+        <Construct Lemma="στενοχωρία" BaseFormIndex="1">
+          <WordMeaningSet>
+            <Word>στενάζω</Word>
+          </WordMeaningSet>
+          <WordMeaningSet>
+            <Word>χωρέω</Word>
+          </WordMeaningSet>
+        </Construct>
+      </Constructs>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="004631001001000" IsBiblicalTerm="M" EntryCode="22.10" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Trouble, Hardship, Relief, Favorable Circumstances</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Trouble, Hardship, Distress</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2022-02-18 12:07:37" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>a set of difficult circumstances, implying certain restrictions</DefinitionShort>
+              <Glosses>
+                <Gloss>distress</Gloss>
+                <Gloss>difficulty</Gloss>
+              </Glosses>
+              <Comments>‘Distress’ may be expressed in some languages as ‘people will be in trouble’ or in an idiomatic expression, ‘the world will fall on people.’</Comments>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04500200900006</LEXReference>
+            <LEXReference>04500803500022</LEXReference>
+            <LEXReference>04700600400034</LEXReference>
+            <LEXReference>04701201000024</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="002227000000000" Lemma="ζήτησις" Version="0" HasAramaic="false" InLXX="false" AlphaPos="ζ">
+  <StrongCodes>
+    <Strong>G2214</Strong>
+  </StrongCodes>
+  <Authors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes/>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="002227001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>noun, f.</PartOfSpeech>
+      </PartsOfSpeech>
+      <Inflections>
+        <Inflection Lemma="ζήτησις" BaseFormIndex="1">
+          <Form/>
+          <Realizations>
+            <Realization>-εως</Realization>
+          </Realizations>
+          <Comments/>
+        </Inflection>
+      </Inflections>
+      <RelatedLemmas>
+        <RelatedLemma>
+          <Word>ζητέω</Word>
+        </RelatedLemma>
+      </RelatedLemmas>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="002227001001000" IsBiblicalTerm="Y" EntryCode="27.34" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Learn</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Try To Learn</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-07-20 10:17:50" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>attempting to learn something by careful investigation or searching</DefinitionShort>
+              <Glosses>
+                <Gloss>searching out</Gloss>
+                <Gloss>seeking information</Gloss>
+                <Gloss>investigation</Gloss>
+              </Glosses>
+              <Comments>The clause ‘about how I could get information on these matters’ ({S:04402502000014}) may also be rendered as ‘about how I should try to find out about these matters’ or ‘about how I could learn about these matters.’</Comments>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04402502000014</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+        <LEXMeaning Id="002227001002000" IsBiblicalTerm="Y" EntryCode="33.440" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Communication</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Dispute, Debate</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-07-20 10:17:50" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>expressing of forceful differences of opinion without necessarily having a presumed goal of seeking a solution</DefinitionShort>
+              <Glosses>
+                <Gloss>dispute</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04300302500006</LEXReference>
+            <LEXReference>04401500200010</LEXReference>
+            <LEXReference>04401500700006</LEXReference>
+            <LEXReference>05400600400014</LEXReference>
+            <LEXReference>05500202300012</LEXReference>
+            <LEXReference>05600300900006</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

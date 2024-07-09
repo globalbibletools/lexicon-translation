@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="002160000000000" Lemma="εὐρακύλων" Version="0" HasAramaic="false" InLXX="false" AlphaPos="ε">
+  <StrongCodes>
+    <Strong>G2148a</Strong>
+  </StrongCodes>
+  <Authors/>
+  <AlternateLemmas>
+    <AlternateLemma>Εὐρακύλων</AlternateLemma>
+  </AlternateLemmas>
+  <MainLinks/>
+  <Notes>
+    <Note Caller="1" LanguageCode="en" LastEdited="" LastEditedBy="">
+      <References>
+        <Reference>04402701400024</Reference>
+      </References>
+      <Content>Some manuscripts read Εὐροκλύδων, explained as ‘an east wind that stirs up waves.’ Another form is Εὐρυκλύδων ‘the wind that stirs up broad waves.’ These two forms, however, are regarded by most scholars as being scribal errors</Content>
+    </Note>
+  </Notes>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="002160001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>noun, m.</PartOfSpeech>
+      </PartsOfSpeech>
+      <Inflections>
+        <Inflection Lemma="εὐρακύλων" BaseFormIndex="1">
+          <Form/>
+          <Realizations>
+            <Realization>-ωνος</Realization>
+          </Realizations>
+          <Comments/>
+        </Inflection>
+      </Inflections>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="002160001001000" IsBiblicalTerm="Y" EntryCode="14.9" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Physical Events and States</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Wind</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXCollocations>
+            <LEXCollocation>Εὐρακύλων</LEXCollocation>
+          </LEXCollocations>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-07-13 09:46:20" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>a hybrid formation from Greek and Latin, meaning literally either ‘east wind’ or ‘broad wind’: a strong storm wind blowing from the northeast</DefinitionShort>
+              <Glosses>
+                <Gloss>a Northeaster</Gloss>
+              </Glosses>
+              <Comments>It is, of course, possible to use the form Εὐρακύλων as a proper name, but this is probably much less meaningful than employing a term such as ‘strong northeast wind’ or ‘a strong storm coming from the northeast.’ In instances in which languages do not readily and easily distinguish between north and northeast or between east and northeast, it may be satisfactory simply to use a term such as ‘east,’ but frequently one can use a designation for ‘northeast’ such as ‘between the north and the east’ or ‘a little to the north of east.’</Comments>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04402701400024{N:001}</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

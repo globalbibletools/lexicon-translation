@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="005567000000000" Lemma="ענשׁ" Version="4" HasAramaic="false" InLXX="false" AlphaPos="ע">
+  <StrongCodes>
+    <Strong>H6064</Strong>
+  </StrongCodes>
+  <Authors>
+    <Author>Reinier de Blois</Author>
+  </Authors>
+  <Contributors/>
+  <AlternateLemmas>
+    <AlternateLemma>עֲנוּשִׁים</AlternateLemma>
+  </AlternateLemmas>
+  <MainLinks/>
+  <Notes/>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="005567001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>vb</PartOfSpeech>
+      </PartsOfSpeech>
+      <RelatedLemmas>
+        <RelatedLemma>
+          <Word>עֹנֶשׁ</Word>
+        </RelatedLemma>
+      </RelatedLemmas>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="005567001001000" IsBiblicalTerm="Y" EntryCode="" Indent="0">
+          <LEXDomains>
+            <LEXDomain Code="002003002019">Non-Possess</LEXDomain>
+          </LEXDomains>
+          <LEXForms>
+            <LEXForm>vbqal-</LEXForm>
+            <LEXForm>vbnif- (passive)</LEXForm>
+          </LEXForms>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2016-12-30 14:08:41" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>= causative action by which someone in authority forces humans to pay a certain amount in monetary value or in kind, ► usually as retribution for a certain offense</DefinitionShort>
+              <Glosses>
+                <Gloss>to fine</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>00202102200032</LEXReference>
+            <LEXReference>00202102200034</LEXReference>
+            <LEXReference>00502201900004</LEXReference>
+            <LEXReference>01403600300016</LEXReference>
+            <LEXReference>03000200800022</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+          <LEXCoreDomains>
+            <LEXCoreDomain Code="128">Possession</LEXCoreDomain>
+            <LEXCoreDomain Code="140">Recompense</LEXCoreDomain>
+          </LEXCoreDomains>
+        </LEXMeaning>
+        <LEXMeaning Id="005567001002000" IsBiblicalTerm="Y" EntryCode="" Indent="0">
+          <LEXDomains>
+            <LEXDomain Code="002003002006" Source="Non-Possess" SourceCode="002003002019">Chastise</LEXDomain>
+          </LEXDomains>
+          <LEXForms>
+            <LEXForm>vbqal-</LEXForm>
+            <LEXForm>vbnif- (passive)</LEXForm>
+          </LEXForms>
+          <LEXSynonyms>
+            <LEXSynonym>נכה</LEXSynonym>
+            <LEXSynonym>שׂכל</LEXSynonym>
+          </LEXSynonyms>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2016-12-30 14:08:41" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>literally: to fine; hence: = causative action by which someone in authority administer some kind of punishment to other humans, ◄ usually as retribution for a certain offense</DefinitionShort>
+              <Glosses>
+                <Gloss>to punish</Gloss>
+                <Gloss>to pay the penalty</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>02001702600004</LEXReference>
+            <LEXReference>02002101100004</LEXReference>
+            <LEXReference>02002200300024</LEXReference>
+            <LEXReference>02002701200014</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+          <LEXCoreDomains>
+            <LEXCoreDomain Code="140">Recompense</LEXCoreDomain>
+          </LEXCoreDomains>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

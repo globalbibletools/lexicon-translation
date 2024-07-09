@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="002558000000000" Lemma="חרץ" Version="5" HasAramaic="false" InLXX="false" AlphaPos="ח">
+  <StrongCodes>
+    <Strong>H2782</Strong>
+  </StrongCodes>
+  <Authors>
+    <Author>Reinier de Blois</Author>
+  </Authors>
+  <Contributors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes/>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="002558001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>vb</PartOfSpeech>
+      </PartsOfSpeech>
+      <RelatedLemmas>
+        <RelatedLemma>
+          <Word>חָרוּץ</Word>
+        </RelatedLemma>
+        <RelatedLemma>
+          <Word>חָרִיץ</Word>
+        </RelatedLemma>
+      </RelatedLemmas>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="002558001001000" IsBiblicalTerm="Y" EntryCode="" Indent="0">
+          <LEXDomains>
+            <LEXDomain Code="002004001009008" Source="Shape" SourceCode="002001001048">Speak</LEXDomain>
+          </LEXDomains>
+          <LEXForms>
+            <LEXForm>vbqal-</LEXForm>
+          </LEXForms>
+          <LEXCollocations>
+            <LEXCollocation>חרץ לָשֹׁון</LEXCollocation>
+          </LEXCollocations>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2018-01-14 14:23:40" LastEditedBy="administrator">
+              <DefinitionLong/>
+              <DefinitionShort>literally: to sharpen one's tongue; hence: = action by which  humans or animals show aggression to someone else with sounds or in speech</DefinitionShort>
+              <Glosses>
+                <Gloss>to speak (against)</Gloss>
+                <Gloss>to say something bad (about)</Gloss>
+                <Gloss>to bark</Gloss>
+                <Gloss>to growl</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>00201100700014</LEXReference>
+            <LEXReference>00601002100030</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+          <LEXCoreDomains>
+            <LEXCoreDomain Code="041">Communication</LEXCoreDomain>
+            <LEXCoreDomain Code="006">Aggression</LEXCoreDomain>
+          </LEXCoreDomains>
+        </LEXMeaning>
+        <LEXMeaning Id="002558001002000" IsBiblicalTerm="Y" EntryCode="" Indent="0">
+          <LEXDomains>
+            <LEXDomain Code="002004002007" Source="Shape" SourceCode="002001001048">Know</LEXDomain>
+          </LEXDomains>
+          <LEXForms>
+            <LEXForm>vbqal-</LEXForm>
+            <LEXForm>vbnif- (passive)</LEXForm>
+          </LEXForms>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2018-01-14 14:24:35" LastEditedBy="administrator">
+              <DefinitionLong/>
+              <DefinitionShort>literally: to cut a decision; hence: = action by which humans or deities come to a formal and authoritative decision about something</DefinitionShort>
+              <Glosses>
+                <Gloss>to decide</Gloss>
+                <Gloss>to decree</Gloss>
+                <Gloss>to determine</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>01000502400030</LEXReference>
+            <LEXReference>01102004000038</LEXReference>
+            <LEXReference>01801400500004</LEXReference>
+            <LEXReference>02301002200028</LEXReference>
+            <LEXReference>02301002300008</LEXReference>
+            <LEXReference>02302802200022</LEXReference>
+            <LEXReference>02700902600066</LEXReference>
+            <LEXReference>02700902700052</LEXReference>
+            <LEXReference>02701103600052</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+          <LEXCoreDomains>
+            <LEXCoreDomain Code="106">Mind</LEXCoreDomain>
+          </LEXCoreDomains>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

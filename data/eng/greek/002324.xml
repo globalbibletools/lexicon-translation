@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="002324000000000" Lemma="θεοστυγής" Version="0" HasAramaic="false" InLXX="false" AlphaPos="θ">
+  <StrongCodes>
+    <Strong>G2319</Strong>
+  </StrongCodes>
+  <Authors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes/>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="002324001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>adjc.</PartOfSpeech>
+      </PartsOfSpeech>
+      <Inflections>
+        <Inflection Lemma="θεοστυγής" BaseFormIndex="1">
+          <Form/>
+          <Realizations>
+            <Realization>-ές</Realization>
+          </Realizations>
+          <Comments/>
+        </Inflection>
+      </Inflections>
+      <Constructs>
+        <Construct Lemma="θεοστυγής" BaseFormIndex="1">
+          <WordMeaningSet>
+            <Word>θεός</Word>
+          </WordMeaningSet>
+          <WordMeaningSet>
+            <Word>στυγητός</Word>
+          </WordMeaningSet>
+        </Construct>
+      </Constructs>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="002324001001000" IsBiblicalTerm="Y" EntryCode="88.205" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Moral and Ethical Qualities and Related Behavior</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Hate, Hateful</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-08-13 18:44:43" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>pertaining to hatred for God</DefinitionShort>
+              <Glosses>
+                <Gloss>hating God</Gloss>
+                <Gloss>one who hates God</Gloss>
+              </Glosses>
+              <Comments>It is possible, though unlikely, that θεοστυγής in {S:04500103000004} could be interpreted as ‘those whom God hates.’</Comments>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04500103000004</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

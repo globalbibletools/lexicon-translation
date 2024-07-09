@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="001095000000000" Lemma="γεννητός" Version="0" HasAramaic="false" InLXX="true" AlphaPos="γ">
+  <StrongCodes>
+    <Strong>G1084</Strong>
+  </StrongCodes>
+  <Authors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes/>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="001095001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>adjc.</PartOfSpeech>
+      </PartsOfSpeech>
+      <Inflections>
+        <Inflection Lemma="γεννητός" BaseFormIndex="1">
+          <Form/>
+          <Realizations>
+            <Realization>-ή, -όν</Realization>
+          </Realizations>
+          <Comments/>
+        </Inflection>
+      </Inflections>
+      <RelatedLemmas>
+        <RelatedLemma>
+          <Word>γεννάω</Word>
+        </RelatedLemma>
+      </RelatedLemmas>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="001095001001000" IsBiblicalTerm="Y" EntryCode="23.47" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Physiological Processes and States</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Birth, Procreation</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-05-13 21:48:25" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>(derivative of {L:γεννάω&lt;SDBG:γεννάω:000001&gt;}[b] ‘to give birth,’ {D:23.52}) pertaining to having been born</DefinitionShort>
+              <Glosses>
+                <Gloss>one born</Gloss>
+                <Gloss>one who has been born</Gloss>
+                <Gloss>person</Gloss>
+              </Glosses>
+              <Comments>In some languages a literal rendering of γεννητοῖς γυναικῶν ‘born of women’ could be misleading, for it might suggest that there are persons who have not been born of women. It is for that reason that γεννητοῖς γυναικῶν may be rendered in some instances as ‘of all those persons who have ever lived.’ However, this reference to the preeminence of John the Baptist is difficult, and the implications of it go far beyond the matter of translational equivalence.</Comments>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04001101100014</LEXReference>
+            <LEXReference>04200702800010</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="002118000000000" Lemma="εὐδοκία" Version="0" HasAramaic="false" InLXX="true" AlphaPos="ε">
+  <StrongCodes>
+    <Strong>G2107</Strong>
+  </StrongCodes>
+  <Authors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes/>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="002118001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>noun, f.</PartOfSpeech>
+      </PartsOfSpeech>
+      <Inflections>
+        <Inflection Lemma="εὐδοκία" BaseFormIndex="1">
+          <Form/>
+          <Realizations>
+            <Realization>-ας</Realization>
+          </Realizations>
+          <Comments/>
+        </Inflection>
+      </Inflections>
+      <Constructs>
+        <Construct Lemma="εὐδοκία" BaseFormIndex="1">
+          <WordMeaningSet>
+            <Word>εὖ</Word>
+          </WordMeaningSet>
+          <WordMeaningSet>
+            <Word>δοκέω</Word>
+          </WordMeaningSet>
+        </Construct>
+      </Constructs>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="002118001001000" IsBiblicalTerm="Y" EntryCode="25.88" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Attitudes and Emotions</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Acceptable To, To Be Pleased With</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-07-08 09:53:32" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>that which pleases someone</DefinitionShort>
+              <Glosses>
+                <Gloss>what pleases</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04001102600012</LEXReference>
+            <LEXReference>04200201400022</LEXReference>
+            <LEXReference>04201002100076</LEXReference>
+            <LEXReference>04900100500024</LEXReference>
+            <LEXReference>04900100900020</LEXReference>
+            <LEXReference>05000201300032</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+        <LEXMeaning Id="002118001002000" IsBiblicalTerm="Y" EntryCode="25.8" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Attitudes and Emotions</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Desire, Want, Wish</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-07-08 09:53:32" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>(derivative of {L:εὐδοκέω&lt;SDBG:εὐδοκέω:000002&gt;}[c] ‘to prefer,’ {D:30.97}) that which is desired on the basis of its appearing to be beneficial</DefinitionShort>
+              <Glosses>
+                <Gloss>desire</Gloss>
+                <Gloss>what is wished for</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04501000100008</LEXReference>
+            <LEXReference>05000101500024</LEXReference>
+            <LEXReference>05300101100038</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

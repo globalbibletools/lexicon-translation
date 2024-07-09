@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="006823000000000" Lemma="רְמִיָּה" Version="4" HasAramaic="false" InLXX="false" AlphaPos="ר">
+  <StrongCodes>
+    <Strong>H7423</Strong>
+  </StrongCodes>
+  <Authors>
+    <Author>Steve Berneking</Author>
+  </Authors>
+  <Contributors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes/>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="006823001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>nsf</PartOfSpeech>
+      </PartsOfSpeech>
+      <RelatedLemmas>
+        <RelatedLemma>
+          <Word>רמה</Word>
+        </RelatedLemma>
+      </RelatedLemmas>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="006823001001000" IsBiblicalTerm="M" EntryCode="" Indent="0">
+          <LEXDomains>
+            <LEXDomain Code="002001002017" Source="Weak" SourceCode="002001001065">Lazy</LEXDomain>
+          </LEXDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2020-09-18 12:36:24" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>= state or condition of a person unequipped or unwilling to work or be attentive to responsibilities</DefinitionShort>
+              <Glosses>
+                <Gloss>lazy</Gloss>
+                <Gloss>slothful</Gloss>
+                <Gloss>idle</Gloss>
+                <Gloss>slack</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>02001000400008</LEXReference>
+            <LEXReference>02001202400010</LEXReference>
+            <LEXReference>02001202700006</LEXReference>
+            <LEXReference>02001901500012</LEXReference>
+            <LEXReference>02404801000010</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+          <LEXCoreDomains>
+            <LEXCoreDomain Code="200">Work</LEXCoreDomain>
+          </LEXCoreDomains>
+        </LEXMeaning>
+        <LEXMeaning Id="006823001002000" IsBiblicalTerm="Y" EntryCode="" Indent="0">
+          <LEXDomains>
+            <LEXDomain Code="002001001006" Source="Lazy" SourceCode="002001002017">Bad</LEXDomain>
+          </LEXDomains>
+          <LEXCollocations>
+            <LEXCollocation>קֶשֶׁת רְמִיָּה</LEXCollocation>
+          </LEXCollocations>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2020-09-18 12:36:24" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>literally: a slack bow; hence: = a bow that has lost its spring and is therefore no longer useful</DefinitionShort>
+              <Glosses>
+                <Gloss>slack &gt; useless (bow)</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>01907805700020</LEXReference>
+            <LEXReference>02800701600014</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+          <LEXCoreDomains>
+            <LEXCoreDomain Code="188">Warfare</LEXCoreDomain>
+          </LEXCoreDomains>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+    <BaseForm Id="006823002000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>nsf</PartOfSpeech>
+      </PartsOfSpeech>
+      <RelatedLemmas>
+        <RelatedLemma>
+          <Word>רמה</Word>
+        </RelatedLemma>
+      </RelatedLemmas>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="006823002001000" IsBiblicalTerm="M" EntryCode="" Indent="0">
+          <LEXDomains>
+            <LEXDomain Code="002001003007">False</LEXDomain>
+          </LEXDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2020-09-18 12:36:24" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>= the state in which something false is described or spoken about as true, so that others believe it to be truth</DefinitionShort>
+              <Glosses>
+                <Gloss>deceit</Gloss>
+                <Gloss>fraud</Gloss>
+                <Gloss>lies</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>01801300700018</LEXReference>
+            <LEXReference>01802700400018</LEXReference>
+            <LEXReference>01903200200024</LEXReference>
+            <LEXReference>01905200400016</LEXReference>
+            <LEXReference>01910100700014</LEXReference>
+            <LEXReference>01912000200018</LEXReference>
+            <LEXReference>01912000300018</LEXReference>
+            <LEXReference>03300601200022</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+          <LEXCoreDomains>
+            <LEXCoreDomain Code="184">Truth and Falsehood</LEXCoreDomain>
+          </LEXCoreDomains>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

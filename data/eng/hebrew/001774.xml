@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="001774000000000" Lemma="הָדָר" Version="5" HasAramaic="false" InLXX="false" AlphaPos="ה">
+  <StrongCodes>
+    <Strong>H1926</Strong>
+  </StrongCodes>
+  <Authors>
+    <Author>Enio R. Mueller</Author>
+  </Authors>
+  <Contributors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes>
+    <Note Caller="1" LanguageCode="en" LastEdited="" LastEditedBy="">
+      <References>
+        <Reference>00302304000022</Reference>
+      </References>
+      <Content>RSV "goodly" NIV NJB "choice" NRSV "majestic" GNT CEV "best" ESV "splendid" = [1] | NJPS "hadar" REB "citrus" = [2]</Content>
+    </Note>
+  </Notes>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="001774001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>nsm</PartOfSpeech>
+      </PartsOfSpeech>
+      <RelatedLemmas>
+        <RelatedLemma>
+          <Word>הדר</Word>
+        </RelatedLemma>
+      </RelatedLemmas>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="001774001001000" IsBiblicalTerm="M" EntryCode="" Indent="0">
+          <LEXDomains>
+            <LEXDomain Code="002001002024">Respect</LEXDomain>
+          </LEXDomains>
+          <LEXSynonyms>
+            <LEXSynonym>הֹוד</LEXSynonym>
+          </LEXSynonyms>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2017-09-04 12:39:45" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>= state in which deities, humans, or animals have personal greatness and a high status, recognized and respected by others</DefinitionShort>
+              <Glosses>
+                <Gloss>majesty</Gloss>
+                <Gloss>majestic</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>00302304000022</LEXReference>
+            <LEXReference>00302304000022{N:001}</LEXReference>
+            <LEXReference>00503301700006</LEXReference>
+            <LEXReference>01301602700006</LEXReference>
+            <LEXReference>01804001000018</LEXReference>
+            <LEXReference>01900800600018</LEXReference>
+            <LEXReference>01902100600014</LEXReference>
+            <LEXReference>01902900400020</LEXReference>
+            <LEXReference>01904500400016</LEXReference>
+            <LEXReference>01904500500004</LEXReference>
+            <LEXReference>01909001600012</LEXReference>
+            <LEXReference>01909600600006</LEXReference>
+            <LEXReference>01910400100022</LEXReference>
+            <LEXReference>01911000300014</LEXReference>
+            <LEXReference>01911100300006</LEXReference>
+            <LEXReference>01914500500002</LEXReference>
+            <LEXReference>01914501200020</LEXReference>
+            <LEXReference>01914900900012</LEXReference>
+            <LEXReference>02002002900010</LEXReference>
+            <LEXReference>02003102500006</LEXReference>
+            <LEXReference>02300201000032</LEXReference>
+            <LEXReference>02300201900032</LEXReference>
+            <LEXReference>02300202100036</LEXReference>
+            <LEXReference>02300501400026</LEXReference>
+            <LEXReference>02303500200028</LEXReference>
+            <LEXReference>02303500200048</LEXReference>
+            <LEXReference>02305300200040</LEXReference>
+            <LEXReference>02500100600018</LEXReference>
+            <LEXReference>02601601400028</LEXReference>
+            <LEXReference>02602701000036</LEXReference>
+            <LEXReference>03300200900022</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+          <LEXCoreDomains>
+            <LEXCoreDomain Code="170">Status</LEXCoreDomain>
+          </LEXCoreDomains>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+    <BaseForm Id="001774002000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>nsm</PartOfSpeech>
+      </PartsOfSpeech>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="001774002001000" IsBiblicalTerm="M" EntryCode="" Indent="0">
+          <LEXDomains>
+            <LEXDomain Code="001003002">Trees</LEXDomain>
+          </LEXDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2017-09-04 12:39:45" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>meaning unsure; possibly: = type of citrus that grows naturally to about 4 meters, with dark evergreen leaves, thorns, and fragrant white flowers; its fruit, like that of the lemon tree, is yellow and very sour; its peelings can be used as flavorings; oil can be distilled from the peelings as well and used in perfumes; used in ancient times to treat sicknesses</DefinitionShort>
+              <Glosses>
+                <Gloss>citron tree</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>00302304000022{N:001}</LEXReference>
+          </LEXReferences>
+          <LEXLinks>
+            <LEXLink>Flora:2.4</LEXLink>
+          </LEXLinks>
+          <LEXVideos/>
+          <LEXCoreDomains>
+            <LEXCoreDomain Code="125">Plant</LEXCoreDomain>
+          </LEXCoreDomains>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

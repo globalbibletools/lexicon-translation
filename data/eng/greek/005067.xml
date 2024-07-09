@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="005067000000000" Lemma="τυγχάνω" Version="0" HasAramaic="false" InLXX="true" AlphaPos="τ">
+  <StrongCodes>
+    <Strong>G5177</Strong>
+  </StrongCodes>
+  <Authors/>
+  <AlternateLemmas>
+    <AlternateLemma>τυχόν</AlternateLemma>
+  </AlternateLemmas>
+  <MainLinks/>
+  <Notes/>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="005067001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>verb</PartOfSpeech>
+      </PartsOfSpeech>
+      <Inflections>
+        <Inflection Lemma="τυγχάνω" BaseFormIndex="1">
+          <Form>aor.opt.3sg.</Form>
+          <Realizations>
+            <Realization>τύχοι</Realization>
+          </Realizations>
+          <Comments/>
+        </Inflection>
+        <Inflection Lemma="τυγχάνω" BaseFormIndex="1">
+          <Form>inf.</Form>
+          <Realizations>
+            <Realization>τυχεῖν</Realization>
+          </Realizations>
+          <Comments/>
+        </Inflection>
+        <Inflection Lemma="τυγχάνω" BaseFormIndex="1">
+          <Form>ptc.neut.</Form>
+          <Realizations>
+            <Realization>τυχόν</Realization>
+          </Realizations>
+          <Comments/>
+        </Inflection>
+        <Inflection Lemma="τυγχάνω" BaseFormIndex="1">
+          <Form>pf.</Form>
+          <Realizations>
+            <Realization>τέτυχα</Realization>
+          </Realizations>
+          <Comments/>
+        </Inflection>
+      </Inflections>
+      <RelatedLemmas>
+        <RelatedLemma>
+          <Word>ἔντευξις</Word>
+        </RelatedLemma>
+        <RelatedLemma>
+          <Word>ἐντυγχάνω</Word>
+        </RelatedLemma>
+        <RelatedLemma>
+          <Word>ἐπιτυγχάνω</Word>
+        </RelatedLemma>
+        <RelatedLemma>
+          <Word>παρατυγχάνω</Word>
+        </RelatedLemma>
+        <RelatedLemma>
+          <Word>συντυγχάνω</Word>
+        </RelatedLemma>
+        <RelatedLemma>
+          <Word>ὑπερεντυγχάνω</Word>
+        </RelatedLemma>
+      </RelatedLemmas>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="005067001001000" IsBiblicalTerm="Y" EntryCode="90.61" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Case</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Experiencer</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2022-04-14 08:40:50" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>to experience some happening (generally neutral in connotation)</DefinitionShort>
+              <Glosses>
+                <Gloss>to experience</Gloss>
+                <Gloss>to have happen to</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04202003500014</LEXReference>
+            <LEXReference>04401901100010</LEXReference>
+            <LEXReference>04402400200022</LEXReference>
+            <LEXReference>04402602200006</LEXReference>
+            <LEXReference>04402700300040</LEXReference>
+            <LEXReference>04402800200014</LEXReference>
+            <LEXReference>05500201000024</LEXReference>
+            <LEXReference>05800800600008</LEXReference>
+            <LEXReference>05801103500036</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+        <LEXMeaning Id="005067001002000" IsBiblicalTerm="Y" EntryCode="71.10" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Mode</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Possible, Impossible</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXForms>
+            <LEXForm>τυχόν</LEXForm>
+          </LEXForms>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2022-04-14 08:40:50" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>(the neuter participle of τυγχάνω ‘to happen,’ not occurring in the NT) pertaining to the possible occurrence of an event or state</DefinitionShort>
+              <Glosses>
+                <Gloss>perhaps</Gloss>
+                <Gloss>possibly</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04601401000006</LEXReference>
+            <LEXReference>04601503700028</LEXReference>
+            <LEXReference>04601600600008</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

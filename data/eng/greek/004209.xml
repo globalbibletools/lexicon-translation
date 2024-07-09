@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="004209000000000" Lemma="προπάσχω" Version="0" HasAramaic="false" InLXX="false" AlphaPos="π">
+  <StrongCodes>
+    <Strong>G4310</Strong>
+  </StrongCodes>
+  <Authors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes/>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="004209001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>verb</PartOfSpeech>
+      </PartsOfSpeech>
+      <Inflections>
+        <Inflection Lemma="προπάσχω" BaseFormIndex="1">
+          <Form>aor.ptc.</Form>
+          <Realizations>
+            <Realization>προπαθών</Realization>
+          </Realizations>
+          <Comments/>
+        </Inflection>
+      </Inflections>
+      <RelatedLemmas>
+        <RelatedLemma>
+          <Word>πάσχω</Word>
+        </RelatedLemma>
+      </RelatedLemmas>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="004209001001000" IsBiblicalTerm="Y" EntryCode="24.79" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Sensory Events and States</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Pain, Suffering</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2022-12-16 14:50:56" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>to suffer beforehand or previous to an event in question</DefinitionShort>
+              <Glosses>
+                <Gloss>to suffer already</Gloss>
+                <Gloss>to suffer before</Gloss>
+              </Glosses>
+              <Comments>In order to render ‘already’ in the expression ‘how we had already suffered,’ it may be necessary in some languages to use the equivalent of a clause, for example, ‘how we had suffered even before that happened.’</Comments>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>05200200200004</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

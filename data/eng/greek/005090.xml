@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="005090000000000" Lemma="ὑγιής" Version="0" HasAramaic="false" InLXX="true" AlphaPos="υ">
+  <StrongCodes>
+    <Strong>G5199</Strong>
+  </StrongCodes>
+  <Authors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes>
+    <Note Caller="1" LanguageCode="en" LastEdited="" LastEditedBy="">
+      <References>
+        <Reference>05600200800004</Reference>
+      </References>
+      <Content>ὑγιής[b] covers a relatively wide range of meaning, but in {S:05600200800004} the focal element appears to be ‘that which is right.’</Content>
+    </Note>
+  </Notes>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="005090001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>adjc.</PartOfSpeech>
+      </PartsOfSpeech>
+      <Inflections>
+        <Inflection Lemma="ὑγιής" BaseFormIndex="1">
+          <Form/>
+          <Realizations>
+            <Realization>-ές</Realization>
+          </Realizations>
+          <Comments/>
+        </Inflection>
+        <Inflection Lemma="ὑγιής" BaseFormIndex="1">
+          <Form>acc.</Form>
+          <Realizations>
+            <Realization>ὑγιῆ</Realization>
+          </Realizations>
+          <Comments/>
+        </Inflection>
+      </Inflections>
+      <RelatedLemmas>
+        <RelatedLemma>
+          <Word>ὑγιαίνω</Word>
+        </RelatedLemma>
+      </RelatedLemmas>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="005090001001000" IsBiblicalTerm="Y" EntryCode="23.129" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Physiological Processes and States</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Health, Vigor, Strength</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2022-04-18 08:14:32" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>the state of being healthy, well (in contrast with sickness)</DefinitionShort>
+              <Glosses>
+                <Gloss>to be well</Gloss>
+                <Gloss>to be healthy</Gloss>
+              </Glosses>
+              <Comments>In a number of languages health is expressed only in terms of strength, for ‘to be well’ is ‘to be strong.’ In other languages, however, to be well or to be healthy is a negation of illness or sickness, so that in {S:04101601800040} one may translate ‘they will place their hands on those who are sick and these people will become not sick.’</Comments>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04001201300026</LEXReference>
+            <LEXReference>04001503100018</LEXReference>
+            <LEXReference>04100503400032</LEXReference>
+            <LEXReference>04300500600032</LEXReference>
+            <LEXReference>04300500900008</LEXReference>
+            <LEXReference>04300501100016</LEXReference>
+            <LEXReference>04300501400028</LEXReference>
+            <LEXReference>04300501500028</LEXReference>
+            <LEXReference>04300702300036</LEXReference>
+            <LEXReference>04400401000066</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+        <LEXMeaning Id="005090001002000" IsBiblicalTerm="Y" EntryCode="72.14" Indent="0">
+          <LEXDomains>
+            <LEXDomain>True, False</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Accurate, Inaccurate</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2022-04-18 08:14:32" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>pertaining to being accurate, as well as useful and beneficial</DefinitionShort>
+              <Glosses>
+                <Gloss>right</Gloss>
+                <Gloss>accurate</Gloss>
+                <Gloss>sound</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>05600200800004{N:001}</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

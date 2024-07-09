@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="000132000000000" Lemma="αἱμορροέω" Version="0" HasAramaic="false" InLXX="true" AlphaPos="α">
+  <StrongCodes>
+    <Strong>G0131</Strong>
+  </StrongCodes>
+  <Authors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes>
+    <Note Caller="1" LanguageCode="en" LastEdited="" LastEditedBy="">
+      <References/>
+      <Content>The expressions in {D:23.181} and {D:23.182} all refer to a menstrual flow of blood, but the phrases πηγὴ αἵματος and ῥύσις αἵματος seem to be restricted primarily to this meaning, while αἱμορροέω in non-biblical contexts means simply to suffer a loss of blood or to bleed, but it may, of course, refer to menstrual bleeding. Because of the wider range of reference in αἱμορροέω, this term has been listed separately.</Content>
+    </Note>
+  </Notes>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="000132001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>verb</PartOfSpeech>
+      </PartsOfSpeech>
+      <Constructs>
+        <Construct Lemma="αἱμορροέω" BaseFormIndex="1">
+          <WordMeaningSet>
+            <Word>αἷμα</Word>
+          </WordMeaningSet>
+          <WordMeaningSet>
+            <Word>ῥέω</Word>
+          </WordMeaningSet>
+        </Construct>
+      </Constructs>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="000132001001000" IsBiblicalTerm="M" EntryCode="23.181" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Physiological Processes and States</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Sickness, Disease, Weakness</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-03-07 10:09:50" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>to experience or suffer a loss of blood{N:001}</DefinitionShort>
+              <Glosses>
+                <Gloss>to bleed</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04000902000008</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

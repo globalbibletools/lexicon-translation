@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="003708000000000" Lemma="πάθημα" Version="0" HasAramaic="false" InLXX="false" AlphaPos="π">
+  <StrongCodes>
+    <Strong>G3804</Strong>
+  </StrongCodes>
+  <Authors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes>
+    <Note Caller="1" LanguageCode="en" LastEdited="" LastEditedBy="">
+      <References>
+        <Reference>04700100600044</Reference>
+      </References>
+      <Content>It is also possible to interpret πάσχομεν in {S:04700100600044} as being essentially a marker of a case relationship meaning ‘to experience’ (see {D:90.66}).</Content>
+    </Note>
+  </Notes>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="003708001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>noun, n.</PartOfSpeech>
+      </PartsOfSpeech>
+      <Inflections>
+        <Inflection Lemma="πάθημα" BaseFormIndex="1">
+          <Form/>
+          <Realizations>
+            <Realization>-τος</Realization>
+          </Realizations>
+          <Comments/>
+        </Inflection>
+      </Inflections>
+      <RelatedLemmas>
+        <RelatedLemma>
+          <Word>πάσχω</Word>
+        </RelatedLemma>
+      </RelatedLemmas>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="003708001001000" IsBiblicalTerm="M" EntryCode="24.78" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Sensory Events and States</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Pain, Suffering</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-12-16 11:39:53" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>to suffer pain</DefinitionShort>
+              <Glosses>
+                <Gloss>pain</Gloss>
+                <Gloss>suffering</Gloss>
+                <Gloss>to suffer</Gloss>
+                <Gloss>to be in pain</Gloss>
+              </Glosses>
+              <Comments>In {S:06000401300014} the phrase τοῖς τοῦ Χριστοῦ παθήμασιν ‘in the sufferings of Christ’ may mean ‘the sufferings experienced at the time of the Messiah,’ that is to say, ‘the Messianic woes.’ See also {D:24.87}.</Comments>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04500801800014</LEXReference>
+            <LEXReference>04700100500010</LEXReference>
+            <LEXReference>04700100600044{N:001}</LEXReference>
+            <LEXReference>04700100700028</LEXReference>
+            <LEXReference>05000301000028</LEXReference>
+            <LEXReference>05100102400010</LEXReference>
+            <LEXReference>05500301100008</LEXReference>
+            <LEXReference>05800200900024</LEXReference>
+            <LEXReference>05800201000048</LEXReference>
+            <LEXReference>05801003200024</LEXReference>
+            <LEXReference>06000101100034</LEXReference>
+            <LEXReference>06000401300014</LEXReference>
+            <LEXReference>06000500100026</LEXReference>
+            <LEXReference>06000500900020</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+        <LEXMeaning Id="003708001002000" IsBiblicalTerm="Y" EntryCode="25.30" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Attitudes and Emotions</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Desire Strongly</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-12-16 11:39:53" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>to experience strong physical desires, particularly of a sexual nature</DefinitionShort>
+              <Glosses>
+                <Gloss>passion</Gloss>
+                <Gloss>lust</Gloss>
+                <Gloss>lustful desire</Gloss>
+                <Gloss>to have lust</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04500700500016</LEXReference>
+            <LEXReference>04800502400022</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

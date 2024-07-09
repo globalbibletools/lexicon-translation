@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="000114000000000" Lemma="ἀθετέω" Version="0" HasAramaic="false" InLXX="true" AlphaPos="α">
+  <StrongCodes>
+    <Strong>G0114</Strong>
+  </StrongCodes>
+  <Authors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes>
+    <Note Caller="1" LanguageCode="en" LastEdited="" LastEditedBy="">
+      <References>
+        <Reference>04201001600016</Reference>
+        <Reference>04201001600022</Reference>
+        <Reference>04201001600030</Reference>
+        <Reference>04201001600032</Reference>
+      </References>
+      <Content>It would also be possible to classify ἀθετέω[a] in the sense of ‘to reject’ in Domain 34 Association, involving interpersonal relations, but in {S:04201001600016 04201001600022 04201001600030 04201001600032} the focal element in the rejection is a matter of belief or confidence, and it is for that reason that ἀθετέω[a] is included in this subdomain.</Content>
+    </Note>
+  </Notes>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="000114001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>verb</PartOfSpeech>
+      </PartsOfSpeech>
+      <Constructs>
+        <Construct Lemma="ἀθετέω" BaseFormIndex="1">
+          <WordMeaningSet>
+            <Word>ἀ-</Word>
+          </WordMeaningSet>
+          <WordMeaningSet>
+            <Word>τίθημι</Word>
+          </WordMeaningSet>
+        </Construct>
+      </Constructs>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="000114001001000" IsBiblicalTerm="M" EntryCode="31.100" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Hold a View, Believe, Trust</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Trust, Rely</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-03-06 12:19:07" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>(a figurative extension of meaning of ἀθετέω ‘to set aside,’ not occurring in the NT) to believe that something or someone cannot be trusted or relied on and hence to reject</DefinitionShort>
+              <Glosses>
+                <Gloss>to not rely on</Gloss>
+                <Gloss>to set aside</Gloss>
+                <Gloss>to reject</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04100602600028</LEXReference>
+            <LEXReference>04201001600016{N:001}</LEXReference>
+            <LEXReference>04201001600022{N:001}</LEXReference>
+            <LEXReference>04201001600030{N:001}</LEXReference>
+            <LEXReference>04201001600032{N:001}</LEXReference>
+            <LEXReference>04301204800004</LEXReference>
+            <LEXReference>04600101900026</LEXReference>
+            <LEXReference>05200400800006</LEXReference>
+            <LEXReference>05200400800012</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+        <LEXMeaning Id="000114001002000" IsBiblicalTerm="M" EntryCode="76.24" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Power, Force</LEXDomain>
+          </LEXDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-03-06 12:19:07" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>to refuse to recognize the validity of something</DefinitionShort>
+              <Glosses>
+                <Gloss>to reject</Gloss>
+                <Gloss>to regard as invalid</Gloss>
+                <Gloss>annulment</Gloss>
+              </Glosses>
+              <Comments>In {S:05801002800002} the rejection may express itself in disobedience.</Comments>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04100700900010</LEXReference>
+            <LEXReference>04200703000022</LEXReference>
+            <LEXReference>04800202100004</LEXReference>
+            <LEXReference>04800301500020</LEXReference>
+            <LEXReference>05400501200014</LEXReference>
+            <LEXReference>05801002800002</LEXReference>
+            <LEXReference>06500100800022</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

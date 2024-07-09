@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="000973000000000" Lemma="βῆμα" Version="0" HasAramaic="false" InLXX="true" AlphaPos="β">
+  <StrongCodes>
+    <Strong>G0968</Strong>
+  </StrongCodes>
+  <Authors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes>
+    <Note Caller="1" LanguageCode="en" LastEdited="" LastEditedBy="">
+      <References>
+        <Reference>04400700500018</Reference>
+      </References>
+      <Content>Despite certain differences in size, in some languages the closest natural equivalent of the phrase βῆμα ποδός is simply ‘a square foot,’ while in other languages employing the metric system, a phrase such as ‘a square meter’ would be more appropriate. Some languages, however, may employ expressions such as ‘the measure of an arm’s length’ or ‘the ground of one stride.’ The focal point in {S:04400700500018} is not so much the specific measurement, but rather the very limited space.</Content>
+    </Note>
+  </Notes>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="000973001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>noun, n.</PartOfSpeech>
+      </PartsOfSpeech>
+      <Inflections>
+        <Inflection Lemma="βῆμα" BaseFormIndex="1">
+          <Form/>
+          <Realizations>
+            <Realization>-τος</Realization>
+          </Realizations>
+          <Comments/>
+        </Inflection>
+      </Inflections>
+      <RelatedLemmas>
+        <RelatedLemma>
+          <Word>βεβαιόω</Word>
+        </RelatedLemma>
+      </RelatedLemmas>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="000973001001000" IsBiblicalTerm="M" EntryCode="7.63" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Constructions</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Miscellaneous Constructions</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-02-05 11:07:55" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>a raised platform mounted by steps and usually furnished with a seat; used by officials to address an assembly, often on judicial matters, with a focus on judgement</DefinitionShort>
+              <Glosses>
+                <Gloss>judgement seat</Gloss>
+                <Gloss>judgment place</Gloss>
+              </Glosses>
+              <Comments>The association of a βῆμα with judicial procedures means that there is almost always an important component of judicial function associated with this term. Therefore in translating βῆμα, it is often best to use a phrase such as ‘a place where a judge decides’ or ‘a place where decisions are made’ or ‘a judge’s seat.’ The focus upon judgment is particularly important in those passages which refer to the judgment seat of God ({S:04501401000040}) and of Christ ({S:04700501000018}).</Comments>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04002701900012</LEXReference>
+            <LEXReference>04301901300030</LEXReference>
+            <LEXReference>04401202100026</LEXReference>
+            <LEXReference>04401801200036</LEXReference>
+            <LEXReference>04401801600012</LEXReference>
+            <LEXReference>04401801700020</LEXReference>
+            <LEXReference>04402500600038</LEXReference>
+            <LEXReference>04402501000014</LEXReference>
+            <LEXReference>04402501700026</LEXReference>
+            <LEXReference>04501401000040</LEXReference>
+            <LEXReference>04700501000018</LEXReference>
+          </LEXReferences>
+          <LEXLinks>
+            <LEXLink>realia:3.19</LEXLink>
+          </LEXLinks>
+          <LEXVideos/>
+        </LEXMeaning>
+        <LEXMeaning Id="000973001002000" IsBiblicalTerm="Y" EntryCode="80.3" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Space</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Space, Place</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXCollocations>
+            <LEXCollocation>βῆμα ποδός</LEXCollocation>
+          </LEXCollocations>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-02-05 11:07:55" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>(an idiom, literally: a step of a foot (a distance of approximately two and a half feet or a little less than a meter)) an extremely limited or restricted space</DefinitionShort>
+              <Glosses>
+                <Gloss>a square yard</Gloss>
+                <Gloss>a square meter</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04400700500018{N:001}</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

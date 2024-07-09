@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="002611000000000" Lemma="καταγγελεύς" Version="0" HasAramaic="false" InLXX="false" AlphaPos="κ">
+  <StrongCodes>
+    <Strong>G2604</Strong>
+  </StrongCodes>
+  <Authors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes/>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="002611001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>noun, m.</PartOfSpeech>
+      </PartsOfSpeech>
+      <Inflections>
+        <Inflection Lemma="καταγγελεύς" BaseFormIndex="1">
+          <Form/>
+          <Realizations>
+            <Realization>-έως</Realization>
+          </Realizations>
+          <Comments/>
+        </Inflection>
+      </Inflections>
+      <RelatedLemmas>
+        <RelatedLemma>
+          <Word>ἀγγέλλω</Word>
+        </RelatedLemma>
+      </RelatedLemmas>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="002611001001000" IsBiblicalTerm="Y" EntryCode="33.205" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Communication</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Inform, Announce</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-09-16 10:59:22" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>(derivative of {L:καταγγέλλω&lt;SDBG:καταγγέλλω:000000&gt;} ‘to proclaim,’ {D:33.204}) one who proclaims</DefinitionShort>
+              <Glosses>
+                <Gloss>herald</Gloss>
+                <Gloss>announcer</Gloss>
+                <Gloss>proclaimer</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04401701800052</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="006254000000000" Lemma="צָנִיף" Version="4" HasAramaic="false" InLXX="false" AlphaPos="צ">
+  <StrongCodes>
+    <Strong>H6797a</Strong>
+  </StrongCodes>
+  <Authors>
+    <Author>Graham S. Ogden</Author>
+  </Authors>
+  <Contributors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes>
+    <Note Caller="1" LanguageCode="en" LastEdited="" LastEditedBy="">
+      <References>
+        <Reference>02306200300018</Reference>
+      </References>
+      <Content>MT-K וצנוף | MT-Q וּצְנִיף</Content>
+    </Note>
+  </Notes>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="006254001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>nsm</PartOfSpeech>
+      </PartsOfSpeech>
+      <RelatedLemmas>
+        <RelatedLemma>
+          <Word>צנף</Word>
+        </RelatedLemma>
+      </RelatedLemmas>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="006254001001000" IsBiblicalTerm="M" EntryCode="" Indent="0">
+          <LEXDomains>
+            <LEXDomain Code="001004001002">Clothing</LEXDomain>
+          </LEXDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2016-12-28 14:51:31" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>= cloth wound around the head, ► used by both priests and ordinary people</DefinitionShort>
+              <Glosses>
+                <Gloss>turban</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>01802901400016</LEXReference>
+            <LEXReference>02306200300018{N:001}</LEXReference>
+            <LEXReference>02306200300022</LEXReference>
+            <LEXReference>03800300500008</LEXReference>
+            <LEXReference>03800300500022</LEXReference>
+          </LEXReferences>
+          <LEXLinks>
+            <LEXLink>Realia:6.7</LEXLink>
+          </LEXLinks>
+          <LEXVideos/>
+          <LEXCoreDomains>
+            <LEXCoreDomain Code="033">Clothing</LEXCoreDomain>
+          </LEXCoreDomains>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

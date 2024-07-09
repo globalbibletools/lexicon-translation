@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="003934000000000" Lemma="περικεφαλαία" Version="0" HasAramaic="false" InLXX="true" AlphaPos="π">
+  <StrongCodes>
+    <Strong>G4030</Strong>
+  </StrongCodes>
+  <Authors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes/>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="003934001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>noun, f.</PartOfSpeech>
+      </PartsOfSpeech>
+      <Inflections>
+        <Inflection Lemma="περικεφαλαία" BaseFormIndex="1">
+          <Form/>
+          <Realizations>
+            <Realization>-ας</Realization>
+          </Realizations>
+          <Comments/>
+        </Inflection>
+      </Inflections>
+      <RelatedLemmas>
+        <RelatedLemma>
+          <Word>κεφαλιόω</Word>
+        </RelatedLemma>
+      </RelatedLemmas>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="003934001001000" IsBiblicalTerm="M" EntryCode="6.38" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Artifacts</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Weapons and Armor</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-12-24 13:37:12" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>protective armor covering the head; used in battle</DefinitionShort>
+              <Glosses>
+                <Gloss>helmet</Gloss>
+              </Glosses>
+              <Comments>For languages having no term for helmet, one may use a descriptive equivalent such as ‘a protection for the head’ or ‘a covering for the head in fighting.’ The phrase τὴν περικεφαλαίαν τοῦ σωτηρίου δέξασθε may then be translated as ‘accept salvation as something like a protection for the head.’</Comments>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04900601700006</LEXReference>
+            <LEXReference>05200500800024</LEXReference>
+          </LEXReferences>
+          <LEXLinks>
+            <LEXLink>realia:2.9</LEXLink>
+          </LEXLinks>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="001499000000000" Lemma="ἐδαφίζω" Version="0" HasAramaic="false" InLXX="true" AlphaPos="ε">
+  <StrongCodes>
+    <Strong>G1474</Strong>
+  </StrongCodes>
+  <Authors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes/>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="001499001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>verb</PartOfSpeech>
+      </PartsOfSpeech>
+      <Inflections>
+        <Inflection Lemma="ἐδαφίζω" BaseFormIndex="1">
+          <Form>fut.</Form>
+          <Realizations>
+            <Realization>ἐδαφιῶ</Realization>
+          </Realizations>
+          <Comments/>
+        </Inflection>
+      </Inflections>
+      <RelatedLemmas>
+        <RelatedLemma>
+          <Word>ἔδαφος</Word>
+        </RelatedLemma>
+      </RelatedLemmas>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="001499001001000" IsBiblicalTerm="Y" EntryCode="20.57" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Violence, Harm, Destroy, Kill</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Destroy</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-10-26 20:39:46" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>(derivative of {L:ἔδαφος&lt;SDBG:ἔδαφος:000000&gt;} ‘ground,’ {D:1.44}) to destroy or tear down, by causing something to be brought down to the level of the ground</DefinitionShort>
+              <Glosses>
+                <Gloss>to raze</Gloss>
+                <Gloss>to tear down</Gloss>
+                <Gloss>to destroy</Gloss>
+              </Glosses>
+              <Comments>In {S:04201904400004} the pronoun σε ‘you’ refers to the city of Jerusalem.</Comments>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04201904400004</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+        <LEXMeaning Id="001499001002000" IsBiblicalTerm="Y" EntryCode="20.64" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Violence, Harm, Destroy, Kill</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Kill</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-10-26 20:39:46" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>(a figurative extension of meaning of {L:ἐδαφίζω&lt;SDBG:ἐδαφίζω:000000&gt;}[a] ‘to raze, to tear down,’ {D:20.57}) to destroy or kill a population</DefinitionShort>
+              <Glosses>
+                <Gloss>to kill</Gloss>
+              </Glosses>
+              <Comments>The verb {L:ἐδαφίζω&lt;SDBG:ἐδαφίζω:000000&gt;} in relationship to the pronoun σε (referring to Jerusalem) means ‘to raze to the ground’ (see {D:20.57}), but in reference to τὰ τέκνα σου ἐν σοί the meaning is ‘to kill.’ Accordingly, {L:ἐδαφίζω&lt;SDBG:ἐδαφίζω:000000&gt;} must be regarded as having two different meanings within the same context: (1) ‘to raze to the ground’ and (2) ‘to kill.’</Comments>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04201904400004</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

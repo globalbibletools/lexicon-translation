@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="004967000000000" Lemma="τετρααρχέω" Version="0" HasAramaic="false" InLXX="false" AlphaPos="τ">
+  <StrongCodes>
+    <Strong>G5075a</Strong>
+  </StrongCodes>
+  <Authors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes/>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="004967001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>verb</PartOfSpeech>
+      </PartsOfSpeech>
+      <Constructs>
+        <Construct Lemma="τετρααρχέω" BaseFormIndex="1">
+          <WordMeaningSet>
+            <Word>τέσσαρες</Word>
+          </WordMeaningSet>
+          <WordMeaningSet>
+            <Word>ἄρχω</Word>
+          </WordMeaningSet>
+        </Construct>
+      </Constructs>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="004967001001000" IsBiblicalTerm="M" EntryCode="37.79" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Control, Rule</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Rule, Govern</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>to function as a tetrarch (see {D:37.78})</DefinitionShort>
+              <Glosses>
+                <Gloss>to be a tetrarch</Gloss>
+                <Gloss>to be the governor of a region</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04200300100030</LEXReference>
+            <LEXReference>04200300100048</LEXReference>
+            <LEXReference>04200300100068</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

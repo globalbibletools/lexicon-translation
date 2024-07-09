@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="001967000000000" Lemma="ἐπιλανθάνομαι" Version="0" HasAramaic="false" InLXX="false" AlphaPos="ε">
+  <StrongCodes>
+    <Strong>G1950</Strong>
+  </StrongCodes>
+  <Authors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes/>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="001967001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>verb</PartOfSpeech>
+      </PartsOfSpeech>
+      <Inflections>
+        <Inflection Lemma="ἐπιλανθάνομαι" BaseFormIndex="1">
+          <Form>aor.</Form>
+          <Realizations>
+            <Realization>ἐπελαθόμην</Realization>
+          </Realizations>
+          <Comments/>
+        </Inflection>
+        <Inflection Lemma="ἐπιλανθάνομαι" BaseFormIndex="1">
+          <Form>inf.</Form>
+          <Realizations>
+            <Realization>ἐπιλαθέσθαι</Realization>
+          </Realizations>
+          <Comments/>
+        </Inflection>
+        <Inflection Lemma="ἐπιλανθάνομαι" BaseFormIndex="1">
+          <Form>pf.</Form>
+          <Realizations>
+            <Realization>ἐπιλέλησμαι</Realization>
+          </Realizations>
+          <Comments/>
+        </Inflection>
+      </Inflections>
+      <RelatedLemmas>
+        <RelatedLemma>
+          <Word>λανθάνω</Word>
+        </RelatedLemma>
+      </RelatedLemmas>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="001967001001000" IsBiblicalTerm="Y" EntryCode="29.14" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Memory and Recall</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Not Remembering, Forgetting</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-06-22 11:11:20" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>to not recall information concerning some particular matter</DefinitionShort>
+              <Glosses>
+                <Gloss>to forget</Gloss>
+                <Gloss>to not recall</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>05000301300024</LEXReference>
+            <LEXReference>05800601000012</LEXReference>
+            <LEXReference>05801301600014</LEXReference>
+            <LEXReference>05900102400016</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+        <LEXMeaning Id="001967001002000" IsBiblicalTerm="Y" EntryCode="29.17" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Memory and Recall</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Recalling and Responding with Appropriate Action</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-06-22 11:11:20" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>to not recall and thus to fail to do something</DefinitionShort>
+              <Glosses>
+                <Gloss>to forget to do</Gloss>
+                <Gloss>to neglect</Gloss>
+                <Gloss>to overlook</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04001600500016</LEXReference>
+            <LEXReference>04100801400004</LEXReference>
+            <LEXReference>04201200600026</LEXReference>
+            <LEXReference>05800601000012</LEXReference>
+            <LEXReference>05801300200008</LEXReference>
+            <LEXReference>05801301600014</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

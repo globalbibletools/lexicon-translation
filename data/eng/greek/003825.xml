@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="003825000000000" Lemma="παρεκτός" Version="0" HasAramaic="false" InLXX="false" AlphaPos="π">
+  <StrongCodes>
+    <Strong>G3924</Strong>
+  </StrongCodes>
+  <Authors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes/>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="003825001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>prep. (with gen.), advb.</PartOfSpeech>
+      </PartsOfSpeech>
+      <Constructs>
+        <Construct Lemma="παρεκτός" BaseFormIndex="1">
+          <WordMeaningSet>
+            <Word>παρά</Word>
+          </WordMeaningSet>
+          <WordMeaningSet>
+            <Word>ἐκ</Word>
+          </WordMeaningSet>
+        </Construct>
+      </Constructs>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="003825001001000" IsBiblicalTerm="Y" EntryCode="58.38" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Nature, Class, Example</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Different Kind or Class</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-12-23 10:57:49" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>pertaining to being different and in addition to something else, with the implication of something being external to central concerns</DefinitionShort>
+              <Glosses>
+                <Gloss>besides</Gloss>
+                <Gloss>additional</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04000503200024</LEXReference>
+            <LEXReference>04402602900060</LEXReference>
+            <LEXReference>04701102800006</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

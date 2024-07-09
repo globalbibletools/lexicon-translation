@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="005123000000000" Lemma="ὑπερβολή" Version="0" HasAramaic="false" InLXX="true" AlphaPos="υ">
+  <StrongCodes>
+    <Strong>G5236</Strong>
+  </StrongCodes>
+  <Authors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes>
+    <Note Caller="1" LanguageCode="en" LastEdited="" LastEditedBy="">
+      <References/>
+      <Content>It is difficult to determine the extent to which this set of meanings ({D:78.33}) differs from those in {D:78.31}, but a number of contexts for the terms in {D:78.33} would seem to imply something even beyond what is indicated in the series containing the base περισσ ({D:78.31}).</Content>
+    </Note>
+  </Notes>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="005123001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>noun, f.</PartOfSpeech>
+      </PartsOfSpeech>
+      <Inflections>
+        <Inflection Lemma="ὑπερβολή" BaseFormIndex="1">
+          <Form/>
+          <Realizations>
+            <Realization>-ῆς</Realization>
+          </Realizations>
+          <Comments/>
+        </Inflection>
+      </Inflections>
+      <RelatedLemmas>
+        <RelatedLemma>
+          <Word>βάλλω</Word>
+        </RelatedLemma>
+      </RelatedLemmas>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="005123001001000" IsBiblicalTerm="Y" EntryCode="78.33" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Degree</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>More Than, Less Than [Comparative Degree]</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2022-05-04 08:27:32" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>a degree which exceeds extraordinarily a point on an implied or overt scale of extent{N:001}</DefinitionShort>
+              <Glosses>
+                <Gloss>extraordinary</Gloss>
+                <Gloss>extreme</Gloss>
+                <Gloss>supreme</Gloss>
+                <Gloss>far more</Gloss>
+                <Gloss>much greater</Gloss>
+                <Gloss>to a far greater degree</Gloss>
+              </Glosses>
+              <Comments>There are obviously a number of problems involved in attempting to render an expression of extraordinary degree, but it is sometimes possible to express such a degree by building up a series of intensive markers. For example, in {S:04900200700018} one might translate τὸ ὑπερβάλλον πλοῦτος τῆς χάριτος αὐτοῦ as ‘his very, very great grace,’ and in {S:04700400700022} one might render ἡ ὑπερβολὴ τῆς δυνάμεως ᾖ τοῦ θεοῦ as ‘God has very, very great power.’ Such expressions, however, may not do full justice to the intensity of degree expressed in {L:ὑπερβάλλω&lt;SDBG:ὑπερβάλλω:000000&gt;} and ὑπερβολή, since in a number of languages the closest equivalent might be something involving figurative meanings. For example, τὸ ὑπερβάλλον πλοῦτος τῆς χάριτος αὐτοῦ in {S:04900200700018} might be rendered as ‘he is gracious beyond anything we can imagine,’ and in {S:04700400700022} ἡ ὑπερβολὴ τῆς δυνάμεως ᾖ τοῦ θεοῦ may be rendered as ‘God has power beyond any words to describe.’</Comments>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04500701300048</LEXReference>
+            <LEXReference>04601203100020</LEXReference>
+            <LEXReference>04700100800036</LEXReference>
+            <LEXReference>04700400700022</LEXReference>
+            <LEXReference>04700401700018</LEXReference>
+            <LEXReference>04700401700022</LEXReference>
+            <LEXReference>04701200700006</LEXReference>
+            <LEXReference>04800101300024</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

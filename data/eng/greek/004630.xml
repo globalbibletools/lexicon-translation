@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="004630000000000" Lemma="στενοχωρέω" Version="0" HasAramaic="false" InLXX="true" AlphaPos="σ">
+  <StrongCodes>
+    <Strong>G4729</Strong>
+  </StrongCodes>
+  <Authors/>
+  <AlternateLemmas>
+    <AlternateLemma>στενοχωρέομαι</AlternateLemma>
+  </AlternateLemmas>
+  <MainLinks/>
+  <Notes/>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="004630001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>verb</PartOfSpeech>
+      </PartsOfSpeech>
+      <Constructs>
+        <Construct Lemma="στενοχωρέω" BaseFormIndex="1">
+          <WordMeaningSet>
+            <Word>στενάζω</Word>
+          </WordMeaningSet>
+          <WordMeaningSet>
+            <Word>χωρέω</Word>
+          </WordMeaningSet>
+        </Construct>
+      </Constructs>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="004630001001000" IsBiblicalTerm="Y" EntryCode="37.18" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Control, Rule</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Control, Restrain</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXForms>
+            <LEXForm>στενοχωρέομαι[a]</LEXForm>
+          </LEXForms>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2022-02-18 12:05:28" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>to be under severe limitations or restrictions</DefinitionShort>
+              <Glosses>
+                <Gloss>to live under restrictions</Gloss>
+                <Gloss>to be restricted</Gloss>
+                <Gloss>to be confined</Gloss>
+              </Glosses>
+              <Comments>In a number of languages it may be more meaningful to render {S:04700601200004} as ‘it is not that we impose restrictions on you; it is you yourselves who are doing it.’ For another interpretation of στενοχωρέομαι in {S:04700601200004} as part of an idiom, see {D:25.54}.</Comments>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04700601200004</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+        <LEXMeaning Id="004630001002000" IsBiblicalTerm="Y" EntryCode="22.19" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Trouble, Hardship, Relief, Favorable Circumstances</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Experience Trouble, Hardship</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXForms>
+            <LEXForm>στενοχωρέομαι[b]</LEXForm>
+          </LEXForms>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2022-02-18 12:05:28" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>to be in serious circumstances, with the implication of no escape or way out</DefinitionShort>
+              <Glosses>
+                <Gloss>to be in great trouble</Gloss>
+                <Gloss>to be hemmed in with difficulty</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04700400800012</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+        <LEXMeaning Id="004630001003000" IsBiblicalTerm="Y" EntryCode="25.54" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Attitudes and Emotions</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Love, Affection, Compassion</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXForms>
+            <LEXForm>στενοχωρέομαι[c]</LEXForm>
+          </LEXForms>
+          <LEXCollocations>
+            <LEXCollocation>στενοχωρέομαι ἐν τοῖς σπλάγχνοις</LEXCollocation>
+          </LEXCollocations>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2022-02-18 12:05:28" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>(an idiom, literally: to be restricted in the bowels) to restrict one’s affection for someone</DefinitionShort>
+              <Glosses>
+                <Gloss>to not respond with affection to someone</Gloss>
+                <Gloss>to close one’s heart to</Gloss>
+              </Glosses>
+              <Comments>In {S:04700601200010} it is also possible to understand στενοχωρέομαι as meaning ‘to live with severe restrictions’ (see {D:37.18}), and σπλάγχνα may be interpreted as a psychological faculty of intent and feeling (see {D:26.11}).</Comments>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04700601200004</LEXReference>
+            <LEXReference>04700601200010</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

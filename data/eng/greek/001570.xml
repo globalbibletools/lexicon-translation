@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="001570000000000" Lemma="ἐκδιώκω" Version="0" HasAramaic="false" InLXX="true" AlphaPos="ε">
+  <StrongCodes>
+    <Strong>G1559</Strong>
+  </StrongCodes>
+  <Authors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes>
+    <Note Caller="1" LanguageCode="en" LastEdited="" LastEditedBy="">
+      <References/>
+      <Content>Some persons have contended that ἐκδιώκω[b] is an intensive of διώκω[c] with the resulting meaning of ‘to persecute harshly.’ However, general Greek usage and particularly NT contexts do not seem to bear out any such consistent distinctions in meaning.</Content>
+    </Note>
+    <Note Caller="2" LanguageCode="en" LastEdited="" LastEditedBy="">
+      <References>
+        <Reference>05200201500024</Reference>
+      </References>
+      <Content>In a parallel type of context, {S:04201104900000} reads ἐξ αὐτῶν ἀποκτενοῦσιν καὶ διώξουσιν ‘they will kill some and persecute others,’ for which some manuscripts read ἐκδιώξουσιν in place of διώξουσιν.</Content>
+    </Note>
+  </Notes>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="001570001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>verb</PartOfSpeech>
+      </PartsOfSpeech>
+      <RelatedLemmas>
+        <RelatedLemma>
+          <Word>διώκω</Word>
+        </RelatedLemma>
+      </RelatedLemmas>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="001570001001000" IsBiblicalTerm="Y" EntryCode="15.159" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Linear Movement</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Pursue, Follow</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-07-04 20:35:34" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>to pursue to the point of driving out</DefinitionShort>
+              <Glosses>
+                <Gloss>to pursue and drive out</Gloss>
+              </Glosses>
+              <Comments>ἐκδιώκω in {S:05200201500024} may also be understood in the sense of ‘to persecute’ (see {D:39.45}).</Comments>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>05200201500024</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+        <LEXMeaning Id="001570001002000" IsBiblicalTerm="Y" EntryCode="39.45" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Hostility, Strife</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Persecution</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-07-04 20:35:34" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>to systematically organize a program to oppress and harass people{N:001}</DefinitionShort>
+              <Glosses>
+                <Gloss>to persecute</Gloss>
+                <Gloss>to harass</Gloss>
+                <Gloss>persecution</Gloss>
+              </Glosses>
+              <Comments>In a number of languages the equivalent of ‘to persecute’ is simply ‘to cause to suffer,’ but persecution is also expressed in terms of ‘to be mean to’ or ‘to threaten’ or ‘to chase from place to place.’|For another interpretation of ἐκδιώκω in {S:05200201500024}, see {D:15.159}.</Comments>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>05200201500024{N:002}</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

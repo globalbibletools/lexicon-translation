@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="005169000000000" Lemma="ὑπομιμνῄσκω" Version="0" HasAramaic="false" InLXX="false" AlphaPos="υ">
+  <StrongCodes>
+    <Strong>G5279</Strong>
+  </StrongCodes>
+  <Authors/>
+  <AlternateLemmas>
+    <AlternateLemma>ἀναμιμνῄσκομαι</AlternateLemma>
+  </AlternateLemmas>
+  <MainLinks/>
+  <Notes/>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="005169001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>verb</PartOfSpeech>
+      </PartsOfSpeech>
+      <Inflections>
+        <Inflection Lemma="ὑπομιμνῄσκω" BaseFormIndex="1">
+          <Form>fut.</Form>
+          <Realizations>
+            <Realization>ὑπομνήσω</Realization>
+          </Realizations>
+          <Comments/>
+        </Inflection>
+        <Inflection Lemma="ὑπομιμνῄσκω" BaseFormIndex="1">
+          <Form>aor.inf.</Form>
+          <Realizations>
+            <Realization>ὑπομνῆσαι</Realization>
+          </Realizations>
+          <Comments/>
+        </Inflection>
+        <Inflection Lemma="ὑπομιμνῄσκω" BaseFormIndex="1">
+          <Form>aor.pass.</Form>
+          <Realizations>
+            <Realization>ὑπεμνήσθην</Realization>
+          </Realizations>
+          <Comments/>
+        </Inflection>
+      </Inflections>
+      <RelatedLemmas>
+        <RelatedLemma>
+          <Word>μιμνῄσκομαι</Word>
+        </RelatedLemma>
+      </RelatedLemmas>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="005169001001000" IsBiblicalTerm="Y" EntryCode="29.10" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Memory and Recall</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Recalling from Memory</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2022-05-05 08:25:50" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>to cause to recall and to think about again</DefinitionShort>
+              <Glosses>
+                <Gloss>to remind</Gloss>
+                <Gloss>to cause to remember</Gloss>
+                <Gloss>to cause to think about again</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04202206100018</LEXReference>
+            <LEXReference>04301402600042</LEXReference>
+            <LEXReference>05500201400004</LEXReference>
+            <LEXReference>05600300100002</LEXReference>
+            <LEXReference>06100101200010</LEXReference>
+            <LEXReference>06400101000010</LEXReference>
+            <LEXReference>06500100500002</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+        <LEXMeaning Id="005169001002000" IsBiblicalTerm="Y" EntryCode="29.9" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Memory and Recall</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Recalling from Memory</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXForms>
+            <LEXForm>ἀναμιμνῄσκομαι</LEXForm>
+          </LEXForms>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2022-05-05 08:25:50" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>to cause oneself to remember or to be caused to remember</DefinitionShort>
+              <Glosses>
+                <Gloss>to recall</Gloss>
+                <Gloss>to remember</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04202206100018</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

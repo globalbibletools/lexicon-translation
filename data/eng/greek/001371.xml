@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="001371000000000" Lemma="διόπερ" Version="0" HasAramaic="false" InLXX="true" AlphaPos="δ">
+  <StrongCodes>
+    <Strong>G1355</Strong>
+  </StrongCodes>
+  <Authors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes>
+    <Note Caller="1" LanguageCode="en" LastEdited="" LastEditedBy="">
+      <References/>
+      <Content>διόπερ may be regarded as somewhat more emphatic than διό.</Content>
+    </Note>
+    <Note Caller="2" LanguageCode="en" LastEdited="" LastEditedBy="">
+      <References/>
+      <Content>Since the result is stated as an inference based upon what has preceded, one may translate this expression of result as ‘for this reason’ or ‘for this very reason.’ What precedes constitutes the reason, but the result may be effectively introduced by referring back to the reason.</Content>
+    </Note>
+  </Notes>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="001371001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>conj.</PartOfSpeech>
+      </PartsOfSpeech>
+      <Constructs>
+        <Construct Lemma="διόπερ" BaseFormIndex="1">
+          <WordMeaningSet>
+            <Word>διά</Word>
+          </WordMeaningSet>
+          <WordMeaningSet>
+            <Word>ὅς</Word>
+          </WordMeaningSet>
+          <WordMeaningSet>
+            <Word>-πέρ</Word>
+            <Meaning LanguageCode="en">
+              <Meaning>much (emphatic particle)</Meaning>
+            </Meaning>
+            <Meaning LanguageCode="zhT">
+              <Meaning>許多（＜強調虛詞＞）</Meaning>
+            </Meaning>
+          </WordMeaningSet>
+        </Construct>
+      </Constructs>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="001371001001000" IsBiblicalTerm="Y" EntryCode="89.47" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Relations</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Result</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-10-20 15:05:44" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>a relatively emphatic marker of result, usually denoting the fact that the inference is self-evident{N:001}{N:002}</DefinitionShort>
+              <Glosses>
+                <Gloss>therefore</Gloss>
+                <Gloss>for this reason</Gloss>
+                <Gloss>for this very reason</Gloss>
+                <Gloss>so then</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04600801300002</LEXReference>
+            <LEXReference>04601001400002</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

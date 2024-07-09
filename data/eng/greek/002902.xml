@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="002902000000000" Lemma="κοσμικός" Version="0" HasAramaic="false" InLXX="false" AlphaPos="κ">
+  <StrongCodes>
+    <Strong>G2886</Strong>
+  </StrongCodes>
+  <Authors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes/>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="002902001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>adjc.</PartOfSpeech>
+      </PartsOfSpeech>
+      <Inflections>
+        <Inflection Lemma="κοσμικός" BaseFormIndex="1">
+          <Form/>
+          <Realizations>
+            <Realization>-ή, -όν</Realization>
+          </Realizations>
+          <Comments/>
+        </Inflection>
+      </Inflections>
+      <RelatedLemmas>
+        <RelatedLemma>
+          <Word>κοσμέω</Word>
+        </RelatedLemma>
+      </RelatedLemmas>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="002902001001000" IsBiblicalTerm="Y" EntryCode="1.40" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Geographical Objects and Features</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>The Earth's Surface</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-10-19 11:31:43" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>pertaining to the earth</DefinitionShort>
+              <Glosses>
+                <Gloss>earthly</Gloss>
+                <Gloss>on earth</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>05800900100024</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+        <LEXMeaning Id="002902001002000" IsBiblicalTerm="M" EntryCode="41.39" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Behavior and Related States</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Particular Patterns of Behavior</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-10-19 11:31:43" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>(derivative of {L:κόσμος&lt;SDBG:κόσμος:000002&gt;}[c] ‘world system,’ {D:41.38}) pertaining to the system or standards of the world</DefinitionShort>
+              <Glosses>
+                <Gloss>worldly</Gloss>
+                <Gloss>of the world</Gloss>
+              </Glosses>
+              <Comments>In {S:05600201200018} τὰς κοσμικὰς ἐπιθυμίας may also be rendered as ‘the desires which people in this world have,’ but in this context the term ἐπιθυμίας should imply wrong desires.</Comments>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>05600201200018</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

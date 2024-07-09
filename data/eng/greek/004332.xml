@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="004332000000000" Lemma="πτῶμα" Version="0" HasAramaic="false" InLXX="true" AlphaPos="π">
+  <StrongCodes>
+    <Strong>G4430</Strong>
+  </StrongCodes>
+  <Authors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes/>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="004332001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>noun, n.</PartOfSpeech>
+      </PartsOfSpeech>
+      <Inflections>
+        <Inflection Lemma="πτῶμα" BaseFormIndex="1">
+          <Form/>
+          <Realizations>
+            <Realization>-τος</Realization>
+          </Realizations>
+          <Comments/>
+        </Inflection>
+      </Inflections>
+      <RelatedLemmas>
+        <RelatedLemma>
+          <Word>πίπτω</Word>
+        </RelatedLemma>
+      </RelatedLemmas>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="004332001001000" IsBiblicalTerm="M" EntryCode="8.7" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Body, Body Parts, and Body Products</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Body</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2022-02-07 13:49:08" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>a dead body, whether of an animal or a human being</DefinitionShort>
+              <Glosses>
+                <Gloss>dead body</Gloss>
+                <Gloss>corpse</Gloss>
+              </Glosses>
+              <Comments>In the parallel to {S:04002402800010} ({S:04201703700026}), the term {L:σῶμα&lt;SDBG:σῶμα:000000&gt;} ({D:8.1}) occurs. Since in some languages one must distinguish varying degrees of decomposition of a corpse, it may be important in certain contexts to indicate whether the body is of a person or an animal which has recently died or one which has undergone considerable decomposition.</Comments>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04001401200016</LEXReference>
+            <LEXReference>04002402800010</LEXReference>
+            <LEXReference>04100602900020</LEXReference>
+            <LEXReference>04101504500016</LEXReference>
+            <LEXReference>06601100800006</LEXReference>
+            <LEXReference>06601100900026</LEXReference>
+            <LEXReference>06601100900042</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="001823000000000" Lemma="הֲלִיכָה" Version="4" HasAramaic="false" InLXX="false" AlphaPos="ה">
+  <StrongCodes>
+    <Strong>H1979</Strong>
+  </StrongCodes>
+  <Authors>
+    <Author>Reinier de Blois</Author>
+  </Authors>
+  <Contributors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes>
+    <Note Caller="1" LanguageCode="en" LastEdited="" LastEditedBy="">
+      <References>
+        <Reference>03400200600010</Reference>
+      </References>
+      <Content>MT-K הלכותם | MT-Q הְַלִיכָתָם</Content>
+    </Note>
+  </Notes>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="001823001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>nsf</PartOfSpeech>
+      </PartsOfSpeech>
+      <RelatedLemmas>
+        <RelatedLemma>
+          <Word>הלך</Word>
+        </RelatedLemma>
+      </RelatedLemmas>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="001823001001000" IsBiblicalTerm="Y" EntryCode="" Indent="0">
+          <LEXDomains>
+            <LEXDomain Code="002002001011">Move</LEXDomain>
+          </LEXDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2017-03-13 09:39:58" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>= action by which humans move forward, usually towards a specific destination</DefinitionShort>
+              <Glosses>
+                <Gloss>going</Gloss>
+                <Gloss>way</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>03400200600010{N:001}</LEXReference>
+            <LEXReference>03400200600014</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+        <LEXMeaning Id="001823001002000" IsBiblicalTerm="M" EntryCode="" Indent="0">
+          <LEXDomains>
+            <LEXDomain Code="002002002001" Source="Move" SourceCode="002002001011">Act</LEXDomain>
+          </LEXDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2018-01-19 13:55:50" LastEditedBy="administrator">
+              <DefinitionLong/>
+              <DefinitionShort>literally: going; hence: = pattern of behavior, with a primary focus on moral and ethical behavior, ◄ understood as a journey through life</DefinitionShort>
+              <Glosses>
+                <Gloss>going &gt; conduct</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>02003102700004</LEXReference>
+            <LEXReference>03500300600032</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+          <LEXCoreDomains>
+            <LEXCoreDomain Code="017">Behavior</LEXCoreDomain>
+          </LEXCoreDomains>
+        </LEXMeaning>
+        <LEXMeaning Id="001823001003000" IsBiblicalTerm="M" EntryCode="" Indent="0">
+          <LEXDomains>
+            <LEXDomain Code="001001002003004" Source="Move" SourceCode="002002001011">Groups</LEXDomain>
+          </LEXDomains>
+          <LEXSynonyms>
+            <LEXSynonym>אֹרַח</LEXSynonym>
+          </LEXSynonyms>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2017-03-13 09:39:58" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>= group of people moving in a certain direction, usually in an organized fashion</DefinitionShort>
+              <Glosses>
+                <Gloss>caravan</Gloss>
+                <Gloss>procession</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>01800601900008</LEXReference>
+            <LEXReference>01906802500004</LEXReference>
+            <LEXReference>01906802500008</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+          <LEXCoreDomains>
+            <LEXCoreDomain Code="092">Journey</LEXCoreDomain>
+            <LEXCoreDomain Code="035">Commerce</LEXCoreDomain>
+          </LEXCoreDomains>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

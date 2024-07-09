@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="002560000000000" Lemma="κακοποιέω" Version="0" HasAramaic="false" InLXX="true" AlphaPos="κ">
+  <StrongCodes>
+    <Strong>G2554</Strong>
+  </StrongCodes>
+  <Authors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes/>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="002560001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>verb</PartOfSpeech>
+      </PartsOfSpeech>
+      <Constructs>
+        <Construct Lemma="κακοποιέω" BaseFormIndex="1">
+          <WordMeaningSet>
+            <Word>κακόω</Word>
+          </WordMeaningSet>
+          <WordMeaningSet>
+            <Word>ποιέω</Word>
+          </WordMeaningSet>
+        </Construct>
+      </Constructs>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="002560001001000" IsBiblicalTerm="M" EntryCode="88.112" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Moral and Ethical Qualities and Related Behavior</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Bad, Evil, Harmful, Damaging</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-09-08 11:33:31" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>to do that which is evil or wrong</DefinitionShort>
+              <Glosses>
+                <Gloss>to do evil</Gloss>
+                <Gloss>to do wrong</Gloss>
+              </Glosses>
+              <Comments>For another interpretation of κακοποιέω in {S:04100300400020}, see {D:20.12}.</Comments>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04100300400020</LEXReference>
+            <LEXReference>04200600900030</LEXReference>
+            <LEXReference>06000301700024</LEXReference>
+            <LEXReference>06400101100032</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+        <LEXMeaning Id="002560001002000" IsBiblicalTerm="M" EntryCode="20.12" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Violence, Harm, Destroy, Kill</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Harm, Wound</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-09-08 11:33:31" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>to cause harm or injury to someone or something (a highly generic meaning involving a wide range of harm and injury)</DefinitionShort>
+              <Glosses>
+                <Gloss>to harm</Gloss>
+                <Gloss>to hurt</Gloss>
+                <Gloss>to injure</Gloss>
+              </Glosses>
+              <Comments>In translating terms meaning ‘to harm’ or ‘to injure,’ it may be necessary to specify suffering, for example, ‘to cause people to suffer’ or ‘to cause people to have pain.’|For another interpretation of κακοποιέω in {S:04100300400020}, see {D:88.112}.</Comments>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04100300400020</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

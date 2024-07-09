@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="000346000000000" Lemma="אֵימָה" Version="5" HasAramaic="false" InLXX="false" AlphaPos="א">
+  <StrongCodes>
+    <Strong>H0367</Strong>
+  </StrongCodes>
+  <Authors>
+    <Author>Reinier de Blois; Enio R. Mueller</Author>
+  </Authors>
+  <Contributors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes/>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="000346001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>nsf</PartOfSpeech>
+      </PartsOfSpeech>
+      <RelatedLemmas>
+        <RelatedLemma>
+          <Word>אָיֹם</Word>
+        </RelatedLemma>
+      </RelatedLemmas>
+      <RelatedNames>
+        <RelatedName>
+          <Word>אֵימִים</Word>
+        </RelatedName>
+      </RelatedNames>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="000346001001000" IsBiblicalTerm="M" EntryCode="" Indent="0">
+          <LEXDomains>
+            <LEXDomain Code="002001002001">Afraid</LEXDomain>
+          </LEXDomains>
+          <LEXSynonyms>
+            <LEXSynonym>אֶכֶף</LEXSynonym>
+            <LEXSynonym>בעת</LEXSynonym>
+            <LEXSynonym>חיל</LEXSynonym>
+            <LEXSynonym>פַּחַד</LEXSynonym>
+          </LEXSynonyms>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2014-08-01 11:38:40" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>= state of strong fear because of an actual or perceived danger, such as aggression from the enemy, a dangerous animal, or death</DefinitionShort>
+              <Glosses>
+                <Gloss>terror</Gloss>
+                <Gloss>dread</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>00101501200028</LEXReference>
+            <LEXReference>00201501600006</LEXReference>
+            <LEXReference>00202302700004</LEXReference>
+            <LEXReference>00503202500016</LEXReference>
+            <LEXReference>00600200900034</LEXReference>
+            <LEXReference>01500300300018</LEXReference>
+            <LEXReference>01800903400012</LEXReference>
+            <LEXReference>01801302100012</LEXReference>
+            <LEXReference>01802002500024</LEXReference>
+            <LEXReference>01803300700004</LEXReference>
+            <LEXReference>01803902000016</LEXReference>
+            <LEXReference>01804100600014</LEXReference>
+            <LEXReference>01905500500012</LEXReference>
+            <LEXReference>01908801600016</LEXReference>
+            <LEXReference>02303301800006</LEXReference>
+            <LEXReference>02405003800026</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+          <LEXCoreDomains>
+            <LEXCoreDomain Code="043">Confidence and Fear</LEXCoreDomain>
+            <LEXCoreDomain Code="152">Security</LEXCoreDomain>
+            <LEXCoreDomain Code="196">Well-Being</LEXCoreDomain>
+          </LEXCoreDomains>
+        </LEXMeaning>
+        <LEXMeaning Id="000346001002000" IsBiblicalTerm="Y" EntryCode="" Indent="0">
+          <LEXDomains>
+            <LEXDomain Code="002001002002" Source="Afraid" SourceCode="002001002001">Angry</LEXDomain>
+          </LEXDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2014-08-01 11:38:40" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>= state of fierce anger that inspires fear in someone else</DefinitionShort>
+              <Glosses>
+                <Gloss>fierce anger</Gloss>
+                <Gloss>wrath</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>02002000200010</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+          <LEXCoreDomains>
+            <LEXCoreDomain Code="176">Temper</LEXCoreDomain>
+          </LEXCoreDomains>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

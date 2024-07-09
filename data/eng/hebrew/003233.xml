@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="003233000000000" Lemma="כבר" Version="4" HasAramaic="false" InLXX="false" AlphaPos="כ">
+  <StrongCodes>
+    <Strong>H3527</Strong>
+    <Strong>H4342</Strong>
+  </StrongCodes>
+  <Authors>
+    <Author>Enio R. Mueller</Author>
+  </Authors>
+  <Contributors/>
+  <AlternateLemmas>
+    <AlternateLemma>מַכְבִּיר</AlternateLemma>
+  </AlternateLemmas>
+  <MainLinks/>
+  <Notes/>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="003233001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>vb</PartOfSpeech>
+      </PartsOfSpeech>
+      <RelatedLemmas>
+        <RelatedLemma>
+          <Word>כַּבִּיר</Word>
+        </RelatedLemma>
+        <RelatedLemma>
+          <Word>כָּבִיר</Word>
+        </RelatedLemma>
+        <RelatedLemma>
+          <Word>כְּבָר</Word>
+        </RelatedLemma>
+        <RelatedLemma>
+          <Word>כְּבָרָה</Word>
+        </RelatedLemma>
+        <RelatedLemma>
+          <Word>מִכְבָּר</Word>
+        </RelatedLemma>
+        <RelatedLemma>
+          <Word>מַכְבֵּר</Word>
+        </RelatedLemma>
+      </RelatedLemmas>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="003233001001000" IsBiblicalTerm="Y" EntryCode="" Indent="0">
+          <LEXDomains>
+            <LEXDomain Code="002001001042">Quantity</LEXDomain>
+          </LEXDomains>
+          <LEXForms>
+            <LEXForm>vbhif-</LEXForm>
+          </LEXForms>
+          <LEXCollocations>
+            <LEXCollocation>לְמַכְבִּיר</LEXCollocation>
+          </LEXCollocations>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2017-05-08 00:40:03" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>= state in which substances are large in quantity</DefinitionShort>
+              <Glosses>
+                <Gloss>in abundance</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>01803603100016</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+          <LEXCoreDomains>
+            <LEXCoreDomain Code="138">Quantity</LEXCoreDomain>
+          </LEXCoreDomains>
+        </LEXMeaning>
+        <LEXMeaning Id="003233001002000" IsBiblicalTerm="Y" EntryCode="" Indent="0">
+          <LEXDomains>
+            <LEXDomain Code="002004001009008" Source="Frequency" SourceCode="002001003009">Speak</LEXDomain>
+          </LEXDomains>
+          <LEXForms>
+            <LEXForm>vbhif-</LEXForm>
+          </LEXForms>
+          <LEXCollocations>
+            <LEXCollocation>כבר מִלִּין</LEXCollocation>
+          </LEXCollocations>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2017-05-08 00:40:03" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>literally: to multiply words; hence: = action by which humans hold long and verbose speeches</DefinitionShort>
+              <Glosses>
+                <Gloss>to multiply words</Gloss>
+                <Gloss>to talk much</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>01803501600020</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+          <LEXCoreDomains>
+            <LEXCoreDomain Code="041">Communication</LEXCoreDomain>
+          </LEXCoreDomains>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

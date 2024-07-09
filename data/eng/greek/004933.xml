@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="004933000000000" Lemma="ταχινός" Version="0" HasAramaic="false" InLXX="true" AlphaPos="τ">
+  <StrongCodes>
+    <Strong>G5031</Strong>
+  </StrongCodes>
+  <Authors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes/>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="004933001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>adjc.</PartOfSpeech>
+      </PartsOfSpeech>
+      <Inflections>
+        <Inflection Lemma="ταχινός" BaseFormIndex="1">
+          <Form/>
+          <Realizations>
+            <Realization>-ή, -όν</Realization>
+          </Realizations>
+          <Comments/>
+        </Inflection>
+      </Inflections>
+      <RelatedLemmas>
+        <RelatedLemma>
+          <Word>ταχύς</Word>
+        </RelatedLemma>
+      </RelatedLemmas>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="004933001001000" IsBiblicalTerm="Y" EntryCode="67.110" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Time</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Duration of Time without Reference to Points or Units of Time: Time, Spend Time, Always, Eternal, Old, Immediately, Young</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2022-03-31 22:19:47" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>pertaining to a very short extent of time</DefinitionShort>
+              <Glosses>
+                <Gloss>quickly</Gloss>
+                <Gloss>hurriedly</Gloss>
+                <Gloss>swift</Gloss>
+                <Gloss>speedy</Gloss>
+              </Glosses>
+              <Comments>In {S:06100200100052} ταχινός may refer to the swift nature of the destruction or to the fact that destruction comes after a relatively brief period of time.</Comments>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>06100200100052</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+        <LEXMeaning Id="004933001002000" IsBiblicalTerm="Y" EntryCode="67.56" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Time</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>A Point of Time with Reference to Other Points of Time: Before, Long Ago, Now, At the Same Time, When, About, After</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2022-03-31 22:19:47" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>pertaining to a point of time subsequent to another point of time (either an event in the discourse or the time of the discourse itself), with emphasis upon the relatively brief interval between the two points of time</DefinitionShort>
+              <Glosses>
+                <Gloss>soon</Gloss>
+                <Gloss>very soon</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>06100101400006</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

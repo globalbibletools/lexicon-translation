@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="003402000000000" Lemma="כפל" Version="4" HasAramaic="false" InLXX="false" AlphaPos="כ">
+  <StrongCodes>
+    <Strong>H3717</Strong>
+  </StrongCodes>
+  <Authors>
+    <Author>Reinier de Blois</Author>
+  </Authors>
+  <Contributors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes/>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="003402001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>vb</PartOfSpeech>
+      </PartsOfSpeech>
+      <RelatedLemmas>
+        <RelatedLemma>
+          <Word>כֶּפֶל</Word>
+        </RelatedLemma>
+      </RelatedLemmas>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="003402001001000" IsBiblicalTerm="Y" EntryCode="" Indent="0">
+          <LEXDomains>
+            <LEXDomain Code="002001001048">Shape</LEXDomain>
+          </LEXDomains>
+          <LEXForms>
+            <LEXForm>vbqal-ptcp</LEXForm>
+          </LEXForms>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2017-01-17 12:37:25" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>= state in which a piece of cloth has been folded in the middle and consists of two layers as a result</DefinitionShort>
+              <Glosses>
+                <Gloss>to fold double</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>00202600900034</LEXReference>
+            <LEXReference>00202801600006</LEXReference>
+            <LEXReference>00203900900006</LEXReference>
+            <LEXReference>00203900900026</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+        <LEXMeaning Id="003402001002000" IsBiblicalTerm="Y" EntryCode="" Indent="0">
+          <LEXDomains>
+            <LEXDomain Code="002001003009" Source="Shape" SourceCode="002001001048">Frequency</LEXDomain>
+          </LEXDomains>
+          <LEXForms>
+            <LEXForm>vbnif-</LEXForm>
+          </LEXForms>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2017-01-17 12:37:25" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>= process by which an event happens twice</DefinitionShort>
+              <Glosses>
+                <Gloss>to be doubled</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>02602101900024</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

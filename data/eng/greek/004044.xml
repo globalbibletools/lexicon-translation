@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="004044000000000" Lemma="πλήσσω" Version="0" HasAramaic="false" InLXX="true" AlphaPos="π">
+  <StrongCodes>
+    <Strong>G4141</Strong>
+  </StrongCodes>
+  <Authors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes/>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="004044001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>verb</PartOfSpeech>
+      </PartsOfSpeech>
+      <Inflections>
+        <Inflection Lemma="πλήσσω" BaseFormIndex="1">
+          <Form>aor.pass.</Form>
+          <Realizations>
+            <Realization>ἐπλήγην</Realization>
+          </Realizations>
+          <Comments/>
+        </Inflection>
+      </Inflections>
+      <RelatedLemmas>
+        <RelatedLemma>
+          <Word>ἐκπλήσσομαι</Word>
+        </RelatedLemma>
+        <RelatedLemma>
+          <Word>ἐπιπλήσσω</Word>
+        </RelatedLemma>
+        <RelatedLemma>
+          <Word>πληγή</Word>
+        </RelatedLemma>
+      </RelatedLemmas>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="004044001001000" IsBiblicalTerm="Y" EntryCode="19.1" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Physical Impact</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Hit, Strike</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-12-28 11:07:33" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>to strike or hit an object, one or more times</DefinitionShort>
+              <Glosses>
+                <Gloss>to hit</Gloss>
+                <Gloss>to strike</Gloss>
+                <Gloss>to beat</Gloss>
+              </Glosses>
+              <Comments>In {S:06600801200014} the emphasis seems to be upon the damage caused to the sun rather than the actual fact of a blow, but the use of πλήσσω seems to indicate that the damage is the result of some type of blow.</Comments>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>06600801200014</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

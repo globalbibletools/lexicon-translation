@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="003749000000000" Lemma="παράβασις" Version="0" HasAramaic="false" InLXX="true" AlphaPos="π">
+  <StrongCodes>
+    <Strong>G3847</Strong>
+  </StrongCodes>
+  <Authors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes/>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="003749001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>noun, f.</PartOfSpeech>
+      </PartsOfSpeech>
+      <Inflections>
+        <Inflection Lemma="παράβασις" BaseFormIndex="1">
+          <Form/>
+          <Realizations>
+            <Realization>-εως</Realization>
+          </Realizations>
+          <Comments/>
+        </Inflection>
+      </Inflections>
+      <RelatedLemmas>
+        <RelatedLemma>
+          <Word>βαίνω</Word>
+          <Meaning LanguageCode="en">
+            <Meaning>go, walk</Meaning>
+          </Meaning>
+          <Meaning LanguageCode="zhT">
+            <Meaning>走，走路</Meaning>
+          </Meaning>
+        </RelatedLemma>
+      </RelatedLemmas>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="003749001001000" IsBiblicalTerm="M" EntryCode="36.28" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Guide, Discipline, Follow</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Obey, Disobey</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-12-17 19:25:03" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>to act contrary to established custom or law, with the implication of intent</DefinitionShort>
+              <Glosses>
+                <Gloss>to disobey</Gloss>
+                <Gloss>to break the law</Gloss>
+                <Gloss>to transgress</Gloss>
+                <Gloss>disobedience</Gloss>
+                <Gloss>transgression</Gloss>
+              </Glosses>
+              <Comments>Languages differ appreciably in the way in which they speak of disobeying or transgressing a law. It is rarely possible to speak of ‘breaking a law,’ since nothing is actually done to the law in the process of transgression, but languages do employ such expressions as ‘to tramp on a law,’ ‘to ridicule a law,’ and ‘to laugh at a law.’ See also discussion at {D:36.29}.</Comments>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04500202300014</LEXReference>
+            <LEXReference>04500401500024</LEXReference>
+            <LEXReference>04500501400036</LEXReference>
+            <LEXReference>04800301900012</LEXReference>
+            <LEXReference>05400201400020</LEXReference>
+            <LEXReference>05800200200024</LEXReference>
+            <LEXReference>05800901500036</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

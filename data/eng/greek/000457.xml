@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="000457000000000" Lemma="ἀνοικοδομέω" Version="0" HasAramaic="false" InLXX="true" AlphaPos="α">
+  <StrongCodes>
+    <Strong>G0456</Strong>
+  </StrongCodes>
+  <Authors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes/>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="000457001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>verb</PartOfSpeech>
+      </PartsOfSpeech>
+      <Constructs>
+        <Construct Lemma="ἀνοικοδομέω" BaseFormIndex="1">
+          <WordMeaningSet>
+            <Word>οἰκέω</Word>
+          </WordMeaningSet>
+          <WordMeaningSet>
+            <Word>δέμω</Word>
+            <Meaning LanguageCode="en">
+              <Meaning>build</Meaning>
+            </Meaning>
+            <Meaning LanguageCode="zhT">
+              <Meaning>建造</Meaning>
+            </Meaning>
+          </WordMeaningSet>
+        </Construct>
+      </Constructs>
+      <RelatedLemmas>
+        <RelatedLemma>
+          <Word>δῶμα</Word>
+        </RelatedLemma>
+      </RelatedLemmas>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="000457001001000" IsBiblicalTerm="Y" EntryCode="45.3" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Building, Constructing</LEXDomain>
+          </LEXDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>to rebuild something which has been destroyed</DefinitionShort>
+              <Glosses>
+                <Gloss>to rebuild</Gloss>
+                <Gloss>to restore</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04401501600010</LEXReference>
+            <LEXReference>04401501600030</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

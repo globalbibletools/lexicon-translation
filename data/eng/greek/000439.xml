@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="000439000000000" Lemma="ἀνθίστημι" Version="0" HasAramaic="false" InLXX="true" AlphaPos="α">
+  <StrongCodes>
+    <Strong>G0436</Strong>
+  </StrongCodes>
+  <Authors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes>
+    <Note Caller="1" LanguageCode="en" LastEdited="" LastEditedBy="">
+      <References/>
+      <Content>There are probably certain significant distinctions in meaning in the various verbs listed in {D:39.1}, but on the basis of NT usage it is not possible to determine precisely what these distinctions may be.</Content>
+    </Note>
+  </Notes>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="000439001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>verb</PartOfSpeech>
+      </PartsOfSpeech>
+      <Inflections>
+        <Inflection Lemma="ἀνθίστημι" BaseFormIndex="1">
+          <Form>aor.</Form>
+          <Realizations>
+            <Realization>ἀντέστην</Realization>
+          </Realizations>
+          <Comments/>
+        </Inflection>
+        <Inflection Lemma="ἀνθίστημι" BaseFormIndex="1">
+          <Form>pf.</Form>
+          <Realizations>
+            <Realization>ἀνθέστηκα</Realization>
+          </Realizations>
+          <Comments/>
+        </Inflection>
+      </Inflections>
+      <RelatedLemmas>
+        <RelatedLemma>
+          <Word>ἵστημι</Word>
+        </RelatedLemma>
+      </RelatedLemmas>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="000439001001000" IsBiblicalTerm="Y" EntryCode="39.1" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Hostility, Strife</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Opposition, Hostility</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-08-09 14:07:59" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>to oppose someone, involving not only a psychological attitude but also a corresponding behavior{N:001}</DefinitionShort>
+              <Glosses>
+                <Gloss>to oppose</Gloss>
+                <Gloss>to be hostile toward</Gloss>
+                <Gloss>to show hostility</Gloss>
+              </Glosses>
+              <Comments>In translating this phrase in {S:04800201100020} it may be appropriate in some languages to say ‘I spoke against him with other people present.’</Comments>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04401300800002</LEXReference>
+            <LEXReference>04800201100020</LEXReference>
+            <LEXReference>05500300800014</LEXReference>
+            <LEXReference>05500300800024</LEXReference>
+            <LEXReference>05500401500014</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+        <LEXMeaning Id="000439001002000" IsBiblicalTerm="Y" EntryCode="39.18" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Hostility, Strife</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Resistance</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-08-09 14:07:59" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>to resist by actively opposing pressure or power</DefinitionShort>
+              <Glosses>
+                <Gloss>to resist</Gloss>
+              </Glosses>
+              <Comments>In a number of languages one may appropriately translate ‘to resist’ in a number of contexts as ‘to fight back against’ or ‘to oppose in return.’ In some contexts, however, such as {S:04400705100028}, the meaning may perhaps be best expressed by a negation, for example, ‘you have never been willing to yield to the Holy Spirit.’</Comments>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04000503900012</LEXReference>
+            <LEXReference>04202101500022</LEXReference>
+            <LEXReference>04400601000008</LEXReference>
+            <LEXReference>04500901900026</LEXReference>
+            <LEXReference>04501300200020</LEXReference>
+            <LEXReference>04501300200026</LEXReference>
+            <LEXReference>04900601300020</LEXReference>
+            <LEXReference>05900400700010</LEXReference>
+            <LEXReference>06000500900004</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="003456000000000" Lemma="νόσημα" Version="0" HasAramaic="false" InLXX="false" AlphaPos="ν">
+  <StrongCodes/>
+  <Authors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes/>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="003456001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>adjc.</PartOfSpeech>
+      </PartsOfSpeech>
+      <Inflections>
+        <Inflection Lemma="νόσημα" BaseFormIndex="1">
+          <Form/>
+          <Realizations>
+            <Realization>-τος</Realization>
+          </Realizations>
+          <Comments/>
+        </Inflection>
+      </Inflections>
+      <RelatedLemmas>
+        <RelatedLemma>
+          <Word>νοσέω</Word>
+        </RelatedLemma>
+      </RelatedLemmas>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="003456001001000" IsBiblicalTerm="Y" EntryCode="23.155" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Physiological Processes and States</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Sickness, Disease, Weakness</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-12-11 12:03:52" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>the state of being diseased</DefinitionShort>
+              <Glosses>
+                <Gloss>diseased</Gloss>
+                <Gloss>disease</Gloss>
+                <Gloss>sickness</Gloss>
+              </Glosses>
+              <Comments>This word is found as a variant reading only: ὑγιὴς ἐγίνετο οἵῳ δήποτ οὖν κατείχετο νοσήματι ‘was healed from whatever disease he had’ {S:04300500300018} (apparatus).</Comments>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04300500300018</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

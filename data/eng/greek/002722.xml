@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="002722000000000" Lemma="κατενώπιον" Version="0" HasAramaic="false" InLXX="true" AlphaPos="κ">
+  <StrongCodes>
+    <Strong>G2714</Strong>
+  </StrongCodes>
+  <Authors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes>
+    <Note Caller="1" LanguageCode="en" LastEdited="" LastEditedBy="">
+      <References/>
+      <Content>There are no doubt certain slight differences of meaning in this series ({D:83.33}), but such distinctions cannot be readily determined from existing contexts.</Content>
+    </Note>
+    <Note Caller="2" LanguageCode="en" LastEdited="" LastEditedBy="">
+      <References/>
+      <Content>There are undoubtedly certain subtle distinctions of meaning associated with the various markers in {D:90.20}, but it is impossible to determine those differences on the basis of existing contexts.</Content>
+    </Note>
+    <Note Caller="3" LanguageCode="en" LastEdited="" LastEditedBy="">
+      <References>
+        <Reference>04900100400028</Reference>
+      </References>
+      <Content>It is also possible to understand κατενώπιον in {S:04900100400028} as the presence of God (see κατενώπιον[a], {D:83.33}).</Content>
+    </Note>
+  </Notes>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="002722001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>prep. (with gen.)</PartOfSpeech>
+      </PartsOfSpeech>
+      <RelatedLemmas>
+        <RelatedLemma>
+          <Word>ὤψ</Word>
+          <Meaning LanguageCode="en">
+            <Meaning>eyes, face</Meaning>
+          </Meaning>
+          <Meaning LanguageCode="zhT">
+            <Meaning>眼睛，臉</Meaning>
+          </Meaning>
+        </RelatedLemma>
+        <RelatedLemma>
+          <Word>ὁράω</Word>
+        </RelatedLemma>
+      </RelatedLemmas>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="002722001001000" IsBiblicalTerm="Y" EntryCode="83.33" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Spacial Positions</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>In Front Of, Face To Face, In Back Of, Behind</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-09-28 10:32:10" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>a position in front of an object, whether animate or inanimate, which is regarded as having a spacial orientation of front and back{N:001}</DefinitionShort>
+              <Glosses>
+                <Gloss>in front of</Gloss>
+                <Gloss>before</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>05100102200040</LEXReference>
+            <LEXReference>06500102400018</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+        <LEXMeaning Id="002722001002000" IsBiblicalTerm="Y" EntryCode="90.20" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Case</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Viewpoint Participant</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-09-28 10:32:10" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>(with the genitive) marking a participant whose viewpoint is relevant to an event{N:002}</DefinitionShort>
+              <Glosses>
+                <Gloss>in the sight of</Gloss>
+                <Gloss>in the opinion of</Gloss>
+                <Gloss>in the judgment of</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04900100400028{N:003}</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

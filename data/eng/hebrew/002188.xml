@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="002188000000000" Lemma="חֹזֶה" Version="5" HasAramaic="false" InLXX="false" AlphaPos="ח">
+  <StrongCodes>
+    <Strong>H2374</Strong>
+  </StrongCodes>
+  <Authors>
+    <Author>Reinier de Blois</Author>
+  </Authors>
+  <Contributors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes>
+    <Note Caller="1" LanguageCode="en" LastEdited="" LastEditedBy="">
+      <References>
+        <Reference>01403301900064</Reference>
+      </References>
+      <Content>{A:RSV} {A:NIV} {A:NRSV} {A:REB} {A:GNT} | {A:MT} {A:HOTTP}-B {A:NJPS} {A:NJB} {A:CEV} {L:חֹוזַי&lt;SDBH:חֹוזַי&gt;}</Content>
+    </Note>
+  </Notes>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="002188001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>nsm</PartOfSpeech>
+      </PartsOfSpeech>
+      <RelatedLemmas>
+        <RelatedLemma>
+          <Word>חזה</Word>
+        </RelatedLemma>
+      </RelatedLemmas>
+      <RelatedNames>
+        <RelatedName>
+          <Word>כָּל־חֹזֶה</Word>
+        </RelatedName>
+      </RelatedNames>
+      <BaseFormLinks>
+        <BaseFormLink>SAHD@https://www.sahd.div.ed.ac.uk/_media/lexeme:pdf:drw-chozeh-stoekl_j-oxf-2012.pdf</BaseFormLink>
+      </BaseFormLinks>
+      <LEXMeanings>
+        <LEXMeaning Id="002188001001000" IsBiblicalTerm="M" EntryCode="" Indent="0">
+          <LEXDomains>
+            <LEXDomain Code="001001002003010">Prophets</LEXDomain>
+          </LEXDomains>
+          <LEXSynonyms>
+            <LEXSynonym>נָבִיא</LEXSynonym>
+            <LEXSynonym>רֹאֶה</LEXSynonym>
+          </LEXSynonyms>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2010-01-05 09:18:50" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>= someone who receives divine messages, primarily by means of visions</DefinitionShort>
+              <Glosses>
+                <Gloss>seer</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>01002401100030</LEXReference>
+            <LEXReference>01201701300030</LEXReference>
+            <LEXReference>01302100900012</LEXReference>
+            <LEXReference>01302500500012</LEXReference>
+            <LEXReference>01302902900058</LEXReference>
+            <LEXReference>01400902900062</LEXReference>
+            <LEXReference>01401201500042</LEXReference>
+            <LEXReference>01401900200018</LEXReference>
+            <LEXReference>01402902500040</LEXReference>
+            <LEXReference>01402903000044</LEXReference>
+            <LEXReference>01403301800024</LEXReference>
+            <LEXReference>01403301900064{N:001}</LEXReference>
+            <LEXReference>01403501500034</LEXReference>
+            <LEXReference>02302901000036</LEXReference>
+            <LEXReference>02303001000022</LEXReference>
+            <LEXReference>03000701200012</LEXReference>
+            <LEXReference>03300300700008</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+          <LEXCoreDomains>
+            <LEXCoreDomain Code="134">Prophecy</LEXCoreDomain>
+          </LEXCoreDomains>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+    <BaseForm Id="002188002000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>nsm</PartOfSpeech>
+      </PartsOfSpeech>
+      <RelatedLemmas>
+        <RelatedLemma>
+          <Word>חזה</Word>
+        </RelatedLemma>
+      </RelatedLemmas>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="002188002001000" IsBiblicalTerm="Y" EntryCode="" Indent="0">
+          <LEXDomains>
+            <LEXDomain Code="002004001009013">Vow</LEXDomain>
+          </LEXDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2010-01-05 09:18:50" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>= arrangement undertaken by and legally binding on parties</DefinitionShort>
+              <Glosses>
+                <Gloss>contract</Gloss>
+                <Gloss>agreement</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>02302801500022</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+          <LEXCoreDomains>
+            <LEXCoreDomain Code="046">Covenant</LEXCoreDomain>
+          </LEXCoreDomains>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

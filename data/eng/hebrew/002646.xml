@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="002646000000000" Lemma="טֶבַח" Version="5" HasAramaic="false" InLXX="false" AlphaPos="ט">
+  <StrongCodes>
+    <Strong>H2874</Strong>
+    <Strong>H2875</Strong>
+  </StrongCodes>
+  <Authors>
+    <Author>Timothy L. Wilt</Author>
+  </Authors>
+  <Contributors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes/>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="002646001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>nsm</PartOfSpeech>
+      </PartsOfSpeech>
+      <RelatedLemmas>
+        <RelatedLemma>
+          <Word>טבח</Word>
+        </RelatedLemma>
+        <RelatedLemma>
+          <Word>טִבְחָה</Word>
+        </RelatedLemma>
+      </RelatedLemmas>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="002646001001000" IsBiblicalTerm="M" EntryCode="" Indent="0">
+          <LEXDomains>
+            <LEXDomain Code="002001001019">Dead</LEXDomain>
+          </LEXDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2017-04-17 19:17:15" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>= causative action by which humans kill animals by slicing the jugular vein and windpipe with a sharp-bladed instrument, ► to prepare its meat for a meal; ≈ associated with aggression</DefinitionShort>
+              <Glosses>
+                <Gloss>killing, slaughter, butchering</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>00104301600042</LEXReference>
+            <LEXReference>02000702200014</LEXReference>
+            <LEXReference>02000900200004</LEXReference>
+            <LEXReference>02303400600050</LEXReference>
+            <LEXReference>02305300700028</LEXReference>
+            <LEXReference>02405002700014</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+          <LEXCoreDomains>
+            <LEXCoreDomain Code="010">Animal</LEXCoreDomain>
+            <LEXCoreDomain Code="099">Life and Death</LEXCoreDomain>
+            <LEXCoreDomain Code="069">Food</LEXCoreDomain>
+          </LEXCoreDomains>
+        </LEXMeaning>
+        <LEXMeaning Id="002646001002000" IsBiblicalTerm="Y" EntryCode="" Indent="0">
+          <LEXDomains>
+            <LEXDomain Code="002001001019">Dead</LEXDomain>
+          </LEXDomains>
+          <LEXSynonyms>
+            <LEXSynonym>חרם</LEXSynonym>
+            <LEXSynonym>מנה לַחֶרֶב</LEXSynonym>
+          </LEXSynonyms>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2017-04-17 19:17:15" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>= causative action by which humans kill other humans like an animal, with a sharp-bladed instrument; ≈ associated with anger, power, callousness (of the killer), and helplessness (of the victim)</DefinitionShort>
+              <Glosses>
+                <Gloss>killing</Gloss>
+                <Gloss>slaughter</Gloss>
+                <Gloss>butchering</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>02303400200036</LEXReference>
+            <LEXReference>02306501200022</LEXReference>
+            <LEXReference>02404801500024</LEXReference>
+            <LEXReference>02602101500006</LEXReference>
+            <LEXReference>02602102000042</LEXReference>
+            <LEXReference>02602103300048</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+          <LEXCoreDomains>
+            <LEXCoreDomain Code="099">Life and Death</LEXCoreDomain>
+            <LEXCoreDomain Code="006">Aggression</LEXCoreDomain>
+          </LEXCoreDomains>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+    <BaseForm Id="002646002000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>np</PartOfSpeech>
+      </PartsOfSpeech>
+      <MeaningsOfName>
+        <MeaningOfName LanguageCode="en">
+          <Meaning>slaughtering</Meaning>
+        </MeaningOfName>
+        <MeaningOfName LanguageCode="pt">
+          <Meaning>matança</Meaning>
+        </MeaningOfName>
+      </MeaningsOfName>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="002646002001000" IsBiblicalTerm="Y" EntryCode="" Indent="0">
+          <LEXDomains>
+            <LEXDomain Code="003001007">Names of People</LEXDomain>
+          </LEXDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2017-04-17 19:17:15" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>= man; ◄ son of {L:Abraham&lt;SDBH:אַבְרָהָם&gt;}'s brother {L:Nahor&lt;SDBH:נָחֹור&gt;} and his concubine {L:Reumah&lt;SDBH:רְאוּמָה&gt;}</DefinitionShort>
+              <Glosses>
+                <Gloss>Tebah</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>00102202400022</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

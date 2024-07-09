@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="002372000000000" Lemma="θυγάτριον" Version="0" HasAramaic="false" InLXX="false" AlphaPos="θ">
+  <StrongCodes>
+    <Strong>G2365</Strong>
+  </StrongCodes>
+  <Authors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes/>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="002372001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>noun, n.</PartOfSpeech>
+      </PartsOfSpeech>
+      <Inflections>
+        <Inflection Lemma="θυγάτριον" BaseFormIndex="1">
+          <Form/>
+          <Realizations>
+            <Realization>-ου</Realization>
+          </Realizations>
+          <Comments/>
+        </Inflection>
+      </Inflections>
+      <RelatedLemmas>
+        <RelatedLemma>
+          <Word>θυγάτηρ</Word>
+        </RelatedLemma>
+      </RelatedLemmas>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="002372001001000" IsBiblicalTerm="Y" EntryCode="10.47" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Kinship Terms</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Kinship Relations Involving Successive Generations</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-08-20 17:23:38" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>(a diminutive derivative of {L:θυγάτηρ&lt;SDBG:θυγάτηρ:000000&gt;}[a] daughter, {D:10.46}, with possible emphasis upon young age and probable implication of affection)</DefinitionShort>
+              <Glosses>
+                <Gloss>little daughter</Gloss>
+                <Gloss>dear daughter</Gloss>
+              </Glosses>
+              <Comments>In {S:04100502300016} the text indicates specifically that the daughter was twelve years of age, and it may very well be that in {S:04100702500020} (the only other passage in which θυγάτριον occurs in the NT) the daughter may have been of approximately the same age. In languages in which some indication of relative age is obligatory, one could employ a term identifying a girl about the age of puberty.</Comments>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04100502300016</LEXReference>
+            <LEXReference>04100702500020</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

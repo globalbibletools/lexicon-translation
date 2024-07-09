@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="003329000000000" Lemma="כלל" Version="5" HasAramaic="true" InLXX="false" AlphaPos="כ">
+  <StrongCodes>
+    <Strong>H3634</Strong>
+    <Strong>A3635</Strong>
+  </StrongCodes>
+  <Authors>
+    <Author>Reinier de Blois</Author>
+  </Authors>
+  <Contributors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes>
+    <Note Caller="1" LanguageCode="en" LastEdited="" LastEditedBy="">
+      <References>
+        <Reference>01500401200052</Reference>
+      </References>
+      <Content>MT-K אשׁכללו | MT-Q שַׁכְלִילוּ</Content>
+    </Note>
+  </Notes>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="003329001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>vb</PartOfSpeech>
+      </PartsOfSpeech>
+      <RelatedLemmas>
+        <RelatedLemma>
+          <Word>כֹּל</Word>
+        </RelatedLemma>
+        <RelatedLemma>
+          <Word>כָּלִיל</Word>
+        </RelatedLemma>
+        <RelatedLemma>
+          <Word>מִכְלֹול</Word>
+        </RelatedLemma>
+        <RelatedLemma>
+          <Word>מִכְלָל</Word>
+        </RelatedLemma>
+        <RelatedLemma>
+          <Word>מַכְלוּל</Word>
+        </RelatedLemma>
+      </RelatedLemmas>
+      <RelatedNames>
+        <RelatedName>
+          <Word>כְּלָל</Word>
+        </RelatedName>
+      </RelatedNames>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="003329001001000" IsBiblicalTerm="Y" EntryCode="" Indent="0">
+          <LEXDomains>
+            <LEXDomain Code="002001003003">Complete</LEXDomain>
+          </LEXDomains>
+          <LEXForms>
+            <LEXForm>vbhsht</LEXForm>
+          </LEXForms>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-12-23 14:38:42" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>= process by which a building project is completed</DefinitionShort>
+              <Glosses>
+                <Gloss>to be finished</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>01500401300026</LEXReference>
+            <LEXReference>01500401600024</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+          <LEXCoreDomains>
+            <LEXCoreDomain Code="168">Stage</LEXCoreDomain>
+          </LEXCoreDomains>
+        </LEXMeaning>
+        <LEXMeaning Id="003329001002000" IsBiblicalTerm="Y" EntryCode="" Indent="0">
+          <LEXDomains>
+            <LEXDomain Code="002001003003">Complete</LEXDomain>
+          </LEXDomains>
+          <LEXForms>
+            <LEXForm>vbshaf</LEXForm>
+          </LEXForms>
+          <LEXSynonyms>
+            <LEXSynonym>יחט</LEXSynonym>
+          </LEXSynonyms>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-12-23 14:38:42" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>= causative process by which humans bring a building project to completion</DefinitionShort>
+              <Glosses>
+                <Gloss>to finish</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>01500401200052{N:001}</LEXReference>
+            <LEXReference>01500401200054</LEXReference>
+            <LEXReference>01500500300058</LEXReference>
+            <LEXReference>01500500900042</LEXReference>
+            <LEXReference>01500501100066</LEXReference>
+            <LEXReference>01500601400038</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+          <LEXCoreDomains>
+            <LEXCoreDomain Code="168">Stage</LEXCoreDomain>
+          </LEXCoreDomains>
+        </LEXMeaning>
+        <LEXMeaning Id="003329001003000" IsBiblicalTerm="Y" EntryCode="" Indent="0">
+          <LEXDomains>
+            <LEXDomain Code="002001003012" Source="Complete" SourceCode="002001003003">Intense</LEXDomain>
+          </LEXDomains>
+          <LEXForms>
+            <LEXForm>vbqal-</LEXForm>
+          </LEXForms>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2017-10-01 12:25:51" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>= causative process by which humans cause a condition to have all the required qualities</DefinitionShort>
+              <Glosses>
+                <Gloss>to perfect</Gloss>
+                <Gloss>to make perfect</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>02602700400012</LEXReference>
+            <LEXReference>02602701100038</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+          <LEXCoreDomains>
+            <LEXCoreDomain Code="090">Intensity</LEXCoreDomain>
+          </LEXCoreDomains>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="003063000000000" Lemma="λίνον" Version="0" HasAramaic="false" InLXX="true" AlphaPos="λ">
+  <StrongCodes>
+    <Strong>G3043</Strong>
+  </StrongCodes>
+  <Authors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes>
+    <Note Caller="1" LanguageCode="en" LastEdited="" LastEditedBy="">
+      <References/>
+      <Content>It would be possible to treat λίνον[a] linen cloth ({D:6.165}) and βύσσος fine linen ({D:6.166}) as meaning linen garments and fine linen garments respectively. However, there is no need for setting up such a separate meaning for NT usage, especially since in both {S:06601500600030} and {S:04201601900020} the semantic element of garment or clothing is a significant compound of the verb meaning to dress, and thus the referents would naturally be garments. The same applies to πορφύρα ({D:6.169}) in {S:04201601900020}.</Content>
+    </Note>
+  </Notes>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="003063001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>noun, n.</PartOfSpeech>
+      </PartsOfSpeech>
+      <Inflections>
+        <Inflection Lemma="λίνον" BaseFormIndex="1">
+          <Form/>
+          <Realizations>
+            <Realization>-ου</Realization>
+          </Realizations>
+          <Comments/>
+        </Inflection>
+      </Inflections>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="003063001001000" IsBiblicalTerm="M" EntryCode="6.165" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Artifacts</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Cloth, Leather, and Objects Made of Such Materials</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-11-10 12:05:25" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>linen cloth, normally in the form of a garment{N:001}</DefinitionShort>
+              <Glosses>
+                <Gloss>linen</Gloss>
+                <Gloss>linen garment</Gloss>
+              </Glosses>
+              <Comments>Linen garments may be described as ‘clothing made out of linen cloth.’ What is important in {S:06601500600030} is the quality of the garments, not so much the fact that they were made of linen</Comments>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>06601500600030</LEXReference>
+          </LEXReferences>
+          <LEXLinks>
+            <LEXLink>realia:1.5.3.7</LEXLink>
+          </LEXLinks>
+          <LEXVideos/>
+        </LEXMeaning>
+        <LEXMeaning Id="003063001002000" IsBiblicalTerm="M" EntryCode="6.158" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Artifacts</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Cloth, Leather, and Objects Made of Such Materials</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-11-10 12:05:25" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>a linen cord in a lamp that draws up the oil</DefinitionShort>
+              <Glosses>
+                <Gloss>wick</Gloss>
+              </Glosses>
+              <Comments>A wick may often be referred to as ‘a small strip of cloth.’</Comments>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04001202000012</LEXReference>
+          </LEXReferences>
+          <LEXLinks>
+            <LEXLink>realia:5.1</LEXLink>
+          </LEXLinks>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="004999000000000" Lemma="סְגֹור" Version="5" HasAramaic="false" InLXX="false" AlphaPos="ס">
+  <StrongCodes>
+    <Strong>H5458</Strong>
+  </StrongCodes>
+  <Authors>
+    <Author>Xuan Huong Pham</Author>
+  </Authors>
+  <Contributors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes/>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="004999001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>nsm</PartOfSpeech>
+      </PartsOfSpeech>
+      <RelatedLemmas>
+        <RelatedLemma>
+          <Word>סגר</Word>
+        </RelatedLemma>
+      </RelatedLemmas>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="004999001001000" IsBiblicalTerm="Y" EntryCode="" Indent="0">
+          <LEXDomains>
+            <LEXDomain Code="001001002" Source="Cover" SourceCode="002003001005">Creatures</LEXDomain>
+          </LEXDomains>
+          <LEXCollocations>
+            <LEXCollocation>סְגֹור לֵב</LEXCollocation>
+          </LEXCollocations>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2017-09-25 17:50:05" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>literally: the covering of the heart; hence, probably: = the bony frame formed by the ribs, which covers the heart</DefinitionShort>
+              <Glosses>
+                <Gloss>ribcage</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>02801300800014</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+          <LEXCoreDomains>
+            <LEXCoreDomain Code="019">Body</LEXCoreDomain>
+          </LEXCoreDomains>
+        </LEXMeaning>
+        <LEXMeaning Id="004999001002000" IsBiblicalTerm="M" EntryCode="" Indent="0">
+          <LEXDomains>
+            <LEXDomain Code="001006008">Metals</LEXDomain>
+          </LEXDomains>
+          <LEXSynonyms>
+            <LEXSynonym>כֶּסֶף</LEXSynonym>
+          </LEXSynonyms>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2017-09-25 17:50:05" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>exact meaning unknown, possibly a contraction of זָהָב סָגוּר; hence: = {L:gold&lt;SDBH:זָהָב&gt;} that has gone through a process of refinement</DefinitionShort>
+              <Glosses>
+                <Gloss>fine gold</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>01802801500006</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

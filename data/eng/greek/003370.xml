@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="003370000000000" Lemma="μυωπάζω" Version="0" HasAramaic="false" InLXX="false" AlphaPos="μ">
+  <StrongCodes>
+    <Strong>G3467</Strong>
+  </StrongCodes>
+  <Authors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes/>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="003370001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>verb</PartOfSpeech>
+      </PartsOfSpeech>
+      <Constructs>
+        <Construct Lemma="μυωπάζω" BaseFormIndex="1">
+          <WordMeaningSet>
+            <Word>μύω</Word>
+            <Meaning LanguageCode="en">
+              <Meaning>shut one's eyes</Meaning>
+            </Meaning>
+            <Meaning LanguageCode="zhT">
+              <Meaning>閉上眼睛</Meaning>
+            </Meaning>
+          </WordMeaningSet>
+          <WordMeaningSet>
+            <Word>ὤψ [ὁράω]</Word>
+            <Meaning LanguageCode="en">
+              <Meaning>eyes, face</Meaning>
+            </Meaning>
+            <Meaning LanguageCode="zhT">
+              <Meaning>眼睛，臉</Meaning>
+            </Meaning>
+          </WordMeaningSet>
+        </Construct>
+      </Constructs>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="003370001001000" IsBiblicalTerm="Y" EntryCode="32.48" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Understand</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Lack of Capacity for Understanding</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-12-09 14:33:31" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>(a figurative extension of meaning of μυωπάζω ‘to be shortsighted,’ not occurring in the NT) to be extremely limited in one’s understanding</DefinitionShort>
+              <Glosses>
+                <Gloss>to fail to understand</Gloss>
+                <Gloss>to be restricted in understanding</Gloss>
+                <Gloss>to be shortsighted</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>06100100900016</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

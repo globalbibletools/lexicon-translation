@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="001161000000000" Lemma="δάκτυλος" Version="0" HasAramaic="false" InLXX="true" AlphaPos="δ">
+  <StrongCodes>
+    <Strong>G1147</Strong>
+  </StrongCodes>
+  <Authors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes>
+    <Note Caller="1" LanguageCode="en" LastEdited="" LastEditedBy="">
+      <References/>
+      <Content>It is possible that χείρ[c], βραχίων, and δάκτυλος[b] in the figurative sense of power of an individual differ somewhat in meaning one from the other, but it is impossible to determine this on the basis of existing contexts.</Content>
+    </Note>
+  </Notes>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="001161001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>noun, m.</PartOfSpeech>
+      </PartsOfSpeech>
+      <Inflections>
+        <Inflection Lemma="δάκτυλος" BaseFormIndex="1">
+          <Form/>
+          <Realizations>
+            <Realization>-ου</Realization>
+          </Realizations>
+          <Comments/>
+        </Inflection>
+      </Inflections>
+      <RelatedLemmas>
+        <RelatedLemma>
+          <Word>δείκνυμι</Word>
+        </RelatedLemma>
+      </RelatedLemmas>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="001161001001000" IsBiblicalTerm="M" EntryCode="8.34" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Body, Body Parts, and Body Products</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Parts of the Body</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-05-11 18:13:17" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>one of the five long and slender projections of the human hand, used for writing, pointing, grasping, and other activities</DefinitionShort>
+              <Glosses>
+                <Gloss>finger</Gloss>
+              </Glosses>
+              <Comments>Though it may seem quite logical to speak of ‘writing with the finger’ ({S:04300800600032}), in some languages one is required to speak of ‘writing with the hand.’ Similarly, in {S:04002300400034} the idiom ‘to lift a finger’ is more satisfactorily expressed as ‘to lift a hand.’ Expressions such as ‘to lift the hand’ and ‘to lift the finger’ must be carefully studied for their idiomatic significance, for ‘to lift the hand’ may mean ‘to release something,’ while ‘to lift the finger’ may be a lewd gesture.|In a number of languages the expression ‘to lift a finger’ ({S:04002300400034}) may be best rendered as ‘to do a thing to help’ or ‘to help in any way.’ For δάκτυλος θεοῦ ‘the finger of God’ ({S:04201102000008}), see {D:76.3}.</Comments>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04002300400034</LEXReference>
+            <LEXReference>04100703300022</LEXReference>
+            <LEXReference>04201104600038</LEXReference>
+            <LEXReference>04201602400034</LEXReference>
+            <LEXReference>04300800600032</LEXReference>
+            <LEXReference>04302002500056</LEXReference>
+            <LEXReference>04302002700014</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+        <LEXMeaning Id="001161001002000" IsBiblicalTerm="M" EntryCode="76.3" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Power, Force</LEXDomain>
+          </LEXDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-05-11 18:13:17" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>power as an expression of the activity of a person or supernatural being{N:001}</DefinitionShort>
+              <Glosses>
+                <Gloss>power</Gloss>
+              </Glosses>
+              <Comments>In some languages there is no abstract term for ‘power.’ The equivalent of doing something by the power of someone is ‘someone makes it possible to do’ or, in a figurative sense, ‘someone gives strength to do.’</Comments>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04201102000008</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

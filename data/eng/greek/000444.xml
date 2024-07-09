@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="000444000000000" Lemma="ἀνθρωπάρεσκος" Version="0" HasAramaic="false" InLXX="true" AlphaPos="α">
+  <StrongCodes>
+    <Strong>G0441</Strong>
+  </StrongCodes>
+  <Authors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes/>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="000444001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>adjc.</PartOfSpeech>
+      </PartsOfSpeech>
+      <Inflections>
+        <Inflection Lemma="ἀνθρωπάρεσκος" BaseFormIndex="1">
+          <Form/>
+          <Realizations>
+            <Realization>-ον</Realization>
+          </Realizations>
+          <Comments/>
+        </Inflection>
+      </Inflections>
+      <Constructs>
+        <Construct Lemma="ἀνθρωπάρεσκος" BaseFormIndex="1">
+          <WordMeaningSet>
+            <Word>ἄνθρωπος</Word>
+          </WordMeaningSet>
+          <WordMeaningSet>
+            <Word>ἀρέσκω</Word>
+          </WordMeaningSet>
+        </Construct>
+      </Constructs>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="000444001001000" IsBiblicalTerm="Y" EntryCode="25.98" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Attitudes and Emotions</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Acceptable To, To Be Pleased With</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-08-09 14:14:37" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>pertaining to causing people to be pleased, with the implication of being in contrast to God or at the sacrifice of some principle</DefinitionShort>
+              <Glosses>
+                <Gloss>pleasing people</Gloss>
+                <Gloss>men-pleaser</Gloss>
+              </Glosses>
+              <Comments>The expression ‘men-pleasers’ may often be rendered as ‘those who are just trying to make people like them.’</Comments>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04900600600010</LEXReference>
+            <LEXReference>05100302200028</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="004645000000000" Lemma="נֵד" Version="5" HasAramaic="false" InLXX="false" AlphaPos="נ">
+  <StrongCodes>
+    <Strong>H5067</Strong>
+  </StrongCodes>
+  <Authors>
+    <Author>Reinier de Blois</Author>
+  </Authors>
+  <Contributors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes>
+    <Note Caller="1" LanguageCode="en" LastEdited="" LastEditedBy="">
+      <References>
+        <Reference>02301701100022</Reference>
+      </References>
+      <Content>MT NIV "as nothing (= a small heap?)" | RSV NRSV "flee away" NJPS "wither away" NJB "vanish" REB "disappear" = {L:נדד&lt;SDBH:נדד&gt;}</Content>
+    </Note>
+  </Notes>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="004645001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>nsm</PartOfSpeech>
+      </PartsOfSpeech>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="004645001001000" IsBiblicalTerm="Y" EntryCode="" Indent="0">
+          <LEXDomains>
+            <LEXDomain Code="002001001042">Quantity</LEXDomain>
+          </LEXDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2010-12-29 12:51:45" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>= a large quantity of water, staying together as one heap as if it were a solid substance</DefinitionShort>
+              <Glosses>
+                <Gloss>heap (of water)</Gloss>
+                <Gloss>mass (of water)</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>00201500800018</LEXReference>
+            <LEXReference>00600301300066</LEXReference>
+            <LEXReference>00600301600022</LEXReference>
+            <LEXReference>01903300700008</LEXReference>
+            <LEXReference>01907801300018</LEXReference>
+            <LEXReference>02301701100022{N:001}</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+          <LEXCoreDomains>
+            <LEXCoreDomain Code="189">Water</LEXCoreDomain>
+          </LEXCoreDomains>
+        </LEXMeaning>
+        <LEXMeaning Id="004645001002000" IsBiblicalTerm="Y" EntryCode="" Indent="0">
+          <LEXDomains>
+            <LEXDomain Code="002001001042">Quantity</LEXDomain>
+          </LEXDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2018-01-15 08:18:13" LastEditedBy="administrator">
+              <DefinitionLong/>
+              <DefinitionShort>= a certain quantity of something, staying together in one place</DefinitionShort>
+              <Glosses>
+                <Gloss>small heap (of plant)</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>02301701100022{N:001}</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+          <LEXCoreDomains>
+            <LEXCoreDomain Code="007">Agriculture</LEXCoreDomain>
+          </LEXCoreDomains>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

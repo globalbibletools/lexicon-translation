@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="005029000000000" Lemma="τρέμω" Version="0" HasAramaic="false" InLXX="true" AlphaPos="τ">
+  <StrongCodes>
+    <Strong>G5141</Strong>
+  </StrongCodes>
+  <Authors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes>
+    <Note Caller="1" LanguageCode="en" LastEdited="" LastEditedBy="">
+      <References/>
+      <Content>It is possible to regard τρέμω[b] ({D:25.259}) and φρίσσω ({D:25.260}) as belonging simultaneously to two quite distinct semantic domains, the one being physiological, that is to say, a type of uncontrolled physical response because of fear or great awe, and a psychological experience of fear or terror. Since, however, it is the latter which gives rise to the former, one would seem to be more justified in treating these meanings as matters of emotive responses rather than as physiological events.</Content>
+    </Note>
+  </Notes>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="005029001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>verb</PartOfSpeech>
+      </PartsOfSpeech>
+      <RelatedLemmas>
+        <RelatedLemma>
+          <Word>ἔντρομος</Word>
+        </RelatedLemma>
+        <RelatedLemma>
+          <Word>τρόμος</Word>
+        </RelatedLemma>
+      </RelatedLemmas>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="005029001001000" IsBiblicalTerm="Y" EntryCode="16.6" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Non-Linear Movement</LEXDomain>
+          </LEXDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2022-04-13 09:02:37" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>to shake or tremble, often with the implication of fear and/or consternation</DefinitionShort>
+              <Glosses>
+                <Gloss>to tremble</Gloss>
+                <Gloss>trembling</Gloss>
+                <Gloss>to quiver</Gloss>
+                <Gloss>to shake</Gloss>
+              </Glosses>
+              <Comments>In a number of languages there are two distinct terms for trembling, one relating to illness (as in the case of epileptic seizures or the chills and fever associated with malaria) and the other associated with fear.</Comments>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04100503300012</LEXReference>
+            <LEXReference>04200804700016</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+        <LEXMeaning Id="005029001002000" IsBiblicalTerm="M" EntryCode="25.259" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Attitudes and Emotions</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Fear, Terror, Alarm</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2022-04-13 09:02:37" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>(a figurative extension of meaning of {L:τρέμω&lt;SDBG:τρέμω:000000&gt;}[a] ‘to tremble,’ {D:16.6}) to be so afraid as to tremble, often with the implication of awe{N:001}</DefinitionShort>
+              <Glosses>
+                <Gloss>to fear</Gloss>
+                <Gloss>to have awesome respect for</Gloss>
+              </Glosses>
+              <Comments>For another interpretation of τρέμω in {S:06100201000034}, see {D:87.14}.</Comments>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>06100201000034</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+        <LEXMeaning Id="005029001003000" IsBiblicalTerm="Y" EntryCode="87.14" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Status</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Honor or Respect in Relation to Status</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2022-04-13 09:02:37" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>to have such awe or respect for a person as to involve a measure of fear</DefinitionShort>
+              <Glosses>
+                <Gloss>to fear</Gloss>
+                <Gloss>to show great reverence for</Gloss>
+                <Gloss>to show great respect for</Gloss>
+              </Glosses>
+              <Comments>In a number of languages there are serious problems involved in speaking of ‘fearing God,’ for this might imply merely ‘to be scared of God’ as though God were some kind of bogeyman. If there is a term with the meaning of ‘awe’ (perhaps in a phrase such as ‘to stand in awe of’), this may be an adequate equivalent. In some instances awe is expressed idiomatically as ‘to stand with one’s heart in one’s throat’ or ‘to be in someone’s presence with one’s heart beating fast.’|For another interpretation of τρέμω in {S:06100201000034}, see {D:25.259}.</Comments>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>06100201000034</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

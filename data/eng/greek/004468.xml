@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="004468000000000" Lemma="σάτον" Version="0" HasAramaic="false" InLXX="true" AlphaPos="σ">
+  <StrongCodes>
+    <Strong>G4568</Strong>
+  </StrongCodes>
+  <Authors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes/>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="004468001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>noun, n.</PartOfSpeech>
+      </PartsOfSpeech>
+      <Inflections>
+        <Inflection Lemma="σάτον" BaseFormIndex="1">
+          <Form/>
+          <Realizations>
+            <Realization>-ου</Realization>
+          </Realizations>
+          <Comments/>
+        </Inflection>
+      </Inflections>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="004468001001000" IsBiblicalTerm="Y" EntryCode="81.23" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Spacial Dimensions</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Specific Measures of Volume</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2022-02-09 19:36:52" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>the Hebrew measure for grain, about a peck and a half or somewhat less than one-half bushel (a bushel consists of four pecks) or approximately twelve liters in the metric system</DefinitionShort>
+              <Glosses>
+                <Gloss>saton</Gloss>
+                <Gloss>measure</Gloss>
+                <Gloss>batch</Gloss>
+              </Glosses>
+              <Comments>In {S:04001303300036} the precise amount of flour is not important. What is important is to provide some type of measurement which will indicate a considerable quantity.</Comments>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04001303300036</LEXReference>
+            <LEXReference>04201302100020</LEXReference>
+          </LEXReferences>
+          <LEXLinks>
+            <LEXLink>realia:11.3.2.1</LEXLink>
+          </LEXLinks>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

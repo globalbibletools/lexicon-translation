@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="001785000000000" Lemma="ἔννοια" Version="0" HasAramaic="false" InLXX="true" AlphaPos="ε">
+  <StrongCodes>
+    <Strong>G1771</Strong>
+  </StrongCodes>
+  <Authors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes/>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="001785001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>noun, f.</PartOfSpeech>
+      </PartsOfSpeech>
+      <Inflections>
+        <Inflection Lemma="ἔννοια" BaseFormIndex="1">
+          <Form/>
+          <Realizations>
+            <Realization>-ας</Realization>
+          </Realizations>
+          <Comments/>
+        </Inflection>
+      </Inflections>
+      <RelatedLemmas>
+        <RelatedLemma>
+          <Word>νοέω</Word>
+        </RelatedLemma>
+      </RelatedLemmas>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="001785001001000" IsBiblicalTerm="Y" EntryCode="30.5" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Think</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>To Think, Thought</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-06-01 10:14:50" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>a particular manner or way of thinking</DefinitionShort>
+              <Glosses>
+                <Gloss>way of thinking</Gloss>
+                <Gloss>disposition</Gloss>
+                <Gloss>manner of thought</Gloss>
+                <Gloss>attitude</Gloss>
+              </Glosses>
+              <Comments>In a number of languages it may be necessary to render ‘way of thinking’ by a clause, for example, ‘how people think.’ In the case of {S:06000400100018}, it may be necessary to translate ‘you too must strengthen yourselves by thinking just like Christ thought.’</Comments>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>06000400100018</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+        <LEXMeaning Id="001785001002000" IsBiblicalTerm="Y" EntryCode="30.66" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Think</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>To Intend, To Purpose, To Plan</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-06-01 10:14:50" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>that which is intended or purposed as the result of thinking</DefinitionShort>
+              <Glosses>
+                <Gloss>intention</Gloss>
+                <Gloss>purpose</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>05800401200060</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="005194000000000" Lemma="ὑστέρημα" Version="0" HasAramaic="false" InLXX="true" AlphaPos="υ">
+  <StrongCodes>
+    <Strong>G5303</Strong>
+  </StrongCodes>
+  <Authors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes>
+    <Note Caller="1" LanguageCode="en" LastEdited="" LastEditedBy="">
+      <References/>
+      <Content>As will be readily noted, the terms ὑστερέω[a] ({D:57.37}), ὑστέρησις ({D:57.37}), and ὑστέρημα[a] ({D:57.38}) occur in contexts implying various degrees of lack, so that in certain contexts one may appropriately translate these terms as in dire need, to be poor, or even to be poverty stricken, but there seems to be no semantically justifiable means by which one may clearly distinguish degrees of lack.</Content>
+    </Note>
+  </Notes>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="005194001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>noun, n.</PartOfSpeech>
+      </PartsOfSpeech>
+      <Inflections>
+        <Inflection Lemma="ὑστέρημα" BaseFormIndex="1">
+          <Form/>
+          <Realizations>
+            <Realization>-τος</Realization>
+          </Realizations>
+          <Comments/>
+        </Inflection>
+      </Inflections>
+      <RelatedLemmas>
+        <RelatedLemma>
+          <Word>ὑστερέω</Word>
+        </RelatedLemma>
+      </RelatedLemmas>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="005194001001000" IsBiblicalTerm="Y" EntryCode="57.38" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Possess, Transfer, Exchange</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Need, Lack</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2022-05-06 08:00:49" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>(derivative of {L:ὑστερέω&lt;SDBG:ὑστερέω:000000&gt;}[a] ‘to be lacking,’ {D:57.37}) that which is lacking in what is essential or needed{N:001}</DefinitionShort>
+              <Glosses>
+                <Gloss>what is lacking</Gloss>
+                <Gloss>what is needed</Gloss>
+              </Glosses>
+              <Comments>In a number of languages the expression of ‘lack’ may be indicated as ‘not to have enough’ or ‘not to possess what one needs’ or ‘not to have what one should have.’</Comments>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04202100400032</LEXReference>
+            <LEXReference>04700801400022</LEXReference>
+            <LEXReference>04700801400042</LEXReference>
+            <LEXReference>04700901200024</LEXReference>
+            <LEXReference>04701100900024</LEXReference>
+            <LEXReference>05000203000032</LEXReference>
+            <LEXReference>05100102400022</LEXReference>
+            <LEXReference>05200301000030</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+        <LEXMeaning Id="005194001002000" IsBiblicalTerm="Y" EntryCode="85.29" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Existence in Space</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Be in a Place</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2022-05-06 08:00:49" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>absence as an element of lack or deficiency</DefinitionShort>
+              <Glosses>
+                <Gloss>absence</Gloss>
+                <Gloss>not be ing present</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04601601700028</LEXReference>
+            <LEXReference>05200301000030</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="001982000000000" Lemma="ἐπιορκέω" Version="0" HasAramaic="false" InLXX="true" AlphaPos="ε">
+  <StrongCodes>
+    <Strong>G1964</Strong>
+  </StrongCodes>
+  <Authors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes/>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="001982001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>verb</PartOfSpeech>
+      </PartsOfSpeech>
+      <RelatedLemmas>
+        <RelatedLemma>
+          <Word>ὁρκίζω</Word>
+        </RelatedLemma>
+      </RelatedLemmas>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="001982001001000" IsBiblicalTerm="M" EntryCode="33.464" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Communication</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Swear, Put Under Oath, Vow</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-06-23 09:33:27" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>to swear that one will do something and then not fulfill the promise</DefinitionShort>
+              <Glosses>
+                <Gloss>to forswear</Gloss>
+                <Gloss>to break an oath</Gloss>
+                <Gloss>to swear and fail to keep</Gloss>
+              </Glosses>
+              <Comments>See also {D:33.465}.</Comments>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04000503300016</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+        <LEXMeaning Id="001982001002000" IsBiblicalTerm="M" EntryCode="33.465" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Communication</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Swear, Put Under Oath, Vow</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-06-23 09:33:27" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>to take an oath that something is true, when in reality one knows that it is false</DefinitionShort>
+              <Glosses>
+                <Gloss>to swear falsely</Gloss>
+                <Gloss>to perjure oneself</Gloss>
+              </Glosses>
+              <Comments>In the one occurrence in the NT of {L:ἐπιορκέω&lt;SDBG:ἐπιορκέω:000000&gt;}[a] ({D:33.464}). In either case, it is often necessary to be quite specific about the meaning and to introduce sufficient information into the context so that the specific aspect of either breaking an oath or swearing falsely will be clear.</Comments>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04000503300016</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

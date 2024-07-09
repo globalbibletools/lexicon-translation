@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="001524000000000" Lemma="εἰλικρινής" Version="0" HasAramaic="false" InLXX="true" AlphaPos="ε">
+  <StrongCodes>
+    <Strong>G1506</Strong>
+  </StrongCodes>
+  <Authors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes>
+    <Note Caller="1" LanguageCode="en" LastEdited="" LastEditedBy="">
+      <References>
+        <Reference>05000101000018</Reference>
+      </References>
+      <Content>It is possible that in {S:05000101000018} εἰλικρινής is to be understood in the sense of moral purity and hence ‘with clean lives’ or ‘without fault.’</Content>
+    </Note>
+  </Notes>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="001524001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>adjc.</PartOfSpeech>
+      </PartsOfSpeech>
+      <Inflections>
+        <Inflection Lemma="εἰλικρινής" BaseFormIndex="1">
+          <Form/>
+          <Realizations>
+            <Realization>-ές</Realization>
+          </Realizations>
+          <Comments/>
+        </Inflection>
+      </Inflections>
+      <Constructs>
+        <Construct Lemma="εἰλικρινής" BaseFormIndex="1">
+          <WordMeaningSet>
+            <Word>ἥλιος</Word>
+          </WordMeaningSet>
+          <WordMeaningSet>
+            <Word>κρίνω</Word>
+          </WordMeaningSet>
+        </Construct>
+      </Constructs>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="001524001001000" IsBiblicalTerm="M" EntryCode="88.41" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Moral and Ethical Qualities and Related Behavior</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Honesty, Sincerity</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-10-27 01:54:12" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>pertaining to being sincere in the sense of having pure motivation</DefinitionShort>
+              <Glosses>
+                <Gloss>sincere</Gloss>
+                <Gloss>without hidden motives</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>05000101000018{N:001}</LEXReference>
+            <LEXReference>06100300100030</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

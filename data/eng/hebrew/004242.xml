@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="004242000000000" Lemma="מַעֲרָכָה" Version="4" HasAramaic="false" InLXX="false" AlphaPos="מ">
+  <StrongCodes>
+    <Strong>H4630</Strong>
+    <Strong>H4634</Strong>
+  </StrongCodes>
+  <Authors>
+    <Author>Reinier de Blois</Author>
+  </Authors>
+  <Contributors/>
+  <AlternateLemmas>
+    <AlternateLemma>מַעֲרָה</AlternateLemma>
+  </AlternateLemmas>
+  <MainLinks/>
+  <Notes>
+    <Note Caller="1" LanguageCode="en" LastEdited="" LastEditedBy="">
+      <References>
+        <Reference>00203903700020</Reference>
+      </References>
+      <Content>RSV NRSV ESV "set" NIV REB "row" NJPS "in due order" NJB "array"</Content>
+    </Note>
+    <Note Caller="2" LanguageCode="en" LastEdited="" LastEditedBy="">
+      <References>
+        <Reference>00700602600030</Reference>
+      </References>
+      <Content>RSV ESV "in due order" NIV NJB "proper" NRSV "in proper order" REB "of the proper pattern" GNT "well-constructed" CEV "layers" | NJPS "on the level ground"</Content>
+    </Note>
+    <Note Caller="3" LanguageCode="en" LastEdited="" LastEditedBy="">
+      <References>
+        <Reference>00901702300036</Reference>
+      </References>
+      <Content>MT-K ממערות | MT-Q מִמַּעַרְכֹות</Content>
+    </Note>
+  </Notes>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="004242001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>nsf</PartOfSpeech>
+      </PartsOfSpeech>
+      <RelatedLemmas>
+        <RelatedLemma>
+          <Word>ערך</Word>
+        </RelatedLemma>
+      </RelatedLemmas>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="004242001001000" IsBiblicalTerm="Y" EntryCode="" Indent="0">
+          <LEXDomains>
+            <LEXDomain Code="002002001001">Arrange</LEXDomain>
+          </LEXDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2006-02-24 17:04:52" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>= state in which objects are arranged in a certain order</DefinitionShort>
+              <Glosses>
+                <Gloss>row</Gloss>
+                <Gloss>layer</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>00203903700020{N:001}</LEXReference>
+            <LEXReference>00700602600030{N:002}</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+        <LEXMeaning Id="004242001002000" IsBiblicalTerm="Y" EntryCode="" Indent="0">
+          <LEXDomains>
+            <LEXDomain Code="002002001001">Arrange</LEXDomain>
+          </LEXDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2006-02-24 17:04:52" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>= state in which a group of soldiers has been arranged strategically</DefinitionShort>
+              <Glosses>
+                <Gloss>battle order</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>01301203900012</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+        <LEXMeaning Id="004242001003000" IsBiblicalTerm="Y" EntryCode="" Indent="0">
+          <LEXDomains>
+            <LEXDomain Code="001001002003004" Source="Arrange" SourceCode="002002001001">Groups</LEXDomain>
+          </LEXDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2022-11-21 13:24:06" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>= a group of soldiers ready for battle</DefinitionShort>
+              <Glosses>
+                <Gloss>army</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>00901700800012</LEXReference>
+            <LEXReference>00901701000016</LEXReference>
+            <LEXReference>00901702100012</LEXReference>
+            <LEXReference>00901702100018</LEXReference>
+            <LEXReference>00901702300036{N:003}</LEXReference>
+            <LEXReference>00901702300040</LEXReference>
+            <LEXReference>00901702600080</LEXReference>
+            <LEXReference>00901703600046</LEXReference>
+            <LEXReference>00901704500054</LEXReference>
+            <LEXReference>00902300300036</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+        <LEXMeaning Id="004242001004000" IsBiblicalTerm="Y" EntryCode="" Indent="0">
+          <LEXDomains>
+            <LEXDomain Code="002002001016" Source="Arrange" SourceCode="002002001001">Space</LEXDomain>
+          </LEXDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2022-11-21 13:24:06" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>= the place where a battle takes place</DefinitionShort>
+              <Glosses>
+                <Gloss>battle field</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>00900400200042</LEXReference>
+            <LEXReference>00900401200014</LEXReference>
+            <LEXReference>00900401600024</LEXReference>
+            <LEXReference>00900401600034</LEXReference>
+            <LEXReference>00901702000066</LEXReference>
+            <LEXReference>00901702200034</LEXReference>
+            <LEXReference>00901704800040</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="004270000000000" Lemma="מִפְקָד" Version="5" HasAramaic="false" InLXX="false" AlphaPos="מ">
+  <StrongCodes>
+    <Strong>H4662</Strong>
+    <Strong>H4663</Strong>
+  </StrongCodes>
+  <Authors>
+    <Author>Reinier de Blois</Author>
+  </Authors>
+  <Contributors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes/>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="004270001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>nsm</PartOfSpeech>
+      </PartsOfSpeech>
+      <RelatedLemmas>
+        <RelatedLemma>
+          <Word>פקד</Word>
+        </RelatedLemma>
+      </RelatedLemmas>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="004270001001000" IsBiblicalTerm="Y" EntryCode="" Indent="0">
+          <LEXDomains>
+            <LEXDomain Code="002004001005">See</LEXDomain>
+          </LEXDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2017-11-06 15:21:05" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>= action by which humans carefully observe a relatively large group of people or objects, ► with the purpose of determining their number, establishing whether everyone is present, or, in the case of an army, to get to know their fighting strength</DefinitionShort>
+              <Glosses>
+                <Gloss>numbering</Gloss>
+                <Gloss>muster</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>01002400900012</LEXReference>
+            <LEXReference>01302100500012</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+          <LEXCoreDomains>
+            <LEXCoreDomain Code="154">Senses</LEXCoreDomain>
+            <LEXCoreDomain Code="138">Quantity</LEXCoreDomain>
+          </LEXCoreDomains>
+        </LEXMeaning>
+        <LEXMeaning Id="004270001002000" IsBiblicalTerm="Y" EntryCode="" Indent="0">
+          <LEXDomains>
+            <LEXDomain Code="002002002008" Source="See" SourceCode="002004001005">Role</LEXDomain>
+          </LEXDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2017-11-06 15:21:05" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>= causative action by which humans give other humans a certain responsibility or position of authority with regards to a group of people</DefinitionShort>
+              <Glosses>
+                <Gloss>appointment</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>01403101300060</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+          <LEXCoreDomains>
+            <LEXCoreDomain Code="015">Authority</LEXCoreDomain>
+          </LEXCoreDomains>
+        </LEXMeaning>
+        <LEXMeaning Id="004270001003000" IsBiblicalTerm="Y" EntryCode="" Indent="1">
+          <LEXDomains>
+            <LEXDomain Code="002002001016" Source="Role" SourceCode="002002002008">Space</LEXDomain>
+          </LEXDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2018-03-19 16:25:09" LastEditedBy="administrator">
+              <DefinitionLong/>
+              <DefinitionShort>= a place that has been designated for a particular purpose</DefinitionShort>
+              <Glosses>
+                <Gloss>appointed place</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>02604302100022</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+          <LEXCoreDomains>
+            <LEXCoreDomain Code="166">Space</LEXCoreDomain>
+          </LEXCoreDomains>
+        </LEXMeaning>
+        <LEXMeaning Id="004270001004000" IsBiblicalTerm="Y" EntryCode="" Indent="0">
+          <LEXDomains>
+            <LEXDomain Code="003001003">Names of Constructions</LEXDomain>
+          </LEXDomains>
+          <LEXCollocations>
+            <LEXCollocation>שַׁעַר מִפְקָד</LEXCollocation>
+          </LEXCollocations>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-01-03 17:09:55" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>= one of the city {L:gates&lt;SDBH:שַׁעַר&gt;} of {L:Jerusalem&lt;SDBH:יְרוּשָׁלַ͏ִם&gt;}</DefinitionShort>
+              <Glosses>
+                <Gloss>Muster Gate</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>01600303100036</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

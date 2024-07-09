@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="003041000000000" Lemma="λευκαίνω" Version="0" HasAramaic="false" InLXX="true" AlphaPos="λ">
+  <StrongCodes>
+    <Strong>G3021</Strong>
+  </StrongCodes>
+  <Authors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes/>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="003041001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>verb</PartOfSpeech>
+      </PartsOfSpeech>
+      <Inflections>
+        <Inflection Lemma="λευκαίνω" BaseFormIndex="1">
+          <Form>aor.</Form>
+          <Realizations>
+            <Realization>ἐλεύκανα</Realization>
+          </Realizations>
+          <Comments/>
+        </Inflection>
+        <Inflection Lemma="λευκαίνω" BaseFormIndex="1">
+          <Form>inf.</Form>
+          <Realizations>
+            <Realization>λευκᾶναι</Realization>
+          </Realizations>
+          <Comments/>
+        </Inflection>
+      </Inflections>
+      <RelatedLemmas>
+        <RelatedLemma>
+          <Word>λευκός</Word>
+        </RelatedLemma>
+      </RelatedLemmas>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="003041001001000" IsBiblicalTerm="Y" EntryCode="79.28" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Features of Objects</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Color</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-11-05 20:03:32" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>to cause something to become white</DefinitionShort>
+              <Glosses>
+                <Gloss>to make white</Gloss>
+                <Gloss>to whiten</Gloss>
+              </Glosses>
+              <Comments>This statement in {S:06600701400052} may raise numerous difficulties for receptors, since blood would not be regarded as an instrument for making anything white. It may be necessary, therefore, to introduce a marginal note explaining the figurative language and suggesting the rendering ‘to make them pure.’</Comments>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04100900300034</LEXReference>
+            <LEXReference>06600701400052</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

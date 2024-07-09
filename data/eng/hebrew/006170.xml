@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="006170000000000" Lemma="צָחִיחַ" Version="5" HasAramaic="false" InLXX="false" AlphaPos="צ">
+  <StrongCodes>
+    <Strong>H6706</Strong>
+    <Strong>H6708</Strong>
+  </StrongCodes>
+  <Authors>
+    <Author>Graham S. Ogden</Author>
+  </Authors>
+  <Contributors/>
+  <AlternateLemmas>
+    <AlternateLemma>צְחִיחִי</AlternateLemma>
+  </AlternateLemmas>
+  <MainLinks/>
+  <Notes>
+    <Note Caller="1" LanguageCode="en" LastEdited="" LastEditedBy="">
+      <References>
+        <Reference>01600400700030</Reference>
+      </References>
+      <Content>MT-K צחחיים | MT-Q צְחִיחִים</Content>
+    </Note>
+  </Notes>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="006170001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>nsc</PartOfSpeech>
+        <PartOfSpeech>nsm (1)</PartOfSpeech>
+      </PartsOfSpeech>
+      <RelatedLemmas>
+        <RelatedLemma>
+          <Word>צחח</Word>
+        </RelatedLemma>
+      </RelatedLemmas>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="006170001001000" IsBiblicalTerm="Y" EntryCode="" Indent="0">
+          <LEXDomains>
+            <LEXDomain Code="001005002002003" Source="Shine" SourceCode="002001001049">Landscapes</LEXDomain>
+          </LEXDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2017-11-09 14:27:51" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>= area with an even surface without vegetation, ► so that all objects located there are clearly visible</DefinitionShort>
+              <Glosses>
+                <Gloss>bare surface</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>02602400700014</LEXReference>
+            <LEXReference>02602400800022</LEXReference>
+            <LEXReference>02602600400032</LEXReference>
+            <LEXReference>02602601400008</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+        <LEXMeaning Id="006170001002000" IsBiblicalTerm="Y" EntryCode="" Indent="0">
+          <LEXDomains>
+            <LEXDomain Code="002001001039">Open</LEXDomain>
+          </LEXDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2017-11-09 14:27:51" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>= an unprotected place that is easily accessible</DefinitionShort>
+              <Glosses>
+                <Gloss>open place</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>01600400700034{N:001}</LEXReference>
+            <LEXReference>01600400700036</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

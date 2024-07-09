@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="005747000000000" Lemma="עָתִיד" Version="5" HasAramaic="false" InLXX="false" AlphaPos="ע">
+  <StrongCodes>
+    <Strong>H6264</Strong>
+  </StrongCodes>
+  <Authors>
+    <Author>Reinier de Blois</Author>
+  </Authors>
+  <Contributors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes>
+    <Note Caller="1" LanguageCode="en" LastEdited="" LastEditedBy="">
+      <References>
+        <Reference>01700801300048</Reference>
+      </References>
+      <Content>MT-K עתודים | MT-Q עֲתִידִים</Content>
+    </Note>
+    <Note Caller="2" LanguageCode="en" LastEdited="" LastEditedBy="">
+      <References>
+        <Reference>02301001300034</Reference>
+      </References>
+      <Content>MT-K ועתידתיהם | MT-Q וַעֲתוּדֹותֵיהֶם = {L:עָתוּד&lt;SDBH:עָתוּד&gt;}</Content>
+    </Note>
+  </Notes>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="005747001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>aj</PartOfSpeech>
+      </PartsOfSpeech>
+      <RelatedLemmas>
+        <RelatedLemma>
+          <Word>עתד</Word>
+        </RelatedLemma>
+      </RelatedLemmas>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="005747001001000" IsBiblicalTerm="Y" EntryCode="" Indent="0">
+          <LEXDomains>
+            <LEXDomain Code="002001002021">Ready</LEXDomain>
+          </LEXDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2017-01-04 09:11:18" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>= state in which someone is prepared for an event</DefinitionShort>
+              <Glosses>
+                <Gloss>ready</Gloss>
+                <Gloss>prepared</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>01700301400038</LEXReference>
+            <LEXReference>01700801300048{N:001}</LEXReference>
+            <LEXReference>01700801300050</LEXReference>
+            <LEXReference>01800300800010</LEXReference>
+            <LEXReference>01801502400016</LEXReference>
+            <LEXReference>02301001300034{N:002}</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+        <LEXMeaning Id="005747001002000" IsBiblicalTerm="Y" EntryCode="" Indent="0">
+          <LEXDomains>
+            <LEXDomain Code="002" Source="Ready" SourceCode="002001002021">Events</LEXDomain>
+          </LEXDomains>
+          <LEXForms>
+            <LEXForm>afp</LEXForm>
+          </LEXForms>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2017-01-04 09:11:18" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>exact meaning unsure: = pertaining to being destined to take place; ≈ associated with negative events such as disaster and destruction</DefinitionShort>
+              <Glosses>
+                <Gloss>destiny</Gloss>
+                <Gloss>doom</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>00503203500030</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="000103000000000" Lemma="אֲגַף" Version="5" HasAramaic="false" InLXX="false" AlphaPos="א">
+  <StrongCodes>
+    <Strong>H0102</Strong>
+  </StrongCodes>
+  <Authors>
+    <Author>Reinier de Blois</Author>
+  </Authors>
+  <Contributors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes/>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="000103001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>nsm</PartOfSpeech>
+      </PartsOfSpeech>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="000103001001000" IsBiblicalTerm="M" EntryCode="" Indent="0">
+          <LEXDomains>
+            <LEXDomain Code="001001002003004">Groups</LEXDomain>
+            <LEXDomain Code="001001002003013">Soldiers</LEXDomain>
+          </LEXDomains>
+          <LEXForms>
+            <LEXForm>ncmp</LEXForm>
+          </LEXForms>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2010-06-28 09:55:40" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>= group of soldiers</DefinitionShort>
+              <Glosses>
+                <Gloss>army</Gloss>
+                <Gloss>troops</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>02601201400018</LEXReference>
+            <LEXReference>02601702100016</LEXReference>
+            <LEXReference>02603800600008</LEXReference>
+            <LEXReference>02603800600024</LEXReference>
+            <LEXReference>02603800900036</LEXReference>
+            <LEXReference>02603802200044</LEXReference>
+            <LEXReference>02603900400016</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+          <LEXCoreDomains>
+            <LEXCoreDomain Code="188">Warfare</LEXCoreDomain>
+          </LEXCoreDomains>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

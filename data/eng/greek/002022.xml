@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="002022000000000" Lemma="ἐπιταγή" Version="0" HasAramaic="false" InLXX="true" AlphaPos="ε">
+  <StrongCodes>
+    <Strong>G2003</Strong>
+  </StrongCodes>
+  <Authors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes/>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="002022001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>noun, f.</PartOfSpeech>
+      </PartsOfSpeech>
+      <Inflections>
+        <Inflection Lemma="ἐπιταγή" BaseFormIndex="1">
+          <Form/>
+          <Realizations>
+            <Realization>-ῆς</Realization>
+          </Realizations>
+          <Comments/>
+        </Inflection>
+      </Inflections>
+      <RelatedLemmas>
+        <RelatedLemma>
+          <Word>τάσσω</Word>
+        </RelatedLemma>
+      </RelatedLemmas>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="002022001001000" IsBiblicalTerm="M" EntryCode="33.326" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Communication</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Command, Order</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-06-29 11:04:33" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>(derivative of {L:ἐπιτάσσω&lt;SDBG:ἐπιτάσσω:000000&gt;} ‘to order, to instruct,’ {D:33.325}) that which has been specifically ordered or commanded</DefinitionShort>
+              <Glosses>
+                <Gloss>order</Gloss>
+                <Gloss>command</Gloss>
+                <Gloss>decree</Gloss>
+                <Gloss>ordinance</Gloss>
+                <Gloss>instruction</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04501602600018</LEXReference>
+            <LEXReference>04600700600016</LEXReference>
+            <LEXReference>04600702500010</LEXReference>
+            <LEXReference>04700800800006</LEXReference>
+            <LEXReference>05400100100012</LEXReference>
+            <LEXReference>05600100300028</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+        <LEXMeaning Id="002022001002000" IsBiblicalTerm="M" EntryCode="37.42" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Control, Rule</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Exercise Authority</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-06-29 11:04:33" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>the right or authority to command</DefinitionShort>
+              <Glosses>
+                <Gloss>right to command</Gloss>
+                <Gloss>authority to command</Gloss>
+                <Gloss>authority</Gloss>
+              </Glosses>
+              <Comments>It is also possible to translate this expression in {S:05600201500018} as ‘show that you have every right to command when you rebuke them.’</Comments>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>05600201500018</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="005025000000000" Lemma="τράχηλος" Version="0" HasAramaic="false" InLXX="true" AlphaPos="τ">
+  <StrongCodes>
+    <Strong>G5137</Strong>
+  </StrongCodes>
+  <Authors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes/>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="005025001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>noun, m.</PartOfSpeech>
+      </PartsOfSpeech>
+      <Inflections>
+        <Inflection Lemma="τράχηλος" BaseFormIndex="1">
+          <Form/>
+          <Realizations>
+            <Realization>-ου</Realization>
+          </Realizations>
+          <Comments/>
+        </Inflection>
+      </Inflections>
+      <RelatedLemmas>
+        <RelatedLemma>
+          <Word>τραχηλίζομαι</Word>
+        </RelatedLemma>
+      </RelatedLemmas>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="005025001001000" IsBiblicalTerm="Y" EntryCode="8.25" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Body, Body Parts, and Body Products</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Parts of the Body</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2022-04-13 08:58:16" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort/>
+              <Glosses>
+                <Gloss>neck</Gloss>
+              </Glosses>
+              <Comments>τράχηλος also occurs in the NT in certain idiomatic expressions, for example, ‘to fall on the neck of someone’ ({S:04201502000050} and {S:04402003700020}) in the sense of ‘to embrace’ ({D:34.64}), and ‘to put down their necks’ ({S:04501600400016}) meaning ‘to risk their lives’ ({D:21.8}). It is rare indeed that one can translate such idioms literally, since ‘to fall on the neck of someone’ may readily suggest a murderous attack, and ‘to risk one’s neck’ may be simply meaningless, since the custom of beheading as a means of execution may be relatively unknown.</Comments>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04001800600042</LEXReference>
+            <LEXReference>04100904200046</LEXReference>
+            <LEXReference>04201502000050</LEXReference>
+            <LEXReference>04201700200018</LEXReference>
+            <LEXReference>04401501000022</LEXReference>
+            <LEXReference>04402003700020</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+        <LEXMeaning Id="005025001002000" IsBiblicalTerm="Y" EntryCode="21.8" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Danger, Risk, Safe, Save</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Expose Oneself to Danger</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXCollocations>
+            <LEXCollocation>τράχηλον ὑποτίθημι</LEXCollocation>
+          </LEXCollocations>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2022-04-13 08:58:16" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>(an idiom, literally: to put down the neck) willingly and purposely to expose oneself to extreme danger and risk</DefinitionShort>
+              <Glosses>
+                <Gloss>to risk one’s life</Gloss>
+              </Glosses>
+              <Comments>In some instances one can translate this expression in {S:04501600400016} as ‘who showed they were willing to die in order that I could live’ or ‘in order to help me continue to live, they almost died.’</Comments>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04501600400016</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

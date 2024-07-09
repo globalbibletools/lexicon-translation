@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="000676000000000" Lemma="ἀπωθέω" Version="0" HasAramaic="false" InLXX="true" AlphaPos="α">
+  <StrongCodes>
+    <Strong>G0683</Strong>
+  </StrongCodes>
+  <Authors/>
+  <AlternateLemmas>
+    <AlternateLemma>ἀπωθέομαι</AlternateLemma>
+  </AlternateLemmas>
+  <MainLinks/>
+  <Notes/>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="000676001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>verb</PartOfSpeech>
+      </PartsOfSpeech>
+      <RelatedLemmas>
+        <RelatedLemma>
+          <Word>ὠθέω</Word>
+          <Meaning LanguageCode="en">
+            <Meaning>push</Meaning>
+          </Meaning>
+          <Meaning LanguageCode="zhT">
+            <Meaning>推</Meaning>
+          </Meaning>
+        </RelatedLemma>
+      </RelatedLemmas>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="000676001001000" IsBiblicalTerm="Y" EntryCode="15.46" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Linear Movement</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Leave, Depart, Flee, Escape, Send</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXForms>
+            <LEXForm>ἀπωθέομαι[a]</LEXForm>
+          </LEXForms>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2022-09-09 15:28:10" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>to use force in pushing or thrusting someone or something away or aside</DefinitionShort>
+              <Glosses>
+                <Gloss>to push away</Gloss>
+                <Gloss>to thrust aside</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04400702700012</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+        <LEXMeaning Id="000676001002000" IsBiblicalTerm="M" EntryCode="31.63" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Hold a View, Believe, Trust</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Change an Opinion Concerning Truth</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXForms>
+            <LEXForm>ἀπωθέομαι[b]</LEXForm>
+          </LEXForms>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2022-09-09 15:28:10" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>(a figurative extension of meaning of {L:ἀπωθέω&lt;SDBG:ἀπωθέω:000000&gt;}[a] ‘to push away,’ {D:15.46}) to no longer pay attention to previous beliefs</DefinitionShort>
+              <Glosses>
+                <Gloss>to refuse to listen to</Gloss>
+                <Gloss>to reject</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04400703900020</LEXReference>
+            <LEXReference>04401304600038</LEXReference>
+            <LEXReference>04501100100008</LEXReference>
+            <LEXReference>04501100200004</LEXReference>
+            <LEXReference>05400101900016</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>
