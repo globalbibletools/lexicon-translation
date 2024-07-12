@@ -19,17 +19,17 @@ export function activate(context: vscode.ExtensionContext) {
     lemmaTreeDataProvider
   );
 
-  // Register the command to open a file
-  let disposable = vscode.commands.registerCommand(
-    "extension.openFile",
-    (filePath) => {
-      vscode.workspace.openTextDocument(filePath).then((doc) => {
-        vscode.window.showTextDocument(doc);
-      });
-    }
-  );
+  // // Register the command to open a file
+  // let disposable = vscode.commands.registerCommand(
+  //   "extension.openFile",
+  //   (filePath) => {
+  //     vscode.workspace.openTextDocument(filePath).then((doc) => {
+  //       vscode.window.showTextDocument(doc);
+  //     });
+  //   }
+  // );
 
-  context.subscriptions.push(disposable);
+  // context.subscriptions.push(disposable);
 }
 
 // This method is called when your extension is deactivated

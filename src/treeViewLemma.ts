@@ -105,10 +105,10 @@ export class Entry extends vscode.TreeItem {
         const command =
           item.level === 4
             ? {
-                command: "extension.openFile",
+                command: "vscode.open",
                 title: "Open File",
                 arguments: [
-                  `${Entry.rootPath}/data/eng/${language}/${item.fileName}${wordExtension}`,
+                  `file:///${Entry.rootPath}/data/eng/${language}/${item.fileName}${wordExtension}`,
                 ],
               }
             : undefined;

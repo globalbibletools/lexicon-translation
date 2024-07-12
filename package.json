@@ -20,13 +20,7 @@
           "name": "Find by Lemma"
         }
       ]
-    },
-    "commands": [
-      {
-        "command": "extension.openFile",
-        "title": "Open File"
-      }
-    ]
+    }
   },
   "scripts": {
     "vscode:prepublish": "npm run package",
