@@ -51,11 +51,11 @@ async function createNewProject() {
         vscode.window.showInformationMessage("Cancelled project creation");
         return;
     }
-    const username = await vscode.window.showInputBox({
+    const userName = await vscode.window.showInputBox({
         prompt: "[2/4] Enter your username",
         ignoreFocusOut: true,
     });
-    if (!username) {
+    if (!userName) {
         vscode.window.showInformationMessage("Cancelled project creation");
         return;
     }
@@ -96,7 +96,7 @@ async function createNewProject() {
         }
     }
     try {
-        await vscode.workspace.fs.writeFile(vscode.Uri.joinPath(projectUri, "metadata.json"), new Uint8Array());
+        await vscode.workspace.fs.writeFile(vscode.Uri.joinPath(projectUri, "metadata.json"), buildMetadata({ projectName, userName, sourceLanguage, targetLanguage }));
         await vscode.workspace.fs.createDirectory(vscode.Uri.joinPath(projectUri, "files", "source", "hebrew"));
         await vscode.workspace.fs.createDirectory(vscode.Uri.joinPath(projectUri, "files", "source", "greek"));
         await vscode.workspace.fs.createDirectory(vscode.Uri.joinPath(projectUri, "files", "target", "hebrew"));
@@ -110,12 +110,9 @@ async function createNewProject() {
     const sourceLanguageData = (await (await fetch(data.find((folder) => folder.name === sourceLanguage.tag)?.url ?? "")).json());
     const hebrewData = (await (await fetch(sourceLanguageData.find((folder) => folder.name === "hebrew").url)).json());
     const greekData = (await (await fetch(sourceLanguageData.find((folder) => folder.name === "greek").url)).json());
-    console.log(hebrewData[0].url);
     const hebrewEntries = await Promise.all(hebrewData
         .slice(0, 1)
         .map((file) => fetch(file.url).then((response) => response.json())));
-    console.log(hebrewEntries);
-    // vscode.window.showInformationMessage("Fetching greek entries...");
     const greekEntries = await Promise.all(greekData
         .slice(0, 1)
         .map((file) => fetch(file.url).then((response) => response.json())));
@@ -123,17 +120,33 @@ async function createNewProject() {
         const sourceHebrewUri = vscode.Uri.joinPath(projectUri, "files", "source", "hebrew");
         const targetHebrewUri = vscode.Uri.joinPath(projectUri, "files", "target", "hebrew");
         vscode.workspace.fs.writeFile(vscode.Uri.joinPath(sourceHebrewUri, hebrewEntries[0].name), Buffer.from(hebrewEntries[0].content, "base64"));
-        await Promise.all(hebrewEntries.flatMap((entry) => [
-            vscode.workspace.fs.writeFile(vscode.Uri.joinPath(sourceHebrewUri, entry.name), Buffer.from(entry.content, "base64")),
-            vscode.workspace.fs.writeFile(vscode.Uri.joinPath(targetHebrewUri, entry.name), new Uint8Array()),
-        ]));
+        // await Promise.all(
+        //   hebrewEntries.flatMap((entry) => [
+        //     vscode.workspace.fs.writeFile(
+        //       vscode.Uri.joinPath(sourceHebrewUri, entry.name),
+        //       Buffer.from(entry.content, "base64")
+        //     ),
+        //     vscode.workspace.fs.writeFile(
+        //       vscode.Uri.joinPath(targetHebrewUri, entry.name),
+        //       new Uint8Array()
+        //     ),
+        //   ])
+        // );
         const sourceGreekUri = vscode.Uri.joinPath(projectUri, "files", "source", "greek");
         const targetGreekUri = vscode.Uri.joinPath(projectUri, "files", "target", "greek");
         vscode.workspace.fs.writeFile(vscode.Uri.joinPath(sourceGreekUri, greekEntries[0].name), Buffer.from(greekEntries[0].content, "base64"));
-        await Promise.all(greekEntries.flatMap((entry) => [
-            vscode.workspace.fs.writeFile(vscode.Uri.joinPath(sourceGreekUri, entry.name), Buffer.from(entry.content, "base64")),
-            vscode.workspace.fs.writeFile(vscode.Uri.joinPath(targetGreekUri, entry.name), new Uint8Array()),
-        ]));
+        // await Promise.all(
+        //   greekEntries.flatMap((entry) => [
+        //     vscode.workspace.fs.writeFile(
+        //       vscode.Uri.joinPath(sourceGreekUri, entry.name),
+        //       Buffer.from(entry.content, "base64")
+        //     ),
+        //     vscode.workspace.fs.writeFile(
+        //       vscode.Uri.joinPath(targetGreekUri, entry.name),
+        //       new Uint8Array()
+        //     ),
+        //   ])
+        // );
     }
     catch (e) {
         console.log(`Error: ${e}`);
@@ -147,6 +160,30 @@ async function createNewProject() {
     else {
         await vscode.window.showInformationMessage("Success! Project created!");
     }
+}
+function buildMetadata(details) {
+    return Buffer.from(JSON.stringify({
+        format: "scripture burrito",
+        projectName: details.projectName,
+        meta: {
+            dateCreated: new Date().toISOString(),
+            generator: {
+                userName: details.userName,
+            },
+            defaultLocale: "en",
+            normalization: "NFC",
+        },
+        identification: { name: { en: details.projectName } },
+        languages: [{ tag: details.targetLanguage.tag }],
+        type: {
+            flavorType: {
+                name: "peripheral",
+                flavor: {
+                    name: "lexicon",
+                },
+            },
+        },
+    }, null, 2));
 }
 // This method is called when your extension is deactivated
 function deactivate() { }

@@ -35,11 +35,11 @@ async function createNewProject() {
     return;
   }
 
-  const username = await vscode.window.showInputBox({
+  const userName = await vscode.window.showInputBox({
     prompt: "[2/4] Enter your username",
     ignoreFocusOut: true,
   });
-  if (!username) {
+  if (!userName) {
     vscode.window.showInformationMessage("Cancelled project creation");
     return;
   }
@@ -100,7 +100,7 @@ async function createNewProject() {
   try {
     await vscode.workspace.fs.writeFile(
       vscode.Uri.joinPath(projectUri, "metadata.json"),
-      new Uint8Array()
+      buildMetadata({ projectName, userName, sourceLanguage, targetLanguage })
     );
     await vscode.workspace.fs.createDirectory(
       vscode.Uri.joinPath(projectUri, "files", "source", "hebrew")
@@ -139,17 +139,12 @@ async function createNewProject() {
     )
   ).json()) as any;
 
-  console.log(hebrewData[0].url);
-
   const hebrewEntries = await Promise.all(
     hebrewData
       .slice(0, 1)
       .map((file: any) => fetch(file.url).then((response) => response.json()))
   );
 
-  console.log(hebrewEntries);
-
-  // vscode.window.showInformationMessage("Fetching greek entries...");
   const greekEntries = await Promise.all(
     greekData
       .slice(0, 1)
@@ -173,18 +168,18 @@ async function createNewProject() {
       vscode.Uri.joinPath(sourceHebrewUri, hebrewEntries[0].name),
       Buffer.from(hebrewEntries[0].content, "base64")
     );
-    await Promise.all(
-      hebrewEntries.flatMap((entry) => [
-        vscode.workspace.fs.writeFile(
-          vscode.Uri.joinPath(sourceHebrewUri, entry.name),
-          Buffer.from(entry.content, "base64")
-        ),
-        vscode.workspace.fs.writeFile(
-          vscode.Uri.joinPath(targetHebrewUri, entry.name),
-          new Uint8Array()
-        ),
-      ])
-    );
+    // await Promise.all(
+    //   hebrewEntries.flatMap((entry) => [
+    //     vscode.workspace.fs.writeFile(
+    //       vscode.Uri.joinPath(sourceHebrewUri, entry.name),
+    //       Buffer.from(entry.content, "base64")
+    //     ),
+    //     vscode.workspace.fs.writeFile(
+    //       vscode.Uri.joinPath(targetHebrewUri, entry.name),
+    //       new Uint8Array()
+    //     ),
+    //   ])
+    // );
 
     const sourceGreekUri = vscode.Uri.joinPath(
       projectUri,
@@ -202,18 +197,18 @@ async function createNewProject() {
       vscode.Uri.joinPath(sourceGreekUri, greekEntries[0].name),
       Buffer.from(greekEntries[0].content, "base64")
     );
-    await Promise.all(
-      greekEntries.flatMap((entry) => [
-        vscode.workspace.fs.writeFile(
-          vscode.Uri.joinPath(sourceGreekUri, entry.name),
-          Buffer.from(entry.content, "base64")
-        ),
-        vscode.workspace.fs.writeFile(
-          vscode.Uri.joinPath(targetGreekUri, entry.name),
-          new Uint8Array()
-        ),
-      ])
-    );
+    // await Promise.all(
+    //   greekEntries.flatMap((entry) => [
+    //     vscode.workspace.fs.writeFile(
+    //       vscode.Uri.joinPath(sourceGreekUri, entry.name),
+    //       Buffer.from(entry.content, "base64")
+    //     ),
+    //     vscode.workspace.fs.writeFile(
+    //       vscode.Uri.joinPath(targetGreekUri, entry.name),
+    //       new Uint8Array()
+    //     ),
+    //   ])
+    // );
   } catch (e) {
     console.log(`Error: ${e}`);
   }
@@ -231,6 +226,42 @@ async function createNewProject() {
   } else {
     await vscode.window.showInformationMessage("Success! Project created!");
   }
+}
+
+function buildMetadata(details: {
+  projectName: string;
+  userName: string;
+  sourceLanguage: { tag: string };
+  targetLanguage: { tag: string };
+}): Buffer {
+  return Buffer.from(
+    JSON.stringify(
+      {
+        format: "scripture burrito",
+        projectName: details.projectName,
+        meta: {
+          dateCreated: new Date().toISOString(),
+          generator: {
+            userName: details.userName,
+          },
+          defaultLocale: "en",
+          normalization: "NFC",
+        },
+        identification: { name: { en: details.projectName } },
+        languages: [{ tag: details.targetLanguage.tag }],
+        type: {
+          flavorType: {
+            name: "peripheral",
+            flavor: {
+              name: "lexicon",
+            },
+          },
+        },
+      },
+      null,
+      2
+    )
+  );
 }
 
 // This method is called when your extension is deactivated
