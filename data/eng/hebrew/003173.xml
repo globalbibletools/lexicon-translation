@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="003173000000000" Lemma="יָשֵׁן" Version="5" HasAramaic="false" InLXX="false" AlphaPos="י">
+  <StrongCodes>
+    <Strong>H3463</Strong>
+    <Strong>H3464</Strong>
+  </StrongCodes>
+  <Authors>
+    <Author>Reinier de Blois</Author>
+  </Authors>
+  <Contributors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes>
+    <Note Caller="1" LanguageCode="en" LastEdited="" LastEditedBy="">
+      <References>
+        <Reference>02200701000028</Reference>
+      </References>
+      <Content>MT HOTTP-C NJPS NJB | RSV NIV REB NRSV GNT ושׁנים "and teeth" = {L:שֵׁן&lt;SDBH:שֵׁן&gt;}</Content>
+    </Note>
+    <Note Caller="2" LanguageCode="en" LastEdited="" LastEditedBy="">
+      <References>
+        <Reference>02800700600024</Reference>
+      </References>
+      <Content>MT HOTTP-B NJPS "has slept" | RSV NIV NRSV CEV "smolders" NJB REB "slumbers" GNT "smoldered"</Content>
+    </Note>
+  </Notes>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="003173001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>aj</PartOfSpeech>
+      </PartsOfSpeech>
+      <RelatedLemmas>
+        <RelatedLemma>
+          <Word>ישׁן</Word>
+        </RelatedLemma>
+      </RelatedLemmas>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="003173001001000" IsBiblicalTerm="Y" EntryCode="" Indent="0">
+          <LEXDomains>
+            <LEXDomain Code="002001001004">Asleep</LEXDomain>
+          </LEXDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2018-01-15 04:54:47" LastEditedBy="administrator">
+              <DefinitionLong/>
+              <DefinitionShort>= state in which humans are asleep; ≈ sometimes associated with death, sometimes with being inactive</DefinitionShort>
+              <Glosses>
+                <Gloss>sleeping</Gloss>
+                <Gloss>asleep</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>00902600700028</LEXReference>
+            <LEXReference>00902601200056</LEXReference>
+            <LEXReference>01100302000030</LEXReference>
+            <LEXReference>01101802700060</LEXReference>
+            <LEXReference>01907806500008</LEXReference>
+            <LEXReference>02200500200004</LEXReference>
+            <LEXReference>02200701000028{N:001}</LEXReference>
+            <LEXReference>02701200200008</LEXReference>
+            <LEXReference>02800700600024{N:002}</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+          <LEXCoreDomains>
+            <LEXCoreDomain Code="164">Sleeping</LEXCoreDomain>
+          </LEXCoreDomains>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+    <BaseForm Id="003173002000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>np</PartOfSpeech>
+      </PartsOfSpeech>
+      <MeaningsOfName>
+        <MeaningOfName LanguageCode="pt">
+          <Meaning>dorminhoco</Meaning>
+        </MeaningOfName>
+      </MeaningsOfName>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="003173002001000" IsBiblicalTerm="Y" EntryCode="" Indent="0">
+          <LEXDomains>
+            <LEXDomain Code="003001007">Names of People</LEXDomain>
+          </LEXDomains>
+          <LEXSynonyms>
+            <LEXSynonym>הָשֵׁם</LEXSynonym>
+          </LEXSynonyms>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2015-10-29 20:09:32" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>= man, also known as {L:Hashem&lt;SDBH:הָשֵׁם&gt;}; ► father of warriors; time of king {L:David&lt;SDBH:דָּוִד&gt;}</DefinitionShort>
+              <Glosses>
+                <Gloss>Jashen</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>01002303200010</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

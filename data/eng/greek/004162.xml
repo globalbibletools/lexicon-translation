@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="004162000000000" Lemma="προβατικός" Version="0" HasAramaic="false" InLXX="true" AlphaPos="π">
+  <StrongCodes>
+    <Strong>G4262</Strong>
+  </StrongCodes>
+  <Authors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes/>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="004162001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>adjc.</PartOfSpeech>
+      </PartsOfSpeech>
+      <Inflections>
+        <Inflection Lemma="προβατικός" BaseFormIndex="1">
+          <Form/>
+          <Realizations>
+            <Realization>-ή, -όν</Realization>
+          </Realizations>
+          <Comments/>
+        </Inflection>
+      </Inflections>
+      <RelatedLemmas>
+        <RelatedLemma>
+          <Word>βαίνω</Word>
+          <Meaning LanguageCode="en">
+            <Meaning>go, walk</Meaning>
+          </Meaning>
+          <Meaning LanguageCode="zhT">
+            <Meaning>走，走路</Meaning>
+          </Meaning>
+        </RelatedLemma>
+      </RelatedLemmas>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="004162001001000" IsBiblicalTerm="Y" EntryCode="4.23" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Animals</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Animals</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2022-02-02 16:48:51" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>(derivative of {L:πρόβατον&lt;SDBG:πρόβατον:000000&gt;} ‘sheep,’ {D:4.22}) pertaining to sheep</DefinitionShort>
+              <Glosses>
+                <Gloss>of sheep</Gloss>
+              </Glosses>
+              <Comments>The phrase ἐπὶ τῇ προβατικῇ is an elliptical expression in which the noun for ‘gate’ (which is feminine in gender) is omitted. The phrase ‘at the Sheep Gate’ may be rendered in some languages as ‘close to the gate of the city through which sheep entered’ or ‘… were driven’ or ‘… were led.’</Comments>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04300500200016</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

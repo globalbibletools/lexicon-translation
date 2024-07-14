@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="000848000000000" Lemma="ἀφαιρέω" Version="0" HasAramaic="false" InLXX="true" AlphaPos="α">
+  <StrongCodes>
+    <Strong>G0851</Strong>
+  </StrongCodes>
+  <Authors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes>
+    <Note Caller="1" LanguageCode="en" LastEdited="" LastEditedBy="">
+      <References/>
+      <Content>It would also be possible to classify the meanings of ἀποτίθημι[a] and ἀφαιρέω[a] in Domain 15 Linear Movement, but in a number of contexts the focus seems not to be primarily upon the movement but upon the removal from a particular location. In other words, the focus is upon the absence of an object from a place rather than the movement involved in removal.</Content>
+    </Note>
+    <Note Caller="2" LanguageCode="en" LastEdited="" LastEditedBy="">
+      <References/>
+      <Content>There are undoubtedly some significant differences of meaning in this series in {D:13.38}, but it is not possible to determine the distinctive differences on the basis of existing contexts.</Content>
+    </Note>
+  </Notes>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="000848001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>verb</PartOfSpeech>
+      </PartsOfSpeech>
+      <Inflections>
+        <Inflection Lemma="ἀφαιρέω" BaseFormIndex="1">
+          <Form>fut.</Form>
+          <Realizations>
+            <Realization>ἀφελῶ</Realization>
+          </Realizations>
+          <Comments/>
+        </Inflection>
+        <Inflection Lemma="ἀφαιρέω" BaseFormIndex="1">
+          <Form>aor.</Form>
+          <Realizations>
+            <Realization>ἀφεῖλον</Realization>
+          </Realizations>
+          <Comments/>
+        </Inflection>
+        <Inflection Lemma="ἀφαιρέω" BaseFormIndex="1">
+          <Form>inf.</Form>
+          <Realizations>
+            <Realization>ἀφελεῖν</Realization>
+          </Realizations>
+          <Comments/>
+        </Inflection>
+        <Inflection Lemma="ἀφαιρέω" BaseFormIndex="1">
+          <Form>aor.midd.subj.</Form>
+          <Realizations>
+            <Realization>ἀφέλομαι</Realization>
+          </Realizations>
+          <Comments/>
+        </Inflection>
+      </Inflections>
+      <RelatedLemmas>
+        <RelatedLemma>
+          <Word>αἱρέομαι</Word>
+          <Meaning LanguageCode="en">
+            <Meaning>take up</Meaning>
+          </Meaning>
+          <Meaning LanguageCode="zhT">
+            <Meaning>拿起</Meaning>
+          </Meaning>
+        </RelatedLemma>
+      </RelatedLemmas>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="000848001001000" IsBiblicalTerm="Y" EntryCode="85.44" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Existence in Space</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Put, Place</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-08-17 16:06:43" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>to put or take something away from its normal location{N:001}</DefinitionShort>
+              <Glosses>
+                <Gloss>to put away</Gloss>
+                <Gloss>to put out of the way</Gloss>
+                <Gloss>to remove</Gloss>
+              </Glosses>
+              <Comments>In the context of {S:04202205000024} it may be far more appropriate to translate ‘and he cut off his right ear.’</Comments>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04002605100040</LEXReference>
+            <LEXReference>04101404700030</LEXReference>
+            <LEXReference>04202205000024</LEXReference>
+            <LEXReference>06602201900026</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+        <LEXMeaning Id="000848001002000" IsBiblicalTerm="Y" EntryCode="68.47" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Aspect</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Cease, Stop</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-08-17 16:06:43" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>to cause to cease, implying that someone is no longer permitted to enjoy or participate in some state or activity</DefinitionShort>
+              <Glosses>
+                <Gloss>to take away (from)</Gloss>
+                <Gloss>to cause to no longer do</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04200102500020</LEXReference>
+            <LEXReference>04201004200026</LEXReference>
+            <LEXReference>04201600300026</LEXReference>
+            <LEXReference>06602201900008</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+        <LEXMeaning Id="000848001003000" IsBiblicalTerm="Y" EntryCode="13.38" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Be, Become, Exist, Happen</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>State</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-08-17 16:06:43" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>to cause a state to cease{N:002}</DefinitionShort>
+              <Glosses>
+                <Gloss>to do away with</Gloss>
+                <Gloss>to remove</Gloss>
+                <Gloss>to eliminate</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04501102700018</LEXReference>
+            <LEXReference>05801000400014</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

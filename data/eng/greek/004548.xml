@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="004548000000000" Lemma="σκληροτράχηλος" Version="0" HasAramaic="false" InLXX="true" AlphaPos="σ">
+  <StrongCodes>
+    <Strong>G4644</Strong>
+  </StrongCodes>
+  <Authors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes>
+    <Note Caller="1" LanguageCode="en" LastEdited="" LastEditedBy="">
+      <References/>
+      <Content>The series of expressions in {D:88.224} appears to differ somewhat in intensity from σκληρότης stubbornness ({D:88.223}).</Content>
+    </Note>
+  </Notes>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="004548001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>adjc.</PartOfSpeech>
+      </PartsOfSpeech>
+      <Inflections>
+        <Inflection Lemma="σκληροτράχηλος" BaseFormIndex="1">
+          <Form/>
+          <Realizations>
+            <Realization>-ον</Realization>
+          </Realizations>
+          <Comments/>
+        </Inflection>
+      </Inflections>
+      <Constructs>
+        <Construct Lemma="σκληροτράχηλος" BaseFormIndex="1">
+          <WordMeaningSet>
+            <Word>σκληρύνω</Word>
+          </WordMeaningSet>
+          <WordMeaningSet>
+            <Word>τραχηλίζομαι</Word>
+          </WordMeaningSet>
+        </Construct>
+      </Constructs>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="004548001001000" IsBiblicalTerm="M" EntryCode="88.224" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Moral and Ethical Qualities and Related Behavior</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Stubbornness</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2022-02-12 14:06:51" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>pertaining to being obdurate and obstinate{N:001}</DefinitionShort>
+              <Glosses>
+                <Gloss>stubborn</Gloss>
+                <Gloss>completely unyielding</Gloss>
+              </Glosses>
+              <Comments>In the contexts illustrated by σκληροτράχηλος, ἀπερίτμητος καρδίᾳ καὶ τοῖς ὠσίν, and σκληροκαρδία, the focus of the stubbornness and obstinacy is the unwillingness to be taught or to understand.</Comments>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04400705100002</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

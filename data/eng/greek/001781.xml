@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="001781000000000" Lemma="ἐνίστημι" Version="0" HasAramaic="false" InLXX="true" AlphaPos="ε">
+  <StrongCodes>
+    <Strong>G1764</Strong>
+  </StrongCodes>
+  <Authors/>
+  <AlternateLemmas>
+    <AlternateLemma>ἐνίσταμαι</AlternateLemma>
+  </AlternateLemmas>
+  <MainLinks/>
+  <Notes/>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="001781001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>verb</PartOfSpeech>
+      </PartsOfSpeech>
+      <Inflections>
+        <Inflection Lemma="ἐνίστημι" BaseFormIndex="1">
+          <Form>pf.</Form>
+          <Realizations>
+            <Realization>ἐνέστηκα</Realization>
+          </Realizations>
+          <Comments/>
+        </Inflection>
+        <Inflection Lemma="ἐνίστημι" BaseFormIndex="1">
+          <Form>ptc.</Form>
+          <Realizations>
+            <Realization>ἐνεστηκώς</Realization>
+            <Realization>ἐνεστώς</Realization>
+          </Realizations>
+          <Comments/>
+        </Inflection>
+        <Inflection Lemma="ἐνίστημι" BaseFormIndex="1">
+          <Form>fut.midd.</Form>
+          <Realizations>
+            <Realization>ἐνστήσομαι</Realization>
+          </Realizations>
+          <Comments/>
+        </Inflection>
+      </Inflections>
+      <RelatedLemmas>
+        <RelatedLemma>
+          <Word>ἵστημι</Word>
+        </RelatedLemma>
+      </RelatedLemmas>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="001781001001000" IsBiblicalTerm="Y" EntryCode="13.109" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Be, Become, Exist, Happen</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Happen</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-06-01 10:06:57" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>to happen, with the implication of there being a particular set of circumstances</DefinitionShort>
+              <Glosses>
+                <Gloss>to happen</Gloss>
+                <Gloss>to come about</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>05500300100016</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+        <LEXMeaning Id="001781001002000" IsBiblicalTerm="Y" EntryCode="67.41" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Time</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>A Point of Time with Reference to Other Points of Time: Before, Long Ago, Now, At the Same Time, When, About, After</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-06-01 10:06:57" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>to be simultaneous with the time of the discourse</DefinitionShort>
+              <Glosses>
+                <Gloss>present</Gloss>
+                <Gloss>to be present</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04500803800026</LEXReference>
+            <LEXReference>04600302200028</LEXReference>
+            <LEXReference>04800100400030</LEXReference>
+            <LEXReference>05300200200052</LEXReference>
+            <LEXReference>05800900900014</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+        <LEXMeaning Id="001781001003000" IsBiblicalTerm="Y" EntryCode="67.63" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Time</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>A Point of Time with Reference to Other Points of Time: Before, Long Ago, Now, At the Same Time, When, About, After</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-06-01 10:06:57" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>to occur with high probability at a point of time just subsequent to another point of time</DefinitionShort>
+              <Glosses>
+                <Gloss>imminent</Gloss>
+                <Gloss>impending</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04600702600016</LEXReference>
+            <LEXReference>05800900900014</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="004716000000000" Lemma="συλαγωγέω" Version="0" HasAramaic="false" InLXX="false" AlphaPos="σ">
+  <StrongCodes>
+    <Strong>G4812</Strong>
+  </StrongCodes>
+  <Authors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes/>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="004716001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>verb</PartOfSpeech>
+      </PartsOfSpeech>
+      <Constructs>
+        <Construct Lemma="συλαγωγέω" BaseFormIndex="1">
+          <WordMeaningSet>
+            <Word>συλάω</Word>
+          </WordMeaningSet>
+          <WordMeaningSet>
+            <Word>ἄγω</Word>
+          </WordMeaningSet>
+        </Construct>
+      </Constructs>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="004716001001000" IsBiblicalTerm="Y" EntryCode="37.10" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Control, Rule</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Control, Restrain</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2022-03-09 12:20:35" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>(a figurative extension of meaning of συλαγωγέω ‘to carry off as booty or as captive in war,’ not occurring in the NT) to take over complete control of a person as one would a captive</DefinitionShort>
+              <Glosses>
+                <Gloss>to control completely</Gloss>
+                <Gloss>to take control of</Gloss>
+                <Gloss>to make a captive of</Gloss>
+              </Glosses>
+              <Comments>In some languages it is possible to preserve the figurative meaning of συλαγωγέω in {S:05100200800014} by employing a simile, for example, ‘see that no one makes you a kind of captive by human wisdom’ or ‘see to it that no one uses human wisdom and by this means makes you, so to speak, a captive.’</Comments>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>05100200800014</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

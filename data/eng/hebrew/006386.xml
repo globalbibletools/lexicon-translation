@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="006386000000000" Lemma="קָדְקֹד" Version="5" HasAramaic="false" InLXX="false" AlphaPos="ק">
+  <StrongCodes>
+    <Strong>H6936</Strong>
+  </StrongCodes>
+  <Authors>
+    <Author>Graham S. Ogden</Author>
+  </Authors>
+  <Contributors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes>
+    <Note Caller="1" LanguageCode="en" LastEdited="" LastEditedBy="">
+      <References>
+        <Reference/>
+      </References>
+      <Content>HOTTP-C NIV NJB "skull" = {L:קָדְקֹד&lt;SDBH:קָדְקֹד&gt;} | MT RSV REB NRSV GNT CEV וְקַרְקַר "to beat down" = {L:קרר&lt;SDBH:קרר&gt;} | NJPS "foundation"</Content>
+    </Note>
+  </Notes>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="006386001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>nsm</PartOfSpeech>
+      </PartsOfSpeech>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="006386001001000" IsBiblicalTerm="Y" EntryCode="" Indent="0">
+          <LEXDomains>
+            <LEXDomain Code="001001002003">People</LEXDomain>
+          </LEXDomains>
+          <LEXSynonyms>
+            <LEXSynonym>פֵּאָה</LEXSynonym>
+            <LEXSynonym>פֹּת</LEXSynonym>
+            <LEXSynonym>רֹאשׁ</LEXSynonym>
+          </LEXSynonyms>
+          <LEXAntonyms>
+            <LEXAntonym>רֶגֶל</LEXAntonym>
+          </LEXAntonyms>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2009-01-06 18:47:58" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>= upper part of the head; ≈ sometimes used in conjunction with "{L:feet&lt;SDBH:רֶגֶל&gt;}" to refer to the whole physical body</DefinitionShort>
+              <Glosses>
+                <Gloss>scalp</Gloss>
+                <Gloss>crown (of the head)</Gloss>
+                <Gloss>skull</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>00104902600034</LEXReference>
+            <LEXReference>00402401700046{N:001}</LEXReference>
+            <LEXReference>00502803500046</LEXReference>
+            <LEXReference>00503301600034</LEXReference>
+            <LEXReference>00503302000030</LEXReference>
+            <LEXReference>01001402500038</LEXReference>
+            <LEXReference>01800200700046</LEXReference>
+            <LEXReference>01900701700014</LEXReference>
+            <LEXReference>01906802200012</LEXReference>
+            <LEXReference>02300301700008</LEXReference>
+            <LEXReference>02400201600018</LEXReference>
+            <LEXReference>02404804500046</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+          <LEXCoreDomains>
+            <LEXCoreDomain Code="019">Body</LEXCoreDomain>
+          </LEXCoreDomains>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

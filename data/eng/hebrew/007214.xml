@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="007214000000000" Lemma="שְׁדֵמָה" Version="4" HasAramaic="false" InLXX="false" AlphaPos="ש">
+  <StrongCodes>
+    <Strong>H7709</Strong>
+    <Strong>H8309</Strong>
+  </StrongCodes>
+  <Authors>
+    <Author>Reinier de Blois</Author>
+  </Authors>
+  <Contributors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes>
+    <Note Caller="1" LanguageCode="en" LastEdited="" LastEditedBy="">
+      <References>
+        <Reference>02303702700034</Reference>
+      </References>
+      <Content>MT NJB "meadow" CEV "field" | RSV NRSV ESV "blighted" NIV "scorched" NJPS REB  "blasted" GNT "blasted" = {L:שְׁדֵפָה&lt;SDBH:שְׁדֵפָה&gt;}</Content>
+    </Note>
+    <Note Caller="2" LanguageCode="en" LastEdited="" LastEditedBy="">
+      <References>
+        <Reference>02403104000026</Reference>
+      </References>
+      <Content>MT-K שׂרמות | MT-Q שְׁדֵמוֹת</Content>
+    </Note>
+  </Notes>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="007214001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>nsf</PartOfSpeech>
+      </PartsOfSpeech>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="007214001001000" IsBiblicalTerm="Y" EntryCode="" Indent="0">
+          <LEXDomains>
+            <LEXDomain Code="001005002002003">Landscapes</LEXDomain>
+          </LEXDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2017-03-13 09:20:56" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>= a piece of land generally uninhabited by human beings, ► sometimes used for farming or pasturing animals</DefinitionShort>
+              <Glosses>
+                <Gloss>field</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>00503203200016</LEXReference>
+            <LEXReference>01202300400104</LEXReference>
+            <LEXReference>02301600800004</LEXReference>
+            <LEXReference>02303702700034{N:002}</LEXReference>
+            <LEXReference>02403104000026{N:001}</LEXReference>
+            <LEXReference>02403104000030</LEXReference>
+            <LEXReference>03500301700030</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+          <LEXCoreDomains>
+            <LEXCoreDomain Code="097">Land</LEXCoreDomain>
+          </LEXCoreDomains>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

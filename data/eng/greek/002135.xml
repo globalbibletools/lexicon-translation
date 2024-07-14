@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="002135000000000" Lemma="εὔκοπος" Version="0" HasAramaic="false" InLXX="true" AlphaPos="ε">
+  <StrongCodes>
+    <Strong>G2123</Strong>
+  </StrongCodes>
+  <Authors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes/>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="002135001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>adjc.</PartOfSpeech>
+      </PartsOfSpeech>
+      <Inflections>
+        <Inflection Lemma="εὔκοπος" BaseFormIndex="1">
+          <Form/>
+          <Realizations>
+            <Realization>-ον</Realization>
+          </Realizations>
+          <Comments/>
+        </Inflection>
+        <Inflection Lemma="εὔκοπος" BaseFormIndex="1">
+          <Form>comp.</Form>
+          <Realizations>
+            <Realization>εὐκοπώτερος</Realization>
+          </Realizations>
+          <Comments/>
+        </Inflection>
+      </Inflections>
+      <RelatedLemmas>
+        <RelatedLemma>
+          <Word>κόπτω</Word>
+        </RelatedLemma>
+      </RelatedLemmas>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="002135001001000" IsBiblicalTerm="Y" EntryCode="22.39" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Trouble, Hardship, Relief, Favorable Circumstances</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Easy, Light</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-07-09 10:28:51" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>(occurring only in the comparative form in the NT) pertaining to that which is easy, in the sense of not requiring great effort or work</DefinitionShort>
+              <Glosses>
+                <Gloss>easy</Gloss>
+                <Gloss>without trouble</Gloss>
+              </Glosses>
+              <Comments>In some languages it is difficult to render in a succinct manner an expression such as ‘easier to do,’ for a comparative expression involving degree of effort may require complex restructuring. Accordingly, one can often translate the first part of this expression in {S:04001902400010} as ‘a camel does not have to struggle as much to go through the eye of a needle as …’</Comments>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04000900500008</LEXReference>
+            <LEXReference>04001902400010</LEXReference>
+            <LEXReference>04100200900006</LEXReference>
+            <LEXReference>04101002500002</LEXReference>
+            <LEXReference>04200502300006</LEXReference>
+            <LEXReference>04201601700002</LEXReference>
+            <LEXReference>04201802500002</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

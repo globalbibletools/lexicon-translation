@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="007838000000000" Lemma="תְּמֹול" Version="5" HasAramaic="false" InLXX="false" AlphaPos="ת">
+  <StrongCodes>
+    <Strong>H0865</Strong>
+    <Strong>H8543</Strong>
+  </StrongCodes>
+  <Authors>
+    <Author>Reinier de Blois</Author>
+  </Authors>
+  <Contributors/>
+  <AlternateLemmas>
+    <AlternateLemma>אֶתְמֹול</AlternateLemma>
+    <AlternateLemma>תְּמֹל</AlternateLemma>
+  </AlternateLemmas>
+  <MainLinks/>
+  <Notes>
+    <Note Caller="1" LanguageCode="en" LastEdited="" LastEditedBy="">
+      <References>
+        <Reference>03300200800004</Reference>
+      </References>
+      <Content>{A:MT} {A:HOTTP}-B {A:NIV} | {A:RSV} {A:NRSV} {A:GNT} ואתם לעמי "but you (rise up) against my people" | {A:REB} ואתם לאֹ עמי "but you are not my people" | {A:NJPS} "but an enemy arises against my people"</Content>
+    </Note>
+  </Notes>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="007838001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>nsm</PartOfSpeech>
+      </PartsOfSpeech>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="007838001001000" IsBiblicalTerm="Y" EntryCode="" Indent="0">
+          <LEXDomains>
+            <LEXDomain Code="003002005">Temporal Referents</LEXDomain>
+          </LEXDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2014-08-25 11:25:08" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>= reference to the day before the current day; sometimes used to refer to a point of time in the recent past as if it happened the day before</DefinitionShort>
+              <Glosses>
+                <Gloss>yesterday</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>00200501400046</LEXReference>
+            <LEXReference>00902002700050</LEXReference>
+            <LEXReference>01001502000002</LEXReference>
+            <LEXReference>01800800900004</LEXReference>
+            <LEXReference>01909000400016</LEXReference>
+            <LEXReference>02303003300008</LEXReference>
+            <LEXReference>03300200800004</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+        <LEXMeaning Id="007838001002000" IsBiblicalTerm="Y" EntryCode="" Indent="0">
+          <LEXDomains>
+            <LEXDomain Code="003002005">Temporal Referents</LEXDomain>
+          </LEXDomains>
+          <LEXCollocations>
+            <LEXCollocation>תְּמֹול שִׁלְשֹׁום</LEXCollocation>
+          </LEXCollocations>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2014-08-25 11:25:08" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>= reference to times in the past when a certain activity used to take place repeatedly</DefinitionShort>
+              <Glosses>
+                <Gloss>(what used to be done) before, in the past</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>00103100200024</LEXReference>
+            <LEXReference>00103100500026</LEXReference>
+            <LEXReference>00200401000028</LEXReference>
+            <LEXReference>00200500700028</LEXReference>
+            <LEXReference>00200500800018</LEXReference>
+            <LEXReference>00200501400040</LEXReference>
+            <LEXReference>00202102900014</LEXReference>
+            <LEXReference>00202103600016</LEXReference>
+            <LEXReference>00500404200036</LEXReference>
+            <LEXReference>00501900400048</LEXReference>
+            <LEXReference>00501900600064</LEXReference>
+            <LEXReference>00600300400068</LEXReference>
+            <LEXReference>00600401800070</LEXReference>
+            <LEXReference>00602000500058</LEXReference>
+            <LEXReference>00800201100066</LEXReference>
+            <LEXReference>00900400700042</LEXReference>
+            <LEXReference>00901001100012</LEXReference>
+            <LEXReference>00901402100018</LEXReference>
+            <LEXReference>00901900700056</LEXReference>
+            <LEXReference>00902100600032</LEXReference>
+            <LEXReference>01000301700022</LEXReference>
+            <LEXReference>01000500200004</LEXReference>
+            <LEXReference>01201300500040</LEXReference>
+            <LEXReference>01301100200004</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

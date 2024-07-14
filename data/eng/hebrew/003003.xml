@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="003003000000000" Lemma="יַעֲנָה" Version="5" HasAramaic="false" InLXX="false" AlphaPos="י">
+  <StrongCodes>
+    <Strong>H3284</Strong>
+  </StrongCodes>
+  <Authors>
+    <Author>Reinier de Blois</Author>
+  </Authors>
+  <Contributors/>
+  <AlternateLemmas>
+    <AlternateLemma>בַּת יַעֲנָה</AlternateLemma>
+  </AlternateLemmas>
+  <MainLinks/>
+  <Notes>
+    <Note Caller="1" LanguageCode="en" LastEdited="" LastEditedBy="">
+      <References>
+        <Reference>00301101600010</Reference>
+        <Reference>00501401500010</Reference>
+        <Reference>01803002900018</Reference>
+        <Reference>02301302100026</Reference>
+        <Reference>02303401300034</Reference>
+        <Reference>02304302000016</Reference>
+        <Reference>03300100800040</Reference>
+      </References>
+      <Content>RSV NJPS NJB NRSV "ostrich" | NIV "(horned) owl" | REB "desert-owl"</Content>
+    </Note>
+  </Notes>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="003003001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>nsf</PartOfSpeech>
+      </PartsOfSpeech>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="003003001001000" IsBiblicalTerm="Y" EntryCode="" Indent="0">
+          <LEXDomains>
+            <LEXDomain Code="001001002001005">Birds</LEXDomain>
+          </LEXDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2015-12-28 11:31:29" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>exact meaning unknown; probably: = a type of owl, large, standing over 75 centimeters (30 inches) tall; it has a pale fawn color, is spotted, has ear tufts, and is best known by its loud, deep hooting at night; it roosts by day in deep shade in acacia trees, caves, tombs, and ruined buildings; it feeds on small mammals, including hares, baby gazelles, lambs, rats and mice, and large roosting birds, especially wild and domestic ducks; ◄ Bubo bubo; ► unclean and therefore not to be eaten</DefinitionShort>
+              <Glosses>
+                <Gloss>eagle owl</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>00301101600010{N:001}</LEXReference>
+            <LEXReference>00501401500010{N:001}</LEXReference>
+            <LEXReference>01803002900018{N:001}</LEXReference>
+            <LEXReference>02301302100026{N:001}</LEXReference>
+            <LEXReference>02303401300034{N:001}</LEXReference>
+            <LEXReference>02304302000016{N:001}</LEXReference>
+            <LEXReference>02405003900020</LEXReference>
+            <LEXReference>03300100800040{N:001}</LEXReference>
+          </LEXReferences>
+          <LEXLinks>
+            <LEXLink>Fauna:3.17.1</LEXLink>
+          </LEXLinks>
+          <LEXVideos/>
+          <LEXCoreDomains>
+            <LEXCoreDomain Code="010">Animal</LEXCoreDomain>
+          </LEXCoreDomains>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="005498000000000" Lemma="ὡσεί" Version="0" HasAramaic="false" InLXX="true" AlphaPos="ω">
+  <StrongCodes>
+    <Strong>G5616</Strong>
+  </StrongCodes>
+  <Authors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes>
+    <Note Caller="1" LanguageCode="en" LastEdited="" LastEditedBy="">
+      <References/>
+      <Content>Though ὡσεί literally consists of ὡς and εἰ (as if), in most cases all or at least most of the conditional aspect of the meaning has been lost.</Content>
+    </Note>
+  </Notes>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="005498001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>part.</PartOfSpeech>
+      </PartsOfSpeech>
+      <Constructs>
+        <Construct Lemma="ὡσεί" BaseFormIndex="1">
+          <WordMeaningSet>
+            <Word>ὡς</Word>
+          </WordMeaningSet>
+          <WordMeaningSet>
+            <Word>εἰ</Word>
+          </WordMeaningSet>
+        </Construct>
+      </Constructs>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="005498001001000" IsBiblicalTerm="Y" EntryCode="64.12" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Comparison</LEXDomain>
+          </LEXDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2022-06-13 14:03:58" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>a relatively weak marker of a relationship between events or states{N:001}</DefinitionShort>
+              <Glosses>
+                <Gloss>as, like</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04000301600046</LEXReference>
+            <LEXReference>04000903600026</LEXReference>
+            <LEXReference>04100902600018</LEXReference>
+            <LEXReference>04202204400024</LEXReference>
+            <LEXReference>04202401100010</LEXReference>
+            <LEXReference>04400200300012</LEXReference>
+            <LEXReference>04400601500030</LEXReference>
+            <LEXReference>04500601300030</LEXReference>
+            <LEXReference>05800101200004</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+        <LEXMeaning Id="005498001002000" IsBiblicalTerm="Y" EntryCode="78.42" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Degree</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>About, Approximately, Almost, Hardly [Approximate Degree]</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2022-06-13 14:03:58" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>a degree which approximates a point on a scale of extent, either above or below</DefinitionShort>
+              <Glosses>
+                <Gloss>about</Gloss>
+                <Gloss>approximately</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04001402100012</LEXReference>
+            <LEXReference>04200302300012</LEXReference>
+            <LEXReference>04200901400006</LEXReference>
+            <LEXReference>04200901400030</LEXReference>
+            <LEXReference>04200902800014</LEXReference>
+            <LEXReference>04202204100012</LEXReference>
+            <LEXReference>04202205900006</LEXReference>
+            <LEXReference>04202304400008</LEXReference>
+            <LEXReference>04400101500040</LEXReference>
+            <LEXReference>04400204100032</LEXReference>
+            <LEXReference>04401000300010</LEXReference>
+            <LEXReference>04401900700012</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

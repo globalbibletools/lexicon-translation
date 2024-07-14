@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="003837000000000" Lemma="παρίημι" Version="0" HasAramaic="false" InLXX="true" AlphaPos="π">
+  <StrongCodes>
+    <Strong>G3918</Strong>
+  </StrongCodes>
+  <Authors/>
+  <AlternateLemmas>
+    <AlternateLemma>παρίεμαι</AlternateLemma>
+  </AlternateLemmas>
+  <MainLinks/>
+  <Notes/>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="003837001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>verb</PartOfSpeech>
+      </PartsOfSpeech>
+      <Inflections>
+        <Inflection Lemma="παρίημι" BaseFormIndex="1">
+          <Form>aor.inf.</Form>
+          <Realizations>
+            <Realization>παρεῖναι</Realization>
+          </Realizations>
+          <Comments/>
+        </Inflection>
+        <Inflection Lemma="παρίημι" BaseFormIndex="1">
+          <Form>pf.pass.ptc.</Form>
+          <Realizations>
+            <Realization>παρειμένος</Realization>
+          </Realizations>
+          <Comments/>
+        </Inflection>
+      </Inflections>
+      <RelatedLemmas>
+        <RelatedLemma>
+          <Word>ἵημι</Word>
+          <Meaning LanguageCode="en">
+            <Meaning>send, set in motion</Meaning>
+          </Meaning>
+          <Meaning LanguageCode="zhT">
+            <Meaning>發送，調動</Meaning>
+          </Meaning>
+        </RelatedLemma>
+      </RelatedLemmas>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="003837001001000" IsBiblicalTerm="Y" EntryCode="13.145" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Be, Become, Exist, Happen</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Happen</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-12-23 11:26:03" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>to allow not to do</DefinitionShort>
+              <Glosses>
+                <Gloss>to avoid</Gloss>
+                <Gloss>to overlook doing</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04201104200062</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+        <LEXMeaning Id="003837001002000" IsBiblicalTerm="Y" EntryCode="23.174" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Physiological Processes and States</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Sickness, Disease, Weakness</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXForms>
+            <LEXForm>παρίεμαι</LEXForm>
+          </LEXForms>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-12-23 11:26:03" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>to suffer weakness or disability in some part of the body</DefinitionShort>
+              <Glosses>
+                <Gloss>to be weak</Gloss>
+                <Gloss>to be weakened</Gloss>
+              </Glosses>
+              <Comments>In some languages ‘weak hands’ may be expressed as ‘hands that cannot hold anything’ or ‘hands that cannot do anything.’</Comments>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>05801201200006</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

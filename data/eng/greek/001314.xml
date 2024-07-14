@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="001314000000000" Lemma="διατάσσω" Version="0" HasAramaic="false" InLXX="true" AlphaPos="δ">
+  <StrongCodes>
+    <Strong>G1299</Strong>
+  </StrongCodes>
+  <Authors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes>
+    <Note Caller="1" LanguageCode="en" LastEdited="" LastEditedBy="">
+      <References/>
+      <Content>The meanings of τάσσω[c], συντάσσω, προστάσσω[a], ἐπιτάσσω, and διατάσσω[a] no doubt differ somewhat, particularly in connotation, but it is not possible to determine this from existing contexts.</Content>
+    </Note>
+  </Notes>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="001314001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>verb</PartOfSpeech>
+      </PartsOfSpeech>
+      <Inflections>
+        <Inflection Lemma="διατάσσω" BaseFormIndex="1">
+          <Form>1aor.pass.ptc.</Form>
+          <Realizations>
+            <Realization>Διαταγείς</Realization>
+          </Realizations>
+          <Comments/>
+        </Inflection>
+        <Inflection Lemma="διατάσσω" BaseFormIndex="1">
+          <Form>2aor.pass.</Form>
+          <Realizations>
+            <Realization>διαταχθείς</Realization>
+          </Realizations>
+          <Comments/>
+        </Inflection>
+        <Inflection Lemma="διατάσσω" BaseFormIndex="1">
+          <Form>pf.pass.</Form>
+          <Realizations>
+            <Realization>διατέταγμαι</Realization>
+          </Realizations>
+          <Comments/>
+        </Inflection>
+      </Inflections>
+      <RelatedLemmas>
+        <RelatedLemma>
+          <Word>τάσσω</Word>
+        </RelatedLemma>
+      </RelatedLemmas>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="001314001001000" IsBiblicalTerm="Y" EntryCode="33.325" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Communication</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Command, Order</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-11-03 16:12:41" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>to give detailed instructions as to what must be done{N:001}</DefinitionShort>
+              <Glosses>
+                <Gloss>to order</Gloss>
+                <Gloss>to instruct</Gloss>
+                <Gloss>to tell</Gloss>
+                <Gloss>to command</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04001100100014</LEXReference>
+            <LEXReference>04200301300020</LEXReference>
+            <LEXReference>04200805500020</LEXReference>
+            <LEXReference>04201700900018</LEXReference>
+            <LEXReference>04201701000016</LEXReference>
+            <LEXReference>04400704400026</LEXReference>
+            <LEXReference>04401800200042</LEXReference>
+            <LEXReference>04402303100014</LEXReference>
+            <LEXReference>04402402300002</LEXReference>
+            <LEXReference>04600701700042</LEXReference>
+            <LEXReference>04600901400010</LEXReference>
+            <LEXReference>04601103400036</LEXReference>
+            <LEXReference>04601600100020</LEXReference>
+            <LEXReference>04800301900032</LEXReference>
+            <LEXReference>05600100500038</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+        <LEXMeaning Id="001314001002000" IsBiblicalTerm="Y" EntryCode="62.8" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Arrange, Organize</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Organize [of events and states]</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-11-03 16:12:41" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>to arrange matters in a particular manner</DefinitionShort>
+              <Glosses>
+                <Gloss>to arrange for</Gloss>
+                <Gloss>to plan</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04402001300036</LEXReference>
+            <LEXReference>04601103400036</LEXReference>
+            <LEXReference>04601600100020</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

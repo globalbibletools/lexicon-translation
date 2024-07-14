@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="002868000000000" Lemma="יֹוצֵר" Version="5" HasAramaic="false" InLXX="false" AlphaPos="י">
+  <StrongCodes>
+    <Strong>H3335b</Strong>
+  </StrongCodes>
+  <Authors>
+    <Author>Reinier de Blois</Author>
+  </Authors>
+  <Contributors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes/>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="002868001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>nsm</PartOfSpeech>
+      </PartsOfSpeech>
+      <RelatedLemmas>
+        <RelatedLemma>
+          <Word>יצר</Word>
+        </RelatedLemma>
+      </RelatedLemmas>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="002868001001000" IsBiblicalTerm="M" EntryCode="" Indent="0">
+          <LEXDomains>
+            <LEXDomain Code="001001002003009">Professions</LEXDomain>
+          </LEXDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2020-08-21 15:13:34" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>= a person who makes pottery out of fired clay</DefinitionShort>
+              <Glosses>
+                <Gloss>potter</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>01300402300006</LEXReference>
+            <LEXReference>02302901600012</LEXReference>
+            <LEXReference>02304102500038</LEXReference>
+            <LEXReference>02401800200012</LEXReference>
+            <LEXReference>02401800300010</LEXReference>
+            <LEXReference>02401800400028</LEXReference>
+            <LEXReference>02401800400054</LEXReference>
+            <LEXReference>02401800600008</LEXReference>
+            <LEXReference>02401800600046</LEXReference>
+            <LEXReference>02500400200034</LEXReference>
+            <LEXReference>03801101300016</LEXReference>
+            <LEXReference>03801101300056</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+          <LEXCoreDomains>
+            <LEXCoreDomain Code="200">Work</LEXCoreDomain>
+            <LEXCoreDomain Code="027">Crafts</LEXCoreDomain>
+          </LEXCoreDomains>
+        </LEXMeaning>
+        <LEXMeaning Id="002868001002000" IsBiblicalTerm="M" EntryCode="" Indent="0">
+          <LEXDomains>
+            <LEXDomain Code="001006005" Source="Professions" SourceCode="001001002003009">Dust</LEXDomain>
+          </LEXDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2020-08-21 15:13:34" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>literally: of a potter; hence: = pottery made of fired clay</DefinitionShort>
+              <Glosses>
+                <Gloss>earthenware</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>01001702800012</LEXReference>
+            <LEXReference>01900200900014</LEXReference>
+            <LEXReference>02303001400012</LEXReference>
+            <LEXReference>02401900100016</LEXReference>
+            <LEXReference>02401901100054</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+          <LEXCoreDomains>
+            <LEXCoreDomain Code="027">Crafts</LEXCoreDomain>
+          </LEXCoreDomains>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

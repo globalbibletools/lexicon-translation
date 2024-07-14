@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="004386000000000" Lemma="ῥέω" Version="0" HasAramaic="false" InLXX="true" AlphaPos="ρ">
+  <StrongCodes>
+    <Strong>G4482</Strong>
+  </StrongCodes>
+  <Authors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes>
+    <Note Caller="1" LanguageCode="en" LastEdited="" LastEditedBy="">
+      <References/>
+      <Content>It is possible to regard ῥέω ‘to flow’ and ῥύσις[a] ‘a flow or a flowing’ as being semantically distinct on the basis that one refers only to the event of flowing, while the second particularizes the event by assuming a specific beginning and end point and thus making it possible to speak of a number of such events. In English this type of semantic derivation is almost automatic between verbs and nouns, and it is widespread in Greek, though with obvious morphological differences. In a number of other languages, however, there is no corresponding noun form, and in order to speak of a series of events, one must simply say it flowed several times.</Content>
+    </Note>
+  </Notes>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="004386001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>verb</PartOfSpeech>
+      </PartsOfSpeech>
+      <Inflections>
+        <Inflection Lemma="ῥέω" BaseFormIndex="1">
+          <Form>fut.</Form>
+          <Realizations>
+            <Realization>ῥεύσω</Realization>
+          </Realizations>
+          <Comments/>
+        </Inflection>
+      </Inflections>
+      <RelatedLemmas>
+        <RelatedLemma>
+          <Word>αἱμορροέω</Word>
+        </RelatedLemma>
+        <RelatedLemma>
+          <Word>παραρρέω</Word>
+        </RelatedLemma>
+        <RelatedLemma>
+          <Word>ῥύσις</Word>
+        </RelatedLemma>
+        <RelatedLemma>
+          <Word>χείμαρρος</Word>
+        </RelatedLemma>
+      </RelatedLemmas>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="004386001001000" IsBiblicalTerm="Y" EntryCode="14.17" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Physical Events and States</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Events Involving Liquids and Dry Masses</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2022-02-09 01:19:50" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>the movement of a liquid in some direction{N:001}</DefinitionShort>
+              <Glosses>
+                <Gloss>to flow</Gloss>
+                <Gloss>a flow</Gloss>
+              </Glosses>
+              <Comments>In a number of languages a term referring to the flow of liquid may also be applied to the movement of any object, so that a literal rendering might be ‘the liquid moved.’ However, terms for ‘flow’ or ‘pour’ often differ substantially on the basis of the direction of the flow. For example, if the flow is relatively horizontal, and therefore slow, it may have one term, while if it is quite fast, another expression may be used, and if the flow is almost perpendicular (as in the case of pouring), a still different term is employed.</Comments>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04300703800028</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

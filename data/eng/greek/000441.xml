@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="000441000000000" Lemma="ἄνθος" Version="0" HasAramaic="false" InLXX="true" AlphaPos="α">
+  <StrongCodes>
+    <Strong>G0438</Strong>
+  </StrongCodes>
+  <Authors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes/>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="000441001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>noun, n.</PartOfSpeech>
+      </PartsOfSpeech>
+      <Inflections>
+        <Inflection Lemma="ἄνθος" BaseFormIndex="1">
+          <Form/>
+          <Realizations>
+            <Realization>-ους</Realization>
+          </Realizations>
+          <Comments/>
+        </Inflection>
+      </Inflections>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="000441001001000" IsBiblicalTerm="M" EntryCode="3.56" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Plants</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Non-Fruit Parts of Plants</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-08-09 14:11:42" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>the blossom of a plant</DefinitionShort>
+              <Glosses>
+                <Gloss>flower</Gloss>
+              </Glosses>
+              <Comments>In some languages it may be difficult to use generic expressions such as ‘flower’ or ‘plant.’ One may therefore be obliged to use a more specific designation of a type of flower which lasts for only a day or so. In {S:05900101000020} it is the fragile and temporary nature of the blossom which is important in this figurative context.</Comments>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>05900101000020</LEXReference>
+            <LEXReference>05900101100028</LEXReference>
+            <LEXReference>06000102400022</LEXReference>
+            <LEXReference>06000102400036</LEXReference>
+          </LEXReferences>
+          <LEXLinks>
+            <LEXLink>flora:6.1</LEXLink>
+          </LEXLinks>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

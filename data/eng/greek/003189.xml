@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="003189000000000" Lemma="μεγαλοπρεπής" Version="0" HasAramaic="false" InLXX="true" AlphaPos="μ">
+  <StrongCodes>
+    <Strong>G3169</Strong>
+  </StrongCodes>
+  <Authors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes>
+    <Note Caller="1" LanguageCode="en" LastEdited="" LastEditedBy="">
+      <References/>
+      <Content>Items {D:12.4}-{D:12.8}, ({D:12.9}) and {D:12.12} in this domain are titles for θεός[a] ‘God’ ({D:12.1}). As titles, they have precisely the same reference as θεός[a], but they each contribute distinctive meanings which are legitimate qualifications of the referent in question.</Content>
+    </Note>
+  </Notes>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="003189001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>adjc.</PartOfSpeech>
+      </PartsOfSpeech>
+      <Inflections>
+        <Inflection Lemma="μεγαλοπρεπής" BaseFormIndex="1">
+          <Form/>
+          <Realizations>
+            <Realization>-ές</Realization>
+          </Realizations>
+          <Comments/>
+        </Inflection>
+      </Inflections>
+      <Constructs>
+        <Construct Lemma="μεγαλοπρεπής" BaseFormIndex="1">
+          <WordMeaningSet>
+            <Word>μεγαλύνω</Word>
+          </WordMeaningSet>
+          <WordMeaningSet>
+            <Word>πρέπει</Word>
+          </WordMeaningSet>
+        </Construct>
+      </Constructs>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="003189001001000" IsBiblicalTerm="M" EntryCode="79.14" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Features of Objects</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Beautiful, Ugly</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-11-23 11:17:59" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>pertaining to being unusually attractive and beautiful</DefinitionShort>
+              <Glosses>
+                <Gloss>very wonderful</Gloss>
+                <Gloss>sublime</Gloss>
+              </Glosses>
+              <Comments>For μεγαλοπρεπής as part of a title, see {D:12.6}.</Comments>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>06100101700030</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+        <LEXMeaning Id="003189001002000" IsBiblicalTerm="M" EntryCode="12.6{N:001}" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Supernatural Beings and Powers</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Supernatural Beings</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXCollocations>
+            <LEXCollocation>μεγαλοπρεπὴς δόξα</LEXCollocation>
+          </LEXCollocations>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-11-23 11:17:59" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>a title for God, literally: majestic glory</DefinitionShort>
+              <Glosses>
+                <Gloss>Sublime Glory</Gloss>
+                <Gloss>Majestic Glory</Gloss>
+              </Glosses>
+              <Comments>It is rare that one can use a literal rendering of μεγαλοπρεπὴς δόξα as a title for God, since ‘Sublime Glory’ is a quality and not normally a reference to a person or supernatural being.|It is also possible, however, to use a descriptive phrase such as  ‘the one who is supremely glorious’ or ‘the one who is glorious above all others’ or ‘God who is supremely glorious.’ See {D:79.14}.</Comments>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>06100101700030</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

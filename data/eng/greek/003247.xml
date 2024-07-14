@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="003247000000000" Lemma="μετάθεσις" Version="0" HasAramaic="false" InLXX="true" AlphaPos="μ">
+  <StrongCodes>
+    <Strong>G3331</Strong>
+  </StrongCodes>
+  <Authors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes/>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="003247001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>noun, f.</PartOfSpeech>
+      </PartsOfSpeech>
+      <Inflections>
+        <Inflection Lemma="μετάθεσις" BaseFormIndex="1">
+          <Form/>
+          <Realizations>
+            <Realization>-εως</Realization>
+          </Realizations>
+          <Comments/>
+        </Inflection>
+      </Inflections>
+      <RelatedLemmas>
+        <RelatedLemma>
+          <Word>τίθημι</Word>
+        </RelatedLemma>
+      </RelatedLemmas>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="003247001001000" IsBiblicalTerm="Y" EntryCode="15.2" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Linear Movement</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Move, Come/Go</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-12-01 10:55:48" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>to effect a change of location in space, with the implication that the two locations are significantly different</DefinitionShort>
+              <Glosses>
+                <Gloss>to move from one place to another</Gloss>
+                <Gloss>to change one’s location</Gloss>
+                <Gloss>to depart</Gloss>
+                <Gloss>departure</Gloss>
+              </Glosses>
+              <Comments>In view of the specific reference of μετάθεσις in {S:05801100500038}, it is possible to speak of ‘being taken up,’ but the meaning is clearly a significant change of location from one place to another, that is to say, from earth to heaven.</Comments>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>05801100500038</LEXReference>
+            <LEXReference>05801202700018</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+        <LEXMeaning Id="003247001002000" IsBiblicalTerm="Y" EntryCode="13.52" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Be, Become, Exist, Happen</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Change of State</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-12-01 10:55:48" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>a change from one state to another</DefinitionShort>
+              <Glosses>
+                <Gloss>change</Gloss>
+                <Gloss>transformation</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>05800701200018</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

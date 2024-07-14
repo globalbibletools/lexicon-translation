@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="006969000000000" Lemma="שָׂבֵעַ" Version="4" HasAramaic="false" InLXX="false" AlphaPos="ש">
+  <StrongCodes>
+    <Strong>H7649</Strong>
+  </StrongCodes>
+  <Authors>
+    <Author>Reinier de Blois</Author>
+  </Authors>
+  <Contributors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes>
+    <Note Caller="1" LanguageCode="en" LastEdited="" LastEditedBy="">
+      <References>
+        <Reference>00102500800022</Reference>
+      </References>
+      <Content>The word יָמִים is missing but obviously implied</Content>
+    </Note>
+  </Notes>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="006969001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>aj</PartOfSpeech>
+      </PartsOfSpeech>
+      <RelatedLemmas>
+        <RelatedLemma>
+          <Word>שׂבע</Word>
+        </RelatedLemma>
+      </RelatedLemmas>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="006969001001000" IsBiblicalTerm="Y" EntryCode="" Indent="0">
+          <LEXDomains>
+            <LEXDomain Code="002001001024">Ingest</LEXDomain>
+          </LEXDomains>
+          <LEXAntonyms>
+            <LEXAntonym>רָעֵב</LEXAntonym>
+          </LEXAntonyms>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2017-08-10 13:28:29" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>= process by which someone's desire for food is fulfilled</DefinitionShort>
+              <Glosses>
+                <Gloss>satiated</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>00900200500002</LEXReference>
+            <LEXReference>02002700700004</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+        <LEXMeaning Id="006969001002000" IsBiblicalTerm="Y" EntryCode="" Indent="0">
+          <LEXDomains>
+            <LEXDomain Code="002001001038" Source="Ingest" SourceCode="002001001024">Old</LEXDomain>
+          </LEXDomains>
+          <LEXCollocations>
+            <LEXCollocation>שְׂבַע יָמִים</LEXCollocation>
+          </LEXCollocations>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2017-08-09 14:30:15" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>literally: satiated with days; hence: = state in which humans have reached a very old age</DefinitionShort>
+              <Glosses>
+                <Gloss>satisfied (with days) &gt; having lived long</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>00102500800022{N:001}</LEXReference>
+            <LEXReference>00103502900024</LEXReference>
+            <LEXReference>01302902800012</LEXReference>
+            <LEXReference>01804201700012</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+          <LEXCoreDomains>
+            <LEXCoreDomain Code="005">Age</LEXCoreDomain>
+          </LEXCoreDomains>
+        </LEXMeaning>
+        <LEXMeaning Id="006969001003000" IsBiblicalTerm="Y" EntryCode="" Indent="0">
+          <LEXDomains>
+            <LEXDomain Code="002003003010" Source="Ingest" SourceCode="002001001024">Engage</LEXDomain>
+          </LEXDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2017-08-09 14:30:15" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>literally: satiated (with an event); hence: = process by which humans become more than fully engaged in a certain process or activity, which can be either good or bad</DefinitionShort>
+              <Glosses>
+                <Gloss>satisfied</Gloss>
+                <Gloss>having (one's) fill (of something)</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>00503302300012</LEXReference>
+            <LEXReference>01801001500020</LEXReference>
+            <LEXReference>01801400100014</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+        <LEXMeaning Id="006969001004000" IsBiblicalTerm="Y" EntryCode="" Indent="0">
+          <LEXDomains>
+            <LEXDomain Code="002001002023" Source="Ingest" SourceCode="002001001024">Relief</LEXDomain>
+          </LEXDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2017-08-09 14:30:15" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>literally: satiated; hence: = process by which the desire of humans is fulfilled</DefinitionShort>
+              <Glosses>
+                <Gloss>satisfied</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>02001902300012</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

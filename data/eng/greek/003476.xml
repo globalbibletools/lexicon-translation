@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="003476000000000" Lemma="νυχθήμερον" Version="0" HasAramaic="false" InLXX="false" AlphaPos="ν">
+  <StrongCodes>
+    <Strong>G3574</Strong>
+  </StrongCodes>
+  <Authors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes/>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="003476001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>noun, n.</PartOfSpeech>
+      </PartsOfSpeech>
+      <Inflections>
+        <Inflection Lemma="νυχθήμερον" BaseFormIndex="1">
+          <Form/>
+          <Realizations>
+            <Realization>-ου</Realization>
+          </Realizations>
+          <Comments/>
+        </Inflection>
+      </Inflections>
+      <Constructs>
+        <Construct Lemma="νυχθήμερον" BaseFormIndex="1">
+          <WordMeaningSet>
+            <Word>νύξ</Word>
+          </WordMeaningSet>
+          <WordMeaningSet>
+            <Word>ἡμέρα</Word>
+          </WordMeaningSet>
+        </Construct>
+      </Constructs>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="003476001001000" IsBiblicalTerm="Y" EntryCode="67.179" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Time</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Definite Units of Time: Year, Month, Week, Day, Hour</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-12-11 12:38:54" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>a period consisting of a night and a day (essentially similar in meaning to {L:ἡμέρα&lt;SDBG:ἡμέρα:000000&gt;}[a] ‘day,’ {D:67.178}, but somewhat more explicit and emphatic)</DefinitionShort>
+              <Glosses>
+                <Gloss>a night and a day</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04701102500014</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

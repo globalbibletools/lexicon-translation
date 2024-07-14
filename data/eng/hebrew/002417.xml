@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="002417000000000" Lemma="חֲסִידָה" Version="5" HasAramaic="false" InLXX="false" AlphaPos="ח">
+  <StrongCodes>
+    <Strong>H2624</Strong>
+  </StrongCodes>
+  <Authors>
+    <Author>Reinier de Blois</Author>
+  </Authors>
+  <Contributors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes>
+    <Note Caller="1" LanguageCode="en" LastEdited="" LastEditedBy="">
+      <References>
+        <Reference>01803901300012</Reference>
+      </References>
+      <Content>{A:HOTTP}-B {A:RSV} [2] | {A:NIV} {A:NJB} {A:NJPS} {A:GNT} {A:CEV} [1] | {A:NRSV} {A:REB} חסר "to lack (plumage), be stunted"</Content>
+    </Note>
+  </Notes>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="002417001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>nsf</PartOfSpeech>
+      </PartsOfSpeech>
+      <RelatedLemmas>
+        <RelatedLemma>
+          <Word>חסד</Word>
+        </RelatedLemma>
+      </RelatedLemmas>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="002417001001000" IsBiblicalTerm="M" EntryCode="" Indent="0">
+          <LEXDomains>
+            <LEXDomain Code="001001002001005">Birds</LEXDomain>
+          </LEXDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2015-12-28 11:32:57" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>= large bird with long legs and a long neck; the white stork has a white body and black wings, whereas the black stork is a glossy brownish black color with a white belly; both varieties have a red beak and legs; both types spend most of the time on the ground or in shallow water searching for food; the white stork eats mainly locusts, grasshoppers, and other insects, as well as frogs, lizards, and the chicks of ground-nesting birds, whereas the black stork prefers fish and frogs but also eats the same things as the white stork; ◄ |iCiconia ciconia|i* or |iCiconia nigra|i*; ► unclean and therefore not to be eaten</DefinitionShort>
+              <Glosses>
+                <Gloss>stork</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>00301101900008</LEXReference>
+            <LEXReference>00501401800006</LEXReference>
+            <LEXReference>01803901300012{N:001}</LEXReference>
+            <LEXReference>01910401700010</LEXReference>
+            <LEXReference>02400800700004</LEXReference>
+            <LEXReference>03800500900044</LEXReference>
+          </LEXReferences>
+          <LEXLinks>
+            <LEXLink>Fauna:3.22</LEXLink>
+          </LEXLinks>
+          <LEXVideos/>
+          <LEXCoreDomains>
+            <LEXCoreDomain Code="010">Animal</LEXCoreDomain>
+          </LEXCoreDomains>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+    <BaseForm Id="002417002000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>nsf</PartOfSpeech>
+      </PartsOfSpeech>
+      <RelatedLemmas>
+        <RelatedLemma>
+          <Word>חסד</Word>
+        </RelatedLemma>
+      </RelatedLemmas>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="002417002001000" IsBiblicalTerm="Y" EntryCode="" Indent="0">
+          <LEXDomains>
+            <LEXDomain Code="002001002018">Love</LEXDomain>
+          </LEXDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2015-12-28 11:32:57" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>= state of having affection for other animate objects and be willing to care of them</DefinitionShort>
+              <Glosses>
+                <Gloss>love</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>01803901300012{N:001}</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+          <LEXCoreDomains>
+            <LEXCoreDomain Code="004">Affection</LEXCoreDomain>
+          </LEXCoreDomains>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

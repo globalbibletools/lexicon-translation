@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="004563000000000" Lemma="מַתָּנָה" Version="5" HasAramaic="false" InLXX="false" AlphaPos="מ">
+  <StrongCodes>
+    <Strong>H4979</Strong>
+    <Strong>H4980</Strong>
+  </StrongCodes>
+  <Authors>
+    <Author>Reinier de Blois</Author>
+  </Authors>
+  <Contributors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes/>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="004563001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>nsf</PartOfSpeech>
+      </PartsOfSpeech>
+      <RelatedLemmas>
+        <RelatedLemma>
+          <Word>נתן</Word>
+        </RelatedLemma>
+      </RelatedLemmas>
+      <MeaningsOfName>
+        <MeaningOfName LanguageCode="en">
+          <Meaning>gift</Meaning>
+        </MeaningOfName>
+      </MeaningsOfName>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="004563001001000" IsBiblicalTerm="M" EntryCode="" Indent="0">
+          <LEXDomains>
+            <LEXDomain Code="001" Source="Non-Possess" SourceCode="002003002019">Objects</LEXDomain>
+          </LEXDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2017-06-22 11:14:41" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>= object given to someone else</DefinitionShort>
+              <Glosses>
+                <Gloss>gift</Gloss>
+                <Gloss>present</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>00102500600022</LEXReference>
+            <LEXReference>00202803800038</LEXReference>
+            <LEXReference>00302303800020</LEXReference>
+            <LEXReference>00401800600028</LEXReference>
+            <LEXReference>00401800700048</LEXReference>
+            <LEXReference>00401802900006</LEXReference>
+            <LEXReference>00501601700006</LEXReference>
+            <LEXReference>01402100300010</LEXReference>
+            <LEXReference>01700902200082</LEXReference>
+            <LEXReference>01906801900016</LEXReference>
+            <LEXReference>02001502700014</LEXReference>
+            <LEXReference>02100700700020</LEXReference>
+            <LEXReference>02602002600010</LEXReference>
+            <LEXReference>02602003100008</LEXReference>
+            <LEXReference>02602003900054</LEXReference>
+            <LEXReference>02604601600018</LEXReference>
+            <LEXReference>02604601700008</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+          <LEXCoreDomains>
+            <LEXCoreDomain Code="128">Possession</LEXCoreDomain>
+          </LEXCoreDomains>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+    <BaseForm Id="004563002000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>np</PartOfSpeech>
+      </PartsOfSpeech>
+      <MeaningsOfName>
+        <MeaningOfName LanguageCode="en">
+          <Meaning>gift</Meaning>
+        </MeaningOfName>
+        <MeaningOfName LanguageCode="pt">
+          <Meaning>presente</Meaning>
+        </MeaningOfName>
+      </MeaningsOfName>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="004563002001000" IsBiblicalTerm="Y" EntryCode="" Indent="0">
+          <LEXDomains>
+            <LEXDomain Code="003001010">Names of Locations</LEXDomain>
+          </LEXDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2017-06-22 11:14:41" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>= location; ► along route of exodus</DefinitionShort>
+              <Glosses>
+                <Gloss>Mattanah</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>00402101800030</LEXReference>
+            <LEXReference>00402101900006</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+          <LEXCoordinates>
+            <LEXCoordinates>31.718148,35.584826</LEXCoordinates>
+          </LEXCoordinates>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

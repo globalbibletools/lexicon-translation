@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="001951000000000" Lemma="זוע" Version="5" HasAramaic="true" InLXX="false" AlphaPos="ז">
+  <StrongCodes>
+    <Strong>H2111</Strong>
+    <Strong>A2112</Strong>
+  </StrongCodes>
+  <Authors>
+    <Author>Enio R. Mueller</Author>
+  </Authors>
+  <Contributors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes>
+    <Note Caller="1" LanguageCode="en" LastEdited="" LastEditedBy="">
+      <References>
+        <Reference>02700501900026</Reference>
+        <Reference>02700602700022</Reference>
+      </References>
+      <Content>MT-K זאעין | MT-Q זָיְעִין</Content>
+    </Note>
+  </Notes>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="001951001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>vb</PartOfSpeech>
+      </PartsOfSpeech>
+      <RelatedLemmas>
+        <RelatedLemma>
+          <Word>זְוָעָה</Word>
+        </RelatedLemma>
+        <RelatedLemma>
+          <Word>זַעֲוָה</Word>
+        </RelatedLemma>
+      </RelatedLemmas>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="001951001001000" IsBiblicalTerm="Y" EntryCode="" Indent="0">
+          <LEXDomains>
+            <LEXDomain Code="002001001064">Unsteady</LEXDomain>
+          </LEXDomains>
+          <LEXForms>
+            <LEXForm>vbqal-</LEXForm>
+          </LEXForms>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2017-09-03 14:39:33" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>= process by which (part of) the body of humans shakes or trembles violently and involuntarily, ◄ caused by fear, respect, or old age</DefinitionShort>
+              <Glosses>
+                <Gloss>to tremble</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>01700500900056</LEXReference>
+            <LEXReference>02101200300010</LEXReference>
+            <LEXReference>02700501900026{N:001}</LEXReference>
+            <LEXReference>02700501900028</LEXReference>
+            <LEXReference>02700602700022{N:001}</LEXReference>
+            <LEXReference>02700602700024</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+          <LEXCoreDomains>
+            <LEXCoreDomain Code="019">Body</LEXCoreDomain>
+          </LEXCoreDomains>
+        </LEXMeaning>
+        <LEXMeaning Id="001951001002000" IsBiblicalTerm="Y" EntryCode="" Indent="0">
+          <LEXDomains>
+            <LEXDomain Code="002001001064">Unsteady</LEXDomain>
+          </LEXDomains>
+          <LEXForms>
+            <LEXForm>vbpiel</LEXForm>
+          </LEXForms>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2017-09-03 14:39:33" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>= causative action by which humans cause the body of other humans to shake or tremble ◄ as a result of fear</DefinitionShort>
+              <Glosses>
+                <Gloss>to make tremble</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>03500200700016</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+          <LEXCoreDomains>
+            <LEXCoreDomain Code="019">Body</LEXCoreDomain>
+          </LEXCoreDomains>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

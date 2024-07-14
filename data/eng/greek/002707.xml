@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="002707000000000" Lemma="κατατίθημι" Version="0" HasAramaic="false" InLXX="true" AlphaPos="κ">
+  <StrongCodes>
+    <Strong>G2698</Strong>
+  </StrongCodes>
+  <Authors/>
+  <AlternateLemmas>
+    <AlternateLemma>κατατίθεμαι</AlternateLemma>
+  </AlternateLemmas>
+  <MainLinks/>
+  <Notes/>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="002707001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>verb</PartOfSpeech>
+      </PartsOfSpeech>
+      <Inflections>
+        <Inflection Lemma="κατατίθημι" BaseFormIndex="1">
+          <Form>aor.</Form>
+          <Realizations>
+            <Realization>κατέθηκα</Realization>
+          </Realizations>
+          <Comments/>
+        </Inflection>
+        <Inflection Lemma="κατατίθημι" BaseFormIndex="1">
+          <Form>aor.midd.inf.</Form>
+          <Realizations>
+            <Realization>καταθέσθαι</Realization>
+          </Realizations>
+          <Comments/>
+        </Inflection>
+      </Inflections>
+      <RelatedLemmas>
+        <RelatedLemma>
+          <Word>τίθημι</Word>
+        </RelatedLemma>
+      </RelatedLemmas>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="002707001001000" IsBiblicalTerm="Y" EntryCode="90.62" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Case</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Experiencer</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXForms>
+            <LEXForm>κατατίθεμαι</LEXForm>
+          </LEXForms>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-09-24 18:56:28" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>to experience, with the implication of something having been bestowed upon</DefinitionShort>
+              <Glosses>
+                <Gloss>to gain</Gloss>
+                <Gloss>to obtain</Gloss>
+                <Gloss>to experience</Gloss>
+              </Glosses>
+              <Comments>In some languages it may be more natural to translate as ‘and wanting the Jews to show him good will’ or ‘and hoping that the Jews would like him.’</Comments>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04402402700026</LEXReference>
+            <LEXReference>04402500900016</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

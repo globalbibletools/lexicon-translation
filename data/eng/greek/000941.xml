@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="000941000000000" Lemma="βατταλογέω" Version="0" HasAramaic="false" InLXX="false" AlphaPos="β">
+  <StrongCodes>
+    <Strong>G0945</Strong>
+  </StrongCodes>
+  <Authors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes>
+    <Note Caller="1" LanguageCode="en" LastEdited="" LastEditedBy="">
+      <References>
+        <Reference>04000600700008</Reference>
+      </References>
+      <Content>βατταλογέω in the sense of ‘to babble’ or ‘to utter senseless sounds’ is treated in {D:33.89}. The justification for βατταλογέω in the sense of ‘to speak much’ is probably to be found in the context of {S:04000600700008}, where the term πολυλογία ({D:33.87}) appears to be an explanation of the meaning of βατταλογέω.</Content>
+    </Note>
+  </Notes>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="000941001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>verb</PartOfSpeech>
+      </PartsOfSpeech>
+      <Constructs>
+        <Construct Lemma="βατταλογέω" BaseFormIndex="1">
+          <WordMeaningSet>
+            <Word>βάττος</Word>
+            <Meaning LanguageCode="en">
+              <Meaning>stammerer [formed from the sound]</Meaning>
+            </Meaning>
+            <Meaning LanguageCode="zhT">
+              <Meaning>口吃的人［由聲音形成］</Meaning>
+            </Meaning>
+          </WordMeaningSet>
+          <WordMeaningSet>
+            <Word>λέγω</Word>
+          </WordMeaningSet>
+        </Construct>
+      </Constructs>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="000941001001000" IsBiblicalTerm="Y" EntryCode="33.88" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Communication</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Speak, Talk</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-02-04 23:30:46" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>to speak much or extensively, with a possible added implication of meaningless words</DefinitionShort>
+              <Glosses>
+                <Gloss>to use many words</Gloss>
+                <Gloss>to speak for a long time</Gloss>
+              </Glosses>
+              <Comments>For another interpretation of βατταλογέω in {S:04000600700008}, see βατταλογέω[b] {D:33.89}.</Comments>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04000600700008{N:001}</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+        <LEXMeaning Id="000941001002000" IsBiblicalTerm="Y" EntryCode="33.89" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Communication</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Speak, Talk</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-02-04 23:30:46" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>to utter senseless sounds or to speak indistinctly and incoherently</DefinitionShort>
+              <Glosses>
+                <Gloss>to babble</Gloss>
+              </Glosses>
+              <Comments>For another interpretation of βατταλογέω in {S:04000600700008}, see {L:βατταλογέω&lt;SDBG:βατταλογέω:000000&gt;}[a] {D:33.88}.|In some languages the equivalent of ‘to babble’ is ‘to speak like a baby’ or ‘to speak sounds that make no sense.’</Comments>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04000600700008</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

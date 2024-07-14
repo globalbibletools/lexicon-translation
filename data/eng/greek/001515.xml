@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="001515000000000" Lemma="εἰδωλόθυτος" Version="0" HasAramaic="false" InLXX="true" AlphaPos="ε">
+  <StrongCodes>
+    <Strong>G1494</Strong>
+  </StrongCodes>
+  <Authors/>
+  <AlternateLemmas>
+    <AlternateLemma>εἰδωλόθυτον</AlternateLemma>
+  </AlternateLemmas>
+  <MainLinks/>
+  <Notes/>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="001515001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>adjc.</PartOfSpeech>
+      </PartsOfSpeech>
+      <Inflections>
+        <Inflection Lemma="εἰδωλόθυτος" BaseFormIndex="1">
+          <Form/>
+          <Realizations>
+            <Realization>-ον</Realization>
+          </Realizations>
+          <Comments/>
+        </Inflection>
+      </Inflections>
+      <Constructs>
+        <Construct Lemma="εἰδωλόθυτος" BaseFormIndex="1">
+          <WordMeaningSet>
+            <Word>εἶδος</Word>
+          </WordMeaningSet>
+          <WordMeaningSet>
+            <Word>θύω</Word>
+          </WordMeaningSet>
+        </Construct>
+      </Constructs>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="001515001001000" IsBiblicalTerm="M" EntryCode="5.15" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Foods and Condiments</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Food</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-10-27 01:44:21" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>the meat of animals which have been sacrificed to idols</DefinitionShort>
+              <Glosses>
+                <Gloss>sacrificial meat</Gloss>
+                <Gloss>meat of animals sacrificed to an idol</Gloss>
+              </Glosses>
+              <Comments>εἰδωλόθυτον is a semantically complex word meaning literally ‘that which has been sacrificed to idols.’ There is no specific element meaning ‘meat,’ but the stem meaning ‘sacrifice’ implies ‘meat.’ Part of the sacrifice was normally burned on the altar, part was eaten during a ritual meal in a temple, and part was sold in the public market. According to Jewish tradition this meat was unclean and therefore forbidden. εἰδωλόθυτον is normally translated by a phrase, for example, ‘meat which had been offered to idols’ or ‘meat of an animal which had been sacrificed to idols’ or ‘meat of animals killed in honor of false gods.’</Comments>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04401502900004</LEXReference>
+            <LEXReference>04402102500026</LEXReference>
+            <LEXReference>04600800100008</LEXReference>
+            <LEXReference>04600800400012</LEXReference>
+            <LEXReference>04600800700032</LEXReference>
+            <LEXReference>04600801000044</LEXReference>
+            <LEXReference>04601001900010</LEXReference>
+            <LEXReference>06600201400048</LEXReference>
+            <LEXReference>06600202000048</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

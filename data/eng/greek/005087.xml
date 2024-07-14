@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="005087000000000" Lemma="ὕβρις" Version="0" HasAramaic="false" InLXX="true" AlphaPos="υ">
+  <StrongCodes>
+    <Strong>G5196</Strong>
+  </StrongCodes>
+  <Authors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes/>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="005087001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>noun, f.</PartOfSpeech>
+      </PartsOfSpeech>
+      <Inflections>
+        <Inflection Lemma="ὕβρις" BaseFormIndex="1">
+          <Form/>
+          <Realizations>
+            <Realization>-εως</Realization>
+          </Realizations>
+          <Comments/>
+        </Inflection>
+      </Inflections>
+      <RelatedLemmas>
+        <RelatedLemma>
+          <Word>ὑβρίζω</Word>
+        </RelatedLemma>
+      </RelatedLemmas>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="005087001001000" IsBiblicalTerm="M" EntryCode="88.131" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Moral and Ethical Qualities and Related Behavior</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Treat Badly</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2022-04-18 08:10:15" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>to be insolently mistreated</DefinitionShort>
+              <Glosses>
+                <Gloss>maltreatment</Gloss>
+                <Gloss>insolence and mistreatment</Gloss>
+              </Glosses>
+              <Comments>It is also possible to understand ὕβρις in {S:04701201000012} as actual physical violence (see {D:20.19}) or as insults (see {D:33.391}).</Comments>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04701201000012</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+        <LEXMeaning Id="005087001002000" IsBiblicalTerm="M" EntryCode="20.19" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Violence, Harm, Destroy, Kill</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Harm, Wound</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2022-04-18 08:10:15" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>the condition resulting from violence or mistreatment</DefinitionShort>
+              <Glosses>
+                <Gloss>harm</Gloss>
+                <Gloss>damage</Gloss>
+                <Gloss>injury</Gloss>
+              </Glosses>
+              <Comments>It is possible to interpret ὕβρις in {S:04701201000012} as ‘insults’ (see {D:33.391}) or as ‘insolent mistreatment’ (see {D:88.131}).</Comments>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04402701000014</LEXReference>
+            <LEXReference>04402702100054</LEXReference>
+            <LEXReference>04701201000012</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+        <LEXMeaning Id="005087001003000" IsBiblicalTerm="M" EntryCode="33.391" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Communication</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Insult, Slander</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2022-04-18 08:10:15" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>(derivative of {L:ὑβρίζω&lt;SDBG:ὑβρίζω:000001&gt;}[b] ‘to insult,’ {D:33.390}) the content of an insulting statement</DefinitionShort>
+              <Glosses>
+                <Gloss>insult</Gloss>
+              </Glosses>
+              <Comments>In {S:04701201000012} it is not possible to determine whether ὕβρις refers to the content of the slanderous words or to the event of being slandered. For other interpretations of ὕβρις in {S:04701201000012}, see {D:88.131} and {D:20.19}.</Comments>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04701201000012</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

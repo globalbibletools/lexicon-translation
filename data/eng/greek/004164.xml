@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="004164000000000" Lemma="προβιβάζω" Version="0" HasAramaic="false" InLXX="true" AlphaPos="π">
+  <StrongCodes>
+    <Strong>G4264</Strong>
+  </StrongCodes>
+  <Authors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes/>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="004164001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>verb</PartOfSpeech>
+      </PartsOfSpeech>
+      <RelatedLemmas>
+        <RelatedLemma>
+          <Word>βαίνω</Word>
+          <Meaning LanguageCode="en">
+            <Meaning>go, walk</Meaning>
+          </Meaning>
+          <Meaning LanguageCode="zhT">
+            <Meaning>走，走路</Meaning>
+          </Meaning>
+        </RelatedLemma>
+      </RelatedLemmas>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="004164001001000" IsBiblicalTerm="Y" EntryCode="33.299" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Communication</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Urge, Persuade</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2022-02-03 12:20:40" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>to speak in such a way as to encourage a particular type of behavior or action</DefinitionShort>
+              <Glosses>
+                <Gloss>to urge</Gloss>
+              </Glosses>
+              <Comments>It is also possible that προβιβάζω in {S:04001400800006} should be interpreted to mean ‘to be urged on beforehand’ or ‘to be put forward.’</Comments>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04001400800006</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

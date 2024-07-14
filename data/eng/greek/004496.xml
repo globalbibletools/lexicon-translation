@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="004496000000000" Lemma="σήπω" Version="0" HasAramaic="false" InLXX="true" AlphaPos="σ">
+  <StrongCodes>
+    <Strong>G4595</Strong>
+  </StrongCodes>
+  <Authors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes/>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="004496001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>verb</PartOfSpeech>
+      </PartsOfSpeech>
+      <Inflections>
+        <Inflection Lemma="σήπω" BaseFormIndex="1">
+          <Form>pf.</Form>
+          <Realizations>
+            <Realization>σέσηπα</Realization>
+          </Realizations>
+          <Comments/>
+        </Inflection>
+      </Inflections>
+      <RelatedLemmas>
+        <RelatedLemma>
+          <Word>σαπρός</Word>
+        </RelatedLemma>
+      </RelatedLemmas>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="004496001001000" IsBiblicalTerm="Y" EntryCode="23.205" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Physiological Processes and States</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Rot, Decay</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2022-02-09 20:26:16" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>to rot or decay, in reference to organic matter</DefinitionShort>
+              <Glosses>
+                <Gloss>to rot</Gloss>
+                <Gloss>to decay</Gloss>
+                <Gloss>decay</Gloss>
+              </Glosses>
+              <Comments>There may be problems involved in a literal rendering of {S:05900500200008} because it may seem strange to speak of ‘riches rotting,’ since a term for ‘riches’ is likely to refer primarily to money. It may therefore be necessary to translate ‘the things that make you rich’ or ‘all the things you have as a rich person.’</Comments>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>05900500200008</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

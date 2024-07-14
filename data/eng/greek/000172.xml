@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="000172000000000" Lemma="ἀκάνθινος" Version="0" HasAramaic="false" InLXX="true" AlphaPos="α">
+  <StrongCodes>
+    <Strong>G0174</Strong>
+  </StrongCodes>
+  <Authors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes/>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="000172001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>adjc.</PartOfSpeech>
+      </PartsOfSpeech>
+      <Inflections>
+        <Inflection Lemma="ἀκάνθινος" BaseFormIndex="1">
+          <Form/>
+          <Realizations>
+            <Realization>-η, -ον</Realization>
+          </Realizations>
+          <Comments/>
+        </Inflection>
+      </Inflections>
+      <RelatedLemmas>
+        <RelatedLemma>
+          <Word>ἄκανθα</Word>
+        </RelatedLemma>
+      </RelatedLemmas>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="000172001001000" IsBiblicalTerm="M" EntryCode="3.18" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Plants</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Plants That Are Not Trees</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXCollocations>
+            <LEXCollocation>ἀκάνθινον στέφανον</LEXCollocation>
+          </LEXCollocations>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-04-13 00:28:00" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>(derivative of {L:ἄκανθα&lt;SDBG:ἄκανθα:000000&gt;} ‘thorn plant,’ {D:3.17}) pertaining to being made or consisting of thorns; in the NT, only in the phrase ἀκάνθινον στέφανον, a crown made from a plant with sharp projections on its stem and/or branches; symbol of hardship</DefinitionShort>
+              <Glosses>
+                <Gloss>crown of thorns</Gloss>
+              </Glosses>
+              <Comments>It may be necessary to indicate that this crown of thorns is one made of ‘branches of a thorny bush,’ for the crown did not consist merely of thorns but of thorny vines or branches.</Comments>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04101501700018</LEXReference>
+            <LEXReference>04301900500016</LEXReference>
+          </LEXReferences>
+          <LEXLinks>
+            <LEXLink>flora:6.2.3</LEXLink>
+          </LEXLinks>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

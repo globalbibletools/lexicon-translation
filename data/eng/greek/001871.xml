@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="001871000000000" Lemma="ἐξωθέω" Version="0" HasAramaic="false" InLXX="true" AlphaPos="ε">
+  <StrongCodes>
+    <Strong>G1856</Strong>
+  </StrongCodes>
+  <Authors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes>
+    <Note Caller="1" LanguageCode="en" LastEdited="" LastEditedBy="">
+      <References>
+        <Reference>04402703900040</Reference>
+      </References>
+      <Content>In {S:04402703900040} a few manuscripts read ἐκσῶσαι, perhaps not aor. inf. of ἐκσῴζω, but rather a misspelling for ἐξῶσαι due to homophony.</Content>
+    </Note>
+  </Notes>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="001871001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>verb</PartOfSpeech>
+      </PartsOfSpeech>
+      <Inflections>
+        <Inflection Lemma="ἐξωθέω" BaseFormIndex="1">
+          <Form>aor.</Form>
+          <Realizations>
+            <Realization>ἐξῶσα</Realization>
+          </Realizations>
+          <Comments/>
+        </Inflection>
+        <Inflection Lemma="ἐξωθέω" BaseFormIndex="1">
+          <Form>inf.</Form>
+          <Realizations>
+            <Realization>ἐξῶσαι</Realization>
+            <Realization>ἐξέωσαι</Realization>
+          </Realizations>
+          <Comments/>
+        </Inflection>
+      </Inflections>
+      <Constructs>
+        <Construct Lemma="ἐξωθέω" BaseFormIndex="1">
+          <WordMeaningSet>
+            <Word>ἐκ</Word>
+          </WordMeaningSet>
+          <WordMeaningSet>
+            <Word>ὠθέω</Word>
+            <Meaning LanguageCode="en">
+              <Meaning>push</Meaning>
+            </Meaning>
+            <Meaning LanguageCode="zhT">
+              <Meaning>推</Meaning>
+            </Meaning>
+          </WordMeaningSet>
+        </Construct>
+      </Constructs>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="001871001001000" IsBiblicalTerm="Y" EntryCode="15.45" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Linear Movement</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Leave, Depart, Flee, Escape, Send</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-06-10 09:28:57" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>to force someone or something to leave</DefinitionShort>
+              <Glosses>
+                <Gloss>to expel</Gloss>
+                <Gloss>to drive away</Gloss>
+              </Glosses>
+              <Comments>In some languages it may be necessary to indicate more explicitly the factors involved in driving out the nations, for example, ‘the nations whom God forced to leave their land as our ancestors came in.’</Comments>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04400704500032</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+        <LEXMeaning Id="001871001002000" IsBiblicalTerm="Y" EntryCode="54.17" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Maritime Activities</LEXDomain>
+          </LEXDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-06-10 09:28:57" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>the movement of a ship being driven ashore</DefinitionShort>
+              <Glosses>
+                <Gloss>to run aground</Gloss>
+                <Gloss>to run a ship onto a beach</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04402703900040{N:001}</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

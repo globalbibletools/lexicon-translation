@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="005387000000000" Lemma="χειροτονέω" Version="0" HasAramaic="false" InLXX="false" AlphaPos="χ">
+  <StrongCodes>
+    <Strong>G5500</Strong>
+  </StrongCodes>
+  <Authors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes/>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="005387001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>verb</PartOfSpeech>
+      </PartsOfSpeech>
+      <Constructs>
+        <Construct Lemma="χειροτονέω" BaseFormIndex="1">
+          <WordMeaningSet>
+            <Word>χείρ</Word>
+          </WordMeaningSet>
+          <WordMeaningSet>
+            <Word>τείνω</Word>
+            <Meaning LanguageCode="en">
+              <Meaning>stretch, reach</Meaning>
+            </Meaning>
+            <Meaning LanguageCode="zhT">
+              <Meaning>伸長，達到</Meaning>
+            </Meaning>
+          </WordMeaningSet>
+        </Construct>
+      </Constructs>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="005387001001000" IsBiblicalTerm="Y" EntryCode="30.101" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Think</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>To Choose, To Select, To Prefer</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2022-05-30 19:25:31" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>to choose or select, presumably by a group and possibly by the actual raising of the hand</DefinitionShort>
+              <Glosses>
+                <Gloss>to choose</Gloss>
+                <Gloss>to elect</Gloss>
+                <Gloss>to select</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04700801900012</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+        <LEXMeaning Id="005387001002000" IsBiblicalTerm="Y" EntryCode="37.103" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Control, Rule</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Assign to a Role or Function</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2022-05-30 19:25:31" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>to formally appoint or assign someone to a particular task</DefinitionShort>
+              <Glosses>
+                <Gloss>to appoint</Gloss>
+                <Gloss>to assign</Gloss>
+              </Glosses>
+              <Comments>In {S:04401402300002} {L:χειροτονέω&lt;SDBG:χειροτονέω:000000&gt;} may, however, be understood in the meaning of ‘to choose or elect to office by the raising of hands’ (see {D:30.101}).</Comments>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04401402300002</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

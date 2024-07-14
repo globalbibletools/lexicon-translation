@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="000445000000000" Lemma="אלם" Version="5" HasAramaic="false" InLXX="false" AlphaPos="א">
+  <StrongCodes>
+    <Strong>H0481</Strong>
+  </StrongCodes>
+  <Authors>
+    <Author>Reinier de Blois</Author>
+  </Authors>
+  <Contributors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes/>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="000445001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>vb</PartOfSpeech>
+      </PartsOfSpeech>
+      <RelatedLemmas>
+        <RelatedLemma>
+          <Word>אִלֵּם</Word>
+        </RelatedLemma>
+        <RelatedLemma>
+          <Word>אֵלֶם</Word>
+        </RelatedLemma>
+        <RelatedLemma>
+          <Word>אַלְמָן</Word>
+        </RelatedLemma>
+        <RelatedLemma>
+          <Word>אַלְמָנָה</Word>
+        </RelatedLemma>
+        <RelatedLemma>
+          <Word>אַלְמָנוּת</Word>
+        </RelatedLemma>
+        <RelatedLemma>
+          <Word>אַלְמֹנִי</Word>
+        </RelatedLemma>
+      </RelatedLemmas>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="000445001001000" IsBiblicalTerm="Y" EntryCode="" Indent="0">
+          <LEXDomains>
+            <LEXDomain Code="002001001062">Unable</LEXDomain>
+          </LEXDomains>
+          <LEXForms>
+            <LEXForm>vbnif-</LEXForm>
+          </LEXForms>
+          <LEXSynonyms>
+            <LEXSynonym>דוּמִיָּה</LEXSynonym>
+            <LEXSynonym>חשׁה</LEXSynonym>
+            <LEXSynonym>לָשֹׁון דבק אֶל־חֵךְ</LEXSynonym>
+          </LEXSynonyms>
+          <LEXAntonyms>
+            <LEXAntonym>דבר</LEXAntonym>
+            <LEXAntonym>יכח</LEXAntonym>
+            <LEXAntonym>פתח פִּי</LEXAntonym>
+          </LEXAntonyms>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2017-12-31 13:42:20" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>= to be unable to speak ◄ because of a physical limitation or because of emotions</DefinitionShort>
+              <Glosses>
+                <Gloss>to be dumb</Gloss>
+                <Gloss>to be unable to speak</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>01903101900002</LEXReference>
+            <LEXReference>01903900300002</LEXReference>
+            <LEXReference>01903901000002</LEXReference>
+            <LEXReference>02305300700044</LEXReference>
+            <LEXReference>02600302600014</LEXReference>
+            <LEXReference>02602402700030</LEXReference>
+            <LEXReference>02603302200058</LEXReference>
+            <LEXReference>02701001500028</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+          <LEXCoreDomains>
+            <LEXCoreDomain Code="001">Ability</LEXCoreDomain>
+            <LEXCoreDomain Code="019">Body</LEXCoreDomain>
+            <LEXCoreDomain Code="076">Health and Sickness</LEXCoreDomain>
+            <LEXCoreDomain Code="041">Communication</LEXCoreDomain>
+          </LEXCoreDomains>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+    <BaseForm Id="000445002000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>vb</PartOfSpeech>
+      </PartsOfSpeech>
+      <RelatedLemmas>
+        <RelatedLemma>
+          <Word>אֲלֻמָּה</Word>
+        </RelatedLemma>
+      </RelatedLemmas>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="000445002001000" IsBiblicalTerm="Y" EntryCode="" Indent="0">
+          <LEXDomains>
+            <LEXDomain Code="002003001002">Bind</LEXDomain>
+          </LEXDomains>
+          <LEXForms>
+            <LEXForm>vbpiel</LEXForm>
+          </LEXForms>
+          <LEXCollocations>
+            <LEXCollocation>אלם אֲלֻמָּה</LEXCollocation>
+          </LEXCollocations>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2017-12-31 13:42:20" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>= action by which someone bundles harvested ears of grain</DefinitionShort>
+              <Glosses>
+                <Gloss>to make sheaves</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>00103700700008</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+          <LEXCoreDomains>
+            <LEXCoreDomain Code="007">Agriculture</LEXCoreDomain>
+          </LEXCoreDomains>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

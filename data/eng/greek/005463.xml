@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="005463000000000" Lemma="ψεῦδος" Version="0" HasAramaic="false" InLXX="true" AlphaPos="ψ">
+  <StrongCodes>
+    <Strong>G5579</Strong>
+  </StrongCodes>
+  <Authors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes/>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="005463001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>noun, n.</PartOfSpeech>
+      </PartsOfSpeech>
+      <Inflections>
+        <Inflection Lemma="ψεῦδος" BaseFormIndex="1">
+          <Form/>
+          <Realizations>
+            <Realization>-ους</Realization>
+          </Realizations>
+          <Comments/>
+        </Inflection>
+      </Inflections>
+      <RelatedLemmas>
+        <RelatedLemma>
+          <Word>ψεύδομαι</Word>
+        </RelatedLemma>
+      </RelatedLemmas>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="005463001001000" IsBiblicalTerm="M" EntryCode="33.254" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Communication</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Speak Truth, Speak Falsehood</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2022-06-04 20:40:11" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>(derivative of {L:ψεύδομαι&lt;SDBG:ψεύδομαι:000000&gt;} ‘to lie,’ {D:33.253}) the content of a false utterance</DefinitionShort>
+              <Glosses>
+                <Gloss>lie</Gloss>
+                <Gloss>falsehood</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04300804400072</LEXReference>
+            <LEXReference>04500102500018</LEXReference>
+            <LEXReference>04900402500008</LEXReference>
+            <LEXReference>05300200900032</LEXReference>
+            <LEXReference>05300201100030</LEXReference>
+            <LEXReference>06200202100032</LEXReference>
+            <LEXReference>06200202700070</LEXReference>
+            <LEXReference>06601400500016</LEXReference>
+            <LEXReference>06602102700028</LEXReference>
+            <LEXReference>06602201500042</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="000124000000000" Lemma="αἰγιαλός" Version="0" HasAramaic="false" InLXX="true" AlphaPos="α">
+  <StrongCodes>
+    <Strong>G0123</Strong>
+  </StrongCodes>
+  <Authors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes/>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="000124001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>noun, m.</PartOfSpeech>
+      </PartsOfSpeech>
+      <Inflections>
+        <Inflection Lemma="αἰγιαλός" BaseFormIndex="1">
+          <Form/>
+          <Realizations>
+            <Realization>-οῦ</Realization>
+          </Realizations>
+          <Comments/>
+        </Inflection>
+      </Inflections>
+      <Constructs>
+        <Construct Lemma="αἰγιαλός" BaseFormIndex="1">
+          <WordMeaningSet>
+            <Word>ἀΐσσω</Word>
+            <Meaning LanguageCode="en">
+              <Meaning>move quickly</Meaning>
+            </Meaning>
+            <Meaning LanguageCode="zhT">
+              <Meaning>更快</Meaning>
+            </Meaning>
+          </WordMeaningSet>
+          <WordMeaningSet>
+            <Word>ἁλίζω</Word>
+          </WordMeaningSet>
+        </Construct>
+      </Constructs>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="000124001001000" IsBiblicalTerm="Y" EntryCode="1.63" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Geographical Objects and Features</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Land in Contrast With the Sea</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-03-06 15:32:56" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>a strip of land immediately bordering the edge of a body of water and gradually sloping down into the water</DefinitionShort>
+              <Glosses>
+                <Gloss>beach</Gloss>
+                <Gloss>shore</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04001300200038</LEXReference>
+            <LEXReference>04001304800014</LEXReference>
+            <LEXReference>04302100400018</LEXReference>
+            <LEXReference>04402100500054</LEXReference>
+            <LEXReference>04402703900028</LEXReference>
+            <LEXReference>04402704000048</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

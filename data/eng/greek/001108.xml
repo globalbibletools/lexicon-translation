@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="001108000000000" Lemma="γηράσκω" Version="0" HasAramaic="false" InLXX="true" AlphaPos="γ">
+  <StrongCodes>
+    <Strong>G1095</Strong>
+  </StrongCodes>
+  <Authors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes>
+    <Note Caller="1" LanguageCode="en" LastEdited="" LastEditedBy="">
+      <References>
+        <Reference>04302101800032</Reference>
+      </References>
+      <Content>It is also possible to treat γηράσκω in Domain 23 Physiological Processes and States, but the focus in {S:04302101800032} seems to be more upon duration of time than upon a physiological state.</Content>
+    </Note>
+  </Notes>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="001108001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>verb</PartOfSpeech>
+      </PartsOfSpeech>
+      <RelatedLemmas>
+        <RelatedLemma>
+          <Word>γέρων</Word>
+        </RelatedLemma>
+        <RelatedLemma>
+          <Word>γερουσία</Word>
+        </RelatedLemma>
+        <RelatedLemma>
+          <Word>γῆρας</Word>
+        </RelatedLemma>
+      </RelatedLemmas>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="001108001001000" IsBiblicalTerm="Y" EntryCode="67.105" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Time</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Duration of Time without Reference to Points or Units of Time: Time, Spend Time, Always, Eternal, Old, Immediately, Young</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-05-13 22:04:29" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>to become old in age (referring to living beings)</DefinitionShort>
+              <Glosses>
+                <Gloss>to grow old</Gloss>
+                <Gloss>to become old</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04302101800032{N:001}</LEXReference>
+            <LEXReference>05800801300024</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

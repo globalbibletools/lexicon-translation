@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="002213000000000" Lemma="ζεστός" Version="0" HasAramaic="false" InLXX="false" AlphaPos="ζ">
+  <StrongCodes>
+    <Strong>G2200</Strong>
+  </StrongCodes>
+  <Authors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes/>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="002213001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>adjc.</PartOfSpeech>
+      </PartsOfSpeech>
+      <Inflections>
+        <Inflection Lemma="ζεστός" BaseFormIndex="1">
+          <Form/>
+          <Realizations>
+            <Realization>-ή, -όν</Realization>
+          </Realizations>
+          <Comments/>
+        </Inflection>
+      </Inflections>
+      <RelatedLemmas>
+        <RelatedLemma>
+          <Word>ζέω</Word>
+        </RelatedLemma>
+      </RelatedLemmas>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="002213001001000" IsBiblicalTerm="Y" EntryCode="79.71" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Features of Objects</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Hot, Lukewarm, Cold</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-07-16 19:46:55" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>pertaining to being hot, often associated with boiling</DefinitionShort>
+              <Glosses>
+                <Gloss>hot</Gloss>
+              </Glosses>
+              <Comments>In {S:06600301500030} the usage is figurative; ζεστός in the sense of a favorable attitude towards something seems not to have been a conventionalized meaning.|In a number of languages the contrast between ‘hot’ and ‘cold’ may refer primarily to sex or anger, in which case the contrast is certainly not appropriate for {S:06600301500030}. It may therefore be necessary in many instances to use an equivalent such as ‘for or against’ or ‘friendly to or hostile toward.’</Comments>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>06600301500020</LEXReference>
+            <LEXReference>06600301500030</LEXReference>
+            <LEXReference>06600301600014</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

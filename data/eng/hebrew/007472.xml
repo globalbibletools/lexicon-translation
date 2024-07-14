@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="007472000000000" Lemma="שָׁמֵן" Version="4" HasAramaic="false" InLXX="false" AlphaPos="ש">
+  <StrongCodes>
+    <Strong>H8082</Strong>
+  </StrongCodes>
+  <Authors>
+    <Author>Reinier de Blois</Author>
+  </Authors>
+  <Contributors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes>
+    <Note Caller="1" LanguageCode="en" LastEdited="" LastEditedBy="">
+      <References>
+        <Reference>00901500900038</Reference>
+      </References>
+      <Content>RSV NJB NRSV "fatlings" NIV "fat calves" GNT "best calves" ESV "fattened calves" | MT {L:הַמִּשְׁנִים&lt;SDBH:מִשְׁנֶה&gt;} "double" NJPS "second-born"</Content>
+    </Note>
+  </Notes>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="007472001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>aj</PartOfSpeech>
+      </PartsOfSpeech>
+      <RelatedLemmas>
+        <RelatedLemma>
+          <Word>שׁמן</Word>
+        </RelatedLemma>
+      </RelatedLemmas>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="007472001001000" IsBiblicalTerm="Y" EntryCode="" Indent="0">
+          <LEXDomains>
+            <LEXDomain Code="001001002001002" Source="Fat" SourceCode="002001001027">Domestic Animals</LEXDomain>
+          </LEXDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2023-01-16 09:54:50" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>literally: fatling; hence: = a young animal that has been fattened to prepare it for slaughter, either for food or sacrifice</DefinitionShort>
+              <Glosses>
+                <Gloss>fatling</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>00901500900038{N:001}</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+          <LEXCoreDomains>
+            <LEXCoreDomain Code="010">Animal</LEXCoreDomain>
+          </LEXCoreDomains>
+        </LEXMeaning>
+        <LEXMeaning Id="007472001002000" IsBiblicalTerm="Y" EntryCode="" Indent="0">
+          <LEXDomains>
+            <LEXDomain Code="002001001028" Source="Fat" SourceCode="002001001027">Good</LEXDomain>
+          </LEXDomains>
+          <LEXSynonyms>
+            <LEXSynonym>דָּשֵׁן</LEXSynonym>
+            <LEXSynonym>טֹוב</LEXSynonym>
+          </LEXSynonyms>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2017-04-06 13:35:37" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>literally: fat; hence: = state in which objects such as land and food are of a high quality</DefinitionShort>
+              <Glosses>
+                <Gloss>fat</Gloss>
+                <Gloss>rich</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>00104902000006</LEXReference>
+            <LEXReference>00401302000012</LEXReference>
+            <LEXReference>01300404000008</LEXReference>
+            <LEXReference>01600902500014</LEXReference>
+            <LEXReference>01600903500040</LEXReference>
+            <LEXReference>02303002300038</LEXReference>
+            <LEXReference>02603401400040</LEXReference>
+            <LEXReference>03500101600026</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+          <LEXCoreDomains>
+            <LEXCoreDomain Code="137">Quality</LEXCoreDomain>
+          </LEXCoreDomains>
+        </LEXMeaning>
+        <LEXMeaning Id="007472001003000" IsBiblicalTerm="Y" EntryCode="" Indent="0">
+          <LEXDomains>
+            <LEXDomain Code="002001001060" Source="Fat" SourceCode="002001001027">Strong</LEXDomain>
+          </LEXDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2023-01-16 09:54:50" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>literally: fat; hence: = a person with health and energy</DefinitionShort>
+              <Glosses>
+                <Gloss>strong</Gloss>
+                <Gloss>stout</Gloss>
+                <Gloss>sturdy</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>00700302900030</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+          <LEXCoreDomains>
+            <LEXCoreDomain Code="019">Body</LEXCoreDomain>
+            <LEXCoreDomain Code="172">Strength</LEXCoreDomain>
+            <LEXCoreDomain Code="076">Health and Sickness</LEXCoreDomain>
+          </LEXCoreDomains>
+        </LEXMeaning>
+        <LEXMeaning Id="007472001004000" IsBiblicalTerm="X" EntryCode="" Indent="0">
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>NO DATA YET</DefinitionShort>
+              <Glosses>
+                <Gloss>NO DATA YET</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>00901500900038</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

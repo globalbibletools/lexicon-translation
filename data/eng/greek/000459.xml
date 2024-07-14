@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="000459000000000" Lemma="ἀνομία" Version="0" HasAramaic="false" InLXX="true" AlphaPos="α">
+  <StrongCodes>
+    <Strong>G0458</Strong>
+  </StrongCodes>
+  <Authors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes/>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="000459001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>noun, f.</PartOfSpeech>
+      </PartsOfSpeech>
+      <Inflections>
+        <Inflection Lemma="ἀνομία" BaseFormIndex="1">
+          <Form/>
+          <Realizations>
+            <Realization>-ας</Realization>
+          </Realizations>
+          <Comments/>
+        </Inflection>
+      </Inflections>
+      <Constructs>
+        <Construct Lemma="ἀνομία" BaseFormIndex="1">
+          <WordMeaningSet>
+            <Word>ἀ-</Word>
+          </WordMeaningSet>
+          <WordMeaningSet>
+            <Word>νομίζω</Word>
+          </WordMeaningSet>
+        </Construct>
+      </Constructs>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="000459001001000" IsBiblicalTerm="M" EntryCode="88.139" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Moral and Ethical Qualities and Related Behavior</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Act Lawlessly</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-08-09 15:16:06" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>to behave with complete disregard for the laws or regulations of a society</DefinitionShort>
+              <Glosses>
+                <Gloss>to live lawlessly</Gloss>
+                <Gloss>lawlessness</Gloss>
+                <Gloss>lawless living</Gloss>
+              </Glosses>
+              <Comments>In some languages one may translate ἀνομία in {S:04001304100044} as ‘to live as though there were no laws,’ ‘to refuse completely to obey the laws,’ or ‘to live as one who despises all laws.’</Comments>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04000702300030</LEXReference>
+            <LEXReference>04001304100044</LEXReference>
+            <LEXReference>04002302800032</LEXReference>
+            <LEXReference>04002401200012</LEXReference>
+            <LEXReference>04500400700010</LEXReference>
+            <LEXReference>04500601900040</LEXReference>
+            <LEXReference>04500601900046</LEXReference>
+            <LEXReference>04700601400020</LEXReference>
+            <LEXReference>05300200300040</LEXReference>
+            <LEXReference>05300200700014</LEXReference>
+            <LEXReference>05600201400022</LEXReference>
+            <LEXReference>05800100900010</LEXReference>
+            <LEXReference>05801001700014</LEXReference>
+            <LEXReference>06200300400016</LEXReference>
+            <LEXReference>06200300400030</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

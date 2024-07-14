@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="005412000000000" Lemma="עַיִר" Version="5" HasAramaic="false" InLXX="false" AlphaPos="ע">
+  <StrongCodes>
+    <Strong>H5895</Strong>
+  </StrongCodes>
+  <Authors>
+    <Author>Reinier de Blois</Author>
+  </Authors>
+  <Contributors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes>
+    <Note Caller="1" LanguageCode="en" LastEdited="" LastEditedBy="">
+      <References>
+        <Reference>00701000400024</Reference>
+      </References>
+      <Content>read {L:עִיר&lt;SDBH:עִיר&gt;} "town"</Content>
+    </Note>
+  </Notes>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="005412001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>nsm</PartOfSpeech>
+      </PartsOfSpeech>
+      <RelatedLemmas>
+        <RelatedLemma>
+          <Word>עור</Word>
+        </RelatedLemma>
+      </RelatedLemmas>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="005412001001000" IsBiblicalTerm="M" EntryCode="" Indent="0">
+          <LEXDomains>
+            <LEXDomain Code="001001002001002">Domestic Animals</LEXDomain>
+          </LEXDomains>
+          <LEXSynonyms>
+            <LEXSynonym>אֶלֶף</LEXSynonym>
+            <LEXSynonym>אָתֹון</LEXSynonym>
+            <LEXSynonym>חֲמֹור</LEXSynonym>
+          </LEXSynonyms>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2016-12-26 18:27:41" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>= young male {L:donkey&lt;SDBH:חֲמֹור&gt;}; ≈ possibly associated with liveliness and unruliness</DefinitionShort>
+              <Glosses>
+                <Gloss>young male donkey</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>00103201600028</LEXReference>
+            <LEXReference>00701000400018</LEXReference>
+            <LEXReference>00701000400024{N:001}</LEXReference>
+            <LEXReference>00701201400026</LEXReference>
+            <LEXReference>01801101200012</LEXReference>
+            <LEXReference>02303000600040</LEXReference>
+            <LEXReference>02303002400012</LEXReference>
+            <LEXReference>03800900900046</LEXReference>
+          </LEXReferences>
+          <LEXLinks>
+            <LEXLink>Fauna:2.4</LEXLink>
+          </LEXLinks>
+          <LEXVideos/>
+          <LEXCoreDomains>
+            <LEXCoreDomain Code="010">Animal</LEXCoreDomain>
+          </LEXCoreDomains>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

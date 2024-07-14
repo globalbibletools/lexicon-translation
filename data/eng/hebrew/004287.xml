@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="004287000000000" Lemma="מצה" Version="4" HasAramaic="false" InLXX="false" AlphaPos="מ">
+  <StrongCodes>
+    <Strong>H4680</Strong>
+  </StrongCodes>
+  <Authors>
+    <Author>Reinier de Blois</Author>
+  </Authors>
+  <Contributors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes>
+    <Note Caller="1" LanguageCode="en" LastEdited="" LastEditedBy="">
+      <References>
+        <Reference>01907301000018</Reference>
+      </References>
+      <Content>NJPS "they are drained" NIV CEV "drink" | RSV NRSV REB ESV "find" = {L:מצא&lt;SDBH:מצא&gt;}</Content>
+    </Note>
+  </Notes>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="004287001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>vb</PartOfSpeech>
+      </PartsOfSpeech>
+      <RelatedNames>
+        <RelatedName>
+          <Word>מֹצָה</Word>
+        </RelatedName>
+      </RelatedNames>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="004287001001000" IsBiblicalTerm="Y" EntryCode="" Indent="0">
+          <LEXDomains>
+            <LEXDomain Code="002002001004">Non-Contain</LEXDomain>
+          </LEXDomains>
+          <LEXForms>
+            <LEXForm>vbqal-</LEXForm>
+            <LEXForm>vbnif- (passive)</LEXForm>
+          </LEXForms>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2016-12-22 11:33:01" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>= causative process by which humans cause a container to be emptied of all liquids</DefinitionShort>
+              <Glosses>
+                <Gloss>to squeeze</Gloss>
+                <Gloss>to wring</Gloss>
+                <Gloss>to drain</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>00300101500034</LEXReference>
+            <LEXReference>00300500900034</LEXReference>
+            <LEXReference>00700603800028</LEXReference>
+            <LEXReference>01907301000018{N:001}</LEXReference>
+            <LEXReference>01907500900034</LEXReference>
+            <LEXReference>02305101700038</LEXReference>
+            <LEXReference>02602303400010</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="003495000000000" Lemma="ὅδε" Version="0" HasAramaic="false" InLXX="true" AlphaPos="ο">
+  <StrongCodes>
+    <Strong>G3592</Strong>
+  </StrongCodes>
+  <Authors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes>
+    <Note Caller="1" LanguageCode="en" LastEdited="" LastEditedBy="">
+      <References/>
+      <Content>Much of the earlier meaning of ὅδε in the sense of here is lost in NT usage.</Content>
+    </Note>
+  </Notes>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="003495001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>pdem.</PartOfSpeech>
+      </PartsOfSpeech>
+      <Inflections>
+        <Inflection Lemma="ὅδε" BaseFormIndex="1">
+          <Form/>
+          <Realizations>
+            <Realization>ἥδε, τόδε</Realization>
+          </Realizations>
+          <Comments/>
+        </Inflection>
+      </Inflections>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="003495001001000" IsBiblicalTerm="Y" EntryCode="92.32" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Discourse Referentials</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Demonstrative or Deictic Reference</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-12-11 14:32:38" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>a reference to an entity regarded as relatively present in terms of the discourse setting, whether preceding or following{N:001}</DefinitionShort>
+              <Glosses>
+                <Gloss>this</Gloss>
+                <Gloss>he</Gloss>
+                <Gloss>she</Gloss>
+                <Gloss>it</Gloss>
+                <Gloss>they</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04201003900004</LEXReference>
+            <LEXReference>04402101100038</LEXReference>
+            <LEXReference>06600200100016</LEXReference>
+            <LEXReference>06600200800018</LEXReference>
+            <LEXReference>06600201200018</LEXReference>
+            <LEXReference>06600201800018</LEXReference>
+            <LEXReference>06600300100018</LEXReference>
+            <LEXReference>06600300700018</LEXReference>
+            <LEXReference>06600301400018</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+        <LEXMeaning Id="003495001002000" IsBiblicalTerm="Y" EntryCode="92.33" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Discourse Referentials</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Demonstrative or Deictic Reference</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-12-11 14:32:38" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>a reference to indefinite alternatives</DefinitionShort>
+              <Glosses>
+                <Gloss>such and such</Gloss>
+                <Gloss>this or that</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>05900401300020</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

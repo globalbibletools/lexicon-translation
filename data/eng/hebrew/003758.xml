@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="003758000000000" Lemma="מַהְפֶּכֶת" Version="5" HasAramaic="false" InLXX="false" AlphaPos="מ">
+  <StrongCodes>
+    <Strong>H4115</Strong>
+  </StrongCodes>
+  <Authors>
+    <Author>Reinier de Blois</Author>
+  </Authors>
+  <Contributors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes/>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="003758001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>nsf</PartOfSpeech>
+      </PartsOfSpeech>
+      <RelatedLemmas>
+        <RelatedLemma>
+          <Word>הפך</Word>
+        </RelatedLemma>
+      </RelatedLemmas>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="003758001001000" IsBiblicalTerm="M" EntryCode="" Indent="0">
+          <LEXDomains>
+            <LEXDomain Code="001004001004">Cords</LEXDomain>
+          </LEXDomains>
+          <LEXSynonyms>
+            <LEXSynonym>צִינֹק</LEXSynonym>
+          </LEXSynonyms>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2008-10-27 15:16:01" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>= frame with holes for one's feet and possibly wrists as well; ◄ made out of wood; ► used to lock up prisoners so that they cannot move anymore</DefinitionShort>
+              <Glosses>
+                <Gloss>stocks</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>02402000200026</LEXReference>
+            <LEXReference>02402000300024</LEXReference>
+            <LEXReference>02402902600048</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+          <LEXCoreDomains>
+            <LEXCoreDomain Code="040">Control</LEXCoreDomain>
+            <LEXCoreDomain Code="070">Freedom and Bondage</LEXCoreDomain>
+          </LEXCoreDomains>
+        </LEXMeaning>
+        <LEXMeaning Id="003758001002000" IsBiblicalTerm="M" EntryCode="" Indent="0">
+          <LEXDomains>
+            <LEXDomain Code="001005001006" Source="Cords" SourceCode="001004001004">Prisons</LEXDomain>
+          </LEXDomains>
+          <LEXCollocations>
+            <LEXCollocation>בֵּית הַמַּהְפֶּכֶת</LEXCollocation>
+          </LEXCollocations>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2008-10-27 15:16:01" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>literally: house of stocks; hence: = building in which a person is kept in captivity, probably with his feet (and wrists) in stocks, usually as punishment for something considered unlawful</DefinitionShort>
+              <Glosses>
+                <Gloss>prison</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>01401601000022</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+          <LEXCoreDomains>
+            <LEXCoreDomain Code="040">Control</LEXCoreDomain>
+            <LEXCoreDomain Code="070">Freedom and Bondage</LEXCoreDomain>
+          </LEXCoreDomains>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

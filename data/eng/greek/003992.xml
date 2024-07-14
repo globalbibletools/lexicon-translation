@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="003992000000000" Lemma="πικραίνω" Version="0" HasAramaic="false" InLXX="true" AlphaPos="π">
+  <StrongCodes>
+    <Strong>G4087</Strong>
+  </StrongCodes>
+  <Authors/>
+  <AlternateLemmas>
+    <AlternateLemma>πικραίνομαι</AlternateLemma>
+  </AlternateLemmas>
+  <MainLinks/>
+  <Notes/>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="003992001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>verb</PartOfSpeech>
+      </PartsOfSpeech>
+      <Inflections>
+        <Inflection Lemma="πικραίνω" BaseFormIndex="1">
+          <Form>fut.</Form>
+          <Realizations>
+            <Realization>πικρανῶ</Realization>
+          </Realizations>
+          <Comments/>
+        </Inflection>
+        <Inflection Lemma="πικραίνω" BaseFormIndex="1">
+          <Form>aor.pass.</Form>
+          <Realizations>
+            <Realization>ἐπικράνθην</Realization>
+          </Realizations>
+          <Comments/>
+        </Inflection>
+      </Inflections>
+      <RelatedLemmas>
+        <RelatedLemma>
+          <Word>παραπικραίνω</Word>
+        </RelatedLemma>
+        <RelatedLemma>
+          <Word>παραπικρασμός</Word>
+        </RelatedLemma>
+        <RelatedLemma>
+          <Word>πικρία</Word>
+        </RelatedLemma>
+        <RelatedLemma>
+          <Word>πικρός</Word>
+        </RelatedLemma>
+        <RelatedLemma>
+          <Word>πικρῶς</Word>
+        </RelatedLemma>
+      </RelatedLemmas>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="003992001001000" IsBiblicalTerm="Y" EntryCode="79.42" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Features of Objects</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Sweet, Bitter, Tasteless</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-12-27 11:35:53" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>to cause something to become bitter</DefinitionShort>
+              <Glosses>
+                <Gloss>to make bitter</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>06600801100052</LEXReference>
+            <LEXReference>06601000900040</LEXReference>
+            <LEXReference>06601001000052</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+        <LEXMeaning Id="003992001002000" IsBiblicalTerm="Y" EntryCode="88.202" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Moral and Ethical Qualities and Related Behavior</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Hate, Hateful</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXForms>
+            <LEXForm>πικραίνομαι</LEXForm>
+          </LEXForms>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-12-27 11:35:53" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>(derivative of {L:πικρία&lt;SDBG:πικρία:000001&gt;}[b] ‘bitterness,’ {D:88.201}) to have bitter resentment or hatred toward someone else</DefinitionShort>
+              <Glosses>
+                <Gloss>to be embittered</Gloss>
+                <Gloss>to have bitter hate</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>05100301900016</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="000886000000000" Lemma="ἀχρεῖος" Version="0" HasAramaic="false" InLXX="true" AlphaPos="α">
+  <StrongCodes>
+    <Strong>G0888</Strong>
+  </StrongCodes>
+  <Authors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes/>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="000886001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>adjc.</PartOfSpeech>
+      </PartsOfSpeech>
+      <Inflections>
+        <Inflection Lemma="ἀχρεῖος" BaseFormIndex="1">
+          <Form/>
+          <Realizations>
+            <Realization>-ον</Realization>
+          </Realizations>
+          <Comments/>
+        </Inflection>
+      </Inflections>
+      <Constructs>
+        <Construct Lemma="ἀχρεῖος" BaseFormIndex="1">
+          <WordMeaningSet>
+            <Word>ἀ-</Word>
+          </WordMeaningSet>
+          <WordMeaningSet>
+            <Word>χράομαι</Word>
+          </WordMeaningSet>
+        </Construct>
+      </Constructs>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="000886001001000" IsBiblicalTerm="Y" EntryCode="65.33" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Value</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Useful, Useless</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-08-18 17:00:17" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>pertaining to not being useful</DefinitionShort>
+              <Glosses>
+                <Gloss>useless</Gloss>
+                <Gloss>not useful</Gloss>
+                <Gloss>worthless</Gloss>
+              </Glosses>
+              <Comments>In a number of languages usefulness or lack of usefulness can only be expressed in terms of a verb meaning ‘to help,’ so that in {S:05700101100008} it may be necessary to translate ‘at one time he did not help you at all and now he can help both you and me.’</Comments>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04002503000006</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+        <LEXMeaning Id="000886001002000" IsBiblicalTerm="Y" EntryCode="33.361" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Communication</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Praise</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-08-18 17:00:17" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>pertaining to being without such qualities as deserve praise or commendation</DefinitionShort>
+              <Glosses>
+                <Gloss>not deserving special praise</Gloss>
+                <Gloss>not worthy of particular commendation</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04201701000026</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

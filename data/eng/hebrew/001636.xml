@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="001636000000000" Lemma="דַּיָּן" Version="5" HasAramaic="true" InLXX="false" AlphaPos="ד">
+  <StrongCodes>
+    <Strong>H1781</Strong>
+    <Strong>A1782</Strong>
+  </StrongCodes>
+  <Authors>
+    <Author>Enio R. Mueller</Author>
+  </Authors>
+  <Contributors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes/>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="001636001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>nsm</PartOfSpeech>
+      </PartsOfSpeech>
+      <RelatedLemmas>
+        <RelatedLemma>
+          <Word>דין</Word>
+        </RelatedLemma>
+      </RelatedLemmas>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="001636001001000" IsBiblicalTerm="M" EntryCode="" Indent="0">
+          <LEXDomains>
+            <LEXDomain Code="001001002003005" Source="Judge" SourceCode="002004002006">Leaders</LEXDomain>
+          </LEXDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2013-01-04 11:07:26" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>= a person whose responsibility it is to give a verdict on a case or person in a dispute and ensure that the verdict is implemented, which, ideally, results in vindication for the innocent and punishment for the guilty; this can only be done by someone in authority, such as a judge or ruler or even God himself</DefinitionShort>
+              <Glosses>
+                <Gloss>judge</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>00902401600010</LEXReference>
+            <LEXReference>01500702500026</LEXReference>
+            <LEXReference>01906800600008</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+          <LEXCoreDomains>
+            <LEXCoreDomain Code="047">Courts and Legal Procedures</LEXCoreDomain>
+            <LEXCoreDomain Code="095">Justice</LEXCoreDomain>
+            <LEXCoreDomain Code="015">Authority</LEXCoreDomain>
+          </LEXCoreDomains>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="003732000000000" Lemma="πανδοχεύς" Version="0" HasAramaic="false" InLXX="false" AlphaPos="π">
+  <StrongCodes>
+    <Strong>G3830</Strong>
+  </StrongCodes>
+  <Authors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes/>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="003732001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>noun, m.</PartOfSpeech>
+      </PartsOfSpeech>
+      <Inflections>
+        <Inflection Lemma="πανδοχεύς" BaseFormIndex="1">
+          <Form/>
+          <Realizations>
+            <Realization>-έως</Realization>
+          </Realizations>
+          <Comments/>
+        </Inflection>
+      </Inflections>
+      <Constructs>
+        <Construct Lemma="πανδοχεύς" BaseFormIndex="1">
+          <WordMeaningSet>
+            <Word>πᾶς</Word>
+          </WordMeaningSet>
+          <WordMeaningSet>
+            <Word>δέχομαι</Word>
+          </WordMeaningSet>
+        </Construct>
+      </Constructs>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="003732001001000" IsBiblicalTerm="Y" EntryCode="7.12" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Constructions</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Buildings</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-12-17 18:31:15" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>one who manages an inn as a place where people may obtain board and room at a price</DefinitionShort>
+              <Glosses>
+                <Gloss>innkeeper</Gloss>
+                <Gloss>manager of a hotel</Gloss>
+              </Glosses>
+              <Comments>In some languages it may be necessary to describe the role of an inn or hotel as ‘a place where people could stay overnight and get something to eat’ or even ‘a place where people could pay in order to stay overnight and get something to eat.’</Comments>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04201003500020</LEXReference>
+          </LEXReferences>
+          <LEXLinks>
+            <LEXLink>realia:3.3</LEXLink>
+          </LEXLinks>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

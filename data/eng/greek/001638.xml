@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="001638000000000" Lemma="ἐκτρέφω" Version="0" HasAramaic="false" InLXX="true" AlphaPos="ε">
+  <StrongCodes>
+    <Strong>G1625</Strong>
+  </StrongCodes>
+  <Authors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes>
+    <Note Caller="1" LanguageCode="en" LastEdited="" LastEditedBy="">
+      <References/>
+      <Content>It is possible that ἐκτρέφω[a] is somewhat more emphatic in meaning than τρέφω[a], but this cannot be determined from existing contexts.</Content>
+    </Note>
+    <Note Caller="2" LanguageCode="en" LastEdited="" LastEditedBy="">
+      <References/>
+      <Content>There may very well be subtle differences of meaning in the series in {D:35.51}, but there is no direct contextual evidence to support significant distinctions in meaning.</Content>
+    </Note>
+  </Notes>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="001638001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>verb</PartOfSpeech>
+      </PartsOfSpeech>
+      <RelatedLemmas>
+        <RelatedLemma>
+          <Word>τρέφω</Word>
+        </RelatedLemma>
+      </RelatedLemmas>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="001638001001000" IsBiblicalTerm="Y" EntryCode="23.6" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Physiological Processes and States</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Eat, Drink</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-10-28 15:09:29" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>to provide food for, with the implication of a considerable period of time and the food being adequate nourishment{N:001}</DefinitionShort>
+              <Glosses>
+                <Gloss>to provide food for</Gloss>
+                <Gloss>to give food to someone to eat</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04900502900018</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+        <LEXMeaning Id="001638001002000" IsBiblicalTerm="Y" EntryCode="35.51" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Help, Care For</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Rear, Bring Up</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-10-28 15:09:29" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>to raise a child to maturity by providing for physical and psychological needs{N:002}</DefinitionShort>
+              <Glosses>
+                <Gloss>to raise</Gloss>
+                <Gloss>to rear</Gloss>
+                <Gloss>to bring up</Gloss>
+              </Glosses>
+              <Comments>To raise or bring up children may be expressed in a number of different ways, for example, ‘to give food to children,’ ‘to take care of children,’ ‘to be a parent to children,’ ‘to cause a child to become an adult,’ or ‘to make a child become like oneself.’</Comments>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04900600400020</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

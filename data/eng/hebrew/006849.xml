@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="006849000000000" Lemma="רעב" Version="4" HasAramaic="false" InLXX="false" AlphaPos="ר">
+  <StrongCodes>
+    <Strong>H7456</Strong>
+  </StrongCodes>
+  <Authors>
+    <Author>Steve Berneking</Author>
+  </Authors>
+  <Contributors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes/>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="006849001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>vb</PartOfSpeech>
+      </PartsOfSpeech>
+      <RelatedLemmas>
+        <RelatedLemma>
+          <Word>רָעָב</Word>
+        </RelatedLemma>
+        <RelatedLemma>
+          <Word>רָעֵב</Word>
+        </RelatedLemma>
+        <RelatedLemma>
+          <Word>רְעָבֹון</Word>
+        </RelatedLemma>
+      </RelatedLemmas>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="006849001001000" IsBiblicalTerm="M" EntryCode="" Indent="0">
+          <LEXDomains>
+            <LEXDomain Code="002004001001002">Hunger</LEXDomain>
+          </LEXDomains>
+          <LEXForms>
+            <LEXForm>vbqal-</LEXForm>
+          </LEXForms>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2017-11-24 14:24:21" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>= to be in a state of wanting or needing food, but having little to no access to food</DefinitionShort>
+              <Glosses>
+                <Gloss>to be hungry</Gloss>
+                <Gloss>to starve</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>00104105500004</LEXReference>
+            <LEXReference>01903401100008</LEXReference>
+            <LEXReference>01905001200004</LEXReference>
+            <LEXReference>02000603000024</LEXReference>
+            <LEXReference>02001901500014</LEXReference>
+            <LEXReference>02300802100020</LEXReference>
+            <LEXReference>02300901900012</LEXReference>
+            <LEXReference>02304401200040</LEXReference>
+            <LEXReference>02304901000004</LEXReference>
+            <LEXReference>02306501300022</LEXReference>
+            <LEXReference>02404201400044</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+          <LEXCoreDomains>
+            <LEXCoreDomain Code="019">Body</LEXCoreDomain>
+            <LEXCoreDomain Code="069">Food</LEXCoreDomain>
+            <LEXCoreDomain Code="063">Famine</LEXCoreDomain>
+            <LEXCoreDomain Code="196">Well-Being</LEXCoreDomain>
+          </LEXCoreDomains>
+        </LEXMeaning>
+        <LEXMeaning Id="006849001002000" IsBiblicalTerm="M" EntryCode="" Indent="0">
+          <LEXDomains>
+            <LEXDomain Code="002004001001002">Hunger</LEXDomain>
+          </LEXDomains>
+          <LEXForms>
+            <LEXForm>vbhif-</LEXForm>
+          </LEXForms>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2017-11-24 14:24:21" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>= causative action by which a person is kept from having access to food</DefinitionShort>
+              <Glosses>
+                <Gloss>to cause hunger</Gloss>
+                <Gloss>to let (one) go hungry</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>00500800300008</LEXReference>
+            <LEXReference>02001000300004</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+          <LEXCoreDomains>
+            <LEXCoreDomain Code="019">Body</LEXCoreDomain>
+            <LEXCoreDomain Code="069">Food</LEXCoreDomain>
+            <LEXCoreDomain Code="063">Famine</LEXCoreDomain>
+            <LEXCoreDomain Code="196">Well-Being</LEXCoreDomain>
+          </LEXCoreDomains>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

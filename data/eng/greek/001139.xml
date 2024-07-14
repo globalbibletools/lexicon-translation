@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="001139000000000" Lemma="γραώδης" Version="0" HasAramaic="false" InLXX="false" AlphaPos="γ">
+  <StrongCodes>
+    <Strong>G1126</Strong>
+  </StrongCodes>
+  <Authors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes/>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="001139001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>adjc.</PartOfSpeech>
+      </PartsOfSpeech>
+      <Inflections>
+        <Inflection Lemma="γραώδης" BaseFormIndex="1">
+          <Form/>
+          <Realizations>
+            <Realization>-ες</Realization>
+          </Realizations>
+          <Comments/>
+        </Inflection>
+      </Inflections>
+      <Constructs>
+        <Construct Lemma="γραώδης" BaseFormIndex="1">
+          <WordMeaningSet>
+            <Word>γραῦς</Word>
+            <Meaning LanguageCode="en">
+              <Meaning>old woman</Meaning>
+            </Meaning>
+            <Meaning LanguageCode="zhT">
+              <Meaning>老婦</Meaning>
+            </Meaning>
+          </WordMeaningSet>
+          <WordMeaningSet>
+            <Word>εἶδος</Word>
+          </WordMeaningSet>
+        </Construct>
+      </Constructs>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="001139001001000" IsBiblicalTerm="Y" EntryCode="9.38" Indent="0">
+          <LEXDomains>
+            <LEXDomain>People</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Females</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-08-30 13:56:04" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>(derivative of γραῦς ‘old woman,’ not occurring in the NT) characteristic of old women</DefinitionShort>
+              <Glosses>
+                <Gloss>like old women say</Gloss>
+                <Gloss>like old women do</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>05400400700010</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

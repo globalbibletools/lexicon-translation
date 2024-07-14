@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="001040000000000" Lemma="βρῶμα" Version="0" HasAramaic="false" InLXX="true" AlphaPos="β">
+  <StrongCodes>
+    <Strong>G1033</Strong>
+  </StrongCodes>
+  <Authors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes>
+    <Note Caller="1" LanguageCode="en" LastEdited="" LastEditedBy="">
+      <References/>
+      <Content>There are no doubt certain subtle differences of meaning in the various terms listed here as meaning ‘food,’ but it is impossible to determine such distinctions in meaning from NT contexts. Perhaps τροφή and διατροφή are somewhat more generic in meaning and may suggest a greater emphasis upon nourishment. At the same time, βρῶσις[c] and βρῶμα[a] may imply solid substantive food, but it is difficult, if not impossible, to argue for such subtle connotative distinctions in meanings which are essentially generic.</Content>
+    </Note>
+  </Notes>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="001040001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>noun, n.</PartOfSpeech>
+      </PartsOfSpeech>
+      <Inflections>
+        <Inflection Lemma="βρῶμα" BaseFormIndex="1">
+          <Form/>
+          <Realizations>
+            <Realization>-τος</Realization>
+          </Realizations>
+          <Comments/>
+        </Inflection>
+      </Inflections>
+      <RelatedLemmas>
+        <RelatedLemma>
+          <Word>βιβρώσκω</Word>
+        </RelatedLemma>
+      </RelatedLemmas>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="001040001001000" IsBiblicalTerm="M" EntryCode="5.1" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Foods and Condiments</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Food</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-05-12 22:46:43" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>any kind of food or nourishment{N:001}</DefinitionShort>
+              <Glosses>
+                <Gloss>food</Gloss>
+              </Glosses>
+              <Comments>Almost all languages have at least a few general terms for food, though these may be derived from verbal expressions meaning essentially ‘that which is eaten.’ In some instances a distinction may be made between ‘that which is chewed’ and ‘that which is drunk,’ and it may therefore be important in certain contexts to speak of food in general by a phrase meaning ‘that which is either chewed or drunk.’ If one fails to include both types of food, the reader might interpret a passage such as {S:04000601100004} as requesting only solid foods.|In the place of a general term or phrase such as ‘that which is eaten’ or ‘that which is consumed,’ some languages generalize the meaning of a particular term. For example, in certain parts of the Orient the term meaning specifically ‘rice’ also refers to ‘food’ in general. In fact, some persons will declare, ‘I have not eaten!’ if they have not had rice as part of a meal. A similar type of meaning has developed in English with respect to ‘bread.’ For example, in rendering {S:04200400400022} (οὐκ ἐπ’ ἄρτῳ μόνῳ ζήσεται ὁ ἄνθρωπος ‘man shall not live by bread alone’) it would be wrong to employ a strictly literal rendering, since this might mean simply that people should not live on a diet consisting solely of bread. The meaning of {S:04200400400022} is, of course, ‘to live means more than merely eating.’</Comments>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04001401500056</LEXReference>
+            <LEXReference>04100701900040</LEXReference>
+            <LEXReference>04200301100032</LEXReference>
+            <LEXReference>04200901300064</LEXReference>
+            <LEXReference>04300403400012</LEXReference>
+            <LEXReference>04600601300004</LEXReference>
+            <LEXReference>04600601300018</LEXReference>
+            <LEXReference>04600800800002</LEXReference>
+            <LEXReference>04600801300006</LEXReference>
+            <LEXReference>04601000300012</LEXReference>
+            <LEXReference>05800901000006</LEXReference>
+            <LEXReference>05801300900028</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+        <LEXMeaning Id="001040001002000" IsBiblicalTerm="M" EntryCode="5.7" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Foods and Condiments</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Food</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-05-12 22:46:43" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>any type of solid food, particularly meat</DefinitionShort>
+              <Glosses>
+                <Gloss>solid food</Gloss>
+                <Gloss>meat</Gloss>
+                <Gloss>flesh</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04501401500008</LEXReference>
+            <LEXReference>04501401500030</LEXReference>
+            <LEXReference>04501402000006</LEXReference>
+            <LEXReference>04600300200010</LEXReference>
+            <LEXReference>04600800800002</LEXReference>
+            <LEXReference>05400400300008</LEXReference>
+            <LEXReference>05801300900028</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

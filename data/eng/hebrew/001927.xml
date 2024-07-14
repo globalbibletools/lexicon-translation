@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="001927000000000" Lemma="זְבֻל" Version="5" HasAramaic="false" InLXX="false" AlphaPos="ז">
+  <StrongCodes>
+    <Strong>H2073</Strong>
+    <Strong>H2083</Strong>
+  </StrongCodes>
+  <Authors>
+    <Author>Lénart J. de Regt</Author>
+  </Authors>
+  <Contributors/>
+  <AlternateLemmas>
+    <AlternateLemma>זְבוּל</AlternateLemma>
+  </AlternateLemmas>
+  <MainLinks/>
+  <Notes/>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="001927001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>nsm</PartOfSpeech>
+      </PartsOfSpeech>
+      <RelatedLemmas>
+        <RelatedLemma>
+          <Word>זבל</Word>
+        </RelatedLemma>
+      </RelatedLemmas>
+      <RelatedNames>
+        <RelatedName>
+          <Word>זְבֻל</Word>
+        </RelatedName>
+      </RelatedNames>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="001927001001000" IsBiblicalTerm="Y" EntryCode="" Indent="0">
+          <LEXDomains>
+            <LEXDomain Code="002002001005">Dwell</LEXDomain>
+          </LEXDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2016-09-16 12:17:35" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>= location where a family or household lives, or where a deity is said to reside; ≈ associated with high status</DefinitionShort>
+              <Glosses>
+                <Gloss>dwelling-place</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>01100801300008</LEXReference>
+            <LEXReference>01400600200010</LEXReference>
+            <LEXReference>01904901500048</LEXReference>
+            <LEXReference>02306301500014</LEXReference>
+            <LEXReference>03500301100008</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+          <LEXCoreDomains>
+            <LEXCoreDomain Code="166">Space</LEXCoreDomain>
+            <LEXCoreDomain Code="081">Household</LEXCoreDomain>
+            <LEXCoreDomain Code="170">Status</LEXCoreDomain>
+          </LEXCoreDomains>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+    <BaseForm Id="001927002000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>np</PartOfSpeech>
+      </PartsOfSpeech>
+      <RelatedLemmas>
+        <RelatedLemma>
+          <Word>זבל</Word>
+        </RelatedLemma>
+      </RelatedLemmas>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="001927002001000" IsBiblicalTerm="Y" EntryCode="" Indent="0">
+          <LEXDomains>
+            <LEXDomain Code="003001007">Names of People</LEXDomain>
+          </LEXDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2016-09-16 12:17:35" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>= man; ► governor of {L:Shechem&lt;SDBH:שְׁכֶם&gt;}; assistant of {L:Abimelech&lt;SDBH:אֲבִימֶלֶךְ&gt;}, son of {L:Gideon&lt;SDBH:גִּדְעֹון&gt;}/{L:Jerubbaal&lt;SDBH:יְרֻבַּעַל&gt;}</DefinitionShort>
+              <Glosses>
+                <Gloss>Zebul</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>00700902800036</LEXReference>
+            <LEXReference>00700903000006</LEXReference>
+            <LEXReference>00700903600020</LEXReference>
+            <LEXReference>00700903600042</LEXReference>
+            <LEXReference>00700903800008</LEXReference>
+            <LEXReference>00700904100018</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

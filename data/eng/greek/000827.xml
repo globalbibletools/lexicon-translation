@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="000827000000000" Lemma="αὐθεντέω" Version="0" HasAramaic="false" InLXX="false" AlphaPos="α">
+  <StrongCodes>
+    <Strong>G0831</Strong>
+  </StrongCodes>
+  <Authors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes/>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="000827001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>verb</PartOfSpeech>
+      </PartsOfSpeech>
+      <Constructs>
+        <Construct Lemma="αὐθεντέω" BaseFormIndex="1">
+          <WordMeaningSet>
+            <Word>αὐτός</Word>
+          </WordMeaningSet>
+          <WordMeaningSet>
+            <Word>ἔντεα</Word>
+            <Meaning LanguageCode="en">
+              <Meaning>instruments, gear [of any kind]</Meaning>
+            </Meaning>
+            <Meaning LanguageCode="zhT">
+              <Meaning>工具，［任何種類的］裝置</Meaning>
+            </Meaning>
+          </WordMeaningSet>
+        </Construct>
+      </Constructs>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="000827001001000" IsBiblicalTerm="M" EntryCode="37.21" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Control, Rule</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Control, Restrain</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-08-17 14:40:08" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>to control in a domineering manner</DefinitionShort>
+              <Glosses>
+                <Gloss>to control</Gloss>
+                <Gloss>to domineer</Gloss>
+              </Glosses>
+              <Comments>‘To control in a domineering manner’ is often expressed idiomatically, for example, ‘to shout orders at,’ ‘to act like a chief toward,’ or ‘to bark at.’</Comments>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>05400201200014</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

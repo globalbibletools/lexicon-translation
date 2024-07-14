@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="003832000000000" Lemma="παρέχω" Version="0" HasAramaic="false" InLXX="true" AlphaPos="π">
+  <StrongCodes>
+    <Strong>G3930</Strong>
+  </StrongCodes>
+  <Authors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes/>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="003832001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>verb</PartOfSpeech>
+      </PartsOfSpeech>
+      <Inflections>
+        <Inflection Lemma="παρέχω" BaseFormIndex="1">
+          <Form>fut.midd.2sg.</Form>
+          <Realizations>
+            <Realization>παρέξῃ</Realization>
+          </Realizations>
+          <Comments/>
+        </Inflection>
+        <Inflection Lemma="παρέχω" BaseFormIndex="1">
+          <Form>aor.</Form>
+          <Realizations>
+            <Realization>παρέσχον</Realization>
+          </Realizations>
+          <Comments/>
+        </Inflection>
+        <Inflection Lemma="παρέχω" BaseFormIndex="1">
+          <Form>ptc.</Form>
+          <Realizations>
+            <Realization>παρασχών</Realization>
+          </Realizations>
+          <Comments/>
+        </Inflection>
+      </Inflections>
+      <RelatedLemmas>
+        <RelatedLemma>
+          <Word>ἔχω</Word>
+        </RelatedLemma>
+      </RelatedLemmas>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="003832001001000" IsBiblicalTerm="Y" EntryCode="13.26" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Be, Become, Exist, Happen</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>State</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-12-23 11:16:07" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>to maintain a state or condition</DefinitionShort>
+              <Glosses>
+                <Gloss>to continue to be</Gloss>
+                <Gloss>to keep on being</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04402200200020</LEXReference>
+            <LEXReference>05600200700008</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+        <LEXMeaning Id="003832001002000" IsBiblicalTerm="Y" EntryCode="13.127" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Be, Become, Exist, Happen</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Happen</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-12-23 11:16:07" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>to cause something to happen to someone</DefinitionShort>
+              <Glosses>
+                <Gloss>to cause to happen</Gloss>
+              </Glosses>
+              <Comments>In {S:04200700400030}, in some languages it may be more appropriate to translate ‘he deserves this favor from you’ or ‘he deserves your help.’ See also {D:90.91}.</Comments>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04002601000018</LEXReference>
+            <LEXReference>04200602900014</LEXReference>
+            <LEXReference>04200700400030</LEXReference>
+            <LEXReference>04201100700016</LEXReference>
+            <LEXReference>04201800500008</LEXReference>
+            <LEXReference>04401601600036</LEXReference>
+            <LEXReference>04401902400020</LEXReference>
+            <LEXReference>05400100400018</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+        <LEXMeaning Id="003832001003000" IsBiblicalTerm="Y" EntryCode="90.91" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Case</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>To Cause To Experience</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-12-23 11:16:07" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>to cause someone to experience something, with the possible implication of a duration</DefinitionShort>
+              <Glosses>
+                <Gloss>to cause to</Gloss>
+                <Gloss>to cause to experience</Gloss>
+                <Gloss>to give</Gloss>
+              </Glosses>
+              <Comments>See also {D:13.127}.</Comments>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04101400600020</LEXReference>
+            <LEXReference>04401703100034</LEXReference>
+            <LEXReference>04402800200008</LEXReference>
+            <LEXReference>04800601700012</LEXReference>
+            <LEXReference>05100400100020</LEXReference>
+            <LEXReference>05400601700038</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

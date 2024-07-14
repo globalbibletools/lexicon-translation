@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="000045000000000" Lemma="ἄγκυρα" Version="0" HasAramaic="false" InLXX="false" AlphaPos="α">
+  <StrongCodes>
+    <Strong>G0045</Strong>
+  </StrongCodes>
+  <Authors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes/>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="000045001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>noun, f.</PartOfSpeech>
+      </PartsOfSpeech>
+      <Inflections>
+        <Inflection Lemma="ἄγκυρα" BaseFormIndex="1">
+          <Form/>
+          <Realizations>
+            <Realization>-ας</Realization>
+          </Realizations>
+          <Comments/>
+        </Inflection>
+      </Inflections>
+      <RelatedLemmas>
+        <RelatedLemma>
+          <Word>ἄγκιστρον</Word>
+        </RelatedLemma>
+      </RelatedLemmas>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="000045001001000" IsBiblicalTerm="M" EntryCode="6.48" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Artifacts</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Boats and Parts of Boats</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-01-27 07:58:45" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>a heavy object attached to a boat by a rope or chain and dropped to the bottom of a body of water in order to prevent or restrict the movement of the boat</DefinitionShort>
+              <Glosses>
+                <Gloss>anchor</Gloss>
+              </Glosses>
+              <Comments>For languages having no term for ‘anchor,’ one may use a descriptive equivalent, for example, ‘heavy weights on ropes to keep a boat from moving.’</Comments>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04402702900024</LEXReference>
+            <LEXReference>04402703000040</LEXReference>
+            <LEXReference>04402704000006</LEXReference>
+            <LEXReference>05800601900006</LEXReference>
+          </LEXReferences>
+          <LEXLinks>
+            <LEXLink>realia:8.1.6</LEXLink>
+          </LEXLinks>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

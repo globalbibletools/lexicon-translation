@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="004647000000000" Lemma="στοά" Version="0" HasAramaic="false" InLXX="true" AlphaPos="σ">
+  <StrongCodes>
+    <Strong>G4745</Strong>
+  </StrongCodes>
+  <Authors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes/>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="004647001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>noun, f.</PartOfSpeech>
+      </PartsOfSpeech>
+      <Inflections>
+        <Inflection Lemma="στοά" BaseFormIndex="1">
+          <Form/>
+          <Realizations>
+            <Realization>-ᾶς</Realization>
+          </Realizations>
+          <Comments/>
+        </Inflection>
+      </Inflections>
+      <RelatedLemmas>
+        <RelatedLemma>
+          <Word>ἵστημι</Word>
+        </RelatedLemma>
+      </RelatedLemmas>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="004647001001000" IsBiblicalTerm="M" EntryCode="7.40" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Constructions</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Parts and Areas of Buildings</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2022-03-07 12:40:40" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>a covered colonnade, open normally on one side, where people could stand, sit, or walk, protected from the weather and the heat of the sun</DefinitionShort>
+              <Glosses>
+                <Gloss>porch</Gloss>
+                <Gloss>portico</Gloss>
+              </Glosses>
+              <Comments>Also see comments at {D:7.58}.|In many parts of the world the closest equivalent to a στοά would be a veranda, an extensive type of porch. Such a porch may be described as ‘a long outside room’ or ‘a room made with pillars and open.’</Comments>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04300500200030</LEXReference>
+            <LEXReference>04301002300020</LEXReference>
+            <LEXReference>04400301100034</LEXReference>
+            <LEXReference>04400501200042</LEXReference>
+          </LEXReferences>
+          <LEXLinks>
+            <LEXLink>realia:3.14.1.2</LEXLink>
+          </LEXLinks>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

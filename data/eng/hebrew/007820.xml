@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="007820000000000" Lemma="תלל" Version="5" HasAramaic="false" InLXX="false" AlphaPos="ת">
+  <StrongCodes>
+    <Strong>H2048b</Strong>
+  </StrongCodes>
+  <Authors>
+    <Author>Reinier de Blois</Author>
+  </Authors>
+  <Contributors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes/>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="007820001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>vb</PartOfSpeech>
+      </PartsOfSpeech>
+      <RelatedLemmas>
+        <RelatedLemma>
+          <Word>מַהֲתַלָּה</Word>
+        </RelatedLemma>
+      </RelatedLemmas>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="007820001001000" IsBiblicalTerm="Y" EntryCode="" Indent="0">
+          <LEXDomains>
+            <LEXDomain Code="002001002027">Unfaithful</LEXDomain>
+          </LEXDomains>
+          <LEXForms>
+            <LEXForm>vbhif- (passive)</LEXForm>
+          </LEXForms>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2017-12-21 14:18:34" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>= action by which humans act dishonestly towards others</DefinitionShort>
+              <Glosses>
+                <Gloss>to act deceitfully</Gloss>
+                <Gloss>to deceive</Gloss>
+                <Gloss>to delude</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>00103100700006</LEXReference>
+            <LEXReference>00200802500058</LEXReference>
+            <LEXReference>00701601000014</LEXReference>
+            <LEXReference>00701601300016</LEXReference>
+            <LEXReference>00701601500028</LEXReference>
+            <LEXReference>01801300900016</LEXReference>
+            <LEXReference>01801300900022</LEXReference>
+            <LEXReference>02304402000008</LEXReference>
+            <LEXReference>02400900400010</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+          <LEXCoreDomains>
+            <LEXCoreDomain Code="061">Faithfulness</LEXCoreDomain>
+            <LEXCoreDomain Code="184">Truth and Falsehood</LEXCoreDomain>
+          </LEXCoreDomains>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

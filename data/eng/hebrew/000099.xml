@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="000099000000000" Lemma="אֲגַם" Version="5" HasAramaic="false" InLXX="false" AlphaPos="א">
+  <StrongCodes>
+    <Strong>H0098</Strong>
+  </StrongCodes>
+  <Authors>
+    <Author>Reinier de Blois</Author>
+  </Authors>
+  <Contributors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes>
+    <Note Caller="1" LanguageCode="en" LastEdited="" LastEditedBy="">
+      <References>
+        <Reference>02405103200016</Reference>
+      </References>
+      <Content>{A:NIV} {A:NJPS} {A:NRSV} {A:CEV} [1a] |{A:RSV} {A:NJB} {A:REB} {A:GNT} [2a]</Content>
+    </Note>
+  </Notes>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="000099001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>nsm</PartOfSpeech>
+      </PartsOfSpeech>
+      <RelatedLemmas>
+        <RelatedLemma>
+          <Word>אָגֵם</Word>
+        </RelatedLemma>
+        <RelatedLemma>
+          <Word>אַגְמֹון</Word>
+        </RelatedLemma>
+      </RelatedLemmas>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="000099001001000" IsBiblicalTerm="M" EntryCode="" Indent="0">
+          <LEXDomains>
+            <LEXDomain Code="001005002002005">Waterbodies</LEXDomain>
+          </LEXDomains>
+          <LEXSynonyms>
+            <LEXSynonym>יְאֹר</LEXSynonym>
+            <LEXSynonym>מֹוצָאֵי מַיִם</LEXSynonym>
+            <LEXSynonym>מַבּוּעַ מַיִם</LEXSynonym>
+            <LEXSynonym>מַעְבָּרָה</LEXSynonym>
+            <LEXSynonym>מַעְיָן</LEXSynonym>
+            <LEXSynonym>נָהָר</LEXSynonym>
+          </LEXSynonyms>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2016-02-18 12:04:04" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>= small body of stagnant water, usually in swampy area; ≈ seen as a blessing when contrasted with the desert, but as a curse when contrasted with a developed area</DefinitionShort>
+              <Glosses>
+                <Gloss>pool</Gloss>
+                <Gloss>marsh</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>00200701900046</LEXReference>
+            <LEXReference>00200800100046</LEXReference>
+            <LEXReference>01910703500008</LEXReference>
+            <LEXReference>01911400800010</LEXReference>
+            <LEXReference>02301402300014</LEXReference>
+            <LEXReference>02303500700012</LEXReference>
+            <LEXReference>02304101800026</LEXReference>
+            <LEXReference>02304201500032</LEXReference>
+            <LEXReference>02405103200016{N:001}</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+          <LEXCoreDomains>
+            <LEXCoreDomain Code="115">Nature</LEXCoreDomain>
+            <LEXCoreDomain Code="101">Liquids</LEXCoreDomain>
+          </LEXCoreDomains>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+    <BaseForm Id="000099002000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>nsm</PartOfSpeech>
+      </PartsOfSpeech>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="000099002001000" IsBiblicalTerm="M" EntryCode="" Indent="0">
+          <LEXDomains>
+            <LEXDomain Code="001005001003">Fortifications</LEXDomain>
+          </LEXDomains>
+          <LEXSynonyms>
+            <LEXSynonym>מַעְבָּרָה</LEXSynonym>
+          </LEXSynonyms>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2016-02-18 12:04:04" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>exact meaning unsure: = building ► used for defense purposes</DefinitionShort>
+              <Glosses>
+                <Gloss>fortress</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>02405103200016{N:001}</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+          <LEXCoreDomains>
+            <LEXCoreDomain Code="020">Building</LEXCoreDomain>
+            <LEXCoreDomain Code="152">Security</LEXCoreDomain>
+          </LEXCoreDomains>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

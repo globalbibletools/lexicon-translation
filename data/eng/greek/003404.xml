@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="003404000000000" Lemma="νέκρωσις" Version="0" HasAramaic="false" InLXX="false" AlphaPos="ν">
+  <StrongCodes>
+    <Strong>G3500</Strong>
+  </StrongCodes>
+  <Authors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes/>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="003404001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>noun, f.</PartOfSpeech>
+      </PartsOfSpeech>
+      <Inflections>
+        <Inflection Lemma="νέκρωσις" BaseFormIndex="1">
+          <Form/>
+          <Realizations>
+            <Realization>-εως</Realization>
+          </Realizations>
+          <Comments/>
+        </Inflection>
+      </Inflections>
+      <RelatedLemmas>
+        <RelatedLemma>
+          <Word>νεκρόω</Word>
+        </RelatedLemma>
+      </RelatedLemmas>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="003404001001000" IsBiblicalTerm="Y" EntryCode="23.99" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Physiological Processes and States</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Live, Die</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-12-10 15:36:55" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>the process of dying</DefinitionShort>
+              <Glosses>
+                <Gloss>to die</Gloss>
+                <Gloss>death</Gloss>
+              </Glosses>
+              <Comments>In a number of languages clear distinctions are made in the use of terms for dying on the basis of the manner or circumstances of death. For example, one term may refer to death primarily as the result of old age, while another term may refer to death caused by sickness, and still other terms may be used for death caused by violence. Careful distinctions must be used in determining the choice of terms based on particular contexts.|This first clause of {S:04700401000006} is highly elliptical, for it evidently refers to the fact that Paul was constantly in danger of dying in the same manner in which Jesus died, that is to say, by violence. One may render {S:04700401000006} as ‘at all times we live in the constant threat of being killed as Jesus was.’</Comments>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04700401000006</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+        <LEXMeaning Id="003404001002000" IsBiblicalTerm="Y" EntryCode="23.57" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Physiological Processes and States</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Birth, Procreation</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-12-10 15:36:55" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>(a figurative extension of meaning of {L:νέκρωσις&lt;SDBG:νέκρωσις:000000&gt;}[a] ‘death,’ {D:23.99}) the state of not being able to bear children as the result of having passed through menopause</DefinitionShort>
+              <Glosses>
+                <Gloss>barrenness</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04500401900034</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

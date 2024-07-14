@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="002576000000000" Lemma="κάλυμμα" Version="0" HasAramaic="false" InLXX="true" AlphaPos="κ">
+  <StrongCodes>
+    <Strong>G2571</Strong>
+  </StrongCodes>
+  <Authors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes/>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="002576001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>noun, n.</PartOfSpeech>
+      </PartsOfSpeech>
+      <Inflections>
+        <Inflection Lemma="κάλυμμα" BaseFormIndex="1">
+          <Form/>
+          <Realizations>
+            <Realization>-τος</Realization>
+          </Realizations>
+          <Comments/>
+        </Inflection>
+      </Inflections>
+      <RelatedLemmas>
+        <RelatedLemma>
+          <Word>καλύπτω</Word>
+        </RelatedLemma>
+      </RelatedLemmas>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="002576001001000" IsBiblicalTerm="M" EntryCode="6.177" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Artifacts</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Cloth, Leather, and Objects Made of Such Materials</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-09-10 11:35:34" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>a piece of material worn over the face, thin enough for the wearer to see through, but not for observers to recognize facial features through it</DefinitionShort>
+              <Glosses>
+                <Gloss>veil</Gloss>
+              </Glosses>
+              <Comments>The cloth of a veil would be sufficiently thin that the wearer would be able to see through it, but others would find it difficult to recognize the features through the veil.</Comments>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04700301300012</LEXReference>
+            <LEXReference>04700301400026</LEXReference>
+            <LEXReference>04700301500016</LEXReference>
+            <LEXReference>04700301600018</LEXReference>
+          </LEXReferences>
+          <LEXLinks>
+            <LEXLink>realia:6.12</LEXLink>
+          </LEXLinks>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

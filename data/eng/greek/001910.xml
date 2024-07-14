@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="001910000000000" Lemma="ἐπειδή" Version="0" HasAramaic="false" InLXX="true" AlphaPos="ε">
+  <StrongCodes>
+    <Strong>G1894</Strong>
+  </StrongCodes>
+  <Authors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes>
+    <Note Caller="1" LanguageCode="en" LastEdited="" LastEditedBy="">
+      <References/>
+      <Content>In this series ἐπειδή[a] may be more emphatic than ἐπεί and the conjunction ἐπειδήπερ even more emphatic than ἐπειδή[a].</Content>
+    </Note>
+  </Notes>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="001910001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>conj.</PartOfSpeech>
+      </PartsOfSpeech>
+      <Constructs>
+        <Construct Lemma="ἐπειδή" BaseFormIndex="1">
+          <WordMeaningSet>
+            <Word>ἐπί</Word>
+          </WordMeaningSet>
+          <WordMeaningSet>
+            <Word>δή</Word>
+          </WordMeaningSet>
+        </Construct>
+      </Constructs>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="001910001001000" IsBiblicalTerm="Y" EntryCode="89.32" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Relations</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Cause and/or Reason</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-06-16 08:52:02" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>a marker of cause or reason, often with the implication of a relevant temporal element{N:001}</DefinitionShort>
+              <Glosses>
+                <Gloss>because</Gloss>
+                <Gloss>since</Gloss>
+                <Gloss>for</Gloss>
+                <Gloss>inasmuch as</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04201100600002</LEXReference>
+            <LEXReference>04401304600036</LEXReference>
+            <LEXReference>04401401200020</LEXReference>
+            <LEXReference>04401502400002</LEXReference>
+            <LEXReference>04600102100002</LEXReference>
+            <LEXReference>04600102200002</LEXReference>
+            <LEXReference>04601401600040</LEXReference>
+            <LEXReference>04601502100002</LEXReference>
+            <LEXReference>05000202600002</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+        <LEXMeaning Id="001910001002000" IsBiblicalTerm="Y" EntryCode="67.45" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Time</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>A Point of Time with Reference to Other Points of Time: Before, Long Ago, Now, At the Same Time, When, About, After</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-06-16 08:52:02" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>a point of time which is prior to another point of time, with the possible implication in some contexts of reason or cause</DefinitionShort>
+              <Glosses>
+                <Gloss>when</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04200700100002</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

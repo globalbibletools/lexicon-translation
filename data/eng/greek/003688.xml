@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="003688000000000" Lemma="ὀφείλημα" Version="0" HasAramaic="false" InLXX="true" AlphaPos="ο">
+  <StrongCodes>
+    <Strong>G3783</Strong>
+  </StrongCodes>
+  <Authors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes>
+    <Note Caller="1" LanguageCode="en" LastEdited="" LastEditedBy="">
+      <References>
+        <Reference>04000601200010</Reference>
+      </References>
+      <Content>Some scholars interpret ὀφείλημα in {S:04000601200010} as referring literally to debts, since they believe the statement refers to the actual forgiveness of debts in the idealized jubilee year in the Jewish Law.</Content>
+    </Note>
+  </Notes>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="003688001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>noun, n.</PartOfSpeech>
+      </PartsOfSpeech>
+      <Inflections>
+        <Inflection Lemma="ὀφείλημα" BaseFormIndex="1">
+          <Form/>
+          <Realizations>
+            <Realization>-τος</Realization>
+          </Realizations>
+          <Comments/>
+        </Inflection>
+      </Inflections>
+      <RelatedLemmas>
+        <RelatedLemma>
+          <Word>ὀφείλω</Word>
+        </RelatedLemma>
+      </RelatedLemmas>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="003688001001000" IsBiblicalTerm="M" EntryCode="57.221" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Possess, Transfer, Exchange</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Owe, Debt, Cancel</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-12-15 19:11:27" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>(derivative of {L:ὀφείλω&lt;SDBG:ὀφείλω:000000&gt;}[a] ‘to owe,’ {D:57.219}) that which is owed</DefinitionShort>
+              <Glosses>
+                <Gloss>debt</Gloss>
+                <Gloss>amount owed</Gloss>
+              </Glosses>
+              <Comments>It is also possible to understand ὀφείλημα in {S:04500400400024} as meaning ‘obligation’ (see {D:71.26}).</Comments>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04500400400024</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+        <LEXMeaning Id="003688001002000" IsBiblicalTerm="M" EntryCode="71.26" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Mode</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Should, Ought</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-12-15 19:11:27" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>that which one must do out of a sense of duty or as the result of commitment</DefinitionShort>
+              <Glosses>
+                <Gloss>obligation</Gloss>
+              </Glosses>
+              <Comments>For another interpretation of {L:ὀφείλημα&lt;SDBG:ὀφείλημα:000000&gt;} in {S:04500400400024}, see {D:57.221}.</Comments>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04500400400024</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+        <LEXMeaning Id="003688001003000" IsBiblicalTerm="M" EntryCode="88.299" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Moral and Ethical Qualities and Related Behavior</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Sin, Wrongdoing, Guilt</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-12-15 19:11:27" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>(derivative of {L:ὀφείλω&lt;SDBG:ὀφείλω:000003&gt;}[d] ‘to sin against,’ {D:88.298}) the moral debt incurred as the result of sin</DefinitionShort>
+              <Glosses>
+                <Gloss>offense</Gloss>
+                <Gloss>sin</Gloss>
+                <Gloss>transgression</Gloss>
+                <Gloss>guilt</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04000601200010{N:001}</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="002923000000000" Lemma="κρέας" Version="0" HasAramaic="false" InLXX="true" AlphaPos="κ">
+  <StrongCodes>
+    <Strong>G2907</Strong>
+  </StrongCodes>
+  <Authors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes/>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="002923001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>noun, n.</PartOfSpeech>
+      </PartsOfSpeech>
+      <Inflections>
+        <Inflection Lemma="κρέας" BaseFormIndex="1">
+          <Form/>
+          <Realizations>
+            <Realization>κρέατος</Realization>
+            <Realization>κρέως</Realization>
+          </Realizations>
+          <Comments/>
+        </Inflection>
+        <Inflection Lemma="κρέας" BaseFormIndex="1">
+          <Form>acc.pl.</Form>
+          <Realizations>
+            <Realization>κρέα</Realization>
+          </Realizations>
+          <Comments/>
+        </Inflection>
+      </Inflections>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="002923001001000" IsBiblicalTerm="Y" EntryCode="5.14" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Foods and Condiments</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Food</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-10-21 12:00:21" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>the flesh of animals used as food</DefinitionShort>
+              <Glosses>
+                <Gloss>meat</Gloss>
+              </Glosses>
+              <Comments>In some languages a distinction is made between the meat of wild animals and meat of domesticated animals. In {S:04501402100010} and {S:04600801300022} it is the latter which is involved.</Comments>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04501402100010</LEXReference>
+            <LEXReference>04600801300022</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="005231000000000" Lemma="עֶגְלָה" Version="5" HasAramaic="false" InLXX="false" AlphaPos="ע">
+  <StrongCodes>
+    <Strong>H5697</Strong>
+    <Strong>H5698</Strong>
+  </StrongCodes>
+  <Authors>
+    <Author>Reinier de Blois</Author>
+  </Authors>
+  <Contributors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes/>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="005231001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>nsf</PartOfSpeech>
+      </PartsOfSpeech>
+      <RelatedLemmas>
+        <RelatedLemma>
+          <Word>עָגִיל</Word>
+        </RelatedLemma>
+        <RelatedLemma>
+          <Word>עֵגֶל</Word>
+        </RelatedLemma>
+        <RelatedLemma>
+          <Word>עָגֹל</Word>
+        </RelatedLemma>
+        <RelatedLemma>
+          <Word>עֲגָלָה</Word>
+        </RelatedLemma>
+        <RelatedLemma>
+          <Word>עֶגְלָה</Word>
+        </RelatedLemma>
+      </RelatedLemmas>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="005231001001000" IsBiblicalTerm="M" EntryCode="" Indent="0">
+          <LEXDomains>
+            <LEXDomain Code="001001002001002">Domestic Animals</LEXDomain>
+          </LEXDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2015-12-23 17:02:23" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>= female young of a {L:cow&lt;SDBH:פָּרָה&gt;}; ► used as sacrifice</DefinitionShort>
+              <Glosses>
+                <Gloss>female calf</Gloss>
+                <Gloss>heifer</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>00101500900012</LEXReference>
+            <LEXReference>00502100300034</LEXReference>
+            <LEXReference>00502100400020</LEXReference>
+            <LEXReference>00502100400052</LEXReference>
+            <LEXReference>00502100600036</LEXReference>
+            <LEXReference>00701401800064</LEXReference>
+            <LEXReference>00901600200028</LEXReference>
+            <LEXReference>02300702100020</LEXReference>
+            <LEXReference>02404602000002</LEXReference>
+            <LEXReference>02405001100026</LEXReference>
+            <LEXReference>02801000500004</LEXReference>
+            <LEXReference>02801001100006</LEXReference>
+          </LEXReferences>
+          <LEXLinks>
+            <LEXLink>Fauna:2.10</LEXLink>
+            <LEXLink>Realia:4.6.3</LEXLink>
+          </LEXLinks>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+    <BaseForm Id="005231002000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>np</PartOfSpeech>
+      </PartsOfSpeech>
+      <MeaningsOfName>
+        <MeaningOfName LanguageCode="en">
+          <Meaning>female calf, heifer</Meaning>
+        </MeaningOfName>
+      </MeaningsOfName>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="005231002001000" IsBiblicalTerm="Y" EntryCode="" Indent="0">
+          <LEXDomains>
+            <LEXDomain Code="003001007">Names of People</LEXDomain>
+          </LEXDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2015-12-23 17:02:23" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>= woman; ► wife of {L:David&lt;SDBH:דָּוִד&gt;}</DefinitionShort>
+              <Glosses>
+                <Gloss>Eglah</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>01000300500012</LEXReference>
+            <LEXReference>01300300300020</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="003209000000000" Lemma="יִתְרִי" Version="5" HasAramaic="false" InLXX="false" AlphaPos="י">
+  <StrongCodes>
+    <Strong>H3505</Strong>
+  </StrongCodes>
+  <Authors>
+    <Author>Reinier de Blois</Author>
+  </Authors>
+  <Contributors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes>
+    <Note Caller="1" LanguageCode="en" LastEdited="" LastEditedBy="">
+      <References>
+        <Reference>01002303800006</Reference>
+        <Reference>01002303800012</Reference>
+        <Reference>01301104000006</Reference>
+        <Reference>01301104000012</Reference>
+      </References>
+      <Content>{A:NJB} "of Jattir"</Content>
+    </Note>
+  </Notes>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="003209001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>aj</PartOfSpeech>
+      </PartsOfSpeech>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="003209001001000" IsBiblicalTerm="Y" EntryCode="" Indent="0">
+          <LEXDomains>
+            <LEXDomain Code="003001006">Names of Groups</LEXDomain>
+          </LEXDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2015-11-10 10:51:59" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>= clan; ◄ from {L:Kiriath-Jearim&lt;SDBH:קִרְיַת יְעָרִים&gt;}</DefinitionShort>
+              <Glosses>
+                <Gloss>Ithrite</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>01002303800006{N:001}</LEXReference>
+            <LEXReference>01002303800012{N:001}</LEXReference>
+            <LEXReference>01300205300010</LEXReference>
+            <LEXReference>01301104000006{N:001}</LEXReference>
+            <LEXReference>01301104000012{N:001}</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

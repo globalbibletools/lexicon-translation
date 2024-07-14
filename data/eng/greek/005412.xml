@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="005412000000000" Lemma="χόρτος" Version="0" HasAramaic="false" InLXX="true" AlphaPos="χ">
+  <StrongCodes>
+    <Strong>G5528</Strong>
+  </StrongCodes>
+  <Authors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes>
+    <Note Caller="1" LanguageCode="en" LastEdited="" LastEditedBy="">
+      <References/>
+      <Content>It would be possible to combine χόρτος[b] ({D:3.48}) with χόρτος[a] small plant, grass ({D:3.15}), since the meaning of χόρτος[a] would seem to include the meaning of sprout. On the other hand, the semantic focus of {S:04100402800012} appears to be upon the tender sprout, rather than upon the full-size plant, and since this distinction is lexically important in a number of languages, the term χόρτος has been divided into χόρτος[a] and χόρτος[b] .</Content>
+    </Note>
+  </Notes>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="005412001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>noun, m.</PartOfSpeech>
+      </PartsOfSpeech>
+      <Inflections>
+        <Inflection Lemma="χόρτος" BaseFormIndex="1">
+          <Form/>
+          <Realizations>
+            <Realization>-ου</Realization>
+          </Realizations>
+          <Comments/>
+        </Inflection>
+      </Inflections>
+      <RelatedLemmas>
+        <RelatedLemma>
+          <Word>χορτάζω</Word>
+        </RelatedLemma>
+      </RelatedLemmas>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="005412001001000" IsBiblicalTerm="M" EntryCode="3.15" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Plants</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Plants That Are Not Trees</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2022-06-03 14:37:31" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>small green plants (and in NT contexts referring primarily to green grass in a field or meadow)</DefinitionShort>
+              <Glosses>
+                <Gloss>small plants</Gloss>
+                <Gloss>grass</Gloss>
+              </Glosses>
+              <Comments>In referring to small green plants, a number of languages employ two quite different terms, one indicating specifically grass (with leaves having parallel veins) and the other designating all other types of annual plants (those having branching veins in the leaves). In {S:04001302600010} it is important to employ a term which would include grass and other plants with parallel veins, since the weeds in this passage imitate the appearance of wheat, which does have parallel veins in the leaves.</Comments>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04000603000008</LEXReference>
+            <LEXReference>04001302600010</LEXReference>
+            <LEXReference>04001401900016</LEXReference>
+            <LEXReference>04100603900022</LEXReference>
+            <LEXReference>04201202800012</LEXReference>
+            <LEXReference>04300601000020</LEXReference>
+            <LEXReference>04600301200026</LEXReference>
+            <LEXReference>05900101000022</LEXReference>
+            <LEXReference>05900101100022</LEXReference>
+            <LEXReference>06000102400010</LEXReference>
+            <LEXReference>06000102400024</LEXReference>
+            <LEXReference>06000102400030</LEXReference>
+            <LEXReference>06600800700064</LEXReference>
+            <LEXReference>06600900400016</LEXReference>
+          </LEXReferences>
+          <LEXLinks>
+            <LEXLink>flora:5.1.2</LEXLink>
+          </LEXLinks>
+          <LEXVideos/>
+        </LEXMeaning>
+        <LEXMeaning Id="005412001002000" IsBiblicalTerm="Y" EntryCode="3.48" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Plants</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Non-Fruit Parts of Plants</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2022-06-03 14:37:31" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>the young growth of a plant arising from a germinating seed{N:001}</DefinitionShort>
+              <Glosses>
+                <Gloss>sprout</Gloss>
+                <Gloss>blade</Gloss>
+              </Glosses>
+              <Comments>In a number of languages a clear distinction is made between different kinds of ‘sprouts.’ Certain sprouts have only a single blade (for example, grass), while others are double (as in the case of beans). In {S:04100402800012} the reference is to a grass-like plant with a single blade</Comments>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04100402800012</LEXReference>
+          </LEXReferences>
+          <LEXLinks>
+            <LEXLink>flora:5.1.2</LEXLink>
+          </LEXLinks>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

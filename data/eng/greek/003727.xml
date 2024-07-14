@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="003727000000000" Lemma="παλιγγενεσία" Version="0" HasAramaic="false" InLXX="false" AlphaPos="π">
+  <StrongCodes>
+    <Strong>G3824</Strong>
+  </StrongCodes>
+  <Authors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes/>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="003727001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>noun, f.</PartOfSpeech>
+      </PartsOfSpeech>
+      <Inflections>
+        <Inflection Lemma="παλιγγενεσία" BaseFormIndex="1">
+          <Form/>
+          <Realizations>
+            <Realization>-ας</Realization>
+          </Realizations>
+          <Comments/>
+        </Inflection>
+      </Inflections>
+      <Constructs>
+        <Construct Lemma="παλιγγενεσία" BaseFormIndex="1">
+          <WordMeaningSet>
+            <Word>πάλιν</Word>
+          </WordMeaningSet>
+          <WordMeaningSet>
+            <Word>γίνομαι</Word>
+          </WordMeaningSet>
+        </Construct>
+      </Constructs>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="003727001001000" IsBiblicalTerm="M" EntryCode="41.53" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Behavior and Related States</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Change Behavior</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-12-16 12:51:42" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>to experience a complete change in one’s way of life to what it should be, with the implication of return to a former state or relation</DefinitionShort>
+              <Glosses>
+                <Gloss>to be born again</Gloss>
+                <Gloss>to experience new birth</Gloss>
+                <Gloss>rebirth</Gloss>
+              </Glosses>
+              <Comments>The metaphor of ‘new birth’ is so important in the NT that it should be retained if at all possible. In some languages ‘new birth’ can be expressed as ‘to cause to be born all over again’ or ‘to have a new life as though one were born a second time.’ See also {D:13.55}.</Comments>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>05600300500038</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+        <LEXMeaning Id="003727001002000" IsBiblicalTerm="Y" EntryCode="67.147" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Time</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Indefinite Units of Time: Age, Lifetime, Interval, Period</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-12-16 12:51:42" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>an era involving the renewal of the world (with special reference to the time of the Messiah)</DefinitionShort>
+              <Glosses>
+                <Gloss>new age</Gloss>
+                <Gloss>Messianic age</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04001902800032</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

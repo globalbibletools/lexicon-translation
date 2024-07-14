@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="001650000000000" Lemma="ἔλαιον" Version="0" HasAramaic="false" InLXX="true" AlphaPos="ε">
+  <StrongCodes>
+    <Strong>G1637</Strong>
+  </StrongCodes>
+  <Authors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes>
+    <Note Caller="1" LanguageCode="en" LastEdited="" LastEditedBy="">
+      <References/>
+      <Content>Though the various terms for wine and olive oil might very well be treated simply in the category of Food (Domain 5), they obviously served other functions as well, for wine was used medicinally as an antiseptic and olive oil was used not only for food but also for illumination in lamps. Since both the production of wine and olive oil involved relatively elaborate processes, it therefore seems best to classify them as artifacts rather than subsume them under various functional categories.</Content>
+    </Note>
+  </Notes>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="001650001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>noun, n.</PartOfSpeech>
+      </PartsOfSpeech>
+      <Inflections>
+        <Inflection Lemma="ἔλαιον" BaseFormIndex="1">
+          <Form/>
+          <Realizations>
+            <Realization>-ου</Realization>
+          </Realizations>
+          <Comments/>
+        </Inflection>
+      </Inflections>
+      <RelatedLemmas>
+        <RelatedLemma>
+          <Word>ἐλαία</Word>
+        </RelatedLemma>
+      </RelatedLemmas>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="001650001001000" IsBiblicalTerm="M" EntryCode="6.202" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Artifacts</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Plant Products</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-05-14 10:05:26" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>oil extracted from the fruit of olive trees, used as food, medicine, for burning in lamps, and as perfume when mixed with sweet-smelling substances{N:001}</DefinitionShort>
+              <Glosses>
+                <Gloss>olive oil</Gloss>
+              </Glosses>
+              <Comments>See discussion of translational problems in {D:6.197}.</Comments>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04002500300024</LEXReference>
+            <LEXReference>04002500400010</LEXReference>
+            <LEXReference>04002500800022</LEXReference>
+            <LEXReference>04100601300014</LEXReference>
+            <LEXReference>04200704600002</LEXReference>
+            <LEXReference>04201003400016</LEXReference>
+            <LEXReference>04201600600012</LEXReference>
+            <LEXReference>05800100900030</LEXReference>
+            <LEXReference>05900501400032</LEXReference>
+            <LEXReference>06600600600042</LEXReference>
+            <LEXReference>06601801300028</LEXReference>
+          </LEXReferences>
+          <LEXLinks>
+            <LEXLink>realia:9.3</LEXLink>
+          </LEXLinks>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="004167000000000" Lemma="προγινώσκω" Version="0" HasAramaic="false" InLXX="true" AlphaPos="π">
+  <StrongCodes>
+    <Strong>G4267</Strong>
+  </StrongCodes>
+  <Authors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes/>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="004167001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>verb</PartOfSpeech>
+      </PartsOfSpeech>
+      <Inflections>
+        <Inflection Lemma="προγινώσκω" BaseFormIndex="1">
+          <Form>aor.</Form>
+          <Realizations>
+            <Realization>προέγνων</Realization>
+          </Realizations>
+          <Comments/>
+        </Inflection>
+      </Inflections>
+      <RelatedLemmas>
+        <RelatedLemma>
+          <Word>γινώσκω</Word>
+        </RelatedLemma>
+      </RelatedLemmas>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="004167001001000" IsBiblicalTerm="Y" EntryCode="28.6" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Know</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Know</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2022-02-03 12:22:25" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>to know about something prior to some temporal reference point, for example, to know about an event before it happens</DefinitionShort>
+              <Glosses>
+                <Gloss>to know beforehand</Gloss>
+                <Gloss>to know already</Gloss>
+                <Gloss>to have foreknowledge</Gloss>
+              </Glosses>
+              <Comments>It is also possible to understand προγινώσκω in {S:06000102000002} as meaning ‘chosen beforehand’ (see {D:30.100}).</Comments>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04402600500002</LEXReference>
+            <LEXReference>04500802900006</LEXReference>
+            <LEXReference>04501100200018</LEXReference>
+            <LEXReference>06000102000002</LEXReference>
+            <LEXReference>06100301700008</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+        <LEXMeaning Id="004167001002000" IsBiblicalTerm="Y" EntryCode="30.100" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Think</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>To Choose, To Select, To Prefer</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2022-02-03 12:22:25" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>to choose or select in advance of some other event</DefinitionShort>
+              <Glosses>
+                <Gloss>to choose beforehand</Gloss>
+                <Gloss>to select in advance</Gloss>
+              </Glosses>
+              <Comments>In {S:04500802900006} {L:προγινώσκω&lt;SDBG:προγινώσκω:000000&gt;} may also be understood as meaning ‘to know beforehand’ ({D:28.6}).</Comments>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04500802900006</LEXReference>
+            <LEXReference>04501100200018</LEXReference>
+            <LEXReference>06000102000002</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

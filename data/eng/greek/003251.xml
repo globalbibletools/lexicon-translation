@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="003251000000000" Lemma="μεταλαμβάνω" Version="0" HasAramaic="false" InLXX="true" AlphaPos="μ">
+  <StrongCodes>
+    <Strong>G3335</Strong>
+  </StrongCodes>
+  <Authors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes>
+    <Note Caller="1" LanguageCode="en" LastEdited="" LastEditedBy="">
+      <References/>
+      <Content>There are no doubt certain subtle distinctions of meaning in this series of related expressions in {D:90.63} (ἀπολαμβάνω[e], ἐπιλαμβάνομαι[f], λαμβάνω[h], μεταλαμβάνω[b]), but it is difficult to determine the precise distinctions on the basis of existing contexts. As in the case of a number of verbs which mark an experiencer relation, an equivalent translation consists simply of a passive form of a verb related to the noun complement. For example, in the case of {S:04300702300000}, one might very well translate ‘if a person is circumcised on the Sabbath.’</Content>
+    </Note>
+  </Notes>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="003251001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>verb</PartOfSpeech>
+      </PartsOfSpeech>
+      <Inflections>
+        <Inflection Lemma="μεταλαμβάνω" BaseFormIndex="1">
+          <Form>aor.inf.</Form>
+          <Realizations>
+            <Realization>μεμαλαβεῖν</Realization>
+          </Realizations>
+          <Comments/>
+        </Inflection>
+      </Inflections>
+      <RelatedLemmas>
+        <RelatedLemma>
+          <Word>λαμβάνω</Word>
+        </RelatedLemma>
+      </RelatedLemmas>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="003251001001000" IsBiblicalTerm="Y" EntryCode="57.129" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Possess, Transfer, Exchange</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Receive</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-12-01 10:59:18" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>to receive as one’s share in or as one’s part of</DefinitionShort>
+              <Glosses>
+                <Gloss>to receive a share in</Gloss>
+                <Gloss>to have a share of</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04400204600028</LEXReference>
+            <LEXReference>04402703300022</LEXReference>
+            <LEXReference>04402703400008</LEXReference>
+            <LEXReference>05500200600016</LEXReference>
+            <LEXReference>05801201000038</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+        <LEXMeaning Id="003251001002000" IsBiblicalTerm="Y" EntryCode="90.63" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Case</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Experiencer</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-12-01 10:59:18" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>to experience some event or state, often with the implication of something negatively valued{N:001}</DefinitionShort>
+              <Glosses>
+                <Gloss>to undergo</Gloss>
+                <Gloss>to experience</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04402402500048</LEXReference>
+            <LEXReference>05800600700040</LEXReference>
+            <LEXReference>05801201000038</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

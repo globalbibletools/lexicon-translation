@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="001438000000000" Lemma="δυσβάστακτος" Version="0" HasAramaic="false" InLXX="true" AlphaPos="δ">
+  <StrongCodes>
+    <Strong>G1419</Strong>
+  </StrongCodes>
+  <Authors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes>
+    <Note Caller="1" LanguageCode="en" LastEdited="" LastEditedBy="">
+      <References>
+        <Reference>04201104600028</Reference>
+      </References>
+      <Content>It is sometimes possible to render δυσβάστακτος as ‘difficult to carry,’ provided the receptor language term for burdens in {S:04201104600028} may refer to religious obligations.</Content>
+    </Note>
+  </Notes>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="001438001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>adjc.</PartOfSpeech>
+      </PartsOfSpeech>
+      <Inflections>
+        <Inflection Lemma="δυσβάστακτος" BaseFormIndex="1">
+          <Form/>
+          <Realizations>
+            <Realization>-ον</Realization>
+          </Realizations>
+          <Comments/>
+        </Inflection>
+      </Inflections>
+      <Constructs>
+        <Construct Lemma="δυσβάστακτος" BaseFormIndex="1">
+          <WordMeaningSet>
+            <Word>δῦσ-</Word>
+            <Meaning LanguageCode="en">
+              <Meaning>hard, difficult</Meaning>
+            </Meaning>
+            <Meaning LanguageCode="zhT">
+              <Meaning>艱難的，困難的</Meaning>
+            </Meaning>
+          </WordMeaningSet>
+          <WordMeaningSet>
+            <Word>βαστάζω</Word>
+          </WordMeaningSet>
+        </Construct>
+      </Constructs>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="001438001001000" IsBiblicalTerm="Y" EntryCode="22.34" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Trouble, Hardship, Relief, Favorable Circumstances</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Difficult, Hard</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-10-26 15:22:33" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>pertaining to that which is difficult to bear or endure</DefinitionShort>
+              <Glosses>
+                <Gloss>difficult</Gloss>
+                <Gloss>hard to bear</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04002300400012</LEXReference>
+            <LEXReference>04201104600028{N:001}</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

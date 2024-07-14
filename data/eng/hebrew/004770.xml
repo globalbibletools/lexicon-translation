@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="004770000000000" Lemma="נטר" Version="4" HasAramaic="true" InLXX="false" AlphaPos="נ">
+  <StrongCodes>
+    <Strong>H5201</Strong>
+    <Strong>A5202</Strong>
+  </StrongCodes>
+  <Authors>
+    <Author>Reinier de Blois</Author>
+  </Authors>
+  <Contributors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes/>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="004770001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>vb</PartOfSpeech>
+      </PartsOfSpeech>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="004770001001000" IsBiblicalTerm="M" EntryCode="" Indent="0">
+          <LEXDomains>
+            <LEXDomain Code="002003003018" Source="See" SourceCode="002004001005">Safe</LEXDomain>
+          </LEXDomains>
+          <LEXForms>
+            <LEXForm>vbqal-</LEXForm>
+          </LEXForms>
+          <LEXSynonyms>
+            <LEXSynonym>נצר</LEXSynonym>
+            <LEXSynonym>שׁמר</LEXSynonym>
+          </LEXSynonyms>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2017-11-30 18:01:45" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>= causative action by which humans make sure that an object is safe from harm; ◄ by observing the object and the surrounding area carefully and intervening when necessary</DefinitionShort>
+              <Glosses>
+                <Gloss>to watch over</Gloss>
+                <Gloss>to guard</Gloss>
+                <Gloss>to be in charge of</Gloss>
+                <Gloss>to take care of</Gloss>
+                <Gloss>to protect</Gloss>
+                <Gloss>to tend</Gloss>
+                <Gloss>to keep</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>02200100600030</LEXReference>
+            <LEXReference>02200100600046</LEXReference>
+            <LEXReference>02200801100026</LEXReference>
+            <LEXReference>02200801200026</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+          <LEXCoreDomains>
+            <LEXCoreDomain Code="152">Security</LEXCoreDomain>
+            <LEXCoreDomain Code="196">Well-Being</LEXCoreDomain>
+          </LEXCoreDomains>
+        </LEXMeaning>
+        <LEXMeaning Id="004770001002000" IsBiblicalTerm="M" EntryCode="" Indent="0">
+          <LEXDomains>
+            <LEXDomain Code="002004002007" Source="See" SourceCode="002004001005">Know</LEXDomain>
+          </LEXDomains>
+          <LEXForms>
+            <LEXForm>vbpeal</LEXForm>
+          </LEXForms>
+          <LEXCollocations>
+            <LEXCollocation>נטר בְּלֵב</LEXCollocation>
+          </LEXCollocations>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2017-11-30 18:01:45" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>literally: to keep (something) in (one's) heart; hence: = action by which humans keep processing information in their minds</DefinitionShort>
+              <Glosses>
+                <Gloss>to keep in mind</Gloss>
+                <Gloss>to remember</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>02700702800038</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+          <LEXCoreDomains>
+            <LEXCoreDomain Code="106">Mind</LEXCoreDomain>
+            <LEXCoreDomain Code="143">Remembrance</LEXCoreDomain>
+          </LEXCoreDomains>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+    <BaseForm Id="004770002000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>vb</PartOfSpeech>
+      </PartsOfSpeech>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="004770002001000" IsBiblicalTerm="Y" EntryCode="" Indent="0">
+          <LEXDomains>
+            <LEXDomain Code="002001002002">Angry</LEXDomain>
+          </LEXDomains>
+          <LEXForms>
+            <LEXForm>vbqal-</LEXForm>
+          </LEXForms>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2017-11-11 09:10:54" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>= state in which humans or deities remain angry with (other) humans for an extended period of time</DefinitionShort>
+              <Glosses>
+                <Gloss>to hold a grudge</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>00301901800010</LEXReference>
+            <LEXReference>01910300900018</LEXReference>
+            <LEXReference>02400300500004</LEXReference>
+            <LEXReference>02400301200054</LEXReference>
+            <LEXReference>03400100200032</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+          <LEXCoreDomains>
+            <LEXCoreDomain Code="176">Temper</LEXCoreDomain>
+            <LEXCoreDomain Code="120">Permanence</LEXCoreDomain>
+          </LEXCoreDomains>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

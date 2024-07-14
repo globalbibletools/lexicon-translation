@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="004520000000000" Lemma="σιτευτός" Version="0" HasAramaic="false" InLXX="true" AlphaPos="σ">
+  <StrongCodes>
+    <Strong>G4618</Strong>
+  </StrongCodes>
+  <Authors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes/>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="004520001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>adjc.</PartOfSpeech>
+      </PartsOfSpeech>
+      <Inflections>
+        <Inflection Lemma="σιτευτός" BaseFormIndex="1">
+          <Form/>
+          <Realizations>
+            <Realization>-ή, -όν</Realization>
+          </Realizations>
+          <Comments/>
+        </Inflection>
+      </Inflections>
+      <RelatedLemmas>
+        <RelatedLemma>
+          <Word>σῖτος</Word>
+        </RelatedLemma>
+      </RelatedLemmas>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="004520001001000" IsBiblicalTerm="Y" EntryCode="44.2" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Animal Husbandry, Fishing</LEXDomain>
+          </LEXDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2022-02-11 11:17:10" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>pertaining to being well fed on grain and hence fattened</DefinitionShort>
+              <Glosses>
+                <Gloss>fat</Gloss>
+                <Gloss>fattened</Gloss>
+                <Gloss>grain-fattened</Gloss>
+              </Glosses>
+              <Comments>In {S:04201502700036} σιτευτός may, however, mean ‘valuable’ or ‘prize.’ This would simply be an extended meaning of σιτευτός in view of the resulting condition or value of a grain-fed animal. For this interpretation of σιτευτός in {S:04201502700036}, see {D:65.8}.</Comments>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04201502300012</LEXReference>
+            <LEXReference>04201502700036</LEXReference>
+            <LEXReference>04201503000036</LEXReference>
+          </LEXReferences>
+          <LEXLinks>
+            <LEXLink>fauna:2.10</LEXLink>
+          </LEXLinks>
+          <LEXVideos/>
+        </LEXMeaning>
+        <LEXMeaning Id="004520001002000" IsBiblicalTerm="M" EntryCode="65.8" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Value</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Valuable, Lacking in Value</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2022-02-11 11:17:10" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>pertaining to being valuable or prized on the basis of its being well fed and fat (occurring in reference to a calf)</DefinitionShort>
+              <Glosses>
+                <Gloss>valuable</Gloss>
+                <Gloss>prize</Gloss>
+              </Glosses>
+              <Comments>For another interpretation of {L:σιτευτός&lt;SDBG:σιτευτός:000000&gt;} in {S:04201502700036}, see {D:44.2}.</Comments>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04201502300012</LEXReference>
+            <LEXReference>04201502700036</LEXReference>
+            <LEXReference>04201503000036</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="000399000000000" Lemma="ἀνατρέφω" Version="0" HasAramaic="false" InLXX="true" AlphaPos="α">
+  <StrongCodes>
+    <Strong>G0397</Strong>
+  </StrongCodes>
+  <Authors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes>
+    <Note Caller="1" LanguageCode="en" LastEdited="" LastEditedBy="">
+      <References/>
+      <Content>There may very well be subtle differences of meaning in the series in {D:35.51}, but there is no direct contextual evidence to support significant distinctions in meaning.</Content>
+    </Note>
+  </Notes>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="000399001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>verb</PartOfSpeech>
+      </PartsOfSpeech>
+      <RelatedLemmas>
+        <RelatedLemma>
+          <Word>τρέφω</Word>
+        </RelatedLemma>
+      </RelatedLemmas>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="000399001001000" IsBiblicalTerm="Y" EntryCode="35.51" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Help, Care For</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Rear, Bring Up</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-08-05 15:39:17" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>to raise a child to maturity by providing for physical and psychological needs{N:001}</DefinitionShort>
+              <Glosses>
+                <Gloss>to raise</Gloss>
+                <Gloss>to rear</Gloss>
+                <Gloss>to bring up</Gloss>
+              </Glosses>
+              <Comments>To raise or bring up children may be expressed in a number of different ways, for example, ‘to give food to children,’ ‘to take care of children,’ ‘to be a parent to children,’ ‘to cause a child to become an adult,’ or ‘to make a child become like oneself.’</Comments>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04400702000024</LEXReference>
+            <LEXReference>04400702100020</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+        <LEXMeaning Id="000399001002000" IsBiblicalTerm="Y" EntryCode="33.232" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Communication</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Teach</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXCollocations>
+            <LEXCollocation>ἀνατρέφω παρὰ τοὺς πόδας</LEXCollocation>
+          </LEXCollocations>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-08-05 15:39:17" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>(an idiom, literally: to be trained at the feet of) to be given extensive and formal instruction by someone</DefinitionShort>
+              <Glosses>
+                <Gloss>to be taught by</Gloss>
+                <Gloss>to be educated under the direction of</Gloss>
+              </Glosses>
+              <Comments>In a number of languages the closest equivalent of this part of {S:04402200300020} is simply ‘Gamaliel was his teacher.’</Comments>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04402200300020</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

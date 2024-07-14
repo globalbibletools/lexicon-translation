@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="001923000000000" Lemma="זַבַּי" Version="5" HasAramaic="false" InLXX="false" AlphaPos="ז">
+  <StrongCodes>
+    <Strong>H2079</Strong>
+  </StrongCodes>
+  <Authors>
+    <Author>Lénart J. de Regt</Author>
+  </Authors>
+  <Contributors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes>
+    <Note Caller="1" LanguageCode="en" LastEdited="" LastEditedBy="">
+      <References>
+        <Reference>01600302000012</Reference>
+      </References>
+      <Content>{A:MT-K} זבי {A:RSV} {A:NIV} {A:NJB} {A:NRSV} {A:REB} {A:GNT} {A:CEV} "Zabbai" | {A:MT-Q} זַכַּי NJPS "Zaccai"</Content>
+    </Note>
+  </Notes>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="001923001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>np</PartOfSpeech>
+      </PartsOfSpeech>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="001923001001000" IsBiblicalTerm="Y" EntryCode="" Indent="0">
+          <LEXDomains>
+            <LEXDomain Code="003001007">Names of People</LEXDomain>
+          </LEXDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2015-11-12 15:17:26" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>= man; ◄ descendant of {L:Bebai&lt;SDBH:בֵּבַי&gt;}; ► after exile</DefinitionShort>
+              <Glosses>
+                <Gloss>Zabbai</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>01501002800014</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+        <LEXMeaning Id="001923001002000" IsBiblicalTerm="Y" EntryCode="" Indent="0">
+          <LEXDomains>
+            <LEXDomain Code="003001007">Names of People</LEXDomain>
+          </LEXDomains>
+          <LEXSynonyms>
+            <LEXSynonym>זַכַּי</LEXSynonym>
+          </LEXSynonyms>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2015-11-12 15:17:26" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>= man; ◄ tribe of {L:Levi&lt;SDBH:לֵוִי&gt;}; ► father of {L:Baruch&lt;SDBH:בָּרוּךְ&gt;}, Levite, time of {L:Nehemiah&lt;SDBH:נְחֶמְיָה&gt;}</DefinitionShort>
+              <Glosses>
+                <Gloss>Zabbai</Gloss>
+                <Gloss>Zaccai</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>01600302000012{N:001}</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

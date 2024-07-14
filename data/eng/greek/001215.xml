@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="001215000000000" Lemma="δεσμοφύλαξ" Version="0" HasAramaic="false" InLXX="true" AlphaPos="δ">
+  <StrongCodes>
+    <Strong>G1200</Strong>
+  </StrongCodes>
+  <Authors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes/>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="001215001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>noun, m.</PartOfSpeech>
+      </PartsOfSpeech>
+      <Inflections>
+        <Inflection Lemma="δεσμοφύλαξ" BaseFormIndex="1">
+          <Form/>
+          <Realizations>
+            <Realization>-ακος</Realization>
+          </Realizations>
+          <Comments/>
+        </Inflection>
+      </Inflections>
+      <Constructs>
+        <Construct Lemma="δεσμοφύλαξ" BaseFormIndex="1">
+          <WordMeaningSet>
+            <Word>δέω</Word>
+          </WordMeaningSet>
+          <WordMeaningSet>
+            <Word>φυλάσσω</Word>
+          </WordMeaningSet>
+        </Construct>
+      </Constructs>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="001215001001000" IsBiblicalTerm="M" EntryCode="37.124" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Control, Rule</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Guard, Watch Over</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-08-30 15:57:22" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>a person in charge of guarding a jail or prison</DefinitionShort>
+              <Glosses>
+                <Gloss>jailer</Gloss>
+                <Gloss>prison guard</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04401602300022</LEXReference>
+            <LEXReference>04401602700010</LEXReference>
+            <LEXReference>04401603600008</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

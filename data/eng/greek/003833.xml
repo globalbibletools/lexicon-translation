@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="003833000000000" Lemma="παρηγορία" Version="0" HasAramaic="false" InLXX="true" AlphaPos="π">
+  <StrongCodes>
+    <Strong>G3931</Strong>
+  </StrongCodes>
+  <Authors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes/>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="003833001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>noun, f.</PartOfSpeech>
+      </PartsOfSpeech>
+      <Inflections>
+        <Inflection Lemma="παρηγορία" BaseFormIndex="1">
+          <Form/>
+          <Realizations>
+            <Realization>-ας</Realization>
+          </Realizations>
+          <Comments/>
+        </Inflection>
+      </Inflections>
+      <RelatedLemmas>
+        <RelatedLemma>
+          <Word>ἀγορεύω</Word>
+          <Meaning LanguageCode="en">
+            <Meaning>speak</Meaning>
+          </Meaning>
+          <Meaning LanguageCode="zhT">
+            <Meaning>說話</Meaning>
+          </Meaning>
+        </RelatedLemma>
+      </RelatedLemmas>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="003833001001000" IsBiblicalTerm="Y" EntryCode="25.155" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Attitudes and Emotions</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Encouragement, Consolation</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-12-23 11:16:48" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>a means of providing comfort or consolation</DefinitionShort>
+              <Glosses>
+                <Gloss>comfort</Gloss>
+                <Gloss>consolation</Gloss>
+              </Glosses>
+              <Comments>It is also possible to understand παρηγορία in {S:05100401100042} as meaning ‘help’ (see {D:35.14}).</Comments>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>05100401100042</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+        <LEXMeaning Id="003833001002000" IsBiblicalTerm="Y" EntryCode="35.14" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Help, Care For</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Help</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-12-23 11:16:48" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>that which constitutes a means of help</DefinitionShort>
+              <Glosses>
+                <Gloss>help</Gloss>
+                <Gloss>assistance</Gloss>
+              </Glosses>
+              <Comments>It is also possible to understand {L:παρηγορία&lt;SDBG:παρηγορία:000000&gt;} in {S:05100401100042} as meaning ‘comfort’ (see {D:25.155}).</Comments>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>05100401100042</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="003809000000000" Lemma="מֹורָא" Version="4" HasAramaic="false" InLXX="false" AlphaPos="מ">
+  <StrongCodes>
+    <Strong>H4172a</Strong>
+    <Strong>H4172b</Strong>
+  </StrongCodes>
+  <Authors>
+    <Author>Reinier de Blois</Author>
+  </Authors>
+  <Contributors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes>
+    <Note Caller="1" LanguageCode="en" LastEdited="" LastEditedBy="">
+      <References>
+        <Reference>01900902100006</Reference>
+      </References>
+      <Content>MT {L:מֹורָה&lt;SDBH:מֹורָה&gt;}</Content>
+    </Note>
+  </Notes>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="003809001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>nsm</PartOfSpeech>
+      </PartsOfSpeech>
+      <RelatedLemmas>
+        <RelatedLemma>
+          <Word>ירא</Word>
+        </RelatedLemma>
+      </RelatedLemmas>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="003809001001000" IsBiblicalTerm="M" EntryCode="" Indent="0">
+          <LEXDomains>
+            <LEXDomain Code="002001002001">Afraid</LEXDomain>
+          </LEXDomains>
+          <LEXSynonyms>
+            <LEXSynonym>חַת</LEXSynonym>
+            <LEXSynonym>חתת</LEXSynonym>
+            <LEXSynonym>ירא</LEXSynonym>
+            <LEXSynonym>כבד</LEXSynonym>
+            <LEXSynonym>פַּחַד</LEXSynonym>
+          </LEXSynonyms>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2017-12-17 16:47:15" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>= stat in which humans or animals experience fear</DefinitionShort>
+              <Glosses>
+                <Gloss>fear</Gloss>
+                <Gloss>awe</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>00100900200004</LEXReference>
+            <LEXReference>00501102500016</LEXReference>
+            <LEXReference>01900902100006{N:001}</LEXReference>
+            <LEXReference>03900100600036</LEXReference>
+            <LEXReference>03900200500024</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+          <LEXCoreDomains>
+            <LEXCoreDomain Code="043">Confidence and Fear</LEXCoreDomain>
+          </LEXCoreDomains>
+        </LEXMeaning>
+        <LEXMeaning Id="003809001002000" IsBiblicalTerm="M" EntryCode="" Indent="0">
+          <LEXDomains>
+            <LEXDomain Code="002001002001">Afraid</LEXDomain>
+          </LEXDomains>
+          <LEXSynonyms>
+            <LEXSynonym>ירא</LEXSynonym>
+            <LEXSynonym>ערץ</LEXSynonym>
+            <LEXSynonym>קדשׁ</LEXSynonym>
+          </LEXSynonyms>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2017-12-17 16:47:15" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>= object or event inspiring fear</DefinitionShort>
+              <Glosses>
+                <Gloss>terror</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>00500403400068</LEXReference>
+            <LEXReference>00502600800030</LEXReference>
+            <LEXReference>00503401200024</LEXReference>
+            <LEXReference>02300801200030</LEXReference>
+            <LEXReference>02300801300016</LEXReference>
+            <LEXReference>02403202100050</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+          <LEXCoreDomains>
+            <LEXCoreDomain Code="043">Confidence and Fear</LEXCoreDomain>
+          </LEXCoreDomains>
+        </LEXMeaning>
+        <LEXMeaning Id="003809001003000" IsBiblicalTerm="M" EntryCode="" Indent="0">
+          <LEXDomains>
+            <LEXDomain Code="003001017" Source="Afraid" SourceCode="002001002001">Titles</LEXDomain>
+          </LEXDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2017-12-17 16:47:15" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>= a reference to YHWH as the one that everyone has to fear</DefinitionShort>
+              <Glosses>
+                <Gloss>Awesome One</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>01907601200026</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+        <LEXMeaning Id="003809001004000" IsBiblicalTerm="X" EntryCode="" Indent="0">
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>NO DATA YET</DefinitionShort>
+              <Glosses>
+                <Gloss>NO DATA YET</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>01900902100006</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="000198000000000" Lemma="ἀκροατής" Version="0" HasAramaic="false" InLXX="true" AlphaPos="α">
+  <StrongCodes>
+    <Strong>G0202</Strong>
+  </StrongCodes>
+  <Authors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes/>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="000198001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>noun, m.</PartOfSpeech>
+      </PartsOfSpeech>
+      <Inflections>
+        <Inflection Lemma="ἀκροατής" BaseFormIndex="1">
+          <Form/>
+          <Realizations>
+            <Realization>-οῦ</Realization>
+          </Realizations>
+          <Comments/>
+        </Inflection>
+      </Inflections>
+      <RelatedLemmas>
+        <RelatedLemma>
+          <Word>ἀκροατήριον</Word>
+        </RelatedLemma>
+        <RelatedLemma>
+          <Word>ἐπακροάομαι</Word>
+        </RelatedLemma>
+      </RelatedLemmas>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="000198001001000" IsBiblicalTerm="Y" EntryCode="24.56" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Sensory Events and States</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Hear</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-07-30 22:58:46" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>(derivative of ἀκροάομαι ‘to hear,’ not occurring in the NT) one who hears</DefinitionShort>
+              <Glosses>
+                <Gloss>hearer</Gloss>
+              </Glosses>
+              <Comments>In rendering {S:04500201300008}, it may be necessary to specify certain limitations with regard to being ‘hearers,’ for example, ‘for not just those who listen to the Law are righteous in God’s sight’ or ‘for those who merely listen to the Law are not the ones who are righteous in God’s sight.’</Comments>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04500201300008</LEXReference>
+            <LEXReference>05900102200016</LEXReference>
+            <LEXReference>05900102300008</LEXReference>
+            <LEXReference>05900102500026</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

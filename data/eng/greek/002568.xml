@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="002568000000000" Lemma="καλάμη" Version="0" HasAramaic="false" InLXX="true" AlphaPos="κ">
+  <StrongCodes>
+    <Strong>G2562</Strong>
+  </StrongCodes>
+  <Authors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes/>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="002568001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>noun, f.</PartOfSpeech>
+      </PartsOfSpeech>
+      <Inflections>
+        <Inflection Lemma="καλάμη" BaseFormIndex="1">
+          <Form/>
+          <Realizations>
+            <Realization>-ης</Realization>
+          </Realizations>
+          <Comments/>
+        </Inflection>
+      </Inflections>
+      <RelatedLemmas>
+        <RelatedLemma>
+          <Word>κάλαμος</Word>
+        </RelatedLemma>
+      </RelatedLemmas>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="002568001001000" IsBiblicalTerm="M" EntryCode="3.58" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Plants</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Non-Fruit Parts of Plants</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-09-09 10:57:28" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>the dry stalks of grain or reeds κάλαμος</DefinitionShort>
+              <Glosses>
+                <Gloss>straw</Gloss>
+                <Gloss>thatch</Gloss>
+              </Glosses>
+              <Comments>It is difficult in {S:04600301200028} to know precisely the distinction between χόρτον ‘grass’ and καλάμην ‘straw.’ It would seem clear that καλάμην would be less valuable than χόρτον, and this might be a reference to the use of straw as a very poor thatching material. On the other hand, it could be understood as a reference to the use of straw in place of grass in the making of sun- dried bricks.</Comments>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04600301200028</LEXReference>
+          </LEXReferences>
+          <LEXLinks>
+            <LEXLink>flora:5.1.4</LEXLink>
+          </LEXLinks>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

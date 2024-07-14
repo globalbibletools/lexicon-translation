@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="004569000000000" Lemma="מתק" Version="4" HasAramaic="false" InLXX="false" AlphaPos="מ">
+  <StrongCodes>
+    <Strong>H4985</Strong>
+    <Strong>H4988</Strong>
+  </StrongCodes>
+  <Authors>
+    <Author>Reinier de Blois</Author>
+  </Authors>
+  <Contributors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes>
+    <Note Caller="1" LanguageCode="en" LastEdited="" LastEditedBy="">
+      <References>
+        <Reference>01802402000006</Reference>
+      </References>
+      <Content>{A:MT} {A:HOTTP}-A {A:NIV} {A:NJPS} {A:NRSV} {A:GNT} {A:CEV} | {A:REB} "to suck dry" | {A:RSV} מְקֹמֹו = {L:מָקֹום&lt;SDBH:מָקֹום&gt;}</Content>
+    </Note>
+  </Notes>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="004569001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>vb</PartOfSpeech>
+      </PartsOfSpeech>
+      <RelatedLemmas>
+        <RelatedLemma>
+          <Word>מַמְתַקִּים</Word>
+        </RelatedLemma>
+        <RelatedLemma>
+          <Word>מָתֹוק</Word>
+        </RelatedLemma>
+        <RelatedLemma>
+          <Word>מָתֵק</Word>
+        </RelatedLemma>
+        <RelatedLemma>
+          <Word>מֹתֶק</Word>
+        </RelatedLemma>
+      </RelatedLemmas>
+      <RelatedNames>
+        <RelatedName>
+          <Word>מִתְקָה</Word>
+        </RelatedName>
+      </RelatedNames>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="004569001001000" IsBiblicalTerm="Y" EntryCode="" Indent="0">
+          <LEXDomains>
+            <LEXDomain Code="002001001028">Good</LEXDomain>
+          </LEXDomains>
+          <LEXForms>
+            <LEXForm>vbqal-</LEXForm>
+          </LEXForms>
+          <LEXSynonyms>
+            <LEXSynonym>נעם</LEXSynonym>
+          </LEXSynonyms>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2018-01-15 08:16:08" LastEditedBy="administrator">
+              <DefinitionLong/>
+              <DefinitionShort>= state in which food tastes well</DefinitionShort>
+              <Glosses>
+                <Gloss>to taste good</Gloss>
+                <Gloss>to be sweet</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>00201502500030</LEXReference>
+            <LEXReference>01802402000006{N:001}</LEXReference>
+            <LEXReference>02000901700006</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+        <LEXMeaning Id="004569001002000" IsBiblicalTerm="Y" EntryCode="" Indent="0">
+          <LEXDomains>
+            <LEXDomain Code="002001003019" Source="Good" SourceCode="002001001028">Well</LEXDomain>
+          </LEXDomains>
+          <LEXForms>
+            <LEXForm>vbhif-</LEXForm>
+          </LEXForms>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2018-01-15 08:16:43" LastEditedBy="administrator">
+              <DefinitionLong/>
+              <DefinitionShort>= state in which an event is pleasant</DefinitionShort>
+              <Glosses>
+                <Gloss>to be pleasant</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>01802001200004</LEXReference>
+            <LEXReference>01802103300002</LEXReference>
+            <LEXReference>01905501500006</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

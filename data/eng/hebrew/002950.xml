@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="002950000000000" Lemma="יְמִינִי" Version="5" HasAramaic="false" InLXX="false" AlphaPos="י">
+  <StrongCodes>
+    <Strong>H3227a</Strong>
+    <Strong>H3227b</Strong>
+  </StrongCodes>
+  <Authors>
+    <Author>Enio R. Mueller</Author>
+  </Authors>
+  <Contributors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes>
+    <Note Caller="1" LanguageCode="en" LastEdited="" LastEditedBy="">
+      <References>
+        <Reference>01400301700044</Reference>
+      </References>
+      <Content>{A:MT-K} ימיני | {A:MT-Q} יְמָנִי</Content>
+    </Note>
+  </Notes>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="002950001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>aj</PartOfSpeech>
+      </PartsOfSpeech>
+      <RelatedLemmas>
+        <RelatedLemma>
+          <Word>ימן</Word>
+        </RelatedLemma>
+      </RelatedLemmas>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="002950001001000" IsBiblicalTerm="Y" EntryCode="" Indent="0">
+          <LEXDomains>
+            <LEXDomain Code="002002001013">Orientation</LEXDomain>
+          </LEXDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2017-09-15 13:39:24" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>= the direction facing right or southward from the perspective of the location in focus; ≈ associated with strength and therefore usually regarded as the favorite side; in extension: one option as opposed to another</DefinitionShort>
+              <Glosses>
+                <Gloss>right</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>01400301700044{N:001}</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+    <BaseForm Id="002950002000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>np</PartOfSpeech>
+      </PartsOfSpeech>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="002950002001000" IsBiblicalTerm="Y" EntryCode="" Indent="0">
+          <LEXDomains>
+            <LEXDomain Code="003001007">Names of People</LEXDomain>
+          </LEXDomains>
+          <LEXSynonyms>
+            <LEXSynonym>בֶּן־אֹונִי</LEXSynonym>
+            <LEXSynonym>בִּנְיָמִן</LEXSynonym>
+          </LEXSynonyms>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2018-02-16 13:16:25" LastEditedBy="administrator">
+              <DefinitionLong/>
+              <DefinitionShort>= man, tribe, and territory; ◄ twelfth and last son of {L:Jacob&lt;SDBH:יַעֲקֹב&gt;} and second son of {L:Rachel&lt;SDBH:רָחֵל&gt;}; ► founder of one of the tribes of {L:Israel&lt;SDBH:יִשְׂרָאֵל&gt;}</DefinitionShort>
+              <Glosses>
+                <Gloss>Benjamin</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>00700301500036</LEXReference>
+            <LEXReference>00701901600062</LEXReference>
+            <LEXReference>00900900100040</LEXReference>
+            <LEXReference>00900900400050</LEXReference>
+            <LEXReference>00900902100018</LEXReference>
+            <LEXReference>00902200700024</LEXReference>
+            <LEXReference>01001601100050</LEXReference>
+            <LEXReference>01001901700016</LEXReference>
+            <LEXReference>01002000100024</LEXReference>
+            <LEXReference>01100200800018</LEXReference>
+            <LEXReference>01302701200028</LEXReference>
+            <LEXReference>01302701200030</LEXReference>
+            <LEXReference>01700200500036</LEXReference>
+            <LEXReference>01900700100024</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="005223000000000" Lemma="φάρμακον" Version="0" HasAramaic="false" InLXX="true" AlphaPos="φ">
+  <StrongCodes>
+    <Strong>G5331a</Strong>
+  </StrongCodes>
+  <Authors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes/>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="005223001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>noun, n.</PartOfSpeech>
+      </PartsOfSpeech>
+      <Inflections>
+        <Inflection Lemma="φάρμακον" BaseFormIndex="1">
+          <Form/>
+          <Realizations>
+            <Realization>-ου</Realization>
+          </Realizations>
+          <Comments/>
+        </Inflection>
+      </Inflections>
+      <RelatedLemmas>
+        <RelatedLemma>
+          <Word>φάρμακος</Word>
+        </RelatedLemma>
+      </RelatedLemmas>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="005223001001000" IsBiblicalTerm="M" EntryCode="53.100" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Religious Activities</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Magic</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2022-05-09 08:00:58" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>the use of magic, often involving drugs and the casting of spells upon people</DefinitionShort>
+              <Glosses>
+                <Gloss>to practice magic</Gloss>
+                <Gloss>to cast spells upon</Gloss>
+                <Gloss>to engage in sorcery</Gloss>
+                <Gloss>magic</Gloss>
+                <Gloss>sorcery</Gloss>
+              </Glosses>
+              <Comments>{L:φαρμακεία&lt;SDBG:φαρμακεία:000000&gt;} and the variant φάρμακον (as in {S:06600902100022}) differ from the preceding terms ({D:53.96}-{D:53.99}) in that the focus is upon the use of certain potions or drugs and the casting of spells.</Comments>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>06600902100022</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

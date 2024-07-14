@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="003005000000000" Lemma="λαμπρότης" Version="0" HasAramaic="false" InLXX="true" AlphaPos="λ">
+  <StrongCodes>
+    <Strong>G2987</Strong>
+  </StrongCodes>
+  <Authors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes/>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="003005001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>noun, f.</PartOfSpeech>
+      </PartsOfSpeech>
+      <Inflections>
+        <Inflection Lemma="λαμπρότης" BaseFormIndex="1">
+          <Form/>
+          <Realizations>
+            <Realization>-ητος</Realization>
+          </Realizations>
+          <Comments/>
+        </Inflection>
+      </Inflections>
+      <RelatedLemmas>
+        <RelatedLemma>
+          <Word>λάμπω</Word>
+        </RelatedLemma>
+      </RelatedLemmas>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="003005001001000" IsBiblicalTerm="Y" EntryCode="14.49" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Physical Events and States</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Light</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-11-03 10:36:06" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>the state of brightness or shining</DefinitionShort>
+              <Glosses>
+                <Gloss>brightness</Gloss>
+                <Gloss>shining</Gloss>
+                <Gloss>radiance</Gloss>
+              </Glosses>
+              <Comments>In a number of languages a clear distinction is made between some object which is bright in and of itself (that is to say, the source of brightness or radiance) and objects which are bright because they reflect light from some source. In the case of {S:04001700500010} (which is generally regarded as a reference to the Shekinah presence of God), the cloud would not be merely reflecting light but would be a source of light (see {D:14.50}).</Comments>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04402601300022</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

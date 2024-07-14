@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="000539000000000" Lemma="ἀπάτη" Version="0" HasAramaic="false" InLXX="true" AlphaPos="α">
+  <StrongCodes>
+    <Strong>G0539</Strong>
+  </StrongCodes>
+  <Authors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes>
+    <Note Caller="1" LanguageCode="en" LastEdited="" LastEditedBy="">
+      <References/>
+      <Content>This series of meanings containing the stem ἀπατ overlaps considerably in meaning with the previous series containing the stem πλαν ({D:31.8}-{D:31.11}). Both sets of terms involve deception and erroneous views. It is difficult to determine the precise implications of differences in meaning, but it may be that terms with the stem πλαν are somewhat more related to general deceptive behavior rather than primarily to misconceptions.</Content>
+    </Note>
+  </Notes>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="000539001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>noun, f.</PartOfSpeech>
+      </PartsOfSpeech>
+      <Inflections>
+        <Inflection Lemma="ἀπάτη" BaseFormIndex="1">
+          <Form/>
+          <Realizations>
+            <Realization>-ης</Realization>
+          </Realizations>
+          <Comments/>
+        </Inflection>
+      </Inflections>
+      <Constructs>
+        <Construct Lemma="ἀπάτη" BaseFormIndex="1">
+          <WordMeaningSet>
+            <Word>ἀ-</Word>
+          </WordMeaningSet>
+          <WordMeaningSet>
+            <Word>ἀπατάω</Word>
+          </WordMeaningSet>
+        </Construct>
+      </Constructs>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="000539001001000" IsBiblicalTerm="Y" EntryCode="31.12" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Hold a View, Believe, Trust</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Hold a Wrong View, Be Mistaken</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-08-10 18:25:57" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>to cause someone to have misleading or erroneous views concerning the truth{N:001}</DefinitionShort>
+              <Glosses>
+                <Gloss>to mislead</Gloss>
+                <Gloss>to deceive</Gloss>
+                <Gloss>deception</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04001302200040</LEXReference>
+            <LEXReference>04100401900016</LEXReference>
+            <LEXReference>04900402200032</LEXReference>
+            <LEXReference>05100200800026</LEXReference>
+            <LEXReference>05300201000008</LEXReference>
+            <LEXReference>05800301300036</LEXReference>
+            <LEXReference>06100201300032</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

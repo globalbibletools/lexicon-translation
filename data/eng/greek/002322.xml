@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="002322000000000" Lemma="θεοσέβεια" Version="0" HasAramaic="false" InLXX="true" AlphaPos="θ">
+  <StrongCodes>
+    <Strong>G2317</Strong>
+  </StrongCodes>
+  <Authors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes/>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="002322001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>noun, f.</PartOfSpeech>
+      </PartsOfSpeech>
+      <Inflections>
+        <Inflection Lemma="θεοσέβεια" BaseFormIndex="1">
+          <Form/>
+          <Realizations>
+            <Realization>-ας</Realization>
+          </Realizations>
+          <Comments/>
+        </Inflection>
+      </Inflections>
+      <Constructs>
+        <Construct Lemma="θεοσέβεια" BaseFormIndex="1">
+          <WordMeaningSet>
+            <Word>θεός</Word>
+          </WordMeaningSet>
+          <WordMeaningSet>
+            <Word>σέβομαι</Word>
+          </WordMeaningSet>
+        </Construct>
+      </Constructs>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="002322001001000" IsBiblicalTerm="M" EntryCode="53.1" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Religious Activities</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Religious Practice</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-08-13 18:42:53" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>appropriate beliefs and devout practice of obligations relating to supernatural persons and powers</DefinitionShort>
+              <Glosses>
+                <Gloss>religion</Gloss>
+                <Gloss>piety</Gloss>
+              </Glosses>
+              <Comments>In a number of languages there is no specific term equivalent to ‘religion,’ but one may always speak of this phase of culture by some phrase such as ‘how to act toward God’ or ‘what one does to placate spirits’ or ‘how one worships.’</Comments>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>05400201000012</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

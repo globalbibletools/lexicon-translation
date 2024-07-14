@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="001555000000000" Lemma="ἑκατοντάρχης" Version="0" HasAramaic="false" InLXX="true" AlphaPos="ε">
+  <StrongCodes>
+    <Strong>G1543</Strong>
+  </StrongCodes>
+  <Authors/>
+  <AlternateLemmas>
+    <AlternateLemma>ἑκατόνταρχος</AlternateLemma>
+  </AlternateLemmas>
+  <MainLinks/>
+  <Notes/>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="001555001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>noun, m.</PartOfSpeech>
+      </PartsOfSpeech>
+      <Inflections>
+        <Inflection Lemma="ἑκατοντάρχης" BaseFormIndex="1">
+          <Form/>
+          <Realizations>
+            <Realization>-ου</Realization>
+          </Realizations>
+          <Comments/>
+        </Inflection>
+      </Inflections>
+      <Constructs>
+        <Construct Lemma="ἑκατοντάρχης" BaseFormIndex="1">
+          <WordMeaningSet>
+            <Word>ἑκατόν</Word>
+          </WordMeaningSet>
+          <WordMeaningSet>
+            <Word>ἄρχω</Word>
+          </WordMeaningSet>
+        </Construct>
+      </Constructs>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="001555001001000" IsBiblicalTerm="M" EntryCode="55.16" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Military Activities</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Soldiers, Officers</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-07-04 17:11:24" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>a Roman officer in command of about one hundred men</DefinitionShort>
+              <Glosses>
+                <Gloss>centurion</Gloss>
+                <Gloss>captain</Gloss>
+              </Glosses>
+              <Comments>In a number of languages, centurion can very readily be rendered by a phrase such as ‘a commander of a hundred soldiers,’ but in many instances the closest natural equivalent is simply ‘captain.’</Comments>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04000800500016</LEXReference>
+            <LEXReference>04000800800008</LEXReference>
+            <LEXReference>04000801300012</LEXReference>
+            <LEXReference>04002705400006</LEXReference>
+            <LEXReference>04200700200002</LEXReference>
+            <LEXReference>04200700600038</LEXReference>
+            <LEXReference>04202304700008</LEXReference>
+            <LEXReference>04401000100016</LEXReference>
+            <LEXReference>04401002200010</LEXReference>
+            <LEXReference>04402103200012</LEXReference>
+            <LEXReference>04402202500022</LEXReference>
+            <LEXReference>04402202600008</LEXReference>
+            <LEXReference>04402301700014</LEXReference>
+            <LEXReference>04402302300012</LEXReference>
+            <LEXReference>04402402300006</LEXReference>
+            <LEXReference>04402700100036</LEXReference>
+            <LEXReference>04402700600008</LEXReference>
+            <LEXReference>04402701100006</LEXReference>
+            <LEXReference>04402703100010</LEXReference>
+            <LEXReference>04402704300006</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

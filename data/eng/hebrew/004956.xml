@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="004956000000000" Lemma="נָתִין" Version="4" HasAramaic="false" InLXX="false" AlphaPos="נ">
+  <StrongCodes>
+    <Strong>H5411</Strong>
+  </StrongCodes>
+  <Authors>
+    <Author>Steve Berneking</Author>
+  </Authors>
+  <Contributors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes>
+    <Note Caller="1" LanguageCode="en" LastEdited="" LastEditedBy="">
+      <References>
+        <Reference>01500801700050</Reference>
+      </References>
+      <Content>MT-K הנתונים | {A:MT-Q} הַנְּתִינִים</Content>
+    </Note>
+  </Notes>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="004956001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>nsm</PartOfSpeech>
+      </PartsOfSpeech>
+      <RelatedLemmas>
+        <RelatedLemma>
+          <Word>נתן</Word>
+        </RelatedLemma>
+      </RelatedLemmas>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="004956001001000" IsBiblicalTerm="M" EntryCode="" Indent="0">
+          <LEXDomains>
+            <LEXDomain Code="001001002003009">Professions</LEXDomain>
+          </LEXDomains>
+          <LEXForms>
+            <LEXForm>nsmp</LEXForm>
+          </LEXForms>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2017-03-23 15:24:22" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>literally, "the ones given" or "the dedicated ones"; hence = persons who were responsbile for doing regular tasks in the Temple and for serving the priests</DefinitionShort>
+              <Glosses>
+                <Gloss>temple servants</Gloss>
+                <Gloss>temple workers</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>01300900200036</LEXReference>
+            <LEXReference>01500204300004</LEXReference>
+            <LEXReference>01500205800006</LEXReference>
+            <LEXReference>01500207000040</LEXReference>
+            <LEXReference>01500700700042</LEXReference>
+            <LEXReference>01500801700050{N:001}</LEXReference>
+            <LEXReference>01500801700054</LEXReference>
+            <LEXReference>01500802000008</LEXReference>
+            <LEXReference>01500802000030</LEXReference>
+            <LEXReference>01600302600006</LEXReference>
+            <LEXReference>01600303100022</LEXReference>
+            <LEXReference>01600704600004</LEXReference>
+            <LEXReference>01600706000006</LEXReference>
+            <LEXReference>01600707200040</LEXReference>
+            <LEXReference>01601002900028</LEXReference>
+            <LEXReference>01601100300056</LEXReference>
+            <LEXReference>01601102100006</LEXReference>
+            <LEXReference>01601102100028</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+          <LEXCoreDomains>
+            <LEXCoreDomain Code="200">Work</LEXCoreDomain>
+            <LEXCoreDomain Code="150">Sanctuary</LEXCoreDomain>
+          </LEXCoreDomains>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

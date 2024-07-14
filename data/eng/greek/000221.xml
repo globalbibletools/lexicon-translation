@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="000221000000000" Lemma="ἀληθεύω" Version="0" HasAramaic="false" InLXX="true" AlphaPos="α">
+  <StrongCodes>
+    <Strong>G0226</Strong>
+  </StrongCodes>
+  <Authors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes/>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="000221001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>verb</PartOfSpeech>
+      </PartsOfSpeech>
+      <Constructs>
+        <Construct Lemma="ἀληθεύω" BaseFormIndex="1">
+          <WordMeaningSet>
+            <Word>ἀ-</Word>
+          </WordMeaningSet>
+          <WordMeaningSet>
+            <Word>λήθω</Word>
+          </WordMeaningSet>
+        </Construct>
+      </Constructs>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="000221001001000" IsBiblicalTerm="M" EntryCode="33.251" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Communication</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Speak Truth, Speak Falsehood</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-05-23 16:53:50" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>to communicate what is true</DefinitionShort>
+              <Glosses>
+                <Gloss>to speak the truth</Gloss>
+                <Gloss>to tell the truth</Gloss>
+              </Glosses>
+              <Comments>In a number of languages it may be difficult to employ a highly abstract term such as ‘truth.’ Accordingly, one may find it necessary to relate ‘truth’ in {S:04800401600010} to the immediate context, for example, ‘… by telling you what they really want to do’ or ‘… what all this really means.’</Comments>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04800401600010</LEXReference>
+            <LEXReference>04900401500002</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

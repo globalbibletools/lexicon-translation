@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="004749000000000" Lemma="συμπληρόω" Version="0" HasAramaic="false" InLXX="false" AlphaPos="σ">
+  <StrongCodes>
+    <Strong>G4845</Strong>
+  </StrongCodes>
+  <Authors/>
+  <AlternateLemmas>
+    <AlternateLemma>συμπληρόομαι</AlternateLemma>
+  </AlternateLemmas>
+  <MainLinks/>
+  <Notes>
+    <Note Caller="1" LanguageCode="en" LastEdited="" LastEditedBy="">
+      <References/>
+      <Content>In a number of contexts it is difficult to determine whether the meanings in {D:67.69} and {D:67.70} are primarily temporal or aspectual. If the meaning in any one context seems to focus upon the completion of an activity, then the meaning should be classified as aspectual (Domain 68 Aspect), but if the emphasis would seem to be primarily upon the end point of an activity, then one may legitimately classify these meanings as being temporal.</Content>
+    </Note>
+  </Notes>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="004749001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>verb</PartOfSpeech>
+      </PartsOfSpeech>
+      <RelatedLemmas>
+        <RelatedLemma>
+          <Word>πληρόω</Word>
+        </RelatedLemma>
+      </RelatedLemmas>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="004749001001000" IsBiblicalTerm="Y" EntryCode="54.14" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Maritime Activities</LEXDomain>
+          </LEXDomains>
+          <LEXForms>
+            <LEXForm>συμπληρόομαι[a]</LEXForm>
+          </LEXForms>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2022-03-09 13:31:26" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>(a technical, nautical term) to be swamped with water while sailing in a boat</DefinitionShort>
+              <Glosses>
+                <Gloss>to be swamped</Gloss>
+                <Gloss>to have a boat filling rapidly with water</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04200802300026</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+        <LEXMeaning Id="004749001002000" IsBiblicalTerm="M" EntryCode="67.70" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Time</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>A Point of Time with Reference to Duration of Time: Beginning, End</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXForms>
+            <LEXForm>συμπληρόομαι[b]</LEXForm>
+          </LEXForms>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2022-03-09 13:31:26" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>to come to the end of a period of time, with the implication of the completion of an implied purpose or plan{N:001}</DefinitionShort>
+              <Glosses>
+                <Gloss>to complete</Gloss>
+                <Gloss>to come to an end</Gloss>
+              </Glosses>
+              <Comments>In a number of languages it may be difficult to speak of a period of time being ‘complete.’ In {S:04200102300008} one may often translate as ‘when he had finished his period of service’ or even ‘when he had done his work.’ In the case of {S:04400703000004}, the expression ‘after forty years were completed’ may be rendered in some languages as ‘after forty years were passed’ or ‘when forty years had happened.’</Comments>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04200905100010</LEXReference>
+            <LEXReference>04400200100008</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

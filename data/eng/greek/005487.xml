@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="005487000000000" Lemma="ὠδίν" Version="0" HasAramaic="false" InLXX="true" AlphaPos="ω">
+  <StrongCodes>
+    <Strong>G5604</Strong>
+  </StrongCodes>
+  <Authors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes/>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="005487001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>noun, f.</PartOfSpeech>
+      </PartsOfSpeech>
+      <Inflections>
+        <Inflection Lemma="ὠδίν" BaseFormIndex="1">
+          <Form/>
+          <Realizations>
+            <Realization>-ῖνος</Realization>
+          </Realizations>
+          <Comments/>
+        </Inflection>
+      </Inflections>
+      <RelatedLemmas>
+        <RelatedLemma>
+          <Word>ὠδίνω</Word>
+        </RelatedLemma>
+      </RelatedLemmas>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="005487001001000" IsBiblicalTerm="M" EntryCode="23.54" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Physiological Processes and States</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Birth, Procreation</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2022-06-06 17:07:16" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>to experience pains associated with giving birth</DefinitionShort>
+              <Glosses>
+                <Gloss>to have birth pains</Gloss>
+                <Gloss>to suffer pain in connection with giving birth</Gloss>
+                <Gloss>birth pains</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>05200500300026</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+        <LEXMeaning Id="005487001002000" IsBiblicalTerm="M" EntryCode="24.87" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Sensory Events and States</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Pain, Suffering</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2022-06-06 17:07:16" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>(figurative extension of meaning of {L:ὠδίν&lt;SDBG:ὠδίν:000000&gt;}[a] ‘to suffer birth pain,’ {D:23.54}) to suffer intensely (similar to birth pain)</DefinitionShort>
+              <Glosses>
+                <Gloss>to suffer greatly</Gloss>
+                <Gloss>great pain</Gloss>
+              </Glosses>
+              <Comments>πάντα δὲ ταῦτα ἀρχή ὠδίνων ‘all these things are simply the beginning of great suffering’ {S:04002400800010}, a reference to the so-called Messianic woes (see {D:24.78}).</Comments>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04002400800010</LEXReference>
+            <LEXReference>04101300800034</LEXReference>
+            <LEXReference>04400202400014</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

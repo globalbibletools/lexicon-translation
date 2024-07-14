@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="004935000000000" Lemma="ταχύς" Version="0" HasAramaic="false" InLXX="true" AlphaPos="τ">
+  <StrongCodes>
+    <Strong>G5035</Strong>
+  </StrongCodes>
+  <Authors/>
+  <AlternateLemmas>
+    <AlternateLemma>ταχύ</AlternateLemma>
+  </AlternateLemmas>
+  <MainLinks/>
+  <Notes/>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="004935001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>adjc.</PartOfSpeech>
+      </PartsOfSpeech>
+      <Inflections>
+        <Inflection Lemma="ταχύς" BaseFormIndex="1">
+          <Form/>
+          <Realizations>
+            <Realization>-εῖα, -ύ</Realization>
+          </Realizations>
+          <Comments/>
+        </Inflection>
+      </Inflections>
+      <RelatedLemmas>
+        <RelatedLemma>
+          <Word>τάχα</Word>
+        </RelatedLemma>
+        <RelatedLemma>
+          <Word>ταχέως</Word>
+        </RelatedLemma>
+        <RelatedLemma>
+          <Word>ταχινός</Word>
+        </RelatedLemma>
+        <RelatedLemma>
+          <Word>τάχιον</Word>
+        </RelatedLemma>
+        <RelatedLemma>
+          <Word>τάχιστα</Word>
+        </RelatedLemma>
+        <RelatedLemma>
+          <Word>τάχος</Word>
+        </RelatedLemma>
+        <RelatedLemma>
+          <Word>ταχύ</Word>
+        </RelatedLemma>
+      </RelatedLemmas>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="004935001001000" IsBiblicalTerm="Y" EntryCode="67.110" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Time</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Duration of Time without Reference to Points or Units of Time: Time, Spend Time, Always, Eternal, Old, Immediately, Young</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2022-03-31 22:19:58" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>pertaining to a very short extent of time</DefinitionShort>
+              <Glosses>
+                <Gloss>quickly</Gloss>
+                <Gloss>hurriedly</Gloss>
+                <Gloss>swift</Gloss>
+                <Gloss>speedy</Gloss>
+              </Glosses>
+              <Comments>In {S:04301102900012} ταχύ probably refers to the short period of time between Mary‘s hearing about Jesus and her getting up to go out to meet him. It is, of course, also possible to interpret ταχύ in {S:04301102900012} as referring to the rapidity of Mary‘s movement in getting up and going out to meet Jesus.|Again, in {S:04301302700038} the emphasis is upon the brief period of time before Judas is to do what he had set out to do.</Comments>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04000502500012</LEXReference>
+            <LEXReference>04002800700004</LEXReference>
+            <LEXReference>04002800800006</LEXReference>
+            <LEXReference>04201502200018</LEXReference>
+            <LEXReference>04301102900012</LEXReference>
+            <LEXReference>04301302700038</LEXReference>
+            <LEXReference>04302000400022</LEXReference>
+            <LEXReference>05801301900014</LEXReference>
+            <LEXReference>05801302300020</LEXReference>
+            <LEXReference>05900101900018</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+        <LEXMeaning Id="004935001002000" IsBiblicalTerm="Y" EntryCode="67.56" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Time</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>A Point of Time with Reference to Other Points of Time: Before, Long Ago, Now, At the Same Time, When, About, After</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXForms>
+            <LEXForm>(adv.)</LEXForm>
+          </LEXForms>
+          <LEXCollocations>
+            <LEXCollocation>ταχύ</LEXCollocation>
+          </LEXCollocations>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2022-03-31 22:19:58" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>pertaining to a point of time subsequent to another point of time (either an event in the discourse or the time of the discourse itself), with emphasis upon the relatively brief interval between the two points of time</DefinitionShort>
+              <Glosses>
+                <Gloss>soon</Gloss>
+                <Gloss>very soon</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04100903900040</LEXReference>
+            <LEXReference>04401701500040</LEXReference>
+            <LEXReference>06600201600016</LEXReference>
+            <LEXReference>06600301100004</LEXReference>
+            <LEXReference>06601101400024</LEXReference>
+            <LEXReference>06602200700008</LEXReference>
+            <LEXReference>06602201200006</LEXReference>
+            <LEXReference>06602202000014</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

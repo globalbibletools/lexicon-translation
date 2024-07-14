@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="001979000000000" Lemma="ἐπιμένω" Version="0" HasAramaic="false" InLXX="true" AlphaPos="ε">
+  <StrongCodes>
+    <Strong>G1961</Strong>
+  </StrongCodes>
+  <Authors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes>
+    <Note Caller="1" LanguageCode="en" LastEdited="" LastEditedBy="">
+      <References/>
+      <Content>There may be slight nuances of meaning in the various terms in this series, but such distinctions cannot be clearly determined from existing contexts, especially since the prefixes are redundant with other expressions of space.</Content>
+    </Note>
+  </Notes>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="001979001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>verb</PartOfSpeech>
+      </PartsOfSpeech>
+      <Inflections>
+        <Inflection Lemma="ἐπιμένω" BaseFormIndex="1">
+          <Form>aor.</Form>
+          <Realizations>
+            <Realization>ἐπέμεινα</Realization>
+          </Realizations>
+          <Comments/>
+        </Inflection>
+        <Inflection Lemma="ἐπιμένω" BaseFormIndex="1">
+          <Form>inf.</Form>
+          <Realizations>
+            <Realization>ἐπιμεῖναι</Realization>
+          </Realizations>
+          <Comments/>
+        </Inflection>
+      </Inflections>
+      <RelatedLemmas>
+        <RelatedLemma>
+          <Word>μένω</Word>
+        </RelatedLemma>
+      </RelatedLemmas>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="001979001001000" IsBiblicalTerm="Y" EntryCode="85.55" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Existence in Space</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Remain, Stay</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-06-23 09:31:41" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>to remain in the same place over a period of time{N:001}</DefinitionShort>
+              <Glosses>
+                <Gloss>to remain</Gloss>
+                <Gloss>to stay</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04401004800026</LEXReference>
+            <LEXReference>04402100400010</LEXReference>
+            <LEXReference>04402101000002</LEXReference>
+            <LEXReference>04402801200010</LEXReference>
+            <LEXReference>04402801400014</LEXReference>
+            <LEXReference>04601600700026</LEXReference>
+            <LEXReference>04601600800002</LEXReference>
+            <LEXReference>04800101800022</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+        <LEXMeaning Id="001979001002000" IsBiblicalTerm="Y" EntryCode="68.11" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Aspect</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Continue</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-06-23 09:31:41" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>to continue in an activity or state</DefinitionShort>
+              <Glosses>
+                <Gloss>to continue</Gloss>
+                <Gloss>to remain in</Gloss>
+                <Gloss>to keep on</Gloss>
+              </Glosses>
+              <Comments>It is also possible to understand ἐπιμένω in {S:04300800700006} as continuing in a place (see {L:ἐπιμένω&lt;SDBG:ἐπιμένω:000000&gt;}[a], {D:85.55}), and therefore one may translate ‘as they stood there.’</Comments>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04300800700006</LEXReference>
+            <LEXReference>04401201600008</LEXReference>
+            <LEXReference>04500600100008</LEXReference>
+            <LEXReference>04501102200036</LEXReference>
+            <LEXReference>04501102300010</LEXReference>
+            <LEXReference>05000102400006</LEXReference>
+            <LEXReference>05100102300006</LEXReference>
+            <LEXReference>05400401600012</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

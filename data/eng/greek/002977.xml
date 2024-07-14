@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="002977000000000" Lemma="κυριακός" Version="0" HasAramaic="false" InLXX="false" AlphaPos="κ">
+  <StrongCodes>
+    <Strong>G2960</Strong>
+  </StrongCodes>
+  <Authors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes/>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="002977001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>adjc.</PartOfSpeech>
+      </PartsOfSpeech>
+      <Inflections>
+        <Inflection Lemma="κυριακός" BaseFormIndex="1">
+          <Form/>
+          <Realizations>
+            <Realization>-ή, -όν</Realization>
+          </Realizations>
+          <Comments/>
+        </Inflection>
+      </Inflections>
+      <RelatedLemmas>
+        <RelatedLemma>
+          <Word>κυριεύω</Word>
+        </RelatedLemma>
+      </RelatedLemmas>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="002977001001000" IsBiblicalTerm="Y" EntryCode="12.10" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Supernatural Beings and Powers</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Supernatural Beings</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-10-28 12:24:49" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>(derivative of {L:κύριος&lt;SDBG:κύριος:000000&gt;}[a] ‘Lord,’ {D:12.9}) pertaining to the Lord</DefinitionShort>
+              <Glosses>
+                <Gloss>belonging to the Lord</Gloss>
+                <Gloss>Lord’s</Gloss>
+              </Glosses>
+              <Comments>A strictly literal rendering of ‘the Lord’s Supper’ might simply mean ‘the supper which the Lord ate,’ implying that no one else participated. Therefore, it may be necessary in some languages to translate ‘the meal at which the Lord presided’ or ‘the meal which the Lord had for his disciples’ or ‘the meal which the Lord ate with his followers.’</Comments>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04601102000018</LEXReference>
+            <LEXReference>06600101000012</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

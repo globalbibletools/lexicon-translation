@@ -1,0 +1,332 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="004442000000000" Lemma="מַשָּׂא" Version="4" HasAramaic="false" InLXX="false" AlphaPos="מ">
+  <StrongCodes>
+    <Strong>H4853</Strong>
+    <Strong>H4854</Strong>
+  </StrongCodes>
+  <Authors>
+    <Author>Reinier de Blois</Author>
+  </Authors>
+  <Contributors/>
+  <AlternateLemmas>
+    <AlternateLemma>מַשָּׂא</AlternateLemma>
+  </AlternateLemmas>
+  <MainLinks/>
+  <Notes>
+    <Note Caller="1" LanguageCode="en" LastEdited="" LastEditedBy="">
+      <References>
+        <Reference>01301502200014</Reference>
+        <Reference>01301502200022</Reference>
+        <Reference>01301502700048</Reference>
+      </References>
+      <Content>NJB "transport" = [1b] | RSV NRSV REB ESV "music" NIV "singing" NJPS "song" = [1h]</Content>
+    </Note>
+    <Note Caller="2" LanguageCode="en" LastEdited="" LastEditedBy="">
+      <References>
+        <Reference>02402303300046</Reference>
+      </References>
+      <Content>Please note the intentional wordplay between "instruction" [2a] and "burden" [1c] in this verse.</Content>
+    </Note>
+    <Note Caller="3" LanguageCode="en" LastEdited="" LastEditedBy="">
+      <References>
+        <Reference>01401701100020</Reference>
+      </References>
+      <Content>NJB "load" REB "quantity" GNT "large amount" | RSV NIV NJPS NRSV ESV "tribute"</Content>
+    </Note>
+  </Notes>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="004442001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>nsm</PartOfSpeech>
+      </PartsOfSpeech>
+      <RelatedLemmas>
+        <RelatedLemma>
+          <Word>נשׂא</Word>
+        </RelatedLemma>
+      </RelatedLemmas>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="004442001001000" IsBiblicalTerm="Y" EntryCode="" Indent="0">
+          <LEXDomains>
+            <LEXDomain Code="002001002003" Source="High" SourceCode="002001001032">Confident</LEXDomain>
+          </LEXDomains>
+          <LEXCollocations>
+            <LEXCollocation>מַשָּׂא נֶפֶשׁ</LEXCollocation>
+          </LEXCollocations>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2022-10-05 14:24:20" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>literally: lifting up (one's) self; hence: = action by which humans turn to (other) humans with the confidence that they will find joy and comfort there</DefinitionShort>
+              <Glosses>
+                <Gloss>heart's desire</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>02602402500040</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+          <LEXCoreDomains>
+            <LEXCoreDomain Code="043">Confidence and Fear</LEXCoreDomain>
+          </LEXCoreDomains>
+        </LEXMeaning>
+        <LEXMeaning Id="004442001002000" IsBiblicalTerm="Y" EntryCode="" Indent="0">
+          <LEXDomains>
+            <LEXDomain Code="002003001010" Source="High" SourceCode="002001001032">Hold</LEXDomain>
+          </LEXDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2022-02-09 07:54:23" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>literally: lifting up; hence: = state in which humans are bearing a load while moving from one place to another</DefinitionShort>
+              <Glosses>
+                <Gloss>carrying</Gloss>
+                <Gloss>bearing</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>01301502200014{N:001}</LEXReference>
+            <LEXReference>01301502200022{N:001}</LEXReference>
+            <LEXReference>01301502700048{N:001}</LEXReference>
+            <LEXReference>01402002500054</LEXReference>
+            <LEXReference>01403500300068</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+          <LEXCoreDomains>
+            <LEXCoreDomain Code="019">Body</LEXCoreDomain>
+          </LEXCoreDomains>
+        </LEXMeaning>
+        <LEXMeaning Id="004442001003000" IsBiblicalTerm="M" EntryCode="" Indent="1">
+          <LEXDomains>
+            <LEXDomain Code="002003003003" Source="Hold" SourceCode="002003001010">Bear</LEXDomain>
+          </LEXDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2017-11-29 09:30:17" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>literally: burden; hence: = a heavy responsibility that a person bears ◄ as if it were a physical load</DefinitionShort>
+              <Glosses>
+                <Gloss>burden</Gloss>
+                <Gloss>responsibility</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>00401101100040</LEXReference>
+            <LEXReference>00401101700042</LEXReference>
+            <LEXReference>00500101200014</LEXReference>
+            <LEXReference>01001503300024</LEXReference>
+            <LEXReference>01001903600074</LEXReference>
+            <LEXReference>01800702000034</LEXReference>
+            <LEXReference>01903800500012</LEXReference>
+            <LEXReference>02402303300046{N:002}</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+          <LEXCoreDomains>
+            <LEXCoreDomain Code="145">Responsibility</LEXCoreDomain>
+          </LEXCoreDomains>
+        </LEXMeaning>
+        <LEXMeaning Id="004442001004000" IsBiblicalTerm="M" EntryCode="" Indent="1">
+          <LEXDomains>
+            <LEXDomain Code="001" Source="Hold" SourceCode="002003001010">Objects</LEXDomain>
+          </LEXDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2017-11-29 09:30:17" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>= an object or collection of objects to be carried; ◄ may be of a relatively heavy weight</DefinitionShort>
+              <Glosses>
+                <Gloss>burden</Gloss>
+                <Gloss>load</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>00202300500014</LEXReference>
+            <LEXReference>00400401500076</LEXReference>
+            <LEXReference>00400401900058</LEXReference>
+            <LEXReference>00400402400020</LEXReference>
+            <LEXReference>00400402700028</LEXReference>
+            <LEXReference>00400402700052</LEXReference>
+            <LEXReference>00400403100008</LEXReference>
+            <LEXReference>00400403200052</LEXReference>
+            <LEXReference>00400404700042</LEXReference>
+            <LEXReference>00400404900030</LEXReference>
+            <LEXReference>01601301500062</LEXReference>
+            <LEXReference>01601301900072</LEXReference>
+            <LEXReference>02302202500048</LEXReference>
+            <LEXReference>02304600100032</LEXReference>
+            <LEXReference>02304600200014</LEXReference>
+            <LEXReference>02401702100020</LEXReference>
+            <LEXReference>02401702200008</LEXReference>
+            <LEXReference>02401702400024</LEXReference>
+            <LEXReference>02401702700032</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+        <LEXMeaning Id="004442001005000" IsBiblicalTerm="M" EntryCode="" Indent="1">
+          <LEXDomains>
+            <LEXDomain Code="002001001042" Source="Hold" SourceCode="002003001010">Quantity</LEXDomain>
+          </LEXDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2017-11-29 09:30:17" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>= an amount of goods according to what a certain animal was considered able to carry</DefinitionShort>
+              <Glosses>
+                <Gloss>load (as a quantity)</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>01200501700020</LEXReference>
+            <LEXReference>01200800900030</LEXReference>
+            <LEXReference>01401701100020{N:003}</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+        <LEXMeaning Id="004442001006000" IsBiblicalTerm="Y" EntryCode="" Indent="1">
+          <LEXDomains>
+            <LEXDomain Code="002003003021" Source="Hold" SourceCode="002003001010">Unsafe</LEXDomain>
+          </LEXDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2017-11-29 09:30:17" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>literally: burden; hence: = process by which humans suffer violence from (other) humans, ◄ which is perceived as a heavy load</DefinitionShort>
+              <Glosses>
+                <Gloss>suffering</Gloss>
+                <Gloss>oppression</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>02800801000026</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+          <LEXCoreDomains>
+            <LEXCoreDomain Code="196">Well-Being</LEXCoreDomain>
+          </LEXCoreDomains>
+        </LEXMeaning>
+        <LEXMeaning Id="004442001007000" IsBiblicalTerm="Y" EntryCode="" Indent="0">
+          <LEXDomains>
+            <LEXDomain Code="002004001009006" Source="High" SourceCode="002001001032">Sing</LEXDomain>
+          </LEXDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2022-10-05 14:24:20" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>meaning unsure; literally: lifting up (one's voice); hence, possibly: = action by which one utters words with a set or improvised tune, whether accompanied by musical instruments and dancing or not</DefinitionShort>
+              <Glosses>
+                <Gloss>music</Gloss>
+                <Gloss>song</Gloss>
+                <Gloss>singing</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>01301502200014{N:001}</LEXReference>
+            <LEXReference>01301502200022{N:001}</LEXReference>
+            <LEXReference>01301502700048{N:001}</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+          <LEXCoreDomains>
+            <LEXCoreDomain Code="111">Music and Dance</LEXCoreDomain>
+          </LEXCoreDomains>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+    <BaseForm Id="004442002000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>nsm</PartOfSpeech>
+      </PartsOfSpeech>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="004442002001000" IsBiblicalTerm="M" EntryCode="" Indent="0">
+          <LEXDomains>
+            <LEXDomain Code="002004002007">Know</LEXDomain>
+          </LEXDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2017-11-29 09:30:17" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>= a message from someone in authority, such as a deity or sage, intended to serve as instruction, guidance, or comfort</DefinitionShort>
+              <Glosses>
+                <Gloss>pronouncement</Gloss>
+                <Gloss>instruction</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>01200902500064</LEXReference>
+            <LEXReference>01402402700012</LEXReference>
+            <LEXReference>02003000100012</LEXReference>
+            <LEXReference>02003100100008</LEXReference>
+            <LEXReference>02301300100002</LEXReference>
+            <LEXReference>02301402800018</LEXReference>
+            <LEXReference>02301500100002</LEXReference>
+            <LEXReference>02301700100002</LEXReference>
+            <LEXReference>02301900100002</LEXReference>
+            <LEXReference>02302100100002</LEXReference>
+            <LEXReference>02302101100002</LEXReference>
+            <LEXReference>02302101300002</LEXReference>
+            <LEXReference>02302200100002</LEXReference>
+            <LEXReference>02302300100002</LEXReference>
+            <LEXReference>02303000600002</LEXReference>
+            <LEXReference>02402303300032</LEXReference>
+            <LEXReference>02402303300046{N:002}</LEXReference>
+            <LEXReference>02402303400024</LEXReference>
+            <LEXReference>02402303600004</LEXReference>
+            <LEXReference>02402303600018</LEXReference>
+            <LEXReference>02402303800006</LEXReference>
+            <LEXReference>02402303800034</LEXReference>
+            <LEXReference>02402303800052</LEXReference>
+            <LEXReference>02500201400038</LEXReference>
+            <LEXReference>02601201000020</LEXReference>
+            <LEXReference>03400100100002</LEXReference>
+            <LEXReference>03500100100004</LEXReference>
+            <LEXReference>03800900100002</LEXReference>
+            <LEXReference>03801200100002</LEXReference>
+            <LEXReference>03900100100002</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+          <LEXCoreDomains>
+            <LEXCoreDomain Code="106">Mind</LEXCoreDomain>
+            <LEXCoreDomain Code="041">Communication</LEXCoreDomain>
+          </LEXCoreDomains>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+    <BaseForm Id="004442003000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>np</PartOfSpeech>
+      </PartsOfSpeech>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="004442003001000" IsBiblicalTerm="Y" EntryCode="" Indent="0">
+          <LEXDomains>
+            <LEXDomain Code="003001007">Names of People</LEXDomain>
+          </LEXDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2017-11-29 09:30:17" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>= man; ◄ son of {L:Ishmael&lt;SDBH:יִשְׁמָעֵאל&gt;}, son of {L:Abraham&lt;SDBH:אַבְרָהָם&gt;}</DefinitionShort>
+              <Glosses>
+                <Gloss>Massa</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>00102501400012</LEXReference>
+            <LEXReference>01300103000008</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="004715000000000" Lemma="συκοφαντέω" Version="0" HasAramaic="false" InLXX="true" AlphaPos="σ">
+  <StrongCodes>
+    <Strong>G4811</Strong>
+  </StrongCodes>
+  <Authors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes/>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="004715001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>verb</PartOfSpeech>
+      </PartsOfSpeech>
+      <Constructs>
+        <Construct Lemma="συκοφαντέω" BaseFormIndex="1">
+          <WordMeaningSet>
+            <Word>σῦκον</Word>
+          </WordMeaningSet>
+          <WordMeaningSet>
+            <Word>φαίνω</Word>
+          </WordMeaningSet>
+        </Construct>
+      </Constructs>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="004715001001000" IsBiblicalTerm="Y" EntryCode="33.434" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Communication</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Accuse, Blame</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2022-12-26 13:06:50" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>to bring false charges against someone, especially with the intent of personal profit</DefinitionShort>
+              <Glosses>
+                <Gloss>to make false charges</Gloss>
+              </Glosses>
+              <Comments>The term συκοφαντέω refers to a practice in which persons could bring charges against an individual and receive a part of the fine or indemnity paid to the court.</Comments>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04200301400034</LEXReference>
+            <LEXReference>04201900800044</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

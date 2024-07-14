@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="000121000000000" Lemma="אַדִּיר" Version="5" HasAramaic="false" InLXX="false" AlphaPos="א">
+  <StrongCodes>
+    <Strong>H0117</Strong>
+  </StrongCodes>
+  <Authors>
+    <Author>Reinier de Blois</Author>
+  </Authors>
+  <Contributors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes>
+    <Note Caller="1" LanguageCode="en" LastEdited="" LastEditedBy="">
+      <References>
+        <Reference>02301003400026</Reference>
+      </References>
+      <Content>{A:MT} {A:HOTTP}-B {A:NIV} {A:NJB} {A:CEV} "by a Mighty One" | {A:RSV} {A:NRSV} {A:REB} {A:GNT} בְּאַדִּירָיו "with its mighty (trees)" | {A:NJPS} "in (their) majesty"</Content>
+    </Note>
+  </Notes>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="000121001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>aj</PartOfSpeech>
+      </PartsOfSpeech>
+      <RelatedLemmas>
+        <RelatedLemma>
+          <Word>אדר</Word>
+        </RelatedLemma>
+      </RelatedLemmas>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="000121001001000" IsBiblicalTerm="M" EntryCode="" Indent="0">
+          <LEXDomains>
+            <LEXDomain Code="002001002012">Great</LEXDomain>
+          </LEXDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2014-07-09 08:37:10" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>= pertaining to inspiring awe and respect ◄ because of one's beauty, size, strength, or status</DefinitionShort>
+              <Glosses>
+                <Gloss>mighty</Gloss>
+                <Gloss>majestic</Gloss>
+                <Gloss>noble</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>00201501000024</LEXReference>
+            <LEXReference>00900400800020</LEXReference>
+            <LEXReference>01900800200008</LEXReference>
+            <LEXReference>01900801000008</LEXReference>
+            <LEXReference>01901600300018</LEXReference>
+            <LEXReference>01907600500006</LEXReference>
+            <LEXReference>01909300400010</LEXReference>
+            <LEXReference>01909300400016</LEXReference>
+            <LEXReference>01913601800008</LEXReference>
+            <LEXReference>02301003400026{N:001}</LEXReference>
+            <LEXReference>02303302100008</LEXReference>
+            <LEXReference>02303302100038</LEXReference>
+            <LEXReference>02601702300032</LEXReference>
+            <LEXReference>02603201800026</LEXReference>
+            <LEXReference>03801100200014</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+        <LEXMeaning Id="000121001002000" IsBiblicalTerm="M" EntryCode="" Indent="0">
+          <LEXDomains>
+            <LEXDomain Code="001001002003005" Source="Great" SourceCode="002001002012">Leaders</LEXDomain>
+          </LEXDomains>
+          <LEXSynonyms>
+            <LEXSynonym>שַׂר</LEXSynonym>
+            <LEXSynonym>מֹשֵׁל</LEXSynonym>
+          </LEXSynonyms>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2014-07-09 08:37:10" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>= person in a position of leadership, either within the community or within the army</DefinitionShort>
+              <Glosses>
+                <Gloss>noble</Gloss>
+                <Gloss>leader</Gloss>
+                <Gloss>officer</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>00700501300010</LEXReference>
+            <LEXReference>00700502500014</LEXReference>
+            <LEXReference>01402302000020</LEXReference>
+            <LEXReference>01600300500016</LEXReference>
+            <LEXReference>01601003000008</LEXReference>
+            <LEXReference>02401400300004</LEXReference>
+            <LEXReference>02402503400016</LEXReference>
+            <LEXReference>02402503500020</LEXReference>
+            <LEXReference>02402503600014</LEXReference>
+            <LEXReference>02403002100006</LEXReference>
+            <LEXReference>03400200600004</LEXReference>
+            <LEXReference>03400301800012</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+          <LEXCoreDomains>
+            <LEXCoreDomain Code="015">Authority</LEXCoreDomain>
+          </LEXCoreDomains>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

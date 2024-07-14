@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="001268000000000" Lemma="גְּבִירָה" Version="5" HasAramaic="false" InLXX="false" AlphaPos="ג">
+  <StrongCodes>
+    <Strong>H1377</Strong>
+    <Strong>H1404</Strong>
+  </StrongCodes>
+  <Authors>
+    <Author>Enio R. Mueller</Author>
+    <Author>A. Salvesen</Author>
+  </Authors>
+  <Contributors/>
+  <AlternateLemmas>
+    <AlternateLemma>גְּבֶרֶת</AlternateLemma>
+  </AlternateLemmas>
+  <MainLinks>
+    <MainLink>SAHD@http://www.sahd.div.ed.ac.uk/_media/lexeme:pdf:cdf-gebira-salvesen_a-oxf-1999.pdf</MainLink>
+  </MainLinks>
+  <Notes/>
+  <ContributorNote>(c) gloss: Conclusion, p. 9. </ContributorNote>
+  <BaseForms>
+    <BaseForm Id="001268001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>nsf</PartOfSpeech>
+      </PartsOfSpeech>
+      <RelatedLemmas>
+        <RelatedLemma>
+          <Word>גבר</Word>
+        </RelatedLemma>
+      </RelatedLemmas>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="001268001001000" IsBiblicalTerm="M" EntryCode="" Indent="0">
+          <LEXDomains>
+            <LEXDomain Code="001001002003005">Leaders</LEXDomain>
+          </LEXDomains>
+          <LEXSynonyms>
+            <LEXSynonym>אָדֹון</LEXSynonym>
+          </LEXSynonyms>
+          <LEXAntonyms>
+            <LEXAntonym>עֶבֶד</LEXAntonym>
+            <LEXAntonym>שִׁפְחָה</LEXAntonym>
+          </LEXAntonyms>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2017-11-29 16:07:49" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>= woman who is in a position of authority over another person as a legal owner, employer, or sovereign</DefinitionShort>
+              <Glosses>
+                <Gloss>mistress</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>00101600400026</LEXReference>
+            <LEXReference>00101600800036</LEXReference>
+            <LEXReference>00101600900016</LEXReference>
+            <LEXReference>01200500300008</LEXReference>
+            <LEXReference>01912300200026</LEXReference>
+            <LEXReference>02003002300018</LEXReference>
+            <LEXReference>02302400200038</LEXReference>
+            <LEXReference>02304700500030</LEXReference>
+            <LEXReference>02304700700012</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+          <LEXCoreDomains>
+            <LEXCoreDomain Code="015">Authority</LEXCoreDomain>
+            <LEXCoreDomain Code="170">Status</LEXCoreDomain>
+            <LEXCoreDomain Code="082">Human</LEXCoreDomain>
+          </LEXCoreDomains>
+        </LEXMeaning>
+        <LEXMeaning Id="001268001002000" IsBiblicalTerm="M" EntryCode="" Indent="0">
+          <LEXDomains>
+            <LEXDomain Code="003001017">Titles</LEXDomain>
+          </LEXDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2017-11-29 16:07:49" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>= a respectful way of referring to the most prominent wife of the king</DefinitionShort>
+              <Glosses>
+                <Gloss>queen</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>01101101900038</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+          <LEXCoreDomains>
+            <LEXCoreDomain Code="015">Authority</LEXCoreDomain>
+            <LEXCoreDomain Code="170">Status</LEXCoreDomain>
+            <LEXCoreDomain Code="082">Human</LEXCoreDomain>
+          </LEXCoreDomains>
+        </LEXMeaning>
+        <LEXMeaning Id="001268001003000" IsBiblicalTerm="M" EntryCode="" Indent="0">
+          <LEXDomains>
+            <LEXDomain Code="003001017">Titles</LEXDomain>
+          </LEXDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2017-11-29 16:07:49" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>= a respectful way of referring to the mother of the king</DefinitionShort>
+              <Glosses>
+                <Gloss>queen mother</Gloss>
+                <Gloss>great lady</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>01101501300018</LEXReference>
+            <LEXReference>01201001300056</LEXReference>
+            <LEXReference>01401501600020</LEXReference>
+            <LEXReference>02401301800016</LEXReference>
+            <LEXReference>02402900200016</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+          <LEXCoreDomains>
+            <LEXCoreDomain Code="015">Authority</LEXCoreDomain>
+            <LEXCoreDomain Code="170">Status</LEXCoreDomain>
+            <LEXCoreDomain Code="082">Human</LEXCoreDomain>
+          </LEXCoreDomains>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

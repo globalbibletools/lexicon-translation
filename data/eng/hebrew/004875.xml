@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="004875000000000" Lemma="נֹפֶת" Version="5" HasAramaic="false" InLXX="false" AlphaPos="נ">
+  <StrongCodes>
+    <Strong>H5317</Strong>
+  </StrongCodes>
+  <Authors>
+    <Author>Reinier de Blois</Author>
+  </Authors>
+  <Contributors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes>
+    <Note Caller="1" LanguageCode="en" LastEdited="" LastEditedBy="">
+      <References>
+        <Reference>02200401100002</Reference>
+      </References>
+      <Content>It cannot be determined with certainty from the context whether this passage involves kissing or sweet words.</Content>
+    </Note>
+  </Notes>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="004875001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>nsm</PartOfSpeech>
+      </PartsOfSpeech>
+      <RelatedLemmas>
+        <RelatedLemma>
+          <Word>נוף</Word>
+        </RelatedLemma>
+      </RelatedLemmas>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="004875001001000" IsBiblicalTerm="Y" EntryCode="" Indent="0">
+          <LEXDomains>
+            <LEXDomain Code="001004003">Food</LEXDomain>
+          </LEXDomains>
+          <LEXSynonyms>
+            <LEXSynonym>דְּבַשׁ</LEXSynonym>
+            <LEXSynonym>חָלָב</LEXSynonym>
+            <LEXSynonym>שֶׁמֶן</LEXSynonym>
+          </LEXSynonyms>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2015-12-28 10:11:07" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>= virgin {L:honey&lt;SDBH:דְּבַשׁ&gt;}, dripping straight from the honeycomb; ≈ regarded as very desirable food of high quality</DefinitionShort>
+              <Glosses>
+                <Gloss>virgin honey</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>01901901100028</LEXReference>
+            <LEXReference>02000500300004</LEXReference>
+            <LEXReference>02002401300014</LEXReference>
+            <LEXReference>02002700700008</LEXReference>
+            <LEXReference>02200401100002</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+          <LEXCoreDomains>
+            <LEXCoreDomain Code="069">Food</LEXCoreDomain>
+            <LEXCoreDomain Code="137">Quality</LEXCoreDomain>
+          </LEXCoreDomains>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="001729000000000" Lemma="ἐμπτύω" Version="0" HasAramaic="false" InLXX="true" AlphaPos="ε">
+  <StrongCodes>
+    <Strong>G1716</Strong>
+  </StrongCodes>
+  <Authors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes>
+    <Note Caller="1" LanguageCode="en" LastEdited="" LastEditedBy="">
+      <References/>
+      <Content>It is possible that a distinction in meaning should be made between πτύω and ἐμπτύω, in which case the latter term would emphasize the spitting in or upon an object. However, there are insufficient contrasts in contexts to warrant making such a distinction.</Content>
+    </Note>
+  </Notes>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="001729001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>verb</PartOfSpeech>
+      </PartsOfSpeech>
+      <RelatedLemmas>
+        <RelatedLemma>
+          <Word>πτύω</Word>
+        </RelatedLemma>
+      </RelatedLemmas>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="001729001001000" IsBiblicalTerm="M" EntryCode="23.43" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Physiological Processes and States</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Processes Involving the Mouth, Other Than Eating and Drinking</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-05-21 20:08:04" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>to spit on or at something or someone{N:001}</DefinitionShort>
+              <Glosses>
+                <Gloss>to spit (on)</Gloss>
+              </Glosses>
+              <Comments>In some societies spitting has quite a different symbolic meaning than it has in the Western world. In fact, in some societies in Africa, to spit upon a person’s head is to confer a blessing. It may therefore be necessary in the case of {S:04002606700004} to translate ‘they spat in his face’ as ‘they spat in his face to dishonor him’ or ‘… to show their anger against him.’</Comments>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04002606700004</LEXReference>
+            <LEXReference>04002703000004</LEXReference>
+            <LEXReference>04101003400010</LEXReference>
+            <LEXReference>04101406500008</LEXReference>
+            <LEXReference>04101501900016</LEXReference>
+            <LEXReference>04201803200020</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="001738000000000" Lemma="ἔναντι" Version="0" HasAramaic="false" InLXX="true" AlphaPos="ε">
+  <StrongCodes>
+    <Strong>G1725</Strong>
+  </StrongCodes>
+  <Authors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes>
+    <Note Caller="1" LanguageCode="en" LastEdited="" LastEditedBy="">
+      <References/>
+      <Content>There are no doubt certain slight differences of meaning in this series ({D:83.33}), but such distinctions cannot be readily determined from existing contexts.</Content>
+    </Note>
+    <Note Caller="2" LanguageCode="en" LastEdited="" LastEditedBy="">
+      <References/>
+      <Content>There are undoubtedly certain subtle distinctions of meaning associated with the various markers in {D:90.20}, but it is impossible to determine those differences on the basis of existing contexts.</Content>
+    </Note>
+  </Notes>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="001738001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>prep. (with gen.)</PartOfSpeech>
+      </PartsOfSpeech>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="001738001001000" IsBiblicalTerm="Y" EntryCode="83.33" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Spacial Positions</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>In Front Of, Face To Face, In Back Of, Behind</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-05-27 09:35:01" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>a position in front of an object, whether animate or inanimate, which is regarded as having a spacial orientation of front and back{N:001}</DefinitionShort>
+              <Glosses>
+                <Gloss>in front of</Gloss>
+                <Gloss>before</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04200100800026</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+        <LEXMeaning Id="001738001002000" IsBiblicalTerm="Y" EntryCode="90.20" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Case</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Viewpoint Participant</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-05-27 09:35:01" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>(with the genitive) marking a participant whose viewpoint is relevant to an event{N:002}</DefinitionShort>
+              <Glosses>
+                <Gloss>in the sight of</Gloss>
+                <Gloss>in the opinion of</Gloss>
+                <Gloss>in the judgment of</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04400802100036</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

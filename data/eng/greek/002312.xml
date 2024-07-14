@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="002312000000000" Lemma="θειώδης" Version="0" HasAramaic="false" InLXX="false" AlphaPos="θ">
+  <StrongCodes>
+    <Strong>G2306</Strong>
+  </StrongCodes>
+  <Authors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes/>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="002312001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>adjc.</PartOfSpeech>
+      </PartsOfSpeech>
+      <Inflections>
+        <Inflection Lemma="θειώδης" BaseFormIndex="1">
+          <Form/>
+          <Realizations>
+            <Realization>-ες</Realization>
+          </Realizations>
+          <Comments/>
+        </Inflection>
+      </Inflections>
+      <RelatedLemmas>
+        <RelatedLemma>
+          <Word>θεῖον</Word>
+        </RelatedLemma>
+      </RelatedLemmas>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="002312001001000" IsBiblicalTerm="Y" EntryCode="79.36" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Features of Objects</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Color</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-08-12 09:40:13" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>sulfureous yellow, yellow as sulfur.</DefinitionShort>
+              <Glosses>
+                <Gloss>yellow as sulphur</Gloss>
+              </Glosses>
+              <Comments>Note that in {S:06600901700040} the three colors parallel three plagues, fire, smoke, and sulfur, and it may therefore be useful to translate the latter part of {S:06600901700040} as ‘they had breastplates red as fire, blue as sapphire, and yellow as sulfur.’ See also {D:79.37}.</Comments>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>06600901700040</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

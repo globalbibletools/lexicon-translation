@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="001809000000000" Lemma="ἐντυλίσσω" Version="0" HasAramaic="false" InLXX="false" AlphaPos="ε">
+  <StrongCodes>
+    <Strong>G1794</Strong>
+  </StrongCodes>
+  <Authors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes>
+    <Note Caller="1" LanguageCode="en" LastEdited="" LastEditedBy="">
+      <References/>
+      <Content>There may very well be some significant difference of meaning in the series of terms in {D:79.120}, but it is impossible to determine this on the basis of existing contexts.</Content>
+    </Note>
+  </Notes>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="001809001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>verb</PartOfSpeech>
+      </PartsOfSpeech>
+      <RelatedLemmas>
+        <RelatedLemma>
+          <Word>τυλίσσω</Word>
+          <Meaning LanguageCode="en">
+            <Meaning>roll up</Meaning>
+          </Meaning>
+          <Meaning LanguageCode="zhT">
+            <Meaning>捲起</Meaning>
+          </Meaning>
+        </RelatedLemma>
+      </RelatedLemmas>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="001809001001000" IsBiblicalTerm="M" EntryCode="79.118" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Features of Objects</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Wrapped</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-06-03 10:12:38" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>to enclose an object by winding something about or around it</DefinitionShort>
+              <Glosses>
+                <Gloss>to wrap</Gloss>
+                <Gloss>to bandage</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04002705900014</LEXReference>
+            <LEXReference>04202305300006</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+        <LEXMeaning Id="001809001002000" IsBiblicalTerm="Y" EntryCode="79.120" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Features of Objects</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Rolled Up</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-06-03 10:12:38" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>to cause something to be in the shape of a roll{N:001}</DefinitionShort>
+              <Glosses>
+                <Gloss>to roll up</Gloss>
+                <Gloss>to make into a roll</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04302000700034</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

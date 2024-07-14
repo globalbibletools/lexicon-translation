@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="004914000000000" Lemma="ταμεῖον" Version="0" HasAramaic="false" InLXX="false" AlphaPos="τ">
+  <StrongCodes>
+    <Strong>G5009</Strong>
+  </StrongCodes>
+  <Authors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes/>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="004914001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>noun, n.</PartOfSpeech>
+      </PartsOfSpeech>
+      <Inflections>
+        <Inflection Lemma="ταμεῖον" BaseFormIndex="1">
+          <Form/>
+          <Realizations>
+            <Realization>-ου</Realization>
+          </Realizations>
+          <Comments/>
+        </Inflection>
+      </Inflections>
+      <RelatedLemmas>
+        <RelatedLemma>
+          <Word>ταμιεύω</Word>
+          <Meaning LanguageCode="en">
+            <Meaning>be a manager or steward</Meaning>
+          </Meaning>
+          <Meaning LanguageCode="zhT">
+            <Meaning>作管理者或管家</Meaning>
+          </Meaning>
+        </RelatedLemma>
+      </RelatedLemmas>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="004914001001000" IsBiblicalTerm="M" EntryCode="7.28" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Constructions</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Parts and Areas of Buildings</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2022-03-30 11:27:10" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>a room in the interior of a house, normally without windows opening to the outside</DefinitionShort>
+              <Glosses>
+                <Gloss>inner room</Gloss>
+              </Glosses>
+              <Comments>In {S:04201200300040} the emphasis is upon the strictly private location of the inner room. In such a context one may translate ‘a strictly private room’ or ‘a small room in the center of the house.’</Comments>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04000600600016</LEXReference>
+            <LEXReference>04002402600030</LEXReference>
+            <LEXReference>04201200300040</LEXReference>
+          </LEXReferences>
+          <LEXLinks>
+            <LEXLink>realia:3.1.6.6</LEXLink>
+          </LEXLinks>
+          <LEXVideos/>
+        </LEXMeaning>
+        <LEXMeaning Id="004914001002000" IsBiblicalTerm="Y" EntryCode="7.32" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Constructions</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Parts and Areas of Buildings</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2022-03-30 11:27:10" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>a room for the storage of valuables</DefinitionShort>
+              <Glosses>
+                <Gloss>storeroom</Gloss>
+                <Gloss>treasure room</Gloss>
+              </Glosses>
+              <Comments>ταμεῖον[b] and θησαυρός[a] may often be rendered by descriptive phrases, for example, ‘a room where valuable things are kept’ or ‘a place where valuables are stored.’|In {S:04001203500014} θησαυρός[a] is used figuratively (ὁ ἀγαθὸς ἄνθρωπος ἐκ τοῦ ἀγαθοῦ θησαυροῦ ἐκβάλλει ἀγαθά ‘a good man draws good things from his good storehouse,’ meaning ‘… storehouse of good things’) to describe the heart as a kind of storehouse or treasure.</Comments>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04201202400024</LEXReference>
+          </LEXReferences>
+          <LEXLinks>
+            <LEXLink>realia:3.12</LEXLink>
+          </LEXLinks>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

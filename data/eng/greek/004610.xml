@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="004610000000000" Lemma="σπυρίς" Version="0" HasAramaic="false" InLXX="false" AlphaPos="σ">
+  <StrongCodes>
+    <Strong>G4711</Strong>
+  </StrongCodes>
+  <Authors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes>
+    <Note Caller="1" LanguageCode="en" LastEdited="" LastEditedBy="">
+      <References/>
+      <Content>Neither from NT contexts nor from extrabiblical usage can one determine precisely the differences in meaning between these three terms for baskets: σαργάνη ({D:6.148}), σπυρίς ({D:6.149}), and κόφινος ({D:6.150}).</Content>
+    </Note>
+  </Notes>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="004610001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>noun, f.</PartOfSpeech>
+      </PartsOfSpeech>
+      <Inflections>
+        <Inflection Lemma="σπυρίς" BaseFormIndex="1">
+          <Form/>
+          <Realizations>
+            <Realization>-ίδος</Realization>
+          </Realizations>
+          <Comments/>
+        </Inflection>
+      </Inflections>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="004610001001000" IsBiblicalTerm="M" EntryCode="6.149" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Artifacts</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Containers</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2022-02-17 02:40:28" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>a basket which is presumably somewhat larger than a {L:κόφινος&lt;SDBG:κόφινος:000000&gt;} ({D:6.150}){N:001}</DefinitionShort>
+              <Glosses>
+                <Gloss>large basket</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04001503700026</LEXReference>
+            <LEXReference>04001601000018</LEXReference>
+            <LEXReference>04100800800020</LEXReference>
+            <LEXReference>04100802000016</LEXReference>
+            <LEXReference>04400902500028</LEXReference>
+          </LEXReferences>
+          <LEXLinks>
+            <LEXLink>realia:5.18.2</LEXLink>
+          </LEXLinks>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

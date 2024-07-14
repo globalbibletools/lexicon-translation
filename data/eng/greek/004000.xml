@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="004000000000000" Lemma="πίναξ" Version="0" HasAramaic="false" InLXX="false" AlphaPos="π">
+  <StrongCodes>
+    <Strong>G4094</Strong>
+  </StrongCodes>
+  <Authors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes/>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="004000001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>noun, m.</PartOfSpeech>
+      </PartsOfSpeech>
+      <Inflections>
+        <Inflection Lemma="πίναξ" BaseFormIndex="1">
+          <Form/>
+          <Realizations>
+            <Realization>-ακος</Realization>
+          </Realizations>
+          <Comments/>
+        </Inflection>
+      </Inflections>
+      <RelatedLemmas>
+        <RelatedLemma>
+          <Word>πινακίδιον</Word>
+        </RelatedLemma>
+      </RelatedLemmas>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="004000001001000" IsBiblicalTerm="M" EntryCode="6.134" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Artifacts</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Containers</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-12-27 11:54:25" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>a relatively flat, large dish; made of baked clay or metal</DefinitionShort>
+              <Glosses>
+                <Gloss>plate</Gloss>
+                <Gloss>platter</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04001400800026</LEXReference>
+            <LEXReference>04001401100014</LEXReference>
+            <LEXReference>04100602500034</LEXReference>
+            <LEXReference>04100602800014</LEXReference>
+            <LEXReference>04201103900034</LEXReference>
+          </LEXReferences>
+          <LEXLinks>
+            <LEXLink>realia:5.20.2</LEXLink>
+          </LEXLinks>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

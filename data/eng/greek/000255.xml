@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="000255000000000" Lemma="ἅλων" Version="0" HasAramaic="false" InLXX="true" AlphaPos="α">
+  <StrongCodes>
+    <Strong>G0257</Strong>
+  </StrongCodes>
+  <Authors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes/>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="000255001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>noun, f.</PartOfSpeech>
+      </PartsOfSpeech>
+      <Inflections>
+        <Inflection Lemma="ἅλων" BaseFormIndex="1">
+          <Form/>
+          <Realizations>
+            <Realization>-ος</Realization>
+          </Realizations>
+          <Comments/>
+        </Inflection>
+      </Inflections>
+      <RelatedLemmas>
+        <RelatedLemma>
+          <Word>ἀλοάω</Word>
+        </RelatedLemma>
+      </RelatedLemmas>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="000255001001000" IsBiblicalTerm="M" EntryCode="7.65" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Constructions</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Miscellaneous Constructions</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-05-26 14:18:18" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>a surface of hard ground or stone where grain was threshed out, either by beating or having animals trample upon it</DefinitionShort>
+              <Glosses>
+                <Gloss>threshing floor</Gloss>
+              </Glosses>
+              <Comments>The meaning of ἅλων as ‘threshing floor’ forms the basis for the figurative extension of meaning (a metonymy) referring to the threshed grain still lying on the threshing floor (see {D:3.43}). The meaning may be made clear by rendering ‘to thresh out completely all of the grain.’ On the other hand, it is possible to interpret ἅλων in {S:04000301200022} in a literal sense and translate ‘he will clean up his threshing floor,’ that is, by gathering up the grain and getting rid of the straw and chaff.</Comments>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04000301200022</LEXReference>
+            <LEXReference>04200301700020</LEXReference>
+          </LEXReferences>
+          <LEXLinks>
+            <LEXLink>realia:1.1.8.1</LEXLink>
+          </LEXLinks>
+          <LEXVideos/>
+        </LEXMeaning>
+        <LEXMeaning Id="000255001002000" IsBiblicalTerm="M" EntryCode="3.43" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Plants</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Fruit Parts of Plants</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-05-26 14:18:18" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>(a figurative extension of meaning of {L:ἅλων&lt;SDBG:ἅλων:000000&gt;}[a] ‘threshing floor,’ {D:7.65}) grain in the process of being threshed</DefinitionShort>
+              <Glosses>
+                <Gloss>threshed grain</Gloss>
+              </Glosses>
+              <Comments>{L:ἅλων&lt;SDBG:ἅλων:000000&gt;} in {S:04000301200022} may also be interpreted as a threshing floor (see {D:7.65}).</Comments>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04000301200022</LEXReference>
+            <LEXReference>04200301700020</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

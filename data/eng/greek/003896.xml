@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="003896000000000" Lemma="πένης" Version="0" HasAramaic="false" InLXX="true" AlphaPos="π">
+  <StrongCodes>
+    <Strong>G3993</Strong>
+  </StrongCodes>
+  <Authors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes/>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="003896001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>adjc.</PartOfSpeech>
+      </PartsOfSpeech>
+      <Inflections>
+        <Inflection Lemma="πένης" BaseFormIndex="1">
+          <Form/>
+          <Realizations>
+            <Realization>-ητος</Realization>
+          </Realizations>
+          <Comments/>
+        </Inflection>
+      </Inflections>
+      <RelatedLemmas>
+        <RelatedLemma>
+          <Word>πένομαι</Word>
+          <Meaning LanguageCode="en">
+            <Meaning>work for one's living, labor</Meaning>
+          </Meaning>
+          <Meaning LanguageCode="zhT">
+            <Meaning>為謀生而工作，勞苦</Meaning>
+          </Meaning>
+        </RelatedLemma>
+        <RelatedLemma>
+          <Word>πόνος</Word>
+        </RelatedLemma>
+      </RelatedLemmas>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="003896001001000" IsBiblicalTerm="M" EntryCode="57.50" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Possess, Transfer, Exchange</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Be Poor, Be Needy, Poverty</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-12-24 12:19:21" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>a person who is poor and must live sparingly, but probably not as destitute as a person spoken of as {L:πτωχός&lt;SDBG:πτωχός:000000&gt;}[a] ({D:57.53})</DefinitionShort>
+              <Glosses>
+                <Gloss>poor</Gloss>
+                <Gloss>needy</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04700900900012</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

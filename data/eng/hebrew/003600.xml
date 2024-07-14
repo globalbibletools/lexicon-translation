@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="003600000000000" Lemma="לעג" Version="4" HasAramaic="false" InLXX="false" AlphaPos="ל">
+  <StrongCodes>
+    <Strong>H3932</Strong>
+  </StrongCodes>
+  <Authors>
+    <Author>Reinier de Blois</Author>
+  </Authors>
+  <Contributors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes/>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="003600001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>vb</PartOfSpeech>
+      </PartsOfSpeech>
+      <RelatedLemmas>
+        <RelatedLemma>
+          <Word>לַעַג</Word>
+        </RelatedLemma>
+        <RelatedLemma>
+          <Word>לָעֵג</Word>
+        </RelatedLemma>
+      </RelatedLemmas>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="003600001001000" IsBiblicalTerm="Y" EntryCode="" Indent="0">
+          <LEXDomains>
+            <LEXDomain Code="002004001009012">Revile</LEXDomain>
+          </LEXDomains>
+          <LEXForms>
+            <LEXForm>vbqal-</LEXForm>
+            <LEXForm>vbhif-</LEXForm>
+          </LEXForms>
+          <LEXSynonyms>
+            <LEXSynonym>בוז</LEXSynonym>
+            <LEXSynonym>בזה</LEXSynonym>
+            <LEXSynonym>היה לִשְׂחֹוק</LEXSynonym>
+            <LEXSynonym>פטר בְּשָׂפָה</LEXSynonym>
+            <LEXSynonym>שׂחק</LEXSynonym>
+          </LEXSynonyms>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2017-12-17 16:28:17" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>only used in poetry; = action by which humans or deities express their disdain of others with words, sounds and/or gestures</DefinitionShort>
+              <Glosses>
+                <Gloss>to mock</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>01201902100020</LEXReference>
+            <LEXReference>01403001000046</LEXReference>
+            <LEXReference>01600201900034</LEXReference>
+            <LEXReference>01600303300040</LEXReference>
+            <LEXReference>01800902300016</LEXReference>
+            <LEXReference>01801100300010</LEXReference>
+            <LEXReference>01802100300016</LEXReference>
+            <LEXReference>01802201900014</LEXReference>
+            <LEXReference>01900200400014</LEXReference>
+            <LEXReference>01902200800006</LEXReference>
+            <LEXReference>01905900900012</LEXReference>
+            <LEXReference>01908000700014</LEXReference>
+            <LEXReference>02000102600012</LEXReference>
+            <LEXReference>02001700500002</LEXReference>
+            <LEXReference>02003001700004</LEXReference>
+            <LEXReference>02303702200020</LEXReference>
+            <LEXReference>02402000700030</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+          <LEXCoreDomains>
+            <LEXCoreDomain Code="170">Status</LEXCoreDomain>
+          </LEXCoreDomains>
+        </LEXMeaning>
+        <LEXMeaning Id="003600001002000" IsBiblicalTerm="Y" EntryCode="" Indent="0">
+          <LEXDomains>
+            <LEXDomain Code="002004001009008" Source="Revile" SourceCode="002004001009012">Speak</LEXDomain>
+          </LEXDomains>
+          <LEXForms>
+            <LEXForm>vbnif-</LEXForm>
+          </LEXForms>
+          <LEXCollocations>
+            <LEXCollocation>לעג לָשֹׁון</LEXCollocation>
+          </LEXCollocations>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2018-01-15 10:38:25" LastEditedBy="administrator">
+              <DefinitionLong/>
+              <DefinitionShort>literally: a mocking tongue; hence: = action by which humans speak a foreign language that is unintelligible and sounds as if they are mocking</DefinitionShort>
+              <Glosses>
+                <Gloss>a mocking tongue</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>02303301900022</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+          <LEXCoreDomains>
+            <LEXCoreDomain Code="041">Communication</LEXCoreDomain>
+          </LEXCoreDomains>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

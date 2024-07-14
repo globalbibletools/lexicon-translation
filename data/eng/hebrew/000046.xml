@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="000046000000000" Lemma="אָבִיר" Version="5" HasAramaic="false" InLXX="false" AlphaPos="א">
+  <StrongCodes>
+    <Strong>H0046</Strong>
+  </StrongCodes>
+  <Authors>
+    <Author>Reinier de Blois</Author>
+  </Authors>
+  <Contributors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes/>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="000046001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>aj</PartOfSpeech>
+      </PartsOfSpeech>
+      <RelatedLemmas>
+        <RelatedLemma>
+          <Word>אבר</Word>
+        </RelatedLemma>
+      </RelatedLemmas>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="000046001001000" IsBiblicalTerm="Y" EntryCode="" Indent="0">
+          <LEXDomains>
+            <LEXDomain Code="003001004" Source="Strong" SourceCode="002001001060">Names of Deities</LEXDomain>
+          </LEXDomains>
+          <LEXCollocations>
+            <LEXCollocation>אֲבִיר יַעֲקֹב</LEXCollocation>
+            <LEXCollocation>אֲבִיר יִשְׂרָאֵל</LEXCollocation>
+          </LEXCollocations>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2014-06-25 09:18:33" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>probably a variant spelling of {L:אַבִּיר&lt;SDBH:אַבִּיר&gt;}; = name of God, stressing his great power and his exclusivity as the God of Jacob and his descendants</DefinitionShort>
+              <Glosses>
+                <Gloss>mighty one</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>00104902400024</LEXReference>
+            <LEXReference>01913200200014</LEXReference>
+            <LEXReference>01913200500016</LEXReference>
+            <LEXReference>02300102400014</LEXReference>
+            <LEXReference>02304902600046</LEXReference>
+            <LEXReference>02306001600034</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

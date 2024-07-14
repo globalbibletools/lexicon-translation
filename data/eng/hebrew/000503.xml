@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="000503000000000" Lemma="אַמְנֹון" Version="5" HasAramaic="false" InLXX="false" AlphaPos="א">
+  <StrongCodes>
+    <Strong>H0550</Strong>
+  </StrongCodes>
+  <Authors>
+    <Author>Reinier de Blois</Author>
+  </Authors>
+  <Contributors/>
+  <AlternateLemmas>
+    <AlternateLemma>אֲמִינֹון</AlternateLemma>
+  </AlternateLemmas>
+  <MainLinks/>
+  <Notes>
+    <Note Caller="1" LanguageCode="en" LastEdited="" LastEditedBy="">
+      <References>
+        <Reference>01001302000014</Reference>
+      </References>
+      <Content>{A:MT} אֲמִינֹון</Content>
+    </Note>
+  </Notes>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="000503001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>np</PartOfSpeech>
+      </PartsOfSpeech>
+      <RelatedLemmas>
+        <RelatedLemma>
+          <Word>אמן</Word>
+        </RelatedLemma>
+      </RelatedLemmas>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="000503001001000" IsBiblicalTerm="M" EntryCode="" Indent="0">
+          <LEXDomains>
+            <LEXDomain Code="003001007">Names of People</LEXDomain>
+          </LEXDomains>
+          <LEXSynonyms>
+            <LEXSynonym>אֲמִינֹון</LEXSynonym>
+          </LEXSynonyms>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2014-08-06 09:13:05" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>= man, also known as {L:Aminon&lt;SDBH:אֲמִינֹון&gt;}; ◄ son of {L:David&lt;SDBH:דָּוִד&gt;}; ► raped his sister {L:Thamar&lt;SDBH:תָּמָר&gt;} and was killed by his brother {L:Absalom&lt;SDBH:אַבְשָׁלֹום&gt;}</DefinitionShort>
+              <Glosses>
+                <Gloss>Amnon</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>01000300200026</LEXReference>
+            <LEXReference>01001300100034</LEXReference>
+            <LEXReference>01001300200008</LEXReference>
+            <LEXReference>01001300200036</LEXReference>
+            <LEXReference>01001300300006</LEXReference>
+            <LEXReference>01001300400048</LEXReference>
+            <LEXReference>01001300600006</LEXReference>
+            <LEXReference>01001300600028</LEXReference>
+            <LEXReference>01001300700026</LEXReference>
+            <LEXReference>01001300800010</LEXReference>
+            <LEXReference>01001300900032</LEXReference>
+            <LEXReference>01001301000006</LEXReference>
+            <LEXReference>01001301000052</LEXReference>
+            <LEXReference>01001301500006</LEXReference>
+            <LEXReference>01001301500040</LEXReference>
+            <LEXReference>01001302000014{N:001}</LEXReference>
+            <LEXReference>01001302200012</LEXReference>
+            <LEXReference>01001302200034</LEXReference>
+            <LEXReference>01001302600018</LEXReference>
+            <LEXReference>01001302700018</LEXReference>
+            <LEXReference>01001302800026</LEXReference>
+            <LEXReference>01001302800044</LEXReference>
+            <LEXReference>01001302900012</LEXReference>
+            <LEXReference>01001303200044</LEXReference>
+            <LEXReference>01001303300040</LEXReference>
+            <LEXReference>01001303900026</LEXReference>
+            <LEXReference>01300300100026</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+        <LEXMeaning Id="000503001002000" IsBiblicalTerm="Y" EntryCode="" Indent="0">
+          <LEXDomains>
+            <LEXDomain Code="003001007">Names of People</LEXDomain>
+          </LEXDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2014-08-06 09:13:05" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>= man; ◄ son of {L:Shimon&lt;SDBH:שִׁימֹון&gt;}; tribe of {L:Judah&lt;SDBH:יְהוּדָה&gt;}</DefinitionShort>
+              <Glosses>
+                <Gloss>Amnon</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>01300402000008</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="004492000000000" Lemma="σημαίνω" Version="0" HasAramaic="false" InLXX="true" AlphaPos="σ">
+  <StrongCodes>
+    <Strong>G4591</Strong>
+  </StrongCodes>
+  <Authors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes/>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="004492001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>verb</PartOfSpeech>
+      </PartsOfSpeech>
+      <Inflections>
+        <Inflection Lemma="σημαίνω" BaseFormIndex="1">
+          <Form>aor.</Form>
+          <Realizations>
+            <Realization>ἐσήμανα</Realization>
+          </Realizations>
+          <Comments/>
+        </Inflection>
+        <Inflection Lemma="σημαίνω" BaseFormIndex="1">
+          <Form>inf.</Form>
+          <Realizations>
+            <Realization>σημᾶναι</Realization>
+          </Realizations>
+          <Comments/>
+        </Inflection>
+      </Inflections>
+      <RelatedLemmas>
+        <RelatedLemma>
+          <Word>ἄσημος</Word>
+        </RelatedLemma>
+        <RelatedLemma>
+          <Word>ἐπισείω</Word>
+        </RelatedLemma>
+        <RelatedLemma>
+          <Word>ἐπίσημος</Word>
+        </RelatedLemma>
+        <RelatedLemma>
+          <Word>εὔσημος</Word>
+        </RelatedLemma>
+        <RelatedLemma>
+          <Word>παράσημος</Word>
+        </RelatedLemma>
+        <RelatedLemma>
+          <Word>σημεῖον</Word>
+        </RelatedLemma>
+        <RelatedLemma>
+          <Word>σημειόομαι</Word>
+        </RelatedLemma>
+        <RelatedLemma>
+          <Word>σύσσημον</Word>
+        </RelatedLemma>
+      </RelatedLemmas>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="004492001001000" IsBiblicalTerm="Y" EntryCode="33.153" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Communication</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Interpret, Mean, Explain</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>to cause something to be both specific and clear</DefinitionShort>
+              <Glosses>
+                <Gloss>to indicate clearly</Gloss>
+                <Gloss>to make clear</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04301203300008</LEXReference>
+            <LEXReference>04301803200018</LEXReference>
+            <LEXReference>04302101900008</LEXReference>
+            <LEXReference>04401102800016</LEXReference>
+            <LEXReference>04402502700026</LEXReference>
+            <LEXReference>06600100100038</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

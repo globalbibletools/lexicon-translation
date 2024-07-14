@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="003583000000000" Lemma="ὅμως" Version="0" HasAramaic="false" InLXX="true" AlphaPos="ο">
+  <StrongCodes>
+    <Strong>G3676</Strong>
+  </StrongCodes>
+  <Authors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes>
+    <Note Caller="1" LanguageCode="en" LastEdited="" LastEditedBy="">
+      <References/>
+      <Content>An expression meaning ‘nevertheless’ normally presupposes a concessive clause, for example, ‘although one would not have expected it, nevertheless …,’ and implies a circumstance contrary to expectation. Some languages do not have a conjunction marking a concessive clause but do have a particle or phrase for a resultant clause, for example, ‘he did not work; nevertheless he was paid,’ which is equivalent to ‘although he did not work, he was paid.’</Content>
+    </Note>
+  </Notes>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="003583001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>advb.</PartOfSpeech>
+      </PartsOfSpeech>
+      <RelatedLemmas>
+        <RelatedLemma>
+          <Word>ὁμοιόω</Word>
+        </RelatedLemma>
+      </RelatedLemmas>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="003583001001000" IsBiblicalTerm="Y" EntryCode="89.74" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Relations</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Concession</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-12-15 14:03:07" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>a marker of concession, with the possible implication of an added aspect of similarity</DefinitionShort>
+              <Glosses>
+                <Gloss>although</Gloss>
+                <Gloss>though</Gloss>
+              </Glosses>
+              <Comments>The interpretation of ὅμως in {S:04800301500010} and {S:04601400700002} as indicating concession is doubtful, and it may be preferable to understand ὅμως in these contexts as meaning ‘likewise’ or ‘similarly,’ for example, ‘similarly, in the case of a human will, no one annuls it’ and ‘similarly, in the case of a flute or harp, lifeless instruments which produce a sound’ (see {D:64.11}).</Comments>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04601400700002</LEXReference>
+            <LEXReference>04800301500010</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+        <LEXMeaning Id="003583001002000" IsBiblicalTerm="Y" EntryCode="64.11" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Comparison</LEXDomain>
+          </LEXDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-12-15 14:03:07" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>pertaining to being, at least in some respects, similar</DefinitionShort>
+              <Glosses>
+                <Gloss>similarly</Gloss>
+                <Gloss>likewise</Gloss>
+              </Glosses>
+              <Comments>For another interpretation of {L:ὅμως&lt;SDBG:ὅμως:000000&gt;} in {S:04800301500010}, see {D:89.74}.</Comments>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04601400700002</LEXReference>
+            <LEXReference>04800301500010</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+        <LEXMeaning Id="003583001003000" IsBiblicalTerm="Y" EntryCode="89.75" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Relations</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Concession</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXCollocations>
+            <LEXCollocation>ὅμως μέντοι</LEXCollocation>
+          </LEXCollocations>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-12-15 14:03:07" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>a marker of an implied clause of concession{N:001}</DefinitionShort>
+              <Glosses>
+                <Gloss>nevertheless</Gloss>
+                <Gloss>and yet</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04301204200002</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="000119000000000" Lemma="ἄθλησις" Version="0" HasAramaic="false" InLXX="false" AlphaPos="α">
+  <StrongCodes>
+    <Strong>G0119</Strong>
+  </StrongCodes>
+  <Authors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes/>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="000119001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>noun, f.</PartOfSpeech>
+      </PartsOfSpeech>
+      <Inflections>
+        <Inflection Lemma="ἄθλησις" BaseFormIndex="1">
+          <Form/>
+          <Realizations>
+            <Realization>-εως</Realization>
+          </Realizations>
+          <Comments/>
+        </Inflection>
+      </Inflections>
+      <RelatedLemmas>
+        <RelatedLemma>
+          <Word>ἀθλέω</Word>
+        </RelatedLemma>
+      </RelatedLemmas>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="000119001001000" IsBiblicalTerm="Y" EntryCode="50.3" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Contests and Play</LEXDomain>
+          </LEXDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-03-06 12:43:59" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>struggle against opposition</DefinitionShort>
+              <Glosses>
+                <Gloss>struggle</Gloss>
+                <Gloss>conflict</Gloss>
+              </Glosses>
+              <Comments>It is also possible to interpret ἄθλησις in {S:05801003200020} as meaning ‘challenge’ (see {D:74.13}).</Comments>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>05801003200020</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+        <LEXMeaning Id="000119001002000" IsBiblicalTerm="Y" EntryCode="74.13" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Able, Capable</LEXDomain>
+          </LEXDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-03-06 12:43:59" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>a test of someone’s capability to resist or to respond to some difficulty</DefinitionShort>
+              <Glosses>
+                <Gloss>challenge</Gloss>
+              </Glosses>
+              <Comments>For another interpretation of {L:ἄθλησις&lt;SDBG:ἄθλησις:000000&gt;} in {S:05801003200020}, see {D:50.3}.</Comments>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>05801003200020</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

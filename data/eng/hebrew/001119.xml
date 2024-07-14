@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="001119000000000" Lemma="בָּצִיר" Version="5" HasAramaic="false" InLXX="false" AlphaPos="ב">
+  <StrongCodes>
+    <Strong>H1210</Strong>
+  </StrongCodes>
+  <Authors>
+    <Author>Enio R. Mueller</Author>
+  </Authors>
+  <Contributors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes>
+    <Note Caller="1" LanguageCode="en" LastEdited="" LastEditedBy="">
+      <References>
+        <Reference>03801100200036</Reference>
+      </References>
+      <Content>MT-Q הַבָּצִיר | MT-K הבצור</Content>
+    </Note>
+  </Notes>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="001119001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>nsm</PartOfSpeech>
+      </PartsOfSpeech>
+      <RelatedLemmas>
+        <RelatedLemma>
+          <Word>בצר</Word>
+        </RelatedLemma>
+      </RelatedLemmas>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="001119001001000" IsBiblicalTerm="M" EntryCode="" Indent="0">
+          <LEXDomains>
+            <LEXDomain Code="002003002014">Gather</LEXDomain>
+          </LEXDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2017-08-20 23:49:59" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>= pattern of actions by which humans harvest the grapes that have matured and are ready for picking</DefinitionShort>
+              <Glosses>
+                <Gloss>grape harvest</Gloss>
+                <Gloss>vintage</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>00302600500012</LEXReference>
+            <LEXReference>00302600500016</LEXReference>
+            <LEXReference>00700800200028</LEXReference>
+            <LEXReference>02302401300038</LEXReference>
+            <LEXReference>02303201000016</LEXReference>
+            <LEXReference>02404803200040</LEXReference>
+            <LEXReference>03300700100020</LEXReference>
+          </LEXReferences>
+          <LEXLinks>
+            <LEXLink>Flora:2.12</LEXLink>
+          </LEXLinks>
+          <LEXVideos/>
+          <LEXCoreDomains>
+            <LEXCoreDomain Code="007">Agriculture</LEXCoreDomain>
+          </LEXCoreDomains>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+    <BaseForm Id="001119002000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>nsc</PartOfSpeech>
+      </PartsOfSpeech>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="001119002001000" IsBiblicalTerm="N" EntryCode="" Indent="0">
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2017-08-20 23:49:59" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>= read {L:הַבָּצוּר&lt;SDBH:בצר&gt;} with MT-K</DefinitionShort>
+              <Glosses>
+                <Gloss>thick</Gloss>
+                <Gloss>dense</Gloss>
+                <Gloss>impenetrable</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>03801100200036{N:001}</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

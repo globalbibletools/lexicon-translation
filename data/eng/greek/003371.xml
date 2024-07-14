@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="003371000000000" Lemma="μώλωψ" Version="0" HasAramaic="false" InLXX="true" AlphaPos="μ">
+  <StrongCodes>
+    <Strong>G3468</Strong>
+  </StrongCodes>
+  <Authors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes>
+    <Note Caller="1" LanguageCode="en" LastEdited="" LastEditedBy="">
+      <References/>
+      <Content>These expressions for ‘wound’ (τραῦμα, μώλωψ, πληγή[b]) normally do not imply a mortal wound. It is possible, however, to speak of a mortal wound by the phrase ἡ πληγὴ τοῦ θανάτου as in {S:06601300300026}, {S:06601301200058}.</Content>
+    </Note>
+    <Note Caller="2" LanguageCode="en" LastEdited="" LastEditedBy="">
+      <References>
+        <Reference>06000202400046</Reference>
+      </References>
+      <Content>μώλωψ appears to be a welt or bruise caused specifically by blows or beating, but the context of {S:06000202400046} appears to be highly generic.</Content>
+    </Note>
+  </Notes>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="003371001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>noun, m.</PartOfSpeech>
+      </PartsOfSpeech>
+      <Inflections>
+        <Inflection Lemma="μώλωψ" BaseFormIndex="1">
+          <Form/>
+          <Realizations>
+            <Realization>-ωπος</Realization>
+          </Realizations>
+          <Comments/>
+        </Inflection>
+      </Inflections>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="003371001001000" IsBiblicalTerm="Y" EntryCode="20.29" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Violence, Harm, Destroy, Kill</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Harm, Wound</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-12-09 14:34:55" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>the condition resulting from being severely hurt or wounded{N:001}</DefinitionShort>
+              <Glosses>
+                <Gloss>wound</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>06000202400046{N:002}</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

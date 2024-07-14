@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="002308000000000" Lemma="θέατρον" Version="0" HasAramaic="false" InLXX="false" AlphaPos="θ">
+  <StrongCodes>
+    <Strong>G2302</Strong>
+  </StrongCodes>
+  <Authors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes/>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="002308001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>noun, n.</PartOfSpeech>
+      </PartsOfSpeech>
+      <Inflections>
+        <Inflection Lemma="θέατρον" BaseFormIndex="1">
+          <Form/>
+          <Realizations>
+            <Realization>-ου</Realization>
+          </Realizations>
+          <Comments/>
+        </Inflection>
+      </Inflections>
+      <RelatedLemmas>
+        <RelatedLemma>
+          <Word>θεάομαι</Word>
+        </RelatedLemma>
+      </RelatedLemmas>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="002308001001000" IsBiblicalTerm="M" EntryCode="7.54" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Constructions</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Open Constructions</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-08-12 09:25:32" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>a rather large, normally semicircular open structure capable of seating several thousand people and often used for public assemblies</DefinitionShort>
+              <Glosses>
+                <Gloss>theater</Gloss>
+              </Glosses>
+              <Comments>The emphasis in {S:04401902900024} is upon the theater as a place for assembly and not as a place for dramas. In some languages the most appropriate equivalent is actually ‘meeting place.’ In other instances one may use a term which designates an ‘enclosure.’</Comments>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04401902900024</LEXReference>
+            <LEXReference>04401903100036</LEXReference>
+          </LEXReferences>
+          <LEXLinks>
+            <LEXLink>realia:3.13.5</LEXLink>
+          </LEXLinks>
+          <LEXVideos/>
+        </LEXMeaning>
+        <LEXMeaning Id="002308001002000" IsBiblicalTerm="M" EntryCode="24.15" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Sensory Events and States</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>See</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-08-12 09:25:32" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>(derivative of {L:θεωρέω&lt;SDBG:θεωρέω:000000&gt;}[a] ‘to observe,’ {D:24.14}) an unusual object or event which is observed</DefinitionShort>
+              <Glosses>
+                <Gloss>spectacle</Gloss>
+                <Gloss>unusual sight</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04600400900026</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

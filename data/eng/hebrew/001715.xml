@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="001715000000000" Lemma="דָּרֹום" Version="5" HasAramaic="false" InLXX="false" AlphaPos="ד">
+  <StrongCodes>
+    <Strong>H1864</Strong>
+  </StrongCodes>
+  <Authors>
+    <Author>Enio R. Mueller</Author>
+  </Authors>
+  <Contributors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes>
+    <Note Caller="1" LanguageCode="en" LastEdited="" LastEditedBy="">
+      <References>
+        <Reference>02602100200020</Reference>
+      </References>
+      <Content>NJPS "Darom" suggesting the name of a place.</Content>
+    </Note>
+  </Notes>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="001715001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>nsm</PartOfSpeech>
+      </PartsOfSpeech>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="001715001001000" IsBiblicalTerm="Y" EntryCode="" Indent="0">
+          <LEXDomains>
+            <LEXDomain Code="002002001013">Orientation</LEXDomain>
+          </LEXDomains>
+          <LEXSynonyms>
+            <LEXSynonym>תֵּימָן</LEXSynonym>
+          </LEXSynonyms>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2017-11-12 13:23:23" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>= a cardinal direction to the right of a person facing the sunrise</DefinitionShort>
+              <Glosses>
+                <Gloss>south</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>00503302300028</LEXReference>
+            <LEXReference>02100100600006</LEXReference>
+            <LEXReference>02101100300032</LEXReference>
+            <LEXReference>02602100200020{N:001}</LEXReference>
+            <LEXReference>02604002400010</LEXReference>
+            <LEXReference>02604002400022</LEXReference>
+            <LEXReference>02604002700020</LEXReference>
+            <LEXReference>02604002700040</LEXReference>
+            <LEXReference>02604002800020</LEXReference>
+            <LEXReference>02604002800034</LEXReference>
+            <LEXReference>02604004400052</LEXReference>
+            <LEXReference>02604004500022</LEXReference>
+            <LEXReference>02604101100036</LEXReference>
+            <LEXReference>02604201200018</LEXReference>
+            <LEXReference>02604201300018</LEXReference>
+            <LEXReference>02604201800008</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+          <LEXCoreDomains>
+            <LEXCoreDomain Code="166">Space</LEXCoreDomain>
+            <LEXCoreDomain Code="073">Geography</LEXCoreDomain>
+          </LEXCoreDomains>
+        </LEXMeaning>
+        <LEXMeaning Id="001715001002000" IsBiblicalTerm="Y" EntryCode="" Indent="0">
+          <LEXDomains>
+            <LEXDomain Code="001006001" Source="Orientation" SourceCode="002002001013">Air</LEXDomain>
+          </LEXDomains>
+          <LEXAntonyms>
+            <LEXAntonym>תֵּימָן</LEXAntonym>
+          </LEXAntonyms>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2017-11-12 13:23:23" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>= a wind coming from the south</DefinitionShort>
+              <Glosses>
+                <Gloss>south wind</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>01803701700016</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+          <LEXCoreDomains>
+            <LEXCoreDomain Code="193">Weather</LEXCoreDomain>
+            <LEXCoreDomain Code="198">Wind</LEXCoreDomain>
+          </LEXCoreDomains>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

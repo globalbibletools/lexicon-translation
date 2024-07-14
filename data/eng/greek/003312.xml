@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="003312000000000" Lemma="μισθαποδοσία" Version="0" HasAramaic="false" InLXX="false" AlphaPos="μ">
+  <StrongCodes>
+    <Strong>G3405</Strong>
+  </StrongCodes>
+  <Authors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes/>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="003312001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>noun, f.</PartOfSpeech>
+      </PartsOfSpeech>
+      <Inflections>
+        <Inflection Lemma="μισθαποδοσία" BaseFormIndex="1">
+          <Form/>
+          <Realizations>
+            <Realization>-ας</Realization>
+          </Realizations>
+          <Comments/>
+        </Inflection>
+      </Inflections>
+      <Constructs>
+        <Construct Lemma="μισθαποδοσία" BaseFormIndex="1">
+          <WordMeaningSet>
+            <Word>μισθόομαι</Word>
+          </WordMeaningSet>
+          <WordMeaningSet>
+            <Word>δίδωμι</Word>
+          </WordMeaningSet>
+        </Construct>
+      </Constructs>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="003312001001000" IsBiblicalTerm="M" EntryCode="38.17" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Punish, Reward</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Reward, Recompense</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-12-08 14:59:39" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>a reward or recompense, whether positive or negative, which has been granted to someone</DefinitionShort>
+              <Glosses>
+                <Gloss>reward</Gloss>
+                <Gloss>recompense</Gloss>
+                <Gloss>penalty</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>05800200200034</LEXReference>
+            <LEXReference>05801003500020</LEXReference>
+            <LEXReference>05801102600030</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

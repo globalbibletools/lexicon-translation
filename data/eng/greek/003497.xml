@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="003497000000000" Lemma="ὁδηγέω" Version="0" HasAramaic="false" InLXX="true" AlphaPos="ο">
+  <StrongCodes>
+    <Strong>G3594</Strong>
+  </StrongCodes>
+  <Authors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes>
+    <Note Caller="1" LanguageCode="en" LastEdited="" LastEditedBy="">
+      <References/>
+      <Content>Meanings which involve acquisition of information by formal or informal instruction overlap to a considerable extent with the domain of Communication (33). In some contexts the focus seems to be upon the fact of verbal communication, while in other contexts, it is learning which appears to be in focus. It is for that reason that a number of these related meanings are included in this domain of Learn, for example, μανθάνω[a] ({D:27.12}), μανθάνω[b] ({D:27.15}), μαθητής[b] ({D:27.16}), and ὁδηγέω[b] ({D:27.17}).</Content>
+    </Note>
+  </Notes>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="003497001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>verb</PartOfSpeech>
+      </PartsOfSpeech>
+      <Constructs>
+        <Construct Lemma="ὁδηγέω" BaseFormIndex="1">
+          <WordMeaningSet>
+            <Word>ὁδεύω</Word>
+          </WordMeaningSet>
+          <WordMeaningSet>
+            <Word>ἄγω</Word>
+          </WordMeaningSet>
+        </Construct>
+      </Constructs>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="003497001001000" IsBiblicalTerm="Y" EntryCode="15.182" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Linear Movement</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Lead, Bring, Take</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-12-11 14:38:03" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>to guide or to direct, with the implication of making certain that people reach an appropriate destination</DefinitionShort>
+              <Glosses>
+                <Gloss>to lead</Gloss>
+                <Gloss>to guide</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04001501400022</LEXReference>
+            <LEXReference>04200603900020</LEXReference>
+            <LEXReference>06600701700024</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+        <LEXMeaning Id="003497001002000" IsBiblicalTerm="Y" EntryCode="27.17" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Learn</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Learn</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-12-11 14:38:03" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>(a figurative extension of meaning of {L:ὁδηγέω&lt;SDBG:ὁδηγέω:000000&gt;}[a] ‘to lead, to guide,’ {D:15.182}) to guide someone in acquiring information{N:001}</DefinitionShort>
+              <Glosses>
+                <Gloss>to lead someone to know</Gloss>
+                <Gloss>to guide someone in learning</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04301601300018</LEXReference>
+            <LEXReference>04400803100022</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="002609000000000" Lemma="חשׁק" Version="5" HasAramaic="false" InLXX="false" AlphaPos="ח">
+  <StrongCodes>
+    <Strong>H2836</Strong>
+    <Strong>H2838</Strong>
+  </StrongCodes>
+  <Authors>
+    <Author>Reinier de Blois</Author>
+  </Authors>
+  <Contributors/>
+  <AlternateLemmas>
+    <AlternateLemma>חָשׁוּק</AlternateLemma>
+  </AlternateLemmas>
+  <MainLinks/>
+  <Notes>
+    <Note Caller="1" LanguageCode="en" LastEdited="" LastEditedBy="">
+      <References>
+        <Reference>02303801700018</Reference>
+      </References>
+      <Content>{A:MT} {A:HOTTP}-B {A:NIV} {A:REB} {A:CEV} | {A:RSV} {A:NJB} {A:NJPS} {A:NRSV} {A:GNT} {L:חשׂךְ&lt;SDBH:חשׂך&gt;}</Content>
+    </Note>
+  </Notes>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="002609001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>vb</PartOfSpeech>
+      </PartsOfSpeech>
+      <RelatedLemmas>
+        <RelatedLemma>
+          <Word>חִשֻּׁק</Word>
+        </RelatedLemma>
+      </RelatedLemmas>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="002609001001000" IsBiblicalTerm="Y" EntryCode="" Indent="0">
+          <LEXDomains>
+            <LEXDomain Code="002003001001">Attach</LEXDomain>
+          </LEXDomains>
+          <LEXForms>
+            <LEXForm>vbpiel</LEXForm>
+            <LEXForm>vbpual (passive)</LEXForm>
+          </LEXForms>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2015-07-31 11:07:55" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>= to connect two vertical poles or posts by means of a horizontal rod</DefinitionShort>
+              <Glosses>
+                <Gloss>to connect with a rod</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>00202701700012</LEXReference>
+            <LEXReference>00203801700040</LEXReference>
+            <LEXReference>00203802800044</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+          <LEXCoreDomains>
+            <LEXCoreDomain Code="027">Crafts</LEXCoreDomain>
+            <LEXCoreDomain Code="045">Construction</LEXCoreDomain>
+          </LEXCoreDomains>
+        </LEXMeaning>
+        <LEXMeaning Id="002609001002000" IsBiblicalTerm="Y" EntryCode="" Indent="0">
+          <LEXDomains>
+            <LEXDomain Code="002001002018">Love</LEXDomain>
+          </LEXDomains>
+          <LEXForms>
+            <LEXForm>vbqal-</LEXForm>
+          </LEXForms>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2015-07-31 11:07:55" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>= state in which humans or deities experience love or affection for an individual or a group of people</DefinitionShort>
+              <Glosses>
+                <Gloss>to love</Gloss>
+                <Gloss>to desire</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>00103400800018</LEXReference>
+            <LEXReference>00500700700016</LEXReference>
+            <LEXReference>00501001500008</LEXReference>
+            <LEXReference>00502101100020</LEXReference>
+            <LEXReference>01909101400006</LEXReference>
+            <LEXReference>02303801700018{N:001}</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+          <LEXCoreDomains>
+            <LEXCoreDomain Code="004">Affection</LEXCoreDomain>
+          </LEXCoreDomains>
+        </LEXMeaning>
+        <LEXMeaning Id="002609001003000" IsBiblicalTerm="Y" EntryCode="" Indent="0">
+          <LEXDomains>
+            <LEXDomain Code="002004002001001">Wish</LEXDomain>
+          </LEXDomains>
+          <LEXForms>
+            <LEXForm>vbqal-</LEXForm>
+          </LEXForms>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2015-07-31 11:07:55" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>= state in which humans experience a desire for a particular event to take place</DefinitionShort>
+              <Glosses>
+                <Gloss>to desire</Gloss>
+                <Gloss>to long</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>01100901900052</LEXReference>
+            <LEXReference>01400800600062</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+          <LEXCoreDomains>
+            <LEXCoreDomain Code="106">Mind</LEXCoreDomain>
+          </LEXCoreDomains>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

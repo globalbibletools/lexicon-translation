@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="003323000000000" Lemma="μνεία" Version="0" HasAramaic="false" InLXX="true" AlphaPos="μ">
+  <StrongCodes>
+    <Strong>G3417</Strong>
+  </StrongCodes>
+  <Authors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes>
+    <Note Caller="1" LanguageCode="en" LastEdited="" LastEditedBy="">
+      <References/>
+      <Content>μνημονεύω[d] and μνεία[b] overlap with the domain of Communication (33), since the meaning involves not only remembering but making mention of a person in prayer. It is possible, however, that the prayer would be inaudible, that is to say, silent prayer.</Content>
+    </Note>
+  </Notes>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="003323001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>noun, f.</PartOfSpeech>
+      </PartsOfSpeech>
+      <Inflections>
+        <Inflection Lemma="μνεία" BaseFormIndex="1">
+          <Form/>
+          <Realizations>
+            <Realization>-ας</Realization>
+          </Realizations>
+          <Comments/>
+        </Inflection>
+      </Inflections>
+      <RelatedLemmas>
+        <RelatedLemma>
+          <Word>μιμνῄσκομαι</Word>
+        </RelatedLemma>
+      </RelatedLemmas>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="003323001001000" IsBiblicalTerm="Y" EntryCode="29.7" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Memory and Recall</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Recalling from Memory</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-12-08 15:19:57" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>to recall information from memory, but without necessarily the implication that persons have actually forgotten</DefinitionShort>
+              <Glosses>
+                <Gloss>to remember</Gloss>
+                <Gloss>to recall</Gloss>
+                <Gloss>to think about again</Gloss>
+                <Gloss>memory</Gloss>
+                <Gloss>remembrance</Gloss>
+              </Glosses>
+              <Comments>In some languages the process of remembering is expressed idiomatically, for example, ‘to find one’s thoughts again’ or ‘to see again in one’s heart’ or ‘to have one’s liver repeat the words.’</Comments>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>05000100300016</LEXReference>
+            <LEXReference>05200300600042</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+        <LEXMeaning Id="003323001002000" IsBiblicalTerm="Y" EntryCode="29.18" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Memory and Recall</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Recalling and Responding with Appropriate Action</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-12-08 15:19:57" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>to recall and to respond by making mention of{N:001}</DefinitionShort>
+              <Glosses>
+                <Gloss>to remember and mention</Gloss>
+                <Gloss>to remember to mention</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04500100900042</LEXReference>
+            <LEXReference>04900101600012</LEXReference>
+            <LEXReference>05200100200016</LEXReference>
+            <LEXReference>05500100300036</LEXReference>
+            <LEXReference>05700100400012</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

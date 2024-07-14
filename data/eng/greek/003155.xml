@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="003155000000000" Lemma="μανία" Version="0" HasAramaic="false" InLXX="true" AlphaPos="μ">
+  <StrongCodes>
+    <Strong>G3130</Strong>
+  </StrongCodes>
+  <Authors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes>
+    <Note Caller="1" LanguageCode="en" LastEdited="" LastEditedBy="">
+      <References/>
+      <Content>It is possible that there are some significant differences in meaning between the set μαίνομαι / μανία and the set παραφρονέω / παραφρονία, but the difference is likely to be more connotative than denotative, as, for example, the distinction in English between crazy and insane.</Content>
+    </Note>
+  </Notes>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="003155001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>noun, f.</PartOfSpeech>
+      </PartsOfSpeech>
+      <Inflections>
+        <Inflection Lemma="μανία" BaseFormIndex="1">
+          <Form/>
+          <Realizations>
+            <Realization>-ας</Realization>
+          </Realizations>
+          <Comments/>
+        </Inflection>
+      </Inflections>
+      <RelatedLemmas>
+        <RelatedLemma>
+          <Word>μαίνομαι</Word>
+        </RelatedLemma>
+      </RelatedLemmas>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="003155001001000" IsBiblicalTerm="M" EntryCode="30.24" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Think</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>To Think, Thought</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-11-18 12:01:23" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>to think or reason in a completely irrational manner{N:001}</DefinitionShort>
+              <Glosses>
+                <Gloss>to not be in one’s right mind</Gloss>
+                <Gloss>to be insane</Gloss>
+                <Gloss>to be mad</Gloss>
+                <Gloss>to be out of one’s mind</Gloss>
+                <Gloss>insanity</Gloss>
+                <Gloss>madness</Gloss>
+              </Glosses>
+              <Comments>In some languages μανία is best rendered by an idiomatic expression, for example, ‘thoughts that never return,’ ‘distorted thoughts,’ ‘senseless thoughts,’ or ‘thoughts that cannot be understood.’</Comments>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04402602400036</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

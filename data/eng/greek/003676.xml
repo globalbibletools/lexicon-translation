@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="003676000000000" Lemma="οὐρανόθεν" Version="0" HasAramaic="false" InLXX="true" AlphaPos="ο">
+  <StrongCodes>
+    <Strong>G3771</Strong>
+  </StrongCodes>
+  <Authors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes/>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="003676001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>advb.</PartOfSpeech>
+      </PartsOfSpeech>
+      <RelatedLemmas>
+        <RelatedLemma>
+          <Word>οὐρανός</Word>
+        </RelatedLemma>
+      </RelatedLemmas>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="003676001001000" IsBiblicalTerm="Y" EntryCode="1.9" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Geographical Objects and Features</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Regions Above the Earth</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2022-01-27 10:23:28" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>the sky as a source or as a location from which implied movement takes place</DefinitionShort>
+              <Glosses>
+                <Gloss>from the sky</Gloss>
+              </Glosses>
+              <Comments>οὐρανόθεν in {S:04401401700014} and {S:04402601300016} is somewhat ambiguous, for both events may be regarded as involving a semantic derivative of {L:οὐρανός&lt;SDBG:οὐρανός:000001&gt;}[b] heaven ({D:1.11}) rather than {L:οὐρανός&lt;SDBG:οὐρανός:000000&gt;}[a] sky ({D:1.5}). In {S:04401401700014} one might very well translate ‘he gives rain from heaven,’ since obviously the agent is God. Similarly, in {S:04402601300016} the light might come from heaven, since the light is presumably regarded as a supernatural phenomenon.</Comments>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04401401700014</LEXReference>
+            <LEXReference>04402601300016</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

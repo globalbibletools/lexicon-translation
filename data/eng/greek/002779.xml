@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="002779000000000" Lemma="κεράννυμι" Version="0" HasAramaic="false" InLXX="true" AlphaPos="κ">
+  <StrongCodes>
+    <Strong>G2767</Strong>
+  </StrongCodes>
+  <Authors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes/>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="002779001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>verb</PartOfSpeech>
+      </PartsOfSpeech>
+      <Inflections>
+        <Inflection Lemma="κεράννυμι" BaseFormIndex="1">
+          <Form>aor.</Form>
+          <Realizations>
+            <Realization>ἐκέρασα</Realization>
+          </Realizations>
+          <Comments/>
+        </Inflection>
+        <Inflection Lemma="κεράννυμι" BaseFormIndex="1">
+          <Form>pf.pass.</Form>
+          <Realizations>
+            <Realization>κεκέρασμαι</Realization>
+          </Realizations>
+          <Comments/>
+        </Inflection>
+      </Inflections>
+      <RelatedLemmas>
+        <RelatedLemma>
+          <Word>ἀκέραιος</Word>
+        </RelatedLemma>
+        <RelatedLemma>
+          <Word>ἄκρατος</Word>
+        </RelatedLemma>
+        <RelatedLemma>
+          <Word>συγκεράννυμι</Word>
+        </RelatedLemma>
+      </RelatedLemmas>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="002779001001000" IsBiblicalTerm="Y" EntryCode="63.9" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Whole, Unite, Part, Divide</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Mix</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-10-05 12:44:18" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>to mix substances, normally liquids</DefinitionShort>
+              <Glosses>
+                <Gloss>to mix</Gloss>
+              </Glosses>
+              <Comments>Note that in the process of mixing, the various substances become a single mass, and the constituent parts are indistinguishable. For another interpretation of κεράννυμι in {S:06601401000024}, see {D:47.3}.</Comments>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>06601401000024</LEXReference>
+            <LEXReference>06601800600038</LEXReference>
+            <LEXReference>06601800600040</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+        <LEXMeaning Id="002779001002000" IsBiblicalTerm="M" EntryCode="47.3" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Activities Involving Liquids or Masses</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Movement of Liquids or Masses</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-10-05 12:44:18" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>to pour something out</DefinitionShort>
+              <Glosses>
+                <Gloss>to pour</Gloss>
+                <Gloss>to pour out</Gloss>
+              </Glosses>
+              <Comments>Since κεράννυμι normally means ‘to mix,’ it is possible to interpret the participial form κεκερασμένου in {S:06601401000024} as meaning ‘to be mixed’ (see {D:63.9}), but this would seem to contradict in some measure the following adjective {L:ἄκρατος&lt;SDBG:ἄκρατος:000000&gt;} ‘full strength, pure’ ({D:79.99}).</Comments>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>06601401000024</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

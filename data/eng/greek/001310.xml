@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="001310000000000" Lemma="διασῴζω" Version="0" HasAramaic="false" InLXX="false" AlphaPos="δ">
+  <StrongCodes>
+    <Strong>G1295</Strong>
+  </StrongCodes>
+  <Authors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes>
+    <Note Caller="1" LanguageCode="en" LastEdited="" LastEditedBy="">
+      <References>
+        <Reference>06000302000042</Reference>
+      </References>
+      <Content>In {S:06000302000042} it is possible that the phrase δι ὕδατος, literally ‘through water,’ may mean ‘by means of water.’ This has been interpreted by some as an indirect reference to and a prototype of baptism.</Content>
+    </Note>
+    <Note Caller="2" LanguageCode="en" LastEdited="" LastEditedBy="">
+      <References/>
+      <Content>It is possible that διασῴζω is somewhat more emphatic in meaning than σῴζω. It is also possible that in a number of contexts σῴζω and διασῴζω may have the added implication of having rescued such persons from a state of illness.</Content>
+    </Note>
+  </Notes>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="001310001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>verb</PartOfSpeech>
+      </PartsOfSpeech>
+      <Inflections>
+        <Inflection Lemma="διασῴζω" BaseFormIndex="1">
+          <Form>aor.pass.</Form>
+          <Realizations>
+            <Realization>διεσώθην</Realization>
+          </Realizations>
+          <Comments/>
+        </Inflection>
+      </Inflections>
+      <RelatedLemmas>
+        <RelatedLemma>
+          <Word>σῴζω</Word>
+        </RelatedLemma>
+      </RelatedLemmas>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="001310001001000" IsBiblicalTerm="Y" EntryCode="21.19" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Danger, Risk, Safe, Save</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Cause To Be Safe, Free from Danger</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-06-07 20:44:35" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>to rescue completely from danger</DefinitionShort>
+              <Glosses>
+                <Gloss>to save</Gloss>
+                <Gloss>to rescue</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04402302400016</LEXReference>
+            <LEXReference>04402704300010</LEXReference>
+            <LEXReference>04402704400040</LEXReference>
+            <LEXReference>04402800100004</LEXReference>
+            <LEXReference>04402800400046</LEXReference>
+            <LEXReference>06000302000042{N:001}</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+        <LEXMeaning Id="001310001002000" IsBiblicalTerm="M" EntryCode="23.136" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Physiological Processes and States</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Health, Vigor, Strength</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-06-07 20:44:35" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>to cause someone to become well again after having been sick{N:002}</DefinitionShort>
+              <Glosses>
+                <Gloss>to heal</Gloss>
+                <Gloss>to cure</Gloss>
+                <Gloss>to make well</Gloss>
+                <Gloss>healing</Gloss>
+              </Glosses>
+              <Comments>In a number of languages there are different terms for ‘healing’ depending upon the type of sickness or illness which is involved.</Comments>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04001403600030</LEXReference>
+            <LEXReference>04200700300032</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

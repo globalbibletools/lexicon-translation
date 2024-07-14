@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="002559000000000" Lemma="κακοπαθέω" Version="0" HasAramaic="false" InLXX="true" AlphaPos="κ">
+  <StrongCodes>
+    <Strong>G2553</Strong>
+  </StrongCodes>
+  <Authors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes/>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="002559001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>verb</PartOfSpeech>
+      </PartsOfSpeech>
+      <Constructs>
+        <Construct Lemma="κακοπαθέω" BaseFormIndex="1">
+          <WordMeaningSet>
+            <Word>κακόω</Word>
+          </WordMeaningSet>
+          <WordMeaningSet>
+            <Word>πάσχω</Word>
+          </WordMeaningSet>
+        </Construct>
+      </Constructs>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="002559001001000" IsBiblicalTerm="M" EntryCode="24.89" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Sensory Events and States</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Pain, Suffering</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-09-08 11:32:44" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>to suffer physical pain, hardship and distress</DefinitionShort>
+              <Glosses>
+                <Gloss>to suffer distress</Gloss>
+                <Gloss>to suffer pain</Gloss>
+                <Gloss>to suffer hardship</Gloss>
+              </Glosses>
+              <Comments>In rendering ‘endure suffering’ ({S:05500400500012}), one must often expand somewhat the number of lexical items in order to convey the correct meaning, for example, ‘continue doing what you should even though you are suffering’ or ‘remain firm even though people cause you suffering.’</Comments>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>05500200900006</LEXReference>
+            <LEXReference>05500400500012</LEXReference>
+            <LEXReference>05900501300002</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

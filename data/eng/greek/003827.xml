@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="003827000000000" Lemma="παρεμβολή" Version="0" HasAramaic="false" InLXX="true" AlphaPos="π">
+  <StrongCodes>
+    <Strong>G3925</Strong>
+  </StrongCodes>
+  <Authors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes>
+    <Note Caller="1" LanguageCode="en" LastEdited="" LastEditedBy="">
+      <References/>
+      <Content>Compare the meaning of παρεμβολή[b] ({D:7.22}) as a construction consisting of barracks for soldiers.</Content>
+    </Note>
+    <Note Caller="2" LanguageCode="en" LastEdited="" LastEditedBy="">
+      <References/>
+      <Content>παρεμβολή[b] ‘barracks’ differs from παρεμβολή[a] ‘camp’ ({D:1.94}) in that the latter is a temporary population center and not the actual construction of barracks or soldiers quarters.</Content>
+    </Note>
+  </Notes>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="003827001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>noun, f.</PartOfSpeech>
+      </PartsOfSpeech>
+      <Inflections>
+        <Inflection Lemma="παρεμβολή" BaseFormIndex="1">
+          <Form/>
+          <Realizations>
+            <Realization>-ῆς</Realization>
+          </Realizations>
+          <Comments/>
+        </Inflection>
+      </Inflections>
+      <RelatedLemmas>
+        <RelatedLemma>
+          <Word>βάλλω</Word>
+        </RelatedLemma>
+      </RelatedLemmas>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="003827001001000" IsBiblicalTerm="M" EntryCode="1.94" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Geographical Objects and Features</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Population Centers</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-12-23 10:58:47" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>a temporary population center consisting of an encampment{N:001}</DefinitionShort>
+              <Glosses>
+                <Gloss>camp</Gloss>
+              </Glosses>
+              <Comments>The equivalent of ‘camp’ in the context of {S:05801301100042} is often ‘a city of tents’ or ‘where people lived only for a short time.’</Comments>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>05801103400028</LEXReference>
+            <LEXReference>05801301100042</LEXReference>
+            <LEXReference>05801301300014</LEXReference>
+            <LEXReference>06602000900022</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+        <LEXMeaning Id="003827001002000" IsBiblicalTerm="Y" EntryCode="7.22" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Constructions</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Buildings</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-12-23 10:58:47" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>a camp or barracks for soldiers{N:002}</DefinitionShort>
+              <Glosses>
+                <Gloss>soldiers quarters</Gloss>
+                <Gloss>barracks</Gloss>
+              </Glosses>
+              <Comments>In the NT παρεμβολή[b] is used to refer to the place where Roman troops were housed in Jerusalem and to the place in Rome where soldiers who accompanied Paul were quartered. Though many languages have a set phrase or technical expression for soldiers barracks, it may be necessary in some cases to use a descriptive phrase, for example, ‘where soldiers lived or where soldiers lived together.’</Comments>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04402103400048</LEXReference>
+            <LEXReference>04402103700012</LEXReference>
+            <LEXReference>04402202400016</LEXReference>
+            <LEXReference>04402301000054</LEXReference>
+            <LEXReference>04402301600030</LEXReference>
+            <LEXReference>04402303200026</LEXReference>
+            <LEXReference>05801103400028</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="003867000000000" Lemma="πατριάρχης" Version="0" HasAramaic="false" InLXX="true" AlphaPos="π">
+  <StrongCodes>
+    <Strong>G3966</Strong>
+  </StrongCodes>
+  <Authors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes/>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="003867001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>noun, m.</PartOfSpeech>
+      </PartsOfSpeech>
+      <Inflections>
+        <Inflection Lemma="πατριάρχης" BaseFormIndex="1">
+          <Form/>
+          <Realizations>
+            <Realization>-ου</Realization>
+          </Realizations>
+          <Comments/>
+        </Inflection>
+      </Inflections>
+      <Constructs>
+        <Construct Lemma="πατριάρχης" BaseFormIndex="1">
+          <WordMeaningSet>
+            <Word>πατήρ</Word>
+          </WordMeaningSet>
+          <WordMeaningSet>
+            <Word>ἄρχω</Word>
+          </WordMeaningSet>
+        </Construct>
+      </Constructs>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="003867001001000" IsBiblicalTerm="M" EntryCode="10.22" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Kinship Terms</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Kinship Relations Involving Successive Generations</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-12-23 21:16:06" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>a particularly noted male ancestor (either because of his role in initiating an ethnic group or groups, for example, Abraham, Isaac, Jacob and the twelve sons of Jacob, or because of important exploits and accomplishments, for example, David)</DefinitionShort>
+              <Glosses>
+                <Gloss>patriarch</Gloss>
+              </Glosses>
+              <Comments>The equivalent expression for patriarch in a number of languages is merely ‘important forefather’ or ‘famous forefather’ or ‘great ancestor.’</Comments>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04400202900022</LEXReference>
+            <LEXReference>04400700800052</LEXReference>
+            <LEXReference>04400700900006</LEXReference>
+            <LEXReference>05800700400028</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

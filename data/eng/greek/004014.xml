@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="004014000000000" Lemma="πλανήτης" Version="0" HasAramaic="false" InLXX="true" AlphaPos="π">
+  <StrongCodes>
+    <Strong>G4107</Strong>
+  </StrongCodes>
+  <Authors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes/>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="004014001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>adjc.</PartOfSpeech>
+      </PartsOfSpeech>
+      <Inflections>
+        <Inflection Lemma="πλανήτης" BaseFormIndex="1">
+          <Form/>
+          <Realizations>
+            <Realization>-ου</Realization>
+          </Realizations>
+          <Comments/>
+        </Inflection>
+      </Inflections>
+      <RelatedLemmas>
+        <RelatedLemma>
+          <Word>πλανάω</Word>
+        </RelatedLemma>
+      </RelatedLemmas>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="004014001001000" IsBiblicalTerm="Y" EntryCode="15.26" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Linear Movement</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Travel, Journey</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-12-27 14:42:41" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>(derivative of {L:πλανάω&lt;SDBG:πλανάω:000001&gt;}[b] ‘to wander about,’ {D:15.24}) one who or that which wanders about or around</DefinitionShort>
+              <Glosses>
+                <Gloss>wanderer</Gloss>
+              </Glosses>
+              <Comments>In {S:06500101300018} there appears to be a double-entendre in that πλανήτης may also suggest the meaning of {L:πλανάω&lt;SDBG:πλανάω:000000&gt;} ‘to deceive, to cause to be mistaken’ (see {D:31.8}). Therefore, such persons may be described not only as ‘wanderers,’ but as ‘deceivers.’ For a further discussion of πλανήτης in {S:06500101300018}, see {D:1.30}.</Comments>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>06500101300018</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="005635000000000" Lemma="עַקְרָב" Version="5" HasAramaic="false" InLXX="false" AlphaPos="ע">
+  <StrongCodes>
+    <Strong>H6137</Strong>
+    <Strong>H4610</Strong>
+  </StrongCodes>
+  <Authors>
+    <Author>Sarah Lind</Author>
+  </Authors>
+  <Contributors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes/>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="005635001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>nsm</PartOfSpeech>
+      </PartsOfSpeech>
+      <RelatedLemmas>
+        <RelatedLemma>
+          <Word>קרב</Word>
+        </RelatedLemma>
+      </RelatedLemmas>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="005635001001000" IsBiblicalTerm="M" EntryCode="" Indent="0">
+          <LEXDomains>
+            <LEXDomain Code="001001002001006">Swarming Creatures</LEXDomain>
+          </LEXDomains>
+          <LEXSynonyms>
+            <LEXSynonym>נָחָשׁ</LEXSynonym>
+          </LEXSynonyms>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2015-12-26 09:24:15" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>= terrestrial arachnid with pincers and a poisonous sting at the end of its jointed tail, which it can hold curved over the back; it grows to about 13 cm long; ≈  associated with harsh, inhospitable living conditions</DefinitionShort>
+              <Glosses>
+                <Gloss>scorpion</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>00403400400018</LEXReference>
+            <LEXReference>00500801500028</LEXReference>
+            <LEXReference>00601500300014</LEXReference>
+            <LEXReference>00700103600012</LEXReference>
+            <LEXReference>01101201100050</LEXReference>
+            <LEXReference>01101201400062</LEXReference>
+            <LEXReference>01401001100046</LEXReference>
+            <LEXReference>01401001400054</LEXReference>
+            <LEXReference>02600200600040</LEXReference>
+          </LEXReferences>
+          <LEXLinks>
+            <LEXLink>Fauna:6.11</LEXLink>
+          </LEXLinks>
+          <LEXVideos/>
+          <LEXCoreDomains>
+            <LEXCoreDomain Code="010">Animal</LEXCoreDomain>
+          </LEXCoreDomains>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+    <BaseForm Id="005635002000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>np</PartOfSpeech>
+      </PartsOfSpeech>
+      <MeaningsOfName>
+        <MeaningOfName LanguageCode="en">
+          <Meaning>ascent of scorpions</Meaning>
+        </MeaningOfName>
+      </MeaningsOfName>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="005635002001000" IsBiblicalTerm="Y" EntryCode="" Indent="0">
+          <LEXDomains>
+            <LEXDomain Code="003001010">Names of Locations</LEXDomain>
+          </LEXDomains>
+          <LEXCollocations>
+            <LEXCollocation>מַעֲלֵה עַקְרַבִּים</LEXCollocation>
+          </LEXCollocations>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2016-11-24 13:20:25" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>= an ascending location between {L:Jerusalem&lt;SDBH:יְרוּשָׁלַ͏ִם&gt;} and {L:Jericho&lt;SDBH:יְרִחֹו&gt;}</DefinitionShort>
+              <Glosses>
+                <Gloss>Ascent of Akrabbim</Gloss>
+                <Gloss>Ascent of Scorpions</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>00403400400018</LEXReference>
+            <LEXReference>00601500300014</LEXReference>
+            <LEXReference>00700103600012</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="003505000000000" Lemma="ὀδυρμός" Version="0" HasAramaic="false" InLXX="true" AlphaPos="ο">
+  <StrongCodes>
+    <Strong>G3602</Strong>
+  </StrongCodes>
+  <Authors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes>
+    <Note Caller="1" LanguageCode="en" LastEdited="" LastEditedBy="">
+      <References/>
+      <Content>ὀδυρμός ({D:52.3}) apparently differs in meaning from θρηνέω[c] ({D:52.2}) in being less institutionalized and focusing somewhat more upon the wailing at funerals, while θρηνέω[b] denotes the singing of a dirge (see {D:33.115}). See also {D:33.116} and {D:25.141}. The meanings in Domain 52 differ in that they reflect ritualized wailing.</Content>
+    </Note>
+  </Notes>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="003505001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>noun, m.</PartOfSpeech>
+      </PartsOfSpeech>
+      <Inflections>
+        <Inflection Lemma="ὀδυρμός" BaseFormIndex="1">
+          <Form/>
+          <Realizations>
+            <Realization>-οῦ</Realization>
+          </Realizations>
+          <Comments/>
+        </Inflection>
+      </Inflections>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="003505001001000" IsBiblicalTerm="M" EntryCode="52.3" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Funerals and Burial</LEXDomain>
+          </LEXDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-12-11 14:52:33" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>ritualized wailing and crying as an expression of grief and sorrow at funerals{N:001}</DefinitionShort>
+              <Glosses>
+                <Gloss>wailing</Gloss>
+                <Gloss>lamenting</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04000201800014</LEXReference>
+            <LEXReference>04700700700048</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

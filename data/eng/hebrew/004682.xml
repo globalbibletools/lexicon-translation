@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="004682000000000" Lemma="נוא" Version="5" HasAramaic="false" InLXX="false" AlphaPos="נ">
+  <StrongCodes>
+    <Strong>H5106</Strong>
+  </StrongCodes>
+  <Authors>
+    <Author>Reinier de Blois</Author>
+  </Authors>
+  <Contributors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes>
+    <Note Caller="1" LanguageCode="en" LastEdited="" LastEditedBy="">
+      <References>
+        <Reference>00403200700006</Reference>
+      </References>
+      <Content>MT-K תנואון | MT-Q תְנִיאוּן</Content>
+    </Note>
+  </Notes>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="004682001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>vb</PartOfSpeech>
+      </PartsOfSpeech>
+      <RelatedLemmas>
+        <RelatedLemma>
+          <Word>תְּנוּאָה</Word>
+        </RelatedLemma>
+      </RelatedLemmas>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="004682001001000" IsBiblicalTerm="Y" EntryCode="" Indent="0">
+          <LEXDomains>
+            <LEXDomain Code="002001002031">Unwilling</LEXDomain>
+          </LEXDomains>
+          <LEXForms>
+            <LEXForm>vbhif-</LEXForm>
+          </LEXForms>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2017-11-07 18:20:52" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>= causative action by which humans use their influence or authority to keep something from happening</DefinitionShort>
+              <Glosses>
+                <Gloss>to forbid</Gloss>
+                <Gloss>to hinder</Gloss>
+                <Gloss>to refuse</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>00403000600006</LEXReference>
+            <LEXReference>00403000600048</LEXReference>
+            <LEXReference>00403000900014</LEXReference>
+            <LEXReference>00403001200016</LEXReference>
+            <LEXReference>00403200700006{N:001}</LEXReference>
+            <LEXReference>00403200700008</LEXReference>
+            <LEXReference>00403200900024</LEXReference>
+            <LEXReference>01914100500018</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+          <LEXCoreDomains>
+            <LEXCoreDomain Code="106">Mind</LEXCoreDomain>
+          </LEXCoreDomains>
+        </LEXMeaning>
+        <LEXMeaning Id="004682001002000" IsBiblicalTerm="Y" EntryCode="" Indent="0">
+          <LEXDomains>
+            <LEXDomain Code="002003003012" Source="Unwilling" SourceCode="002001002031">Fail</LEXDomain>
+          </LEXDomains>
+          <LEXForms>
+            <LEXForm>vbhif-</LEXForm>
+          </LEXForms>
+          <LEXSynonyms>
+            <LEXSynonym>פור</LEXSynonym>
+          </LEXSynonyms>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2022-02-08 15:49:26" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>= causative action by which deities cause the plans humans not to succeed</DefinitionShort>
+              <Glosses>
+                <Gloss>to cause to fail</Gloss>
+                <Gloss>to frustrate</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>01903301000010</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+          <LEXCoreDomains>
+            <LEXCoreDomain Code="173">Success and Failure</LEXCoreDomain>
+          </LEXCoreDomains>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

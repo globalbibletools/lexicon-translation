@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="000115000000000" Lemma="אֲדֹומִי" Version="5" HasAramaic="false" InLXX="false" AlphaPos="א">
+  <StrongCodes>
+    <Strong>H0130</Strong>
+    <Strong>H0726</Strong>
+  </StrongCodes>
+  <Authors>
+    <Author>Reinier de Blois</Author>
+  </Authors>
+  <Contributors/>
+  <AlternateLemmas>
+    <AlternateLemma>אֲדֹמִי</AlternateLemma>
+  </AlternateLemmas>
+  <MainLinks/>
+  <Notes>
+    <Note Caller="1" LanguageCode="en" LastEdited="" LastEditedBy="">
+      <References>
+        <Reference>01201600600044</Reference>
+      </References>
+      <Content>MT-K וארמים | MT-Q וַאֲדֹמִים</Content>
+    </Note>
+    <Note Caller="2" LanguageCode="en" LastEdited="" LastEditedBy="">
+      <References>
+        <Reference>01201600600046</Reference>
+      </References>
+      <Content>{A:MT-Q} {A:RSV} {A:NJB} {A:NRSV} {A:REB} {A:GNT} וַאֲדֹומִים | {A:MT-K} {A:NIV} {A:NJPS} וַאֲרָמִּים = אֲרַמִּי</Content>
+    </Note>
+  </Notes>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="000115001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>aj</PartOfSpeech>
+      </PartsOfSpeech>
+      <RelatedNames>
+        <RelatedName>
+          <Word>אֱדֹום</Word>
+        </RelatedName>
+      </RelatedNames>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="000115001001000" IsBiblicalTerm="M" EntryCode="" Indent="0">
+          <LEXDomains>
+            <LEXDomain Code="003001006">Names of Groups</LEXDomain>
+          </LEXDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2015-11-09 16:42:26" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>= person originating from {L:Edom&lt;SDBH:אֱדֹום&gt;}</DefinitionShort>
+              <Glosses>
+                <Gloss>Edomite</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>00502300800006</LEXReference>
+            <LEXReference>00902100800040</LEXReference>
+            <LEXReference>00902200900010</LEXReference>
+            <LEXReference>00902201800042</LEXReference>
+            <LEXReference>00902202200034</LEXReference>
+            <LEXReference>01101100100030</LEXReference>
+            <LEXReference>01101101400020</LEXReference>
+            <LEXReference>01101101700014</LEXReference>
+            <LEXReference>01201600600044{N:001}</LEXReference>
+            <LEXReference>01201600600048{N:002}</LEXReference>
+            <LEXReference>01402501400018</LEXReference>
+            <LEXReference>01402801700006</LEXReference>
+            <LEXReference>01905200200010</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="001396000000000" Lemma="δόγμα" Version="0" HasAramaic="false" InLXX="true" AlphaPos="δ">
+  <StrongCodes>
+    <Strong>G1378</Strong>
+  </StrongCodes>
+  <Authors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes/>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="001396001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>noun, n.</PartOfSpeech>
+      </PartsOfSpeech>
+      <Inflections>
+        <Inflection Lemma="δόγμα" BaseFormIndex="1">
+          <Form/>
+          <Realizations>
+            <Realization>-τος</Realization>
+          </Realizations>
+          <Comments/>
+        </Inflection>
+      </Inflections>
+      <RelatedLemmas>
+        <RelatedLemma>
+          <Word>δοκέω</Word>
+        </RelatedLemma>
+      </RelatedLemmas>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="001396001001000" IsBiblicalTerm="Y" EntryCode="33.333" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Communication</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Law, Regulation, Ordinance</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-05-12 10:58:11" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>a formalized rule (or set of rules) prescribing what people must do</DefinitionShort>
+              <Glosses>
+                <Gloss>law</Gloss>
+                <Gloss>ordinance</Gloss>
+                <Gloss>rule</Gloss>
+              </Glosses>
+              <Comments>The difference between ‘a law’ and ‘a command’ is that a law is enforced by sanctions from a society, while a command carries only the sanctions of the individual who commands. When, however, the people of Israel accepted the commands of God as the rules which they would follow and enforce, these became their laws.</Comments>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04401600400020</LEXReference>
+            <LEXReference>05100201400014</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+        <LEXMeaning Id="001396001002000" IsBiblicalTerm="M" EntryCode="33.332" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Communication</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Command, Order</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-05-12 10:58:11" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>an official order or decree</DefinitionShort>
+              <Glosses>
+                <Gloss>order</Gloss>
+                <Gloss>decree</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04200200100016</LEXReference>
+            <LEXReference>04401700700018</LEXReference>
+            <LEXReference>04900201500012</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

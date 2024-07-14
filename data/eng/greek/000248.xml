@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="000248000000000" Lemma="ἅλς" Version="0" HasAramaic="false" InLXX="true" AlphaPos="α">
+  <StrongCodes>
+    <Strong>G0217</Strong>
+  </StrongCodes>
+  <Authors/>
+  <AlternateLemmas>
+    <AlternateLemma>ἅλας</AlternateLemma>
+  </AlternateLemmas>
+  <MainLinks/>
+  <Notes/>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="000248001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>noun, m./n.</PartOfSpeech>
+      </PartsOfSpeech>
+      <Inflections>
+        <Inflection Lemma="ἅλς" BaseFormIndex="1">
+          <Form/>
+          <Realizations>
+            <Realization>ἁλός</Realization>
+          </Realizations>
+          <Comments/>
+        </Inflection>
+      </Inflections>
+      <RelatedLemmas>
+        <RelatedLemma>
+          <Word>ἁλίζω</Word>
+        </RelatedLemma>
+      </RelatedLemmas>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="000248001001000" IsBiblicalTerm="M" EntryCode="5.25" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Foods and Condiments</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Condiments</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-05-25 18:59:25" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>white crystalline substance, mainly consisting of sodium chloride, used for seasoning or preserving food</DefinitionShort>
+              <Glosses>
+                <Gloss>salt</Gloss>
+              </Glosses>
+              <Comments>Since salt is a universal condiment, there is no difficulty involved in finding an adequate expression for it, but there is a difficulty in {S:04000501300020}, since pure salt cannot lose its taste. In the ancient world, however, what was often sold as salt was highly adulterated and the sodium chloride could leach out in humid weather, in which case the residue (normally a form of lime) would be useless. It may, therefore, be important in some languages to provide a marginal note explaining the basis for the biblical statement concerning salt losing its flavor; otherwise, the parable may appear to be either meaningless or misleading.</Comments>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04000501300008</LEXReference>
+            <LEXReference>04000501300020</LEXReference>
+            <LEXReference>04100905000006</LEXReference>
+            <LEXReference>04100905000014</LEXReference>
+            <LEXReference>04100905000034</LEXReference>
+            <LEXReference>04201403400008</LEXReference>
+            <LEXReference>04201403400018</LEXReference>
+            <LEXReference>05100400600014</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

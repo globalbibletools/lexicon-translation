@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="005177000000000" Lemma="ὑπόστασις" Version="0" HasAramaic="false" InLXX="true" AlphaPos="υ">
+  <StrongCodes>
+    <Strong>G5287</Strong>
+  </StrongCodes>
+  <Authors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes/>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="005177001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>noun, f.</PartOfSpeech>
+      </PartsOfSpeech>
+      <Inflections>
+        <Inflection Lemma="ὑπόστασις" BaseFormIndex="1">
+          <Form/>
+          <Realizations>
+            <Realization>-εως</Realization>
+          </Realizations>
+          <Comments/>
+        </Inflection>
+      </Inflections>
+      <RelatedLemmas>
+        <RelatedLemma>
+          <Word>ἵστημι</Word>
+        </RelatedLemma>
+      </RelatedLemmas>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="005177001001000" IsBiblicalTerm="Y" EntryCode="58.1" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Nature, Class, Example</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Nature, Character</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2022-05-05 08:34:51" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>the essential or basic nature of an entity</DefinitionShort>
+              <Glosses>
+                <Gloss>substance</Gloss>
+                <Gloss>nature</Gloss>
+                <Gloss>essence</Gloss>
+                <Gloss>real being</Gloss>
+              </Glosses>
+              <Comments>In some languages there is no ready lexical equivalent of ‘real being’ or ‘nature.’ Therefore, one may express this concept in {S:05800100300018} as ‘who is … just like what he really is.’</Comments>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>05800100300018</LEXReference>
+            <LEXReference>05801100100010</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+        <LEXMeaning Id="005177001002000" IsBiblicalTerm="M" EntryCode="31.84" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Hold a View, Believe, Trust</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Trust, Rely</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2022-05-05 08:34:51" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>that which provides the basis for trust and reliance</DefinitionShort>
+              <Glosses>
+                <Gloss>trust</Gloss>
+                <Gloss>confidence</Gloss>
+                <Gloss>assurance</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04700900400040</LEXReference>
+            <LEXReference>04701101700028</LEXReference>
+            <LEXReference>05800301400020</LEXReference>
+            <LEXReference>05801100100010</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

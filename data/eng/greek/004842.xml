@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="004842000000000" Lemma="συντρίβω" Version="0" HasAramaic="false" InLXX="true" AlphaPos="σ">
+  <StrongCodes>
+    <Strong>G4937</Strong>
+  </StrongCodes>
+  <Authors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes/>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="004842001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>verb</PartOfSpeech>
+      </PartsOfSpeech>
+      <Inflections>
+        <Inflection Lemma="συντρίβω" BaseFormIndex="1">
+          <Form>pf.pass.inf.</Form>
+          <Realizations>
+            <Realization>συντετρῖφθαι</Realization>
+          </Realizations>
+          <Comments/>
+        </Inflection>
+        <Inflection Lemma="συντρίβω" BaseFormIndex="1">
+          <Form>ptc.</Form>
+          <Realizations>
+            <Realization>συντετριμμένος</Realization>
+          </Realizations>
+          <Comments/>
+        </Inflection>
+      </Inflections>
+      <RelatedLemmas>
+        <RelatedLemma>
+          <Word>τρίβω</Word>
+          <Meaning LanguageCode="en">
+            <Meaning>rub</Meaning>
+          </Meaning>
+          <Meaning LanguageCode="zhT">
+            <Meaning>擦</Meaning>
+          </Meaning>
+        </RelatedLemma>
+        <RelatedLemma>
+          <Word>τρίβος</Word>
+        </RelatedLemma>
+      </RelatedLemmas>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="004842001001000" IsBiblicalTerm="Y" EntryCode="19.39" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Physical Impact</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Break, Break Through</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2022-03-15 11:22:54" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>to break or shatter a solid object into pieces, with the implication of destruction</DefinitionShort>
+              <Glosses>
+                <Gloss>to break into pieces</Gloss>
+                <Gloss>to shatter</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04100500400036</LEXReference>
+            <LEXReference>04101400300044</LEXReference>
+            <LEXReference>04301903600020</LEXReference>
+            <LEXReference>06600202700024</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+        <LEXMeaning Id="004842001002000" IsBiblicalTerm="Y" EntryCode="19.46" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Physical Impact</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Press</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2022-03-15 11:22:54" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>to cause damage to an object by crushing</DefinitionShort>
+              <Glosses>
+                <Gloss>to crush</Gloss>
+                <Gloss>to bruise</Gloss>
+              </Glosses>
+              <Comments>It is difficult to know precisely what the reference is in the use of συντρίβω in {S:04200903900038}. The obvious result is severe pain, but it is not possible to tell precisely what symptoms are involved in what is described as being crushed by the demon.</Comments>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04001202000004</LEXReference>
+            <LEXReference>04200903900038</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+        <LEXMeaning Id="004842001003000" IsBiblicalTerm="Y" EntryCode="39.53" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Hostility, Strife</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Conquer</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2022-03-15 11:22:54" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>(a figurative extension of meaning of {L:συντρίβω&lt;SDBG:συντρίβω:000001&gt;}[b] ‘to crush,’ {D:19.46}) to overcome, with the resulting crushing of the power of the opposition</DefinitionShort>
+              <Glosses>
+                <Gloss>to completely overcome</Gloss>
+                <Gloss>to crush</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04501602000012</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

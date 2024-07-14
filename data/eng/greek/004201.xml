@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="004201000000000" Lemma="προλέγω" Version="0" HasAramaic="false" InLXX="true" AlphaPos="π">
+  <StrongCodes>
+    <Strong>G4302</Strong>
+  </StrongCodes>
+  <Authors/>
+  <AlternateLemmas>
+    <AlternateLemma>προεῖπον</AlternateLemma>
+  </AlternateLemmas>
+  <MainLinks/>
+  <Notes/>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="004201001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>verb</PartOfSpeech>
+      </PartsOfSpeech>
+      <Inflections>
+        <Inflection Lemma="προλέγω" BaseFormIndex="1">
+          <Form>aor.</Form>
+          <Realizations>
+            <Realization>προεῖπον</Realization>
+          </Realizations>
+          <Comments/>
+        </Inflection>
+        <Inflection Lemma="προλέγω" BaseFormIndex="1">
+          <Form>pf.</Form>
+          <Realizations>
+            <Realization>προείρηκα</Realization>
+          </Realizations>
+          <Comments/>
+        </Inflection>
+      </Inflections>
+      <RelatedLemmas>
+        <RelatedLemma>
+          <Word>λέγω</Word>
+        </RelatedLemma>
+      </RelatedLemmas>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="004201001001000" IsBiblicalTerm="Y" EntryCode="33.86" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Communication</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Speak, Talk</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2022-12-16 14:43:52" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>to speak beforehand or in advance</DefinitionShort>
+              <Glosses>
+                <Gloss>to say already or</Gloss>
+                <Gloss>in written discourse</Gloss>
+                <Gloss>to quote above</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04700700300010</LEXReference>
+            <LEXReference>04701300200002</LEXReference>
+            <LEXReference>04800100900004</LEXReference>
+            <LEXReference>05200400600040</LEXReference>
+            <LEXReference>05800400700026</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+        <LEXMeaning Id="004201001002000" IsBiblicalTerm="Y" EntryCode="33.281" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Communication</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Foretell, Tell Fortunes</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2022-12-16 14:43:52" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>to say in advance what is going to happen</DefinitionShort>
+              <Glosses>
+                <Gloss>to tell ahead of time</Gloss>
+                <Gloss>to predict</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04002402500004</LEXReference>
+            <LEXReference>04101302300008</LEXReference>
+            <LEXReference>04400101600016</LEXReference>
+            <LEXReference>04500902900006</LEXReference>
+            <LEXReference>05200300400014</LEXReference>
+            <LEXReference>06100300200006</LEXReference>
+            <LEXReference>06500101700016</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+        <LEXMeaning Id="004201001003000" IsBiblicalTerm="Y" EntryCode="33.423" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Communication</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Warn</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2022-12-16 14:43:52" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>to tell someone that some future happening is dangerous and may lead to serious consequences</DefinitionShort>
+              <Glosses>
+                <Gloss>to warn</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04002402500004</LEXReference>
+            <LEXReference>04701300200006</LEXReference>
+            <LEXReference>04800502100018</LEXReference>
+            <LEXReference>04800502100024</LEXReference>
+            <LEXReference>05200400600040</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

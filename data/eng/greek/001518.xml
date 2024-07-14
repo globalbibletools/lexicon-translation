@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="001518000000000" Lemma="εἴδωλον" Version="0" HasAramaic="false" InLXX="true" AlphaPos="ε">
+  <StrongCodes>
+    <Strong>G1497</Strong>
+  </StrongCodes>
+  <Authors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes>
+    <Note Caller="1" LanguageCode="en" LastEdited="" LastEditedBy="">
+      <References/>
+      <Content>In the NT εἴδωλον[a] is restricted in meaning to idol in contrast with image, as noted in the discussion of {D:6.97}.</Content>
+    </Note>
+  </Notes>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="001518001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>noun, n.</PartOfSpeech>
+      </PartsOfSpeech>
+      <Inflections>
+        <Inflection Lemma="εἴδωλον" BaseFormIndex="1">
+          <Form/>
+          <Realizations>
+            <Realization>-ου</Realization>
+          </Realizations>
+          <Comments/>
+        </Inflection>
+      </Inflections>
+      <RelatedLemmas>
+        <RelatedLemma>
+          <Word>εἶδος</Word>
+        </RelatedLemma>
+      </RelatedLemmas>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="001518001001000" IsBiblicalTerm="M" EntryCode="6.97" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Artifacts</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Images and Idols</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-10-27 01:48:15" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>an object which resembles a person, animal, god, etc. and which is an object of worship{N:001}</DefinitionShort>
+              <Glosses>
+                <Gloss>idol</Gloss>
+                <Gloss>(image)</Gloss>
+              </Glosses>
+              <Comments>The technical distinction between an image and an idol is that an image may merely represent a supernatural being, while an idol not only represents such a being but is believed to possess certain inherent supernatural powers. Images often become idols when they are assumed to possess such powers in and of themselves rather than being mere representations of some supernatural entity. If, for example, various images of a particular supernatural being are supposed to have different healing powers, then what began merely as images or representations of a supernatural power have become idols, in that the different images themselves have acquired special efficacy.|Though the existence of idols and corresponding terms for them are widespread, idols are by no means universal, and therefore it may be necessary in some languages to employ some type of descriptive equivalent, for example, ‘objects that are made to look like gods’ or ‘carved statues that are considered to be gods.’</Comments>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04400704100022</LEXReference>
+            <LEXReference>04500202200018</LEXReference>
+            <LEXReference>04600800400020</LEXReference>
+            <LEXReference>04600800700028</LEXReference>
+            <LEXReference>04601001900020</LEXReference>
+            <LEXReference>04601200200016</LEXReference>
+            <LEXReference>04700601600014</LEXReference>
+            <LEXReference>05200100900038</LEXReference>
+            <LEXReference>06600902000056</LEXReference>
+          </LEXReferences>
+          <LEXLinks>
+            <LEXLink>realia:4.6</LEXLink>
+          </LEXLinks>
+          <LEXVideos/>
+        </LEXMeaning>
+        <LEXMeaning Id="001518001002000" IsBiblicalTerm="M" EntryCode="12.23" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Supernatural Beings and Powers</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Supernatural Beings</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-10-27 01:48:15" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>(a figurative extension of meaning of {L:εἴδωλον&lt;SDBG:εἴδωλον:000000&gt;}[a] ‘idol,’ {D:6.97}) an unreal supernatural being</DefinitionShort>
+              <Glosses>
+                <Gloss>false god</Gloss>
+              </Glosses>
+              <Comments>A ‘false god’ may be rendered as ‘that which seems to be a god.’ In {S:06200502100012} one may speak of ‘those that seem to be gods but really are not.’|It is also possible, however, to interpret εἴδωλον in {S:06200502100012} as being simply an idol.</Comments>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04401502000018</LEXReference>
+            <LEXReference>05200100900038</LEXReference>
+            <LEXReference>06200502100012</LEXReference>
+          </LEXReferences>
+          <LEXLinks>
+            <LEXLink>realia:4.6</LEXLink>
+          </LEXLinks>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

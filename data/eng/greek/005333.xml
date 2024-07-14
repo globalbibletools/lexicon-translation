@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="005333000000000" Lemma="φυσικός" Version="0" HasAramaic="false" InLXX="false" AlphaPos="φ">
+  <StrongCodes>
+    <Strong>G5446</Strong>
+  </StrongCodes>
+  <Authors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes/>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="005333001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>adjc.</PartOfSpeech>
+      </PartsOfSpeech>
+      <Inflections>
+        <Inflection Lemma="φυσικός" BaseFormIndex="1">
+          <Form/>
+          <Realizations>
+            <Realization>-ή, -όν</Realization>
+          </Realizations>
+          <Comments/>
+        </Inflection>
+      </Inflections>
+      <RelatedLemmas>
+        <RelatedLemma>
+          <Word>φύω</Word>
+        </RelatedLemma>
+      </RelatedLemmas>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="005333001001000" IsBiblicalTerm="Y" EntryCode="58.9" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Nature, Class, Example</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Nature, Character</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2022-05-30 14:47:35" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>pertaining to that which is in accordance with the nature or character of something</DefinitionShort>
+              <Glosses>
+                <Gloss>natural</Gloss>
+                <Gloss>naturally</Gloss>
+                <Gloss>by nature</Gloss>
+                <Gloss>by instinct</Gloss>
+              </Glosses>
+              <Comments>For some languages the equivalent of ‘being in accordance with nature’ is simply ‘being as it should be’ ({S:04500102600034}). For {S:06100201200014}, in place of an expression such as ‘natural creatures’ a more appropriate equivalent in some languages is simply ‘animals.’</Comments>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04500102600034</LEXReference>
+            <LEXReference>04500102700016</LEXReference>
+            <LEXReference>06100201200014</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="004344000000000" Lemma="πυνθάνομαι" Version="0" HasAramaic="false" InLXX="true" AlphaPos="π">
+  <StrongCodes>
+    <Strong>G4441</Strong>
+  </StrongCodes>
+  <Authors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes/>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="004344001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>verb</PartOfSpeech>
+      </PartsOfSpeech>
+      <Inflections>
+        <Inflection Lemma="πυνθάνομαι" BaseFormIndex="1">
+          <Form>aor.</Form>
+          <Realizations>
+            <Realization>ἐπυθόμην</Realization>
+          </Realizations>
+          <Comments/>
+        </Inflection>
+        <Inflection Lemma="πυνθάνομαι" BaseFormIndex="1">
+          <Form>ptc.</Form>
+          <Realizations>
+            <Realization>πυθόμενος</Realization>
+          </Realizations>
+          <Comments/>
+        </Inflection>
+      </Inflections>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="004344001001000" IsBiblicalTerm="Y" EntryCode="33.181" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Communication</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Question, Answer</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2022-02-07 14:08:05" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>to inquire about something</DefinitionShort>
+              <Glosses>
+                <Gloss>to inquire</Gloss>
+                <Gloss>to make an inquiry</Gloss>
+                <Gloss>to ask</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04000200400020</LEXReference>
+            <LEXReference>04201502600012</LEXReference>
+            <LEXReference>04201803600010</LEXReference>
+            <LEXReference>04300405200002</LEXReference>
+            <LEXReference>04301302400012</LEXReference>
+            <LEXReference>04400400700014</LEXReference>
+            <LEXReference>04401001800006</LEXReference>
+            <LEXReference>04401002900012</LEXReference>
+            <LEXReference>04402103300026</LEXReference>
+            <LEXReference>04402301900024</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+        <LEXMeaning Id="004344001002000" IsBiblicalTerm="Y" EntryCode="27.11" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Learn</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Learn</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2022-02-07 14:08:05" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>to acquire information by questioning</DefinitionShort>
+              <Glosses>
+                <Gloss>to learn about</Gloss>
+                <Gloss>to find out about by inquiry</Gloss>
+              </Glosses>
+              <Comments>Since πυνθάνομαι[b] and διερωτάω imply quite distinct semantic components, namely ‘to acquire information’ and ‘by the process of questioning,’ it may be appropriate in many languages to use two verbs meaning ‘to ask’ and ‘to find out.’ Accordingly, this expression in {S:04401001700046} may be rendered as ‘meanwhile, men sent by Cornelius asked and learned where Simon’s house was.’</Comments>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04402302000044</LEXReference>
+            <LEXReference>04402303400020</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

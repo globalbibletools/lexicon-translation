@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="000542000000000" Lemma="ἀπείθεια" Version="0" HasAramaic="false" InLXX="true" AlphaPos="α">
+  <StrongCodes>
+    <Strong>G0543</Strong>
+  </StrongCodes>
+  <Authors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes/>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="000542001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>noun, f.</PartOfSpeech>
+      </PartsOfSpeech>
+      <Inflections>
+        <Inflection Lemma="ἀπείθεια" BaseFormIndex="1">
+          <Form/>
+          <Realizations>
+            <Realization>-ας</Realization>
+          </Realizations>
+          <Comments/>
+        </Inflection>
+      </Inflections>
+      <Constructs>
+        <Construct Lemma="ἀπείθεια" BaseFormIndex="1">
+          <WordMeaningSet>
+            <Word>ἀ-</Word>
+          </WordMeaningSet>
+          <WordMeaningSet>
+            <Word>πείθω</Word>
+          </WordMeaningSet>
+        </Construct>
+      </Constructs>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="000542001001000" IsBiblicalTerm="M" EntryCode="36.23" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Guide, Discipline, Follow</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Obey, Disobey</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-08-11 14:14:20" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>unwillingness or refusal to comply with the demands of some authority</DefinitionShort>
+              <Glosses>
+                <Gloss>to disobey</Gloss>
+                <Gloss>disobedience</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04501103000026</LEXReference>
+            <LEXReference>04501103200016</LEXReference>
+            <LEXReference>04900200200054</LEXReference>
+            <LEXReference>04900500600036</LEXReference>
+            <LEXReference>05100300600024</LEXReference>
+            <LEXReference>05800400600030</LEXReference>
+            <LEXReference>05800401100034</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+        <LEXMeaning Id="000542001002000" IsBiblicalTerm="M" EntryCode="31.107" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Hold a View, Believe, Trust</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Be a Believer, Christian Faith</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-08-11 14:14:20" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>to refuse to believe the Christian message</DefinitionShort>
+              <Glosses>
+                <Gloss>to refuse to be a believer</Gloss>
+                <Gloss>to reject the Christian message</Gloss>
+                <Gloss>to refuse to believe</Gloss>
+              </Glosses>
+              <Comments>It is also possible to interpret ἀπείθεια in {S:04900200200054} as overt disobedience to God (see {D:36.23}).</Comments>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04900200200054</LEXReference>
+            <LEXReference>05800400600030</LEXReference>
+            <LEXReference>05800401100034</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

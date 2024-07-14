@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="004809000000000" Lemma="συνεσθίω" Version="0" HasAramaic="false" InLXX="true" AlphaPos="σ">
+  <StrongCodes>
+    <Strong>G4906</Strong>
+  </StrongCodes>
+  <Authors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes/>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="004809001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>verb</PartOfSpeech>
+      </PartsOfSpeech>
+      <Inflections>
+        <Inflection Lemma="συνεσθίω" BaseFormIndex="1">
+          <Form>aor.</Form>
+          <Realizations>
+            <Realization>συνέφαγον</Realization>
+          </Realizations>
+          <Comments/>
+        </Inflection>
+      </Inflections>
+      <RelatedLemmas>
+        <RelatedLemma>
+          <Word>ἐσθίω</Word>
+        </RelatedLemma>
+      </RelatedLemmas>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="004809001001000" IsBiblicalTerm="Y" EntryCode="23.12" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Physiological Processes and States</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Eat, Drink</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2022-03-14 15:50:22" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>to eat together with others</DefinitionShort>
+              <Glosses>
+                <Gloss>to eat together</Gloss>
+              </Glosses>
+              <Comments>In a number of languages a term meaning ‘to eat together with others’ is completely distinct from an expression referring to eating by one person. Furthermore, a term meaning basically ‘to eat together’ may focus primarily on conviviality and feasting rather than merely on the process of eating. In {S:04401100300018} there is no indication of ‘feasting.’</Comments>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04201500200030</LEXReference>
+            <LEXReference>04401004100028</LEXReference>
+            <LEXReference>04401100300018</LEXReference>
+            <LEXReference>04600501100052</LEXReference>
+            <LEXReference>04800201200022</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

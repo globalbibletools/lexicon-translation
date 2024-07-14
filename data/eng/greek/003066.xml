@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="003066000000000" Lemma="λίτρα" Version="0" HasAramaic="false" InLXX="false" AlphaPos="λ">
+  <StrongCodes>
+    <Strong>G3046</Strong>
+  </StrongCodes>
+  <Authors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes/>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="003066001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>noun, f.</PartOfSpeech>
+      </PartsOfSpeech>
+      <Inflections>
+        <Inflection Lemma="λίτρα" BaseFormIndex="1">
+          <Form/>
+          <Realizations>
+            <Realization>-ας</Realization>
+          </Realizations>
+          <Comments/>
+        </Inflection>
+      </Inflections>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="003066001001000" IsBiblicalTerm="Y" EntryCode="86.4" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Weight</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Pound, Talent [Specific Units of Weight]</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-11-11 12:40:44" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>a Roman pound, weighing about twelve ounces or about 325 grams</DefinitionShort>
+              <Glosses>
+                <Gloss>pound</Gloss>
+                <Gloss>pint</Gloss>
+              </Glosses>
+              <Comments>In speaking of perfume in {S:04301200300010} it may be far better to indicate quantity rather than weight, and therefore one may translate ‘then Mary took a pint of perfume.’ In translating λίτρα in the NT, one need not identify the pound as being ‘a Roman pound.’ It is better to employ a common term for pound (normally weighing sixteen ounces) or to provide a rounded-off equivalent of the amount in metric units, for example, three hundred grams or one-half liter.</Comments>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04301200300010</LEXReference>
+            <LEXReference>04301903900036</LEXReference>
+          </LEXReferences>
+          <LEXLinks>
+            <LEXLink>realia:11.1.5</LEXLink>
+          </LEXLinks>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

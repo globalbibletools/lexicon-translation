@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="002556000000000" Lemma="חֹרֶף" Version="5" HasAramaic="false" InLXX="false" AlphaPos="ח">
+  <StrongCodes>
+    <Strong>H2779</Strong>
+  </StrongCodes>
+  <Authors>
+    <Author>Reinier de Blois</Author>
+  </Authors>
+  <Contributors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes/>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="002556001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>nsm</PartOfSpeech>
+      </PartsOfSpeech>
+      <RelatedNames>
+        <RelatedName>
+          <Word>אֱלִיחֹרֶף</Word>
+        </RelatedName>
+        <RelatedName>
+          <Word>חָרִיף</Word>
+        </RelatedName>
+      </RelatedNames>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="002556001001000" IsBiblicalTerm="M" EntryCode="" Indent="0">
+          <LEXDomains>
+            <LEXDomain Code="002002002010">Time</LEXDomain>
+          </LEXDomains>
+          <LEXSynonyms>
+            <LEXSynonym>קֹר</LEXSynonym>
+          </LEXSynonyms>
+          <LEXAntonyms>
+            <LEXAntonym>קַיִץ</LEXAntonym>
+          </LEXAntonyms>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2010-05-04 17:49:06" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>= cold season of the year; also time of plowing; opposite of {L:קַיִץ&lt;SDBH:קַיִץ&gt;}; ≈ sometimes associated with hard work</DefinitionShort>
+              <Glosses>
+                <Gloss>autumn</Gloss>
+                <Gloss>winter</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>00100802200032</LEXReference>
+            <LEXReference>01907401700016</LEXReference>
+            <LEXReference>02002000400004</LEXReference>
+            <LEXReference>02403602200014</LEXReference>
+            <LEXReference>03000301500010</LEXReference>
+            <LEXReference>03801400800064</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+          <LEXCoreDomains>
+            <LEXCoreDomain Code="180">Time</LEXCoreDomain>
+          </LEXCoreDomains>
+        </LEXMeaning>
+        <LEXMeaning Id="002556001002000" IsBiblicalTerm="Y" EntryCode="" Indent="0">
+          <LEXDomains>
+            <LEXDomain Code="002002002010">Time</LEXDomain>
+          </LEXDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2018-01-14 14:30:20" LastEditedBy="administrator">
+              <DefinitionLong/>
+              <DefinitionShort>= time of harvest in life, when man has gained maturity and wisdom</DefinitionShort>
+              <Glosses>
+                <Gloss>prime of life</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>01802900400012</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+          <LEXCoreDomains>
+            <LEXCoreDomain Code="099">Life and Death</LEXCoreDomain>
+            <LEXCoreDomain Code="172">Strength</LEXCoreDomain>
+            <LEXCoreDomain Code="199">Wisdom</LEXCoreDomain>
+          </LEXCoreDomains>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

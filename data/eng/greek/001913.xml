@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="001913000000000" Lemma="ἔπειμι" Version="0" HasAramaic="false" InLXX="true" AlphaPos="ε">
+  <StrongCodes>
+    <Strong>G1966a</Strong>
+  </StrongCodes>
+  <Authors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes>
+    <Note Caller="1" LanguageCode="en" LastEdited="" LastEditedBy="">
+      <References/>
+      <Content>Rather than treat these phrases as lexical units, one can interpret them as elliptical expressions with the omission of the dative of ἡμέρα[a] day ({D:67.178}).</Content>
+    </Note>
+  </Notes>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="001913001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>verb</PartOfSpeech>
+      </PartsOfSpeech>
+      <Inflections>
+        <Inflection Lemma="ἔπειμι" BaseFormIndex="1">
+          <Form>pres.ptc.fem.</Form>
+          <Realizations>
+            <Realization>ἐπιοῦσα</Realization>
+          </Realizations>
+          <Comments/>
+        </Inflection>
+      </Inflections>
+      <RelatedLemmas>
+        <RelatedLemma>
+          <Word>εἶμι</Word>
+          <Meaning LanguageCode="en">
+            <Meaning>come, go</Meaning>
+          </Meaning>
+          <Meaning LanguageCode="zhT">
+            <Meaning>來，去</Meaning>
+          </Meaning>
+        </RelatedLemma>
+      </RelatedLemmas>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="001913001001000" IsBiblicalTerm="Y" EntryCode="67.208" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Time</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Units of Time with Reference to Other Units or Points of Time: Yesterday, Today, Next Day</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXCollocations>
+            <LEXCollocation>τῇ ἐπιούσῃ</LEXCollocation>
+          </LEXCollocations>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-06-16 08:55:53" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>a day immediately following a previous day{N:001}</DefinitionShort>
+              <Glosses>
+                <Gloss>the next day</Gloss>
+                <Gloss>on the next day</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04400702600006</LEXReference>
+            <LEXReference>04401601100020</LEXReference>
+            <LEXReference>04402001500008</LEXReference>
+            <LEXReference>04402101800006</LEXReference>
+            <LEXReference>04402301100006</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

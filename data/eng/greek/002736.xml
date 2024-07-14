@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="002736000000000" Lemma="κατηχέω" Version="0" HasAramaic="false" InLXX="false" AlphaPos="κ">
+  <StrongCodes>
+    <Strong>G2727</Strong>
+  </StrongCodes>
+  <Authors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes/>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="002736001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>verb</PartOfSpeech>
+      </PartsOfSpeech>
+      <RelatedLemmas>
+        <RelatedLemma>
+          <Word>ἠχέω</Word>
+        </RelatedLemma>
+      </RelatedLemmas>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="002736001001000" IsBiblicalTerm="Y" EntryCode="33.225" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Communication</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Teach</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-09-30 11:11:32" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>to teach in a systematic or detailed manner</DefinitionShort>
+              <Glosses>
+                <Gloss>to instruct</Gloss>
+                <Gloss>to teach</Gloss>
+              </Glosses>
+              <Comments>It is also possible to understand κατηχέω in {S:04200100400010} as denoting merely what has been told rather than what has been taught (see {L:κατηχέω&lt;SDBG:κατηχέω:000001&gt;}[b], {D:33.190}). This distinction is an important one since it implies a quite different relationship of Theophilus to the text of the Gospel of Luke. If {S:04200100400010} pertains merely to Theophilus ‘being told’ something, then one might assume that Theophilus was not a Christian, in which case he may have been a government official to whom the joint publications (the Gospel of Luke and the Acts of the Apostles) would have been directed as a defense of Christianity. On the other hand, if one understands κατηχέω in the sense of ‘to be taught’ or ‘to be instructed,’ then one would assume that Theophilus was a Christian who had been instructed in the faith. The relationship of Theophilus to the message would then determine in a number of contexts the difference between ‘we’ inclusive and ‘we’ exclusive.</Comments>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04200100400010</LEXReference>
+            <LEXReference>04401802500006</LEXReference>
+            <LEXReference>04500201800018</LEXReference>
+            <LEXReference>04601401900028</LEXReference>
+            <LEXReference>04800600600008</LEXReference>
+            <LEXReference>04800600600016</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+        <LEXMeaning Id="002736001002000" IsBiblicalTerm="Y" EntryCode="33.190" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Communication</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Inform, Announce</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-09-30 11:11:32" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>to report in a relatively detailed manner</DefinitionShort>
+              <Glosses>
+                <Gloss>to report</Gloss>
+                <Gloss>to tell</Gloss>
+                <Gloss>to in form</Gloss>
+              </Glosses>
+              <Comments>It is also possible to understand {L:κατηχέω&lt;SDBG:κατηχέω:000000&gt;} in {S:04200100400010} as systematic teaching (see {D:33.225}).</Comments>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04200100400010</LEXReference>
+            <LEXReference>04402102100002</LEXReference>
+            <LEXReference>04402102400038</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

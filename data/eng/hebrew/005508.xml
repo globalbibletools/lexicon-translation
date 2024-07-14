@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="005508000000000" Lemma="עמם" Version="5" HasAramaic="false" InLXX="false" AlphaPos="ע">
+  <StrongCodes>
+    <Strong>H6004</Strong>
+  </StrongCodes>
+  <Authors>
+    <Author>Reinier de Blois</Author>
+  </Authors>
+  <Contributors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes/>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="005508001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>vb</PartOfSpeech>
+      </PartsOfSpeech>
+      <RelatedLemmas>
+        <RelatedLemma>
+          <Word>עַם</Word>
+        </RelatedLemma>
+        <RelatedLemma>
+          <Word>עֻמָּה</Word>
+        </RelatedLemma>
+      </RelatedLemmas>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="005508001001000" IsBiblicalTerm="Y" EntryCode="" Indent="0">
+          <LEXDomains>
+            <LEXDomain Code="002001001018">Dark</LEXDomain>
+          </LEXDomains>
+          <LEXForms>
+            <LEXForm>vbhof-</LEXForm>
+          </LEXForms>
+          <LEXValencies>
+            <LEXValency>v</LEXValency>
+          </LEXValencies>
+          <LEXSynonyms>
+            <LEXSynonym>שׁנא</LEXSynonym>
+          </LEXSynonyms>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2009-11-27 11:29:25" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>= process by which an object loses its ability to reflect light</DefinitionShort>
+              <Glosses>
+                <Gloss>to grow dim</Gloss>
+                <Gloss>to grow dull</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>02500400100004</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+          <LEXCoreDomains>
+            <LEXCoreDomain Code="100">Light and Darkness</LEXCoreDomain>
+          </LEXCoreDomains>
+        </LEXMeaning>
+        <LEXMeaning Id="005508001002000" IsBiblicalTerm="Y" EntryCode="" Indent="0">
+          <LEXDomains>
+            <LEXDomain Code="002001001028">Good</LEXDomain>
+          </LEXDomains>
+          <LEXForms>
+            <LEXForm>vbqal-</LEXForm>
+          </LEXForms>
+          <LEXValencies>
+            <LEXValency>v X</LEXValency>
+          </LEXValencies>
+          <LEXSynonyms>
+            <LEXSynonym>דמה</LEXSynonym>
+          </LEXSynonyms>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2009-11-27 11:29:25" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>= state in which human or objects are comparable in quality and/or status to other humans or objects</DefinitionShort>
+              <Glosses>
+                <Gloss>to compare with</Gloss>
+                <Gloss>to rival</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>02602800300022</LEXReference>
+            <LEXReference>02603100800006</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+          <LEXCoreDomains>
+            <LEXCoreDomain Code="137">Quality</LEXCoreDomain>
+            <LEXCoreDomain Code="170">Status</LEXCoreDomain>
+          </LEXCoreDomains>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="000748000000000" Lemma="ἀρχισυνάγωγος" Version="0" HasAramaic="false" InLXX="false" AlphaPos="α">
+  <StrongCodes>
+    <Strong>G0752</Strong>
+  </StrongCodes>
+  <Authors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes/>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="000748001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>noun, m.</PartOfSpeech>
+      </PartsOfSpeech>
+      <Inflections>
+        <Inflection Lemma="ἀρχισυνάγωγος" BaseFormIndex="1">
+          <Form/>
+          <Realizations>
+            <Realization>-ου</Realization>
+          </Realizations>
+          <Comments/>
+        </Inflection>
+      </Inflections>
+      <Constructs>
+        <Construct Lemma="ἀρχισυνάγωγος" BaseFormIndex="1">
+          <WordMeaningSet>
+            <Word>ἄρχω</Word>
+          </WordMeaningSet>
+          <WordMeaningSet>
+            <Word>ἄγω</Word>
+          </WordMeaningSet>
+        </Construct>
+      </Constructs>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="000748001001000" IsBiblicalTerm="M" EntryCode="53.93" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Religious Activities</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Roles and Functions</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2022-09-13 15:18:18" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>one who is the head of and who directs the affairs of a synagogue</DefinitionShort>
+              <Glosses>
+                <Gloss>president of a synagogue</Gloss>
+                <Gloss>leader of a synagogue</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04100502200010</LEXReference>
+            <LEXReference>04100503500014</LEXReference>
+            <LEXReference>04100503600020</LEXReference>
+            <LEXReference>04100503800014</LEXReference>
+            <LEXReference>04200804900016</LEXReference>
+            <LEXReference>04201301400008</LEXReference>
+            <LEXReference>04401301500024</LEXReference>
+            <LEXReference>04401800800008</LEXReference>
+            <LEXReference>04401801700012</LEXReference>
+          </LEXReferences>
+          <LEXLinks>
+            <LEXLink>realia:3.17</LEXLink>
+          </LEXLinks>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

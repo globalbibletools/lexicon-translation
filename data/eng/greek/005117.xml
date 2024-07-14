@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="005117000000000" Lemma="ὑπεράνω" Version="0" HasAramaic="false" InLXX="true" AlphaPos="υ">
+  <StrongCodes>
+    <Strong>G5231</Strong>
+  </StrongCodes>
+  <Authors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes/>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="005117001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>prep. (with gen.)</PartOfSpeech>
+      </PartsOfSpeech>
+      <Constructs>
+        <Construct Lemma="ὑπεράνω" BaseFormIndex="1">
+          <WordMeaningSet>
+            <Word>ὑπέρ</Word>
+          </WordMeaningSet>
+          <WordMeaningSet>
+            <Word>ἀνά</Word>
+          </WordMeaningSet>
+        </Construct>
+      </Constructs>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="005117001001000" IsBiblicalTerm="Y" EntryCode="83.49" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Spacial Positions</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Above, Below</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2022-04-19 08:24:21" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>a position above another, whether or not in contact</DefinitionShort>
+              <Glosses>
+                <Gloss>above</Gloss>
+                <Gloss>over</Gloss>
+                <Gloss>on</Gloss>
+                <Gloss>upon</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04900401000016</LEXReference>
+            <LEXReference>05800900500002</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+        <LEXMeaning Id="005117001002000" IsBiblicalTerm="Y" EntryCode="87.31" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Status</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>High Status or Rank [including persons of high status]</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2022-04-19 08:24:21" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>a marker of superior status, suggesting an additional factor of degree</DefinitionShort>
+              <Glosses>
+                <Gloss>far above</Gloss>
+                <Gloss>considerably superior to</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04900102100002</LEXReference>
+            <LEXReference>04900401000016</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

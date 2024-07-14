@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="004903000000000" Lemma="ταβέρνη" Version="0" HasAramaic="false" InLXX="false" AlphaPos="τ">
+  <StrongCodes>
+    <Strong>G4999</Strong>
+  </StrongCodes>
+  <Authors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes/>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="004903001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>noun-name, f.</PartOfSpeech>
+      </PartsOfSpeech>
+      <Inflections>
+        <Inflection Lemma="ταβέρνη" BaseFormIndex="1">
+          <Form/>
+          <Realizations>
+            <Realization>-ης</Realization>
+          </Realizations>
+          <Comments/>
+        </Inflection>
+      </Inflections>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="004903001001000" IsBiblicalTerm="M" EntryCode="7.11" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Constructions</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Buildings</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2022-03-17 16:26:30" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>a place for the lodging of travellers</DefinitionShort>
+              <Glosses>
+                <Gloss>inn</Gloss>
+              </Glosses>
+              <Comments>ταβέρνη occurs in the NT only as a part of a place name, Τριῶν Ταβερνῶν ‘Three Taverns’ ({S:04402801500034}).</Comments>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04402801500034</LEXReference>
+          </LEXReferences>
+          <LEXLinks>
+            <LEXLink>realia:3.3</LEXLink>
+          </LEXLinks>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="001628000000000" Lemma="ἐκτείνω" Version="0" HasAramaic="false" InLXX="true" AlphaPos="ε">
+  <StrongCodes>
+    <Strong>G1614</Strong>
+  </StrongCodes>
+  <Authors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes>
+    <Note Caller="1" LanguageCode="en" LastEdited="" LastEditedBy="">
+      <References/>
+      <Content>With ἐκτείνω and ἐκπετάννυμι there is a type of movement in space, but only a movement of an extremity, not of the base from which the extension takes place. There is a sense in which the occurrence of hand with ἐκτείνω and ἐκπετάννυμι involves the motion of a body part (see Domain 18 Attachment), but since the same terms may be used not only of body parts but of any object which may be extended, it seems more satisfactory to classify all of these related meanings together.</Content>
+    </Note>
+  </Notes>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="001628001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>verb</PartOfSpeech>
+      </PartsOfSpeech>
+      <Inflections>
+        <Inflection Lemma="ἐκτείνω" BaseFormIndex="1">
+          <Form>fut.</Form>
+          <Realizations>
+            <Realization>ἐκτενῶ</Realization>
+          </Realizations>
+          <Comments/>
+        </Inflection>
+        <Inflection Lemma="ἐκτείνω" BaseFormIndex="1">
+          <Form>aor.</Form>
+          <Realizations>
+            <Realization>ἐξέτεινα</Realization>
+          </Realizations>
+          <Comments/>
+        </Inflection>
+      </Inflections>
+      <RelatedLemmas>
+        <RelatedLemma>
+          <Word>τείνω</Word>
+          <Meaning LanguageCode="en">
+            <Meaning>stretch, reach</Meaning>
+          </Meaning>
+          <Meaning LanguageCode="zhT">
+            <Meaning>伸長，達到</Meaning>
+          </Meaning>
+        </RelatedLemma>
+        <RelatedLemma>
+          <Word>ἐκτένεια</Word>
+        </RelatedLemma>
+        <RelatedLemma>
+          <Word>ἐκτενέστερον</Word>
+        </RelatedLemma>
+        <RelatedLemma>
+          <Word>ἐκτενής</Word>
+        </RelatedLemma>
+        <RelatedLemma>
+          <Word>ἐκτενῶς</Word>
+        </RelatedLemma>
+      </RelatedLemmas>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="001628001001000" IsBiblicalTerm="Y" EntryCode="16.19" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Non-Linear Movement</LEXDomain>
+          </LEXDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-10-28 14:52:56" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>to cause an object to extend in space (for example, by becoming straight, unfolded, or uncoiled){N:001}</DefinitionShort>
+              <Glosses>
+                <Gloss>to stretch out</Gloss>
+                <Gloss>to extend</Gloss>
+                <Gloss>to reach out</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04000800300004</LEXReference>
+            <LEXReference>04001201300010</LEXReference>
+            <LEXReference>04001201300020</LEXReference>
+            <LEXReference>04001204900004</LEXReference>
+            <LEXReference>04001403100010</LEXReference>
+            <LEXReference>04002605100014</LEXReference>
+            <LEXReference>04100104100006</LEXReference>
+            <LEXReference>04100300500032</LEXReference>
+            <LEXReference>04100300500040</LEXReference>
+            <LEXReference>04200501300004</LEXReference>
+            <LEXReference>04200601000014</LEXReference>
+            <LEXReference>04302101800034</LEXReference>
+            <LEXReference>04400403000012</LEXReference>
+            <LEXReference>04402600100030</LEXReference>
+            <LEXReference>04402703000044</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+        <LEXMeaning Id="001628001002000" IsBiblicalTerm="M" EntryCode="37.110" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Control, Rule</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Seize, Take into Custody</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXCollocations>
+            <LEXCollocation>ἐκτείνω τὰς χεῖρας ἐπί</LEXCollocation>
+          </LEXCollocations>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-10-28 14:52:56" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>(an idiom, literally to stretch out hands upon) to take a person into custody for alleged illegal activity</DefinitionShort>
+              <Glosses>
+                <Gloss>to seize</Gloss>
+                <Gloss>to arrest</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04202205300022</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

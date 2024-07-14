@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="004901000000000" Lemma="σωφροσύνη" Version="0" HasAramaic="false" InLXX="true" AlphaPos="σ">
+  <StrongCodes>
+    <Strong>G4997</Strong>
+  </StrongCodes>
+  <Authors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes/>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="004901001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>noun, f.</PartOfSpeech>
+      </PartsOfSpeech>
+      <Inflections>
+        <Inflection Lemma="σωφροσύνη" BaseFormIndex="1">
+          <Form/>
+          <Realizations>
+            <Realization>-ης</Realization>
+          </Realizations>
+          <Comments/>
+        </Inflection>
+      </Inflections>
+      <Constructs>
+        <Construct Lemma="σωφροσύνη" BaseFormIndex="1">
+          <WordMeaningSet>
+            <Word>σῴζω</Word>
+          </WordMeaningSet>
+          <WordMeaningSet>
+            <Word>φρονέω</Word>
+          </WordMeaningSet>
+        </Construct>
+      </Constructs>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="004901001001000" IsBiblicalTerm="M" EntryCode="32.34" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Understand</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Capacity for Understanding</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2022-03-17 16:25:39" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>to have understanding about practical matters and thus be able to act sensibly</DefinitionShort>
+              <Glosses>
+                <Gloss>to have sound judgment</Gloss>
+                <Gloss>to be sensible</Gloss>
+                <Gloss>to use good sense</Gloss>
+                <Gloss>sound judgment</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04402602500024</LEXReference>
+            <LEXReference>05400200900020</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+        <LEXMeaning Id="004901001002000" IsBiblicalTerm="Y" EntryCode="88.93" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Moral and Ethical Qualities and Related Behavior</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Sensible Behavior, Senseless Behavior</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2022-03-17 16:25:39" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>to behave in a sensible manner, with the implication of thoughtful awareness of what is best</DefinitionShort>
+              <Glosses>
+                <Gloss>moderation</Gloss>
+                <Gloss>sensibility</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>05400201500030</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

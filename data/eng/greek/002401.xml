@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="002401000000000" Lemma="Ἰάσων" Version="0" HasAramaic="false" InLXX="false" AlphaPos="ι">
+  <StrongCodes>
+    <Strong>G2394</Strong>
+  </StrongCodes>
+  <Authors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes/>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="002401001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>noun-name, m.</PartOfSpeech>
+      </PartsOfSpeech>
+      <Inflections>
+        <Inflection Lemma="Ἰάσων" BaseFormIndex="1">
+          <Form/>
+          <Realizations>
+            <Realization>-ονος</Realization>
+          </Realizations>
+          <Comments/>
+        </Inflection>
+      </Inflections>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="002401001001000" IsBiblicalTerm="M" EntryCode="93.163a" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Names of Persons and Places</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Persons</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-08-24 11:58:30" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>the host of Paul and Silas in Thessalonica</DefinitionShort>
+              <Glosses>
+                <Gloss>Jason</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04401700500042</LEXReference>
+            <LEXReference>04401700600012</LEXReference>
+            <LEXReference>04401700700006</LEXReference>
+            <LEXReference>04401700900014</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+        <LEXMeaning Id="002401001002000" IsBiblicalTerm="Y" EntryCode="93.163b" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Names of Persons and Places</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Persons</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-08-24 11:58:30" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>a person who sends greetings in {S:04501602100020}</DefinitionShort>
+              <Glosses>
+                <Gloss>Jason</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04501602100020</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

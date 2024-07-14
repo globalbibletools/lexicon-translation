@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="007916000000000" Lemma="תַּקִּיף" Version="5" HasAramaic="true" InLXX="false" AlphaPos="ת">
+  <StrongCodes>
+    <Strong>H8623</Strong>
+    <Strong>A8624</Strong>
+  </StrongCodes>
+  <Authors>
+    <Author>Reinier de Blois</Author>
+  </Authors>
+  <Contributors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes>
+    <Note Caller="1" LanguageCode="en" LastEdited="" LastEditedBy="">
+      <References>
+        <Reference>02100601000042</Reference>
+      </References>
+      <Content>MT-Q שֶׁתַּקִּיף | MT-K שֶׁהַתְקִיף = {L:תקף&lt;SDBH:תקף&gt;}</Content>
+    </Note>
+  </Notes>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="007916001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>aj</PartOfSpeech>
+      </PartsOfSpeech>
+      <RelatedLemmas>
+        <RelatedLemma>
+          <Word>תקף</Word>
+        </RelatedLemma>
+      </RelatedLemmas>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="007916001001000" IsBiblicalTerm="Y" EntryCode="" Indent="0">
+          <LEXDomains>
+            <LEXDomain Code="002001001060">Strong</LEXDomain>
+          </LEXDomains>
+          <LEXAntonyms>
+            <LEXAntonym>תבר</LEXAntonym>
+          </LEXAntonyms>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2008-06-24 15:01:11" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>= state in which humans, deities, animals, and kingdoms are strong and powerful</DefinitionShort>
+              <Glosses>
+                <Gloss>strong</Gloss>
+                <Gloss>mighty</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>01500402000006</LEXReference>
+            <LEXReference>02100601000038</LEXReference>
+            <LEXReference>02100601000042{N:001}</LEXReference>
+            <LEXReference>02700204000012</LEXReference>
+            <LEXReference>02700204200032</LEXReference>
+            <LEXReference>02700303300018</LEXReference>
+            <LEXReference>02700700700034</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+          <LEXCoreDomains>
+            <LEXCoreDomain Code="172">Strength</LEXCoreDomain>
+          </LEXCoreDomains>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

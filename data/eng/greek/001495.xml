@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="001495000000000" Lemma="ἔγκυος" Version="0" HasAramaic="false" InLXX="true" AlphaPos="ε">
+  <StrongCodes>
+    <Strong>G1471</Strong>
+  </StrongCodes>
+  <Authors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes/>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="001495001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>adjc.</PartOfSpeech>
+      </PartsOfSpeech>
+      <Inflections>
+        <Inflection Lemma="ἔγκυος" BaseFormIndex="1">
+          <Form/>
+          <Realizations>
+            <Realization>-ον</Realization>
+          </Realizations>
+          <Comments/>
+        </Inflection>
+      </Inflections>
+      <RelatedLemmas>
+        <RelatedLemma>
+          <Word>κύω</Word>
+          <Meaning LanguageCode="en">
+            <Meaning>hold, contain</Meaning>
+          </Meaning>
+          <Meaning LanguageCode="zhT">
+            <Meaning>盛，容納</Meaning>
+          </Meaning>
+        </RelatedLemma>
+        <RelatedLemma>
+          <Word>κῦμα</Word>
+        </RelatedLemma>
+      </RelatedLemmas>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="001495001001000" IsBiblicalTerm="Y" EntryCode="23.50" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Physiological Processes and States</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Birth, Procreation</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-10-26 20:36:00" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>to be in a state of pregnancy.</DefinitionShort>
+              <Glosses>
+                <Gloss>pregnant</Gloss>
+                <Gloss>to be pregnant</Gloss>
+              </Glosses>
+              <Comments>This expression contrasts with the meaning of {L:συλλαμβάνω&lt;SDBG:συλλαμβάνω:000001&gt;}[b] {D:23.49} in that it seems to focus more upon the state of pregnancy rather than the event of conception.</Comments>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04200200500016</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

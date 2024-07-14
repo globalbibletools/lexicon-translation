@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="003120000000000" Lemma="μάγος" Version="0" HasAramaic="false" InLXX="true" AlphaPos="μ">
+  <StrongCodes>
+    <Strong>G3097</Strong>
+  </StrongCodes>
+  <Authors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes>
+    <Note Caller="1" LanguageCode="en" LastEdited="" LastEditedBy="">
+      <References/>
+      <Content>It would also be possible to classify μάγος in Domain 28 Know, in view of the highly specialized knowledge involved. Because of the religious implications of the role of a μάγος, this term is also classified under Domain 53 Religious Activities (see {D:53.97}). But the dominant semantic feature of μάγος a would seem to be reputed wisdom, and therefore it is treated in this domain, Understand (32).</Content>
+    </Note>
+  </Notes>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="003120001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>noun, m.</PartOfSpeech>
+      </PartsOfSpeech>
+      <Inflections>
+        <Inflection Lemma="μάγος" BaseFormIndex="1">
+          <Form/>
+          <Realizations>
+            <Realization>-ου</Realization>
+          </Realizations>
+          <Comments/>
+        </Inflection>
+      </Inflections>
+      <RelatedLemmas>
+        <RelatedLemma>
+          <Word>μαγεύω</Word>
+        </RelatedLemma>
+      </RelatedLemmas>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="003120001001000" IsBiblicalTerm="M" EntryCode="32.40" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Understand</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Capacity for Understanding</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-11-19 14:07:19" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>a person noted for unusual capacity of understanding based upon astrology (such persons were regarded as combining both secular and religious aspects of knowledge and understanding){N:001}</DefinitionShort>
+              <Glosses>
+                <Gloss>a wise man and priest</Gloss>
+                <Gloss>a magus</Gloss>
+              </Glosses>
+              <Comments>In {S:04000200100030} μάγοι may be translated as ‘men of wisdom who studied the stars.’</Comments>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04000200100030</LEXReference>
+            <LEXReference>04000200700012</LEXReference>
+            <LEXReference>04000201600016</LEXReference>
+            <LEXReference>04000201600074</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+        <LEXMeaning Id="003120001002000" IsBiblicalTerm="M" EntryCode="53.97" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Religious Activities</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Magic</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-11-19 14:07:19" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>(derivative of {L:μαγεύω&lt;SDBG:μαγεύω:000000&gt;} ‘to practice magic,’ {D:53.96}) one who practices magic and witchcraft</DefinitionShort>
+              <Glosses>
+                <Gloss>magician</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04401300600022</LEXReference>
+            <LEXReference>04401300800012</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

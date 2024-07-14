@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="001670000000000" Lemma="דלק" Version="5" HasAramaic="false" InLXX="false" AlphaPos="ד">
+  <StrongCodes>
+    <Strong>H1814</Strong>
+    <Strong>A1815</Strong>
+  </StrongCodes>
+  <Authors>
+    <Author>Enio R. Mueller</Author>
+  </Authors>
+  <Contributors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes>
+    <Note Caller="1" LanguageCode="en" LastEdited="" LastEditedBy="">
+      <References>
+        <Reference>01900701400016</Reference>
+      </References>
+      <Content>NJPS "makes his arrows sharp" (DCH counts with the possibility of a root דלק III "be sharp")</Content>
+    </Note>
+    <Note Caller="2" LanguageCode="en" LastEdited="" LastEditedBy="">
+      <References>
+        <Reference>02002602300014</Reference>
+      </References>
+      <Content>MT HOTTP-C NIV NJPS NJB | RSV NRSV REB GNT CEV {L:חָלָק&lt;SDBH:חָלָק&gt;} "smooth" | DCH postulates a root דלק IV "to pour forth" which results in a meaning similar to {L:חָלָק&lt;SDBH:חָלָק&gt;}</Content>
+    </Note>
+  </Notes>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="001670001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>vb</PartOfSpeech>
+      </PartsOfSpeech>
+      <RelatedLemmas>
+        <RelatedLemma>
+          <Word>דַּלֶּקֶת</Word>
+        </RelatedLemma>
+      </RelatedLemmas>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="001670001001000" IsBiblicalTerm="Y" EntryCode="" Indent="0">
+          <LEXDomains>
+            <LEXDomain Code="002001001010">Burn</LEXDomain>
+          </LEXDomains>
+          <LEXForms>
+            <LEXForm>vbqal-</LEXForm>
+          </LEXForms>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2015-10-01 12:17:56" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>= process by which an object is affected or consumed by fire</DefinitionShort>
+              <Glosses>
+                <Gloss>to burn</Gloss>
+                <Gloss>to flame</Gloss>
+                <Gloss>to be fiery</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>01900701400016{N:001}</LEXReference>
+            <LEXReference>02002602300014{N:002}</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+          <LEXCoreDomains>
+            <LEXCoreDomain Code="067">Fire</LEXCoreDomain>
+          </LEXCoreDomains>
+        </LEXMeaning>
+        <LEXMeaning Id="001670001002000" IsBiblicalTerm="Y" EntryCode="" Indent="0">
+          <LEXDomains>
+            <LEXDomain Code="002001001010">Burn</LEXDomain>
+          </LEXDomains>
+          <LEXForms>
+            <LEXForm>vbqal-</LEXForm>
+            <LEXForm>vbhif-</LEXForm>
+          </LEXForms>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2015-10-01 12:17:56" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>= causative action by which someone causes something else to be affected or consumed by fire</DefinitionShort>
+              <Glosses>
+                <Gloss>to set fire</Gloss>
+                <Gloss>to set on fire</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>02300501100026</LEXReference>
+            <LEXReference>03100101800032</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+          <LEXCoreDomains>
+            <LEXCoreDomain Code="067">Fire</LEXCoreDomain>
+          </LEXCoreDomains>
+        </LEXMeaning>
+        <LEXMeaning Id="001670001003000" IsBiblicalTerm="Y" EntryCode="" Indent="0">
+          <LEXDomains>
+            <LEXDomain Code="002001001010">Burn</LEXDomain>
+          </LEXDomains>
+          <LEXForms>
+            <LEXForm>vbhif-</LEXForm>
+          </LEXForms>
+          <LEXCollocations>
+            <LEXCollocation>דלק אֵשׁ</LEXCollocation>
+          </LEXCollocations>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2015-10-01 12:17:56" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>= causative action by which someone causes a fire to increase its intensity by stirring it or adding fuel</DefinitionShort>
+              <Glosses>
+                <Gloss>to kindle a fire</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>02602401000008</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+          <LEXCoreDomains>
+            <LEXCoreDomain Code="067">Fire</LEXCoreDomain>
+            <LEXCoreDomain Code="090">Intensity</LEXCoreDomain>
+          </LEXCoreDomains>
+        </LEXMeaning>
+        <LEXMeaning Id="001670001004000" IsBiblicalTerm="Y" EntryCode="" Indent="0">
+          <LEXDomains>
+            <LEXDomain Code="002002001011" Source="Burn" SourceCode="002001001010">Move</LEXDomain>
+          </LEXDomains>
+          <LEXForms>
+            <LEXForm>vbqal-</LEXForm>
+          </LEXForms>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2015-10-01 12:17:56" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>= action by which someone pursue someone else vigorously ◄ as if on fire</DefinitionShort>
+              <Glosses>
+                <Gloss>to pursue hotly</Gloss>
+                <Gloss>to chase</Gloss>
+                <Gloss>to hound</Gloss>
+                <Gloss>to hunt down</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>00103103600042</LEXReference>
+            <LEXReference>00901705300012</LEXReference>
+            <LEXReference>02500401900020</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+          <LEXCoreDomains>
+            <LEXCoreDomain Code="110" Source="Fire" SourceCode="067">Motion</LEXCoreDomain>
+          </LEXCoreDomains>
+        </LEXMeaning>
+        <LEXMeaning Id="001670001005000" IsBiblicalTerm="Y" EntryCode="" Indent="0">
+          <LEXDomains>
+            <LEXDomain Code="002003003021" Source="Move" SourceCode="002002001011">Unsafe</LEXDomain>
+          </LEXDomains>
+          <LEXForms>
+            <LEXForm>vbqal-</LEXForm>
+          </LEXForms>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2015-10-01 12:17:56" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>= causative action by which humans cause hardship to other humans ◄ as if continuously pursuing them</DefinitionShort>
+              <Glosses>
+                <Gloss>to hunt down &gt; to oppress</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>01901000200008</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+          <LEXCoreDomains>
+            <LEXCoreDomain Code="006">Aggression</LEXCoreDomain>
+            <LEXCoreDomain Code="196">Well-Being</LEXCoreDomain>
+          </LEXCoreDomains>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

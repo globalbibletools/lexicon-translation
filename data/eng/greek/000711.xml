@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="000711000000000" Lemma="ἅρμα" Version="0" HasAramaic="false" InLXX="true" AlphaPos="α">
+  <StrongCodes>
+    <Strong>G0716</Strong>
+  </StrongCodes>
+  <Authors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes/>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="000711001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>noun, n.</PartOfSpeech>
+      </PartsOfSpeech>
+      <Inflections>
+        <Inflection Lemma="ἅρμα" BaseFormIndex="1">
+          <Form/>
+          <Realizations>
+            <Realization>-τος</Realization>
+          </Realizations>
+          <Comments/>
+        </Inflection>
+      </Inflections>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="000711001001000" IsBiblicalTerm="M" EntryCode="6.52" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Artifacts</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Vehicles</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2022-09-13 13:13:21" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>open vehicle with two or four wheels; harnessed to and pulled by horses; used in war or for travelling</DefinitionShort>
+              <Glosses>
+                <Gloss>chariot</Gloss>
+              </Glosses>
+              <Comments>In {S:06600900900030} the reference is to war chariots drawn by horses, while in {S:04400802800016 04400803800010} the reference is to a travelling chariot in which the Ethiopian official was riding. In languages which have no technical term for chariot, it is possible to speak of a war chariot as ‘a war carriage’ or ‘a horse-drawn cart for fighting.’ A travelling chariot may be described as ‘a travelling carriage’ or ‘a horse-drawn vehicle.’ A further description of such chariots may be given in a glossary.</Comments>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04400802800016</LEXReference>
+            <LEXReference>04400802900022</LEXReference>
+            <LEXReference>04400803800010</LEXReference>
+            <LEXReference>06600900900030</LEXReference>
+          </LEXReferences>
+          <LEXLinks>
+            <LEXLink>realia:2.15</LEXLink>
+          </LEXLinks>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

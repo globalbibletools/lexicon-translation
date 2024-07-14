@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="003705000000000" Lemma="ὀψώνιον" Version="0" HasAramaic="false" InLXX="true" AlphaPos="ο">
+  <StrongCodes>
+    <Strong>G3800</Strong>
+  </StrongCodes>
+  <Authors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes/>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="003705001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>noun, n.</PartOfSpeech>
+      </PartsOfSpeech>
+      <Inflections>
+        <Inflection Lemma="ὀψώνιον" BaseFormIndex="1">
+          <Form/>
+          <Realizations>
+            <Realization>-ου</Realization>
+          </Realizations>
+          <Comments/>
+        </Inflection>
+      </Inflections>
+      <Constructs>
+        <Construct Lemma="ὀψώνιον" BaseFormIndex="1">
+          <WordMeaningSet>
+            <Word>ὀψάριον</Word>
+          </WordMeaningSet>
+          <WordMeaningSet>
+            <Word>ὠνέομαι</Word>
+          </WordMeaningSet>
+        </Construct>
+      </Constructs>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="003705001001000" IsBiblicalTerm="Y" EntryCode="57.166" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Possess, Transfer, Exchange</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Pay, Price, Cost</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-12-16 11:32:53" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>the payment made to soldiers as ration money</DefinitionShort>
+              <Glosses>
+                <Gloss>pay</Gloss>
+                <Gloss>compensation</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04200301400042</LEXReference>
+            <LEXReference>04600900700008</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+        <LEXMeaning Id="003705001002000" IsBiblicalTerm="Y" EntryCode="57.118" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Possess, Transfer, Exchange</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Give</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-12-16 11:32:53" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>money which is needed for living expenses</DefinitionShort>
+              <Glosses>
+                <Gloss>money for support</Gloss>
+                <Gloss>money to live on</Gloss>
+              </Glosses>
+              <Comments>ὀψώνιον in {S:04701100800010} may be rendered as ‘money on which to live’ or ‘money for food and lodging.’</Comments>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04701100800010</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+        <LEXMeaning Id="003705001003000" IsBiblicalTerm="Y" EntryCode="89.42" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Relations</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Result</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-12-16 11:32:53" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>(a figurative extension of meaning of {L:ὀψώνιον&lt;SDBG:ὀψώνιον:000000&gt;}[a] ‘a soldier’s wages,’ {D:57.166}) the end result from some activity, viewed as something which one receives in return</DefinitionShort>
+              <Glosses>
+                <Gloss>wages</Gloss>
+                <Gloss>result</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04500602300006</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

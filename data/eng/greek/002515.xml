@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="002515000000000" Lemma="καθάπερ" Version="0" HasAramaic="false" InLXX="true" AlphaPos="κ">
+  <StrongCodes>
+    <Strong>G2509</Strong>
+  </StrongCodes>
+  <Authors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes>
+    <Note Caller="1" LanguageCode="en" LastEdited="" LastEditedBy="">
+      <References/>
+      <Content>It may be of interest to note that in Greek NT manuscripts καθάπερ and καθώσπερ are often alternative forms. As in the case of ὥσπερ and ὡσπερεί ({D:64.13}) in contrast with ὡς[a] and ὡσεί[a] ({D:64.12}), so καθάπερ and καθώσπερ appear to be somewhat more emphatic than καθά and καθώς[c] ({D:64.14}).</Content>
+    </Note>
+  </Notes>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="002515001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>conj.</PartOfSpeech>
+      </PartsOfSpeech>
+      <Constructs>
+        <Construct Lemma="καθάπερ" BaseFormIndex="1">
+          <WordMeaningSet>
+            <Word>ἅ</Word>
+          </WordMeaningSet>
+          <WordMeaningSet>
+            <Word>-πέρ</Word>
+          </WordMeaningSet>
+        </Construct>
+      </Constructs>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="002515001001000" IsBiblicalTerm="Y" EntryCode="64.15" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Comparison</LEXDomain>
+          </LEXDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-09-02 09:56:45" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>an emphatic marker of comparison between events and states{N:001}</DefinitionShort>
+              <Glosses>
+                <Gloss>just as</Gloss>
+                <Gloss>precisely as</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04500400600002</LEXReference>
+            <LEXReference>04501200400002</LEXReference>
+            <LEXReference>04601001000006</LEXReference>
+            <LEXReference>04601201200002</LEXReference>
+            <LEXReference>04700101400022</LEXReference>
+            <LEXReference>04700301300006</LEXReference>
+            <LEXReference>04700301800036</LEXReference>
+            <LEXReference>04700801100016</LEXReference>
+            <LEXReference>05200201100002</LEXReference>
+            <LEXReference>05200300600056</LEXReference>
+            <LEXReference>05200301200030</LEXReference>
+            <LEXReference>05200400500010</LEXReference>
+            <LEXReference>05800400200010</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="004022000000000" Lemma="πλατύς" Version="0" HasAramaic="false" InLXX="true" AlphaPos="π">
+  <StrongCodes>
+    <Strong>G4116</Strong>
+  </StrongCodes>
+  <Authors/>
+  <AlternateLemmas>
+    <AlternateLemma>πλατεῖα</AlternateLemma>
+  </AlternateLemmas>
+  <MainLinks/>
+  <Notes/>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="004022001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>adjc.</PartOfSpeech>
+      </PartsOfSpeech>
+      <Inflections>
+        <Inflection Lemma="πλατύς" BaseFormIndex="1">
+          <Form/>
+          <Realizations>
+            <Realization>-εῖα, -ύ</Realization>
+          </Realizations>
+          <Comments/>
+        </Inflection>
+      </Inflections>
+      <RelatedLemmas>
+        <RelatedLemma>
+          <Word>πίμπλημι</Word>
+        </RelatedLemma>
+      </RelatedLemmas>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="004022001001000" IsBiblicalTerm="Y" EntryCode="81.16" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Spacial Dimensions</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Narrow, Wide</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-12-27 14:48:09" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>pertaining to being wide</DefinitionShort>
+              <Glosses>
+                <Gloss>wide</Gloss>
+                <Gloss>broad</Gloss>
+              </Glosses>
+              <Comments>In {S:04000701300014} {L:πύλη&lt;SDBG:πύλη:000000&gt;} seems to refer to the gateway (in other words, to the space) rather than to the gate as an object. (See {D:7.48}.)</Comments>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04000701300014</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+        <LEXMeaning Id="004022001002000" IsBiblicalTerm="M" EntryCode="1.103" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Geographical Objects and Features</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Thoroughfares: Roads, Streets, Paths, etc.</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-12-27 14:48:09" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>a wide street within a city</DefinitionShort>
+              <Glosses>
+                <Gloss>avenue</Gloss>
+                <Gloss>wide street</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04000600500038</LEXReference>
+            <LEXReference>04001201900020</LEXReference>
+            <LEXReference>04201001000028</LEXReference>
+            <LEXReference>04201302600024</LEXReference>
+            <LEXReference>04201402100044</LEXReference>
+            <LEXReference>04400501500010</LEXReference>
+            <LEXReference>06601100800014</LEXReference>
+            <LEXReference>06602102100036</LEXReference>
+            <LEXReference>06602200200008</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

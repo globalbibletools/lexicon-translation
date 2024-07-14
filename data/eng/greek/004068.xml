@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="004068000000000" Lemma="ποιμαίνω" Version="0" HasAramaic="false" InLXX="true" AlphaPos="π">
+  <StrongCodes>
+    <Strong>G4165</Strong>
+  </StrongCodes>
+  <Authors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes/>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="004068001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>verb</PartOfSpeech>
+      </PartsOfSpeech>
+      <Inflections>
+        <Inflection Lemma="ποιμαίνω" BaseFormIndex="1">
+          <Form>fut.</Form>
+          <Realizations>
+            <Realization>ποιμανῶ</Realization>
+          </Realizations>
+          <Comments/>
+        </Inflection>
+        <Inflection Lemma="ποιμαίνω" BaseFormIndex="1">
+          <Form>aor.impv.2pl.</Form>
+          <Realizations>
+            <Realization>ποιμάνατε</Realization>
+          </Realizations>
+          <Comments/>
+        </Inflection>
+      </Inflections>
+      <RelatedLemmas>
+        <RelatedLemma>
+          <Word>ἀρχιποίμην</Word>
+        </RelatedLemma>
+        <RelatedLemma>
+          <Word>ποιμήν</Word>
+        </RelatedLemma>
+        <RelatedLemma>
+          <Word>ποίμνη</Word>
+        </RelatedLemma>
+        <RelatedLemma>
+          <Word>ποίμνιον</Word>
+        </RelatedLemma>
+      </RelatedLemmas>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="004068001001000" IsBiblicalTerm="M" EntryCode="44.3" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Animal Husbandry, Fishing</LEXDomain>
+          </LEXDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-12-28 17:12:28" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>to herd and tend flocks of sheep or goats</DefinitionShort>
+              <Glosses>
+                <Gloss>to shepherd</Gloss>
+                <Gloss>to take care of</Gloss>
+                <Gloss>to tend</Gloss>
+                <Gloss>to pasture</Gloss>
+              </Glosses>
+              <Comments>In a number of cultures sheep are not herded or taken care of; they serve primarily as scavengers, and therefore it may be necessary to introduce some type of marginal note, especially in passages which have figurative significance.</Comments>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04201700700018</LEXReference>
+            <LEXReference>04302101600040</LEXReference>
+            <LEXReference>04600900700034</LEXReference>
+            <LEXReference>06000500200002</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+        <LEXMeaning Id="004068001002000" IsBiblicalTerm="Y" EntryCode="36.2" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Guide, Discipline, Follow</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Guide, Lead</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-12-28 17:12:28" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>(a figurative extension of meaning of {L:ποιμαίνω&lt;SDBG:ποιμαίνω:000000&gt;}[a] ‘to shepherd,’ {D:44.3}) to lead, with the implication of providing for</DefinitionShort>
+              <Glosses>
+                <Gloss>to guide and to help</Gloss>
+                <Gloss>to guide and take care of</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04000200600038</LEXReference>
+            <LEXReference>04402002800032</LEXReference>
+            <LEXReference>06500101200024</LEXReference>
+            <LEXReference>06600701700018</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+        <LEXMeaning Id="004068001003000" IsBiblicalTerm="Y" EntryCode="37.57" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Control, Rule</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Rule, Govern</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-12-28 17:12:28" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>to rule, with the implication of direct personal involvement</DefinitionShort>
+              <Glosses>
+                <Gloss>to rule</Gloss>
+                <Gloss>to govern</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>06600202700004</LEXReference>
+            <LEXReference>06601200500014</LEXReference>
+            <LEXReference>06601901500034</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

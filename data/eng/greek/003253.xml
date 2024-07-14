@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="003253000000000" Lemma="μεταλλάσσω" Version="0" HasAramaic="false" InLXX="true" AlphaPos="μ">
+  <StrongCodes>
+    <Strong>G3337</Strong>
+  </StrongCodes>
+  <Authors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes>
+    <Note Caller="1" LanguageCode="en" LastEdited="" LastEditedBy="">
+      <References/>
+      <Content>μεταλλάσσω[a] may focus somewhat more emphatically than ἀλλάσσω[b] on the substitution of one thing for another.</Content>
+    </Note>
+  </Notes>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="003253001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>verb</PartOfSpeech>
+      </PartsOfSpeech>
+      <Inflections>
+        <Inflection Lemma="μεταλλάσσω" BaseFormIndex="1">
+          <Form>aor.</Form>
+          <Realizations>
+            <Realization>μετήλλαξα</Realization>
+          </Realizations>
+          <Comments/>
+        </Inflection>
+      </Inflections>
+      <RelatedLemmas>
+        <RelatedLemma>
+          <Word>ἀλλάσσω</Word>
+        </RelatedLemma>
+      </RelatedLemmas>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="003253001001000" IsBiblicalTerm="Y" EntryCode="57.142" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Possess, Transfer, Exchange</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Exchange</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-12-01 11:04:14" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>to exchange one thing for another{N:001}</DefinitionShort>
+              <Glosses>
+                <Gloss>to exchange</Gloss>
+                <Gloss>to substitute</Gloss>
+              </Glosses>
+              <Comments>In rendering μεταλλάσσω in {S:04500102500004} it is essential to avoid anything which might mean ‘to change something into.’ It is the substitution of one thing for another; hence, ‘exchange’ rather than ‘change’ is the correct gloss.</Comments>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04500102500004</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+        <LEXMeaning Id="003253001002000" IsBiblicalTerm="Y" EntryCode="68.50" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Aspect</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Cease, Stop</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-12-01 11:04:14" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>to cease one activity and to start something else in exchange</DefinitionShort>
+              <Glosses>
+                <Gloss>to cease and to start</Gloss>
+                <Gloss>to exchange</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04500102600030</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

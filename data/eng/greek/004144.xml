@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="004144000000000" Lemma="πρεσβεύω" Version="0" HasAramaic="false" InLXX="false" AlphaPos="π">
+  <StrongCodes>
+    <Strong>G4243</Strong>
+  </StrongCodes>
+  <Authors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes>
+    <Note Caller="1" LanguageCode="en" LastEdited="" LastEditedBy="">
+      <References/>
+      <Content>It is possible to assign the meanings of πρεσβεία ({D:37.87}) and πρεσβεύω ({D:37.88}) to the domain of Communication (33), since communication is an important factor in the function of being a representative. However, the delegated authority and responsibility seem to be more in focus.</Content>
+    </Note>
+  </Notes>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="004144001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>verb</PartOfSpeech>
+      </PartsOfSpeech>
+      <RelatedLemmas>
+        <RelatedLemma>
+          <Word>πρεσβεία</Word>
+        </RelatedLemma>
+        <RelatedLemma>
+          <Word>πρεσβυτέριον</Word>
+        </RelatedLemma>
+        <RelatedLemma>
+          <Word>πρεσβύτερος</Word>
+        </RelatedLemma>
+        <RelatedLemma>
+          <Word>πρεσβύτης</Word>
+        </RelatedLemma>
+        <RelatedLemma>
+          <Word>πρεσβῦτις</Word>
+        </RelatedLemma>
+        <RelatedLemma>
+          <Word>συμπρεσβύτερος</Word>
+        </RelatedLemma>
+      </RelatedLemmas>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="004144001001000" IsBiblicalTerm="Y" EntryCode="37.88" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Control, Rule</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Rule, Govern</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2022-02-02 16:24:11" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>(derivative of {L:πρεσβεία&lt;SDBG:πρεσβεία:000000&gt;} ‘representative,’ {D:37.87}) to function as a representative of a ruling authority{N:001}</DefinitionShort>
+              <Glosses>
+                <Gloss>to be a representative of</Gloss>
+                <Gloss>to be an ambassador of</Gloss>
+              </Glosses>
+              <Comments>It may be possible to render ὑπὲρ Χριστοῦ οὖν πρεσβεύομεν in {S:04700502000008} as ‘we serve as those who have been delegated by Christ’ or ‘our work has been specially assigned by Christ.’</Comments>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04700502000008</LEXReference>
+            <LEXReference>04900602000006</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

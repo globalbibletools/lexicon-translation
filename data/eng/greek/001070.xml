@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="001070000000000" Lemma="γαμέω" Version="0" HasAramaic="false" InLXX="true" AlphaPos="γ">
+  <StrongCodes>
+    <Strong>G1060</Strong>
+  </StrongCodes>
+  <Authors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes>
+    <Note Caller="1" LanguageCode="en" LastEdited="" LastEditedBy="">
+      <References/>
+      <Content>γάμος[a] differs in meaning from γαμέω and γαμίζω[a] ({D:34.66}) in denoting the state of being married and not simply the act of entering into a marriage relation.</Content>
+    </Note>
+  </Notes>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="001070001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>verb</PartOfSpeech>
+      </PartsOfSpeech>
+      <Inflections>
+        <Inflection Lemma="γαμέω" BaseFormIndex="1">
+          <Form>aor.1sg.</Form>
+          <Realizations>
+            <Realization>ἔγημα</Realization>
+          </Realizations>
+          <Comments/>
+        </Inflection>
+        <Inflection Lemma="γαμέω" BaseFormIndex="1">
+          <Form>subj.</Form>
+          <Realizations>
+            <Realization>γήμω</Realization>
+          </Realizations>
+          <Comments/>
+        </Inflection>
+        <Inflection Lemma="γαμέω" BaseFormIndex="1">
+          <Form>ptc.</Form>
+          <Realizations>
+            <Realization>γήμας</Realization>
+          </Realizations>
+          <Comments/>
+        </Inflection>
+      </Inflections>
+      <RelatedLemmas>
+        <RelatedLemma>
+          <Word>ἄγαμος</Word>
+        </RelatedLemma>
+        <RelatedLemma>
+          <Word>γαμίζω</Word>
+        </RelatedLemma>
+        <RelatedLemma>
+          <Word>γαμίσκω</Word>
+        </RelatedLemma>
+        <RelatedLemma>
+          <Word>γάμος</Word>
+        </RelatedLemma>
+        <RelatedLemma>
+          <Word>ἐπιγαμβρεύω</Word>
+        </RelatedLemma>
+      </RelatedLemmas>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="001070001001000" IsBiblicalTerm="M" EntryCode="34.66" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Association</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Marriage, Divorce</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-05-13 21:44:01" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>to enter into a marriage relation, applicable either to a man or to a woman{N:001}</DefinitionShort>
+              <Glosses>
+                <Gloss>to marry</Gloss>
+                <Gloss>marriage</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04000503200044</LEXReference>
+            <LEXReference>04001900900030</LEXReference>
+            <LEXReference>04001901000036</LEXReference>
+            <LEXReference>04002202500020</LEXReference>
+            <LEXReference>04002203000012</LEXReference>
+            <LEXReference>04002403800030</LEXReference>
+            <LEXReference>04100601700048</LEXReference>
+            <LEXReference>04101001100022</LEXReference>
+            <LEXReference>04101001200016</LEXReference>
+            <LEXReference>04101202500014</LEXReference>
+            <LEXReference>04201402000010</LEXReference>
+            <LEXReference>04201601800016</LEXReference>
+            <LEXReference>04201601800032</LEXReference>
+            <LEXReference>04201702700006</LEXReference>
+            <LEXReference>04202003400022</LEXReference>
+            <LEXReference>04202003500030</LEXReference>
+            <LEXReference>04600700900010</LEXReference>
+            <LEXReference>04600700900018</LEXReference>
+            <LEXReference>04600701000006</LEXReference>
+            <LEXReference>04600702800008</LEXReference>
+            <LEXReference>04600702800018</LEXReference>
+            <LEXReference>04600703300006</LEXReference>
+            <LEXReference>04600703400052</LEXReference>
+            <LEXReference>04600703600044</LEXReference>
+            <LEXReference>04600703900038</LEXReference>
+            <LEXReference>05400400300004</LEXReference>
+            <LEXReference>05400501100020</LEXReference>
+            <LEXReference>05400501400008</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

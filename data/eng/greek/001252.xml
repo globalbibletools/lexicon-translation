@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="001252000000000" Lemma="διάδημα" Version="0" HasAramaic="false" InLXX="true" AlphaPos="δ">
+  <StrongCodes>
+    <Strong>G1238</Strong>
+  </StrongCodes>
+  <Authors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes/>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="001252001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>noun, n.</PartOfSpeech>
+      </PartsOfSpeech>
+      <Inflections>
+        <Inflection Lemma="διάδημα" BaseFormIndex="1">
+          <Form/>
+          <Realizations>
+            <Realization>-τος</Realization>
+          </Realizations>
+          <Comments/>
+        </Inflection>
+      </Inflections>
+      <RelatedLemmas>
+        <RelatedLemma>
+          <Word>δέω</Word>
+        </RelatedLemma>
+      </RelatedLemmas>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="001252001001000" IsBiblicalTerm="Y" EntryCode="6.196" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Artifacts</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Adornments</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-10-12 15:47:19" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>a type of crown employed as a symbol of the highest ruling power in a particular area and therefore often associated with kingship</DefinitionShort>
+              <Glosses>
+                <Gloss>diadem crown</Gloss>
+              </Glosses>
+              <Comments>In the NT διάδημα occurs only in {S:06601200300050 06601300100040 06601901200026}, and such a crown may be described as ‘symbol of his power, worn on his head.’</Comments>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>06601200300050</LEXReference>
+            <LEXReference>06601300100040</LEXReference>
+            <LEXReference>06601901200026</LEXReference>
+          </LEXReferences>
+          <LEXLinks>
+            <LEXLink>realia:1.10.2</LEXLink>
+          </LEXLinks>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="003970000000000" Lemma="περίχωρος" Version="0" HasAramaic="false" InLXX="true" AlphaPos="π">
+  <StrongCodes>
+    <Strong>G4066</Strong>
+  </StrongCodes>
+  <Authors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes/>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="003970001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>adjc.</PartOfSpeech>
+      </PartsOfSpeech>
+      <Inflections>
+        <Inflection Lemma="περίχωρος" BaseFormIndex="1">
+          <Form/>
+          <Realizations>
+            <Realization>-ον</Realization>
+          </Realizations>
+          <Comments/>
+        </Inflection>
+      </Inflections>
+      <RelatedLemmas>
+        <RelatedLemma>
+          <Word>χῶρος</Word>
+          <Meaning LanguageCode="en">
+            <Meaning>a place</Meaning>
+          </Meaning>
+          <Meaning LanguageCode="zhT">
+            <Meaning>一個地方</Meaning>
+          </Meaning>
+        </RelatedLemma>
+        <RelatedLemma>
+          <Word>χωρέω</Word>
+        </RelatedLemma>
+      </RelatedLemmas>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="003970001001000" IsBiblicalTerm="Y" EntryCode="1.80" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Geographical Objects and Features</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Sociopolitical Areas</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-12-24 15:15:05" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>an area or region around or near some central or focal point</DefinitionShort>
+              <Glosses>
+                <Gloss>surrounding region</Gloss>
+              </Glosses>
+              <Comments>In certain contexts, however, περίχωρος may include not only the surrounding region but also the point of reference, for example, τῆς περιχώρου τῶν Γερασηνῶν ‘the Gerasenes and the people living around them’ {S:04200803700016}. In a context such as {S:04000300500026}, ἡ περίχωρος τοῦ Ἰορδάνου, it is difficult to speak of ‘the area surrounding the Jordan River,’ since a river is not like a city which would constitute a center. Accordingly, one must often translate ἡ περίχωρος τοῦ Ἰορδάνου as ‘the land on both sides of the River Jordan.’</Comments>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04000300500026</LEXReference>
+            <LEXReference>04001403500026</LEXReference>
+            <LEXReference>04100102800022</LEXReference>
+            <LEXReference>04200300300012</LEXReference>
+            <LEXReference>04200401400038</LEXReference>
+            <LEXReference>04200403700020</LEXReference>
+            <LEXReference>04200701700030</LEXReference>
+            <LEXReference>04200803700016</LEXReference>
+            <LEXReference>04401400600026</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="004635000000000" Lemma="נְגִינָה" Version="4" HasAramaic="false" InLXX="false" AlphaPos="נ">
+  <StrongCodes>
+    <Strong>H5058</Strong>
+  </StrongCodes>
+  <Authors>
+    <Author>Reinier de Blois</Author>
+  </Authors>
+  <Contributors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes/>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="004635001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>nsf</PartOfSpeech>
+      </PartsOfSpeech>
+      <RelatedLemmas>
+        <RelatedLemma>
+          <Word>נגן</Word>
+        </RelatedLemma>
+      </RelatedLemmas>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="004635001001000" IsBiblicalTerm="M" EntryCode="" Indent="0">
+          <LEXDomains>
+            <LEXDomain Code="001004001013">Musical Instruments</LEXDomain>
+          </LEXDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2017-12-17 16:38:02" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>= musical instrument with strings, such as a {L:lute&lt;SDBH:כִּנֹּור&gt;} or {L:lyre&lt;SDBH:נֵבֶל&gt;}</DefinitionShort>
+              <Glosses>
+                <Gloss>stringed instrument</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>01900400100010</LEXReference>
+            <LEXReference>01900600100010</LEXReference>
+            <LEXReference>01905400100010</LEXReference>
+            <LEXReference>01905500100010</LEXReference>
+            <LEXReference>01906100100010</LEXReference>
+            <LEXReference>01906700100010</LEXReference>
+            <LEXReference>01907600100010</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+          <LEXCoreDomains>
+            <LEXCoreDomain Code="111">Music and Dance</LEXCoreDomain>
+          </LEXCoreDomains>
+        </LEXMeaning>
+        <LEXMeaning Id="004635001002000" IsBiblicalTerm="M" EntryCode="" Indent="0">
+          <LEXDomains>
+            <LEXDomain Code="002003001013" Source="Musical Instruments" SourceCode="001004001013">Play</LEXDomain>
+          </LEXDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2017-12-17 16:38:02" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>= action by which humans play an instrument with strings, such as a {L:lute&lt;SDBH:כִּנֹּור&gt;} or {L:lyre&lt;SDBH:נֵבֶל&gt;}, which can be for silent meditation or to accompany singing and dancing</DefinitionShort>
+              <Glosses>
+                <Gloss>music</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>01907700700004</LEXReference>
+            <LEXReference>02303802000010</LEXReference>
+            <LEXReference>02500501400014</LEXReference>
+            <LEXReference>03500301900036</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+          <LEXCoreDomains>
+            <LEXCoreDomain Code="111">Music and Dance</LEXCoreDomain>
+          </LEXCoreDomains>
+        </LEXMeaning>
+        <LEXMeaning Id="004635001003000" IsBiblicalTerm="Y" EntryCode="" Indent="0">
+          <LEXDomains>
+            <LEXDomain Code="002004001009006" Source="Musical Instruments" SourceCode="001004001013">Sing</LEXDomain>
+          </LEXDomains>
+          <LEXSynonyms>
+            <LEXSynonym>מִלָּה</LEXSynonym>
+          </LEXSynonyms>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2017-12-17 16:38:02" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>= a {L:song&lt;SDBH:שִׁיר&gt;}, ► written and sung to make fun of someone</DefinitionShort>
+              <Glosses>
+                <Gloss>mocking song</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>01803000900006</LEXReference>
+            <LEXReference>01906901300012</LEXReference>
+            <LEXReference>02500301400012</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+          <LEXCoreDomains>
+            <LEXCoreDomain Code="111">Music and Dance</LEXCoreDomain>
+            <LEXCoreDomain Code="170">Status</LEXCoreDomain>
+          </LEXCoreDomains>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

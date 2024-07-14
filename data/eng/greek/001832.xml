@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="001832000000000" Lemma="ἐξανίστημι" Version="0" HasAramaic="false" InLXX="true" AlphaPos="ε">
+  <StrongCodes>
+    <Strong>G1817</Strong>
+  </StrongCodes>
+  <Authors/>
+  <AlternateLemmas>
+    <AlternateLemma>ἐξανίσταμαι</AlternateLemma>
+  </AlternateLemmas>
+  <MainLinks/>
+  <Notes/>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="001832001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>verb</PartOfSpeech>
+      </PartsOfSpeech>
+      <Inflections>
+        <Inflection Lemma="ἐξανίστημι" BaseFormIndex="1">
+          <Form>aor.</Form>
+          <Realizations>
+            <Realization>ἐξανέστησα</Realization>
+          </Realizations>
+          <Comments/>
+        </Inflection>
+        <Inflection Lemma="ἐξανίστημι" BaseFormIndex="1">
+          <Form>subj.3sg.</Form>
+          <Realizations>
+            <Realization>ἐξαναστήσῃ</Realization>
+          </Realizations>
+          <Comments/>
+        </Inflection>
+      </Inflections>
+      <RelatedLemmas>
+        <RelatedLemma>
+          <Word>ἵστημι</Word>
+        </RelatedLemma>
+      </RelatedLemmas>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="001832001001000" IsBiblicalTerm="Y" EntryCode="17.11" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Stances and Events Related to Stances</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Stand</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-06-04 20:00:35" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>to stand up in a manner distinct from someone else</DefinitionShort>
+              <Glosses>
+                <Gloss>to stand up</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04401500500002</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+        <LEXMeaning Id="001832001002000" IsBiblicalTerm="Y" EntryCode="23.59" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Physiological Processes and States</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Birth, Procreation</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXCollocations>
+            <LEXCollocation>ἐξανίστημι σπέρμα</LEXCollocation>
+          </LEXCollocations>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-06-04 20:00:35" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>(an idiom, literally: to raise up seed) the male role in begetting children</DefinitionShort>
+              <Glosses>
+                <Gloss>to beget</Gloss>
+                <Gloss>to procreate</Gloss>
+                <Gloss>to become the father of</Gloss>
+              </Glosses>
+              <Comments>In contexts such as {S:04002202400038}, {S:04101201900050}, and {S:04202002800048} it may be important to add a note concerning levirate responsibilities, that is to say, the requirement for a younger brother to beget children by a deceased older brother’s wife and the reckoning of such an offspring as being the descendant of the older deceased brother.</Comments>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04101201900050</LEXReference>
+            <LEXReference>04202002800048</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

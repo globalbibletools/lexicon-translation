@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="001114000000000" Lemma="γλωσσόκομον" Version="0" HasAramaic="false" InLXX="true" AlphaPos="γ">
+  <StrongCodes>
+    <Strong>G1101</Strong>
+  </StrongCodes>
+  <Authors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes/>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="001114001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>noun, n.</PartOfSpeech>
+      </PartsOfSpeech>
+      <Inflections>
+        <Inflection Lemma="γλωσσόκομον" BaseFormIndex="1">
+          <Form/>
+          <Realizations>
+            <Realization>-ου</Realization>
+          </Realizations>
+          <Comments/>
+        </Inflection>
+      </Inflections>
+      <Constructs>
+        <Construct Lemma="γλωσσόκομον" BaseFormIndex="1">
+          <WordMeaningSet>
+            <Word>γλῶσσα</Word>
+          </WordMeaningSet>
+          <WordMeaningSet>
+            <Word>κοσμέω</Word>
+          </WordMeaningSet>
+        </Construct>
+      </Constructs>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="001114001001000" IsBiblicalTerm="M" EntryCode="6.143" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Artifacts</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Containers</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-08-28 15:50:58" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>a box in which money was kept</DefinitionShort>
+              <Glosses>
+                <Gloss>money box</Gloss>
+              </Glosses>
+              <Comments>It may be useful, however, in rendering {S:04301302900012} to say simply ‘Judas had charge of the money’ or ‘Judas was the treasurer of the group,’ since the Greek expression may be understood as an idiom.</Comments>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04301200600034</LEXReference>
+            <LEXReference>04301302900012</LEXReference>
+          </LEXReferences>
+          <LEXLinks>
+            <LEXLink>realia:5.18.1.4</LEXLink>
+          </LEXLinks>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

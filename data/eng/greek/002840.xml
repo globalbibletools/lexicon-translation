@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="002840000000000" Lemma="κλίνη" Version="0" HasAramaic="false" InLXX="true" AlphaPos="κ">
+  <StrongCodes>
+    <Strong>G2825</Strong>
+  </StrongCodes>
+  <Authors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes/>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="002840001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>noun, f.</PartOfSpeech>
+      </PartsOfSpeech>
+      <Inflections>
+        <Inflection Lemma="κλίνη" BaseFormIndex="1">
+          <Form/>
+          <Realizations>
+            <Realization>-ης</Realization>
+          </Realizations>
+          <Comments/>
+        </Inflection>
+      </Inflections>
+      <RelatedLemmas>
+        <RelatedLemma>
+          <Word>κλίνω</Word>
+        </RelatedLemma>
+      </RelatedLemmas>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="002840001001000" IsBiblicalTerm="M" EntryCode="6.106" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Artifacts</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Furniture</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-10-12 13:03:47" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>any piece of furniture employed for reclining or lying on</DefinitionShort>
+              <Glosses>
+                <Gloss>bed</Gloss>
+                <Gloss>couch</Gloss>
+                <Gloss>cot</Gloss>
+                <Gloss>stretcher</Gloss>
+                <Gloss>bier</Gloss>
+              </Glosses>
+              <Comments>In {S:04000900200014} a rendering such as ‘stretcher’ or ‘cot’ is certainly more advisable than the traditional rendering ‘bed,’ which might imply a large piece of furniture. In each passage one must employ a term which is most likely to identify the type of object which fits the context.</Comments>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04000900200014</LEXReference>
+            <LEXReference>04000900600048</LEXReference>
+            <LEXReference>04100402100032</LEXReference>
+            <LEXReference>04100700400046</LEXReference>
+            <LEXReference>04100703000026</LEXReference>
+            <LEXReference>04200501800012</LEXReference>
+            <LEXReference>04200801600020</LEXReference>
+            <LEXReference>04201703400018</LEXReference>
+            <LEXReference>06600202200010</LEXReference>
+          </LEXReferences>
+          <LEXLinks>
+            <LEXLink>realia:5.5</LEXLink>
+          </LEXLinks>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

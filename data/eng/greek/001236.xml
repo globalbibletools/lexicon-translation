@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="001236000000000" Lemma="δήποτε" Version="0" HasAramaic="false" InLXX="false" AlphaPos="δ">
+  <StrongCodes/>
+  <Authors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes/>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="001236001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>advb.</PartOfSpeech>
+      </PartsOfSpeech>
+      <Constructs>
+        <Construct Lemma="δήποτε" BaseFormIndex="1">
+          <WordMeaningSet>
+            <Word>δή</Word>
+          </WordMeaningSet>
+          <WordMeaningSet>
+            <Word>ποτέ</Word>
+          </WordMeaningSet>
+        </Construct>
+      </Constructs>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="001236001001000" IsBiblicalTerm="Y" EntryCode="67.9" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Time</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>A Point of Time without Reference to Other Points of Time: Time, Occasion, Ever, Often</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-05-19 21:21:05" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>an indefinite point of time or occasion</DefinitionShort>
+              <Glosses>
+                <Gloss>ever</Gloss>
+                <Gloss>at any time</Gloss>
+                <Gloss>at some time</Gloss>
+              </Glosses>
+              <Comments>This word is found as a variant reading only: ὑγιὴς ἐγίνετο οἵῳ δήποτ᾽ οὖν κατείχετο νοσήματι ‘he was cured from whatever disease he ever had’ {S:04300500400018} (apparatus).</Comments>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04300500400018</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

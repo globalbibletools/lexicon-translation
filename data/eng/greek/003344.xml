@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="003344000000000" Lemma="μονογενής" Version="0" HasAramaic="false" InLXX="true" AlphaPos="μ">
+  <StrongCodes>
+    <Strong>G3439</Strong>
+  </StrongCodes>
+  <Authors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes/>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="003344001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>adjc.</PartOfSpeech>
+      </PartsOfSpeech>
+      <Inflections>
+        <Inflection Lemma="μονογενής" BaseFormIndex="1">
+          <Form/>
+          <Realizations>
+            <Realization>-ές</Realization>
+          </Realizations>
+          <Comments/>
+        </Inflection>
+      </Inflections>
+      <Constructs>
+        <Construct Lemma="μονογενής" BaseFormIndex="1">
+          <WordMeaningSet>
+            <Word>μονόομαι</Word>
+          </WordMeaningSet>
+          <WordMeaningSet>
+            <Word>γίνομαι</Word>
+          </WordMeaningSet>
+        </Construct>
+      </Constructs>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="003344001001000" IsBiblicalTerm="M" EntryCode="58.52" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Nature, Class, Example</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Distinctive, Unique</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-12-09 13:56:44" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>pertaining to what is unique in the sense of being the only one of the same kind or class</DefinitionShort>
+              <Glosses>
+                <Gloss>unique</Gloss>
+                <Gloss>only</Gloss>
+              </Glosses>
+              <Comments>{S:05801101700018}: Abraham, of course, did have another son, Ishmael, and later sons by Keturah, but Isaac was a unique son in that he was a son born as the result of certain promises made by God. Accordingly, he could be called a μονογενής son, since he was the only one of his kind.</Comments>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04200701200024</LEXReference>
+            <LEXReference>04200804200006</LEXReference>
+            <LEXReference>04200903800036</LEXReference>
+            <LEXReference>04300101400034</LEXReference>
+            <LEXReference>04300101800010</LEXReference>
+            <LEXReference>04300301600024</LEXReference>
+            <LEXReference>04300301800040</LEXReference>
+            <LEXReference>05801101700018</LEXReference>
+            <LEXReference>06200400900030</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

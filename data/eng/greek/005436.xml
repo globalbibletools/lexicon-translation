@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="005436000000000" Lemma="χρυσίον" Version="0" HasAramaic="false" InLXX="true" AlphaPos="χ">
+  <StrongCodes>
+    <Strong>G5553</Strong>
+  </StrongCodes>
+  <Authors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes>
+    <Note Caller="1" LanguageCode="en" LastEdited="" LastEditedBy="">
+      <References/>
+      <Content>It would be possible to interpret χρυσίον in {S:06601700400022} as being merely a natural substance and thus classified with χρυσίον[a] ({D:2.49}), but χρυσίον[b] seems to have acquired certain specializations of meaning and even in the singular to be a collective for objects made of gold. It is for that reason that χρυσίον in {S:06601700400022} is classified in this domain.</Content>
+    </Note>
+  </Notes>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="005436001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>noun, n.</PartOfSpeech>
+      </PartsOfSpeech>
+      <Inflections>
+        <Inflection Lemma="χρυσίον" BaseFormIndex="1">
+          <Form/>
+          <Realizations>
+            <Realization>-ου</Realization>
+          </Realizations>
+          <Comments/>
+        </Inflection>
+      </Inflections>
+      <RelatedLemmas>
+        <RelatedLemma>
+          <Word>χρυσόω</Word>
+        </RelatedLemma>
+      </RelatedLemmas>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="005436001001000" IsBiblicalTerm="M" EntryCode="2.49" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Natural Substances</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Metals</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2022-06-04 19:10:19" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>gold (the most highly valued metal in the ancient world).</DefinitionShort>
+              <Glosses>
+                <Gloss>gold</Gloss>
+              </Glosses>
+              <Comments>Terms for gold are widespread throughout the world even as the presence of gold or knowledge about gold is likewise almost universal. Therefore, there is usually no difficulty involved in obtaining a satisfactory term for ‘gold.’</Comments>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>05800900400022</LEXReference>
+            <LEXReference>06000100700016</LEXReference>
+            <LEXReference>06600301800012</LEXReference>
+            <LEXReference>06602101800022</LEXReference>
+            <LEXReference>06602102100042</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+        <LEXMeaning Id="005436001002000" IsBiblicalTerm="M" EntryCode="6.189" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Artifacts</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Adornments</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2022-06-04 19:10:19" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>object or objects made of gold{N:001}</DefinitionShort>
+              <Glosses>
+                <Gloss>gold jewelry</Gloss>
+                <Gloss>gold ornaments</Gloss>
+              </Glosses>
+              <Comments>Gold jewelry may be referred to as ‘pretty things made out of gold,’ but rather than say that the woman was ‘covered with gold ornaments’ ({S:06601700400022}), it may be far more appropriate to say ‘she wore many gold ornaments’ or ‘many gold ornaments were fastened to her clothes.’</Comments>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>05400200900034</LEXReference>
+            <LEXReference>06000300300020</LEXReference>
+            <LEXReference>06601700400022</LEXReference>
+            <LEXReference>06601801600036</LEXReference>
+          </LEXReferences>
+          <LEXLinks>
+            <LEXLink>realia:10.5</LEXLink>
+          </LEXLinks>
+          <LEXVideos/>
+        </LEXMeaning>
+        <LEXMeaning Id="005436001003000" IsBiblicalTerm="M" EntryCode="6.69" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Artifacts</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Money and Monetary Units</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXCollocations>
+            <LEXCollocation>ἀργύριον καὶ χρυσίον</LEXCollocation>
+          </LEXCollocations>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2022-06-04 19:10:19" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>(an idiom, literally: silver and gold) a generic expression for currency</DefinitionShort>
+              <Glosses>
+                <Gloss>money</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04400300600012</LEXReference>
+            <LEXReference>04402003300006</LEXReference>
+            <LEXReference>06000101800014</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="002523000000000" Lemma="καθεξῆς" Version="0" HasAramaic="false" InLXX="false" AlphaPos="κ">
+  <StrongCodes>
+    <Strong>G2517</Strong>
+  </StrongCodes>
+  <Authors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes/>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="002523001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>advb.</PartOfSpeech>
+      </PartsOfSpeech>
+      <RelatedLemmas>
+        <RelatedLemma>
+          <Word>ἔχω</Word>
+        </RelatedLemma>
+      </RelatedLemmas>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="002523001001000" IsBiblicalTerm="Y" EntryCode="61.1" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Sequence</LEXDomain>
+          </LEXDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-09-03 11:50:41" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>a sequence of one after another in time, space, or logic</DefinitionShort>
+              <Glosses>
+                <Gloss>in order</Gloss>
+                <Gloss>in sequence</Gloss>
+                <Gloss>one after another</Gloss>
+              </Glosses>
+              <Comments>The expression ‘from Samuel’ in {S:04400302400020} seems to include Samuel. Therefore, one may also render {S:04400302400020} as ‘Samuel and all the prophets who came after him.’</Comments>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04200100300014</LEXReference>
+            <LEXReference>04200800100010</LEXReference>
+            <LEXReference>04400302400020</LEXReference>
+            <LEXReference>04401100400012</LEXReference>
+            <LEXReference>04401802300014</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

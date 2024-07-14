@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="004340000000000" Lemma="πυκνός" Version="0" HasAramaic="false" InLXX="true" AlphaPos="π">
+  <StrongCodes>
+    <Strong>G4437</Strong>
+  </StrongCodes>
+  <Authors/>
+  <AlternateLemmas>
+    <AlternateLemma>πυκνότερον</AlternateLemma>
+  </AlternateLemmas>
+  <MainLinks/>
+  <Notes/>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="004340001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>adjc.</PartOfSpeech>
+      </PartsOfSpeech>
+      <Inflections>
+        <Inflection Lemma="πυκνός" BaseFormIndex="1">
+          <Form/>
+          <Realizations>
+            <Realization>-ή, -ον</Realization>
+          </Realizations>
+          <Comments/>
+        </Inflection>
+      </Inflections>
+      <RelatedLemmas>
+        <RelatedLemma>
+          <Word>πυκτεύω</Word>
+        </RelatedLemma>
+      </RelatedLemmas>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="004340001001000" IsBiblicalTerm="Y" EntryCode="67.12" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Time</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>A Point of Time without Reference to Other Points of Time: Time, Occasion, Ever, Often</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2022-02-07 14:01:44" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>pertaining to a number of related points of time occurring with limited intervals</DefinitionShort>
+              <Glosses>
+                <Gloss>often</Gloss>
+                <Gloss>frequent</Gloss>
+                <Gloss>so often</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04200503300020</LEXReference>
+            <LEXReference>05400502300024</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+        <LEXMeaning Id="004340001002000" IsBiblicalTerm="Y" EntryCode="67.13" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Time</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>A Point of Time without Reference to Other Points of Time: Time, Occasion, Ever, Often</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXForms>
+            <LEXForm>πυκνότερον</LEXForm>
+          </LEXForms>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2022-02-07 14:01:44" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>pertaining to a number of related points of time occurring with short intervals and probably somewhat more emphatic than {L:πυκνός&lt;SDBG:πυκνός:000000&gt;}, πυκνά ({D:67.12})</DefinitionShort>
+              <Glosses>
+                <Gloss>so often</Gloss>
+                <Gloss>very often</Gloss>
+                <Gloss>as often as possible</Gloss>
+              </Glosses>
+              <Comments>It is possible to understand πυκνότερον in {S:04402402600026} as a comparative form of the stem πυκνο, but it is also possible that any comparative force may have been lost and thus πυκνότερον would not be significantly different in meaning from πυκνά ({D:67.12}).</Comments>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04402402600026</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

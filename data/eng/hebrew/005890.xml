@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="005890000000000" Lemma="פָּלִיל" Version="5" HasAramaic="false" InLXX="false" AlphaPos="פ">
+  <StrongCodes>
+    <Strong>H6414</Strong>
+  </StrongCodes>
+  <Authors>
+    <Author>Reinier de Blois</Author>
+  </Authors>
+  <Contributors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes>
+    <Note Caller="1" LanguageCode="en" LastEdited="" LastEditedBy="">
+      <References>
+        <Reference>00503203100016</Reference>
+      </References>
+      <Content>MT RSV "judges" NIV "concede" NJPS "estimation" | LXX "ἀνόητοι" = {L:אֱוִילִים&lt;SDBH:אֱוִיל&gt;} NRSV REB "fools" | ESV "by themselves"</Content>
+    </Note>
+  </Notes>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="005890001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>nsm</PartOfSpeech>
+      </PartsOfSpeech>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="005890001001000" IsBiblicalTerm="Y" EntryCode="" Indent="0">
+          <LEXDomains>
+            <LEXDomain Code="001001002003005">Leaders</LEXDomain>
+          </LEXDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2017-11-06 16:02:15" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>= a person whose responsibility it is to give a verdict on a case or person in a dispute and ensure that the verdict is implemented, which, ideally, results in vindication for the innocent and punishment for the guilty; this can only be done by someone in authority, such as a judge or ruler or even God himself</DefinitionShort>
+              <Glosses>
+                <Gloss>judge</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>00202102200056</LEXReference>
+            <LEXReference>00503203100016{N:001}</LEXReference>
+            <LEXReference>01803101100020</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+          <LEXCoreDomains>
+            <LEXCoreDomain Code="047">Courts and Legal Procedures</LEXCoreDomain>
+            <LEXCoreDomain Code="095">Justice</LEXCoreDomain>
+            <LEXCoreDomain Code="015">Authority</LEXCoreDomain>
+          </LEXCoreDomains>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

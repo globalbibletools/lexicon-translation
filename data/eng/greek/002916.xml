@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="002916000000000" Lemma="κραταιός" Version="0" HasAramaic="false" InLXX="true" AlphaPos="κ">
+  <StrongCodes>
+    <Strong>G2900</Strong>
+  </StrongCodes>
+  <Authors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes/>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="002916001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>adjc.</PartOfSpeech>
+      </PartsOfSpeech>
+      <Inflections>
+        <Inflection Lemma="κραταιός" BaseFormIndex="1">
+          <Form/>
+          <Realizations>
+            <Realization>-ά, -όν</Realization>
+          </Realizations>
+          <Comments/>
+        </Inflection>
+      </Inflections>
+      <RelatedLemmas>
+        <RelatedLemma>
+          <Word>κρατέω</Word>
+        </RelatedLemma>
+      </RelatedLemmas>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="002916001001000" IsBiblicalTerm="Y" EntryCode="76.9" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Power, Force</LEXDomain>
+          </LEXDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-10-21 11:56:00" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>(derivative of {L:κράτος&lt;SDBG:κράτος:000000&gt;}[a] ‘power,’ {D:76.6}) pertaining to being powerful or mighty</DefinitionShort>
+              <Glosses>
+                <Gloss>powerful</Gloss>
+                <Gloss>mighty</Gloss>
+              </Glosses>
+              <Comments>In {S:06000500600010} χεῖρ is, of course, to be interpreted as power (see {D:76.3}).</Comments>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>06000500600010</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

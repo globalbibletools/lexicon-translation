@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="000670000000000" Lemma="ἀπρόσιτος" Version="0" HasAramaic="false" InLXX="false" AlphaPos="α">
+  <StrongCodes>
+    <Strong>G0676</Strong>
+  </StrongCodes>
+  <Authors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes/>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="000670001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>adjc.</PartOfSpeech>
+      </PartsOfSpeech>
+      <Inflections>
+        <Inflection Lemma="ἀπρόσιτος" BaseFormIndex="1">
+          <Form/>
+          <Realizations>
+            <Realization>-ον</Realization>
+          </Realizations>
+          <Comments/>
+        </Inflection>
+      </Inflections>
+      <RelatedLemmas>
+        <RelatedLemma>
+          <Word>εἶμι</Word>
+          <Meaning LanguageCode="en">
+            <Meaning>go, come</Meaning>
+          </Meaning>
+          <Meaning LanguageCode="zhT">
+            <Meaning>來，去</Meaning>
+          </Meaning>
+        </RelatedLemma>
+      </RelatedLemmas>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="000670001001000" IsBiblicalTerm="Y" EntryCode="15.80" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Linear Movement</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Come Near, Approach</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-08-16 15:27:01" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>pertaining to not being capable of being approached</DefinitionShort>
+              <Glosses>
+                <Gloss>unapproachable</Gloss>
+                <Gloss>that which cannot be approached</Gloss>
+              </Glosses>
+              <Comments>It may be necessary to indicate, either in the text or in a marginal note, the reason why the light cannot be approached, for one could interpret this passage to mean that the light was either so small as not to be generally visible or so far away that it could not be reached. If, however, one uses a term for ‘light’ which implies extreme intensity of light, then the context should indicate the basis for its being unapproachable.</Comments>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>05400601600014</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

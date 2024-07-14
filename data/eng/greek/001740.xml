@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="001740000000000" Lemma="ἐναντιόομαι" Version="0" HasAramaic="false" InLXX="true" AlphaPos="ε">
+  <StrongCodes/>
+  <Authors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes>
+    <Note Caller="1" LanguageCode="en" LastEdited="" LastEditedBy="">
+      <References/>
+      <Content>There are probably certain significant distinctions in meaning in the various verbs listed in {D:39.1}, but on the basis of NT usage it is not possible to determine precisely what these distinctions may be.</Content>
+    </Note>
+  </Notes>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="001740001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>verb</PartOfSpeech>
+      </PartsOfSpeech>
+      <Constructs>
+        <Construct Lemma="ἐναντιόομαι" BaseFormIndex="1">
+          <WordMeaningSet>
+            <Word>ἐν</Word>
+          </WordMeaningSet>
+          <WordMeaningSet>
+            <Word>αντί</Word>
+          </WordMeaningSet>
+        </Construct>
+      </Constructs>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="001740001001000" IsBiblicalTerm="Y" EntryCode="39.1" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Hostility, Strife</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Opposition, Hostility</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-05-27 09:36:32" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>to oppose someone, involving not only a psychological attitude but also a corresponding behavior{N:001}</DefinitionShort>
+              <Glosses>
+                <Gloss>to oppose</Gloss>
+                <Gloss>to be hostile toward</Gloss>
+                <Gloss>to show hostility</Gloss>
+              </Glosses>
+              <Comments>This word is only found as a variant reading: ἐναντιούμενοι καὶ βλασφημοῦντες ‘they opposed him and insulted him’ {S:04401304500028} (apparatus).</Comments>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04401304500028</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

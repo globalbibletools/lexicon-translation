@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="001014000000000" Lemma="Βοσόρ" Version="0" HasAramaic="false" InLXX="false" AlphaPos="β">
+  <StrongCodes>
+    <Strong>G1007</Strong>
+  </StrongCodes>
+  <Authors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes/>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="001014001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>noun-name, m.</PartOfSpeech>
+      </PartsOfSpeech>
+      <Inflections>
+        <Inflection Lemma="Βοσόρ" BaseFormIndex="1">
+          <Form/>
+          <Realizations/>
+          <Comments>
+            <Comment LanguageCode="en">
+              <Meaning>indeclinable</Meaning>
+            </Comment>
+            <Comment LanguageCode="zhT">
+              <Meaning>無語尾變化</Meaning>
+            </Comment>
+          </Comments>
+        </Inflection>
+      </Inflections>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="001014001001000" IsBiblicalTerm="Y" EntryCode="93.80" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Names of Persons and Places</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Persons</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-02-09 23:41:33" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>the father of Balaam</DefinitionShort>
+              <Glosses>
+                <Gloss>Bosor</Gloss>
+              </Glosses>
+              <Comments>Βοσόρ is the reading in most NT manuscripts for {L:Βεώρ&lt;SDBG:Βεώρ:000000&gt;} ({S:00402200500014}); see {D:93.74}. Βοσύρ is an incidental variant spelling ({S:06100201500023}, apparatus)</Comments>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>06100201500022</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

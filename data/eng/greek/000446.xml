@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="000446000000000" Lemma="ἀνθρωποκτόνος" Version="0" HasAramaic="false" InLXX="false" AlphaPos="α">
+  <StrongCodes>
+    <Strong>G0443</Strong>
+  </StrongCodes>
+  <Authors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes/>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="000446001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>noun, m.</PartOfSpeech>
+      </PartsOfSpeech>
+      <Inflections>
+        <Inflection Lemma="ἀνθρωποκτόνος" BaseFormIndex="1">
+          <Form/>
+          <Realizations>
+            <Realization>-ου</Realization>
+          </Realizations>
+          <Comments/>
+        </Inflection>
+      </Inflections>
+      <Constructs>
+        <Construct Lemma="ἀνθρωποκτόνος" BaseFormIndex="1">
+          <WordMeaningSet>
+            <Word>ἄνθρωπος</Word>
+          </WordMeaningSet>
+          <WordMeaningSet>
+            <Word>κτείνω</Word>
+            <Meaning LanguageCode="en">
+              <Meaning>kill</Meaning>
+            </Meaning>
+            <Meaning LanguageCode="zhT">
+              <Meaning>殺死</Meaning>
+            </Meaning>
+          </WordMeaningSet>
+        </Construct>
+      </Constructs>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="000446001001000" IsBiblicalTerm="M" EntryCode="20.85" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Violence, Harm, Destroy, Kill</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Kill</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-08-09 14:16:24" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>a person who murders another person</DefinitionShort>
+              <Glosses>
+                <Gloss>murderer</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04300804400034</LEXReference>
+            <LEXReference>06200301500014</LEXReference>
+            <LEXReference>06200301500026</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

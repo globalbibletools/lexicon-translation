@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="000161000000000" Lemma="αἰχμαλωτεύω" Version="0" HasAramaic="false" InLXX="true" AlphaPos="α">
+  <StrongCodes>
+    <Strong>G0162</Strong>
+  </StrongCodes>
+  <Authors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes/>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="000161001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>verb</PartOfSpeech>
+      </PartsOfSpeech>
+      <Constructs>
+        <Construct Lemma="αἰχμαλωτεύω" BaseFormIndex="1">
+          <WordMeaningSet>
+            <Word>αἰχμή</Word>
+            <Meaning LanguageCode="en">
+              <Meaning>spear</Meaning>
+            </Meaning>
+            <Meaning LanguageCode="zhT">
+              <Meaning>矛槍</Meaning>
+            </Meaning>
+          </WordMeaningSet>
+          <WordMeaningSet>
+            <Word>ἅλωσις</Word>
+          </WordMeaningSet>
+        </Construct>
+      </Constructs>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="000161001001000" IsBiblicalTerm="Y" EntryCode="55.24" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Military Activities</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Prisoners of War</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-03-08 13:21:04" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>to cause someone to become a prisoner of war</DefinitionShort>
+              <Glosses>
+                <Gloss>to make captive</Gloss>
+                <Gloss>to take captive</Gloss>
+                <Gloss>to capture someone in war</Gloss>
+              </Glosses>
+              <Comments>In {S:04900400800012} {L:αἰχμαλωσία&lt;SDBG:αἰχμαλωσία:000000&gt;} ‘captivity’ ({D:55.23}) is added redundantly to αἰχμαλωτεύω due to Semitic usage. The combination of words simply means ‘to take many captives.’</Comments>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04900400800012</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

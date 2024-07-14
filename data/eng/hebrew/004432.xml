@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="004432000000000" Lemma="מָרֹר" Version="5" HasAramaic="false" InLXX="false" AlphaPos="מ">
+  <StrongCodes>
+    <Strong>H4844</Strong>
+  </StrongCodes>
+  <Authors>
+    <Author>Sarah Lind</Author>
+  </Authors>
+  <Contributors/>
+  <AlternateLemmas>
+    <AlternateLemma>מָרֹור</AlternateLemma>
+  </AlternateLemmas>
+  <MainLinks/>
+  <Notes/>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="004432001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>aj</PartOfSpeech>
+      </PartsOfSpeech>
+      <RelatedLemmas>
+        <RelatedLemma>
+          <Word>מרר</Word>
+        </RelatedLemma>
+      </RelatedLemmas>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="004432001001000" IsBiblicalTerm="M" EntryCode="" Indent="0">
+          <LEXDomains>
+            <LEXDomain Code="001004003">Food</LEXDomain>
+          </LEXDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2015-12-17 10:59:27" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>= bitter-tasting herbs, ► eaten as part of the {L:Passover&lt;SDBH:פֶּסַח&gt;} meal; ≈ associated with sadness and hardship</DefinitionShort>
+              <Glosses>
+                <Gloss>bitter herbs</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>00201200800032</LEXReference>
+            <LEXReference>00400901100036</LEXReference>
+            <LEXReference>00503203200028</LEXReference>
+            <LEXReference>02500301500008</LEXReference>
+          </LEXReferences>
+          <LEXLinks>
+            <LEXLink>Flora:3.2.1</LEXLink>
+          </LEXLinks>
+          <LEXVideos/>
+          <LEXCoreDomains>
+            <LEXCoreDomain Code="125">Plant</LEXCoreDomain>
+            <LEXCoreDomain Code="069">Food</LEXCoreDomain>
+          </LEXCoreDomains>
+        </LEXMeaning>
+        <LEXMeaning Id="004432001002000" IsBiblicalTerm="Y" EntryCode="" Indent="0">
+          <LEXDomains>
+            <LEXDomain Code="002001002013" Source="Food" SourceCode="001004003">Grieve</LEXDomain>
+          </LEXDomains>
+          <LEXSynonyms>
+            <LEXSynonym>לַעֲנָה</LEXSynonym>
+          </LEXSynonyms>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2015-12-17 10:59:27" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>= state in which humans are in deep distress, ◄ compared to bitter food</DefinitionShort>
+              <Glosses>
+                <Gloss>bitterness</Gloss>
+                <Gloss>hardship</Gloss>
+                <Gloss>bitter things (pl)</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>01801302600008</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+          <LEXCoreDomains>
+            <LEXCoreDomain Code="093">Joy and Grief</LEXCoreDomain>
+            <LEXCoreDomain Code="196">Well-Being</LEXCoreDomain>
+          </LEXCoreDomains>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

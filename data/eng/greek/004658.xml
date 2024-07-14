@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="004658000000000" Lemma="στρατηγός" Version="0" HasAramaic="false" InLXX="true" AlphaPos="σ">
+  <StrongCodes>
+    <Strong>G4755</Strong>
+  </StrongCodes>
+  <Authors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes/>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="004658001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>noun, m.</PartOfSpeech>
+      </PartsOfSpeech>
+      <Inflections>
+        <Inflection Lemma="στρατηγός" BaseFormIndex="1">
+          <Form/>
+          <Realizations>
+            <Realization>-οῦ</Realization>
+          </Realizations>
+          <Comments/>
+        </Inflection>
+      </Inflections>
+      <Constructs>
+        <Construct Lemma="στρατηγός" BaseFormIndex="1">
+          <WordMeaningSet>
+            <Word>στρατεύομαι</Word>
+          </WordMeaningSet>
+          <WordMeaningSet>
+            <Word>ἄγω</Word>
+          </WordMeaningSet>
+        </Construct>
+      </Constructs>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="004658001001000" IsBiblicalTerm="M" EntryCode="37.90" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Control, Rule</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Rule, Govern</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2022-03-07 13:05:24" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>the chief legal official of a city</DefinitionShort>
+              <Glosses>
+                <Gloss>magistrate</Gloss>
+                <Gloss>ruler of a city</Gloss>
+              </Glosses>
+              <Comments>In a number of instances στρατηγός may be rendered simply as ‘the chief of the town’ or ‘the ruler of the city.’</Comments>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04400502600008</LEXReference>
+            <LEXReference>04401602000010</LEXReference>
+            <LEXReference>04401602200018</LEXReference>
+            <LEXReference>04401603500012</LEXReference>
+            <LEXReference>04401603600028</LEXReference>
+            <LEXReference>04401603800008</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+        <LEXMeaning Id="004658001002000" IsBiblicalTerm="M" EntryCode="37.91" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Control, Rule</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Rule, Govern</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXCollocations>
+            <LEXCollocation>στρατηγὸς τοῦ ἱεροῦ</LEXCollocation>
+          </LEXCollocations>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2022-03-07 13:05:24" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>(a title, literally: official of the temple) a commander of Jewish soldiers responsible for guarding and maintaining order in the Jewish Temple</DefinitionShort>
+              <Glosses>
+                <Gloss>commander of the Temple guard</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04202200400014</LEXReference>
+            <LEXReference>04202205200022</LEXReference>
+            <LEXReference>04400400100026</LEXReference>
+            <LEXReference>04400502400018</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

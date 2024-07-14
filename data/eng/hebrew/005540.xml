@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="005540000000000" Lemma="עָנָו" Version="4" HasAramaic="false" InLXX="false" AlphaPos="ע">
+  <StrongCodes>
+    <Strong>H6035</Strong>
+  </StrongCodes>
+  <Authors>
+    <Author>Steve Berneking</Author>
+  </Authors>
+  <Contributors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes>
+    <Note Caller="1" LanguageCode="en" LastEdited="" LastEditedBy="">
+      <References>
+        <Reference>00401200300010</Reference>
+      </References>
+      <Content>MT-K ענו | MT-Q עָנָיו</Content>
+    </Note>
+    <Note Caller="2" LanguageCode="en" LastEdited="" LastEditedBy="">
+      <References>
+        <Reference>01900901300018</Reference>
+        <Reference>01901001200016</Reference>
+        <Reference>02001402100014</Reference>
+        <Reference>02001601900010</Reference>
+      </References>
+      <Content>MT-K עניים | MT-Q עֲנָוִים</Content>
+    </Note>
+    <Note Caller="3" LanguageCode="en" LastEdited="" LastEditedBy="">
+      <References>
+        <Reference>02000303400018</Reference>
+      </References>
+      <Content>MT-K ולעניים | MT-Q וְלַעֲנָוִים</Content>
+    </Note>
+  </Notes>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="005540001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>aj</PartOfSpeech>
+      </PartsOfSpeech>
+      <RelatedLemmas>
+        <RelatedLemma>
+          <Word>ענה</Word>
+        </RelatedLemma>
+      </RelatedLemmas>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="005540001001000" IsBiblicalTerm="M" EntryCode="" Indent="0">
+          <LEXDomains>
+            <LEXDomain Code="002001002015">Insignificant</LEXDomain>
+          </LEXDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2017-03-08 16:58:48" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>= state of persons who are suffering and unable to help themselves ◄ because of their own need or status, or the result of someone else's behavior ≈ often used positively of persons who are sincere and not arrogant in their behavior</DefinitionShort>
+              <Glosses>
+                <Gloss>afflicted</Gloss>
+                <Gloss>poor</Gloss>
+                <Gloss>humble</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>00401200300010{N:001}</LEXReference>
+            <LEXReference>00401200300012</LEXReference>
+            <LEXReference>01900901300018{N:002}</LEXReference>
+            <LEXReference>01900901300020</LEXReference>
+            <LEXReference>01901001200016{N:002}</LEXReference>
+            <LEXReference>01901001200018</LEXReference>
+            <LEXReference>01901001700004</LEXReference>
+            <LEXReference>01902202700004</LEXReference>
+            <LEXReference>01902500900004</LEXReference>
+            <LEXReference>01902500900016</LEXReference>
+            <LEXReference>01903400300012</LEXReference>
+            <LEXReference>01903701100004</LEXReference>
+            <LEXReference>01906903300004</LEXReference>
+            <LEXReference>01907601000020</LEXReference>
+            <LEXReference>01914700600004</LEXReference>
+            <LEXReference>01914900400014</LEXReference>
+            <LEXReference>02000303400018{N:003}</LEXReference>
+            <LEXReference>02000303400024</LEXReference>
+            <LEXReference>02001402100014{N:002}</LEXReference>
+            <LEXReference>02001402100016</LEXReference>
+            <LEXReference>02001601900010{N:002}</LEXReference>
+            <LEXReference>02001601900012</LEXReference>
+            <LEXReference>02301100400022</LEXReference>
+            <LEXReference>02302901900006</LEXReference>
+            <LEXReference>02306100100022</LEXReference>
+            <LEXReference>03000200700022</LEXReference>
+            <LEXReference>03600200300010</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+          <LEXCoreDomains>
+            <LEXCoreDomain Code="170">Status</LEXCoreDomain>
+          </LEXCoreDomains>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

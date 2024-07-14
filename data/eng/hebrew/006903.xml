@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="006903000000000" Lemma="רפשׂ" Version="4" HasAramaic="true" InLXX="false" AlphaPos="ר">
+  <StrongCodes>
+    <Strong>H7511</Strong>
+    <Strong>A7512</Strong>
+    <Strong>H7515</Strong>
+  </StrongCodes>
+  <Authors>
+    <Author>Reinier de Blois</Author>
+  </Authors>
+  <Contributors/>
+  <AlternateLemmas>
+    <AlternateLemma>רפס</AlternateLemma>
+  </AlternateLemmas>
+  <MainLinks/>
+  <Notes>
+    <Note Caller="1" LanguageCode="en" LastEdited="" LastEditedBy="">
+      <References>
+        <Reference>01906803100018</Reference>
+      </References>
+      <Content>NIV "humbled" NJPS "cringing" NJB GNT "bow down" REB "prostrate themselves" CEV "crawling" | RSV NRSV ESV "trample underfoot"</Content>
+    </Note>
+  </Notes>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="006903001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>vb</PartOfSpeech>
+      </PartsOfSpeech>
+      <RelatedLemmas>
+        <RelatedLemma>
+          <Word>מִרְפָּשׂ</Word>
+        </RelatedLemma>
+      </RelatedLemmas>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="006903001001000" IsBiblicalTerm="Y" EntryCode="" Indent="0">
+          <LEXDomains>
+            <LEXDomain Code="002001001023">Impact</LEXDomain>
+          </LEXDomains>
+          <LEXForms>
+            <LEXForm>vbpeal</LEXForm>
+          </LEXForms>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2017-03-08 15:50:21" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>= action by which animals tread heavily and noisily on objects, ► resulting in destruction</DefinitionShort>
+              <Glosses>
+                <Gloss>to trample</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>02700700700068</LEXReference>
+            <LEXReference>02700701900060</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+        <LEXMeaning Id="006903001002000" IsBiblicalTerm="Y" EntryCode="" Indent="0">
+          <LEXDomains>
+            <LEXDomain Code="002003001012" Source="Impact" SourceCode="002001001023">Mixed</LEXDomain>
+          </LEXDomains>
+          <LEXForms>
+            <LEXForm>vbqal-</LEXForm>
+            <LEXForm>vbnif- (passive)</LEXForm>
+          </LEXForms>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2017-03-08 15:50:21" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>= causative action by which humans or animals walk through clean water and so muddy it with their feet</DefinitionShort>
+              <Glosses>
+                <Gloss>to foul</Gloss>
+                <Gloss>to muddy</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>02002502600004</LEXReference>
+            <LEXReference>02603200200066</LEXReference>
+            <LEXReference>02603401800050</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+    <BaseForm Id="006903002000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>vb</PartOfSpeech>
+      </PartsOfSpeech>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="006903002001000" IsBiblicalTerm="Y" EntryCode="" Indent="0">
+          <LEXDomains>
+            <LEXDomain Code="002001001058">Stance</LEXDomain>
+          </LEXDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2022-12-13 21:28:15" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>= action by which humans take on a posture of humility before (other) humans or deities in order to receive a favorable attitude</DefinitionShort>
+              <Glosses>
+                <Gloss>to humiliate oneself</Gloss>
+                <Gloss>to grovel</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>01906803100018{N:001}</LEXReference>
+            <LEXReference>02000600300026</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+          <LEXCoreDomains>
+            <LEXCoreDomain Code="170">Status</LEXCoreDomain>
+          </LEXCoreDomains>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

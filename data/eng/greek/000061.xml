@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="000061000000000" Lemma="ἄγρα" Version="0" HasAramaic="false" InLXX="false" AlphaPos="α">
+  <StrongCodes>
+    <Strong>G0061</Strong>
+  </StrongCodes>
+  <Authors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes/>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="000061001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>noun, f.</PartOfSpeech>
+      </PartsOfSpeech>
+      <Inflections>
+        <Inflection Lemma="ἄγρα" BaseFormIndex="1">
+          <Form/>
+          <Realizations>
+            <Realization>-ας</Realization>
+          </Realizations>
+          <Comments/>
+        </Inflection>
+      </Inflections>
+      <RelatedLemmas>
+        <RelatedLemma>
+          <Word>ἀγρεύω</Word>
+        </RelatedLemma>
+      </RelatedLemmas>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="000061001001000" IsBiblicalTerm="Y" EntryCode="18.8" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Attachment</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Grasp, Hold</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-01-29 16:15:49" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>the act of catching something</DefinitionShort>
+              <Glosses>
+                <Gloss>to catch</Gloss>
+                <Gloss>a catch</Gloss>
+              </Glosses>
+              <Comments>Though in Greek the term ἄγρα may be used to refer to the catching of a wide variety of objects, in the context of {S:04200500400038} the reference is to fish, and one must make certain that the appropriate term in the receptor language is employed, depending, for example, whether one catches fish, animals, or people.</Comments>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04200500400038</LEXReference>
+            <LEXReference>04200500900024</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="003105000000000" Lemma="λυχνία" Version="0" HasAramaic="false" InLXX="true" AlphaPos="λ">
+  <StrongCodes>
+    <Strong>G3087</Strong>
+  </StrongCodes>
+  <Authors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes/>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="003105001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>noun, f.</PartOfSpeech>
+      </PartsOfSpeech>
+      <Inflections>
+        <Inflection Lemma="λυχνία" BaseFormIndex="1">
+          <Form/>
+          <Realizations>
+            <Realization>-ας</Realization>
+          </Realizations>
+          <Comments/>
+        </Inflection>
+      </Inflections>
+      <RelatedLemmas>
+        <RelatedLemma>
+          <Word>λύχνος</Word>
+        </RelatedLemma>
+      </RelatedLemmas>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="003105001001000" IsBiblicalTerm="M" EntryCode="6.105" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Artifacts</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Lights and Light Holders</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-11-19 13:27:24" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>a stand designed to hold a single lamp or a series of lamps</DefinitionShort>
+              <Glosses>
+                <Gloss>lampstand</Gloss>
+              </Glosses>
+              <Comments>One may translate ‘lampstand’ as ‘something on which a lamp could be placed’ or ‘a place for putting lamps.’</Comments>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04000501500026</LEXReference>
+            <LEXReference>04100402100042</LEXReference>
+            <LEXReference>04200801600028</LEXReference>
+            <LEXReference>04201103300028</LEXReference>
+            <LEXReference>05800900200020</LEXReference>
+            <LEXReference>06600101200028</LEXReference>
+            <LEXReference>06600101300010</LEXReference>
+            <LEXReference>06600102000030</LEXReference>
+            <LEXReference>06600102000056</LEXReference>
+            <LEXReference>06600200100050</LEXReference>
+            <LEXReference>06600200500040</LEXReference>
+            <LEXReference>06601100400018</LEXReference>
+          </LEXReferences>
+          <LEXLinks>
+            <LEXLink>realia:5.2</LEXLink>
+          </LEXLinks>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

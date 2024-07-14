@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="003015000000000" Lemma="λατομέω" Version="0" HasAramaic="false" InLXX="true" AlphaPos="λ">
+  <StrongCodes>
+    <Strong>G2998</Strong>
+  </StrongCodes>
+  <Authors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes/>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="003015001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>verb</PartOfSpeech>
+      </PartsOfSpeech>
+      <Constructs>
+        <Construct Lemma="λατομέω" BaseFormIndex="1">
+          <WordMeaningSet>
+            <Word>λᾶς</Word>
+            <Meaning LanguageCode="en">
+              <Meaning>a rock</Meaning>
+            </Meaning>
+            <Meaning LanguageCode="zhT">
+              <Meaning>岩石</Meaning>
+            </Meaning>
+          </WordMeaningSet>
+          <WordMeaningSet>
+            <Word>τέμνω</Word>
+            <Meaning LanguageCode="en">
+              <Meaning>cut</Meaning>
+            </Meaning>
+            <Meaning LanguageCode="zhT">
+              <Meaning>砍</Meaning>
+            </Meaning>
+          </WordMeaningSet>
+        </Construct>
+      </Constructs>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="003015001001000" IsBiblicalTerm="Y" EntryCode="19.25" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Physical Impact</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Pierce, Cut</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-11-04 10:39:42" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>to shape rock by cutting, either internally or externally</DefinitionShort>
+              <Glosses>
+                <Gloss>to cut rock</Gloss>
+                <Gloss>to hew out rock</Gloss>
+              </Glosses>
+              <Comments>In some languages important distinctions are made in terms for cutting rock depending upon the type of activity, for example, shaping of rock by cutting, the quarrying of rock from an outcrop, or the hewing of an area inside of an outcropping of rock (a cave-like structure hewn into rock).</Comments>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04002706000020</LEXReference>
+            <LEXReference>04101504600032</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

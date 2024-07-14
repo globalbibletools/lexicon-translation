@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="001273000000000" Lemma="διάλεκτος" Version="0" HasAramaic="false" InLXX="true" AlphaPos="δ">
+  <StrongCodes>
+    <Strong>G1258</Strong>
+  </StrongCodes>
+  <Authors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes/>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="001273001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>noun, f.</PartOfSpeech>
+      </PartsOfSpeech>
+      <Inflections>
+        <Inflection Lemma="διάλεκτος" BaseFormIndex="1">
+          <Form/>
+          <Realizations>
+            <Realization>-ου</Realization>
+          </Realizations>
+          <Comments/>
+        </Inflection>
+      </Inflections>
+      <RelatedLemmas>
+        <RelatedLemma>
+          <Word>λέγω</Word>
+        </RelatedLemma>
+      </RelatedLemmas>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="001273001001000" IsBiblicalTerm="M" EntryCode="33.1" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Communication</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Language</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-10-12 16:38:06" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>a verbal code, whether oral or written, as a basic means of communication</DefinitionShort>
+              <Glosses>
+                <Gloss>language</Gloss>
+              </Glosses>
+              <Comments>It is possible, though perhaps not probable, that διάλεκτος in {S:04400200600034} may be understood not only as a language as such, but as a particular form of such a language, and hence would have a meaning of ‘manner of speaking’ or even ‘accent’ (see {D:33.102}).</Comments>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04400101900030</LEXReference>
+            <LEXReference>04400200600034</LEXReference>
+            <LEXReference>04400200800016</LEXReference>
+            <LEXReference>04402104000044</LEXReference>
+            <LEXReference>04402200200012</LEXReference>
+            <LEXReference>04402601400030</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

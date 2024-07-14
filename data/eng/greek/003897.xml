@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="003897000000000" Lemma="πενθερά" Version="0" HasAramaic="false" InLXX="true" AlphaPos="π">
+  <StrongCodes>
+    <Strong>G3994</Strong>
+  </StrongCodes>
+  <Authors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes/>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="003897001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>noun, f.</PartOfSpeech>
+      </PartsOfSpeech>
+      <Inflections>
+        <Inflection Lemma="πενθερά" BaseFormIndex="1">
+          <Form/>
+          <Realizations>
+            <Realization>-ᾶς</Realization>
+          </Realizations>
+          <Comments/>
+        </Inflection>
+      </Inflections>
+      <RelatedLemmas>
+        <RelatedLemma>
+          <Word>πενθερός</Word>
+        </RelatedLemma>
+      </RelatedLemmas>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="003897001001000" IsBiblicalTerm="Y" EntryCode="10.59" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Kinship Terms</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Kinship Relations Based upon Marriage</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-12-24 12:25:28" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>the mother of one’s spouse</DefinitionShort>
+              <Glosses>
+                <Gloss>mother-in-law</Gloss>
+              </Glosses>
+              <Comments>In a number of languages the semantic components of ‘mother-in-law’ must be made explicit. For example, in {S:04100103000006} one may translate ‘the mother-in-law of Simon’ as ‘the mother of Simon’s wife.’</Comments>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04000801400022</LEXReference>
+            <LEXReference>04001003500038</LEXReference>
+            <LEXReference>04100103000006</LEXReference>
+            <LEXReference>04200403800022</LEXReference>
+            <LEXReference>04201205300036</LEXReference>
+            <LEXReference>04201205300054</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

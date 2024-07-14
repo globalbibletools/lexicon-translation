@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="001613000000000" Lemma="ἐκπετάννυμι" Version="0" HasAramaic="false" InLXX="false" AlphaPos="ε">
+  <StrongCodes>
+    <Strong>G1600</Strong>
+  </StrongCodes>
+  <Authors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes>
+    <Note Caller="1" LanguageCode="en" LastEdited="" LastEditedBy="">
+      <References/>
+      <Content>With ἐκτείνω and ἐκπετάννυμι there is a type of movement in space, but only a movement of an extremity, not of the base from which the extension takes place. There is a sense in which the occurrence of hand with ἐκτείνω and ἐκπετάννυμι involves the motion of a body part (see Domain 18 Attachment), but since the same terms may be used not only of body parts but of any object which may be extended, it seems more satisfactory to classify all of these related meanings together.</Content>
+    </Note>
+  </Notes>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="001613001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>verb</PartOfSpeech>
+      </PartsOfSpeech>
+      <Inflections>
+        <Inflection Lemma="ἐκπετάννυμι" BaseFormIndex="1">
+          <Form>aor.</Form>
+          <Realizations>
+            <Realization>ἐξεπέτασα</Realization>
+          </Realizations>
+          <Comments/>
+        </Inflection>
+      </Inflections>
+      <RelatedLemmas>
+        <RelatedLemma>
+          <Word>πετάννυμι</Word>
+          <Meaning LanguageCode="en">
+            <Meaning>stretch</Meaning>
+          </Meaning>
+          <Meaning LanguageCode="zhT">
+            <Meaning>伸長</Meaning>
+          </Meaning>
+        </RelatedLemma>
+        <RelatedLemma>
+          <Word>πέτομαι</Word>
+        </RelatedLemma>
+      </RelatedLemmas>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="001613001001000" IsBiblicalTerm="Y" EntryCode="16.19" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Non-Linear Movement</LEXDomain>
+          </LEXDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-10-28 12:05:15" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>to cause an object to extend in space (for example, by becoming straight, unfolded, or uncoiled){N:001}</DefinitionShort>
+              <Glosses>
+                <Gloss>to stretch out</Gloss>
+                <Gloss>to extend</Gloss>
+                <Gloss>to reach out</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04501002100018</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

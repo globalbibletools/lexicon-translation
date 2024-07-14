@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="001821000000000" Lemma="ἐξάγω" Version="0" HasAramaic="false" InLXX="true" AlphaPos="ε">
+  <StrongCodes>
+    <Strong>G1806</Strong>
+  </StrongCodes>
+  <Authors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes/>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="001821001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>verb</PartOfSpeech>
+      </PartsOfSpeech>
+      <Inflections>
+        <Inflection Lemma="ἐξάγω" BaseFormIndex="1">
+          <Form>aor.</Form>
+          <Realizations>
+            <Realization>ἐξήγαγον</Realization>
+          </Realizations>
+          <Comments/>
+        </Inflection>
+      </Inflections>
+      <RelatedLemmas>
+        <RelatedLemma>
+          <Word>ἄγω</Word>
+        </RelatedLemma>
+      </RelatedLemmas>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="001821001001000" IsBiblicalTerm="Y" EntryCode="15.174" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Linear Movement</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Lead, Bring, Take</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-06-04 09:50:33" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>to lead or bring out of a structure or area</DefinitionShort>
+              <Glosses>
+                <Gloss>to lead out</Gloss>
+                <Gloss>to bring forth</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04101502000032</LEXReference>
+            <LEXReference>04202405000002</LEXReference>
+            <LEXReference>04301000300040</LEXReference>
+            <LEXReference>04400501900022</LEXReference>
+            <LEXReference>04400703600004</LEXReference>
+            <LEXReference>04400704000030</LEXReference>
+            <LEXReference>04401201700026</LEXReference>
+            <LEXReference>04401301700050</LEXReference>
+            <LEXReference>04401603700056</LEXReference>
+            <LEXReference>04401603900012</LEXReference>
+            <LEXReference>04402103800028</LEXReference>
+            <LEXReference>05800800900034</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="002280000000000" Lemma="ἤτοι" Version="0" HasAramaic="false" InLXX="true" AlphaPos="η">
+  <StrongCodes>
+    <Strong>G2273</Strong>
+  </StrongCodes>
+  <Authors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes/>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="002280001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>conj.</PartOfSpeech>
+      </PartsOfSpeech>
+      <Constructs>
+        <Construct Lemma="ἤτοι" BaseFormIndex="1">
+          <WordMeaningSet>
+            <Word>ἤ</Word>
+          </WordMeaningSet>
+          <WordMeaningSet>
+            <Word>-τοί</Word>
+            <Meaning LanguageCode="en">
+              <Meaning>therefore, accordingly</Meaning>
+            </Meaning>
+            <Meaning LanguageCode="zhT">
+              <Meaning>因此，於是</Meaning>
+            </Meaning>
+          </WordMeaningSet>
+        </Construct>
+      </Constructs>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="002280001001000" IsBiblicalTerm="Y" EntryCode="89.140" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Relations</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Alternative Relation</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXCollocations>
+            <LEXCollocation>ἤτοι … ἤ</LEXCollocation>
+          </LEXCollocations>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-08-10 10:19:45" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>a marker of double alternatives</DefinitionShort>
+              <Glosses>
+                <Gloss>either … or</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04500601600028</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="000949000000000" Lemma="βεβηλόω" Version="0" HasAramaic="false" InLXX="true" AlphaPos="β">
+  <StrongCodes>
+    <Strong>G0953</Strong>
+  </StrongCodes>
+  <Authors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes>
+    <Note Caller="1" LanguageCode="en" LastEdited="" LastEditedBy="">
+      <References/>
+      <Content>βεβηλόω may differ significantly from κοινόω[a] in denoting a more serious degree of defilement, but this cannot be readily determined from existing contexts.</Content>
+    </Note>
+  </Notes>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="000949001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>verb</PartOfSpeech>
+      </PartsOfSpeech>
+      <Constructs>
+        <Construct Lemma="βεβηλόω" BaseFormIndex="1">
+          <WordMeaningSet>
+            <Word>βεβαιόω</Word>
+          </WordMeaningSet>
+          <WordMeaningSet>
+            <Word>βηλός</Word>
+            <Meaning LanguageCode="en">
+              <Meaning>threshold</Meaning>
+            </Meaning>
+            <Meaning LanguageCode="zhT">
+              <Meaning>門檻</Meaning>
+            </Meaning>
+          </WordMeaningSet>
+        </Construct>
+      </Constructs>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="000949001001000" IsBiblicalTerm="M" EntryCode="53.33" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Religious Activities</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Defile, Unclean, Common</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-02-05 10:38:56" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>to cause something to become unclean, profane, or ritually unacceptable{N:001}</DefinitionShort>
+              <Glosses>
+                <Gloss>to make unclean</Gloss>
+                <Gloss>to defile</Gloss>
+                <Gloss>to profane</Gloss>
+              </Glosses>
+              <Comments>In a number of languages it is quite impossible to translate literally the concept of ‘unclean,’ for physical cleanliness and ritual acceptability are completely unrelated. In some languages it is necessary to translate κοινόω[a] or βεβηλόω as ‘to take away its holiness’ or ‘to make something unacceptable to God.’ In many cultures one must express this concept as involving so-called negative taboo.</Comments>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04001200500034</LEXReference>
+            <LEXReference>04402400600012</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

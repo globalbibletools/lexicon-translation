@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="002249000000000" Lemma="ἡδύοσμον" Version="0" HasAramaic="false" InLXX="false" AlphaPos="η">
+  <StrongCodes>
+    <Strong>G2238</Strong>
+  </StrongCodes>
+  <Authors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes/>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="002249001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>noun, n.</PartOfSpeech>
+      </PartsOfSpeech>
+      <Inflections>
+        <Inflection Lemma="ἡδύοσμον" BaseFormIndex="1">
+          <Form/>
+          <Realizations>
+            <Realization>-ου</Realization>
+          </Realizations>
+          <Comments/>
+        </Inflection>
+      </Inflections>
+      <Constructs>
+        <Construct Lemma="ἡδύοσμον" BaseFormIndex="1">
+          <WordMeaningSet>
+            <Word>ἡδύς</Word>
+            <Meaning LanguageCode="en">
+              <Meaning>sweet smelling/tasting</Meaning>
+            </Meaning>
+            <Meaning LanguageCode="zhT">
+              <Meaning>芳香的，香甜的</Meaning>
+            </Meaning>
+          </WordMeaningSet>
+          <WordMeaningSet>
+            <Word>ὄζω</Word>
+          </WordMeaningSet>
+        </Construct>
+      </Constructs>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="002249001001000" IsBiblicalTerm="Y" EntryCode="3.23" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Plants</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Plants That Are Not Trees</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-07-23 10:31:20" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>fragrant plant (genus Mentha); up to 2 m high; small, soft leaves with sawlike margins; used in cooking, tea, medicine</DefinitionShort>
+              <Glosses>
+                <Gloss>mint</Gloss>
+              </Glosses>
+              <Comments>In designating ‘mint’ as well as {L:ἄνηθον&lt;SDBG:ἄνηθον&gt;} ‘dill,’ {L:πήγανον&lt;SDBG:πήγανον&gt;} ‘rue,’ and {L:κύμινον&lt;SDBG:κύμινον&gt;} ‘cumin,’ it is probably wise to borrow a term and use a classifier, for example, ‘a seasoning herb called mint.’</Comments>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04002302300020</LEXReference>
+            <LEXReference>04201104200018</LEXReference>
+          </LEXReferences>
+          <LEXLinks>
+            <LEXLink>flora:3.5.7</LEXLink>
+          </LEXLinks>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

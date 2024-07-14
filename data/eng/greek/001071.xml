@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="001071000000000" Lemma="γαμίζω" Version="0" HasAramaic="false" InLXX="false" AlphaPos="γ">
+  <StrongCodes>
+    <Strong>G1061a</Strong>
+  </StrongCodes>
+  <Authors/>
+  <AlternateLemmas>
+    <AlternateLemma>γαμίσκω</AlternateLemma>
+  </AlternateLemmas>
+  <MainLinks/>
+  <Notes>
+    <Note Caller="1" LanguageCode="en" LastEdited="" LastEditedBy="">
+      <References/>
+      <Content>γάμος[a] differs in meaning from γαμέω and γαμίζω[a] ({D:34.66}) in denoting the state of being married and not simply the act of entering into a marriage relation.</Content>
+    </Note>
+  </Notes>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="001071001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>verb</PartOfSpeech>
+      </PartsOfSpeech>
+      <RelatedLemmas>
+        <RelatedLemma>
+          <Word>γαμέω</Word>
+        </RelatedLemma>
+      </RelatedLemmas>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="001071001001000" IsBiblicalTerm="Y" EntryCode="34.66" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Association</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Marriage, Divorce</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-05-13 21:43:41" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>to enter into a marriage relation, applicable either to a man or to a woman{N:001}</DefinitionShort>
+              <Glosses>
+                <Gloss>to marry</Gloss>
+                <Gloss>marriage</Gloss>
+              </Glosses>
+              <Comments>Some interpreters understand γαμίζω in {S:04600703800008} to mean ‘to give in marriage’ (see {D:34.72}). See also the discussion at {D:13.32}.</Comments>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04600703800008</LEXReference>
+            <LEXReference>04600703800026</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+        <LEXMeaning Id="001071001002000" IsBiblicalTerm="Y" EntryCode="34.72" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Association</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Marriage, Divorce</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-05-13 21:43:41" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>to cause a person to become married</DefinitionShort>
+              <Glosses>
+                <Gloss>to give in marriage</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04002203000016</LEXReference>
+            <LEXReference>04002403800034</LEXReference>
+            <LEXReference>04101202500018</LEXReference>
+            <LEXReference>04201702700008</LEXReference>
+            <LEXReference>04202003400026</LEXReference>
+            <LEXReference>04202003500034</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="004080000000000" Lemma="πολίτης" Version="0" HasAramaic="false" InLXX="true" AlphaPos="π">
+  <StrongCodes>
+    <Strong>G4177</Strong>
+  </StrongCodes>
+  <Authors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes/>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="004080001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>noun, m.</PartOfSpeech>
+      </PartsOfSpeech>
+      <Inflections>
+        <Inflection Lemma="πολίτης" BaseFormIndex="1">
+          <Form/>
+          <Realizations>
+            <Realization>-ου</Realization>
+          </Realizations>
+          <Comments/>
+        </Inflection>
+      </Inflections>
+      <RelatedLemmas>
+        <RelatedLemma>
+          <Word>πολιτεύομαι</Word>
+        </RelatedLemma>
+      </RelatedLemmas>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="004080001001000" IsBiblicalTerm="Y" EntryCode="11.68" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Groups and Classes of Persons and Members of Such Groups and Classes</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Socio-Political</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2022-01-06 15:09:44" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>a person having full status as a member of a socio-political unit of people</DefinitionShort>
+              <Glosses>
+                <Gloss>citizen</Gloss>
+              </Glosses>
+              <Comments>In a number of languages a citizen may be described as ‘a person who belongs to that country’ or ‘one who is a part of the people of that country’ or ‘one who is counted as a person of that country,’ but one could be a citizen of a country without necessarily living in such a geographical area.|In {S:05800801100014} (καὶ οὐ μὴ διδάξωσιν ἕκαστος τὸν πολίτην αὐτοῦ ‘none of them will have to teach his fellow citizen’) πολίτης occurs with the possessive pronoun αὐτοῦ and hence is therefore equivalent to {L:συμπολίτης&lt;SDBG:συμπολίτης:000000&gt;} ({D:11.72}) in meaning.</Comments>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04201501500012</LEXReference>
+            <LEXReference>04201901400006</LEXReference>
+            <LEXReference>04402103900032</LEXReference>
+            <LEXReference>05800801100014</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

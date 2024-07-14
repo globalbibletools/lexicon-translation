@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="000993000000000" Lemma="βλαστάνω" Version="0" HasAramaic="false" InLXX="true" AlphaPos="β">
+  <StrongCodes>
+    <Strong>G0985</Strong>
+  </StrongCodes>
+  <Authors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes>
+    <Note Caller="1" LanguageCode="en" LastEdited="" LastEditedBy="">
+      <References/>
+      <Content>By setting up certain highly generic meanings for βλαστάνω, δίδωμι, ἀποδίδωμι, and ποιέω, it would be possible to treat the phrase compounds in this series as being semantically endocentric. However, it seems more satisfactory to regard them as what might be called low-grade idioms with specialized meanings of the semantically head expressions.</Content>
+    </Note>
+  </Notes>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="000993001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>verb</PartOfSpeech>
+      </PartsOfSpeech>
+      <Inflections>
+        <Inflection Lemma="βλαστάνω" BaseFormIndex="1">
+          <Form>aor.</Form>
+          <Realizations>
+            <Realization>ἐβλάστησα</Realization>
+          </Realizations>
+          <Comments/>
+        </Inflection>
+      </Inflections>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="000993001001000" IsBiblicalTerm="Y" EntryCode="23.195" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Physiological Processes and States</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Grow, Growth</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-02-05 17:42:42" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>to begin vegetative growth, with special emphasis upon the sprouting of leaves</DefinitionShort>
+              <Glosses>
+                <Gloss>to sprout</Gloss>
+                <Gloss>to sprout leaves</Gloss>
+              </Glosses>
+              <Comments>The initial stages of growth, either of a plant as a whole or in the renewal of foliage after a winter or dry season, may be expressed in a number of ways, for example, ‘to become green again,’ ‘to show leaves,’ ‘to see leaves begin,’ or ‘when leaves unfold.’</Comments>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04001302600006</LEXReference>
+            <LEXReference>04100402700022</LEXReference>
+            <LEXReference>05800900400048</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+        <LEXMeaning Id="000993001002000" IsBiblicalTerm="M" EntryCode="23.199" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Physiological Processes and States</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Ripen, Produce Fruit, Bear Seed</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXCollocations>
+            <LEXCollocation>καρπὸν βλαστάνω</LEXCollocation>
+          </LEXCollocations>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-02-05 17:42:42" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>to produce fruit or seed (of plants){N:001}</DefinitionShort>
+              <Glosses>
+                <Gloss>to bear fruit</Gloss>
+                <Gloss>to produce fruit</Gloss>
+                <Gloss>to produce seed</Gloss>
+                <Gloss>to yield</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>05900501800024</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

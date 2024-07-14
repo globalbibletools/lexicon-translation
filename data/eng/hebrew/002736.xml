@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="002736000000000" Lemma="יאל" Version="5" HasAramaic="false" InLXX="false" AlphaPos="י">
+  <StrongCodes>
+    <Strong>H2973</Strong>
+    <Strong>H2974</Strong>
+  </StrongCodes>
+  <Authors>
+    <Author>Timothy L. Wilt; Enio R. Mueller</Author>
+  </Authors>
+  <Contributors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes/>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="002736001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>vb</PartOfSpeech>
+      </PartsOfSpeech>
+      <RelatedLemmas>
+        <RelatedLemma>
+          <Word>אִוֶּלֶת</Word>
+        </RelatedLemma>
+      </RelatedLemmas>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="002736001001000" IsBiblicalTerm="M" EntryCode="" Indent="0">
+          <LEXDomains>
+            <LEXDomain Code="002001002010">Foolish</LEXDomain>
+          </LEXDomains>
+          <LEXForms>
+            <LEXForm>vbnif-</LEXForm>
+          </LEXForms>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2016-06-13 22:54:07" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>= to be and/or behave like one with little insight, education or wisdom; ≈ pejorative (see the related term {L:אִוֶּלֶת&lt;SDBH:אִוֶּלֶת&gt;})</DefinitionShort>
+              <Glosses>
+                <Gloss>to be foolish</Gloss>
+                <Gloss>to be ignorant</Gloss>
+                <Gloss>to be without understanding</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>00401201100028</LEXReference>
+            <LEXReference>02301901300002</LEXReference>
+            <LEXReference>02400500400014</LEXReference>
+            <LEXReference>02405003600012</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+          <LEXCoreDomains>
+            <LEXCoreDomain Code="199">Wisdom</LEXCoreDomain>
+          </LEXCoreDomains>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+    <BaseForm Id="002736002000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>vb</PartOfSpeech>
+      </PartsOfSpeech>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="002736002001000" IsBiblicalTerm="Y" EntryCode="" Indent="0">
+          <LEXDomains>
+            <LEXDomain Code="002001002028">Willing</LEXDomain>
+          </LEXDomains>
+          <LEXForms>
+            <LEXForm>vbhif-</LEXForm>
+          </LEXForms>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2018-02-16 08:15:27" LastEditedBy="administrator">
+              <DefinitionLong/>
+              <DefinitionShort>= state in which humans and deities are willing to do something; often used in polite speech to soften one's request or to underline its sincerity</DefinitionShort>
+              <Glosses>
+                <Gloss>to be willing</Gloss>
+                <Gloss>to accept (to do something)</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>00200202100004</LEXReference>
+            <LEXReference>00600700700058</LEXReference>
+            <LEXReference>00701701100004</LEXReference>
+            <LEXReference>00701900600034</LEXReference>
+            <LEXReference>00901202200026</LEXReference>
+            <LEXReference>01000702900006</LEXReference>
+            <LEXReference>01200502300008</LEXReference>
+            <LEXReference>01200600300010</LEXReference>
+            <LEXReference>01301702700006</LEXReference>
+            <LEXReference>01800600900004</LEXReference>
+            <LEXReference>01800602800006</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+          <LEXCoreDomains>
+            <LEXCoreDomain Code="197">Willingness</LEXCoreDomain>
+          </LEXCoreDomains>
+        </LEXMeaning>
+        <LEXMeaning Id="002736002002000" IsBiblicalTerm="Y" EntryCode="" Indent="0">
+          <LEXDomains>
+            <LEXDomain Code="002004002014" Source="Willing" SourceCode="002001002028">Think</LEXDomain>
+          </LEXDomains>
+          <LEXForms>
+            <LEXForm>vbhif-</LEXForm>
+          </LEXForms>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2018-02-16 08:28:16" LastEditedBy="administrator">
+              <DefinitionLong/>
+              <DefinitionShort>= action by which humans a take firm decision to do something, often in spite of the circumstances</DefinitionShort>
+              <Glosses>
+                <Gloss>to resolve</Gloss>
+                <Gloss>to persist</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>00101802700016</LEXReference>
+            <LEXReference>00101803100010</LEXReference>
+            <LEXReference>00500100500016</LEXReference>
+            <LEXReference>00601701200028</LEXReference>
+            <LEXReference>00700102700078</LEXReference>
+            <LEXReference>00700103500004</LEXReference>
+            <LEXReference>02800501100012</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+          <LEXCoreDomains>
+            <LEXCoreDomain Code="106">Mind</LEXCoreDomain>
+          </LEXCoreDomains>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

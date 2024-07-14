@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="001032000000000" Lemma="βρέφος" Version="0" HasAramaic="false" InLXX="true" AlphaPos="β">
+  <StrongCodes>
+    <Strong>G1025</Strong>
+  </StrongCodes>
+  <Authors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes>
+    <Note Caller="1" LanguageCode="en" LastEdited="" LastEditedBy="">
+      <References/>
+      <Content>The meanings of terms in {D:67.152}-{D:67.158} could almost be treated equally well in Domain 23 Physiological Processes and States, since these could be regarded as simply derivatives of physiological states. However, the focus of meaning in the respective contexts seems to be more upon a particular period of time rather than upon a physiological state or condition.</Content>
+    </Note>
+  </Notes>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="001032001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>noun, n.</PartOfSpeech>
+      </PartsOfSpeech>
+      <Inflections>
+        <Inflection Lemma="βρέφος" BaseFormIndex="1">
+          <Form/>
+          <Realizations>
+            <Realization>-ους</Realization>
+          </Realizations>
+          <Comments/>
+        </Inflection>
+      </Inflections>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="001032001001000" IsBiblicalTerm="M" EntryCode="9.45" Indent="0">
+          <LEXDomains>
+            <LEXDomain>People</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Children</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-02-12 13:51:46" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>a very small child, even one still unborn</DefinitionShort>
+              <Glosses>
+                <Gloss>baby</Gloss>
+                <Gloss>infant</Gloss>
+                <Gloss>fetus</Gloss>
+              </Glosses>
+              <Comments>In a number of languages one must make a clear distinction between a baby after its birth and one before birth, that is, a fetus. Hence, in such languages the term employed in {S:04200104100026} must be quite different from the term used in {S:04200201200014}.</Comments>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04200104100026</LEXReference>
+            <LEXReference>04200104400036</LEXReference>
+            <LEXReference>04200201200014</LEXReference>
+            <LEXReference>04200201600028</LEXReference>
+            <LEXReference>04201801500012</LEXReference>
+            <LEXReference>04400701900026</LEXReference>
+            <LEXReference>06000200200006</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+        <LEXMeaning Id="001032001002000" IsBiblicalTerm="M" EntryCode="67.152" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Time</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Indefinite Units of Time: Age, Lifetime, Interval, Period</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-02-12 13:51:46" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>the period of time when one is very young{N:001}</DefinitionShort>
+              <Glosses>
+                <Gloss>childhood (probably implying a time when a child is still nursing)</Gloss>
+                <Gloss>infancy</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>05500301500008</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

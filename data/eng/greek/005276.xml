@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="005276000000000" Lemma="φιλόσοφος" Version="0" HasAramaic="false" InLXX="true" AlphaPos="φ">
+  <StrongCodes>
+    <Strong>G5386</Strong>
+  </StrongCodes>
+  <Authors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes/>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="005276001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>noun, m.</PartOfSpeech>
+      </PartsOfSpeech>
+      <Inflections>
+        <Inflection Lemma="φιλόσοφος" BaseFormIndex="1">
+          <Form/>
+          <Realizations>
+            <Realization>-ου</Realization>
+          </Realizations>
+          <Comments/>
+        </Inflection>
+      </Inflections>
+      <Constructs>
+        <Construct Lemma="φιλόσοφος" BaseFormIndex="1">
+          <WordMeaningSet>
+            <Word>φιλέω</Word>
+          </WordMeaningSet>
+          <WordMeaningSet>
+            <Word>σοφίζω</Word>
+          </WordMeaningSet>
+        </Construct>
+      </Constructs>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="005276001001000" IsBiblicalTerm="Y" EntryCode="32.39" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Understand</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Capacity for Understanding</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2022-05-19 14:20:13" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>a person of professional or semi-professional status regarded as having particular capacity or competence in understanding the meaning or significance of human experience</DefinitionShort>
+              <Glosses>
+                <Gloss>philosopher</Gloss>
+                <Gloss>scholar</Gloss>
+              </Glosses>
+              <Comments>In some instances φιλόσοφος in {S:04401701800016} may be translated simply as ‘teacher,’ since such a word would normally designate a professional or semi-professional person involved in scholarly activities.</Comments>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04401701800016</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

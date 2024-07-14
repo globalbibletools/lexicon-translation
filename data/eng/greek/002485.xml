@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="002485000000000" Lemma="ἰχθύδιον" Version="0" HasAramaic="false" InLXX="false" AlphaPos="ι">
+  <StrongCodes>
+    <Strong>G2485</Strong>
+  </StrongCodes>
+  <Authors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes/>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="002485001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>noun, n.</PartOfSpeech>
+      </PartsOfSpeech>
+      <Inflections>
+        <Inflection Lemma="ἰχθύδιον" BaseFormIndex="1">
+          <Form/>
+          <Realizations>
+            <Realization>-ου</Realization>
+          </Realizations>
+          <Comments/>
+        </Inflection>
+      </Inflections>
+      <RelatedLemmas>
+        <RelatedLemma>
+          <Word>ἰχθύς</Word>
+        </RelatedLemma>
+      </RelatedLemmas>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="002485001001000" IsBiblicalTerm="M" EntryCode="4.60" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Animals</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Fishes and Other Sea Creatures</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-09-01 11:04:10" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>(diminutive of {L:ἰχθύς&lt;SDBG:ἰχθύς:000000&gt;} ‘fish,’ {D:4.59}) any kind of relatively small fish</DefinitionShort>
+              <Glosses>
+                <Gloss>little fish</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04001503400030</LEXReference>
+            <LEXReference>04100800700006</LEXReference>
+          </LEXReferences>
+          <LEXLinks>
+            <LEXLink>fauna:5.1</LEXLink>
+          </LEXLinks>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="003899000000000" Lemma="מַחְסֹור" Version="4" HasAramaic="false" InLXX="false" AlphaPos="מ">
+  <StrongCodes>
+    <Strong>H4270</Strong>
+  </StrongCodes>
+  <Authors>
+    <Author>Reinier de Blois</Author>
+  </Authors>
+  <Contributors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes/>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="003899001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>nsm</PartOfSpeech>
+      </PartsOfSpeech>
+      <RelatedLemmas>
+        <RelatedLemma>
+          <Word>חסר</Word>
+        </RelatedLemma>
+      </RelatedLemmas>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="003899001001000" IsBiblicalTerm="Y" EntryCode="" Indent="0">
+          <LEXDomains>
+            <LEXDomain Code="002002001017">Non-Space</LEXDomain>
+          </LEXDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2017-11-15 08:32:42" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>= state in which objects are found less in quantity or entirely absent in a location where they are supposed to be present</DefinitionShort>
+              <Glosses>
+                <Gloss>lack</Gloss>
+                <Gloss>scarcity</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>00701801000042</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+          <LEXCoreDomains>
+            <LEXCoreDomain Code="138">Quantity</LEXCoreDomain>
+          </LEXCoreDomains>
+        </LEXMeaning>
+        <LEXMeaning Id="003899001002000" IsBiblicalTerm="Y" EntryCode="" Indent="0">
+          <LEXDomains>
+            <LEXDomain Code="002003002019" Source="Non-Space" SourceCode="002002001017">Non-Possess</LEXDomain>
+          </LEXDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2017-11-15 08:32:42" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>= state in which humans lack something that they are supposed to have</DefinitionShort>
+              <Glosses>
+                <Gloss>need</Gloss>
+                <Gloss>want</Gloss>
+                <Gloss>poverty</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>00501500800022</LEXReference>
+            <LEXReference>00701901900052</LEXReference>
+            <LEXReference>00701902000022</LEXReference>
+            <LEXReference>01903401000014</LEXReference>
+            <LEXReference>02000601100014</LEXReference>
+            <LEXReference>02001102400024</LEXReference>
+            <LEXReference>02001402300022</LEXReference>
+            <LEXReference>02002100500022</LEXReference>
+            <LEXReference>02002101700004</LEXReference>
+            <LEXReference>02002201600022</LEXReference>
+            <LEXReference>02002403400012</LEXReference>
+            <LEXReference>02002802700012</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+          <LEXCoreDomains>
+            <LEXCoreDomain Code="138">Quantity</LEXCoreDomain>
+            <LEXCoreDomain Code="128">Possession</LEXCoreDomain>
+          </LEXCoreDomains>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

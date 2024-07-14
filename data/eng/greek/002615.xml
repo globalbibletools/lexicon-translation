@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="002615000000000" Lemma="κατάγνυμι" Version="0" HasAramaic="false" InLXX="true" AlphaPos="κ">
+  <StrongCodes>
+    <Strong>G2608</Strong>
+  </StrongCodes>
+  <Authors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes/>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="002615001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>verb</PartOfSpeech>
+      </PartsOfSpeech>
+      <Inflections>
+        <Inflection Lemma="κατάγνυμι" BaseFormIndex="1">
+          <Form>fut.</Form>
+          <Realizations>
+            <Realization>κατεάξω</Realization>
+          </Realizations>
+          <Comments/>
+        </Inflection>
+        <Inflection Lemma="κατάγνυμι" BaseFormIndex="1">
+          <Form>aor.</Form>
+          <Realizations>
+            <Realization>κατέαξα</Realization>
+          </Realizations>
+          <Comments/>
+        </Inflection>
+        <Inflection Lemma="κατάγνυμι" BaseFormIndex="1">
+          <Form>aor.pass.</Form>
+          <Realizations>
+            <Realization>κατεάγην</Realization>
+          </Realizations>
+          <Comments/>
+        </Inflection>
+        <Inflection Lemma="κατάγνυμι" BaseFormIndex="1">
+          <Form>subj.3pl.</Form>
+          <Realizations>
+            <Realization>κατεαγῶσιν</Realization>
+          </Realizations>
+          <Comments/>
+        </Inflection>
+      </Inflections>
+      <RelatedLemmas>
+        <RelatedLemma>
+          <Word>ἀξίνη [ἄγνυμι]</Word>
+          <Meaning LanguageCode="en">
+            <Meaning>break</Meaning>
+          </Meaning>
+          <Meaning LanguageCode="zhT">
+            <Meaning>打破</Meaning>
+          </Meaning>
+        </RelatedLemma>
+      </RelatedLemmas>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="002615001001000" IsBiblicalTerm="Y" EntryCode="19.35" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Physical Impact</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Break, Break Through</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-09-17 11:26:05" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>to break or to shatter a rigid object</DefinitionShort>
+              <Glosses>
+                <Gloss>to break</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04001202000008</LEXReference>
+            <LEXReference>04301903100060</LEXReference>
+            <LEXReference>04301903200018</LEXReference>
+            <LEXReference>04301903300024</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="000196000000000" Lemma="ἀκρίς" Version="0" HasAramaic="false" InLXX="true" AlphaPos="α">
+  <StrongCodes>
+    <Strong>G0200</Strong>
+  </StrongCodes>
+  <Authors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes/>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="000196001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>noun, f.</PartOfSpeech>
+      </PartsOfSpeech>
+      <Inflections>
+        <Inflection Lemma="ἀκρίς" BaseFormIndex="1">
+          <Form/>
+          <Realizations>
+            <Realization>-ίδος</Realization>
+          </Realizations>
+          <Comments/>
+        </Inflection>
+      </Inflections>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="000196001001000" IsBiblicalTerm="M" EntryCode="4.47" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Animals</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Insects</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-07-30 22:56:47" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>six-legged winged insect characterized by the fact that its third pair of legs is elongated and adapted to hopping; Acrididae family; moves in swarms that migrate to new areas, which they colonize; at other times lives solitary or in small groups; eaten cooked by toasting, grilling, frying, or broiling, though in some places they are also eaten raw; because of their large numbers and swarming characteristics, locusts were a symbol of a vast attacking army against which there was no defense and also a symbol of divine punishment</DefinitionShort>
+              <Glosses>
+                <Gloss>grasshopper</Gloss>
+                <Gloss>locust</Gloss>
+              </Glosses>
+              <Comments>The four NT contexts in which ἀκρίς occurs refer to these insects either as being edible ({S:04000300400048}; {S:04100100600034}) or as being very destructive ({S:06600900300012}).|Some persons have assumed that the reference to grasshoppers being eaten by John the Baptist should be understood not as the insects but as carob pods, but there is neither linguistic nor cultural evidence to support such an interpretation.|In a number of parts of the world there are different kinds of grasshoppers/locusts, some of which are edible, and others which are not edible. It is therefore important in the contexts of {S:04000300400048} and {S:04100100600034} to select a term which designates edible insects.</Comments>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04000300400048</LEXReference>
+            <LEXReference>04100100600034</LEXReference>
+            <LEXReference>06600900300012</LEXReference>
+            <LEXReference>06600900700010</LEXReference>
+          </LEXReferences>
+          <LEXLinks>
+            <LEXLink>fauna:6.9</LEXLink>
+          </LEXLinks>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

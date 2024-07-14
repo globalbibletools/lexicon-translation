@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="001013000000000" Lemma="βόσκω" Version="0" HasAramaic="false" InLXX="true" AlphaPos="β">
+  <StrongCodes>
+    <Strong>G1006</Strong>
+  </StrongCodes>
+  <Authors/>
+  <AlternateLemmas>
+    <AlternateLemma>βόσκομαι</AlternateLemma>
+  </AlternateLemmas>
+  <MainLinks/>
+  <Notes/>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="001013001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>verb</PartOfSpeech>
+      </PartsOfSpeech>
+      <RelatedLemmas>
+        <RelatedLemma>
+          <Word>βοτάνη</Word>
+        </RelatedLemma>
+      </RelatedLemmas>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="001013001001000" IsBiblicalTerm="Y" EntryCode="23.10" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Physiological Processes and States</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Eat, Drink</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXForms>
+            <LEXForm>βόσκομαι[a]</LEXForm>
+          </LEXForms>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-02-08 23:49:00" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>to cause animals to eat, particularly pasturing animals</DefinitionShort>
+              <Glosses>
+                <Gloss>to feed</Gloss>
+                <Gloss>to cause to eat</Gloss>
+              </Glosses>
+              <Comments>It is possible to interpret βόσκω in {S:04302101500054} as meaning ‘to tend’ or ‘to take care of,’ especially since βόσκω occurs in a figurative context referring to people. Such an interpretation may be classified in Domain 35 Help, Care For Subdomain D Care For, Take Care Of, as a figurative meaning. However, it seems more likely that βόσκω in {S:04302101500054} should be understood as an instance of figurative usage, and as such it may also be interpreted as βόσκω[b] ‘to take care of,’ {D:44.1}.</Comments>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04302101500054</LEXReference>
+            <LEXReference>04302101700070</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+        <LEXMeaning Id="001013001002000" IsBiblicalTerm="Y" EntryCode="44.1" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Animal Husbandry, Fishing</LEXDomain>
+          </LEXDomains>
+          <LEXForms>
+            <LEXForm>βόσκομαι[b]</LEXForm>
+          </LEXForms>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-02-08 23:49:00" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>to herd animals so as to provide them with adequate pasture and to take care of what other needs may be involved</DefinitionShort>
+              <Glosses>
+                <Gloss>to take care of</Gloss>
+                <Gloss>to herd</Gloss>
+                <Gloss>to look after</Gloss>
+              </Glosses>
+              <Comments>For another interpretation of βόσκω in {S:04302101500054}, see {L:βόσκω&lt;SDBG:βόσκω:000000&gt;}[a] {D:23.10}.</Comments>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04000803300006</LEXReference>
+            <LEXReference>04100501400006</LEXReference>
+            <LEXReference>04200803400008</LEXReference>
+            <LEXReference>04201501500034</LEXReference>
+            <LEXReference>04302101500054</LEXReference>
+            <LEXReference>04302101700070</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+        <LEXMeaning Id="001013001003000" IsBiblicalTerm="Y" EntryCode="23.9" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Physiological Processes and States</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Eat, Drink</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXForms>
+            <LEXForm>βόσκομαι[c]</LEXForm>
+          </LEXForms>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-02-08 23:49:00" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>eating by animals</DefinitionShort>
+              <Glosses>
+                <Gloss>to graze</Gloss>
+                <Gloss>to feed</Gloss>
+              </Glosses>
+              <Comments>In some languages a distinction is made in terms relating to eating by animals on the basis of the type of food involved, for example, animals which graze on grass in contrast with those who eat refuse, roots, acorns, etc. An additional distinction is sometimes made in the case of animals which are largely meat-eating in contrast with those that are predominantly plant-eating.</Comments>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04000803000018</LEXReference>
+            <LEXReference>04100501100020</LEXReference>
+            <LEXReference>04200803200014</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="007301000000000" Lemma="שַׁחַר" Version="4" HasAramaic="false" InLXX="false" AlphaPos="ש">
+  <StrongCodes>
+    <Strong>H7837</Strong>
+  </StrongCodes>
+  <Authors>
+    <Author>Reinier de Blois</Author>
+  </Authors>
+  <Contributors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes>
+    <Note Caller="1" LanguageCode="en" LastEdited="" LastEditedBy="">
+      <References>
+        <Reference>01803801200016</Reference>
+      </References>
+      <Content>MT-K ידעת השׁחר | MT-Q יִדַּעְתָּ הַשַּׁחַר</Content>
+    </Note>
+    <Note Caller="2" LanguageCode="en" LastEdited="" LastEditedBy="">
+      <References>
+        <Reference>02300802000034</Reference>
+      </References>
+      <Content>REB "force" | Driver (1940,162) "magical power"</Content>
+    </Note>
+  </Notes>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="007301001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>nsm</PartOfSpeech>
+      </PartsOfSpeech>
+      <RelatedLemmas>
+        <RelatedLemma>
+          <Word>שׁחר</Word>
+        </RelatedLemma>
+      </RelatedLemmas>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="007301001001000" IsBiblicalTerm="Y" EntryCode="" Indent="0">
+          <LEXDomains>
+            <LEXDomain Code="002002002010">Time</LEXDomain>
+          </LEXDomains>
+          <LEXSynonyms>
+            <LEXSynonym>בֹּקֶר</LEXSynonym>
+            <LEXSynonym>נֶשֶׁף</LEXSynonym>
+          </LEXSynonyms>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2017-04-03 17:11:40" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>= the first appearance of light in the sky in the early morning</DefinitionShort>
+              <Glosses>
+                <Gloss>dawn</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>00101901500008</LEXReference>
+            <LEXReference>00103202500026</LEXReference>
+            <LEXReference>00103202700014</LEXReference>
+            <LEXReference>00600601500026</LEXReference>
+            <LEXReference>00701902500078</LEXReference>
+            <LEXReference>00900902600016</LEXReference>
+            <LEXReference>01600401500032</LEXReference>
+            <LEXReference>01800300900028</LEXReference>
+            <LEXReference>01803801200016{N:001}</LEXReference>
+            <LEXReference>01803801200022</LEXReference>
+            <LEXReference>01804101000016</LEXReference>
+            <LEXReference>01902200100014</LEXReference>
+            <LEXReference>01905700900018</LEXReference>
+            <LEXReference>01910800300014</LEXReference>
+            <LEXReference>01913900900006</LEXReference>
+            <LEXReference>02200601000012</LEXReference>
+            <LEXReference>02300802000034{N:002}</LEXReference>
+            <LEXReference>02301401200014</LEXReference>
+            <LEXReference>02305800800010</LEXReference>
+            <LEXReference>02800600300018</LEXReference>
+            <LEXReference>02801001500022</LEXReference>
+            <LEXReference>03000401300030</LEXReference>
+            <LEXReference>03200400700018</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+          <LEXCoreDomains>
+            <LEXCoreDomain Code="180">Time</LEXCoreDomain>
+            <LEXCoreDomain Code="100">Light and Darkness</LEXCoreDomain>
+          </LEXCoreDomains>
+        </LEXMeaning>
+        <LEXMeaning Id="007301001002000" IsBiblicalTerm="Y" EntryCode="" Indent="0">
+          <LEXDomains>
+            <LEXDomain Code="002001001018" Source="Time" SourceCode="002002002010">Dark</LEXDomain>
+          </LEXDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2023-01-19 21:32:19" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>literally: dawn; hence: = state in which there is (almost) no light, ► resulting in a state in which no one can readily see, and colors and shapes cannot yet be distinguished</DefinitionShort>
+              <Glosses>
+                <Gloss>darkness</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>02900200200020</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+          <LEXCoreDomains>
+            <LEXCoreDomain Code="180">Time</LEXCoreDomain>
+            <LEXCoreDomain Code="100">Light and Darkness</LEXCoreDomain>
+          </LEXCoreDomains>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

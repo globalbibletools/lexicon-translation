@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="004111000000000" Lemma="πορφύρα" Version="0" HasAramaic="false" InLXX="true" AlphaPos="π">
+  <StrongCodes>
+    <Strong>G4209</Strong>
+  </StrongCodes>
+  <Authors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes>
+    <Note Caller="1" LanguageCode="en" LastEdited="" LastEditedBy="">
+      <References>
+        <Reference>06601801200026</Reference>
+      </References>
+      <Content>From the context of {S:06601801200026} it is impossible to determine whether the referents of βύσσινον ({D:6.167}), σιρικόν ({D:6.168}), and πορφύρα ({D:6.169}) are cloth or garments made of linen, silk, and purple cloth respectively.</Content>
+    </Note>
+  </Notes>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="004111001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>noun, f.</PartOfSpeech>
+      </PartsOfSpeech>
+      <Inflections>
+        <Inflection Lemma="πορφύρα" BaseFormIndex="1">
+          <Form/>
+          <Realizations>
+            <Realization>-ας</Realization>
+          </Realizations>
+          <Comments/>
+        </Inflection>
+      </Inflections>
+      <RelatedLemmas>
+        <RelatedLemma>
+          <Word>πορφυρόπωλις</Word>
+        </RelatedLemma>
+        <RelatedLemma>
+          <Word>πορφυροῦς</Word>
+        </RelatedLemma>
+      </RelatedLemmas>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="004111001001000" IsBiblicalTerm="M" EntryCode="6.169" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Artifacts</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Cloth, Leather, and Objects Made of Such Materials</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2022-01-06 16:13:30" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>a reddish-purple cloth dyed with a substance obtained from the murex shellfish; expensive to produce; associated with wealth and royalty</DefinitionShort>
+              <Glosses>
+                <Gloss>scarlet cloth</Gloss>
+              </Glosses>
+              <Comments>In a number of languages there is no special color term for reddish-purple, since the color in question is sometimes classified as a kind of blue and in other instances it is related to black. However, in all languages it is possible to be somewhat more precise about color terms by likening the color to that of a local flower or bird.</Comments>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04101501700008</LEXReference>
+            <LEXReference>04101502000016</LEXReference>
+            <LEXReference>04201601900016</LEXReference>
+            <LEXReference>06601801200026{N:001}</LEXReference>
+          </LEXReferences>
+          <LEXLinks>
+            <LEXLink>realia:1.5.3.10</LEXLink>
+          </LEXLinks>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

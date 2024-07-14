@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="000652000000000" Lemma="אַרְגֹּב" Version="5" HasAramaic="false" InLXX="false" AlphaPos="א">
+  <StrongCodes>
+    <Strong>H0709</Strong>
+  </StrongCodes>
+  <Authors>
+    <Author>Reinier de Blois</Author>
+  </Authors>
+  <Contributors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes>
+    <Note Caller="1" LanguageCode="en" LastEdited="" LastEditedBy="">
+      <References>
+        <Reference>01201502500040</Reference>
+      </References>
+      <Content>{A:NJPS} "men from Argob" [a] | {A:HOTTP}-A {A:NIV} {A:NRSV} {A:CEV} [b] | {A:RSV} {A:NJB} {A:REB} {A:GNT} omit</Content>
+    </Note>
+  </Notes>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="000652001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>np</PartOfSpeech>
+      </PartsOfSpeech>
+      <MeaningsOfName>
+        <MeaningOfName LanguageCode="en">
+          <Meaning>heap of clods</Meaning>
+        </MeaningOfName>
+        <MeaningOfName LanguageCode="pt">
+          <Meaning>montão de torrões</Meaning>
+        </MeaningOfName>
+      </MeaningsOfName>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="000652001001000" IsBiblicalTerm="Y" EntryCode="" Indent="0">
+          <LEXDomains>
+            <LEXDomain Code="003001010">Names of Locations</LEXDomain>
+          </LEXDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2010-08-08 10:29:31" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>= region; ◄ part of {L:Bashan&lt;SDBH:בָּשָׁן&gt;}</DefinitionShort>
+              <Glosses>
+                <Gloss>Argob</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>00500300400046</LEXReference>
+            <LEXReference>00500301300040</LEXReference>
+            <LEXReference>00500301400016</LEXReference>
+            <LEXReference>01100401300034</LEXReference>
+            <LEXReference>01201502500040{N:001}</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+          <LEXCoordinates>
+            <LEXCoordinates>33.144,36.136</LEXCoordinates>
+          </LEXCoordinates>
+        </LEXMeaning>
+        <LEXMeaning Id="000652001002000" IsBiblicalTerm="Y" EntryCode="" Indent="0">
+          <LEXDomains>
+            <LEXDomain Code="003001007">Names of People</LEXDomain>
+          </LEXDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2010-08-08 10:29:31" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>meaning unsure; possibly: = man; ► conspired against {L:Pekahiah&lt;SDBH:פְּקַחְיָה&gt;} together with {L:Pekah&lt;SDBH:פֶּקַח&gt;} and {L:Arieh&lt;SDBH:אַרְיֵה&gt;}</DefinitionShort>
+              <Glosses>
+                <Gloss>Argob</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>01201502500040{N:001}</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

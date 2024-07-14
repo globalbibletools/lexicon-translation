@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="004644000000000" Lemma="στίγμα" Version="0" HasAramaic="false" InLXX="true" AlphaPos="σ">
+  <StrongCodes>
+    <Strong>G4742</Strong>
+  </StrongCodes>
+  <Authors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes>
+    <Note Caller="1" LanguageCode="en" LastEdited="" LastEditedBy="">
+      <References/>
+      <Content>Properly speaking, στίγμα[a] ({D:8.55}) and τύπος[a] ({D:8.56}) are not body parts, but may refer to features of the body which may result from some external force or object and could accordingly be classified in Domain 19 Physical Impact. They are, however, included at this point because they may refer to types of scars, which become a permanent feature of the body.</Content>
+    </Note>
+    <Note Caller="2" LanguageCode="en" LastEdited="" LastEditedBy="">
+      <References/>
+      <Content>στίγμα[b] differs from στίγμα[a] ({D:8.55}) in that the significance of the scar is not the physical object as such but the meaning which the scar carries.</Content>
+    </Note>
+  </Notes>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="004644001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>noun, n.</PartOfSpeech>
+      </PartsOfSpeech>
+      <Inflections>
+        <Inflection Lemma="στίγμα" BaseFormIndex="1">
+          <Form/>
+          <Realizations>
+            <Realization>-τος</Realization>
+          </Realizations>
+          <Comments/>
+        </Inflection>
+      </Inflections>
+      <RelatedLemmas>
+        <RelatedLemma>
+          <Word>στιγμή</Word>
+        </RelatedLemma>
+      </RelatedLemmas>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="004644001001000" IsBiblicalTerm="Y" EntryCode="8.55" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Body, Body Parts, and Body Products</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Parts of the Body</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2022-03-07 12:33:14" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>a permanent mark or scar on the body, especially the type of brand used to mark ownership of slaves{N:001}</DefinitionShort>
+              <Glosses>
+                <Gloss>scar</Gloss>
+                <Gloss>brand</Gloss>
+              </Glosses>
+              <Comments>In {S:04800601700020} Paul is most likely alluding to scars resulting from wounds received in the service of Jesus, but στίγμα may also imply ownership and hence suggest that such scars served as brands (see {D:8.56}). For other interpretations of στίγμα in {S:04800601700020}, see {D:33.481} and {D:90.84}.</Comments>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04800601700020</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+        <LEXMeaning Id="004644001002000" IsBiblicalTerm="Y" EntryCode="33.481" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Communication</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Non-Verbal Communication</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2022-03-07 12:33:14" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>something on the surface of an object, for example, line, spot, or scar, without special design but carrying significance{N:002}</DefinitionShort>
+              <Glosses>
+                <Gloss>mark</Gloss>
+                <Gloss>scar</Gloss>
+              </Glosses>
+              <Comments>A strictly literal translation of {S:04800601700020} might suggest that Paul had the same marks on his hands, feet, and side as Jesus had, but this is evidently not the meaning of the state ment in {S:04800601700020}. It is possible, of course, that since Paul was whipped much the same way that Jesus was whipped, he (Paul) would bear such scars on his back, but a more satisfactory rendering of {S:04800601700020} would probably be ‘for I have on my body scars indicating that I belong to Jesus.’ For other interpretations of {L:στίγμα&lt;SDBG:στίγμα:000000&gt;} in {S:04800601700020}, see {D:8.55} and {D:90.84}.</Comments>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04800601700020</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

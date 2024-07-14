@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="005639000000000" Lemma="עִקֵּשׁ" Version="5" HasAramaic="false" InLXX="false" AlphaPos="ע">
+  <StrongCodes>
+    <Strong>H6141</Strong>
+    <Strong>H6142</Strong>
+  </StrongCodes>
+  <Authors>
+    <Author>Reinier de Blois</Author>
+  </Authors>
+  <Contributors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes/>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="005639001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>aj</PartOfSpeech>
+      </PartsOfSpeech>
+      <RelatedLemmas>
+        <RelatedLemma>
+          <Word>עקשׁ</Word>
+        </RelatedLemma>
+      </RelatedLemmas>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="005639001001000" IsBiblicalTerm="Y" EntryCode="" Indent="0">
+          <LEXDomains>
+            <LEXDomain Code="002001002007">Evil</LEXDomain>
+          </LEXDomains>
+          <LEXSynonyms>
+            <LEXSynonym>פתל</LEXSynonym>
+            <LEXSynonym>פְּתַלְתֹּל</LEXSynonym>
+            <LEXSynonym>תפל</LEXSynonym>
+          </LEXSynonyms>
+          <LEXAntonyms>
+            <LEXAntonym>ברר</LEXAntonym>
+          </LEXAntonyms>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2017-04-13 11:47:23" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>literally: to be crooked (of a person); hence: = state in which  humans lack integrity in everything they think or do</DefinitionShort>
+              <Glosses>
+                <Gloss>to be a crook</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>00503200500014</LEXReference>
+            <LEXReference>01002202700012</LEXReference>
+            <LEXReference>01901802700012</LEXReference>
+            <LEXReference>02002200500010</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+          <LEXCoreDomains>
+            <LEXCoreDomain Code="017">Behavior</LEXCoreDomain>
+          </LEXCoreDomains>
+        </LEXMeaning>
+        <LEXMeaning Id="005639001002000" IsBiblicalTerm="Y" EntryCode="" Indent="0">
+          <LEXDomains>
+            <LEXDomain Code="002001003020">Wrong</LEXDomain>
+          </LEXDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2017-04-13 11:47:23" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>literally: to be crooked (of an event); hence: = state in which an event is considered morally and/or ethically unacceptable</DefinitionShort>
+              <Glosses>
+                <Gloss>to be crooked</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>01910100400004</LEXReference>
+            <LEXReference>02000201500006</LEXReference>
+            <LEXReference>02000800800020</LEXReference>
+            <LEXReference>02001102000006</LEXReference>
+            <LEXReference>02001702000002</LEXReference>
+            <LEXReference>02001900100014</LEXReference>
+            <LEXReference>02002800600014</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+          <LEXCoreDomains>
+            <LEXCoreDomain Code="017">Behavior</LEXCoreDomain>
+          </LEXCoreDomains>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+    <BaseForm Id="005639002000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>np</PartOfSpeech>
+      </PartsOfSpeech>
+      <RelatedLemmas>
+        <RelatedLemma>
+          <Word>עקשׁ</Word>
+        </RelatedLemma>
+      </RelatedLemmas>
+      <MeaningsOfName>
+        <MeaningOfName LanguageCode="en">
+          <Meaning>crooked</Meaning>
+        </MeaningOfName>
+      </MeaningsOfName>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="005639002001000" IsBiblicalTerm="Y" EntryCode="" Indent="0">
+          <LEXDomains>
+            <LEXDomain Code="003001007">Names of People</LEXDomain>
+          </LEXDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2017-04-13 11:47:23" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>= man; ► father of {L:Ira&lt;SDBH:עִירָא&gt;}, a warrior from {L:Tekoa&lt;SDBH:תְּקֹועַ&gt;}, during time of king {L:David&lt;SDBH:דָּוִד&gt;}</DefinitionShort>
+              <Glosses>
+                <Gloss>Ikkesh</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>01002302600012</LEXReference>
+            <LEXReference>01301102800006</LEXReference>
+            <LEXReference>01302700900020</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

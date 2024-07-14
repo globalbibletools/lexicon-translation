@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="005462000000000" Lemma="ψευδοπροφήτης" Version="0" HasAramaic="false" InLXX="true" AlphaPos="ψ">
+  <StrongCodes>
+    <Strong>G5578</Strong>
+  </StrongCodes>
+  <Authors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes/>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="005462001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>noun, m.</PartOfSpeech>
+      </PartsOfSpeech>
+      <Inflections>
+        <Inflection Lemma="ψευδοπροφήτης" BaseFormIndex="1">
+          <Form/>
+          <Realizations>
+            <Realization>-ου</Realization>
+          </Realizations>
+          <Comments/>
+        </Inflection>
+      </Inflections>
+      <Constructs>
+        <Construct Lemma="ψευδοπροφήτης" BaseFormIndex="1">
+          <WordMeaningSet>
+            <Word>ψεύδομαι</Word>
+          </WordMeaningSet>
+          <WordMeaningSet>
+            <Word>φημί</Word>
+          </WordMeaningSet>
+        </Construct>
+      </Constructs>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="005462001001000" IsBiblicalTerm="M" EntryCode="53.81" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Religious Activities</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Roles and Functions</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>one who claims to be a prophet and is not and thus proclaims what is false</DefinitionShort>
+              <Glosses>
+                <Gloss>false prophet</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04000701500008</LEXReference>
+            <LEXReference>04002401100006</LEXReference>
+            <LEXReference>04002402400010</LEXReference>
+            <LEXReference>04101302200010</LEXReference>
+            <LEXReference>04200602600030</LEXReference>
+            <LEXReference>04401300600024</LEXReference>
+            <LEXReference>06100200100008</LEXReference>
+            <LEXReference>06200400100034</LEXReference>
+            <LEXReference>06601601300038</LEXReference>
+            <LEXReference>06601902000018</LEXReference>
+            <LEXReference>06602001000042</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

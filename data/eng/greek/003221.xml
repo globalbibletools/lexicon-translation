@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="003221000000000" Lemma="μέντοι" Version="0" HasAramaic="false" InLXX="true" AlphaPos="μ">
+  <StrongCodes>
+    <Strong>G3305</Strong>
+  </StrongCodes>
+  <Authors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes/>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="003221001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>conj.</PartOfSpeech>
+      </PartsOfSpeech>
+      <Constructs>
+        <Construct Lemma="μέντοι" BaseFormIndex="1">
+          <WordMeaningSet>
+            <Word>μέν</Word>
+          </WordMeaningSet>
+          <WordMeaningSet>
+            <Word>-τοι</Word>
+          </WordMeaningSet>
+        </Construct>
+      </Constructs>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="003221001001000" IsBiblicalTerm="Y" EntryCode="89.130" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Relations</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Contrast</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-11-26 11:38:27" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>a marker of contrast, implying the validity of something irrespective of other considerations</DefinitionShort>
+              <Glosses>
+                <Gloss>but</Gloss>
+                <Gloss>nevertheless</Gloss>
+                <Gloss>except</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04300402700030</LEXReference>
+            <LEXReference>04300701300004</LEXReference>
+            <LEXReference>04301204200004</LEXReference>
+            <LEXReference>04302000500016</LEXReference>
+            <LEXReference>04302100400022</LEXReference>
+            <LEXReference>05500201900004</LEXReference>
+            <LEXReference>06500100800004</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+        <LEXMeaning Id="003221001002000" IsBiblicalTerm="Y" EntryCode="89.136" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Relations</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Contrast</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXCollocations>
+            <LEXCollocation>μέντοι ... δέ</LEXCollocation>
+          </LEXCollocations>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-11-26 11:38:27" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>a marker of sets of items in contrast with one another</DefinitionShort>
+              <Glosses>
+                <Gloss>on the one hand … but on the other hand</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>05900200800004</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="005420000000000" Lemma="χρῆμα" Version="0" HasAramaic="false" InLXX="true" AlphaPos="χ">
+  <StrongCodes>
+    <Strong>G5536</Strong>
+  </StrongCodes>
+  <Authors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes/>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="005420001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>noun, n.</PartOfSpeech>
+      </PartsOfSpeech>
+      <Inflections>
+        <Inflection Lemma="χρῆμα" BaseFormIndex="1">
+          <Form/>
+          <Realizations>
+            <Realization>-τος</Realization>
+          </Realizations>
+          <Comments/>
+        </Inflection>
+      </Inflections>
+      <RelatedLemmas>
+        <RelatedLemma>
+          <Word>χράομαι</Word>
+        </RelatedLemma>
+      </RelatedLemmas>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="005420001001000" IsBiblicalTerm="M" EntryCode="57.31" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Possess, Transfer, Exchange</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Be Rich, Be Wealthy</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2022-06-03 16:33:56" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>economic resources, usually implying an abundance of such assets</DefinitionShort>
+              <Glosses>
+                <Gloss>riches</Gloss>
+                <Gloss>wealth</Gloss>
+                <Gloss>abundance</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04101002300026</LEXReference>
+            <LEXReference>04201802400026</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+        <LEXMeaning Id="005420001002000" IsBiblicalTerm="Y" EntryCode="6.68" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Artifacts</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Money and Monetary Units</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2022-06-03 16:33:56" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>a generic term for currency, occurring mostly in the plural</DefinitionShort>
+              <Glosses>
+                <Gloss>money (normally a reference to actual coins)</Gloss>
+                <Gloss>coin</Gloss>
+                <Gloss>change</Gloss>
+              </Glosses>
+              <Comments>It would also be possible to translate ἤνεγκεν τὸ χρῆμα in {S:04400403700014} as ‘he brought the proceeds from the sale.’|In {S:04400801800036} (προσήνεγκεν αὐτοῖς χρήματα ‘he offered them money’) the reference of χρήματα would appear to be cash.</Comments>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04400403700014</LEXReference>
+            <LEXReference>04400801800036</LEXReference>
+            <LEXReference>04400802000042</LEXReference>
+            <LEXReference>04402402600010</LEXReference>
+          </LEXReferences>
+          <LEXLinks>
+            <LEXLink>realia:1.6.3</LEXLink>
+          </LEXLinks>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

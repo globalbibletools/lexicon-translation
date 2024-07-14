@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="003975000000000" Lemma="πετεινός" Version="0" HasAramaic="false" InLXX="false" AlphaPos="π">
+  <StrongCodes>
+    <Strong>G4071</Strong>
+  </StrongCodes>
+  <Authors/>
+  <AlternateLemmas>
+    <AlternateLemma>πετεινόν</AlternateLemma>
+  </AlternateLemmas>
+  <MainLinks/>
+  <Notes>
+    <Note Caller="1" LanguageCode="en" LastEdited="" LastEditedBy="">
+      <References>
+        <Reference>04500102300028</Reference>
+        <Reference>04401100600038</Reference>
+        <Reference>05900300700014</Reference>
+      </References>
+      <Content>In {S:04500102300028}, {S:04401100600038}, and {S:05900300700014} πετεινός may possibly include insects, but this is not likely. The classifications in these contexts do not necessarily reflect exhaustive distinctions.</Content>
+    </Note>
+  </Notes>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="003975001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>noun, n.</PartOfSpeech>
+      </PartsOfSpeech>
+      <Inflections>
+        <Inflection Lemma="πετεινός" BaseFormIndex="1">
+          <Form/>
+          <Realizations>
+            <Realization>-οῦ</Realization>
+          </Realizations>
+          <Comments/>
+        </Inflection>
+      </Inflections>
+      <RelatedLemmas>
+        <RelatedLemma>
+          <Word>πέτομαι</Word>
+        </RelatedLemma>
+      </RelatedLemmas>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="003975001001000" IsBiblicalTerm="M" EntryCode="4.38" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Animals</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Birds</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-12-27 11:04:58" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>any kind of bird, wild or domestic</DefinitionShort>
+              <Glosses>
+                <Gloss>bird</Gloss>
+              </Glosses>
+              <Comments>All languages have at least some terms for birds, but there may be no generic term which identifies birds while excluding all other creatures which fly. For example, in some languages a term which includes all kinds of birds also includes flying insects and bats. However, since in most instances such a term has birds as its primary reference, it can usually be employed in contexts in which birds are more or less readily identified by other expressions in the passage. In other languages generic terms for birds may identify only certain classes of birds, for example, birds of prey, water birds, and birds of the forest.</Comments>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04001300400030</LEXReference>
+            <LEXReference>04100400400030</LEXReference>
+            <LEXReference>04201202400050</LEXReference>
+            <LEXReference>04500102300028{N:001}</LEXReference>
+            <LEXReference>05900300700014{N:001}</LEXReference>
+          </LEXReferences>
+          <LEXLinks>
+            <LEXLink>fauna:3.1</LEXLink>
+            <LEXLink>fauna:3.3</LEXLink>
+          </LEXLinks>
+          <LEXVideos/>
+        </LEXMeaning>
+        <LEXMeaning Id="003975001002000" IsBiblicalTerm="M" EntryCode="4.41" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Animals</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Birds</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXCollocations>
+            <LEXCollocation>πετεινὰ τοῦ οὐρανοῦ</LEXCollocation>
+          </LEXCollocations>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-12-27 11:04:58" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>(an idiom, literally: birds of the sky) wild birds in contrast with domesticated birds such as chickens</DefinitionShort>
+              <Glosses>
+                <Gloss>birds</Gloss>
+                <Gloss>wild birds</Gloss>
+              </Glosses>
+              <Comments>A literal rendering of πετεινὰ τοῦ οὐρανοῦ, either as ‘birds of the air’ or ‘birds of the sky,’ may be misleading, since ‘birds of the air’ might imply that these are birds made out of air, and ‘birds of the sky’ might suggest they are birds which remain always in the sky. In some languages the equivalent expression is ‘birds of the trees’ or ‘birds of the winds.’</Comments>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04000602600008</LEXReference>
+            <LEXReference>04000802000024</LEXReference>
+            <LEXReference>04001303200042</LEXReference>
+            <LEXReference>04100403200044</LEXReference>
+            <LEXReference>04200800500048</LEXReference>
+            <LEXReference>04200905800024</LEXReference>
+            <LEXReference>04201301900040</LEXReference>
+            <LEXReference>04401001200024</LEXReference>
+            <LEXReference>04401100600038{N:001}</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

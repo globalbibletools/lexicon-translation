@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="001685000000000" Lemma="ἕλκω" Version="0" HasAramaic="false" InLXX="true" AlphaPos="ε">
+  <StrongCodes>
+    <Strong>G1670</Strong>
+  </StrongCodes>
+  <Authors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes/>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="001685001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>verb</PartOfSpeech>
+      </PartsOfSpeech>
+      <Inflections>
+        <Inflection Lemma="ἕλκω" BaseFormIndex="1">
+          <Form>impf.</Form>
+          <Realizations>
+            <Realization>εἷλκον</Realization>
+          </Realizations>
+          <Comments/>
+        </Inflection>
+        <Inflection Lemma="ἕλκω" BaseFormIndex="1">
+          <Form>fut.</Form>
+          <Realizations>
+            <Realization>ἑλκύσω</Realization>
+          </Realizations>
+          <Comments/>
+        </Inflection>
+        <Inflection Lemma="ἕλκω" BaseFormIndex="1">
+          <Form>aor.</Form>
+          <Realizations>
+            <Realization>εἵλκυσα</Realization>
+          </Realizations>
+          <Comments/>
+        </Inflection>
+        <Inflection Lemma="ἕλκω" BaseFormIndex="1">
+          <Form>subj.3sg.</Form>
+          <Realizations>
+            <Realization>ἑλκύσῃ</Realization>
+          </Realizations>
+          <Comments/>
+        </Inflection>
+      </Inflections>
+      <RelatedLemmas>
+        <RelatedLemma>
+          <Word>ἐξέλκω</Word>
+        </RelatedLemma>
+      </RelatedLemmas>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="001685001001000" IsBiblicalTerm="Y" EntryCode="15.212" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Linear Movement</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Pull, Draw, Drag</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-05-18 10:56:49" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>to pull or drag, requiring force because of the inertia of the object being dragged</DefinitionShort>
+              <Glosses>
+                <Gloss>to pull</Gloss>
+                <Gloss>to drag</Gloss>
+                <Gloss>to draw</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04300604400026</LEXReference>
+            <LEXReference>04301203200016</LEXReference>
+            <LEXReference>04301801000012</LEXReference>
+            <LEXReference>04302100600042</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+        <LEXMeaning Id="001685001002000" IsBiblicalTerm="Y" EntryCode="15.178" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Linear Movement</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Lead, Bring, Take</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-05-18 10:56:49" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>to drag or pull by physical force, often implying resistance</DefinitionShort>
+              <Glosses>
+                <Gloss>to drag</Gloss>
+                <Gloss>to lead by force</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04302101100012</LEXReference>
+            <LEXReference>04401601900038</LEXReference>
+            <LEXReference>04402103000030</LEXReference>
+            <LEXReference>05900200600026</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

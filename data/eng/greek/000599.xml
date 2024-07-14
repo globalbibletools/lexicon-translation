@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="000599000000000" Lemma="ἀποκαραδοκία" Version="0" HasAramaic="false" InLXX="false" AlphaPos="α">
+  <StrongCodes>
+    <Strong>G0603</Strong>
+  </StrongCodes>
+  <Authors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes/>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="000599001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>noun, f.</PartOfSpeech>
+      </PartsOfSpeech>
+      <Inflections>
+        <Inflection Lemma="ἀποκαραδοκία" BaseFormIndex="1">
+          <Form/>
+          <Realizations>
+            <Realization>-ας</Realization>
+          </Realizations>
+          <Comments/>
+        </Inflection>
+      </Inflections>
+      <Constructs>
+        <Construct Lemma="ἀποκαραδοκία" BaseFormIndex="1">
+          <WordMeaningSet>
+            <Word>κάρα</Word>
+            <Meaning LanguageCode="en">
+              <Meaning>head</Meaning>
+            </Meaning>
+            <Meaning LanguageCode="zhT">
+              <Meaning>頭</Meaning>
+            </Meaning>
+          </WordMeaningSet>
+          <WordMeaningSet>
+            <Word>δοκέω</Word>
+          </WordMeaningSet>
+        </Construct>
+      </Constructs>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="000599001001000" IsBiblicalTerm="Y" EntryCode="25.64" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Attitudes and Emotions</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Hope, Look Forward To</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-08-12 15:32:37" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>that which one looks forward to with eagerness and desire</DefinitionShort>
+              <Glosses>
+                <Gloss>what one eagerly expects</Gloss>
+                <Gloss>eager expectancy</Gloss>
+                <Gloss>eager desire</Gloss>
+              </Glosses>
+              <Comments>In {S:04500801900006} (see {D:25.63}) ἀποκαραδοκία serves in some respects to reinforce the meaning of {L:ἀπεκδέχομαι&lt;SDBG:ἀπεκδέχομαι:000000&gt;}, but it appears to add a significant component of desire.</Comments>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04500801900006</LEXReference>
+            <LEXReference>05000102000006</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="002621000000000" Lemma="καταδικάζω" Version="0" HasAramaic="false" InLXX="true" AlphaPos="κ">
+  <StrongCodes>
+    <Strong>G2613</Strong>
+  </StrongCodes>
+  <Authors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes>
+    <Note Caller="1" LanguageCode="en" LastEdited="" LastEditedBy="">
+      <References/>
+      <Content>The series κατακρίνω, κατάκρισις, and κατάκριμα probably differs slightly in meaning from καταδικάζω and καταδίκη in that the first series focuses more upon the actual process of judging rather than upon the verdict, but it is not possible to determine this from existing NT contexts.</Content>
+    </Note>
+  </Notes>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="002621001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>verb</PartOfSpeech>
+      </PartsOfSpeech>
+      <RelatedLemmas>
+        <RelatedLemma>
+          <Word>δικάζω</Word>
+          <Meaning LanguageCode="en">
+            <Meaning>judge</Meaning>
+          </Meaning>
+          <Meaning LanguageCode="zhT">
+            <Meaning>審判</Meaning>
+          </Meaning>
+        </RelatedLemma>
+        <RelatedLemma>
+          <Word>δικαιόω</Word>
+        </RelatedLemma>
+      </RelatedLemmas>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="002621001001000" IsBiblicalTerm="M" EntryCode="56.31" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Courts and Legal Procedures</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Judge, Condemn, Acquit</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-09-17 11:32:19" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>to judge someone as definitely guilty and thus subject to punishment{N:001}</DefinitionShort>
+              <Glosses>
+                <Gloss>to condemn</Gloss>
+                <Gloss>to render a verdict of guilt</Gloss>
+                <Gloss>condemnation</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04001200700026</LEXReference>
+            <LEXReference>04001203700024</LEXReference>
+            <LEXReference>04200603700020</LEXReference>
+            <LEXReference>04200603700028</LEXReference>
+            <LEXReference>05900500600002</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

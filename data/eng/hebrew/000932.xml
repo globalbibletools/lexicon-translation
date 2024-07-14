@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="000932000000000" Lemma="בֵּית אָוֶן" Version="5" HasAramaic="false" InLXX="false" AlphaPos="ב">
+  <StrongCodes>
+    <Strong>H1007</Strong>
+  </StrongCodes>
+  <Authors>
+    <Author>Enio R. Mueller</Author>
+  </Authors>
+  <Contributors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes/>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="000932001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>np</PartOfSpeech>
+      </PartsOfSpeech>
+      <RelatedLemmas>
+        <RelatedLemma>
+          <Word>בַּיִת</Word>
+        </RelatedLemma>
+        <RelatedLemma>
+          <Word>אָוֶן</Word>
+        </RelatedLemma>
+      </RelatedLemmas>
+      <MeaningsOfName>
+        <MeaningOfName LanguageCode="en">
+          <Meaning>house of iniquity</Meaning>
+        </MeaningOfName>
+      </MeaningsOfName>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="000932001001000" IsBiblicalTerm="Y" EntryCode="" Indent="0">
+          <LEXDomains>
+            <LEXDomain Code="003001010">Names of Locations</LEXDomain>
+          </LEXDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2015-03-17 22:35:21" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>= town; ◄ territory of {L:Benjamin&lt;SDBH:בִּנְיָמִן&gt;}</DefinitionShort>
+              <Glosses>
+                <Gloss>Beth-Aven</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>00600700200022</LEXReference>
+            <LEXReference>00601801200066</LEXReference>
+            <LEXReference>00901300500068</LEXReference>
+            <LEXReference>00901402300032</LEXReference>
+            <LEXReference>02800500800022</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+          <LEXCoordinates>
+            <LEXCoordinates>31.895717,35.253098</LEXCoordinates>
+          </LEXCoordinates>
+        </LEXMeaning>
+        <LEXMeaning Id="000932001002000" IsBiblicalTerm="Y" EntryCode="" Indent="0">
+          <LEXDomains>
+            <LEXDomain Code="003001010">Names of Locations</LEXDomain>
+          </LEXDomains>
+          <LEXSynonyms>
+            <LEXSynonym>בֵּית־אֶל</LEXSynonym>
+          </LEXSynonyms>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2015-03-17 22:35:21" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>= town; ◄ territory of {L:Ephraim&lt;SDBH:אֶפְרַיִם&gt;} ≈ probably a pun or word-play on the name {L:Bethel&lt;SDBH:בֵּית־אֵל&gt;} ("house of God")</DefinitionShort>
+              <Glosses>
+                <Gloss>Beth-Aven</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>02800401500032</LEXReference>
+            <LEXReference>02801000500006</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+          <LEXCoordinates>
+            <LEXCoordinates>31.930539,35.221032</LEXCoordinates>
+          </LEXCoordinates>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

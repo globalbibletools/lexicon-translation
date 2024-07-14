@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="001490000000000" Lemma="גֵּרָה" Version="5" HasAramaic="false" InLXX="false" AlphaPos="ג">
+  <StrongCodes>
+    <Strong>H1625</Strong>
+    <Strong>H1626</Strong>
+  </StrongCodes>
+  <Authors>
+    <Author>Reinier de Blois</Author>
+  </Authors>
+  <Contributors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes/>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="001490001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>nsf</PartOfSpeech>
+      </PartsOfSpeech>
+      <RelatedLemmas>
+        <RelatedLemma>
+          <Word>גרר</Word>
+        </RelatedLemma>
+      </RelatedLemmas>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="001490001001000" IsBiblicalTerm="Y" EntryCode="" Indent="0">
+          <LEXDomains>
+            <LEXDomain Code="001002">Parts</LEXDomain>
+          </LEXDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2016-04-11 12:51:10" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>=  the portion of food that is brought up into the mouth by ruminating animals from their first stomach to be chewed a second time</DefinitionShort>
+              <Glosses>
+                <Gloss>cud</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>00301100300018</LEXReference>
+            <LEXReference>00301100400018</LEXReference>
+            <LEXReference>00301100400040</LEXReference>
+            <LEXReference>00301100500014</LEXReference>
+            <LEXReference>00301100600014</LEXReference>
+            <LEXReference>00301100700030</LEXReference>
+            <LEXReference>00301102600028</LEXReference>
+            <LEXReference>00501400600024</LEXReference>
+            <LEXReference>00501400700018</LEXReference>
+            <LEXReference>00501400700060</LEXReference>
+            <LEXReference>00501400800022</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+          <LEXCoreDomains>
+            <LEXCoreDomain Code="019">Body</LEXCoreDomain>
+            <LEXCoreDomain Code="069">Food</LEXCoreDomain>
+            <LEXCoreDomain Code="010">Animal</LEXCoreDomain>
+          </LEXCoreDomains>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+    <BaseForm Id="001490002000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>nsf</PartOfSpeech>
+      </PartsOfSpeech>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="001490002001000" IsBiblicalTerm="Y" EntryCode="" Indent="0">
+          <LEXDomains>
+            <LEXDomain Code="002001001066">Weight</LEXDomain>
+          </LEXDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2016-04-11 12:51:10" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>= a weight of approximately 0.6 grams; according to the standards of the sanctuary, 20 {L:gerahs&lt;SDBH:גֵּרָה&gt;} make up 1 {L:shekel&lt;SDBH:שֶׁקֶל&gt;} and 10 {L:gerahs&lt;SDBH:גֵּרָה&gt;} make up 1 {L:beka&lt;SDBH:בֶּקַע&gt;}; ► used for weighing gold and silver</DefinitionShort>
+              <Glosses>
+                <Gloss>gerah</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>00203001300034</LEXReference>
+            <LEXReference>00302702500020</LEXReference>
+            <LEXReference>00400304700030</LEXReference>
+            <LEXReference>00401801600034</LEXReference>
+            <LEXReference>02604501200010</LEXReference>
+          </LEXReferences>
+          <LEXLinks>
+            <LEXLink>Realia:11.1.1</LEXLink>
+          </LEXLinks>
+          <LEXVideos/>
+          <LEXCoreDomains>
+            <LEXCoreDomain Code="190">Weight</LEXCoreDomain>
+          </LEXCoreDomains>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

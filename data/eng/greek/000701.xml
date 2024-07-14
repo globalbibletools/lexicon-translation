@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="000701000000000" Lemma="ἀριθμός" Version="0" HasAramaic="false" InLXX="true" AlphaPos="α">
+  <StrongCodes>
+    <Strong>G0706</Strong>
+  </StrongCodes>
+  <Authors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes/>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="000701001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>noun, m.</PartOfSpeech>
+      </PartsOfSpeech>
+      <Inflections>
+        <Inflection Lemma="ἀριθμός" BaseFormIndex="1">
+          <Form/>
+          <Realizations>
+            <Realization>-οῦ</Realization>
+          </Realizations>
+          <Comments/>
+        </Inflection>
+      </Inflections>
+      <RelatedLemmas>
+        <RelatedLemma>
+          <Word>ἀριθμέω</Word>
+        </RelatedLemma>
+      </RelatedLemmas>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="000701001001000" IsBiblicalTerm="Y" EntryCode="60.1" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Number</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Number, Countless</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-08-16 16:03:59" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>any cardinal number</DefinitionShort>
+              <Glosses>
+                <Gloss>number</Gloss>
+              </Glosses>
+              <Comments>It may be important to add a marginal note to {S:06601301800038} to indicate that the number 666 was actually derived from adding up the numerical values of the letters of a name.</Comments>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04202200300024</LEXReference>
+            <LEXReference>04400503600030</LEXReference>
+            <LEXReference>06600700400008</LEXReference>
+            <LEXReference>06600901600006</LEXReference>
+            <LEXReference>06600901600024</LEXReference>
+            <LEXReference>06601301700042</LEXReference>
+            <LEXReference>06601301800020</LEXReference>
+            <LEXReference>06601301800026</LEXReference>
+            <LEXReference>06601301800038</LEXReference>
+            <LEXReference>06601500200044</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+        <LEXMeaning Id="000701001002000" IsBiblicalTerm="Y" EntryCode="60.2" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Number</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Number, Countless</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-08-16 16:03:59" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>the sum or total of a numbered quantity</DefinitionShort>
+              <Glosses>
+                <Gloss>number</Gloss>
+                <Gloss>total sum</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04300601000040</LEXReference>
+            <LEXReference>04400400400022</LEXReference>
+            <LEXReference>04400600700020</LEXReference>
+            <LEXReference>04401102100018</LEXReference>
+            <LEXReference>04401600500022</LEXReference>
+            <LEXReference>04500902700020</LEXReference>
+            <LEXReference>06600501100040</LEXReference>
+            <LEXReference>06602000800048</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

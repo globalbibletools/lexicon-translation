@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="003284000000000" Lemma="μηδέπω" Version="0" HasAramaic="false" InLXX="false" AlphaPos="μ">
+  <StrongCodes>
+    <Strong>G3369</Strong>
+  </StrongCodes>
+  <Authors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes/>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="003284001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>advb.</PartOfSpeech>
+      </PartsOfSpeech>
+      <Constructs>
+        <Construct Lemma="μηδέπω" BaseFormIndex="1">
+          <WordMeaningSet>
+            <Word>μή</Word>
+          </WordMeaningSet>
+          <WordMeaningSet>
+            <Word>δέ</Word>
+          </WordMeaningSet>
+          <WordMeaningSet>
+            <Word>-πω</Word>
+            <Meaning LanguageCode="en">
+              <Meaning>yet, up to this time</Meaning>
+            </Meaning>
+            <Meaning LanguageCode="zhT">
+              <Meaning>迄今，到目前為止</Meaning>
+            </Meaning>
+          </WordMeaningSet>
+        </Construct>
+      </Constructs>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="003284001001000" IsBiblicalTerm="Y" EntryCode="67.129" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Time</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Duration of Time with Reference to Some Point of Time: Until, Delay, Still, From</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-12-03 20:57:26" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>the negation of extending time up to and beyond an expected point</DefinitionShort>
+              <Glosses>
+                <Gloss>not yet</Gloss>
+                <Gloss>still not</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>05801100700012</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="004306000000000" Lemma="מִצְעָד" Version="4" HasAramaic="false" InLXX="false" AlphaPos="מ">
+  <StrongCodes>
+    <Strong>H4703</Strong>
+  </StrongCodes>
+  <Authors>
+    <Author>Reinier de Blois</Author>
+  </Authors>
+  <Contributors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes/>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="004306001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>nsm</PartOfSpeech>
+      </PartsOfSpeech>
+      <RelatedLemmas>
+        <RelatedLemma>
+          <Word>צעד</Word>
+        </RelatedLemma>
+      </RelatedLemmas>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="004306001001000" IsBiblicalTerm="Y" EntryCode="" Indent="0">
+          <LEXDomains>
+            <LEXDomain Code="002002002001" Source="Move" SourceCode="002002001011">Act</LEXDomain>
+          </LEXDomains>
+          <LEXForms>
+            <LEXForm>nsmp</LEXForm>
+          </LEXForms>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2022-11-23 10:50:00" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>literally: (one's) steps; hence: = one's journey through life with all the decisions that are taken, either for good or for bad</DefinitionShort>
+              <Glosses>
+                <Gloss>(one's) steps</Gloss>
+                <Gloss>(one's) life journey</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>01903702300006</LEXReference>
+            <LEXReference>02002002400006</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+          <LEXCoreDomains>
+            <LEXCoreDomain Code="017">Behavior</LEXCoreDomain>
+          </LEXCoreDomains>
+        </LEXMeaning>
+        <LEXMeaning Id="004306001002000" IsBiblicalTerm="Y" EntryCode="" Indent="0">
+          <LEXDomains>
+            <LEXDomain Code="002003002008" Source="Move" SourceCode="002002001011">Control</LEXDomain>
+          </LEXDomains>
+          <LEXForms>
+            <LEXForm>nsmp</LEXForm>
+          </LEXForms>
+          <LEXCollocations>
+            <LEXCollocation>בְּמִצְעָדִים</LEXCollocation>
+          </LEXCollocations>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2022-11-23 10:50:00" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>literally: in (someone's) steps; hence: = state in which humans have been submitted to other humans and need to follow them wherever they go</DefinitionShort>
+              <Glosses>
+                <Gloss>in (someone's) train</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>02701104300040</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+          <LEXCoreDomains>
+            <LEXCoreDomain Code="015">Authority</LEXCoreDomain>
+          </LEXCoreDomains>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

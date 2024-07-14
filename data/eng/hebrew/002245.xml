@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="002245000000000" Lemma="חֵילֵךְ" Version="5" HasAramaic="false" InLXX="false" AlphaPos="ח">
+  <StrongCodes>
+    <Strong>H2428b</Strong>
+  </StrongCodes>
+  <Authors>
+    <Author>Reinier de Blois</Author>
+  </Authors>
+  <Contributors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes>
+    <Note Caller="1" LanguageCode="en" LastEdited="" LastEditedBy="">
+      <References>
+        <Reference>02602701100008</Reference>
+      </References>
+      <Content>{A:MT} {A:RSV} {A:NIV} {A:NJPS} {A:NRSV} {A:REB} {A:CEV} | {A:LXX} {A:NJB} {A:GNT} "your army, soldiers" (see {L:חַיִל&lt;SDBH:חַיִל&gt;})</Content>
+    </Note>
+  </Notes>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="002245001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>np</PartOfSpeech>
+      </PartsOfSpeech>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="002245001001000" IsBiblicalTerm="Y" EntryCode="" Indent="0">
+          <LEXDomains>
+            <LEXDomain Code="003001010">Names of Locations</LEXDomain>
+          </LEXDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2016-02-18 16:23:25" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>= region, possibly to be identified with Hilakku; ◄ located in Cilicia; ► mercenaries from this area were fighting as part of the army of {L:Tyre&lt;SDBH:צֹר&gt;} ({A:ABD})</DefinitionShort>
+              <Glosses>
+                <Gloss>Helech</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>02602701100008{N:001}</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

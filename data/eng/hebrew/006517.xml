@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="006517000000000" Lemma="קסם" Version="5" HasAramaic="false" InLXX="false" AlphaPos="ק">
+  <StrongCodes>
+    <Strong>H7080</Strong>
+  </StrongCodes>
+  <Authors>
+    <Author>Graham S. Ogden</Author>
+  </Authors>
+  <Contributors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes>
+    <Note Caller="1" LanguageCode="en" LastEdited="" LastEditedBy="">
+      <References>
+        <Reference>00902800800046</Reference>
+      </References>
+      <Content>MT-K קסומי | MT-Q קָסֳמִי</Content>
+    </Note>
+    <Note Caller="2" LanguageCode="en" LastEdited="" LastEditedBy="">
+      <References>
+        <Reference>02602102800010</Reference>
+      </References>
+      <Content>MT-K כקסום | MT-Q כִּקְסָם</Content>
+    </Note>
+  </Notes>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="006517001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>vb</PartOfSpeech>
+      </PartsOfSpeech>
+      <RelatedLemmas>
+        <RelatedLemma>
+          <Word>קֶסֶם</Word>
+        </RelatedLemma>
+        <RelatedLemma>
+          <Word>מִקְסָם</Word>
+        </RelatedLemma>
+      </RelatedLemmas>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="006517001001000" IsBiblicalTerm="M" EntryCode="" Indent="0">
+          <LEXDomains>
+            <LEXDomain Code="002003003008">Divination</LEXDomain>
+          </LEXDomains>
+          <LEXForms>
+            <LEXForm>vbqal-</LEXForm>
+          </LEXForms>
+          <LEXSynonyms>
+            <LEXSynonym>חזה</LEXSynonym>
+            <LEXSynonym>חֲלֹום</LEXSynonym>
+            <LEXSynonym>כשׁף</LEXSynonym>
+            <LEXSynonym>כַּשָּׁף</LEXSynonym>
+            <LEXSynonym>נחשׁ</LEXSynonym>
+            <LEXSynonym>ענן</LEXSynonym>
+          </LEXSynonyms>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2017-03-27 17:17:04" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>= action by which humans communicate with the spirit world using a variety of means such as inspecting the liver of animals, shaking arrows, consulting teraphim, or casting lots; ≈ usually regarded as an evil practice that is to be condemned; responsibility of a prophet or king</DefinitionShort>
+              <Glosses>
+                <Gloss>to practice divination</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>00501801000022</LEXReference>
+            <LEXReference>00501801400028</LEXReference>
+            <LEXReference>00601302200014</LEXReference>
+            <LEXReference>00900600200020</LEXReference>
+            <LEXReference>00902800800046{N:001}</LEXReference>
+            <LEXReference>00902800800048</LEXReference>
+            <LEXReference>01201701700024</LEXReference>
+            <LEXReference>02300300200018</LEXReference>
+            <LEXReference>02304402500010</LEXReference>
+            <LEXReference>02402700900018</LEXReference>
+            <LEXReference>02402900800032</LEXReference>
+            <LEXReference>02601300900024</LEXReference>
+            <LEXReference>02601302300016</LEXReference>
+            <LEXReference>02602102600030</LEXReference>
+            <LEXReference>02602102800010{N:002}</LEXReference>
+            <LEXReference>02602102800014</LEXReference>
+            <LEXReference>02602103400012</LEXReference>
+            <LEXReference>02602202800018</LEXReference>
+            <LEXReference>03300300600020</LEXReference>
+            <LEXReference>03300300700016</LEXReference>
+            <LEXReference>03300301100028</LEXReference>
+            <LEXReference>03801000200016</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+          <LEXCoreDomains>
+            <LEXCoreDomain Code="104">Magic</LEXCoreDomain>
+          </LEXCoreDomains>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

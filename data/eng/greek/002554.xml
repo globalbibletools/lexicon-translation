@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="002554000000000" Lemma="κἀκεῖνος" Version="0" HasAramaic="false" InLXX="true" AlphaPos="κ">
+  <StrongCodes>
+    <Strong>G2548</Strong>
+  </StrongCodes>
+  <Authors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes>
+    <Note Caller="1" LanguageCode="en" LastEdited="" LastEditedBy="">
+      <References/>
+      <Content>In some contexts, for example, {S:04101601000002}, the implication of absence in a discourse setting becomes relatively weak. In a number of contexts both οὗτος ({D:92.29}) and ἐκεῖνος ({D:92.30}) may be translated by personal pronouns such as he, she, it, they.</Content>
+    </Note>
+  </Notes>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="002554001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>pdem.</PartOfSpeech>
+      </PartsOfSpeech>
+      <Inflections>
+        <Inflection Lemma="κἀκεῖνος" BaseFormIndex="1">
+          <Form/>
+          <Realizations>
+            <Realization>-η, -ο</Realization>
+          </Realizations>
+          <Comments/>
+        </Inflection>
+      </Inflections>
+      <Constructs>
+        <Construct Lemma="κἀκεῖνος" BaseFormIndex="1">
+          <WordMeaningSet>
+            <Word>καί</Word>
+          </WordMeaningSet>
+          <WordMeaningSet>
+            <Word>ἐκεῖ</Word>
+          </WordMeaningSet>
+        </Construct>
+      </Constructs>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="002554001001000" IsBiblicalTerm="Y" EntryCode="92.30" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Discourse Referentials</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Demonstrative or Deictic Reference</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-09-08 11:30:28" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>a reference to an entity regarded as relatively absent in terms of the discourse setting{N:001}</DefinitionShort>
+              <Glosses>
+                <Gloss>that</Gloss>
+                <Gloss>that one</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04001501800022</LEXReference>
+            <LEXReference>04002302300070</LEXReference>
+            <LEXReference>04101200400016</LEXReference>
+            <LEXReference>04101200500008</LEXReference>
+            <LEXReference>04101601100002</LEXReference>
+            <LEXReference>04101601300002</LEXReference>
+            <LEXReference>04201100700002</LEXReference>
+            <LEXReference>04201104200058</LEXReference>
+            <LEXReference>04202001100016</LEXReference>
+            <LEXReference>04202201200002</LEXReference>
+            <LEXReference>04300605700032</LEXReference>
+            <LEXReference>04300702900016</LEXReference>
+            <LEXReference>04301001600024</LEXReference>
+            <LEXReference>04301401200028</LEXReference>
+            <LEXReference>04301702400020</LEXReference>
+            <LEXReference>04400503700034</LEXReference>
+            <LEXReference>04401501100026</LEXReference>
+            <LEXReference>04401801900010</LEXReference>
+            <LEXReference>04501102300002</LEXReference>
+            <LEXReference>04601000600028</LEXReference>
+            <LEXReference>05500201200014</LEXReference>
+            <LEXReference>05800400200012</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="003541000000000" Lemma="ὀκταήμερος" Version="0" HasAramaic="false" InLXX="false" AlphaPos="ο">
+  <StrongCodes>
+    <Strong>G3637</Strong>
+  </StrongCodes>
+  <Authors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes/>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="003541001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>adjc.</PartOfSpeech>
+      </PartsOfSpeech>
+      <Inflections>
+        <Inflection Lemma="ὀκταήμερος" BaseFormIndex="1">
+          <Form/>
+          <Realizations>
+            <Realization>-ον</Realization>
+          </Realizations>
+          <Comments/>
+        </Inflection>
+      </Inflections>
+      <Constructs>
+        <Construct Lemma="ὀκταήμερος" BaseFormIndex="1">
+          <WordMeaningSet>
+            <Word>ὀκτώ</Word>
+          </WordMeaningSet>
+          <WordMeaningSet>
+            <Word>ἡμέρα</Word>
+          </WordMeaningSet>
+        </Construct>
+      </Constructs>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="003541001001000" IsBiblicalTerm="Y" EntryCode="67.182" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Time</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Definite Units of Time: Year, Month, Week, Day, Hour</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-12-13 19:48:02" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>pertaining to taking place on the eighth in a series of days</DefinitionShort>
+              <Glosses>
+                <Gloss>on the eighth day</Gloss>
+              </Glosses>
+              <Comments>Since in NT times the counting of days involved numbering both the first and the last day in a series, ὀκταήμερος may be rendered as ‘a week later’ or ‘seven days later.’ Compare ἡμέραι {L:ὀκτώ&lt;SDBG:ὀκτώ:000000&gt;} ‘eight days’ ({S:04200202100010}) as being equivalent to one week; see discussion at {D:60.17}.</Comments>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>05000300500004</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

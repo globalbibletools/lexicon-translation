@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="005459000000000" Lemma="ψευδομαρτυρέω" Version="0" HasAramaic="false" InLXX="true" AlphaPos="ψ">
+  <StrongCodes>
+    <Strong>G5576</Strong>
+  </StrongCodes>
+  <Authors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes/>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="005459001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>verb</PartOfSpeech>
+      </PartsOfSpeech>
+      <Constructs>
+        <Construct Lemma="ψευδομαρτυρέω" BaseFormIndex="1">
+          <WordMeaningSet>
+            <Word>ψεύδομαι</Word>
+          </WordMeaningSet>
+          <WordMeaningSet>
+            <Word>μαρτυρέω</Word>
+          </WordMeaningSet>
+        </Construct>
+      </Constructs>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="005459001001000" IsBiblicalTerm="M" EntryCode="33.271" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Communication</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Witness, Testify</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2022-06-04 20:36:32" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>to provide a false or untrue witness</DefinitionShort>
+              <Glosses>
+                <Gloss>to give false witness</Gloss>
+                <Gloss>to testify falsely</Gloss>
+              </Glosses>
+              <Comments>A person who gives false witness may deceive in two aspects, (1) in pretending to have been an eyewitness to an event and (2) in saying what is not true, but the focal element in ψευδομαρτυρέω is the fact that what is said is not true.</Comments>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04001901800032</LEXReference>
+            <LEXReference>04101001900022</LEXReference>
+            <LEXReference>04101405600006</LEXReference>
+            <LEXReference>04101405700008</LEXReference>
+            <LEXReference>04201802000022</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="002744000000000" Lemma="יְבוּל" Version="5" HasAramaic="false" InLXX="false" AlphaPos="י">
+  <StrongCodes>
+    <Strong>H2981</Strong>
+  </StrongCodes>
+  <Authors>
+    <Author>Timothy L. Wilt</Author>
+  </Authors>
+  <Contributors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes>
+    <Note Caller="1" LanguageCode="en" LastEdited="" LastEditedBy="">
+      <References>
+        <Reference>01802002800004</Reference>
+      </References>
+      <Content>{A:RSV} {A:NRSV} {A:CEV} | {A:NIV} {A:NJPS} {A:NJB} {A:REB} {A:GNT} "flood" {L:יָבָל&lt;SDBH:יָבָל&gt;}</Content>
+    </Note>
+  </Notes>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="002744001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>nsm</PartOfSpeech>
+      </PartsOfSpeech>
+      <RelatedLemmas>
+        <RelatedLemma>
+          <Word>יבל</Word>
+        </RelatedLemma>
+      </RelatedLemmas>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="002744001001000" IsBiblicalTerm="Y" EntryCode="" Indent="0">
+          <LEXDomains>
+            <LEXDomain Code="001004003002">Crops</LEXDomain>
+          </LEXDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2016-05-11 10:35:44" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>= general term for plants that are sources of food; ≈ a sign of God's blessing</DefinitionShort>
+              <Glosses>
+                <Gloss>crops</Gloss>
+                <Gloss>produce</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>00302600400020</LEXReference>
+            <LEXReference>00302602000024</LEXReference>
+            <LEXReference>00501101700042</LEXReference>
+            <LEXReference>00503202200030</LEXReference>
+            <LEXReference>00700600400014</LEXReference>
+            <LEXReference>01802002800004{N:001}</LEXReference>
+            <LEXReference>01906700700006</LEXReference>
+            <LEXReference>01907804600012</LEXReference>
+            <LEXReference>01908501300018</LEXReference>
+            <LEXReference>02603402700024</LEXReference>
+            <LEXReference>03500301700014</LEXReference>
+            <LEXReference>03700101000024</LEXReference>
+            <LEXReference>03800801200028</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+          <LEXCoreDomains>
+            <LEXCoreDomain Code="125">Plant</LEXCoreDomain>
+            <LEXCoreDomain Code="007">Agriculture</LEXCoreDomain>
+            <LEXCoreDomain Code="196">Well-Being</LEXCoreDomain>
+          </LEXCoreDomains>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="000565000000000" Lemma="ἀπιστέω" Version="0" HasAramaic="false" InLXX="false" AlphaPos="α">
+  <StrongCodes>
+    <Strong>G0569</Strong>
+  </StrongCodes>
+  <Authors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes>
+    <Note Caller="1" LanguageCode="en" LastEdited="" LastEditedBy="">
+      <References/>
+      <Content>In contrast with ἀπιστέω[a] ({D:31.39}) meaning to not believe that something is true, ἀπιστέω[b] (and ἀπιστία[b] ) involve a refusal to put one’s trust, reliance, or belief in something or someone. ἀπιστέω[b] thus has a number of significant added components of meaning.</Content>
+    </Note>
+    <Note Caller="2" LanguageCode="en" LastEdited="" LastEditedBy="">
+      <References/>
+      <Content>The same factors apply to the classification of ἀπιστέω[c] and ἀπιστία[c] as apply to the classification of πιστεύω[c] and πίστις[d] ({D:31.102}), in view of the fact that a set of specific beliefs or relationships is clearly implied.</Content>
+    </Note>
+  </Notes>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="000565001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>verb</PartOfSpeech>
+      </PartsOfSpeech>
+      <Constructs>
+        <Construct Lemma="ἀπιστέω" BaseFormIndex="1">
+          <WordMeaningSet>
+            <Word>ἀ-</Word>
+          </WordMeaningSet>
+          <WordMeaningSet>
+            <Word>πιστεύω</Word>
+          </WordMeaningSet>
+        </Construct>
+      </Constructs>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="000565001001000" IsBiblicalTerm="M" EntryCode="31.39" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Hold a View, Believe, Trust</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Believe To Be True</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-08-11 15:01:10" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>to believe that something is not true</DefinitionShort>
+              <Glosses>
+                <Gloss>to not believe</Gloss>
+                <Gloss>to disbelieve</Gloss>
+                <Gloss>to not think to be true</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04101601100018</LEXReference>
+            <LEXReference>04202401100022</LEXReference>
+            <LEXReference>04202404100006</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+        <LEXMeaning Id="000565001002000" IsBiblicalTerm="M" EntryCode="31.97" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Hold a View, Believe, Trust</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Trust, Rely</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-08-11 15:01:10" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>to refuse to put one’s trust or reliance in something or someone{N:001}</DefinitionShort>
+              <Glosses>
+                <Gloss>to not believe (in)</Gloss>
+                <Gloss>to refuse to believe</Gloss>
+                <Gloss>to not trust in</Gloss>
+                <Gloss>unbelief</Gloss>
+              </Glosses>
+              <Comments>One of the serious problems involved in rendering ‘to believe’ or ‘to refuse to believe’ is that so frequently the NT text does not indicate precisely the goal or object of such belief.|In a number of languages, however, the syntactic requirements are such that some clear goal must be in the immediate context. For example, in {S:04101601600016} it may be possible to translate ‘whoever refuses to believe the good news shall be condemned.’</Comments>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04101601600016</LEXReference>
+            <LEXReference>05500201300004</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+        <LEXMeaning Id="000565001003000" IsBiblicalTerm="M" EntryCode="31.105" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Hold a View, Believe, Trust</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Be a Believer, Christian Faith</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-08-11 15:01:10" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>to not believe in the good news about Jesus Christ and hence not become a follower{N:002}</DefinitionShort>
+              <Glosses>
+                <Gloss>to not be a believer</Gloss>
+                <Gloss>to be a non-Christian</Gloss>
+                <Gloss>to be an infidel</Gloss>
+                <Gloss>not believing</Gloss>
+                <Gloss>to be a pagan</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04402802400018</LEXReference>
+            <LEXReference>04500300300008</LEXReference>
+            <LEXReference>05500201300004</LEXReference>
+            <LEXReference>06000200700014</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

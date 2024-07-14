@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="004917000000000" Lemma="ταπεινοφροσύνη" Version="0" HasAramaic="false" InLXX="false" AlphaPos="τ">
+  <StrongCodes>
+    <Strong>G5012</Strong>
+  </StrongCodes>
+  <Authors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes/>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="004917001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>noun, f.</PartOfSpeech>
+      </PartsOfSpeech>
+      <Inflections>
+        <Inflection Lemma="ταπεινοφροσύνη" BaseFormIndex="1">
+          <Form/>
+          <Realizations>
+            <Realization>-ης</Realization>
+          </Realizations>
+          <Comments/>
+        </Inflection>
+      </Inflections>
+      <Constructs>
+        <Construct Lemma="ταπεινοφροσύνη" BaseFormIndex="1">
+          <WordMeaningSet>
+            <Word>ταπεινόω</Word>
+          </WordMeaningSet>
+          <WordMeaningSet>
+            <Word>φρονέω</Word>
+          </WordMeaningSet>
+        </Construct>
+      </Constructs>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="004917001001000" IsBiblicalTerm="M" EntryCode="88.53" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Moral and Ethical Qualities and Related Behavior</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Humility</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2022-03-30 11:35:20" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>the quality of humility</DefinitionShort>
+              <Glosses>
+                <Gloss>humble attitude</Gloss>
+                <Gloss>humility</Gloss>
+                <Gloss>without arrogance</Gloss>
+              </Glosses>
+              <Comments>The rendering of ταπεινοφροσύνη in {S:05100201800012} as ‘false humility’ is justified in terms of the context, but there is nothing in the word ταπεινοφροσύνη itself which means ‘false.’ It would be possible to render ταπεινοφροσύνη in {S:05100201800012} as ‘subjection to,’ and one might render the entire expression as ‘in abject worship of angels.’ In other languages ‘false humility’ may be rendered as ‘just pretending to be humble’ or ‘appearing to be humble but really being proud.’</Comments>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04402001900012</LEXReference>
+            <LEXReference>04900400200006</LEXReference>
+            <LEXReference>05000200300018</LEXReference>
+            <LEXReference>05100201800012</LEXReference>
+            <LEXReference>05100202300020</LEXReference>
+            <LEXReference>05100301200026</LEXReference>
+            <LEXReference>06000500500018</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

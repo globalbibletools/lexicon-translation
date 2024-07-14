@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="003055000000000" Lemma="λίθινος" Version="0" HasAramaic="false" InLXX="true" AlphaPos="λ">
+  <StrongCodes>
+    <Strong>G3035</Strong>
+  </StrongCodes>
+  <Authors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes/>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="003055001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>adjc.</PartOfSpeech>
+      </PartsOfSpeech>
+      <Inflections>
+        <Inflection Lemma="λίθινος" BaseFormIndex="1">
+          <Form/>
+          <Realizations>
+            <Realization>-η, -ον</Realization>
+          </Realizations>
+          <Comments/>
+        </Inflection>
+      </Inflections>
+      <RelatedLemmas>
+        <RelatedLemma>
+          <Word>λιθάζω</Word>
+        </RelatedLemma>
+      </RelatedLemmas>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="003055001001000" IsBiblicalTerm="M" EntryCode="2.25" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Natural Substances</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Earth, Mud, Sand, Rock</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-11-09 10:42:05" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>(derivative of {L:λίθος&lt;SDBG:λίθος:000000&gt;}[a] ‘stone,’ {D:2.23}) pertaining to being made of or consisting of stone</DefinitionShort>
+              <Glosses>
+                <Gloss>stone</Gloss>
+                <Gloss>made out of stone</Gloss>
+              </Glosses>
+              <Comments>In speaking of objects ‘made of stone’ it may be necessary in some languages to indicate more precisely the manner in which such objects have been formed, for example, ‘hewn out of stone’ or ‘made from stone by chipping.’</Comments>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04300200600008</LEXReference>
+            <LEXReference>04700300300038</LEXReference>
+            <LEXReference>06600902000078</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

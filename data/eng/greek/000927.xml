@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="000927000000000" Lemma="βασανισμός" Version="0" HasAramaic="false" InLXX="true" AlphaPos="β">
+  <StrongCodes>
+    <Strong>G0929</Strong>
+  </StrongCodes>
+  <Authors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes/>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="000927001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>noun, m.</PartOfSpeech>
+      </PartsOfSpeech>
+      <Inflections>
+        <Inflection Lemma="βασανισμός" BaseFormIndex="1">
+          <Form/>
+          <Realizations>
+            <Realization>-ου</Realization>
+          </Realizations>
+          <Comments/>
+        </Inflection>
+      </Inflections>
+      <RelatedLemmas>
+        <RelatedLemma>
+          <Word>βασανίζω</Word>
+        </RelatedLemma>
+      </RelatedLemmas>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="000927001001000" IsBiblicalTerm="Y" EntryCode="24.90" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Sensory Events and States</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Pain, Suffering</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-02-04 22:21:56" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>severe pain associated with torture and torment</DefinitionShort>
+              <Glosses>
+                <Gloss>torment</Gloss>
+                <Gloss>severe pain</Gloss>
+                <Gloss>severe suffering</Gloss>
+              </Glosses>
+              <Comments>A strictly literal translation of ὁ καπνὸς τοῦ βασανισμοῦ αὐτῶν may be seriously misleading, for it might imply that it is the smoke which causes the suffering, but it is clearly the fire which torments them (as indicated in {S:06601401000000}). Therefore, ir may be necessary to translate ‘and the smoke of the fire that torments them.’</Comments>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>06600900500030</LEXReference>
+            <LEXReference>06600900500036</LEXReference>
+            <LEXReference>06601401100010</LEXReference>
+            <LEXReference>06601800700018</LEXReference>
+            <LEXReference>06601801000016</LEXReference>
+            <LEXReference>06601801500030</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

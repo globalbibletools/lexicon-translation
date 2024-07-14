@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="004293000000000" Lemma="מְצֹולָה" Version="4" HasAramaic="false" InLXX="false" AlphaPos="מ">
+  <StrongCodes>
+    <Strong>H4688</Strong>
+    <Strong>H4699</Strong>
+  </StrongCodes>
+  <Authors>
+    <Author>Reinier de Blois</Author>
+  </Authors>
+  <Contributors/>
+  <AlternateLemmas>
+    <AlternateLemma>מְצוּלָה</AlternateLemma>
+    <AlternateLemma>מְצֻלָה</AlternateLemma>
+  </AlternateLemmas>
+  <MainLinks/>
+  <Notes/>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="004293001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>nsf</PartOfSpeech>
+      </PartsOfSpeech>
+      <RelatedLemmas>
+        <RelatedLemma>
+          <Word>צוּלָה</Word>
+        </RelatedLemma>
+      </RelatedLemmas>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="004293001001000" IsBiblicalTerm="Y" EntryCode="" Indent="0">
+          <LEXDomains>
+            <LEXDomain Code="001005002002002">Landforms</LEXDomain>
+          </LEXDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2022-11-22 11:06:03" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>= a very low area of the earth</DefinitionShort>
+              <Glosses>
+                <Gloss>ravine</Gloss>
+                <Gloss>pit</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>01908800700016</LEXReference>
+            <LEXReference>03800100800040</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+        <LEXMeaning Id="004293001002000" IsBiblicalTerm="Y" EntryCode="" Indent="0">
+          <LEXDomains>
+            <LEXDomain Code="001005002002005" Source="Landforms" SourceCode="001005002002002">Waterbodies</LEXDomain>
+          </LEXDomains>
+          <LEXSynonyms>
+            <LEXSynonym>יָם</LEXSynonym>
+            <LEXSynonym>נָהָר</LEXSynonym>
+            <LEXSynonym>תְּהֹום</LEXSynonym>
+          </LEXSynonyms>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2022-11-22 11:06:03" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>poetic term: = a deep body of water</DefinitionShort>
+              <Glosses>
+                <Gloss>depth</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>00201500500010</LEXReference>
+            <LEXReference>01600901100042</LEXReference>
+            <LEXReference>01804102300010</LEXReference>
+            <LEXReference>01906802300016</LEXReference>
+            <LEXReference>01906900300008</LEXReference>
+            <LEXReference>01906901600016</LEXReference>
+            <LEXReference>01910702400016</LEXReference>
+            <LEXReference>03200200400006</LEXReference>
+            <LEXReference>03300701900016</LEXReference>
+            <LEXReference>03801001100032</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

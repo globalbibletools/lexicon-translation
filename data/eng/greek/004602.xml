@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="004602000000000" Lemma="σποδός" Version="0" HasAramaic="false" InLXX="true" AlphaPos="σ">
+  <StrongCodes>
+    <Strong>G4700</Strong>
+  </StrongCodes>
+  <Authors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes>
+    <Note Caller="1" LanguageCode="en" LastEdited="" LastEditedBy="">
+      <References/>
+      <Content>It would be possible to classify σποδός as a natural substance (see Domain 2), since it is the result of a natural process and occurs in circumstances not involving artifacts.</Content>
+    </Note>
+  </Notes>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="004602001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>noun, f.</PartOfSpeech>
+      </PartsOfSpeech>
+      <Inflections>
+        <Inflection Lemma="σποδός" BaseFormIndex="1">
+          <Form/>
+          <Realizations>
+            <Realization>-οῦ</Realization>
+          </Realizations>
+          <Comments/>
+        </Inflection>
+      </Inflections>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="004602001001000" IsBiblicalTerm="M" EntryCode="14.73" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Physical Events and States</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Burning</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2022-02-14 22:57:42" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>the residue from a burned substance{N:001}</DefinitionShort>
+              <Glosses>
+                <Gloss>ashes</Gloss>
+              </Glosses>
+              <Comments>It may be important in rendering σποδὸς δαμάλεως to indicate that the ashes are the result of the animal having been burned as a sacrifice, for example, ‘the ashes of a heifer burned as a sacrifice.’ Otherwise, the relationship between ‘ashes’ and ‘heifer’ may be difficult, if not impossible, for readers to understand.</Comments>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04001102100050</LEXReference>
+            <LEXReference>04201001300050</LEXReference>
+            <LEXReference>05800901300018</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

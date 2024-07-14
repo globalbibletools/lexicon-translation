@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="001704000000000" Lemma="דַּק" Version="5" HasAramaic="false" InLXX="false" AlphaPos="ד">
+  <StrongCodes>
+    <Strong>H1851</Strong>
+  </StrongCodes>
+  <Authors>
+    <Author>Enio R; Mueller</Author>
+  </Authors>
+  <Contributors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes>
+    <Note Caller="1" LanguageCode="en" LastEdited="" LastEditedBy="">
+      <References>
+        <Reference>00302102000008</Reference>
+      </References>
+      <Content>hoi</Content>
+    </Note>
+  </Notes>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="001704001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>aj</PartOfSpeech>
+      </PartsOfSpeech>
+      <RelatedLemmas>
+        <RelatedLemma>
+          <Word>דקק</Word>
+        </RelatedLemma>
+      </RelatedLemmas>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="001704001001000" IsBiblicalTerm="Y" EntryCode="" Indent="0">
+          <LEXDomains>
+            <LEXDomain Code="002001001061">Thin</LEXDomain>
+          </LEXDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2017-01-03 14:54:14" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>= state in which an object has opposite surface or sides relatively close together</DefinitionShort>
+              <Glosses>
+                <Gloss>thin</Gloss>
+                <Gloss>fine</Gloss>
+                <Gloss>gaunt</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>00104100300028</LEXReference>
+            <LEXReference>00104100400018</LEXReference>
+            <LEXReference>00104100600010</LEXReference>
+            <LEXReference>00104100700012</LEXReference>
+            <LEXReference>00104102300012</LEXReference>
+            <LEXReference>00104102400012</LEXReference>
+            <LEXReference>00201601400024</LEXReference>
+            <LEXReference>00201601400028</LEXReference>
+            <LEXReference>00301303000038</LEXReference>
+            <LEXReference>00301601200042</LEXReference>
+            <LEXReference>00302102000008</LEXReference>
+            <LEXReference>02302900500010</LEXReference>
+            <LEXReference>02304001500032</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+          <LEXCoreDomains>
+            <LEXCoreDomain Code="161">Size</LEXCoreDomain>
+          </LEXCoreDomains>
+        </LEXMeaning>
+        <LEXMeaning Id="001704001002000" IsBiblicalTerm="Y" EntryCode="" Indent="0">
+          <LEXDomains>
+            <LEXDomain Code="002001003013">Lax</LEXDomain>
+          </LEXDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2017-01-03 14:54:14" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>= state when an event happens with a relatively small intensity</DefinitionShort>
+              <Glosses>
+                <Gloss>soft</Gloss>
+                <Gloss>gentle</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>01101901200034</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+          <LEXCoreDomains>
+            <LEXCoreDomain Code="090">Intensity</LEXCoreDomain>
+            <LEXCoreDomain Code="041">Communication</LEXCoreDomain>
+          </LEXCoreDomains>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

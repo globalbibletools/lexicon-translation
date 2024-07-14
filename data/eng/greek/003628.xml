@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="003628000000000" Lemma="ὄρθρος" Version="0" HasAramaic="false" InLXX="true" AlphaPos="ο">
+  <StrongCodes>
+    <Strong>G3722</Strong>
+  </StrongCodes>
+  <Authors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes>
+    <Note Caller="1" LanguageCode="en" LastEdited="" LastEditedBy="">
+      <References/>
+      <Content>There may be slight differences of meaning between αὐγή and ὄρθρος[b] in that αὐγή focuses primarily upon light and ὄρθρος[b] perhaps on the early part of dawn, but this cannot be determined precisely from existing contexts.</Content>
+    </Note>
+  </Notes>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="003628001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>noun, m.</PartOfSpeech>
+      </PartsOfSpeech>
+      <Inflections>
+        <Inflection Lemma="ὄρθρος" BaseFormIndex="1">
+          <Form/>
+          <Realizations>
+            <Realization>-ου</Realization>
+          </Realizations>
+          <Comments/>
+        </Inflection>
+      </Inflections>
+      <RelatedLemmas>
+        <RelatedLemma>
+          <Word>ὀρθρίζω</Word>
+        </RelatedLemma>
+      </RelatedLemmas>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="003628001001000" IsBiblicalTerm="Y" EntryCode="67.187" Indent="0">
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-12-15 19:01:57" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>the early part of the daylight period</DefinitionShort>
+              <Glosses>
+                <Gloss>early morning</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04300800200002</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+        <LEXMeaning Id="003628001002000" IsBiblicalTerm="Y" EntryCode="67.73" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Time</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>A Point of Time with Reference to Units of Time: Daybreak, Midday, Midnight, Late</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-12-15 19:01:57" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>the point of time when the day begins{N:001}</DefinitionShort>
+              <Glosses>
+                <Gloss>daybreak</Gloss>
+                <Gloss>sunrise</Gloss>
+                <Gloss>dawn</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04202400100012</LEXReference>
+            <LEXReference>04400502100012</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

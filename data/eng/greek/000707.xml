@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="000707000000000" Lemma="ἄριστον" Version="0" HasAramaic="false" InLXX="true" AlphaPos="α">
+  <StrongCodes>
+    <Strong>G0712</Strong>
+  </StrongCodes>
+  <Authors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes/>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="000707001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>noun, n.</PartOfSpeech>
+      </PartsOfSpeech>
+      <Inflections>
+        <Inflection Lemma="ἄριστον" BaseFormIndex="1">
+          <Form/>
+          <Realizations>
+            <Realization>-ου</Realization>
+          </Realizations>
+          <Comments/>
+        </Inflection>
+      </Inflections>
+      <RelatedLemmas>
+        <RelatedLemma>
+          <Word>ἀριστάω</Word>
+        </RelatedLemma>
+      </RelatedLemmas>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="000707001001000" IsBiblicalTerm="M" EntryCode="23.22" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Physiological Processes and States</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Eat, Drink</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-08-16 16:17:38" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>a meal whether simple or elaborate (this generic meaning of ἄριστον is in contrast with the more specific meaning of {L:ἄριστον&lt;SDBG:ἄριστον:000001&gt;}[b], {D:23.23})</DefinitionShort>
+              <Glosses>
+                <Gloss>a meal</Gloss>
+                <Gloss>a banquet</Gloss>
+                <Gloss>a feast</Gloss>
+              </Glosses>
+              <Comments>Though ἄριστον[a], {L:δεῖπνον&lt;SDBG:δεῖπνον:000000&gt;}[a], and {L:βρῶσις&lt;SDBG:βρῶσις:000001&gt;}[b] are highly generic in this usage, it is not necessary to translate these terms by a corresponding generic term in another language, since a more specific term may fit the context more satisfactorily. In fact, a generic term might be quite inappropriate in that it would suggest in the case of {S:04100602100020} that Herod was quite stingy in simply providing an ordinary meal for his officials.</Comments>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04002200400022</LEXReference>
+            <LEXReference>04201103800024</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+        <LEXMeaning Id="000707001002000" IsBiblicalTerm="Y" EntryCode="23.23" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Physiological Processes and States</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Eat, Drink</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-08-16 16:17:38" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>a less important meal, normally in the earlier or middle part of the day</DefinitionShort>
+              <Glosses>
+                <Gloss>noon meal</Gloss>
+                <Gloss>lunch</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04201401200018</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

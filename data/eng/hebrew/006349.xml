@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="006349000000000" Lemma="קבב" Version="5" HasAramaic="false" InLXX="false" AlphaPos="ק">
+  <StrongCodes>
+    <Strong>H6895</Strong>
+  </StrongCodes>
+  <Authors>
+    <Author>Graham S. Ogden</Author>
+  </Authors>
+  <Contributors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes>
+    <Note Caller="1" LanguageCode="en" LastEdited="" LastEditedBy="">
+      <References>
+        <Reference>01800500300012</Reference>
+      </References>
+      <Content>MT {A:HOTTP}-B {A:RSV} {A:NJPS} {A:NRSV} {A:GNT} | {A:NIV} {A:NJB} "to be cursed" | {A:REB} "to be ruined"</Content>
+    </Note>
+  </Notes>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="006349001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>vb</PartOfSpeech>
+      </PartsOfSpeech>
+      <RelatedLemmas>
+        <RelatedLemma>
+          <Word>נקב</Word>
+        </RelatedLemma>
+        <RelatedLemma>
+          <Word>קַב</Word>
+        </RelatedLemma>
+        <RelatedLemma>
+          <Word>קֻבָּה</Word>
+        </RelatedLemma>
+      </RelatedLemmas>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="006349001001000" IsBiblicalTerm="M" EntryCode="" Indent="0">
+          <LEXDomains>
+            <LEXDomain Code="002003002009">Curse</LEXDomain>
+          </LEXDomains>
+          <LEXForms>
+            <LEXForm>vbqal-</LEXForm>
+          </LEXForms>
+          <LEXValencies>
+            <LEXValency>v X</LEXValency>
+          </LEXValencies>
+          <LEXSynonyms>
+            <LEXSynonym>ארר</LEXSynonym>
+            <LEXSynonym>זעם</LEXSynonym>
+          </LEXSynonyms>
+          <LEXAntonyms>
+            <LEXAntonym>ברך</LEXAntonym>
+            <LEXAntonym>בְּרָכָה</LEXAntonym>
+          </LEXAntonyms>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2017-11-15 08:25:53" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>= causative action by which humans or deities consign humans to death, usually by invoking the name of a deity if the agent is human; ◄ this is done as punishment, out of contempt, fear, anger, or hostility, or because one was paid to do so; ► the effectiveness of a curse partially depends on the authority of the one pronouncing it</DefinitionShort>
+              <Glosses>
+                <Gloss>to curse</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>00402201100032</LEXReference>
+            <LEXReference>00402201700028</LEXReference>
+            <LEXReference>00402300800004</LEXReference>
+            <LEXReference>00402300800008</LEXReference>
+            <LEXReference>00402301100020</LEXReference>
+            <LEXReference>00402301300048</LEXReference>
+            <LEXReference>00402302500014</LEXReference>
+            <LEXReference>00402302500018</LEXReference>
+            <LEXReference>00402302700038</LEXReference>
+            <LEXReference>00402401000034</LEXReference>
+            <LEXReference>01800300800002</LEXReference>
+            <LEXReference>01800500300012{N:001}</LEXReference>
+            <LEXReference>02001102600006</LEXReference>
+            <LEXReference>02002402400012</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+          <LEXCoreDomains>
+            <LEXCoreDomain Code="041">Communication</LEXCoreDomain>
+            <LEXCoreDomain Code="018">Blessing and Cursing</LEXCoreDomain>
+            <LEXCoreDomain Code="017">Behavior</LEXCoreDomain>
+            <LEXCoreDomain Code="140">Recompense</LEXCoreDomain>
+          </LEXCoreDomains>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

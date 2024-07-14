@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="003595000000000" Lemma="ὄνος" Version="0" HasAramaic="false" InLXX="true" AlphaPos="ο">
+  <StrongCodes>
+    <Strong>G3688</Strong>
+  </StrongCodes>
+  <Authors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes/>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="003595001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>noun, m./f.</PartOfSpeech>
+      </PartsOfSpeech>
+      <Inflections>
+        <Inflection Lemma="ὄνος" BaseFormIndex="1">
+          <Form/>
+          <Realizations>
+            <Realization>-ου</Realization>
+          </Realizations>
+          <Comments/>
+        </Inflection>
+      </Inflections>
+      <RelatedLemmas>
+        <RelatedLemma>
+          <Word>ὀνάριον</Word>
+        </RelatedLemma>
+        <RelatedLemma>
+          <Word>ὀνικός</Word>
+        </RelatedLemma>
+      </RelatedLemmas>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="003595001001000" IsBiblicalTerm="M" EntryCode="4.31" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Animals</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Animals</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-12-15 16:45:51" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>domestic animal belonging to the same family as the horse, but smaller and with longer ears; it can have variety of colors from dark brown, through light brown to gray and occasionally white; Equus Asinus africanus; used to ride on, carry loads, or do other work</DefinitionShort>
+              <Glosses>
+                <Gloss>donkey</Gloss>
+                <Gloss>ass</Gloss>
+              </Glosses>
+              <Comments>In the context of {S:04301201500026} the reference is obviously to a female donkey.|In languages in which there is no word for ‘donkey,’ it is usually best to borrow a term from a dominant language rather than attempting some type of descriptive equivalent. For example, in one language a descriptive designation, namely, ‘a long-eared animal,’ was understood by the people as referring to a rabbit. In some languages donkey is referred to as ‘a kind of small horse’ or ‘a small horse-like animal.’|Though in Greek the article and/or other attributives to the noun ὄνος indicate by their forms whether ὄνος is to be understood as masculine or feminine, in a number of languages quite different terms are employed for a male or female donkey.</Comments>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04002100200026</LEXReference>
+            <LEXReference>04002100500030</LEXReference>
+            <LEXReference>04002100700006</LEXReference>
+            <LEXReference>04201301500040</LEXReference>
+            <LEXReference>04301201500026</LEXReference>
+          </LEXReferences>
+          <LEXLinks>
+            <LEXLink>fauna:2.4</LEXLink>
+          </LEXLinks>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

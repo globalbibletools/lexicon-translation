@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="003330000000000" Lemma="μογιλάλος" Version="0" HasAramaic="false" InLXX="true" AlphaPos="μ">
+  <StrongCodes>
+    <Strong>G3424</Strong>
+  </StrongCodes>
+  <Authors/>
+  <AlternateLemmas>
+    <AlternateLemma>μογγιλάλος</AlternateLemma>
+  </AlternateLemmas>
+  <MainLinks/>
+  <Notes>
+    <Note Caller="1" LanguageCode="en" LastEdited="" LastEditedBy="">
+      <References>
+        <Reference>04100703200012</Reference>
+      </References>
+      <Content>Some have interpreted μογιλάλος in {S:04100703200012} as meaning ‘not able to speak,’ but the context (especially {S:04100703500000}) seems to confirm the meaning of ‘to speak with difficulty’ or ‘to be scarcely able to speak.’</Content>
+    </Note>
+  </Notes>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="003330001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>adjc.</PartOfSpeech>
+      </PartsOfSpeech>
+      <Inflections>
+        <Inflection Lemma="μογιλάλος" BaseFormIndex="1">
+          <Form/>
+          <Realizations>
+            <Realization>-ον</Realization>
+          </Realizations>
+          <Comments/>
+        </Inflection>
+      </Inflections>
+      <Constructs>
+        <Construct Lemma="μογιλάλος" BaseFormIndex="1">
+          <WordMeaningSet>
+            <Word>μόγις</Word>
+          </WordMeaningSet>
+          <WordMeaningSet>
+            <Word>λαλέω</Word>
+          </WordMeaningSet>
+        </Construct>
+      </Constructs>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="003330001001000" IsBiblicalTerm="Y" EntryCode="33.107" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Communication</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Speak, Talk</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-12-09 13:24:27" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>pertaining to being almost mute</DefinitionShort>
+              <Glosses>
+                <Gloss>hardly able to speak</Gloss>
+                <Gloss>having difficulty in speaking</Gloss>
+              </Glosses>
+              <Comments>In translating μογιλάλος it may be necessary in some instances to use a descriptive phrase, for example, ‘when he spoke, people could hardly understand’ or ‘he spoke in such a way that people had difficulty in understanding.’</Comments>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04100703200012{N:001}</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="002344000000000" Lemma="θήρα" Version="0" HasAramaic="false" InLXX="true" AlphaPos="θ">
+  <StrongCodes>
+    <Strong>G2339</Strong>
+  </StrongCodes>
+  <Authors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes>
+    <Note Caller="1" LanguageCode="en" LastEdited="" LastEditedBy="">
+      <References>
+        <Reference>04501100900024</Reference>
+      </References>
+      <Content>In {S:04501100900024} παγίς ({D:6.23}), θήρα ({D:6.24}), and σκάνδαλον ({D:6.25}) are all treated as having literal meanings, whereas the passage as a whole is figurative.</Content>
+    </Note>
+  </Notes>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="002344001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>noun, f.</PartOfSpeech>
+      </PartsOfSpeech>
+      <Inflections>
+        <Inflection Lemma="θήρα" BaseFormIndex="1">
+          <Form/>
+          <Realizations>
+            <Realization>-ας</Realization>
+          </Realizations>
+          <Comments/>
+        </Inflection>
+      </Inflections>
+      <RelatedLemmas>
+        <RelatedLemma>
+          <Word>θηρεύω</Word>
+        </RelatedLemma>
+      </RelatedLemmas>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="002344001001000" IsBiblicalTerm="M" EntryCode="6.24" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Artifacts</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Traps, Snares</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-08-17 10:10:46" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>a device used for trapping, especially of animals other than birds</DefinitionShort>
+              <Glosses>
+                <Gloss>trap</Gloss>
+                <Gloss>snare</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04501100900024{N:001}</LEXReference>
+          </LEXReferences>
+          <LEXLinks>
+            <LEXLink>realia:1.4.1</LEXLink>
+          </LEXLinks>
+          <LEXVideos/>
+        </LEXMeaning>
+        <LEXMeaning Id="002344001002000" IsBiblicalTerm="Y" EntryCode="37.15" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Control, Rule</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Control, Restrain</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-08-17 10:10:46" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>(figurative extension of meaning of {L:θήρα&lt;SDBG:θήρα:000000&gt;}[a] ‘trap,’ {D:6.24}) an instrument or means for gaining control, implying an element of surprise</DefinitionShort>
+              <Glosses>
+                <Gloss>means of control</Gloss>
+                <Gloss>way of trapping</Gloss>
+              </Glosses>
+              <Comments>In a number of languages, it is possible to reflect something of the figurative meaning of θήρα by translating this term as a verb, for example, ‘may they be caught and trapped at their feasts’ or ‘may their feasts snare and trap them’ (see {D:6.24}).</Comments>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04501100900024</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

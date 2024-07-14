@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="002859000000000" Lemma="κοινωνός" Version="0" HasAramaic="false" InLXX="true" AlphaPos="κ">
+  <StrongCodes>
+    <Strong>G2844</Strong>
+  </StrongCodes>
+  <Authors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes>
+    <Note Caller="1" LanguageCode="en" LastEdited="" LastEditedBy="">
+      <References/>
+      <Content>It is possible that συγκοινωνός[a] is somewhat more emphatic than κοινωνός in focusing upon the joint nature of participation.</Content>
+    </Note>
+  </Notes>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="002859001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>noun, m.</PartOfSpeech>
+      </PartsOfSpeech>
+      <Inflections>
+        <Inflection Lemma="κοινωνός" BaseFormIndex="1">
+          <Form/>
+          <Realizations>
+            <Realization>-οῦ</Realization>
+          </Realizations>
+          <Comments/>
+        </Inflection>
+      </Inflections>
+      <RelatedLemmas>
+        <RelatedLemma>
+          <Word>κοινόω</Word>
+        </RelatedLemma>
+      </RelatedLemmas>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="002859001001000" IsBiblicalTerm="M" EntryCode="34.6" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Association</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Associate</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-10-14 11:14:53" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>one who participates with another in some enterprise or matter of joint concern{N:001}</DefinitionShort>
+              <Glosses>
+                <Gloss>partner</Gloss>
+                <Gloss>associate</Gloss>
+                <Gloss>one who joins in with</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04002303000030</LEXReference>
+            <LEXReference>04200501000022</LEXReference>
+            <LEXReference>04601001800022</LEXReference>
+            <LEXReference>04601002000028</LEXReference>
+            <LEXReference>04700100700022</LEXReference>
+            <LEXReference>04700802300008</LEXReference>
+            <LEXReference>05700101700010</LEXReference>
+            <LEXReference>05801003300020</LEXReference>
+            <LEXReference>06000500100040</LEXReference>
+            <LEXReference>06100100400030</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

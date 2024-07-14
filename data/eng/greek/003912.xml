@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="003912000000000" Lemma="πέρας" Version="0" HasAramaic="false" InLXX="true" AlphaPos="π">
+  <StrongCodes>
+    <Strong>G4009</Strong>
+  </StrongCodes>
+  <Authors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes/>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="003912001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>noun, n.</PartOfSpeech>
+      </PartsOfSpeech>
+      <Inflections>
+        <Inflection Lemma="πέρας" BaseFormIndex="1">
+          <Form/>
+          <Realizations>
+            <Realization>-ατος</Realization>
+          </Realizations>
+          <Comments/>
+        </Inflection>
+      </Inflections>
+      <RelatedLemmas>
+        <RelatedLemma>
+          <Word>πέραν</Word>
+        </RelatedLemma>
+      </RelatedLemmas>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="003912001001000" IsBiblicalTerm="Y" EntryCode="80.6" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Space</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Limits, Boundaries of Space</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-12-24 12:41:45" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>limit as the distant end of a space</DefinitionShort>
+              <Glosses>
+                <Gloss>end</Gloss>
+                <Gloss>limit</Gloss>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04001204200036</LEXReference>
+            <LEXReference>04201103100040</LEXReference>
+            <LEXReference>04501001800036</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+        <LEXMeaning Id="003912001002000" IsBiblicalTerm="Y" EntryCode="61.15" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Sequence</LEXDomain>
+          </LEXDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-12-24 12:41:45" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>the end point of a process, implying a conclusion of a matter</DefinitionShort>
+              <Glosses>
+                <Gloss>end</Gloss>
+                <Gloss>conclusion</Gloss>
+              </Glosses>
+              <Comments>In a number of languages it may be necessary to restructure this statement in {S:05800601600022}, for example, ‘when people are contradicting one another, an oath serves to confirm what is said and to put an end to the dispute.’</Comments>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>05800601600022</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

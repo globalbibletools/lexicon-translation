@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="001805000000000" Lemma="ἔντρομος" Version="0" HasAramaic="false" InLXX="true" AlphaPos="ε">
+  <StrongCodes>
+    <Strong>G1790</Strong>
+  </StrongCodes>
+  <Authors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes/>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="001805001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech>adjc.</PartOfSpeech>
+      </PartsOfSpeech>
+      <Inflections>
+        <Inflection Lemma="ἔντρομος" BaseFormIndex="1">
+          <Form/>
+          <Realizations>
+            <Realization>-ον</Realization>
+          </Realizations>
+          <Comments/>
+        </Inflection>
+      </Inflections>
+      <RelatedLemmas>
+        <RelatedLemma>
+          <Word>τρέμω</Word>
+        </RelatedLemma>
+      </RelatedLemmas>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="001805001001000" IsBiblicalTerm="Y" EntryCode="16.6" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Non-Linear Movement</LEXDomain>
+          </LEXDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-06-03 10:10:35" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>shaking or trembling, often with the implication of fear and/or consternation</DefinitionShort>
+              <Glosses>
+                <Gloss>trembling</Gloss>
+                <Gloss>quivering</Gloss>
+                <Gloss>shaking</Gloss>
+              </Glosses>
+              <Comments>In a number of languages there are two distinct terms for trembling, one relating to illness (as in the case of epileptic seizures or the chills and fever associated with malaria) and the other associated with fear.</Comments>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04400703200028</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+        <LEXMeaning Id="001805001002000" IsBiblicalTerm="Y" EntryCode="25.261" Indent="0">
+          <LEXDomains>
+            <LEXDomain>Attitudes and Emotions</LEXDomain>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain>Fear, Terror, Alarm</LEXSubDomain>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2021-06-03 10:10:35" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort>pertaining to extreme terror or fear, often accompanied by trembling</DefinitionShort>
+              <Glosses>
+                <Gloss>trembling with fear</Gloss>
+                <Gloss>extremely fearful</Gloss>
+              </Glosses>
+              <Comments>In {S:05801202100024} the meanings of {L:ἔκφοβος&lt;SDBG:ἔκφοβος:000000&gt;} ({D:25.256}) and ἔντρομος serve to reinforce each other.</Comments>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04401602900012</LEXReference>
+            <LEXReference>05801202100024</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>
