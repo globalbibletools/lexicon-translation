@@ -33,7 +33,7 @@ const dataRepoUrl = "https://api.github.com/repos/globalbibletools/semantic-dict
 async function createNewProject() {
     const data = await fetch(dataRepoUrl).then((res) => res.json());
     const availableLanguageCodes = data.map((folder) => folder.name);
-    const projectDetails = await getProjectDetails(availableLanguageCodes);
+    const projectDetails = await queryProjectDetails(availableLanguageCodes);
     if (!projectDetails) {
         vscode.window.showInformationMessage("Cancelled project creation");
         return;
@@ -65,7 +65,7 @@ async function createNewProject() {
         return;
     }
     const sourceLanguageData = await fetch(data.find((folder) => folder.name === projectDetails.sourceLanguage.tag)?.url ?? "").then((res) => res.json());
-    await populateFiles(projectUri, sourceLanguageData);
+    await populateProjectFiles(projectUri, sourceLanguageData);
     if (!vscode.workspace.getWorkspaceFolder(projectUri)) {
         const shouldOpenProject = await vscode.window.showInformationMessage("Success! Project created! Would you like to open this project?", "Yes", "No");
         if (shouldOpenProject === "Yes") {
@@ -76,7 +76,7 @@ async function createNewProject() {
         await vscode.window.showInformationMessage("Success! Project created!");
     }
 }
-async function getProjectDetails(availableLanguageCodes) {
+async function queryProjectDetails(availableLanguageCodes) {
     const projectName = await vscode.window.showInputBox({
         prompt: "[1/4] Enter the project name",
         ignoreFocusOut: true,
@@ -116,12 +116,12 @@ async function createProjectDirectories(projectUri) {
     await vscode.workspace.fs.createDirectory(vscode.Uri.joinPath(projectUri, "files", "target", "hebrew"));
     await vscode.workspace.fs.createDirectory(vscode.Uri.joinPath(projectUri, "files", "target", "greek"));
 }
-async function populateFiles(projectUri, sourceLanguageData) {
+async function populateProjectFiles(projectUri, sourceLanguageData) {
     const hebrewEntries = await fetchEntries(sourceLanguageData, "hebrew");
     const greekEntries = await fetchEntries(sourceLanguageData, "greek");
     try {
-        await vscode.workspace.fs.writeFile(vscode.Uri.joinPath(projectUri, "files", "common", "partsOfSpeech.xml"), new Uint8Array());
-        await vscode.workspace.fs.writeFile(vscode.Uri.joinPath(projectUri, "files", "common", "domains.xml"), new Uint8Array());
+        await vscode.workspace.fs.writeFile(vscode.Uri.joinPath(projectUri, "files", "common", "partsOfSpeech.xml"), await extractPartsOfSpeechData([...hebrewEntries, ...greekEntries]));
+        await vscode.workspace.fs.writeFile(vscode.Uri.joinPath(projectUri, "files", "common", "domains.xml"), await extractDomainsData([...hebrewEntries, ...greekEntries]));
         await createEntries(projectUri, "hebrew", hebrewEntries);
         await createEntries(projectUri, "greek", greekEntries);
     }
@@ -134,6 +134,14 @@ async function fetchEntries(sourceLanguageData, textLang) {
     return Promise.all(data
         .slice(0, 1)
         .map((file) => fetch(file.url).then((res) => res.json())));
+}
+async function extractPartsOfSpeechData(entries) {
+    entries.map((entry) => entry.content);
+    return Buffer.from([]);
+}
+async function extractDomainsData(entries) {
+    entries.map((entry) => entry.content);
+    return Buffer.from([]);
 }
 async function createEntries(projectUri, langName, entries) {
     await Promise.all(entries.map((entry) => Promise.all([

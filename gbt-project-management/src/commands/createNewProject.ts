@@ -23,7 +23,7 @@ export default async function createNewProject() {
   const data: any = await fetch(dataRepoUrl).then((res) => res.json());
   const availableLanguageCodes = data.map((folder: any) => folder.name);
 
-  const projectDetails = await getProjectDetails(availableLanguageCodes);
+  const projectDetails = await queryProjectDetails(availableLanguageCodes);
   if (!projectDetails) {
     vscode.window.showInformationMessage("Cancelled project creation");
     return;
@@ -72,7 +72,7 @@ export default async function createNewProject() {
       (folder: any) => folder.name === projectDetails.sourceLanguage.tag
     )?.url ?? ""
   ).then((res) => res.json());
-  await populateFiles(projectUri, sourceLanguageData);
+  await populateProjectFiles(projectUri, sourceLanguageData);
 
   if (!vscode.workspace.getWorkspaceFolder(projectUri)) {
     const shouldOpenProject = await vscode.window.showInformationMessage(
@@ -89,7 +89,7 @@ export default async function createNewProject() {
   }
 }
 
-async function getProjectDetails(
+async function queryProjectDetails(
   availableLanguageCodes: string[]
 ): Promise<ProjectDetails | undefined> {
   const projectName = await vscode.window.showInputBox({
@@ -152,18 +152,21 @@ async function createProjectDirectories(projectUri: vscode.Uri) {
   );
 }
 
-async function populateFiles(projectUri: vscode.Uri, sourceLanguageData: any) {
+async function populateProjectFiles(
+  projectUri: vscode.Uri,
+  sourceLanguageData: any
+) {
   const hebrewEntries: any = await fetchEntries(sourceLanguageData, "hebrew");
   const greekEntries: any = await fetchEntries(sourceLanguageData, "greek");
 
   try {
     await vscode.workspace.fs.writeFile(
       vscode.Uri.joinPath(projectUri, "files", "common", "partsOfSpeech.xml"),
-      new Uint8Array()
+      await extractPartsOfSpeechData([...hebrewEntries, ...greekEntries])
     );
     await vscode.workspace.fs.writeFile(
       vscode.Uri.joinPath(projectUri, "files", "common", "domains.xml"),
-      new Uint8Array()
+      await extractDomainsData([...hebrewEntries, ...greekEntries])
     );
 
     await createEntries(projectUri, "hebrew", hebrewEntries);
@@ -186,6 +189,15 @@ async function fetchEntries(
       .slice(0, 1)
       .map((file: any) => fetch(file.url).then((res) => res.json()))
   );
+}
+
+async function extractPartsOfSpeechData(entries: any): Promise<Buffer> {
+  entries.map((entry: any) => entry.content);
+  return Buffer.from([]);
+}
+async function extractDomainsData(entries: any): Promise<Buffer> {
+  entries.map((entry: any) => entry.content);
+  return Buffer.from([]);
 }
 
 async function createEntries(
