@@ -58,11 +58,12 @@ async function createNewProject() {
         }
     }
     try {
-        await vscode.workspace.fs.writeFile(vscode.Uri.joinPath(projectUri, "metadata.json"), buildMetadata({ projectName, userName, sourceLanguage, targetLanguage }));
+        await vscode.workspace.fs.createDirectory(vscode.Uri.joinPath(projectUri, "files", "common"));
         await vscode.workspace.fs.createDirectory(vscode.Uri.joinPath(projectUri, "files", "source", "hebrew"));
         await vscode.workspace.fs.createDirectory(vscode.Uri.joinPath(projectUri, "files", "source", "greek"));
         await vscode.workspace.fs.createDirectory(vscode.Uri.joinPath(projectUri, "files", "target", "hebrew"));
         await vscode.workspace.fs.createDirectory(vscode.Uri.joinPath(projectUri, "files", "target", "greek"));
+        await vscode.workspace.fs.writeFile(vscode.Uri.joinPath(projectUri, "metadata.json"), buildMetadata({ projectName, userName, sourceLanguage, targetLanguage }));
     }
     catch (e) {
         vscode.window.showErrorMessage(`Error: ${e}`);
@@ -123,13 +124,15 @@ async function populateFiles(projectUri, sourceLanguageData) {
         .slice(0, 1)
         .map((file) => fetch(file.url).then((res) => res.json())));
     try {
+        await vscode.workspace.fs.writeFile(vscode.Uri.joinPath(projectUri, "files", "common", "partsOfSpeech.xml"), new Uint8Array());
+        await vscode.workspace.fs.writeFile(vscode.Uri.joinPath(projectUri, "files", "common", "domains.xml"), new Uint8Array());
         await Promise.all(hebrewEntries.flatMap((entry) => [
-            vscode.workspace.fs.writeFile(vscode.Uri.joinPath(vscode.Uri.joinPath(projectUri, "files", "source", "hebrew"), entry.name), Buffer.from(entry.content, "base64")),
-            vscode.workspace.fs.writeFile(vscode.Uri.joinPath(vscode.Uri.joinPath(projectUri, "files", "target", "hebrew"), entry.name), new Uint8Array()),
+            vscode.workspace.fs.writeFile(vscode.Uri.joinPath(projectUri, "files", "source", "hebrew", entry.name), Buffer.from(entry.content, "base64")),
+            vscode.workspace.fs.writeFile(vscode.Uri.joinPath(projectUri, "files", "target", "hebrew", entry.name), new Uint8Array()),
         ]));
         await Promise.all(greekEntries.flatMap((entry) => [
-            vscode.workspace.fs.writeFile(vscode.Uri.joinPath(vscode.Uri.joinPath(projectUri, "files", "source", "greek"), entry.name), Buffer.from(entry.content, "base64")),
-            vscode.workspace.fs.writeFile(vscode.Uri.joinPath(vscode.Uri.joinPath(projectUri, "files", "target", "greek"), entry.name), new Uint8Array()),
+            vscode.workspace.fs.writeFile(vscode.Uri.joinPath(projectUri, "files", "source", "greek", entry.name), Buffer.from(entry.content, "base64")),
+            vscode.workspace.fs.writeFile(vscode.Uri.joinPath(projectUri, "files", "target", "greek", entry.name), new Uint8Array()),
         ]));
     }
     catch (e) {
