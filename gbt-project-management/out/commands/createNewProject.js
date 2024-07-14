@@ -58,11 +58,7 @@ async function createNewProject() {
         }
     }
     try {
-        await vscode.workspace.fs.createDirectory(vscode.Uri.joinPath(projectUri, "files", "common"));
-        await vscode.workspace.fs.createDirectory(vscode.Uri.joinPath(projectUri, "files", "source", "hebrew"));
-        await vscode.workspace.fs.createDirectory(vscode.Uri.joinPath(projectUri, "files", "source", "greek"));
-        await vscode.workspace.fs.createDirectory(vscode.Uri.joinPath(projectUri, "files", "target", "hebrew"));
-        await vscode.workspace.fs.createDirectory(vscode.Uri.joinPath(projectUri, "files", "target", "greek"));
+        await createDirectories(projectUri);
         await vscode.workspace.fs.writeFile(vscode.Uri.joinPath(projectUri, "metadata.json"), buildMetadata({ projectName, userName, sourceLanguage, targetLanguage }));
     }
     catch (e) {
@@ -114,30 +110,35 @@ async function getProjectDetails(availableLanguageCodes) {
     }
     return { projectName, userName, sourceLanguage, targetLanguage };
 }
+async function createDirectories(projectUri) {
+    await vscode.workspace.fs.createDirectory(vscode.Uri.joinPath(projectUri, "files", "common"));
+    await vscode.workspace.fs.createDirectory(vscode.Uri.joinPath(projectUri, "files", "source", "hebrew"));
+    await vscode.workspace.fs.createDirectory(vscode.Uri.joinPath(projectUri, "files", "source", "greek"));
+    await vscode.workspace.fs.createDirectory(vscode.Uri.joinPath(projectUri, "files", "target", "hebrew"));
+    await vscode.workspace.fs.createDirectory(vscode.Uri.joinPath(projectUri, "files", "target", "greek"));
+}
 async function populateFiles(projectUri, sourceLanguageData) {
     const hebrewData = await fetch(sourceLanguageData.find((folder) => folder.name === "hebrew").url).then((res) => res.json());
     const greekData = await fetch(sourceLanguageData.find((folder) => folder.name === "greek").url).then((res) => res.json());
-    const hebrewEntries = await Promise.all(hebrewData
-        .slice(0, 1)
-        .map((file) => fetch(file.url).then((res) => res.json())));
-    const greekEntries = await Promise.all(greekData
-        .slice(0, 1)
-        .map((file) => fetch(file.url).then((res) => res.json())));
     try {
         await vscode.workspace.fs.writeFile(vscode.Uri.joinPath(projectUri, "files", "common", "partsOfSpeech.xml"), new Uint8Array());
         await vscode.workspace.fs.writeFile(vscode.Uri.joinPath(projectUri, "files", "common", "domains.xml"), new Uint8Array());
-        await Promise.all(hebrewEntries.flatMap((entry) => [
-            vscode.workspace.fs.writeFile(vscode.Uri.joinPath(projectUri, "files", "source", "hebrew", entry.name), Buffer.from(entry.content, "base64")),
-            vscode.workspace.fs.writeFile(vscode.Uri.joinPath(projectUri, "files", "target", "hebrew", entry.name), new Uint8Array()),
-        ]));
-        await Promise.all(greekEntries.flatMap((entry) => [
-            vscode.workspace.fs.writeFile(vscode.Uri.joinPath(projectUri, "files", "source", "greek", entry.name), Buffer.from(entry.content, "base64")),
-            vscode.workspace.fs.writeFile(vscode.Uri.joinPath(projectUri, "files", "target", "greek", entry.name), new Uint8Array()),
-        ]));
+        await createEntries(projectUri, "hebrew", hebrewData);
+        await createEntries(projectUri, "greek", greekData);
     }
     catch (e) {
         console.log(`Error: ${e}`);
     }
+}
+async function createEntries(projectUri, langName, data) {
+    await Promise.all(data
+        .slice(0, 1) // <------ We slice the data so we don't exceed github's fetch rate limit
+        .map((file) => fetch(file.url)
+        .then((res) => res.json())
+        .then((entry) => Promise.all([
+        vscode.workspace.fs.writeFile(vscode.Uri.joinPath(projectUri, "files", "source", langName, entry.name), Buffer.from(entry.content, "base64")),
+        vscode.workspace.fs.writeFile(vscode.Uri.joinPath(projectUri, "files", "target", langName, entry.name), new Uint8Array()),
+    ]))));
 }
 function buildMetadata(details) {
     return Buffer.from(JSON.stringify({
