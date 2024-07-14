@@ -1,3 +1,4 @@
+import { AnyARecord } from "dns";
 import * as vscode from "vscode";
 
 interface Language {
@@ -28,9 +29,6 @@ export default async function createNewProject() {
     return;
   }
 
-  const { projectName, userName, sourceLanguage, targetLanguage } =
-    projectDetails;
-
   const projectUri = (
     await vscode.window.showOpenDialog({
       canSelectFolders: true,
@@ -59,10 +57,10 @@ export default async function createNewProject() {
   }
 
   try {
-    await createDirectories(projectUri);
+    await createProjectDirectories(projectUri);
     await vscode.workspace.fs.writeFile(
       vscode.Uri.joinPath(projectUri, "metadata.json"),
-      buildMetadata({ projectName, userName, sourceLanguage, targetLanguage })
+      buildMetadata(projectDetails)
     );
   } catch (e) {
     vscode.window.showErrorMessage(`Error: ${e}`);
@@ -70,7 +68,9 @@ export default async function createNewProject() {
   }
 
   const sourceLanguageData: any = await fetch(
-    data.find((folder: any) => folder.name === sourceLanguage.tag)?.url ?? ""
+    data.find(
+      (folder: any) => folder.name === projectDetails.sourceLanguage.tag
+    )?.url ?? ""
   ).then((res) => res.json());
   await populateFiles(projectUri, sourceLanguageData);
 
@@ -134,7 +134,7 @@ async function getProjectDetails(
   return { projectName, userName, sourceLanguage, targetLanguage };
 }
 
-async function createDirectories(projectUri: vscode.Uri) {
+async function createProjectDirectories(projectUri: vscode.Uri) {
   await vscode.workspace.fs.createDirectory(
     vscode.Uri.joinPath(projectUri, "files", "common")
   );
@@ -153,12 +153,8 @@ async function createDirectories(projectUri: vscode.Uri) {
 }
 
 async function populateFiles(projectUri: vscode.Uri, sourceLanguageData: any) {
-  const hebrewData: any = await fetch(
-    sourceLanguageData.find((folder: any) => folder.name === "hebrew").url
-  ).then((res) => res.json());
-  const greekData: any = await fetch(
-    sourceLanguageData.find((folder: any) => folder.name === "greek").url
-  ).then((res) => res.json());
+  const hebrewEntries: any = await fetchEntries(sourceLanguageData, "hebrew");
+  const greekEntries: any = await fetchEntries(sourceLanguageData, "greek");
 
   try {
     await vscode.workspace.fs.writeFile(
@@ -170,58 +166,62 @@ async function populateFiles(projectUri: vscode.Uri, sourceLanguageData: any) {
       new Uint8Array()
     );
 
-    await createEntries(projectUri, "hebrew", hebrewData);
-    await createEntries(projectUri, "greek", greekData);
+    await createEntries(projectUri, "hebrew", hebrewEntries);
+    await createEntries(projectUri, "greek", greekEntries);
   } catch (e) {
     console.log(`Error: ${e}`);
   }
 }
 
-async function createEntries(
-  projectUri: vscode.Uri,
-  langName: "hebrew" | "greek",
-  data: any
+async function fetchEntries(
+  sourceLanguageData: any,
+  textLang: "hebrew" | "greek"
 ) {
-  await Promise.all(
+  const data: any = await fetch(
+    sourceLanguageData.find((folder: any) => folder.name === textLang).url
+  ).then((res) => res.json());
+
+  return Promise.all(
     data
-      .slice(0, 1) // <------ We slice the data so we don't exceed github's fetch rate limit
-      .map((file: any) =>
-        fetch(file.url)
-          .then((res) => res.json())
-          .then((entry: any) =>
-            Promise.all([
-              vscode.workspace.fs.writeFile(
-                vscode.Uri.joinPath(
-                  projectUri,
-                  "files",
-                  "source",
-                  langName,
-                  entry.name
-                ),
-                Buffer.from(entry.content, "base64")
-              ),
-              vscode.workspace.fs.writeFile(
-                vscode.Uri.joinPath(
-                  projectUri,
-                  "files",
-                  "target",
-                  langName,
-                  entry.name
-                ),
-                new Uint8Array()
-              ),
-            ])
-          )
-      )
+      .slice(0, 1)
+      .map((file: any) => fetch(file.url).then((res) => res.json()))
   );
 }
 
-function buildMetadata(details: {
-  projectName: string;
-  userName: string;
-  sourceLanguage: { tag: string };
-  targetLanguage: { tag: string };
-}): Buffer {
+async function createEntries(
+  projectUri: vscode.Uri,
+  langName: "hebrew" | "greek",
+  entries: any
+) {
+  await Promise.all(
+    entries.map((entry: any) =>
+      Promise.all([
+        vscode.workspace.fs.writeFile(
+          vscode.Uri.joinPath(
+            projectUri,
+            "files",
+            "source",
+            langName,
+            entry.name
+          ),
+          Buffer.from(entry.content, "base64")
+        ),
+        vscode.workspace.fs.writeFile(
+          vscode.Uri.joinPath(
+            projectUri,
+            "files",
+            "target",
+            langName,
+            entry.name
+          ),
+          new Uint8Array()
+        ),
+      ])
+    )
+  );
+}
+
+function buildMetadata(details: ProjectDetails): Buffer {
   return Buffer.from(
     JSON.stringify(
       {

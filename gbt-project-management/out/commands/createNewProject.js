@@ -38,7 +38,6 @@ async function createNewProject() {
         vscode.window.showInformationMessage("Cancelled project creation");
         return;
     }
-    const { projectName, userName, sourceLanguage, targetLanguage } = projectDetails;
     const projectUri = (await vscode.window.showOpenDialog({
         canSelectFolders: true,
         canSelectFiles: false,
@@ -58,14 +57,14 @@ async function createNewProject() {
         }
     }
     try {
-        await createDirectories(projectUri);
-        await vscode.workspace.fs.writeFile(vscode.Uri.joinPath(projectUri, "metadata.json"), buildMetadata({ projectName, userName, sourceLanguage, targetLanguage }));
+        await createProjectDirectories(projectUri);
+        await vscode.workspace.fs.writeFile(vscode.Uri.joinPath(projectUri, "metadata.json"), buildMetadata(projectDetails));
     }
     catch (e) {
         vscode.window.showErrorMessage(`Error: ${e}`);
         return;
     }
-    const sourceLanguageData = await fetch(data.find((folder) => folder.name === sourceLanguage.tag)?.url ?? "").then((res) => res.json());
+    const sourceLanguageData = await fetch(data.find((folder) => folder.name === projectDetails.sourceLanguage.tag)?.url ?? "").then((res) => res.json());
     await populateFiles(projectUri, sourceLanguageData);
     if (!vscode.workspace.getWorkspaceFolder(projectUri)) {
         const shouldOpenProject = await vscode.window.showInformationMessage("Success! Project created! Would you like to open this project?", "Yes", "No");
@@ -110,7 +109,7 @@ async function getProjectDetails(availableLanguageCodes) {
     }
     return { projectName, userName, sourceLanguage, targetLanguage };
 }
-async function createDirectories(projectUri) {
+async function createProjectDirectories(projectUri) {
     await vscode.workspace.fs.createDirectory(vscode.Uri.joinPath(projectUri, "files", "common"));
     await vscode.workspace.fs.createDirectory(vscode.Uri.joinPath(projectUri, "files", "source", "hebrew"));
     await vscode.workspace.fs.createDirectory(vscode.Uri.joinPath(projectUri, "files", "source", "greek"));
@@ -118,27 +117,29 @@ async function createDirectories(projectUri) {
     await vscode.workspace.fs.createDirectory(vscode.Uri.joinPath(projectUri, "files", "target", "greek"));
 }
 async function populateFiles(projectUri, sourceLanguageData) {
-    const hebrewData = await fetch(sourceLanguageData.find((folder) => folder.name === "hebrew").url).then((res) => res.json());
-    const greekData = await fetch(sourceLanguageData.find((folder) => folder.name === "greek").url).then((res) => res.json());
+    const hebrewEntries = await fetchEntries(sourceLanguageData, "hebrew");
+    const greekEntries = await fetchEntries(sourceLanguageData, "greek");
     try {
         await vscode.workspace.fs.writeFile(vscode.Uri.joinPath(projectUri, "files", "common", "partsOfSpeech.xml"), new Uint8Array());
         await vscode.workspace.fs.writeFile(vscode.Uri.joinPath(projectUri, "files", "common", "domains.xml"), new Uint8Array());
-        await createEntries(projectUri, "hebrew", hebrewData);
-        await createEntries(projectUri, "greek", greekData);
+        await createEntries(projectUri, "hebrew", hebrewEntries);
+        await createEntries(projectUri, "greek", greekEntries);
     }
     catch (e) {
         console.log(`Error: ${e}`);
     }
 }
-async function createEntries(projectUri, langName, data) {
-    await Promise.all(data
-        .slice(0, 1) // <------ We slice the data so we don't exceed github's fetch rate limit
-        .map((file) => fetch(file.url)
-        .then((res) => res.json())
-        .then((entry) => Promise.all([
+async function fetchEntries(sourceLanguageData, textLang) {
+    const data = await fetch(sourceLanguageData.find((folder) => folder.name === textLang).url).then((res) => res.json());
+    return Promise.all(data
+        .slice(0, 1)
+        .map((file) => fetch(file.url).then((res) => res.json())));
+}
+async function createEntries(projectUri, langName, entries) {
+    await Promise.all(entries.map((entry) => Promise.all([
         vscode.workspace.fs.writeFile(vscode.Uri.joinPath(projectUri, "files", "source", langName, entry.name), Buffer.from(entry.content, "base64")),
         vscode.workspace.fs.writeFile(vscode.Uri.joinPath(projectUri, "files", "target", langName, entry.name), new Uint8Array()),
-    ]))));
+    ])));
 }
 function buildMetadata(details) {
     return Buffer.from(JSON.stringify({
