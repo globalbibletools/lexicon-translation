@@ -1,19 +1,27 @@
-// This module will create an implementation of the vscode.TreeDataProvider class to provide the data for the word tree view.
-// It will also create class Entry which will be an extension of class vscode.TreeItem to represent each word in the tree view.
+// This module will create an implementation of the vscode.TreeDataProvider class to provide the data for the lemma tree view.
+// It will also create class Entry which will be an extension of class vscode.TreeItem to represent each node in the tree view.
 // The values for the attributes of class entry will be populated from the treeViewHebrewData.json and treeViewGreekData.json files.
-// The instances of class entry will be stored in Map object with the key = entry.key and value = entry.
+// The instances of class entry will be stored in a Map object with the key = entry.key and value = entry.
 
-// Import the vscode module from the vscode node module.
 import * as vscode from "vscode";
-import * as path from "path";
+import * as fs from 'fs';
+import * as path from 'path';
+import hebrewDataRaw from '../data/local/treeViewHebrewWordData.json';
+import greekDataRaw from '../data/local/treeViewGreekWordData.json';
 
 // Define global constants
-const wordFilePath: string = `./data/eng/`;
+const languagePath: string = "data/";
+const languageCode: string = "eng";
 const wordExtension: string = ".XML";
+const hebrewData: HebrewWordData[] = hebrewDataRaw as HebrewWordData[];
+const greekData: GreekWordData[] = greekDataRaw as GreekWordData[];
+// console.log("hebrewData:", hebrewData);
+// console.log("greekData:", greekData);
+
 export class LemmaTreeDataProvider implements vscode.TreeDataProvider<Entry> {
-  constructor(private context: vscode.ExtensionContext) {
+  constructor() {
     Entry.entriesMap.clear();
-    Entry.initialize(context);
+    Entry.initialize();
   }
   getTreeItem(element: Entry): vscode.TreeItem {
     return element;
@@ -27,7 +35,7 @@ export class LemmaTreeDataProvider implements vscode.TreeDataProvider<Entry> {
       //   (entry) => entry.key.startsWith("1")
       // );
 
-      // This is a temporary solution to return root entries
+      // This is a temporary solution to return root entries as Entry.entriesMap is not yet populated
       const rootEntries = new Array<Entry>();
       rootEntries[0] = new Entry(
         1,
@@ -71,32 +79,48 @@ export class Entry extends vscode.TreeItem {
     super(label, collapsibleState);
     this.tooltip = `${this.label}`;
   }
-  public static async initialize(context: vscode.ExtensionContext) {
-    Entry.rootPath = context.extensionPath;
-    const fs = vscode.workspace.fs;
-    const hebrewDataPath = vscode.Uri.file(
-      path.join(Entry.rootPath, "data", "local", "treeViewHebrewWordData.json")
-    );
-    const greekDataPath = vscode.Uri.file(
-      path.join(Entry.rootPath, "data", "local", "treeViewGreekWordData.json")
-    );
-    console.log("hebrewDataPath:", hebrewDataPath);
-    console.log("greekDataPath:", greekDataPath);
+  public static async initialize() {
+    const rootDirectory = vscode.workspace.workspaceFolders ? vscode.workspace.workspaceFolders[0].uri.fsPath : null;
+    if (rootDirectory === null) {
+      vscode.window.showErrorMessage("Please add the project root folder to your workspace.", "Add Folder")
+      .then(selection => {
+        if (selection === "Add Folder") {
+          vscode.commands.executeCommand("workbench.action.addRootFolder");
+        } else {
+          // If user cancels, then return
+          return;
+        }
+      });
+    }
 
-    await this.readAndProcessFile(hebrewDataPath, "hebrew");
-    await this.readAndProcessFile(greekDataPath, "greek");
+    if (rootDirectory) {
+      Entry.rootPath = rootDirectory;
+
+      // Let's ensure that the ${languagePath}${languageCode} directory exists
+      // const fullPath = path.join(rootDirectory, languagePath);
+      const fullPath = path.join(rootDirectory, languagePath, languageCode);
+      if (!fs.existsSync(fullPath)) {
+        // vscode.window.showErrorMessage(`The required "${languagePath}" directory does not exist under the selected project folder. Please select the correct project folder.`, "Select Folder")
+        vscode.window.showErrorMessage(`The required "${languagePath}${languageCode}" directory does not exist under the selected project folder. Please select the correct project folder.`, "Select Folder")
+        .then(selection => {
+          if (selection === "Select Folder") {
+            // Remove the 1st workspace folder. Assuming there is only one workspace folder
+            vscode.workspace.updateWorkspaceFolders(0, 1);
+            vscode.commands.executeCommand("workbench.action.addRootFolder");
+          } else {
+            // If user cancels, then return
+            return;
+          }
+        });
+      }
+    }
+
+    await this.readAndProcessFile(hebrewData, "hebrew");
+    await this.readAndProcessFile(greekData, "greek");
   }
 
-  private static async readAndProcessFile(
-    filePath: vscode.Uri,
-    language: string
-  ) {
+  private static async readAndProcessFile(data: HebrewWordData[] | GreekWordData[], language: string) {
     try {
-      const fileContentUint8Array = await vscode.workspace.fs.readFile(
-        filePath
-      );
-      const fileContent = Buffer.from(fileContentUint8Array).toString("utf8");
-      const data = JSON.parse(fileContent);
       for (const item of data) {
         const collapsibleState =
           item.level < 4
@@ -108,7 +132,7 @@ export class Entry extends vscode.TreeItem {
                 command: "vscode.open",
                 title: "Open File",
                 arguments: [
-                  `file:///${Entry.rootPath}/data/eng/${language}/${item.fileName}${wordExtension}`,
+                  `file:///${Entry.rootPath}/${languagePath}${languageCode}/${language}/${item.fileName}${wordExtension}`,
                 ],
               }
             : undefined;
@@ -123,7 +147,8 @@ export class Entry extends vscode.TreeItem {
         Entry.entriesMap.set(item.key, entry);
       }
     } catch (error) {
-      console.error(`Failed to read or process file ${filePath}:`, error);
+      // TODO: Test this error handling
+      console.error(`Failed to read or process data file for Lemma Tree View:`, error);
     }
   }
 }

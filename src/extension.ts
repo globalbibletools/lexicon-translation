@@ -12,24 +12,10 @@ export function activate(context: vscode.ExtensionContext) {
     'Congratulations, your extension "lexicon-translation" is now active!'
   );
 
-  // Register the TreeDataProvider
-  const lemmaTreeDataProvider = new LemmaTreeDataProvider(context);
-  vscode.window.registerTreeDataProvider(
-    "lexicon-translation.treeView-lemma",
-    lemmaTreeDataProvider
-  );
+  const lemmaTreeDataProvider = new LemmaTreeDataProvider();
+  const lemmaTreeView = vscode.window.createTreeView("lexicon-translation.treeView-lemma", { treeDataProvider: lemmaTreeDataProvider, showCollapseAll: true });
+  context.subscriptions.push(lemmaTreeView);
 
-  // // Register the command to open a file
-  // let disposable = vscode.commands.registerCommand(
-  //   "extension.openFile",
-  //   (filePath) => {
-  //     vscode.workspace.openTextDocument(filePath).then((doc) => {
-  //       vscode.window.showTextDocument(doc);
-  //     });
-  //   }
-  // );
-
-  // context.subscriptions.push(disposable);
 }
 
 // This method is called when your extension is deactivated
