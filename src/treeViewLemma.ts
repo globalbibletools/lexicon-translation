@@ -64,23 +64,32 @@ export class Entry extends vscode.TreeItem {
     this.tooltip = `${this.label}`;
   }
   public static async initialize(): Promise<void> {
-    const rootDirectory = vscode.workspace.workspaceFolders
-      ? vscode.workspace.workspaceFolders[0].uri.fsPath
-      : null;
+    // const rootDirectory = vscode.workspace.workspaceFolders
+    //   ? vscode.workspace.workspaceFolders[0].uri.fsPath
+    //   : null;
+    const rootDirectory =
+      vscode.workspace.workspaceFolders &&
+      vscode.workspace.workspaceFolders.length > 0
+        ? vscode.workspace.workspaceFolders[0].uri.fsPath
+        : null;
+
     if (rootDirectory === null) {
       vscode.window
         .showErrorMessage(
           "Please add the project root folder to your workspace.",
           "Add Folder"
         )
-        .then((selection) => {
+        .then(async (selection) => {
           if (selection === "Add Folder") {
-            vscode.commands.executeCommand("workbench.action.addRootFolder");
-          } else {
-            // If user cancels, then return
-            return Promise.resolve();
+            await vscode.commands.executeCommand(
+              "workbench.action.addRootFolder"
+            );
           }
+          // else {
+          //   // If user cancels, then return
+          // }
         });
+      return Promise.resolve();
     }
 
     if (rootDirectory) {
@@ -94,18 +103,18 @@ export class Entry extends vscode.TreeItem {
             `The required "${languagePath}${languageCode}" directory does not exist under the selected project folder. Please select the correct project folder.`,
             "Select Folder"
           )
-          .then((selection) => {
+          .then(async (selection) => {
             if (selection === "Select Folder") {
               const workspaceFolders = vscode.workspace.workspaceFolders;
               if (workspaceFolders && workspaceFolders.length === 1) {
                 // There is exactly one workspace folder, safe to remove
                 vscode.workspace.updateWorkspaceFolders(0, 1);
-                vscode.commands.executeCommand(
+                await vscode.commands.executeCommand(
                   "workbench.action.addRootFolder"
                 );
               } else if (!workspaceFolders || workspaceFolders.length === 0) {
                 // No workspace folders, directly add a new one
-                vscode.commands.executeCommand(
+                await vscode.commands.executeCommand(
                   "workbench.action.addRootFolder"
                 );
               } else {
@@ -119,12 +128,16 @@ export class Entry extends vscode.TreeItem {
                   // Found the matching folder, remove it
                   vscode.workspace.updateWorkspaceFolders(targetIndex, 1);
                 }
-                vscode.commands.executeCommand("workbench.action.addRootFolder");
+                await vscode.commands.executeCommand(
+                  "workbench.action.addRootFolder"
+                );
               }
 
               // Remove the 1st workspace folder. Assuming there is only one workspace folder
               vscode.workspace.updateWorkspaceFolders(0, 1);
-              vscode.commands.executeCommand("workbench.action.addRootFolder");
+              await vscode.commands.executeCommand(
+                "workbench.action.addRootFolder"
+              );
             } else {
               // If user cancels, then return
               return Promise.resolve();
@@ -132,9 +145,6 @@ export class Entry extends vscode.TreeItem {
           });
       }
     }
-
-    // await this.readAndProcessFile(hebrewData, "hebrew");
-    // await this.readAndProcessFile(greekData, "greek");
 
     // Example: Return a promise that resolves when initialization is complete
     return new Promise((resolve) => {
