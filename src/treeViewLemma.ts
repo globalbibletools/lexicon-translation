@@ -36,10 +36,10 @@ export class LemmaTreeDataProvider implements vscode.TreeDataProvider<Entry> {
       );
       return rootEntries;
     } else {
-      const parentKey =
+      const childKeyPrefix =
         (element.level + 1).toString() + element.key.substring(1);
       const childEntries = Array.from(Entry.entriesMap.values()).filter(
-        (entry) => entry.key.startsWith(parentKey)
+        (entry) => entry.key.startsWith(childKeyPrefix)
       );
       return childEntries;
     }
