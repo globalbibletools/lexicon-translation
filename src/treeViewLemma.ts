@@ -69,42 +69,42 @@ export class Entry extends vscode.TreeItem {
     Entry.entriesMap.clear();
     Entry.rootPath = "";
 
+    // If no workspace folder found, return an empty promise
     if (
-      vscode.workspace.workspaceFolders &&
-      vscode.workspace.workspaceFolders.length > 0
+      !vscode.workspace.workspaceFolders ||
+      vscode.workspace.workspaceFolders.length === 0
     ) {
-      const workspaceFolder = vscode.workspace.workspaceFolders[0].uri.fsPath;
-
-      const hebrewPath = path.join(
-        workspaceFolder,
-        `${languagePath}${languageCode}/hebrew`
-      );
-      const greekPath = path.join(
-        workspaceFolder,
-        `${languagePath}${languageCode}/greek`
-      );
-
-      const hebrewExists = fs.existsSync(hebrewPath);
-      const greekExists = fs.existsSync(greekPath);
-
-      if (hebrewExists && greekExists) {
-        return new Promise((resolve) => {
-          setTimeout(() => {
-            // Setup Entry static variables
-            Entry.rootPath = workspaceFolder;
-            this.readAndProcessFile(hebrewData, "hebrew");
-            this.readAndProcessFile(greekData, "greek");
-            resolve();
-          }, 1000);
-        });
-      } else {
-        // Condition not met, return an empty promise
-        return Promise.resolve();
-      }
-    } else {
-      // No workspace folder found, return an empty promise
       return Promise.resolve();
     }
+
+    const workspaceFolder = vscode.workspace.workspaceFolders[0].uri.fsPath;
+    const hebrewPath = path.join(
+      workspaceFolder,
+      `${languagePath}${languageCode}/hebrew`
+    );
+    const greekPath = path.join(
+      workspaceFolder,
+      `${languagePath}${languageCode}/greek`
+    );
+
+    const hebrewExists = fs.existsSync(hebrewPath);
+    const greekExists = fs.existsSync(greekPath);
+
+    // If either folder does not exist, return an empty promise
+    if (!hebrewExists || !greekExists) {
+      return Promise.resolve();
+    }
+
+    // Both folders exist, proceed with file processing
+    return new Promise((resolve) => {
+      setTimeout(() => {
+        // Setup Entry static variables
+        Entry.rootPath = workspaceFolder;
+        this.readAndProcessFile(hebrewData, "hebrew");
+        this.readAndProcessFile(greekData, "greek");
+        resolve();
+      }, 1000);
+    });
   }
   private static async readAndProcessFile(
     data: HebrewWordData[] | GreekWordData[],
