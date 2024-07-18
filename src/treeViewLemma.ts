@@ -60,17 +60,17 @@ export class Entry extends vscode.TreeItem {
     this.tooltip = `${this.label}`;
   }
 
-  public static async initialize(): Promise<void> {
+  public static initialize(): void {
     // Need to reset Entry because this is called if the workspace folder changes
     Entry.entriesMap.clear();
     Entry.rootPath = "";
 
-    // If no workspace folder found, return an empty promise
+    // If no workspace folder found, return immediately
     if (
       !vscode.workspace.workspaceFolders ||
       vscode.workspace.workspaceFolders.length === 0
     ) {
-      return Promise.resolve();
+      return;
     }
 
     const workspaceFolder = vscode.workspace.workspaceFolders[0].uri.fsPath;
@@ -86,21 +86,15 @@ export class Entry extends vscode.TreeItem {
     const hebrewExists = fs.existsSync(hebrewPath);
     const greekExists = fs.existsSync(greekPath);
 
-    // If either folder does not exist, return an empty promise
+    // If either folder does not exist, return immediately
     if (!hebrewExists || !greekExists) {
-      return Promise.resolve();
+      return;
     }
 
     // Both folders exist, proceed with file processing
-    return new Promise((resolve) => {
-      setTimeout(() => {
-        // Setup Entry static variables
-        Entry.rootPath = workspaceFolder;
-        this.readAndProcessFile(hebrewData, "hebrew");
-        this.readAndProcessFile(greekData, "greek");
-        resolve();
-      }, 1000);
-    });
+    Entry.rootPath = workspaceFolder;
+    this.readAndProcessFile(hebrewData, "hebrew");
+    this.readAndProcessFile(greekData, "greek");
   }
   private static async readAndProcessFile(
     data: HebrewWordData[] | GreekWordData[],
