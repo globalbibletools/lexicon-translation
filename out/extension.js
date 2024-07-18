@@ -30,6 +30,6 @@ exports.activate = activate;
 const vscode = __importStar(require("vscode"));
 const createNewProject_1 = __importDefault(require("./commands/createNewProject"));
 async function activate(context) {
-    vscode.commands.registerCommand("gbt-project-management.createNewProject", createNewProject_1.default);
+    vscode.commands.registerCommand("gbt-project-management.createNewProject", () => (0, createNewProject_1.default)(context));
 }
 //# sourceMappingURL=extension.js.map

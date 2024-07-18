@@ -29,15 +29,17 @@ const sampleLanguages = [
     { tag: "eng", label: "English (eng)" },
     { tag: "spa", label: "Spanish (spa)" },
 ];
-const dataRepoUrl = "https://api.github.com/repos/globalbibletools/semantic-dictionary/contents/data";
-async function createNewProject() {
-    const data = await fetch(dataRepoUrl).then((res) => res.json());
-    const availableLanguageCodes = data.map((folder) => folder.name);
+async function createNewProject(context) {
+    const dataContents = await vscode.workspace.fs.readDirectory(vscode.Uri.joinPath(context.extensionUri, "data"));
+    const availableLanguageCodes = dataContents
+        .filter(([, fileType]) => fileType === vscode.FileType.Directory)
+        .map(([folderName]) => folderName);
     const projectDetails = await queryProjectDetails(availableLanguageCodes);
     if (!projectDetails) {
         vscode.window.showInformationMessage("Cancelled project creation");
         return;
     }
+    const sourceLanguageUri = vscode.Uri.joinPath(context.extensionUri, "data", projectDetails.sourceLanguage.tag);
     const projectUri = (await vscode.window.showOpenDialog({
         canSelectFolders: true,
         canSelectFiles: false,
@@ -57,15 +59,14 @@ async function createNewProject() {
         }
     }
     try {
-        await createProjectDirectories(projectUri);
         await vscode.workspace.fs.writeFile(vscode.Uri.joinPath(projectUri, "metadata.json"), buildMetadata(projectDetails));
+        await createProjectStructure(projectUri);
+        await populateProjectFiles(sourceLanguageUri, projectUri);
     }
     catch (e) {
         vscode.window.showErrorMessage(`Error: ${e}`);
         return;
     }
-    const sourceLanguageData = await fetch(data.find((folder) => folder.name === projectDetails.sourceLanguage.tag)?.url ?? "").then((res) => res.json());
-    await populateProjectFiles(projectUri, sourceLanguageData);
     if (!vscode.workspace.getWorkspaceFolder(projectUri)) {
         const shouldOpenProject = await vscode.window.showInformationMessage("Success! Project created! Would you like to open this project?", "Yes", "No");
         if (shouldOpenProject === "Yes") {
@@ -109,16 +110,17 @@ async function queryProjectDetails(availableLanguageCodes) {
     }
     return { projectName, userName, sourceLanguage, targetLanguage };
 }
-async function createProjectDirectories(projectUri) {
+async function createProjectStructure(projectUri) {
     await vscode.workspace.fs.createDirectory(vscode.Uri.joinPath(projectUri, "files", "common"));
     await vscode.workspace.fs.createDirectory(vscode.Uri.joinPath(projectUri, "files", "source", "hebrew"));
     await vscode.workspace.fs.createDirectory(vscode.Uri.joinPath(projectUri, "files", "source", "greek"));
     await vscode.workspace.fs.createDirectory(vscode.Uri.joinPath(projectUri, "files", "target", "hebrew"));
     await vscode.workspace.fs.createDirectory(vscode.Uri.joinPath(projectUri, "files", "target", "greek"));
 }
-async function populateProjectFiles(projectUri, sourceLanguageData) {
-    const hebrewEntries = await fetchEntries(sourceLanguageData, "hebrew");
-    const greekEntries = await fetchEntries(sourceLanguageData, "greek");
+async function populateProjectFiles(langUri, projectUri) {
+    const hebrewEntries = await readEntries(vscode.Uri.joinPath(langUri, "hebrew"));
+    const greekEntries = await readEntries(vscode.Uri.joinPath(langUri, "greek"));
+    // const allEntries = [...hebrewEntries, ...greekEntries];
     try {
         await vscode.workspace.fs.writeFile(vscode.Uri.joinPath(projectUri, "files", "common", "partsOfSpeech.xml"), await extractPartsOfSpeechData([...hebrewEntries, ...greekEntries]));
         await vscode.workspace.fs.writeFile(vscode.Uri.joinPath(projectUri, "files", "common", "domains.xml"), await extractDomainsData([...hebrewEntries, ...greekEntries]));
@@ -129,11 +131,11 @@ async function populateProjectFiles(projectUri, sourceLanguageData) {
         console.log(`Error: ${e}`);
     }
 }
-async function fetchEntries(sourceLanguageData, textLang) {
-    const data = await fetch(sourceLanguageData.find((folder) => folder.name === textLang).url).then((res) => res.json());
-    return Promise.all(data
-        .slice(0, 1)
-        .map((file) => fetch(file.url).then((res) => res.json())));
+async function readEntries(sourceDirectory) {
+    const sourceDirContents = await vscode.workspace.fs.readDirectory(sourceDirectory);
+    return Promise.all(sourceDirContents
+        .filter(([, fileType]) => fileType === vscode.FileType.File)
+        .map(([fileName]) => vscode.workspace.fs.readFile(vscode.Uri.joinPath(sourceDirectory, fileName))));
 }
 async function extractPartsOfSpeechData(entries) {
     entries.map((entry) => entry.content);

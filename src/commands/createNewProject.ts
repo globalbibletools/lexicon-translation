@@ -1,4 +1,3 @@
-import { AnyARecord } from "dns";
 import * as vscode from "vscode";
 
 interface Language {
@@ -16,12 +15,16 @@ const sampleLanguages: Language[] = [
   { tag: "eng", label: "English (eng)" },
   { tag: "spa", label: "Spanish (spa)" },
 ];
-const dataRepoUrl =
-  "https://api.github.com/repos/globalbibletools/semantic-dictionary/contents/data";
 
-export default async function createNewProject() {
-  const data: any = await fetch(dataRepoUrl).then((res) => res.json());
-  const availableLanguageCodes = data.map((folder: any) => folder.name);
+export default async function createNewProject(
+  context: vscode.ExtensionContext
+) {
+  const dataContents = await vscode.workspace.fs.readDirectory(
+    vscode.Uri.joinPath(context.extensionUri, "data")
+  );
+  const availableLanguageCodes = dataContents
+    .filter(([, fileType]) => fileType === vscode.FileType.Directory)
+    .map(([folderName]) => folderName);
 
   const projectDetails = await queryProjectDetails(availableLanguageCodes);
   if (!projectDetails) {
@@ -29,6 +32,11 @@ export default async function createNewProject() {
     return;
   }
 
+  const sourceLanguageUri = vscode.Uri.joinPath(
+    context.extensionUri,
+    "data",
+    projectDetails.sourceLanguage.tag
+  );
   const projectUri = (
     await vscode.window.showOpenDialog({
       canSelectFolders: true,
@@ -57,22 +65,16 @@ export default async function createNewProject() {
   }
 
   try {
-    await createProjectDirectories(projectUri);
     await vscode.workspace.fs.writeFile(
       vscode.Uri.joinPath(projectUri, "metadata.json"),
       buildMetadata(projectDetails)
     );
+    await createProjectStructure(projectUri);
+    await populateProjectFiles(sourceLanguageUri, projectUri);
   } catch (e) {
     vscode.window.showErrorMessage(`Error: ${e}`);
     return;
   }
-
-  const sourceLanguageData: any = await fetch(
-    data.find(
-      (folder: any) => folder.name === projectDetails.sourceLanguage.tag
-    )?.url ?? ""
-  ).then((res) => res.json());
-  await populateProjectFiles(projectUri, sourceLanguageData);
 
   if (!vscode.workspace.getWorkspaceFolder(projectUri)) {
     const shouldOpenProject = await vscode.window.showInformationMessage(
@@ -134,7 +136,7 @@ async function queryProjectDetails(
   return { projectName, userName, sourceLanguage, targetLanguage };
 }
 
-async function createProjectDirectories(projectUri: vscode.Uri) {
+async function createProjectStructure(projectUri: vscode.Uri) {
   await vscode.workspace.fs.createDirectory(
     vscode.Uri.joinPath(projectUri, "files", "common")
   );
@@ -153,11 +155,16 @@ async function createProjectDirectories(projectUri: vscode.Uri) {
 }
 
 async function populateProjectFiles(
-  projectUri: vscode.Uri,
-  sourceLanguageData: any
+  langUri: vscode.Uri,
+  projectUri: vscode.Uri
 ) {
-  const hebrewEntries: any = await fetchEntries(sourceLanguageData, "hebrew");
-  const greekEntries: any = await fetchEntries(sourceLanguageData, "greek");
+  const hebrewEntries: any = await readEntries(
+    vscode.Uri.joinPath(langUri, "hebrew")
+  );
+  const greekEntries: any = await readEntries(
+    vscode.Uri.joinPath(langUri, "greek")
+  );
+  // const allEntries = [...hebrewEntries, ...greekEntries];
 
   try {
     await vscode.workspace.fs.writeFile(
@@ -176,18 +183,19 @@ async function populateProjectFiles(
   }
 }
 
-async function fetchEntries(
-  sourceLanguageData: any,
-  textLang: "hebrew" | "greek"
-) {
-  const data: any = await fetch(
-    sourceLanguageData.find((folder: any) => folder.name === textLang).url
-  ).then((res) => res.json());
+async function readEntries(sourceDirectory: vscode.Uri): Promise<Uint8Array[]> {
+  const sourceDirContents = await vscode.workspace.fs.readDirectory(
+    sourceDirectory
+  );
 
   return Promise.all(
-    data
-      .slice(0, 1)
-      .map((file: any) => fetch(file.url).then((res) => res.json()))
+    sourceDirContents
+      .filter(([, fileType]) => fileType === vscode.FileType.File)
+      .map(([fileName]) =>
+        vscode.workspace.fs.readFile(
+          vscode.Uri.joinPath(sourceDirectory, fileName)
+        )
+      )
   );
 }
 
