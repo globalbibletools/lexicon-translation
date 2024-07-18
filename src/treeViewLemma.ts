@@ -28,24 +28,20 @@ export class LemmaTreeDataProvider implements vscode.TreeDataProvider<Entry> {
     return element;
   }
 
-  getChildren(element?: Entry): Thenable<Entry[]> {
+  getChildren(element?: Entry): Entry[] {
     if (!element) {
       // Return root level entries (level 1)
       const rootEntries = Array.from(Entry.entriesMap.values()).filter(
         (entry) => entry.key.startsWith("1")
       );
-      return Promise.resolve(rootEntries);
+      return rootEntries;
     } else {
-      // Generate parentKey for child entries
-      const key = element.key;
       const parentKey =
-        (parseInt(element.level.toString()) + 1).toString() + key.substring(1);
-      const childKeyPrefix =
         (element.level + 1).toString() + element.key.substring(1);
       const childEntries = Array.from(Entry.entriesMap.values()).filter(
-        (entry) => entry.key.startsWith(childKeyPrefix)
+        (entry) => entry.key.startsWith(parentKey)
       );
-      return Promise.resolve(childEntries);
+      return childEntries;
     }
   }
 }
