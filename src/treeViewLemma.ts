@@ -48,7 +48,6 @@ export class LemmaTreeDataProvider implements vscode.TreeDataProvider<Entry> {
 
 export class Entry extends vscode.TreeItem {
   public static entriesMap: Map<string, Entry> = new Map<string, Entry>();
-  public static rootPath: string;
   constructor(
     public readonly level: number,
     public readonly key: string,
@@ -63,7 +62,6 @@ export class Entry extends vscode.TreeItem {
   public static initialize(): void {
     // Need to reset Entry because this is called if the workspace folder changes
     Entry.entriesMap.clear();
-    Entry.rootPath = "";
 
     // If no workspace folder found, return immediately
     if (
@@ -73,6 +71,7 @@ export class Entry extends vscode.TreeItem {
       return;
     }
 
+    // Check to see if both Hebrew and Greek folders exist
     const workspaceFolder = vscode.workspace.workspaceFolders[0].uri.fsPath;
     const hebrewPath = path.join(
       workspaceFolder,
@@ -92,11 +91,10 @@ export class Entry extends vscode.TreeItem {
     }
 
     // Both folders exist, proceed with file processing
-    Entry.rootPath = workspaceFolder;
     this.readAndProcessFile(hebrewData, "hebrew");
     this.readAndProcessFile(greekData, "greek");
   }
-  private static async readAndProcessFile(
+  private static readAndProcessFile(
     data: HebrewWordData[] | GreekWordData[],
     language: string
   ) {
@@ -112,7 +110,10 @@ export class Entry extends vscode.TreeItem {
                 command: "vscode.open",
                 title: "Open File",
                 arguments: [
-                  `file:///${Entry.rootPath}/${languagePath}${languageCode}/${language}/${item.fileName}${wordExtension}`,
+                  vscode.Uri.joinPath(
+                    vscode.workspace.workspaceFolders![0].uri,
+                    `${languagePath}${languageCode}/${language}/${item.fileName}${wordExtension}`
+                  ),
                 ],
               }
             : undefined;
@@ -127,7 +128,6 @@ export class Entry extends vscode.TreeItem {
         Entry.entriesMap.set(item.key, entry);
       }
     } catch (error) {
-      // TODO: Test this error handling
       console.error(
         `Failed to read or process data file for Lemma Tree View:`,
         error
