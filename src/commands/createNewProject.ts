@@ -1,4 +1,5 @@
 import * as vscode from "vscode";
+const fastXmlParser = require("fast-xml-parser");
 
 interface Language {
   tag: string;
@@ -65,12 +66,10 @@ export default async function createNewProject(
   }
 
   try {
-    await vscode.workspace.fs.writeFile(
-      vscode.Uri.joinPath(projectUri, "metadata.json"),
-      buildMetadata(projectDetails)
-    );
+    await createProjectMetadata(projectUri, projectDetails);
+    console.log("creating structure...");
     await createProjectStructure(projectUri);
-    await populateProjectFiles(sourceLanguageUri, projectUri);
+    await populateProjectFiles(projectUri, sourceLanguageUri);
   } catch (e) {
     vscode.window.showErrorMessage(`Error: ${e}`);
     return;
@@ -136,10 +135,41 @@ async function queryProjectDetails(
   return { projectName, userName, sourceLanguage, targetLanguage };
 }
 
-async function createProjectStructure(projectUri: vscode.Uri) {
-  await vscode.workspace.fs.createDirectory(
-    vscode.Uri.joinPath(projectUri, "files", "common")
+async function createProjectMetadata(
+  projectUri: vscode.Uri,
+  details: ProjectDetails
+) {
+  const metadata = {
+    format: "scripture burrito",
+    projectName: details.projectName,
+    meta: {
+      dateCreated: new Date().toISOString(),
+      generator: {
+        userName: details.userName,
+      },
+      defaultLocale: "en",
+      normalization: "NFC",
+    },
+    identification: { name: { en: details.projectName } },
+    languages: [{ tag: details.targetLanguage.tag }],
+    type: {
+      flavorType: {
+        name: "peripheral",
+        flavor: {
+          name: "lexicon",
+        },
+      },
+    },
+  };
+
+  console.log("creating metadata...");
+  await vscode.workspace.fs.writeFile(
+    vscode.Uri.joinPath(projectUri, "metadata.json"),
+    Buffer.from(JSON.stringify(metadata, null, 2))
   );
+}
+
+async function createProjectStructure(projectUri: vscode.Uri) {
   await vscode.workspace.fs.createDirectory(
     vscode.Uri.joinPath(projectUri, "files", "source", "hebrew")
   );
@@ -155,35 +185,28 @@ async function createProjectStructure(projectUri: vscode.Uri) {
 }
 
 async function populateProjectFiles(
-  langUri: vscode.Uri,
-  projectUri: vscode.Uri
+  projectUri: vscode.Uri,
+  langUri: vscode.Uri
 ) {
+  console.log("populating project files...");
   const hebrewEntries: any = await readEntries(
     vscode.Uri.joinPath(langUri, "hebrew")
   );
   const greekEntries: any = await readEntries(
     vscode.Uri.joinPath(langUri, "greek")
   );
-  // const allEntries = [...hebrewEntries, ...greekEntries];
 
   try {
-    await vscode.workspace.fs.writeFile(
-      vscode.Uri.joinPath(projectUri, "files", "common", "partsOfSpeech.xml"),
-      await extractPartsOfSpeechData([...hebrewEntries, ...greekEntries])
-    );
-    await vscode.workspace.fs.writeFile(
-      vscode.Uri.joinPath(projectUri, "files", "common", "domains.xml"),
-      await extractDomainsData([...hebrewEntries, ...greekEntries])
-    );
-
+    console.log("creating entries...");
     await createEntries(projectUri, "hebrew", hebrewEntries);
     await createEntries(projectUri, "greek", greekEntries);
   } catch (e) {
     console.log(`Error: ${e}`);
   }
+  console.log("finished populating");
 }
 
-async function readEntries(sourceDirectory: vscode.Uri): Promise<Uint8Array[]> {
+async function readEntries(sourceDirectory: vscode.Uri): Promise<any[]> {
   const sourceDirContents = await vscode.workspace.fs.readDirectory(
     sourceDirectory
   );
@@ -192,20 +215,11 @@ async function readEntries(sourceDirectory: vscode.Uri): Promise<Uint8Array[]> {
     sourceDirContents
       .filter(([, fileType]) => fileType === vscode.FileType.File)
       .map(([fileName]) =>
-        vscode.workspace.fs.readFile(
-          vscode.Uri.joinPath(sourceDirectory, fileName)
-        )
+        vscode.workspace.fs
+          .readFile(vscode.Uri.joinPath(sourceDirectory, fileName))
+          .then((fileData) => ({ name: fileName, content: fileData }))
       )
   );
-}
-
-async function extractPartsOfSpeechData(entries: any): Promise<Buffer> {
-  entries.map((entry: any) => entry.content);
-  return Buffer.from([]);
-}
-async function extractDomainsData(entries: any): Promise<Buffer> {
-  entries.map((entry: any) => entry.content);
-  return Buffer.from([]);
 }
 
 async function createEntries(
@@ -213,61 +227,106 @@ async function createEntries(
   langName: "hebrew" | "greek",
   entries: any
 ) {
-  await Promise.all(
-    entries.map((entry: any) =>
-      Promise.all([
-        vscode.workspace.fs.writeFile(
-          vscode.Uri.joinPath(
-            projectUri,
-            "files",
-            "source",
-            langName,
-            entry.name
-          ),
-          Buffer.from(entry.content, "base64")
-        ),
-        vscode.workspace.fs.writeFile(
-          vscode.Uri.joinPath(
-            projectUri,
-            "files",
-            "target",
-            langName,
-            entry.name
-          ),
-          new Uint8Array()
-        ),
-      ])
-    )
-  );
-}
+  async function stripTranslatableText(entry: string): Promise<Buffer> {
+    const parsedEntry = new fastXmlParser.XMLParser({
+      ignoreAttributes: false,
+      parseTagValue: false,
+      parseAttributeValue: false,
+    }).parse(entry);
+    console.log(JSON.stringify(parsedEntry, null, 2));
 
-function buildMetadata(details: ProjectDetails): Buffer {
-  return Buffer.from(
-    JSON.stringify(
-      {
-        format: "scripture burrito",
-        projectName: details.projectName,
-        meta: {
-          dateCreated: new Date().toISOString(),
-          generator: {
-            userName: details.userName,
-          },
-          defaultLocale: "en",
-          normalization: "NFC",
-        },
-        identification: { name: { en: details.projectName } },
-        languages: [{ tag: details.targetLanguage.tag }],
-        type: {
-          flavorType: {
-            name: "peripheral",
-            flavor: {
-              name: "lexicon",
-            },
-          },
-        },
-      },
-      null,
-      2
-    )
+    parsedEntry["Lexicon_Entry"]["Notes"] = "";
+    let baseForms = parsedEntry["Lexicon_Entry"]["BaseForms"]["BaseForm"];
+    if (!Array.isArray(baseForms)) {
+      baseForms = [baseForms];
+    }
+
+    for (const baseForm of baseForms) {
+      baseForm["PartsOfSpeech"]["PartOfSpeech"] = "";
+      let lexMeanings = baseForm["LEXMeanings"]["LEXMeaning"];
+      if (!Array.isArray(lexMeanings)) {
+        lexMeanings = [lexMeanings];
+      }
+      for (const lexMeaning of lexMeanings) {
+        if (langName === "hebrew") {
+          let lexDomains = lexMeaning["LEXDomains"]["LEXDomain"];
+          if (!Array.isArray(lexDomains)) {
+            lexDomains = [lexDomains];
+          }
+          for (const lexDomain of lexDomains) {
+            lexDomain["#text"] = "";
+          }
+
+          let lexCoreDomains = lexMeaning["LEXCoreDomains"]["LEXCoreDomain"];
+          if (!Array.isArray(lexCoreDomains)) {
+            lexCoreDomains = [lexCoreDomains];
+          }
+          for (const lexCoreDomain of lexCoreDomains) {
+            lexCoreDomain["#text"] = "";
+          }
+        } else if (langName === "greek") {
+          if (!Array.isArray(lexMeaning["LEXDomains"]["LEXDomain"])) {
+            lexMeaning["LEXDomains"]["LEXDomain"] = "";
+          } else {
+            lexMeaning["LEXDomains"]["LEXDomain"].fill("");
+          }
+
+          if (!Array.isArray(lexMeaning["LEXSubDomains"]["LEXSubDomain"])) {
+            lexMeaning["LEXSubDomains"]["LEXSubDomain"] = "";
+          } else {
+            lexMeaning["LEXSubDomains"]["LEXSubDomain"].fill("");
+          }
+        }
+
+        let lexSenses = lexMeaning["LEXSenses"]["LEXSense"];
+        if (!Array.isArray(lexSenses)) {
+          lexSenses = [lexSenses];
+        }
+        for (const lexSense of lexSenses) {
+          lexSense["DefinitionShort"] = "";
+          if (!Array.isArray(lexSense["Glosses"]["Gloss"])) {
+            lexSense["Glosses"]["Gloss"] = "";
+          } else {
+            lexSense["Glosses"]["Gloss"].fill("");
+          }
+        }
+      }
+    }
+    return Buffer.from(
+      new fastXmlParser.XMLBuilder({
+        format: true,
+        ignoreAttributes: false,
+        suppressEmptyNode: true,
+      }).build(parsedEntry)
+    );
+  }
+  await Promise.all(
+    entries
+      .slice(0, 1)
+      .map(
+        async (entry: any) =>
+          await Promise.all([
+            vscode.workspace.fs.writeFile(
+              vscode.Uri.joinPath(
+                projectUri,
+                "files",
+                "source",
+                langName,
+                entry.name
+              ),
+              entry.content
+            ),
+            vscode.workspace.fs.writeFile(
+              vscode.Uri.joinPath(
+                projectUri,
+                "files",
+                "target",
+                langName,
+                entry.name
+              ),
+              await stripTranslatableText(entry.content.toString())
+            ),
+          ])
+      )
   );
 }
