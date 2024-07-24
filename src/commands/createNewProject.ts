@@ -57,6 +57,7 @@ export default async function createNewProject(
     }
   }
 
+  vscode.window.showInformationMessage("Setting up project...");
   try {
     await createProjectMetadata(projectUri, projectDetails);
     console.log("creating structure...");
@@ -296,33 +297,32 @@ async function createEntries(
       }).build(parsedEntry)
     );
   }
+  console.log(entries.length);
   await Promise.all(
-    entries
-      .slice(0, 1)
-      .map(
-        async (entry: any) =>
-          await Promise.all([
-            vscode.workspace.fs.writeFile(
-              vscode.Uri.joinPath(
-                projectUri,
-                "files",
-                "source",
-                langName,
-                entry.name
-              ),
-              entry.content
+    entries.map(
+      async (entry: any) =>
+        await Promise.all([
+          vscode.workspace.fs.writeFile(
+            vscode.Uri.joinPath(
+              projectUri,
+              "files",
+              "source",
+              langName,
+              entry.name
             ),
-            vscode.workspace.fs.writeFile(
-              vscode.Uri.joinPath(
-                projectUri,
-                "files",
-                "target",
-                langName,
-                entry.name
-              ),
-              await stripTranslatableText(entry.content.toString())
+            entry.content
+          ),
+          vscode.workspace.fs.writeFile(
+            vscode.Uri.joinPath(
+              projectUri,
+              "files",
+              "target",
+              langName,
+              entry.name
             ),
-          ])
-      )
+            await stripTranslatableText(entry.content.toString())
+          ),
+        ])
+    )
   );
 }
