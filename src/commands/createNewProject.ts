@@ -9,6 +9,11 @@ interface ProjectDetails {
   targetLanguage: Language;
 }
 
+interface Entry {
+  name: string;
+  content: Uint8Array;
+}
+
 export default async function createNewProject(
   context: vscode.ExtensionContext
 ) {
@@ -186,10 +191,10 @@ async function populateProjectFiles(
   langUri: vscode.Uri
 ) {
   console.log("populating project files...");
-  const hebrewEntries: any = await readEntries(
+  const hebrewEntries: Entry[] = await readEntries(
     vscode.Uri.joinPath(langUri, "hebrew")
   );
-  const greekEntries: any = await readEntries(
+  const greekEntries: Entry[] = await readEntries(
     vscode.Uri.joinPath(langUri, "greek")
   );
 
@@ -203,7 +208,7 @@ async function populateProjectFiles(
   console.log("finished populating");
 }
 
-async function readEntries(sourceDirectory: vscode.Uri): Promise<any[]> {
+async function readEntries(sourceDirectory: vscode.Uri): Promise<Entry[]> {
   const sourceDirContents = await vscode.workspace.fs.readDirectory(
     sourceDirectory
   );
@@ -222,7 +227,7 @@ async function readEntries(sourceDirectory: vscode.Uri): Promise<any[]> {
 async function createEntries(
   projectUri: vscode.Uri,
   langName: "hebrew" | "greek",
-  entries: any
+  entries: Entry[]
 ) {
   async function stripTranslatableText(entry: string): Promise<Buffer> {
     const parsedEntry = new fastXmlParser.XMLParser({
@@ -300,7 +305,7 @@ async function createEntries(
   console.log(entries.length);
   await Promise.all(
     entries.map(
-      async (entry: any) =>
+      async (entry: Entry) =>
         await Promise.all([
           vscode.workspace.fs.writeFile(
             vscode.Uri.joinPath(
