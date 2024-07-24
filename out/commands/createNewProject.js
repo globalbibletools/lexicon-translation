@@ -25,11 +25,8 @@ var __importStar = (this && this.__importStar) || function (mod) {
 Object.defineProperty(exports, "__esModule", { value: true });
 exports.default = createNewProject;
 const vscode = __importStar(require("vscode"));
+const languages_1 = require("../common/languages");
 const fastXmlParser = require("fast-xml-parser");
-const sampleLanguages = [
-    { tag: "eng", label: "English (eng)" },
-    { tag: "spa", label: "Spanish (spa)" },
-];
 async function createNewProject(context) {
     const dataContents = await vscode.workspace.fs.readDirectory(vscode.Uri.joinPath(context.extensionUri, "data"));
     const availableLanguageCodes = dataContents
@@ -40,7 +37,7 @@ async function createNewProject(context) {
         vscode.window.showInformationMessage("Cancelled project creation");
         return;
     }
-    const sourceLanguageUri = vscode.Uri.joinPath(context.extensionUri, "data", projectDetails.sourceLanguage.tag);
+    const sourceLanguageUri = vscode.Uri.joinPath(context.extensionUri, "data", projectDetails.sourceLanguage.Id);
     const projectUri = (await vscode.window.showOpenDialog({
         canSelectFolders: true,
         canSelectFiles: false,
@@ -94,7 +91,9 @@ async function queryProjectDetails(availableLanguageCodes) {
     if (!userName) {
         return;
     }
-    const sourceLanguage = await vscode.window.showQuickPick(sampleLanguages.filter((lang) => availableLanguageCodes.includes(lang.tag)), {
+    const sourceLanguage = await vscode.window.showQuickPick(languages_1.languages
+        .filter((lang) => availableLanguageCodes.includes(lang.Id))
+        .map((lang) => ({ ...lang, label: `${lang.Ref_Name} (${lang.Id})` })), {
         placeHolder: "[3/4] Select the source language",
         ignoreFocusOut: true,
         canPickMany: false,
@@ -102,7 +101,9 @@ async function queryProjectDetails(availableLanguageCodes) {
     if (!sourceLanguage) {
         return;
     }
-    const targetLanguage = await vscode.window.showQuickPick(sampleLanguages.filter((lang) => lang.tag !== sourceLanguage.tag), {
+    const targetLanguage = await vscode.window.showQuickPick(languages_1.languages
+        .filter((lang) => lang.Id !== sourceLanguage.Id)
+        .map((lang) => ({ ...lang, label: `${lang.Ref_Name} (${lang.Id})` })), {
         placeHolder: "[4/4] Select the target language",
         ignoreFocusOut: true,
         canPickMany: false,
@@ -125,7 +126,7 @@ async function createProjectMetadata(projectUri, details) {
             normalization: "NFC",
         },
         identification: { name: { en: details.projectName } },
-        languages: [{ tag: details.targetLanguage.tag }],
+        languages: [{ tag: details.targetLanguage.Id }],
         type: {
             flavorType: {
                 name: "peripheral",

@@ -1,21 +1,13 @@
 import * as vscode from "vscode";
+import { Language, languages } from "../common/languages";
 const fastXmlParser = require("fast-xml-parser");
 
-interface Language {
-  tag: string;
-  label: string;
-}
 interface ProjectDetails {
   projectName: string;
   userName: string;
   sourceLanguage: Language;
   targetLanguage: Language;
 }
-
-const sampleLanguages: Language[] = [
-  { tag: "eng", label: "English (eng)" },
-  { tag: "spa", label: "Spanish (spa)" },
-];
 
 export default async function createNewProject(
   context: vscode.ExtensionContext
@@ -36,7 +28,7 @@ export default async function createNewProject(
   const sourceLanguageUri = vscode.Uri.joinPath(
     context.extensionUri,
     "data",
-    projectDetails.sourceLanguage.tag
+    projectDetails.sourceLanguage.Id
   );
   const projectUri = (
     await vscode.window.showOpenDialog({
@@ -110,7 +102,9 @@ async function queryProjectDetails(
   }
 
   const sourceLanguage = await vscode.window.showQuickPick(
-    sampleLanguages.filter((lang) => availableLanguageCodes.includes(lang.tag)),
+    languages
+      .filter((lang) => availableLanguageCodes.includes(lang.Id))
+      .map((lang) => ({ ...lang, label: `${lang.Ref_Name} (${lang.Id})` })),
     {
       placeHolder: "[3/4] Select the source language",
       ignoreFocusOut: true,
@@ -122,7 +116,9 @@ async function queryProjectDetails(
   }
 
   const targetLanguage = await vscode.window.showQuickPick(
-    sampleLanguages.filter((lang) => lang.tag !== sourceLanguage.tag),
+    languages
+      .filter((lang) => lang.Id !== sourceLanguage.Id)
+      .map((lang) => ({ ...lang, label: `${lang.Ref_Name} (${lang.Id})` })),
     {
       placeHolder: "[4/4] Select the target language",
       ignoreFocusOut: true,
@@ -151,7 +147,7 @@ async function createProjectMetadata(
       normalization: "NFC",
     },
     identification: { name: { en: details.projectName } },
-    languages: [{ tag: details.targetLanguage.tag }],
+    languages: [{ tag: details.targetLanguage.Id }],
     type: {
       flavorType: {
         name: "peripheral",
