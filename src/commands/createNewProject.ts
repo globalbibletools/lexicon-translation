@@ -62,7 +62,7 @@ export default async function createNewProject(
     }
   }
 
-  vscode.window.showInformationMessage("Setting up project...");
+  vscode.window.showInformationMessage("Setting up project... Please wait");
   try {
     await createProjectMetadata(projectUri, projectDetails);
     console.log("creating structure...");
@@ -197,6 +197,9 @@ async function populateProjectFiles(
   const greekEntries: Entry[] = await readEntries(
     vscode.Uri.joinPath(langUri, "greek")
   );
+  console.log(
+    `hebrew entries: ${hebrewEntries.length}\ngreek entries: ${greekEntries.length}`
+  );
 
   try {
     console.log("creating entries...");
@@ -229,7 +232,10 @@ async function createEntries(
   langName: "hebrew" | "greek",
   entries: Entry[]
 ) {
-  async function stripTranslatableText(entry: string): Promise<Buffer> {
+  async function stripTranslatableText(
+    entry: string,
+    langName: "hebrew" | "greek"
+  ): Promise<Buffer> {
     const parsedEntry = new fastXmlParser.XMLParser({
       ignoreAttributes: false,
       parseTagValue: false,
@@ -259,12 +265,14 @@ async function createEntries(
             lexDomain["#text"] = "";
           }
 
-          let lexCoreDomains = lexMeaning["LEXCoreDomains"]["LEXCoreDomain"];
-          if (!Array.isArray(lexCoreDomains)) {
-            lexCoreDomains = [lexCoreDomains];
-          }
-          for (const lexCoreDomain of lexCoreDomains) {
-            lexCoreDomain["#text"] = "";
+          if (lexMeaning["LEXCoreDomains"]?.["LEXCoreDomain"]) {
+            let lexCoreDomains = lexMeaning["LEXCoreDomains"]["LEXCoreDomain"];
+            if (!Array.isArray(lexCoreDomains)) {
+              lexCoreDomains = [lexCoreDomains];
+            }
+            for (const lexCoreDomain of lexCoreDomains) {
+              lexCoreDomain["#text"] = "";
+            }
           }
         } else if (langName === "greek") {
           if (!Array.isArray(lexMeaning["LEXDomains"]["LEXDomain"])) {
@@ -273,10 +281,12 @@ async function createEntries(
             lexMeaning["LEXDomains"]["LEXDomain"].fill("");
           }
 
-          if (!Array.isArray(lexMeaning["LEXSubDomains"]["LEXSubDomain"])) {
-            lexMeaning["LEXSubDomains"]["LEXSubDomain"] = "";
-          } else {
-            lexMeaning["LEXSubDomains"]["LEXSubDomain"].fill("");
+          if (lexMeaning["LEXSubDomains"]?.["LEXSubDomain"]) {
+            if (!Array.isArray(lexMeaning["LEXSubDomains"]["LEXSubDomain"])) {
+              lexMeaning["LEXSubDomains"]["LEXSubDomain"] = "";
+            } else {
+              lexMeaning["LEXSubDomains"]["LEXSubDomain"].fill("");
+            }
           }
         }
 
@@ -302,32 +312,57 @@ async function createEntries(
       }).build(parsedEntry)
     );
   }
-  console.log(entries.length);
-  await Promise.all(
-    entries.map(
-      async (entry: Entry) =>
-        await Promise.all([
-          vscode.workspace.fs.writeFile(
-            vscode.Uri.joinPath(
-              projectUri,
-              "files",
-              "source",
-              langName,
-              entry.name
-            ),
-            entry.content
-          ),
-          vscode.workspace.fs.writeFile(
-            vscode.Uri.joinPath(
-              projectUri,
-              "files",
-              "target",
-              langName,
-              entry.name
-            ),
-            await stripTranslatableText(entry.content.toString())
-          ),
-        ])
-    )
-  );
+  for (const entry of entries) {
+    await Promise.all([
+      vscode.workspace.fs.writeFile(
+        vscode.Uri.joinPath(
+          projectUri,
+          "files",
+          "source",
+          langName,
+          entry.name
+        ),
+        entry.content
+      ),
+      vscode.workspace.fs.writeFile(
+        vscode.Uri.joinPath(
+          projectUri,
+          "files",
+          "target",
+          langName,
+          entry.name
+        ),
+        new Uint8Array() ||
+          (await stripTranslatableText(entry.content.toString(), langName))
+      ),
+    ]);
+  }
+  // await Promise.all(
+  //   entries.map(
+  //     async (entry: Entry) =>
+  //       await Promise.all([
+  //         vscode.workspace.fs.writeFile(
+  //           vscode.Uri.joinPath(
+  //             projectUri,
+  //             "files",
+  //             "source",
+  //             langName,
+  //             entry.name
+  //           ),
+  //           entry.content
+  //         ),
+  //         vscode.workspace.fs.writeFile(
+  //           vscode.Uri.joinPath(
+  //             projectUri,
+  //             "files",
+  //             "target",
+  //             langName,
+  //             entry.name
+  //           ),
+  //           new Uint8Array() ||
+  //             (await stripTranslatableText(entry.content.toString(), langName))
+  //         ),
+  //       ])
+  //   )
+  // );
 }
