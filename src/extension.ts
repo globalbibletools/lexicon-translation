@@ -13,14 +13,19 @@ export async function activate(context: vscode.ExtensionContext) {
     'Congratulations, your extension "lexicon-translation" is now active!'
   );
 
-  context.subscriptions.push(vscode.commands.registerCommand(
-    "gbt-project-management.createNewProject",
-    () => createNewProject(context)
-  ));
+  context.subscriptions.push(
+    vscode.commands.registerCommand(
+      "lexicon-translation.createNewProject",
+      () => createNewProject(context)
+    )
+  );
 
   const lemmaTreeDataProvider = new LemmaTreeDataProvider();
   await lemmaTreeDataProvider.initialize(); // Wait for initialization
-  const lemmaTreeView = vscode.window.createTreeView("lexicon-translation.treeView-lemma", { treeDataProvider: lemmaTreeDataProvider, showCollapseAll: true });
+  const lemmaTreeView = vscode.window.createTreeView(
+    "lexicon-translation.treeView-lemma",
+    { treeDataProvider: lemmaTreeDataProvider, showCollapseAll: true }
+  );
   context.subscriptions.push(lemmaTreeView);
 }
 
