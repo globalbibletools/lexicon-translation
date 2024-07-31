@@ -16,7 +16,7 @@
     "commands": [
       {
         "command": "lexicon-translation.createNewProject",
-        "title": "GBT: Create New Project"
+        "title": "Lexicon Translation: Create New Project"
       }
     ],
     "views": {
@@ -43,15 +43,17 @@
     "test": "vscode-test"
   },
   "devDependencies": {
+    "@types/vscode": "^1.90.0",
     "@types/mocha": "^10.0.6",
     "@types/node": "18.x",
-    "@types/vscode": "^1.90.0",
     "@typescript-eslint/eslint-plugin": "^7.4.0",
     "@typescript-eslint/parser": "^7.4.0",
-    "@vscode/test-cli": "^0.0.8",
-    "@vscode/test-electron": "^2.3.9",
+    "esbuild": "^0.21.4",
+    "npm-run-all": "^4.1.5",
+    "typescript": "^5.4.5",
     "eslint": "^8.57.0",
-    "typescript": "^5.3.3"
+    "@vscode/test-cli": "^0.0.9",
+    "@vscode/test-electron": "^2.4.0"
   },
   "dependencies": {
     "fast-xml-parser": "^4.4.0"
