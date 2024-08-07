@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="001078000000000" Lemma="בעט" Version="5" HasAramaic="false" InLXX="false" AlphaPos="ב">
+  <StrongCodes>
+    <Strong>H1163</Strong>
+  </StrongCodes>
+  <Authors>
+    <Author>Enio R. Mueller</Author>
+  </Authors>
+  <Contributors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes>
+    <Note Caller="1" LanguageCode="en" LastEdited="" LastEditedBy="">
+      <References>
+        <Reference>00900202900004</Reference>
+      </References>
+      <Content>NJPS &quot;trample upon&quot; preserves the image of the metaphor | NIV &quot;scorn&quot; | REB (CEV) &quot;disrespect&quot; give the meaning. RSV NRSV (GNT) &quot;look with greed&quot; follow LXX (supported by a Qumran manuscript) επεβλεψασ επι (hebr. תביט ). Cf. the note in Stoebe 116.</Content>
+    </Note>
+  </Notes>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="001078001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech/>
+      </PartsOfSpeech>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="001078001001000" IsBiblicalTerm="Y" EntryCode="" Indent="0">
+          <LEXDomains>
+            <LEXDomain Code="002001001058"/>
+          </LEXDomains>
+          <LEXForms>
+            <LEXForm>vbqal-</LEXForm>
+          </LEXForms>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2015-03-19 14:13:50" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort/>
+              <Glosses>
+                <Gloss/>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>00503201500010</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+          <LEXCoreDomains>
+            <LEXCoreDomain Code="019"/>
+          </LEXCoreDomains>
+        </LEXMeaning>
+        <LEXMeaning Id="001078001002000" IsBiblicalTerm="Y" EntryCode="" Indent="0">
+          <LEXDomains>
+            <LEXDomain Code="002001002005" Source="Stance" SourceCode="002001001058"/>
+          </LEXDomains>
+          <LEXForms>
+            <LEXForm>vbqal-</LEXForm>
+          </LEXForms>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2015-03-19 14:13:50" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort/>
+              <Glosses>
+                <Gloss/>
+                <Gloss/>
+                <Gloss/>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>00900202900004{N:001}</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+          <LEXCoreDomains>
+            <LEXCoreDomain Code="170" Source="Body" SourceCode="019"/>
+          </LEXCoreDomains>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

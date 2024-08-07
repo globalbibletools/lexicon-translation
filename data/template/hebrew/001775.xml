@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="001775000000000" Lemma="הֲדָרָה" Version="5" HasAramaic="false" InLXX="false" AlphaPos="ה">
+  <StrongCodes>
+    <Strong>H1927</Strong>
+  </StrongCodes>
+  <Authors>
+    <Author>Enio R. Mueller</Author>
+  </Authors>
+  <Contributors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes>
+    <Note Caller="1" LanguageCode="en" LastEdited="" LastEditedBy="">
+      <References>
+        <Reference>01301602900032</Reference>
+      </References>
+      <Content>MT RSV &quot;in holy array&quot; NIV ESV &quot;splendor of holiness&quot; Knoppers NJPS &quot;majestic in holiness&quot; NRSV &quot;in holy splendor&quot; REB &quot;in holy attire&quot; | LXX &quot;ἐν αὐλαῖς ἁγίαις αὐτοῦ&quot; NJB &quot;in his sacred court&quot;</Content>
+    </Note>
+    <Note Caller="2" LanguageCode="en" LastEdited="" LastEditedBy="">
+      <References>
+        <Reference>01402002100028</Reference>
+      </References>
+      <Content>MT RSV &quot;in holy array&quot; NIV &quot;splendor of holiness&quot; NJPS &quot;majestic in holiness&quot; NJB &quot;in sacred vestments&quot; NRSV &quot;in holy splendor&quot; ESV &quot;in holy attire&quot; | LXX &quot;αἰνεῖν τὰ ἅγια&quot;</Content>
+    </Note>
+    <Note Caller="3" LanguageCode="en" LastEdited="" LastEditedBy="">
+      <References>
+        <Reference>01902900200020</Reference>
+        <Reference>01909600900010</Reference>
+      </References>
+      <Content>MT RSV &quot;in holy array&quot; NIV NJB ESV &quot;splendor of holiness&quot; NJPS &quot;majestic in holiness&quot; NRSV &quot;in holy splendor&quot; REB &quot;in holy attire&quot; | LXX &quot;ἐν αὐλῇ ἁγίᾳ αὐτοῦ&quot;</Content>
+    </Note>
+  </Notes>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="001775001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech/>
+      </PartsOfSpeech>
+      <RelatedLemmas>
+        <RelatedLemma>
+          <Word>הדר</Word>
+        </RelatedLemma>
+        <RelatedLemma>
+          <Word>הָדָר</Word>
+        </RelatedLemma>
+      </RelatedLemmas>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="001775001001000" IsBiblicalTerm="M" EntryCode="" Indent="0">
+          <LEXDomains>
+            <LEXDomain Code="002001002012"/>
+          </LEXDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2017-09-04 12:40:52" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort/>
+              <Glosses>
+                <Gloss/>
+                <Gloss/>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>01301602900032{N:001}</LEXReference>
+            <LEXReference>01402002100028{N:002}</LEXReference>
+            <LEXReference>01902900200020{N:003}</LEXReference>
+            <LEXReference>01909600900010{N:003}</LEXReference>
+            <LEXReference>02001402800008</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+          <LEXCoreDomains>
+            <LEXCoreDomain Code="170"/>
+          </LEXCoreDomains>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

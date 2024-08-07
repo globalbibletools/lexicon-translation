@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="001958000000000" Lemma="זיד" Version="5" HasAramaic InLXX="false" AlphaPos="ז">
+  <StrongCodes>
+    <Strong>H2102</Strong>
+    <Strong>A2103</Strong>
+  </StrongCodes>
+  <Authors>
+    <Author>Lénart J. de Regt; Enio R. Mueller</Author>
+  </Authors>
+  <Contributors/>
+  <AlternateLemmas>
+    <AlternateLemma>זוד</AlternateLemma>
+  </AlternateLemmas>
+  <MainLinks/>
+  <Notes/>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="001958001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech/>
+      </PartsOfSpeech>
+      <RelatedLemmas>
+        <RelatedLemma>
+          <Word>זֵד</Word>
+        </RelatedLemma>
+        <RelatedLemma>
+          <Word>זָדֹון</Word>
+        </RelatedLemma>
+        <RelatedLemma>
+          <Word>זֵידֹון</Word>
+        </RelatedLemma>
+        <RelatedLemma>
+          <Word>נָזִיד</Word>
+        </RelatedLemma>
+      </RelatedLemmas>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="001958001001000" IsBiblicalTerm="M" EntryCode="" Indent="0">
+          <LEXDomains>
+            <LEXDomain Code="002001001017"/>
+          </LEXDomains>
+          <LEXForms>
+            <LEXForm>vbhif-</LEXForm>
+          </LEXForms>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2017-03-08 16:50:25" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort/>
+              <Glosses>
+                <Gloss/>
+                <Gloss/>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>00102502900004</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+          <LEXCoreDomains>
+            <LEXCoreDomain Code="081"/>
+            <LEXCoreDomain Code="069"/>
+          </LEXCoreDomains>
+        </LEXMeaning>
+        <LEXMeaning Id="001958001002000" IsBiblicalTerm="M" EntryCode="" Indent="0">
+          <LEXDomains>
+            <LEXDomain Code="002001002031" Source="Cooked" SourceCode="002001001017"/>
+          </LEXDomains>
+          <LEXForms>
+            <LEXForm>vbqal-</LEXForm>
+            <LEXForm>vbhif-</LEXForm>
+          </LEXForms>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2017-03-08 16:50:25" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort/>
+              <Glosses>
+                <Gloss/>
+                <Gloss/>
+                <Gloss/>
+                <Gloss/>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>00201801100030</LEXReference>
+            <LEXReference>00202101400006</LEXReference>
+            <LEXReference>00500104300026</LEXReference>
+            <LEXReference>00501701300020</LEXReference>
+            <LEXReference>00501802000010</LEXReference>
+            <LEXReference>01600901000040</LEXReference>
+            <LEXReference>01600901600010</LEXReference>
+            <LEXReference>01600902900020</LEXReference>
+            <LEXReference>02405002900058</LEXReference>
+            <LEXReference>02700502000020</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+          <LEXCoreDomains>
+            <LEXCoreDomain Code="197"/>
+            <LEXCoreDomain Code="170"/>
+          </LEXCoreDomains>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

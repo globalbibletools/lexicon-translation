@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="001297000000000" Lemma="גְּדוּד" Version="5" HasAramaic="false" InLXX="false" AlphaPos="ג">
+  <StrongCodes>
+    <Strong>H1416</Strong>
+    <Strong>H1417</Strong>
+  </StrongCodes>
+  <Authors>
+    <Author>Enio R. Mueller</Author>
+  </Authors>
+  <Contributors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes>
+    <Note Caller="1" LanguageCode="en" LastEdited="" LastEditedBy="">
+      <References>
+        <Reference>01002203000008</Reference>
+        <Reference>01901803000008</Reference>
+      </References>
+      <Content>RSV NIV NRSV ESV &quot;troop&quot; GNT &quot;enemies&quot; CEV &quot;armies&quot; = [1] | NJPS &quot;barrier&quot; NJB REB &quot;rampart&quot; = [2]</Content>
+    </Note>
+    <Note Caller="2" LanguageCode="en" LastEdited="" LastEditedBy="">
+      <References>
+        <Reference>03300401400008</Reference>
+      </References>
+      <Content>MT HOTTP-B NIV ESV &quot;troops&quot; = [1] | RSV NRSV &quot;with a wall&quot; REB &quot;behind your walls&quot; = {L:גָּדֵר&lt;SDBH:גָּדֵר&gt;} | NJPS &quot;in grief&quot;</Content>
+    </Note>
+  </Notes>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="001297001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech/>
+      </PartsOfSpeech>
+      <RelatedLemmas>
+        <RelatedLemma>
+          <Word>גדד</Word>
+        </RelatedLemma>
+      </RelatedLemmas>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="001297001001000" IsBiblicalTerm="Y" EntryCode="" Indent="0">
+          <LEXDomains>
+            <LEXDomain Code="001001002003004"/>
+            <LEXDomain Code="001001002003013"/>
+          </LEXDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2016-12-28 15:23:35" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort/>
+              <Glosses>
+                <Gloss/>
+                <Gloss/>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>00104901900004</LEXReference>
+            <LEXReference>00903000800022</LEXReference>
+            <LEXReference>00903001500018</LEXReference>
+            <LEXReference>00903001500060</LEXReference>
+            <LEXReference>00903002300040</LEXReference>
+            <LEXReference>01000302200020</LEXReference>
+            <LEXReference>01000400200010</LEXReference>
+            <LEXReference>01002203000008{N:001}</LEXReference>
+            <LEXReference>01101102400016</LEXReference>
+            <LEXReference>01200500200008</LEXReference>
+            <LEXReference>01200602300040</LEXReference>
+            <LEXReference>01201302000014</LEXReference>
+            <LEXReference>01201302100022</LEXReference>
+            <LEXReference>01202400200012</LEXReference>
+            <LEXReference>01202400200020</LEXReference>
+            <LEXReference>01202400200028</LEXReference>
+            <LEXReference>01202400200036</LEXReference>
+            <LEXReference>01300700400016</LEXReference>
+            <LEXReference>01301201900068</LEXReference>
+            <LEXReference>01301202200016</LEXReference>
+            <LEXReference>01402200100034</LEXReference>
+            <LEXReference>01402500900038</LEXReference>
+            <LEXReference>01402501000012</LEXReference>
+            <LEXReference>01402501300008</LEXReference>
+            <LEXReference>01402601100022</LEXReference>
+            <LEXReference>01801901200006</LEXReference>
+            <LEXReference>01802500300010</LEXReference>
+            <LEXReference>01802902500024</LEXReference>
+            <LEXReference>01901803000008{N:001}</LEXReference>
+            <LEXReference>02401802200016</LEXReference>
+            <LEXReference>02800600900010</LEXReference>
+            <LEXReference>02800700100038</LEXReference>
+            <LEXReference>03300401400008{N:002}</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+          <LEXCoreDomains>
+            <LEXCoreDomain Code="074"/>
+            <LEXCoreDomain Code="006"/>
+            <LEXCoreDomain Code="188"/>
+            <LEXCoreDomain Code="082"/>
+          </LEXCoreDomains>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+    <BaseForm Id="001297002000000">
+      <PartsOfSpeech>
+        <PartOfSpeech/>
+      </PartsOfSpeech>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="001297002001000" IsBiblicalTerm="Y" EntryCode="" Indent="0">
+          <LEXDomains>
+            <LEXDomain Code="001005002002002"/>
+          </LEXDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2016-12-28 15:23:35" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort/>
+              <Glosses>
+                <Gloss/>
+                <Gloss/>
+                <Gloss/>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>01002203000008{N:001}</LEXReference>
+            <LEXReference>01901803000008{N:001}</LEXReference>
+            <LEXReference>01906501100008</LEXReference>
+          </LEXReferences>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

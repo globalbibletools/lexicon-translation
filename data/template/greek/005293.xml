@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="005293000000000" Lemma="φοῖνιξ" Version="0" HasAramaic="false" InLXX AlphaPos="φ">
+  <StrongCodes>
+    <Strong>G5404</Strong>
+  </StrongCodes>
+  <Authors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes>
+    <Note Caller="1" LanguageCode="en" LastEdited="" LastEditedBy="">
+      <References/>
+      <Content>Though in English it is generally the custom to speak of what in Greek is βάϊον or φοῖνιξ ({D:3.53}) as a palm branch, technically it is only a very large leaf, for there are no buds on these so-called branches.</Content>
+    </Note>
+  </Notes>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="005293001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech/>
+      </PartsOfSpeech>
+      <Inflections>
+        <Inflection Lemma="φοῖνιξ" BaseFormIndex="1">
+          <Form/>
+          <Realizations>
+            <Realization>-ικος</Realization>
+          </Realizations>
+          <Comments/>
+        </Inflection>
+      </Inflections>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="005293001001000" IsBiblicalTerm="M" EntryCode="3.8" Indent="0">
+          <LEXDomains>
+            <LEXDomain/>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain/>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2022-05-30 13:21:58" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort/>
+              <Glosses>
+                <Gloss/>
+              </Glosses>
+              <Comments>See discussion at {D:3.53}.</Comments>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>04301201300010</LEXReference>
+            <LEXReference>06600700900068</LEXReference>
+          </LEXReferences>
+          <LEXLinks>
+            <LEXLink>flora:2.5</LEXLink>
+          </LEXLinks>
+          <LEXVideos/>
+        </LEXMeaning>
+        <LEXMeaning Id="005293001002000" IsBiblicalTerm="M" EntryCode="3.53" Indent="0">
+          <LEXDomains>
+            <LEXDomain/>
+          </LEXDomains>
+          <LEXSubDomains>
+            <LEXSubDomain/>
+          </LEXSubDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2022-05-30 13:21:58" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort/>
+              <Glosses>
+                <Gloss/>
+              </Glosses>
+              <Comments>βάϊον is a technical term meaning ‘palm branch,’ and in {S:04301201300010} τῶν φοινίκων ‘of palm trees’ may have been added redundantly, since the term βάϊον may not have been regarded as sufficiently well known to readers.|In the contexts in which {L:φοῖνιξ&lt;SDBG:φοῖνιξ:000000&gt;}[a] ({S:04301201300010}; see {D:3.8}) and φοῖνιξ[b] ({S:06600700900068}) occur in the NT, it is important to obtain a satisfactory term for branch, since in a number of languages a very important distinction is made between branches of palm trees, which are often called leaves (technically they are), and branches of most other trees (often spoken of idiomatically as arms of the trees).</Comments>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>06600700900068</LEXReference>
+          </LEXReferences>
+          <LEXLinks>
+            <LEXLink>flora:2.5</LEXLink>
+          </LEXLinks>
+          <LEXVideos/>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="002966000000000" Lemma="יַנְשֹׁוף" Version="5" HasAramaic="false" InLXX="false" AlphaPos="י">
+  <StrongCodes>
+    <Strong>H3244</Strong>
+  </StrongCodes>
+  <Authors>
+    <Author>Reinier de Blois</Author>
+  </Authors>
+  <Contributors/>
+  <AlternateLemmas>
+    <AlternateLemma>יַנְשׁוּף</AlternateLemma>
+  </AlternateLemmas>
+  <MainLinks/>
+  <Notes>
+    <Note Caller="1" LanguageCode="en" LastEdited="" LastEditedBy="">
+      <References>
+        <Reference>00301101700024</Reference>
+      </References>
+      <Content>RSV &quot;ibis&quot;, NIV NJPS NRSV &quot;great owl&quot; | NJB &quot;barn owl&quot;, REB &quot;screech-owl&quot;</Content>
+    </Note>
+    <Note Caller="2" LanguageCode="en" LastEdited="" LastEditedBy="">
+      <References>
+        <Reference>00501401600014</Reference>
+      </References>
+      <Content>RSV NIV NJPS NRSV &quot;great owl&quot; | NJB &quot;barn owl&quot; | REB &quot;screech-owl&quot;</Content>
+    </Note>
+    <Note Caller="3" LanguageCode="en" LastEdited="" LastEditedBy="">
+      <References>
+        <Reference>02303401100014</Reference>
+      </References>
+      <Content>RSV NRSV NJB &quot;owl&quot; | NIV NJPS &quot;great owl&quot; | REB &quot;screech-owl&quot;</Content>
+    </Note>
+  </Notes>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="002966001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech/>
+      </PartsOfSpeech>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="002966001001000" IsBiblicalTerm="M" EntryCode="" Indent="0">
+          <LEXDomains>
+            <LEXDomain Code="001001002001005"/>
+          </LEXDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2015-12-28 11:31:46" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort/>
+              <Glosses>
+                <Gloss/>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>00301101700024{N:001}</LEXReference>
+            <LEXReference>00501401600014{N:002}</LEXReference>
+            <LEXReference>02303401100014{N:003}</LEXReference>
+          </LEXReferences>
+          <LEXLinks>
+            <LEXLink>Fauna:3.17.2</LEXLink>
+          </LEXLinks>
+          <LEXVideos/>
+          <LEXCoreDomains>
+            <LEXCoreDomain Code="010"/>
+          </LEXCoreDomains>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>

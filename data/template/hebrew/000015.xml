@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Lexicon_Entry Id="000015000000000" Lemma="אֵבוּס" Version="5" HasAramaic="false" InLXX="false" AlphaPos="א">
+  <StrongCodes>
+    <Strong>H0018</Strong>
+  </StrongCodes>
+  <Authors>
+    <Author>Reinier de Blois</Author>
+  </Authors>
+  <Contributors/>
+  <AlternateLemmas/>
+  <MainLinks/>
+  <Notes>
+    <Note Caller="1" LanguageCode="en" LastEdited="" LastEditedBy="">
+      <References>
+        <Reference>01803900900016</Reference>
+      </References>
+      <Content>{A:RSV} {A:NJPS} {A:NRSV} &quot;crib&quot; {A:NIV} {A:NJB} &quot;manger&quot; | {A:REB} &quot;stall&quot; {A:GNT} &quot;stable&quot; | {A:CEV} &quot;barn&quot;</Content>
+    </Note>
+    <Note Caller="2" LanguageCode="en" LastEdited="" LastEditedBy="">
+      <References>
+        <Reference>02300100300012</Reference>
+      </References>
+      <Content>{A:RSV} {A:NIV} {A:NJPS} {A:NJB} {A:NRSV} &quot;crib&quot; {A:NIV} &quot;manger&quot; | {A:REB} &quot;stall&quot;</Content>
+    </Note>
+    <Note Caller="3" LanguageCode="en" LastEdited="" LastEditedBy="">
+      <References>
+        <Reference>02001400400008</Reference>
+      </References>
+      <Content>{A:NIV} {A:NJB} &quot;manger&quot; {A:NJPS} &quot;crib&quot; | {A:REB} {A:GNT} &quot;barn&quot;</Content>
+    </Note>
+  </Notes>
+  <ContributorNote/>
+  <BaseForms>
+    <BaseForm Id="000015001000000">
+      <PartsOfSpeech>
+        <PartOfSpeech/>
+      </PartsOfSpeech>
+      <RelatedLemmas>
+        <RelatedLemma>
+          <Word>אבס</Word>
+        </RelatedLemma>
+      </RelatedLemmas>
+      <BaseFormLinks/>
+      <LEXMeanings>
+        <LEXMeaning Id="000015001001000" IsBiblicalTerm="M" EntryCode="" Indent="0">
+          <LEXDomains>
+            <LEXDomain Code="001004001003"/>
+          </LEXDomains>
+          <LEXSenses>
+            <LEXSense LanguageCode="en" LastEdited="2015-12-19 10:16:00" LastEditedBy="">
+              <DefinitionLong/>
+              <DefinitionShort/>
+              <Glosses>
+                <Gloss/>
+                <Gloss/>
+                <Gloss/>
+              </Glosses>
+              <Comments/>
+            </LEXSense>
+          </LEXSenses>
+          <LEXReferences>
+            <LEXReference>01803900900016{N:001}</LEXReference>
+            <LEXReference>02001400400008{N:003}</LEXReference>
+            <LEXReference>02300100300012{N:002}</LEXReference>
+          </LEXReferences>
+          <LEXLinks>
+            <LEXLink>Realia:1.2.3</LEXLink>
+          </LEXLinks>
+          <LEXVideos/>
+          <LEXCoreDomains>
+            <LEXCoreDomain Code="027"/>
+            <LEXCoreDomain Code="171"/>
+            <LEXCoreDomain Code="069"/>
+            <LEXCoreDomain Code="010"/>
+          </LEXCoreDomains>
+        </LEXMeaning>
+      </LEXMeanings>
+    </BaseForm>
+  </BaseForms>
+</Lexicon_Entry>
