@@ -35,10 +35,6 @@ export default async function createNewProject(
     "data",
     projectDetails.sourceLanguage.Id
   );
-  const templateUri = vscode.Uri.joinPath(
-    context.extensionUri,
-    "data/template"
-  );
   const projectUri = (
     await vscode.window.showOpenDialog({
       canSelectFolders: true,
@@ -71,7 +67,7 @@ export default async function createNewProject(
   try {
     await createProjectMetadata(projectUri, projectDetails);
     await createProjectStructure(projectUri);
-    await populateProjectFiles(projectUri, sourceLanguageUri, templateUri);
+    await populateProjectFiles(projectUri, sourceLanguageUri);
   } catch (e) {
     vscode.window.showErrorMessage(`Error: ${e}`);
     return;
@@ -184,8 +180,7 @@ async function createProjectStructure(projectUri: vscode.Uri) {
 
 async function populateProjectFiles(
   projectUri: vscode.Uri,
-  langUri: vscode.Uri,
-  templateUri: vscode.Uri
+  langUri: vscode.Uri
 ) {
   await Promise.all([
     fs.cp(
@@ -194,7 +189,7 @@ async function populateProjectFiles(
       { recursive: true }
     ),
     fs.cp(
-      templateUri.fsPath,
+      langUri.fsPath,
       vscode.Uri.joinPath(projectUri, "files", "target").fsPath,
       { recursive: true }
     ),
