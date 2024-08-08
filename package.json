@@ -13,6 +13,12 @@
   "activationEvents": [],
   "main": "./dist/extension.js",
   "contributes": {
+    "commands": [
+      {
+        "command": "lexicon-translation.createNewProject",
+        "title": "Lexicon Translation: Create New Project"
+      }
+    ],
     "views": {
       "explorer": [
         {
@@ -48,5 +54,8 @@
     "typescript": "^5.4.5",
     "@vscode/test-cli": "^0.0.9",
     "@vscode/test-electron": "^2.4.0"
+  },
+  "dependencies": {
+    "fast-xml-parser": "^4.4.0"
   }
 }
